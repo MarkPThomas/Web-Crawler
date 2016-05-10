@@ -1,0 +1,33 @@
+Always run ruby files from the root directory with:
+$ ruby [relative path]\[name].rb
+
+Any ruby program can be stopped on the command line by simply hitting CTRL-c. 
+
+
+========== Tests ================
+Run tests with: 
+
+$ rake test
+
+Test files go in tests/ and are named test_BLAH.rb otherwise rake test won't run them. 
+This also keeps your tests from clashing with your other code.
+
+Write one test file for each module you make.
+
+
+=========== Server ===============
+Sinatra is the server
+Use app.rb in the gothonweb project as a template for running the server from a ruby file
+When running Sinatra, close it with ctrl-c
+
+When you make a change to your Sinatra application you need to stop it and run it again. 
+Simply hit CTRL-c and it will stop. 
+Then run the command ruby bin/app.rb again to start it. 
+You can also use a tool called rerun to automate this. 
+
+Use it like this:
+
+$ rerun 'ruby bin/app.rb'
+
+Now make a change to the bin/app.rb file that's small and it should stop then rerun your Sinatra application. 
+It can take a few seconds for rerun to detect the change, but it should work.
