@@ -1,0 +1,606 @@
+route_name: Threading the Needle 
+route_url: /v/threading-the-needle/106053351 
+
+route_name: El Matador 
+route_url: /v/el-matador/105714944 
+
+route_name: Centennial 
+route_url: /v/centennial/105715670 
+
+route_name: Short Circuit 
+route_url: /v/short-circuit/105982745 
+
+route_name: Short Circuit Chimney 
+route_url: /v/short-circuit-chimney/107326329 
+
+route_name: Application 
+route_url: /v/application/106784250 
+
+route_name: Midterm 
+route_url: /v/midterm/105915149 
+
+route_name: Cookie Left Side 
+route_url: /v/cookie-left-side/106681929 
+
+route_name: The Cookie-Center 
+route_url: /v/the-cookie-center/105874665 
+
+route_name: Vendetta 
+route_url: /v/vendetta/106392021 
+
+route_name: The Enigma 
+route_url: /v/the-enigma/106452787 
+
+route_name: The Enema 
+route_url: /v/the-enema/106026182 
+
+route_name: Meat Grinder 
+route_url: /v/meat-grinder/105872329 
+
+route_name: Northwest Corner 
+route_url: /v/northwest-corner/106691676 
+
+route_name: Knob Hill Ropest 
+route_url: /v/knob-hill-ropest/105877588 
+
+route_name: Deception Gully 
+route_url: /v/deception-gully/105877591 
+
+route_name: Cool Wheel (aka The Gauntlet) 
+route_url: /v/cool-wheel-aka-the-gauntlet/107095420 
+
+route_name: Moby Dick, Left 
+route_url: /v/moby-dick-left/105874492 
+
+route_name: Sacherer Cracker 
+route_url: /v/sacherer-cracker/105945535 
+
+route_name: The Slack ( center) 
+route_url: /v/the-slack--center/106410313 
+
+route_name: The Slack, Left 
+route_url: /v/the-slack-left/107032569 
+
+route_name: El Cap Tree 
+route_url: /v/el-cap-tree/107057624 
+
+route_name: East Chimney 
+route_url: /v/east-chimney/107409633 
+
+route_name: West Face 
+route_url: /v/west-face/107414775 
+
+route_name: The Good Book 
+route_url: /v/the-good-book/105865214 
+
+route_name: Manual Labor 
+route_url: /v/manual-labor/106049472 
+
+route_name: Finger Crack 
+route_url: /v/finger-crack/106049459 
+
+route_name: Henley Quits 
+route_url: /v/henley-quits/105945935 
+
+route_name: 1096 
+route_url: /v/1096/105993699 
+
+route_name: Mental Block 
+route_url: /v/mental-block/106066243 
+
+route_name: The Sphinxter 
+route_url: /v/the-sphinxter/106616050 
+
+route_name: Hari-Kiri 
+route_url: /v/hari-kiri/106616004 
+
+route_name: Tilted Mitten, Left Side 
+route_url: /v/tilted-mitten-left-side/107130132 
+
+route_name: Ying-Yang 
+route_url: /v/ying-yang/107201090 
+
+route_name: Steck-Salathe 
+route_url: /v/steck-salathe/105862873 
+
+route_name: Braille Book 
+route_url: /v/braille-book/105833552 
+
+route_name: Hermaphrodite Flake 
+route_url: /v/hermaphrodite-flake/105836052 
+
+route_name: West Country 
+route_url: /v/west-country/105836047 
+
+route_name: Boltway 
+route_url: /v/boltway/106015648 
+
+route_name: Eunuch 
+route_url: /v/eunuch/105859447 
+
+route_name: The Yawn 
+route_url: /v/the-yawn/105903295 
+
+route_name: Hair Shirt 
+route_url: /v/hair-shirt/105735518 
+
+route_name: Harding's Other Chimney 
+route_url: /v/hardings-other-chimney/105910699 
+
+route_name: TM's Deviation 
+route_url: /v/tms-deviation/105911338 
+
+route_name: St Jeans Couloir 
+route_url: /v/st-jeans-couloir/106847063 
+
+route_name: West Arete 
+route_url: /v/west-arete/106083279 
+
+route_name: Direct North Buttress 
+route_url: /v/direct-north-buttress/106170636 
+
+route_name: V-Notch Couloir 
+route_url: /v/v-notch-couloir/106537181 
+
+route_name: Nightingale Arete 
+route_url: /v/nightingale-arete/107041159 
+
+route_name: Wages of Skin 
+route_url: /v/wages-of-skin/106097731 
+
+route_name: 3 Amigos 
+route_url: /v/3-amigos/105934452 
+
+route_name: Great Chockstone, The 
+route_url: /v/great-chockstone-the/105741401 
+
+route_name: Lazarus 
+route_url: /v/lazarus/105942904 
+
+route_name: Paraplegic Ward 
+route_url: /v/paraplegic-ward/105741620 
+
+route_name: Certain Death 
+route_url: /v/certain-death/105864166 
+
+route_name: Regular Route 
+route_url: /v/regular-route/105957287 
+
+route_name: Left Nut 
+route_url: /v/left-nut/105968238 
+
+route_name: The Right Nut 
+route_url: /v/the-right-nut/106311680 
+
+route_name: The Phallus 
+route_url: /v/the-phallus/105954589 
+
+route_name: Standard Route 
+route_url: /v/standard-route/105920520 
+
+route_name: West Crack 
+route_url: /v/west-crack/105717448 
+
+route_name: Nutcracker 
+route_url: /v/nutcracker/105956153 
+
+route_name: The Doil 
+route_url: /v/the-doil/105956610 
+
+route_name: Gorilla 
+route_url: /v/gorilla/105717424 
+
+route_name: 3AM Crack 
+route_url: /v/3am-crack/105717766 
+
+route_name: Comfortably Numb 
+route_url: /v/comfortably-numb/106179143 
+
+route_name: Lightning Bolt Cracks 
+route_url: /v/lightning-bolt-cracks/105717598 
+
+route_name: Blue Sun 
+route_url: /v/blue-sun/105718435 
+
+route_name: First Blood 
+route_url: /v/first-blood/107108031 
+
+route_name: Mr. Peanut 
+route_url: /v/mr-peanut/105886700 
+
+route_name: Elephant Man 
+route_url: /v/elephant-man/105717661 
+
+route_name: Chocolate Corner 
+route_url: /v/chocolate-corner/105717349 
+
+route_name: Cooler than Jesus 
+route_url: /v/cooler-than-jesus/105718447 
+
+route_name: Honeymoon Chimney 
+route_url: /v/honeymoon-chimney/105717292 
+
+route_name: Anorexia 
+route_url: /v/anorexia/106349773 
+
+route_name: West Face 
+route_url: /v/west-face/105916323 
+
+route_name: West Face 
+route_url: /v/west-face/105717538 
+
+route_name: Speak  No Evil 
+route_url: /v/speak-no-evil/105954523 
+
+route_name: Virgin Wool 
+route_url: /v/virgin-wool/105926324 
+
+route_name: Bubo 
+route_url: /v/bubo/105717838 
+
+route_name: Be There or Be Talked About 
+route_url: /v/be-there-or-be-talked-about/105966757 
+
+route_name: Zenyatta Entrada 
+route_url: /v/zenyatta-entrada/105717340 
+
+route_name: Eye of the Newt 
+route_url: /v/eye-of-the-newt/106504048 
+
+route_name: West Chimney 
+route_url: /v/west-chimney/105718453 
+
+route_name: Finger of Fate 
+route_url: /v/finger-of-fate/105717568 
+
+route_name: Liberty Crack 
+route_url: /v/liberty-crack/106512297 
+
+route_name: The Direct North Ridge w/ Gendarme 
+route_url: /v/the-direct-north-ridge-w-gendarme/106245725 
+
+route_name: Northeast Buttress 
+route_url: /v/northeast-buttress/106108831 
+
+route_name: Centre Ice Bulge Direct 
+route_url: /v/centre-ice-bulge-direct/106086613 
+
+route_name: East Ridge 
+route_url: /v/east-ridge/106997654 
+
+route_name: North Face - Chouinard/Beckey/Doody 
+route_url: /v/north-face---chouinardbeckeydoody/105941738 
+
+route_name: Kain Face 
+route_url: /v/kain-face/106998345 
+
+route_name:  Wiessner's Route (aka SE Corner) 
+route_url: /v/-wiessners-route-aka-se-corner/106001260 
+
+route_name: Sunshine Crack 
+route_url: /v/sunshine-crack/105868170 
+
+route_name: McTech Arete 
+route_url: /v/mctech-arete/105872943 
+
+route_name: Paddle Flake Direct 
+route_url: /v/paddle-flake-direct/105869571 
+
+route_name: McTech Roof 
+route_url: /v/mctech-roof/107227174 
+
+route_name: Bugaboo Corner 
+route_url: /v/bugaboo-corner/106971164 
+
+route_name: Southeast Face 
+route_url: /v/southeast-face/105905655 
+
+route_name: Open Book 
+route_url: /v/open-book/105803655 
+
+route_name: North Face Standard 
+route_url: /v/north-face-standard/105934549 
+
+route_name: East Ridge 
+route_url: /v/east-ridge/106522984 
+
+route_name: Direct South Buttress 
+route_url: /v/direct-south-buttress/106204685 
+
+route_name: CMC Route 
+route_url: /v/cmc-route/105823529 
+
+route_name: Northeast Face of Warrior I 
+route_url: /v/northeast-face-of-warrior-i/106007654 
+
+route_name: Cleopatra's Needle, East Face 
+route_url: /v/cleopatras-needle-east-face/105957182 
+
+route_name: Original Route 
+route_url: /v/original-route/105788086 
+
+route_name: The Windows Route 
+route_url: /v/the-windows-route/106167680 
+
+route_name: Sedona's Scenic Cruise  
+route_url: /v/sedonas-scenic-cruise-/105789780 
+
+route_name: Epitaph 
+route_url: /v/epitaph/106712983 
+
+route_name: Earth Angel 
+route_url: /v/earth-angel/105814921 
+
+route_name: Andy Kaufman Crack 
+route_url: /v/andy-kaufman-crack/105817049 
+
+route_name: Rusty Cage 
+route_url: /v/rusty-cage/105814822 
+
+route_name: Fat Bastard 
+route_url: /v/fat-bastard/105814827 
+
+route_name: The Good, the Bad, and the Ugly 
+route_url: /v/the-good-the-bad-and-the-ugly/106075607 
+
+route_name: Pope's Crack 
+route_url: /v/popes-crack/105722188 
+
+route_name: Modern Warfare 
+route_url: /v/modern-warfare/106381036 
+
+route_name: Throbbing Gristle 
+route_url: /v/throbbing-gristle/106381669 
+
+route_name: Kamikaze Crack 
+route_url: /v/kamikaze-crack/106381678 
+
+route_name: Desert Queen 
+route_url: /v/desert-queen/107471812 
+
+route_name: Totally Tubular 
+route_url: /v/totally-tubular/106783500 
+
+route_name: Squeeze Play 
+route_url: /v/squeeze-play/106784055 
+
+route_name: Fly Away 
+route_url: /v/fly-away/106091771 
+
+route_name: One Armed Giant 
+route_url: /v/one-armed-giant/106104369 
+
+route_name: Left Baskerville Crack 
+route_url: /v/left-baskerville-crack/105724255 
+
+route_name: Right Baskerville Crack 
+route_url: /v/right-baskerville-crack/105723289 
+
+route_name: Tossed Green 
+route_url: /v/tossed-green/105724426 
+
+route_name: An Eye to the West 
+route_url: /v/an-eye-to-the-west/105725047 
+
+route_name: Crescent Wrench 
+route_url: /v/crescent-wrench/105725578 
+
+route_name: Between a Rock and a Hard Place 
+route_url: /v/between-a-rock-and-a-hard-place/105921241 
+
+route_name: Thumbs Down Left 
+route_url: /v/thumbs-down-left/105722152 
+
+route_name: Light Sabre 
+route_url: /v/light-sabre/105722146 
+
+route_name: Cedric's Deep Sea Fish Market 
+route_url: /v/cedrics-deep-sea-fish-market/105722149 
+
+route_name: Illusion Dweller 
+route_url: /v/illusion-dweller/105722065 
+
+route_name: Where Janitors Dare 
+route_url: /v/where-janitors-dare/105930169 
+
+route_name: Flared Bear 
+route_url: /v/flared-bear/106092782 
+
+route_name: Tumbling Rainbow 
+route_url: /v/tumbling-rainbow/105723109 
+
+route_name: Run For Your Life 
+route_url: /v/run-for-your-life/105722344 
+
+route_name: Fisticuffs 
+route_url: /v/fisticuffs/105724495 
+
+route_name: Championship Wrestling 
+route_url: /v/championship-wrestling/105721819 
+
+route_name: Clean and Jerk 
+route_url: /v/clean-and-jerk/105721792 
+
+route_name: Couldn't Wait 
+route_url: /v/couldnt-wait/106087265 
+
+route_name: Comfortably Numb 
+route_url: /v/comfortably-numb/105723106 
+
+route_name: Super Roof 
+route_url: /v/super-roof/105722089 
+
+route_name: Six-Pack Crack 
+route_url: /v/six-pack-crack/105837819 
+
+route_name: Jumar of Flesh 
+route_url: /v/jumar-of-flesh/106068037 
+
+route_name: La Bella Katchina 
+route_url: /v/la-bella-katchina/106770038 
+
+route_name: Spaceshot 
+route_url: /v/spaceshot/105717829 
+
+route_name: The Moonlight Buttress (Clean Aid) 
+route_url: /v/the-moonlight-buttress-clean-aid/105717718 
+
+route_name: Prodigal Sun 
+route_url: /v/prodigal-sun/105717709 
+
+route_name: Epinephrine 
+route_url: /v/epinephrine/105732422 
+
+route_name: Chrysler Crack 
+route_url: /v/chrysler-crack/105887571 
+
+route_name: Frogland 
+route_url: /v/frogland/105732398 
+
+route_name: The Misunderstanding 
+route_url: /v/the-misunderstanding/105732881 
+
+route_name: Dream of Wild Turkeys 
+route_url: /v/dream-of-wild-turkeys/105732275 
+
+route_name: Prince of Darkness 
+route_url: /v/prince-of-darkness/105732458 
+
+route_name: Big Guy 
+route_url: /v/big-guy/105981715 
+
+route_name: Big Lady 
+route_url: /v/big-lady/106599963 
+
+route_name: Run Like Hell 
+route_url: /v/run-like-hell/106312281 
+
+route_name: Unknown Pod Climb. 
+route_url: /v/unknown-pod-climb/105718315 
+
+route_name: Unknown 
+route_url: /v/unknown/105717325 
+
+route_name: 5.10 Corner 
+route_url: /v/510-corner/105938259 
+
+route_name: Owl Crack 
+route_url: /v/owl-crack/107653915 
+
+route_name: The Crack Just to Left of Drainpipe 
+route_url: /v/the-crack-just-to-left-of-drainpipe/105717493 
+
+route_name: Drainpipe 
+route_url: /v/drainpipe/105717337 
+
+route_name: Eeyore's Enigma 
+route_url: /v/eeyores-enigma/105806618 
+
+route_name: The Sequel 
+route_url: /v/the-sequel/107833044 
+
+route_name: Book of Job 
+route_url: /v/book-of-job/106955045 
+
+route_name: Bachar Cracker  
+route_url: /v/bachar-cracker-/107094498 
+
+route_name: Damnation Crack 
+route_url: /v/damnation-crack/105809780 
+
+route_name: Angel 
+route_url: /v/angel/105852476 
+
+route_name: South Face, Jello Tower 
+route_url: /v/south-face-jello-tower/105792847 
+
+route_name: Midway 
+route_url: /v/midway/105870883 
+
+route_name: Canary 
+route_url: /v/canary/105790788 
+
+route_name: War of the Walls 
+route_url: /v/war-of-the-walls/105957970 
+
+route_name: Sands of Time 
+route_url: /v/sands-of-time/106472794 
+
+route_name: Galactic Hitchhiker 
+route_url: /v/galactic-hitchhiker/106683463 
+
+route_name: Organasm 
+route_url: /v/organasm/105717721 
+
+route_name: Dolphin 
+route_url: /v/dolphin/105722164 
+
+route_name: Bird of Fire 
+route_url: /v/bird-of-fire/105721624 
+
+route_name: The Armadillo 
+route_url: /v/the-armadillo/106020335 
+
+route_name: Cilley-Barber 
+route_url: /v/cilley-barber/106061987 
+
+route_name: Whitney Gilman Ridge 
+route_url: /v/whitney-gilman-ridge/105872668 
+
+route_name: Harvest Moon 
+route_url: /v/harvest-moon/106346934 
+
+route_name: White Pillar 
+route_url: /v/white-pillar/105946229 
+
+route_name: Vertigo 
+route_url: /v/vertigo/105888753 
+
+route_name: Rewritten 
+route_url: /v/rewritten/105750106 
+
+route_name: Directissima 
+route_url: /v/directissima/105799563 
+
+route_name: Jaw Bone 
+route_url: /v/jaw-bone/106617611 
+
+route_name: Snatch Power 
+route_url: /v/snatch-power/106617601 
+
+route_name: Finger Lickin'  
+route_url: /v/finger-lickin-/106578519 
+
+route_name: Wild Turkey 
+route_url: /v/wild-turkey/111662805 
+
+route_name: Capitol-Snowmass Traverse 
+route_url: /v/capitol-snowmass-traverse/105763659 
+
+route_name: Whodunit 
+route_url: /v/whodunit/105798191 
+
+route_name: J-Crack 
+route_url: /v/j-crack/105748957 
+
+route_name: Pear Buttress 
+route_url: /v/pear-buttress/105748963 
+
+route_name: Jensen's Jaunt 
+route_url: /v/jensens-jaunt/105799823 
+
+route_name: El Camino Real 
+route_url: /v/el-camino-real/105799550 
+
+route_name: Coffin Nail 
+route_url: /v/coffin-nail/105800099 
+
+route_name: Traitor Horn 
+route_url: /v/traitor-horn/105799577 
+
+route_name: Fingertrip 
+route_url: /v/fingertrip/105798877 
+
+route_name: Open Book 
+route_url: /v/open-book/105794117 
+
