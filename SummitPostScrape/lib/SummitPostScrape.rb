@@ -3,6 +3,7 @@ require 'nokogiri'
 require 'open-uri'
 require 'net/https'
 require 'fileutils'
+require_relative 'LibFileReadWrite'
 
 # See: http://ruby.bastardsbook.com/chapters/html-parsing/
 # See: http://ruby.bastardsbook.com/chapters/web-crawling/

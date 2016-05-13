@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Mark Thomas"]
   spec.email         = ["markums@gmail.com"]
   spec.summary       = %q{One-time scraper for MountainProject}
-  spec.description   = %q{Scrapes a variety of data from https://www.mountainproject.com based on links found in route ticks and TODOs. Considered a one-off run to get all current data. A later version will be created to just scrape the latest data in order to keep my personal website in sync on relevant data.}
+  spec.description   = %q{Scrapes a variety of data from http://www.mountainproject.com based on links found in route ticks and TODOs. Considered a one-off run to get all current data. A later version will be created to just scrape the latest data in order to keep my personal website in sync on relevant data.}
   spec.homepage      = "http://www.MarkPThomas.com/"
   spec.license       = "MIT"
 
