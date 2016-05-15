@@ -1,0 +1,88 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>Polemonium is one of the seven 14ers in the Palisades region of the Sierra Nevada. It lies east of, and is overshadowed by it more famous neighbor, <a href="http://www.summitpost.com/mountains/mountain_link.pl/mountain_id/262">North Palisade</a>. It's high popularity is due almost entirely to its inclusion to the exclusive California 14er club. If it were a hundred feet shorter, it would be climbed far less often, perhaps more in line with some of the other 13ers in area like Mt. Gayley or Mt. Winchell.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=65901" rel="no_follow"><img src="/images/thumb/65901.jpg"></a></td>
+<td><a href="/view_object.php?object_id=18072" rel="no_follow"><img src="/images/thumb/18072.jpg"></a></td>
+<td><a href="/view_object.php?object_id=29592" rel="no_follow"><img src="/images/thumb/29592.jpg"></a></td>
+</tr></table>
+<a name="chapter_2"></a><h2>Getting There</h2>For access to north/east routes:<br>
+Take US395 to Big Pine. Drive west on the Glacier Lodge Rd to the end. Overnight parking is clearly marked, and lies furthest from the trailhead, just before the pack station. Dayhikers can drive to the end of the road and park in any of the appropriately marked spaces. <br>
+<br>
+For access to west side routes:<br>
+Take US395 to Bishop, then head west on the Highway 168 to South Lake. Overnight parking is located at the end of the road adjacent to the trailhead. Hike over Bishop Pass and into Dusy Basin. Cross Knapsack Pass (cross-country) into the Palisade Basin.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr><td><a href="/view_object.php?object_id=17499" rel="no_follow"><img src="/images/thumb/17499.JPG"></a></td></tr></table>
+<a name="chapter_3"></a><h2>Red Tape</h2>Overnight permits are required and quotas for both Bishop Pass and the North Fork of Big Pine Creek are in effect from May 15 to September 15.<br>
+Bishop Pass is by far the more popular route, so be sure to either: get advanced reservations, go during the week, or get to the ranger station early for permits for saturday starts.<br>
+<br>
+Everything you need to know about permits and regulations can be found on the <a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/4859">Eastern Sierra - Logistical Center</a> page.<br>
+<br>
+<a name="chapter_4"></a><h2>When To Climb</h2>May to October are the usual climbing months. Early in the year there is much snow (and considerably more gear to carry); late in the year the U- Notch can be hard ice (requiring considerably more skill) when approached from the Palisade Glacier. July-Aug are the most common climbing months.<br>
+<br>
+Winter climbs are possible but few. This is for very experienced alpine climbers only.<br>
+<a name="chapter_5"></a><h2>Camping</h2>Camping is allowed in most places of the SEKI and John Muir Wildernesses that surround Polemonium Peak. For east-north approaches, most climbers camp at Sam Mack Meadow, the toe of the Palisade Glacier, or somewhere in-between along the use trail that connects them. The glacier offers the closest approach, though suitable camping sites are limited. There are several sandy pads that have been cleared out amongst the rocks on the morraine there, but other sites are little more than flat granite slabs. <br>
+<a name="chapter_6"></a><h2>Mountain Conditions</h2>
+<a href="http://www.r5.fs.fed.us/inyo/whatsnew.htm">Eastern Sierra</a> Road &amp; Trail conditions, plus permit information<br>
+<br>
+<a href="http://www.r5.fs.fed.us/inyo/">Inyo NF</a> online<br>
+<br>
+<a href="http://www.r5.fs.fed.us/inyo/vvc/whitemtn/">White Mountain Ranger Station</a>: 798 North Main Street, Bishop, CA 93514. (619) 873-2500<br>
+<a name="chapter_7"></a><h2>Etymology</h2>"Added to the map by the USGS because it was in common use and appeared in The Climber's Guide. (Approved by a BGN decision in 1985. The first altitude given [13,962] is the one on the 7.5-minute quad, published in 1982. The second one [14,080] is from the BGN's Decision List No. 8501.) The name comes from sky pilot Polimonium eximium, which grows at high alititude on rock ledges and slopes. The peak is not named on the Mt. Goddard 15' quad. It is 1/2 mile southeast of North Palisade; no altitude is given." <br>
+- <b>Peter Browning, <i>Place Names of the Sierra Nevada</i></b> <br>
+<br>
+There is still a good deal of confusion as to where Polemonium Peak is located and just how high it is. The above description confuses the true summit with Peak 13,962ft that is located 0.3 to the southeast, probably because the name is incorrectly placed on some maps. In Stephen F. Porcella's and Cameron M. Burns' Climbing California's Fourteeners, they correctly locate the peak but incorrectly give an altitude of 14,200 ft. R. J. Secor appears to have both the location and height [14,080] correctly described in <b><i>The High Sierra: Peaks, Passes, and Trails</i></b>. <br>
+<br>
+<br>
+<a name="chapter_8"></a><h2>External Links</h2>
+<ul>
+<li>
+<a href="http://www.snwburd.com/bob/trip_reports/polemonium.html">Aug 4, 2000</a><br> <br>
+</li>
+<li>
+<a href="http://www.summitpost.org/cgi-bin/trip_report.pl?trip_report_id=1985&amp;mountain_id=262">Mark N’ Dirk’s Bivouac Trilogy - Part 3: North Palisade &amp; Polemonium</a><br> <br>
+</li>
+</ul>                     <a name="chapter_9"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/starting-up-pol/322846/c-150513"><img alt="starting up pol" src="/images/square/322846.jpg"></a></td>
+<td><a href="/tom-h-and-nancy-r-on-the/2761/c-150513"><img alt="Tom H and Nancy R on the..." src="/images/square/2761.jpg"></a></td>
+<td><a href="/palisades-with-labels/331294/c-150513"><img alt="Palisades with labels" src="/images/square/331294.jpg"></a></td>
+<td><a href="/polemonium-traverse/477013/c-150513"><img alt="Polemonium Traverse" src="/images/square/477013.JPG"></a></td>
+<td><a href="/polemonium-peak-june-1994/38432/c-150513"><img alt="Polemonium Peak&lt;br /&gt; June 1994" src="/images/square/38432.jpg"></a></td>
+<td><a href="/palisades-in-early-morning/331287/c-150513"><img alt="Palisades in early morning" src="/images/square/331287.jpg"></a></td>
+<td><a href="/v-notch-couloir-on-24/128107/c-150513"><img alt="V-notch couloir on 24..." src="/images/square/128107.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/sill-left-and-polemonium/65901/c-150513"><img alt="Sill (left) and Polemonium..." src="/images/square/65901.jpg"></a></td>
+<td><a href="/polemonium-peak-from-the-palisade-glacier/326396/c-150513"><img alt="Polemonium Peak from the Palisade Glacier" src="/images/square/326396.jpg"></a></td>
+<td><a href="/overlooking-fourth-lake/949413/c-150513"><img alt="Overlooking Fourth Lake" src="/images/square/949413.JPG"></a></td>
+<td><a href="/on-the-v-notch-september/12185/c-150513"><img alt="On the V Notch - September..." src="/images/square/12185.jpg"></a></td>
+<td><a href="/view-of-the-north-palisade/65176/c-150513"><img alt="View of the North Palisade..." src="/images/square/65176.JPG"></a></td>
+<td><a href="/david-loring-approaching-the/29592/c-150513"><img alt="David Loring approaching the..." src="/images/square/29592.jpg"></a></td>
+<td><a href="/day-2-camp-at-palisade-basin/543887/c-150513"><img alt="Day 2, Camp at Palisade Basin" src="/images/square/543887.JPG"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/polemonium-peak/images/p-150513">View Gallery - 48 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty:  
+elevation: 14080 
+grade:  
+id: 150513 
+latitude: 37.0936 
+location: California, United States, North America 
+longitude: -118.5111 
+my_route_quality:  
+name: Polemonium Peak 
+number_of_pitches:  
+page_url: http://www.summitpost.org/polemonium-peak/150513 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons:  
+time_required:  
+type: Mountain-Rock 
+

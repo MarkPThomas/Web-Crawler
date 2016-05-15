@@ -1,0 +1,177 @@
+activities:  
+content: <article>
+            <p></p>
+<noformat><table border="0" cellpadding="2" cellspacing="1">  
+<tbody>
+<tr>
+<td width="40%">
+<font color="gray"><u><b>Stats</b></u></font>  
+<ul>  <li>
+<b>Route:</b> <a href="http://www.summitpost.org/show/route_link.pl/route_id/258/object_id/335">East Ridge</a>, <a href="http://www.summitpost.org/show/route_link.pl/route_id/243/object_id/335">West Ridge</a>  </li>
+<li>
+<b>Elevation Gained:</b> 4,200 ft  </li>
+<li>
+<b>RT Distance:</b> TBD  </li>
+<li>
+<b>RT Time:</b> 24 hrs  </li>
+<li>
+<b>Trailhead:</b> Sawmill Capmground  </li>
+<li>
+<b>TH Elevation:</b> 9,800’  </li>
+<li>
+<b>Summit Elev.:</b> 12,590’  </li>
+<li>
+<b>Rating:</b> IV, 5.6  </li>
+<li>
+<b>Climbers:</b>  <a href="http://www.summitpost.org/mountains/user_link.pl?user_id=13451">Mark Thomas</a>, <a href="http://www.summitpost.org/mountains/user_link.pl/user_id/583">Dirk Summers</a>, Vito, Gus  </li>
+</ul>
+</td>
+  
+<td>
+<center><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__52921__object_id__335__type__mountain__mountain_id__335__route_id____user_id____order_by____limit__"><img height="200" src="http://www.summitpost.com/images/52921.jpg"></a></center>
+</td>
+  </tr>
+</tbody>
+</table>
+  
+<center><font color="gray"><b><u>Sections:</u></b></font></center>
+  
+<hr width="80%">
+  
+<center>
+<table border="0" cellpadding="3" cellspacing="3">  
+<tbody>
+<tr>  
+<td>
+<a href="#One">Intro</a>  </td>
+<td>
+<a href="#Two">Strange Companions</a>   </td>
+<td>
+<a href="#Three">The Approach</a>  </td>
+<td>
+<a href="#Four">The Climb</a>  </td>
+<td>
+<a href="#Five">Nightfall</a>  </td>
+<td>
+<a href="#Six">Afterword</a>  </td>
+</tr>
+  </tbody>
+</table>
+</center>
+  
+<hr width="80%">
+   
+<p><font color="WHITE">.</font>        </p>
+<table border="0" cellpadding="3" cellspacing="3">    
+<tbody>
+<tr>  
+<td align="center" valign="top" width="15%">         
+<p><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__52915__object_id__335__type__mountain__mountain_id__335__route_id____user_id____order_by____limit__"><img border="2" height="100" src="http://www.summitpost.com/images/52915.thumb.jpg"></a>  </p>
+<p><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__52916__object_id__335__type__mountain__mountain_id__335__route_id____user_id____order_by____limit__"><img border="2" height="100" src="http://www.summitpost.com/images/52916.thumb.jpg"></a>  </p>
+<p><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__52917__object_id__335__type__mountain__mountain_id__335__route_id____user_id____order_by____limit__"><img border="2" height="100" src="http://www.summitpost.com/images/52917.thumb.jpg"></a>  </p>
+<p><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__52918__object_id__335__type__mountain__mountain_id__335__route_id____user_id____order_by____limit__"><img border="2" height="100" src="http://www.summitpost.com/images/52918.thumb.jpg"></a>  </p>
+<p><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__52920__object_id__335__type__mountain__mountain_id__335__route_id____user_id____order_by____limit__"><img border="2" height="100" src="http://www.summitpost.com/images/52920.thumb.jpg"></a>  </p>
+<p><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__52922__object_id__335__type__mountain__mountain_id__335__route_id____user_id____order_by____limit__"><img border="2" height="100" src="http://www.summitpost.com/images/52922.thumb.jpg"></a>  </p>
+<p><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__52919__object_id__335__type__mountain__mountain_id__335__route_id____user_id____order_by____limit__"><img border="2" height="100" src="http://www.summitpost.com/images/52919.thumb.jpg"></a>  </p>
+<p><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__52415__object_id__335__type__mountain__mountain_id__335__route_id____user_id____order_by____limit__"><img border="2" height="100" src="http://www.summitpost.com/images/52415.thumb.jpg"></a>  </p>
+<p><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__52416__object_id__335__type__mountain__mountain_id__335__route_id____user_id____order_by____limit__"><img border="2" height="100" src="http://www.summitpost.com/images/52416.thumb.jpg"></a>  </p>
+<p><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__52926__object_id__335__type__mountain__mountain_id__335__route_id____user_id____order_by____limit__"><img border="2" height="100" src="http://www.summitpost.com/images/52926.thumb.jpg"></a>  </p>
+<p><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__52923__object_id__335__type__mountain__mountain_id__335__route_id____user_id____order_by____limit__"><img border="2" height="100" src="http://www.summitpost.com/images/52923.thumb.jpg"></a>  </p>
+<p><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__52417__object_id__335__type__mountain__mountain_id__335__route_id____user_id____order_by____limit__"><img border="2" height="100" src="http://www.summitpost.com/images/52417.thumb.jpg"></a>  </p>
+<p><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__52418__object_id__335__type__mountain__mountain_id__335__route_id____user_id____order_by____limit__"><img border="2" height="100" src="http://www.summitpost.com/images/52418.thumb.jpg"></a>  </p>
+<p><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__52419__object_id__335__type__mountain__mountain_id__335__route_id____user_id____order_by____limit__"><img border="2" height="100" src="http://www.summitpost.com/images/52419.thumb.jpg"></a>  </p>
+<p><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__52927__object_id__335__type__mountain__mountain_id__335__route_id____user_id____order_by____limit__"><img border="2" height="100" src="http://www.summitpost.com/images/52927.thumb.jpg"></a>  </p>
+<p><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__52925__object_id__335__type__mountain__mountain_id__335__route_id____user_id____order_by____limit__"><img border="2" height="100" src="http://www.summitpost.com/images/52925.thumb.jpg"></a>  </p>
+<p><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__52924__object_id__335__type__mountain__mountain_id__335__route_id____user_id____order_by____limit__"><img border="2" height="100" src="http://www.summitpost.com/images/52924.thumb.jpg"></a>  </p>
+<p><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__52921__object_id__335__type__mountain__mountain_id__335__route_id____user_id____order_by____limit__"><img border="2" height="100" src="http://www.summitpost.com/images/52921.thumb.jpg"></a>    </p>
+
+
+
+
+
+
+
+
+
+</td>
+  
+<td valign="top" width="85%">        <a name="One"></a>
+<p>It was raining hard, and the cold breeze made it hard to fall asleep as I collapsed onto the rock-hard ground. Luckily I had a scrap of cardboard to use as padding, so I was at least a little comfortable and didn’t lose as much body heat to the ground from conduction. Besides reeking of BO from several days of being unable to shower, I was a little malnourished and extremely sleep deprived, having only gotten a few brief hours of sleep over the last few days, and sometimes it was hard to tell if I was awake or asleep as I was in a continuous dream-state. I wasn’t the only one sorely in need of rest, and as I nursed my callused hands there was a yelp as someone near me gushed blood – apparently they had an accident with their exacto knife.    </p>
+<p>No, I wasn’t on some thrilling climb in the Sierras, although sometimes fantasizing about this made the nights easier. I was working my way through a summer architecture studio at UC Berkeley during the summer of 2003. I had joined Summitpost a few months earlier after Bob Burd had referred me to it over the previous winter as I was searching online for information about climbing Round Top.  Since then the site had mainly been an interesting curiosity for me, as well as a very useful resource for planning climbs.      </p>
+<p>Then, one dreary night in Wurster Hall I got a mysterious e-mail from Dirk Summers. Who? I had no idea who this person was, but apparently he was a Summitpost member interested in climbing Mt Sill, one of the CA 14ers that I wanted to climb.  Great!  I had been having much better luck finding partners for my mountain adventures at Berkeley than I ever did in Utah, and this new possible partner was just what I needed since I had really wanted to begin climbing some technical alpine routes.  Up to this point I had only done crag climbing and all of my mountaineering consisted of class 3-4 scrambles. SummitPost had become more than just a reference for me, and from this point on it became an integral part of my climbing trips.    </p>
+
+<p>Before climbing Mt Sill, Dirk wanted to do an easier climb with me over the summer so that we could get a better feel for each other. I couldn’t get enough time off from studio to take weekends off, so I missed out on a trip to Bear Creek Spire.  Finally my studio ended and Dirk suggested I join him on an easier climb near Yosemite with an American Alpine Club group. I still had never met this guy, but from the types of climbs he suggested and what insight I could glean from his SP profile, I felt like I would do fine seconding on a climb and that Dirk was well qualified to do a safe job leading. Little did I realize that the dynamics between Dirk &amp; me would lead consistently to unplanned high-altitude bivouacs (well,  for the contiguous 48 states), of which this would be  the first.    
+
+<a name="Two"></a></p>
+<p><font color="gray"><b>August 15th: Strange Companions</b></font>
+    Dirk already had arrangements to carpool with another group, so I would be meeting him at a campground just outside of Lee Vining. I was able to arrange a ride with two other members of this AAC outing, Paul and his lady friend.  Paul turned out to be a very interesting character as he had a striking resemblance to Steve Buscemi - ‘kinda funny lookin’ - and he was rather small. Sadly his car wasn’t much larger, and fitting in was a squeeze.      </p>
+<p>Next we spent nearly an hour picking up our second passenger (I can’t remember her name). Every inch of the inside of her Berkeley apartment was covered with random colorful knickknacks - I could have sworn that she was a gypsy.  This lady had more stuff to bring than Paul and me combined, and every time we thought that we were about ready to leave she remembered something else that we needed to shove into the trunk and back seat. Near the end, Paul was beginning to get peeved, which made the situation all the more amusing. To top it all off, because she had been having some back problems, we lined the back seat of the car with pillows so that she could lie down for the drive.    
+</p>
+<p>Needless to say, when I arrived at the campground and met Dirk, he wasn’t nearly as strange as my car companions, which was quite a relief.    </p>
+<p><a name="Three"></a><font color="gray"><b>August 16th: The Approach</b></font>
+    It was a clear sunny morning as Dirk and I left the trailhead with two other members of the American Alpine Club. It was 9am, but the air was still cool as we hiked briskly through the Sawmill Campground and clusters of meadow beyond. Dirk and I would be climbing the West Ridge of Mt Conness, which required that we practically climb the goddamn thing via the East Ridge before losing 1,800 ft to reach the <i>START</i> of the route.  Dirk had had a number of ideas for what to climb on this trip, and we decided on this climb at the last minute, although I didn’t really have any idea what it was like apart from the 5.6 rating. Along for the approach were Vito and Gus. Gus was an old guy, but still spry and full of energy. Vito was much younger and very fit. Together they were going to pick their way up the western slopes of Mt Conness via some class 4 chutes.    </p>
+<p>Soon the nice trail ended and we began an easy cross-country hike towards the east buttress, a maze of granite walls that appear 5th class from a distance. We planned on climbing through this wall to gain a hanging valley above as a shorter alternative to climbing Mt Conness via Alpine Lake. As it turned out, the buttress was an easily navigable class three scramble over a mixture of granite ledges, with a stream and patches of grass marking the way through.    </p>
+<p>After a brief break refilling water and messing around on some boulders in the unnamed lake above the buttress, we continued up the bare, empty valley. We reached the east ridge just as another party was topping out from a technical climb coming up from the glacier, which I thought was surprising. Growing up in Utah, I still hadn’t gotten used to the hordes of climbers encountered in the California backcountry. I was awestruck at the view we had of Conness’s impressive NE face and the large glacier filling the valley below. Seeing the mountain from this vantage point had me wondering what to expect on the other side!    </p>
+<p>Soon the scenic ridge ended and we grunted through some sandy class 2 scrambling before reaching the large plateau above. From there I was surprised to see how CLOSE we actually were to Conness’s summit for the approach. I suggested that we run over and bag the peak now, to get two summits in for the day, but the others were not as enthusiastic about the idea.    </p>
+<p>Next we had to do some route finding to figure out where on the opposite side of the plateau to aim for, so that we would be above the correct chute for our descent. We matched up some snowfields with a route description and headed straight across the open terrain. Along the way Dirk and I admired the impressive views of Mt Maclure and Mt Lyell.  Even from far away they appeared massive, and the large snowfields and glaciers below made them appear to be floating above the clouds.    </p>
+<p>Finally we were at the chute. It was really steep, but we could pick out a way down. From here we were treated with our first views of the massive West Ridge of Mt Conness – a vertical wall of granite over 1,000 feet high sweeping from the bottle-neck that connects to the peak to our plateau all the way down to Roosevelt Lake. I had been climbing in the Sierras for a little less than a year now, but I still wasn’t used to such <i>HUGE</i> cliffs!    </p>
+<p>The chute was steep and full of crappy loose rock and sand, but the route finding was fairly straightforward, and after a little class 4 scrambling we had made it down to an open rocky bowl. The talus was rather small, so cross-country travel at this point was relatively easy, but still slow. As we neared the base of the climb, Dirk and I bid our friends farewell and began traversing to the base of the West Ridge.   </p>
+
+<p><a name="Four"></a><font color="gray"><b>The Climb</b></font>
+    Dirk had read in the route description that the first pitch was a full pitch that would require the entire rope length. To avoid the danger of running short of rope before reaching the first belay ledge, we decided to climb partway up the route before setting up a belay. In retrospect this was a mistake – we climbed too high and soon we were in an awkward position of standing on some narrow ledges in the middle of some low 5th class climbing, and we needed to rope up.  </p>
+<p>Oops! Well, we spent the next half hour or so at our precarious perches trying to change out of hiking boots and into rock shoes, put on our harnesses, and get the rope and pro ready to go.  By the time I was anchored and Dirk was climbing it was nearly 4:00.  The approach had been longer than expected, and our delicate gear-changing act had cost us a lot of time. Still, we had high hopes, since the most difficult part of the route was the first few pitches. After that it was smooth sailing on class 4 terrain to the summit.    </p>
+<p>“Climb on!” Now I was officially beginning the climb. I headed up some steep sloping ledges that cut away from me at an angle. The many sloped parallel cracks provided some fun jamming and liebacking opportunities while I relied on smearing for my feet. The rock was a little loose in places, but still great! After an awkward ascending traverse, I was at the first belay ledge, with an awesome view of the valley below. I tied in and Dirk took off on the next pitch.    </p>
+<p>As I belayed Dirk I noticed a lone figure boulder-hopping far below - they were making really good time! Apparently this person was a lady park ranger who had headed out for an afternoon stroll. After running up to Conness's West Ridge, she went on to free-solo the route beginning a little further north than us. Dirk was a little irritated at her cocky attitude as she passed him on this pitch, and I got a good laugh hearing about their encounter once I met up with Dirk at the next belay station.    </p>
+<p>The first pitch was the hardest, and the climbing got easier as we climbed higher. We topped out from the headwall just as the sun was setting. From there we could see just how much of the ridge we had left to climb – there was no way that we were going to finish before sunset!  While the terrain was low 5th to 4th class, it was still very long. We were momentarily distracted from our predicament as we admired the beauty of the route. On the right the rock dropped away vertically for hundreds of feet, and the dropoff increased as the ridge climbed higher. On the left was a steep chute, merging into the ridge like a breaking wave, ready to spill over the abyss to our right. As we climbed along the razor-sharp arete, the fiery-orange light of the sunset illuminated the ridge. The white granite was a perfect tabula rasa for capturing the color of the sun’s rays, and, Chameleon-like, Mt Conness changed hues as we hurried along the ridge, racing the setting sun.  Then it was dark.    </p>
+
+<p><a name="Five"></a><font color="gray"><b>Nightfall</b></font>
+    Of course there was always the option of a bivouac, but it wasn’t very appealing to me. I had thought that this would be a climb easily completed in a day, and due to inexperience, I only had jeans and a t-shirt to wear. No warm layers or a windbreaker, and this exposed ridge was windy! Since the climbing wasn’t very hard, and we both had headlamps, we decided to just keep climbing in order to stay warm, and hopefully, finish the route and descend.    </p>
+<p>Darkness was a two-fold handicap. First of course, was the obvious problem that climbing by headlamp is more difficult, and hence, the route finding slower. Another problem was that by climbing in the dark, it seemed too dangerous to free-climb the class 4. I myself certainly wasn’t ready to try something like that, so we ended up belaying the entire 1,800 ft route.    </p>
+<p>Climbing on the ridge by headlamp was a surreal experience. Although there was a full moon out, Mt Conness blocked our route from its illumination. As a result, we could see the valley below quite clearly. In fact, at one of our belay stations we could actually pick out Half Dome! In the distance we could see the sparkling lights of Oakdale, and Roosevelt Lake shimmered below, yet we were in total darkness. While we could see the landscape around us just fine, when it came to our route, our worldview was limited to whatever the headlamp illuminated. Climbing became a much more enclosed experience, each of us seemingly alone except for when shouting commands.  At one point there were some headlamps down in the valley. They kept flashing, on and off. Were they hikers trying to signal us? Obviously, if we could see their lights in the valley, they could see our lights on the mountain. We couldn’t decipher what, if anything, the people were saying, so we climbed on, and eventually the blinking ceased.  A while later the air was filled with the echoing sound of coyotes howling. Still, we climbed on in our little bubbles of light high on the mountain.    </p>
+<p>It seemed cruel that as the full moon came out, Mt Conness kept us in the dark, but the mountain wasn’t through with me yet. At one point I reached a belay that was on a small, steeply sloping slab that I could tell was dropping me toward the huge abyss on the south side of the ridge. Although the belay was secure, and I was still <i>sitting</i> on a slab, I am also a wuss when it comes to exposure. I muttered my displeasure with the airy belay as Dirk climbed around a roof and out of site.  Luckily I was in the dark, so at least I couldn’t see the drop off below. Then Conness finally let the moon out. As I sat on my windy perch, I watched with increasing discomfort as the moonlight illuminated the chasm below.  I was more than ready to climb on when Dirk shouted back.    </p>
+<p>Dirk traverse left into the class 4 gully in order to save time on the next pitch. He was irritated that we didn’t do the route as purely as he wanted, but I was fine with the idea of moving to less exposed terrain - at this point I felt that staying on the ridge for 90% of the route was good enough! We had one more pitch of 4th class climbing and then we unroped. The climbing was suddenly easy class 2-3, with no exposure, so we dispensed with the belay and hurried up to the summit. As we scrambled the last few hundred feet, I asked Dirk how many pitched we had climbed. Neither of us could remember, having lost count somewhere over 10 pitches, so we figured we had done about 14 roped pitches on the route.   </p>
+
+<p>Reaching the summit was a glorious occasion. We whooped with relief, and eagerly signed the summit register. It was 5am.    </p>
+
+<p>The scramble down was tiring, but easy. A brief catwalk on the East Ridge required some attention, but after that it was smooth sailing all the way down. Now we were in a hurry to get down before the other AAC members noticed that we hadn’t returned last night. We made it back to the car at 9am – exactly 24 hours after we had left it the day before.    </p>
+
+<p><a name="Six"></a><font color="gray"><b>Afterword</b>
+</font>    
+Since Dirk, Vito, Gus and I carpooled to the trailhead together, Dirk and I had expected to hitchhike back to camp. Instead, we were surprised to see the car was still parked beside the road, empty.  Vito and Gus left the car. Did they not make it back last night?    </p>
+<p>First thing’s first – we took the car and drove down to the AAC camp to avoid being reported overdue. Once we get there, the camp was empty, except for a note saying that we were reported overdue. Shit!     </p>
+<p>Eventually we managed to find the AAC group and call off our overdue status. Vito and Gus reappeared later in the day too. Apparently they had backed off of their route, and in the dark they had gotten lost on the cross country travel around Mt Conness. They too spent the night in the mountains, and when the sun rose they found themselves at the road in Tuolomne Meadows!   </p>
+<p>After some beers and a nap, it was time to go home, but my adventure wasn’t over yet.  Paul’s car broke down just outside of Yosemite, and ultimately we had to be towed to a dealership in Walnut Creek, over 4 hours away. While we waiting on a street corner in Walnut Creek with all of our gear, some bored cops harassed us until Paul’s girlfriend in San Francisco was able to pick us up. Finally, I arrived home at about 2am.     </p>
+
+<p>I was completely exhausted, but the trip was great. I couldn’t wait to meet up with Dirk to take a crack at Mt Sill.   </p>
+
+<hr width="80%">
+
+<center>
+<i>Mark N' Dirk's Bivouac Trilogy:</i> <a href="http://www.summitpost.org/cgi-bin/trip_report.pl?trip_report_id=1969">Part 2: Mt Sill</a> -  <a href="http://www.summitpost.org/cgi-bin/trip_report.pl?trip_report_id=1985&amp;mountain_id=262">Part 3: N Palisade &amp; Polemonium</a> </center>
+
+</td>
+</tr>
+      </tbody>
+</table>       
+                                         </noformat>                                           <a name="chapter_1"></a><h2>Images</h2>
+<div align="center"><table id="my_images"><tr><td><a href="/mt-conness-at-sunrise-august/26146/c-170009"><img alt="Mt Conness at sunrise. August..." src="/images/square/26146.jpg"></a></td></tr></table></div>
+            </article> 
+date: Aug 16, 2003 
+difficulty:  
+elevation:  
+grade:  
+id: 170009 
+latitude: 37.9672 
+location: California, United States, North America 
+longitude: -119.3192 
+my_route_quality:  
+name: Mark N’ Dirk’s Bivouac Trilogy - Part 1: Mt Conness 
+number_of_pitches:  
+page_url: http://www.summitpost.org/mark-n-dirk-s-bivouac-trilogy-part-1-mt-conness/170009 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons:  
+time_required:  
+type: Trip Report 
+

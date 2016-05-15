@@ -1,0 +1,81 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>Flagstaff Mountain is one of several 10,000+ foot summits which form the northern rim around the <a href="http://www.alta.com/">Alta</a> ski resort, in Little Cottonwood Canyon.  The peak is located at the southern end of the Reed and Benson Ridge, which divides Mill D South Fork on the west and Days Fork on the east.  Flagstaff Mountain is located in the <a href="http://www.fs.usda.gov/wps/portal/fsinternet/!ut/p/c5/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjAwhwtDDw9_AI8zPwhQoY6IeDdGCqCPOBqwDLG-AAjgb6fh75uan6BdnZaY6OiooA1tkqlQ!!/dl3/d3/L2dJQSEvUUt3QS9ZQnZ3LzZfMjAwMDAwMDBBODBPSEhWTjBNMDAwMDAwMDA!/?ss=110419&amp;navtype=forestBean&amp;navid=091000000000000&amp;pnavid=null&amp;cid=null&amp;ttype=main&amp;pname=Uinta-Wasatch-Cache%20National%20Forest%20-%20Home">Wasatch</a> National Forest.<br>
+<br>
+A short and easy approach hike combined with relatively little elevation gain make this summit an ideal destination for novice hikers who do not wish to take on the more difficult <a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/1426"><b>Mount Superior</b></a> a short distance to the west.  More advanced hikers may choose to create a multi-summit ridge traverse by combining this peak along with the <a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/3377"><b>Honeycomb Cliffs</b></a> further to the east.<br>
+<br>
+This summit is identified as Flagstaff Mountain on the USGS topographic map, but some local guide books also refer to the summit as "Flagstaff Peak".  Also interesting is the fact that a higher point (el. 10,561) is located just ±0.25 miles along the ridge to the north.  This higher point can be reached via an easy ridge walk from the summit of Flagstaff.<br>
+<br>
+USGS Quad:<br>
+<li>Dromedary Peak, Utah  (1:24k)<br>
+<br>
+<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=71561" rel="no_follow"><img src="/images/thumb/71561.JPG"></a></td>
+<td><a href="/view_object.php?object_id=71570" rel="no_follow"><img src="/images/thumb/71570.JPG"></a></td>
+<td><a href="/view_object.php?object_id=74602" rel="no_follow"><img src="/images/thumb/74602.jpg"></a></td>
+<td><a href="/view_object.php?object_id=71567" rel="no_follow"><img src="/images/thumb/71567.JPG"></a></td>
+</tr></table>
+<a name="chapter_2"></a><h2>Getting There</h2>The shortest and easiest approach for a hike up Flagstaff Mountain begins from the Cardiff Pass trailhead at the Alta Ski resort. <br>
+<br>
+Take the 6200 South exit (exit #6) off I-215 and follow highway 190 south-east approximately 2 miles to the intersection with Big Cottonwood Canyon road. Continue straight through the stoplight and follow the road another 4 miles to the mouth of Little Cottonwood Canyon, where an electronic billboard on the right provides current road and/or weather conditions. <br>
+<br>
+Continue east up Little Cottonwood Canyon approximately 8.3 miles to the Forest Service garage, an old stone structure located on the left (north) side of the road.  Park along the road to the east of the garage, or in the large parking area across the road.<br>
+<br>
+Refer to the <a href="http://www.summitpost.org/flagstaff-mountain/routes/p-153143">Routes</a> section for details on ascending the peak.<br>
+<a name="chapter_3"></a><h2>Red Tape</h2>There are no fees or permits required for hiking in this area. <br>
+<br>
+The initial portions of the trail passes near several private cabins; be respectful of the local property owners.<br>
+<a name="chapter_4"></a><h2>When To Climb</h2>June through September is generally considered to be the summer hiking season.  Earlier spring hikes may involve ascending consolidated snow fields, but this is an open south-facing hike so the snow will recede much sooner than other locations in the canyon.<br>
+<a name="chapter_5"></a><h2>Camping</h2>Camping areas area abundant throughout Little Cottonwood Canyon.  There is also lodging available at the <a href="http://www.alta.com/">Alta</a> ski resort, as well as the <a href="http://www.snowbird.com/index.html">Snowbird</a> ski resort located one mile down the canyon.<br>
+<a name="chapter_6"></a><h2>Mountain Conditions</h2>
+</li>
+<li>National Weather Service <a href="http://www.srh.noaa.gov/data/forecasts/UTZ008.php?warncounty=UTC035&amp;city=Alta">forecast</a> for the area.<br>
+</li>
+<li>Alta <a href="http://www.wrh.noaa.gov/images/slc/camera/latest/alta.hugew.latest.jpg">webcam</a> looking west down Little Cottonwood Canyon.<br>
+</li>
+<li>Utah <a href="http://utahavalanchecenter.org/">Avalanche Center</a> website<br>
+                                                                                                                                                                                                                                                            <a name="chapter_7"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/skiing-flagstaff/507294/c-153143"><img alt="Skiing Flagstaff" src="/images/square/507294.JPG"></a></td>
+<td><a href="/a-bright-and-beautiful-sunset-over-mt-flagstaff/675383/c-153143"><img alt="A Bright and Beautiful sunset over Mt Flagstaff" src="/images/square/675383.JPG"></a></td>
+<td><a href="/some-wildflowers-and-flagstaff-mountain/644805/c-153143"><img alt="Some wildflowers and Flagstaff Mountain" src="/images/square/644805.JPG"></a></td>
+<td><a href="/4-45-am-looking-toward-the/144564/c-153143"><img alt="4:45 am. looking toward the..." src="/images/square/144564.JPG"></a></td>
+<td><a href="/days-fork/522183/c-153143"><img alt="Days Fork" src="/images/square/522183.JPG"></a></td>
+<td><a href="/skinning-into-toledo-bowl/610220/c-153143"><img alt="Skinning into Toledo Bowl" src="/images/square/610220.jpg"></a></td>
+<td><a href="/holy-toledo/610225/c-153143"><img alt="Holy Toledo" src="/images/square/610225.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/flagstaff-view/643474/c-153143"><img alt="Flagstaff View" src="/images/square/643474.JPG"></a></td>
+<td><a href="/skinning-on-flagstaff-ridge/602407/c-153143"><img alt="Skinning on Flagstaff Ridge" src="/images/square/602407.jpg"></a></td>
+<td><a href="/view-from-the-summit-looking/71570/c-153143"><img alt="View from the summit looking..." src="/images/square/71570.JPG"></a></td>
+<td><a href="/from-alta-parking-lot/144561/c-153143"><img alt="From Alta parking lot." src="/images/square/144561.JPG"></a></td>
+<td><a href="/flagstaff/408659/c-153143"><img alt="Flagstaff" src="/images/square/408659.jpg"></a></td>
+<td><a href="/view-from-the-summit-looking/71567/c-153143"><img alt="View from the summit looking..." src="/images/square/71567.JPG"></a></td>
+<td><a href="/holy-toledo/610136/c-153143"><img alt="Holy Toledo" src="/images/square/610136.jpg"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/flagstaff-mountain/images/p-153143">View Gallery - 22 More Images</a> ]</td></tr>
+</table></div>
+            </li></article> 
+date:  
+difficulty:  
+elevation: 10530 
+grade:  
+id: 153143 
+latitude: 40.601 
+location: Utah, United States, North America 
+longitude: -111.6454 
+my_route_quality:  
+name: Flagstaff Mountain 
+number_of_pitches:  
+page_url: http://www.summitpost.org/flagstaff-mountain/153143 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons:  
+time_required:  
+type: Mountain-Rock 
+

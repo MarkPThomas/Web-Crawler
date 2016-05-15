@@ -1,0 +1,91 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>
+<br>
+Crystal Crag is the obvious rock tower that juts out of the Mammoth Lakes area south of Yosemite.  From the east, it looks like a huge, solitary granite tooth.  The east and north sides of the peak present some challenging rock climbs, while the west and south sides offer slightly easier routes to the summit.  Scenic views down to the Mammoth Lakes and out to the Ritter Range and SE Yosemite can be had from the summit.  One of the nice things about Crystal Crag is that it has a very short approach hike and yet still offers enough challenge for most people.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=8811" rel="no_follow"><img src="/images/thumb/8811.jpg"></a></td>
+<td><a href="/view_object.php?object_id=63335" rel="no_follow"><img src="/images/thumb/63335.JPG"></a></td>
+<td><a href="/view_object.php?object_id=8815" rel="no_follow"><img src="/images/thumb/8815.jpg"></a></td>
+<td><a href="/view_object.php?object_id=8818" rel="no_follow"><img src="/images/thumb/8818.jpg"></a></td>
+<td><a href="/view_object.php?object_id=63309" rel="no_follow"><img src="/images/thumb/63309.JPG"></a></td>
+</tr></table>
+<a name="chapter_2"></a><h2>Getting There</h2>
+<br>
+Crystal Crag is located just SE of Lake George, in the Mammoth Lakes area.  To get to Mammoth Lakes, take US 395 south from Reno (3hrs) or north from the LA area (7 hrs), and exit at CA 203 (this junction is well marked).  Follow CA 203 up the hill in the town of Mammoth Lakes until you reach the intersection of Lake Mary Road and Minaret Road.  Go straight on Lake Mary Road for about 4 miles.  Follow the signs to Lake George.  The trailhead (Crystal Lake Trail) is well marked and has ample parking.  <a href="http://www.r5.fs.fed.us/inyo/graphics/recmtoj.jpg">Click here</a> for an area map.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=8813" rel="no_follow"><img src="/images/thumb/8813.jpg"></a></td>
+<td><a href="/view_object.php?object_id=94789" rel="no_follow"><img src="/images/thumb/94789.jpg"></a></td>
+<td><a href="/view_object.php?object_id=94790" rel="no_follow"><img src="/images/thumb/94790.jpg"></a></td>
+</tr></table>
+<a name="chapter_3"></a><h2>Red Tape</h2>
+<br>
+No permits required.  However, because the crag has seen its share of rescue operations where people have gotten in over their heads, it is recommended to register at the Mammoth Ranger Station before attempting the climb.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=94792" rel="no_follow"><img src="/images/thumb/94792.jpg"></a></td>
+<td><a href="/view_object.php?object_id=94793" rel="no_follow"><img src="/images/thumb/94793.jpg"></a></td>
+</tr></table>
+<a name="chapter_4"></a><h2>When To Climb</h2>
+<br>
+May through September are the best times to climb.  If going in May or early June, a pair of skis or snowshoes might be recommended for the approach, depending on that season's snowfall.<br>
+<a name="chapter_5"></a><h2>Camping</h2>
+<br>
+There is loads of available car camping in the Mammoth Lakes area.  <a href="http://www.fs.fed.us/r5/inyo/recreation/campgrounds.html">Click here</a> for USFS campground information (scroll down to "Mammoth Ranger District").  If you plan on using one of these developed campgrounds in the busy summer months, plan ahead -- they are usually quite full, and last minute spots can be scarce.  <br>
+<a name="chapter_6"></a><h2>Mountain Conditions</h2>
+<br>
+The <a href="http://www.fs.fed.us/r5/inyo/vc/mammoth.html">Mammoth Ranger Station</a> may be able to provide current conditions on the crag.<br>
+<a name="chapter_7"></a><h2>External Links</h2>
+<ul>
+<li>
+<a href="http://www.tahoebackcountry.net/features/crystalcrag">South Ridge of Crystal Crag, July 20, 2002</a><br> <br>
+</li>
+<li>
+<a href="http://www.snwburd.com/bob/trip_reports/crystal_crag_2.html">North Arete - July 5, 2005</a><br> <br>
+</li>
+</ul>
+<a name="chapter_8"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/crystal-crag-reflection/684706/c-151086"><img alt="Crystal Crag reflection" src="/images/square/684706.JPG"></a></td>
+<td><a href="/crystal-crag/568871/c-151086"><img alt="Crystal Crag" src="/images/square/568871.JPG"></a></td>
+<td><a href="/stormy-crystal-crag/685321/c-151086"><img alt="Stormy Crystal Crag" src="/images/square/685321.JPG"></a></td>
+<td><a href="/crystal-crag/660399/c-151086"><img alt="Crystal Crag" src="/images/square/660399.jpg"></a></td>
+<td><a href="/crystal-crag/663686/c-151086"><img alt="Crystal Crag" src="/images/square/663686.jpg"></a></td>
+<td><a href="/crystal-crag/664001/c-151086"><img alt="Crystal Crag" src="/images/square/664001.jpg"></a></td>
+<td><a href="/crystal-crag/651793/c-151086"><img alt="Crystal Crag" src="/images/square/651793.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/twin-lakes-and-crystal-crag/660398/c-151086"><img alt="Twin Lakes and Crystal Crag" src="/images/square/660398.jpg"></a></td>
+<td><a href="/crystal-crag/344407/c-151086"><img alt="Crystal Crag" src="/images/square/344407.jpg"></a></td>
+<td><a href="/crystal-crag-s-namesake/63335/c-151086"><img alt="Crystal Crag\'s namesake-..." src="/images/square/63335.JPG"></a></td>
+<td><a href="/crystal-crag/663678/c-151086"><img alt="Crystal Crag" src="/images/square/663678.jpg"></a></td>
+<td><a href="/crystal-crag/803874/c-151086"><img alt="Crystal Crag" src="/images/square/803874.JPG"></a></td>
+<td><a href="/crystal-crag-and-lake/453736/c-151086"><img alt="Crystal Crag and lake" src="/images/square/453736.jpg"></a></td>
+<td><a href="/crystal-crag/663679/c-151086"><img alt="Crystal Crag" src="/images/square/663679.jpg"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/crystal-crag/images/p-151086">View Gallery - 82 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty:  
+elevation: 10377 
+grade:  
+id: 151086 
+latitude: 37.591 
+location: California, United States, North America 
+longitude: -119.013 
+my_route_quality:  
+name: Crystal Crag 
+number_of_pitches:  
+page_url: http://www.summitpost.org/crystal-crag/151086 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons:  
+time_required:  
+type: Mountain-Rock 
+

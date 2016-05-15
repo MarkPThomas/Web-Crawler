@@ -1,0 +1,51 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Approach</h2>
+<i>This is a 4900’+/- ascent day</i>.  There are several large ribs coming down from Mount Cory.   You want the eastern most rib which is identified as light-colored shaley cliffs with a deep ravine to its right. In the winter, there is no trail to follow, but basically start  ascending due north.  This rib will meander somewhat westerly in and out of trees.   I  used snowshoes intermittently.   A 3000' gain takes you to a lovely spot to enjoy lunch, a small col of sorts between a bump on the left (actually directly over “Hole in the Wall”)  and the start of your objective to the right.  <br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=108548" rel="no_follow"><img src="/images/thumb/108548.jpg"></a></td>
+<td><a href="/view_object.php?object_id=108549" rel="no_follow"><img src="/images/thumb/108549.jpg"></a></td>
+<td><a href="/view_object.php?object_id=108550" rel="no_follow"><img src="/images/thumb/108550.jpg"></a></td>
+<td><a href="/view_object.php?object_id=111539" rel="no_follow"><img src="/images/thumb/111539.jpg"></a></td>
+<td><a href="/view_object.php?object_id=126431" rel="no_follow"><img src="/images/thumb/126431.jpg"></a></td>
+</tr></table>
+<a name="chapter_2"></a><h2>Route Description</h2>Attempt, depending on conditions, to traverse the left hand side of the route to avoid a gain that you will immediately have to lose.  There will be several up and down segments on the ridge, but none as wasteful as this first one.  This was a pleasant climb mixing some hands on scrambling and post holing, sporting a fantastic view during this section of the route.  I met up with 5 ewes (mountain sheep) about half way along during the summit trip.  This is  very active sheep habitat.  Part of the ridge remains windblown most of the winter offering up some remnants of nutrition.  <br>
+<br>
+Eventually, you will be upon the final summit ridge.  <b>Finishing this route in the winter can be a dangerous solo.  I chose to up climb and then down climb a buttress on the right to avoid having to traverse an angled icy snow slope straight away.  At that point there was snow-ice that I climbed with axe and crampons to gain the partially snow covered summit ridge.</b>  Weaving in and out, I took the ridge to the summit cornice.  Beware of the cornice, it could go either direction.  If going in pairs, I advise taking a rope for added comfort on the summit itself.  Return is the same.<br>
+<br>
+You have great views of Assiniboine, Bourgeau, Copper, <a href="http://www.summitpost.org/mountains/mountain_link.pl?mountain_id=4798">Castle</a>, Edith Summits and many others. The summit was free of wind and the ridge full of it.    The descent went fast and furious.  Neighboring mountains <a href="http://www.summitpost.org/mountains/mountain_link.pl?mountain_id=4950">Edith</a>  and <a href="http://www.summitpost.org/mountains/mountain_link.pl?mountain_id=280">Louis</a> are more fun and challenging, but this is a more scenic day.<br>
+<a target="_top" href="/mountains/photo_link.pl?photo_id=153607&amp;object_id=4798&amp;type=mountain&amp;mountain_id=4798&amp;route_id="><img src="http://www.summitpost.com/images/thumb/104358.jpg" alt="Tooltip for IE: Gamskofel" title="Tooltip for Mozilla: Gamskofel"></a> <a target="_top" href="/mountains/photo_link.pl?photo_id=153372&amp;object_id=280&amp;type=mountain&amp;mountain_id=280&amp;route_id="><img src="http://www.summitpost.com/images/thumb/104190.jpg" alt="Tooltip for IE: Gamskofel" title="Tooltip for Mozilla: Gamskofel"></a> <br>
+<br>
+<a name="chapter_3"></a><h2>Essential Gear</h2>Helmet and if Winter Travel- Alpine Ax, Crampons, Snowshoes<br>
+<a target="_top" href="/mountains/photo_link.pl?photo_id=163262&amp;object_id=5065&amp;type=mountain&amp;mountain_id=5065&amp;route_id="><img src="http://www.summitpost.com/images/thumb/111719.jpg" alt="Tooltip for IE: Gamskofel" title="Tooltip for Mozilla: Gamskofel"></a> <br>
+<br>
+                     <a name="chapter_4"></a><h2>Images</h2>
+<div align="center"><table id="my_images"><tr>
+<td><a href="/the-final-summit-ridge-on-mt/108548/c-165356"><img alt="The Final Summit Ridge on Mt...." src="/images/square/108548.jpg"></a></td>
+<td><a href="/mount-assiboine-from-ascent/126431/c-165356"><img alt="Mount Assiboine from ascent..." src="/images/square/126431.jpg"></a></td>
+<td><a href="/mt-cory-summit-cornice-if/108549/c-165356"><img alt="Mt Cory Summit Cornice, if..." src="/images/square/108549.jpg"></a></td>
+<td><a href="/when-i-caught-back-up-with/108550/c-165356"><img alt="When I caught back up with..." src="/images/square/108550.jpg"></a></td>
+<td><a href="/cory-s-south-ridge-taken-from/111539/c-165356"><img alt="Cory\'s South Ridge taken from..." src="/images/square/111539.jpg"></a></td>
+</tr></table></div>
+            </article> 
+date:  
+difficulty: Moderate 
+elevation:  
+grade:  
+id: 165356 
+latitude: 51.2014 
+location: Alberta, Canada, North America 
+longitude: -115.6889 
+my_route_quality:  
+name: Cory Scramble 
+number_of_pitches:  
+page_url: http://www.summitpost.org/cory-scramble/165356 
+rock_difficulty:  
+route_quality: 0.49230769230769234 
+route_type: Scrambling 
+seasons: Summer 
+time_required: Most of a day 
+type: Route 
+

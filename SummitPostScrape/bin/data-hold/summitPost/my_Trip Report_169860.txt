@@ -1,0 +1,807 @@
+activities: Hiking, Mountaineering, Trad Climbing, Scrambling 
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Background</h2>In the summer of 2004 I signed up to participate in the <a href="http://www.snwburd.com/bob/challenge/2004/">Sierra Challenge</a>, an annual mountaineering sufferfest initiated and loosely organized by Bob Burd. I had occasionally heard the “Challenge” mentioned on the internet over the past 2 years that I had been in California, but I didn’t think that I had the stamina to participate.  After I climbed the 9,600 ft West Ridge of White Mountain earlier that spring, Bob suggested I try my hand at the Challenge. With this validation of ability, I decided to go for it.  <br>
+<br>
+Even though I had the strength and stamina to ascend over 8,000 ft in a day and climb for multiple days in a row, I still knew that at the time that I couldn’t keep up with the brutal pace of the Sierra Challenge, which lasts for 10 uninterrupted days, covering about 15-20 miles of hiking/climbing with an average of 5,500ft of elevation gain for each day. According to Bob, each day of the Challenge was “Not unlike climbing Half Dome, but more off-trail, more technically demanding, and at higher elevation”. In fact, the peaks all ranged from 12,500 ft to 13,700 ft in height, so acclimatization was an additional obstacle.  <br>
+<br>
+In June I moved back to Salt Lake City in order to earn enough money to finish my schooling at UC Berkeley, and this proved to be very beneficial to my training.  Since I was working about half the week, I made sure to get out hiking in the Wasatch Mountains for the other half. By the time I headed to California I had hiked around 95 miles and ascended some 40,000 feet since June. The day to day hiking on steep trails and cross country above 8,000 ft whipped me into shape and had me well acclimatized. I knew that I at least had a chance of completing most of the event.  <br>
+<br>
+<b>July 30th:</b><br>
+    Here I was, sitting outside of the Fremont BART station on a warm Friday morning, wearing a pack larger than my torso and towing an equally large suitcase. I also had an additional daypack with me stuffed full of gear, and with all of the luggage I really stood out from the crowd of typical commuters carrying purses and briefcases. Like in earlier trips, people probably wondered what sort mischief I was up to, or whether or not I was crazy, or homeless, or both!  <br>
+<br>
+I didn’t have a car in California, but through an exchange of e-mails I managed to secure a ride with Dave Wright, one of the Sierra Challenge participants.  I had gotten familiar with Dave prior to our meeting by reading Bob’s trip reports, since Dave had joined him on all of the previous Challenges. Dave was an ultra-marathon runner, with a full beard and a quiet manner that made him easy to recognize when he arrived at the BART station to pick me up. From there we stopped by his place to get a few last minute items and then we were off to Yosemite.  <br>
+<br>
+On the drive to Yosemite I got to know Dave quite a bit more. He haled from Illinois, working as a university researcher in chemistry.  Later on he moved to California (why, I cannot recall), and after taking some classes from UC Berkeley, landed a job with a computer company in Silicon Valley. He was really into is running, jogging over 10 miles a day over his lunch break, but in recent years his knees had given him trouble. Partly because of this, and also because of his less-than-fanatical manner, Dave rarely kept up with Bob on the earlier Challenges. Usually he would get uncomfortable on the scrambling, or just couldn’t keep up the pace. Although Dave had summited few of the peaks, he would still enjoy himself on the trail at an easier pace. I expected the same from him this year as well, which helped relieve some of my anxiety as I knew that I would at least have some company on the trail if I got left behind.  <br>
+<br>
+Once we reached Yosemite, we stopped briefly for some stretching and a little scrambling on Lembert Dome, one of many granite roche moutonnées  in Yosemite. It was a steep friction walk up an ever-increasing incline of smooth granite as we arced around the mound. Luckily, Dave knew of a class 3 route that passed through territory that would otherwise be low 5th class rock.   <br>
+<br>
+Upon reaching the top some 500 vertical feet above where we had begun, we were treated to a panoramic view of Toulomne Meadows, with tiny Pothole Dome to the west, Mt Dana to the east, and Mt Maclure and Lyell seemingly floating in the horizon above their glaciers far to the south. These last two peaks would be our day hike objective on the second day of the challenge and they looked impossibly distant for such an endeavor.  <br>
+<br>
+After savoring the views and sharing some food with some adventurous tourists, we descended the steeper north side of the dome, descending a depression beginning at a cleft in the rock that continues through the cliffs to the forest below. This route was steeper then the other one, and the few loose rocks kicked splattered on the trees below – best to be careful here, even though the climbing was class 3.  <br>
+<br>
+About 15 minutes later we reached the car and drove across the Yosemite Border to some free camping on the far side of Tioga Pass – the famed Camp 9 that I had heard so much about. An aptly named camp at 9,000 ft just off the road descending from the pass, Camp 9 is a lightly maintained campground with picnic tables located about 100 yards down a trail from a locked gate at one of the switchbacks of the paved highway. It is a walk-in campsite used mostly by climbers, and it is the perfect place for cheap lodging and a night’s acclimatization before any hike or climb in the area. There I filled my water bottles,  organized my climbing rack , reviewed Mountaineering: Freedom of the Hills on rappels and gear placement, and then turned in early for the night so as to be well rested for our 6am departure time at the trailhead the next day.  <a name="chapter_2"></a><h2>Day 1: North Peak &amp; Mt Conness</h2>
+<b>July 31</b><br>
+<br>
+<noformat><table border="0" cellpadding="2" cellspacing="1">  
+<tr>
+
+<td width="40%">
+<font color="BLUE"><u><b>Stats</b></u></font>  
+<ul>
+<li>
+<b>Routes:</b> North Pk via<a href="http://www.summitpost.org/show/route_link.pl/route_id/3546/object_id/495">Northwest Ridge</a>, Conness via <a href="http://www.summitpost.org/show/route_link.pl/route_id/841/object_id/335">North Ridge</a>, <a href="http://www.summitpost.org/show/route_link.pl/route_id/258/object_id/335">East Ridge</a>  
+</li>
+<li>
+<b>Elevation Gained:</b> 4,126'  
+</li>
+<li>
+<b>RT Distance:</b> 10 mi  
+</li>
+<li>
+<b>RT Time:</b> TBA  
+</li>
+<li>
+<b>Trailhead:</b> Saddlebag Lake  
+</li>
+<li>
+<b>Summit Elevs.:</b> North Pk: 12,242'   Mt Conness: 12,590'  
+</li>
+<li>
+<b>Rating:</b> III, 5.6  
+</li>
+</ul>
+</td>  
+
+<td>
+<center><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__135281__object_id__13451__type__user__mountain_id____route_id____user_id____order_by____limit__" target="0"><img src="http://www.summitpost.com/images/135281.jpg" height="200"></a></center>
+</td>  
+</tr>
+</table></noformat> <br>
+<br>
+<br>
+  The sun was barely rising and the temperature was just climbing above 40<sup>o</sup>F, but already there was a flurry of activity at the Saddlebag Lake trailhead. There were 13 people signed up for today, making it the largest Sierra Challenge gathering to date, and everyone showed up. Most of the people were planning on climbing Mt Conness via the class 3 East Ridge.  I had already done this route before as a descent from climbing the West Ridge, so I was up for something different.  <br>
+<br>
+I would be joining Bob and some other die-hards on climbing Mt Conness via the North Ridge, which is rated 5.6. Joining me on this route was Sam Mills, whom I had climbed with up the Crescent Couloir on Round Top in the Spring, and Joel Wilson, a fellow Cal student who I had done many mountaineering trips with.     <br>
+<br>
+Although the 5.6 rating was for the downclimb from two gendarmes  midway along the ridge, there was still class 4-5 scrambling leading up to them and between them and the summit. Everyone attempting this route was going to free-solo  it apart from rappelling off the gendarmes, which made me uncomfortable since one would be committed to finishing the route after that point, and I wasn’t sure how well I would handle the exposure. Luckily Michael Graupe had agreed to join me on the route, giving us the option to set up a roped belay beyond the rappel if needed. He carried the rope, and I carried all of the pro .   <br>
+<br>
+True to the trip reports I read of earlier Sierra Challenges, Bob set off 10 minutes after the starting time. The pace wasn’t too bad, but then again, we were on a nice, flat trail at the beginning of the day. Michael and I were probably carrying the heaviest packs of the day, but I managed to keep up just fine. Soon we left the main trail and continued along a series of faint use-trails  that wound their way up the boulder-strewn meadows as we climbed higher above tree-line, dropping occasionally into a pristine lake or creek as we ascended.  <br>
+<br>
+For those of us heading to Conness’ North Ridge, Bob had planned to also include North Peak as an extra goodie along the route. On the topos he provided online he showed us ascending the class 3 east slope, but when I matched up the peak with the map, I was confused, since it appeared that we were instead heading towards the north ridge of the peak. I guess Bob had a change of plans.   <br>
+<br>
+Once we reached the ridgeline the fun began. It was enjoyable class 2-3 scrambling along ridgeline slabs with some spicy exposure on both sides. Spicy – I hadn’t heard this term used before in climbing, but it soon became a part of my lexicon. Along the route we reached 3 notches that forced us onto some ledges on the side of the ridge. Each one of us found a different way to bypass these obstacles, and on one I found an enjoyable 10 ft crack that provided some fun 5th class climbing. The second notch forced us onto some class 4 sloping slabs on the west side of the ridge, before ascending the far side of the notch on the ridge’s east side.   <br>
+<br>
+Then we reached the crux – a steep headwall bypassed by ascending some ledges on the east side. Besides being steep, below the ledges was a vertical drop some several hundred feet to the glacier below. Luckily the rock was solid and the pitch was short, and soon I was above it. From this point on there was a tedious and sandy class 2 slope up the final 200 vertical feet to the summit, and soon I was standing on top. It was only 8:30 am, but already I was standing at an elevation of 12,242 ft – not much further to go to the summit of Conness!. At this point I was in the middle of the two main groups that had formed out of our North Ridge party, so I had some time to sign the summit register and enjoy the awesome view the North Peak summit provided of the North Ridge of Mt Conness. The class 4 ridge leading up to the first gendarme looked intimidating, but also exciting.  <br>
+<br>
+After a few minutes rest, Joel and I left Bob on the summit and headed off towards the col  below. From there we soon got into some very solid and thrilling scrambling across class 3-4 rock. I had had reservations about this part, but free-soloing the class 4 felt very secure. Sam Mills led the way, and soon Bob blazed past us.  <br>
+<br>
+From the top of the first gendarme the route finding got more difficult, but we soon found the easy class 2 ledge described in earlier trip reports. It was narrow and hard to find at first, since it cut cleanly across the vertical 1,000 ft face of the east side of Conness’ North Ridge. Luckily it proved easy to cross. Many a climber before had mistakenly rappelled off of the first gendarme, only to have wasted time getting to the second one, and this shortcut saved us some difficulty.  <br>
+<br>
+By the time I reached the second gendarme Bob and some of the others had already begun attempting to down climb the 5.6 route down the backside.  They made it down about 15 ft to a ledge before they decided that it was a little too much for them to free climb. Michael got out the rope and we fixed our first rappel for the route. While doing so I noticed that some people were already halfway up the North Ridge, soloing very close to the edge.  The route looked very intimidating – a practically vertical face, yet the climbers ahead of us seemed to stick to it easily.  <br>
+<br>
+Joel had caught up by this time and he felt confident that he could free-solo the route, but since he hadn’t planned on this beforehand he had no harness to use for a rappel.. Luckily I had brought a 30 ft piece of webbing to use for an anchor, and I quickly fashioned a Swiss Seat for him.  <br>
+<br>
+The rappel was straightforward and ended on a surprisingly non-threatening ledge. From earlier photos I had seen of the route this ledge looked very exposed, but it was nothing more than a series of granite ledges with a gravelly slope with some room to walk around.  I waited here to collect my rope, as well as to help coach Matthew Holliman down the rope. Apparently he had had a bad experience rappelling on Lone Pine Peak earlier that year and was more than a little tense.   <br>
+<br>
+I continued on to the next rappel and then set off on my own route up the western side of the North Ridge.  There were many variations possible and I was able to keep the exposure at a level that I was comfortable with by constantly following some diagonally ascending ledges to gain height and then cutting back towards the ridge.  The rock was solid and provided a fun variety of climbing – some face climbing here, a few foot and hand jambs there.  Staying further away from the ridge, the climbing was more like 4th class with a little low 5th class intermixed.   <br>
+<br>
+Although I was still a little tense from the exposure, I had a great time and soon I was at the end of the ridge.  From there I could look back on the route. It was covered with people climbing every which way. I could also see another team of climbers topping out on the West Ridge. It seemed that Mt Conness was being attacked by a horde of ants!  I doubt the peak has ever seen this much traffic on the North Ridge at one time, much less combined with climbers topping out on the other routes.  <br>
+<br>
+Bob and a number of the other climbers were waiting at the summit. We congratulated each other, took photos and a short break, and then people began on their way. It was only midday and we were already nearly done!  I waited a long while on the summit for Michael after everyone left – I had left my Gatorade with him earlier on the climb and I wanted it back!  Eventually I gave up and headed down the familiar East Ridge. I had descended this route nearly a year ago after a night spent climbing the West Ridge with Dirk Summers.  I scrambled down some sandy ledges and walked across the sidewalk-width spine of the ridge near the plateau. It was a steep vertical drop off on both sides, offering beautiful views of the mountain. This section was short – maybe 20 to 30 feet. Then I was on the high plateau. Luckily I had been here before, so I easily found the right part of the plateau edge to approach in order to head down the correct drainage.   <br>
+<br>
+I descended some unpleasant sandy class 2 ledges and then headed for the class 3 ridge route marked on the topo that Bob had posted on the internet.  The ridge had many ledges, but none seemed to last long before cliffing out. At each dead end I dropped lower and never seemed to find a good way to get back up to the ridge without a lot of route finding.  I knew that I was getting further behind the group and that I needed to get back to the trailhead before everyone left – I wouldn’t have a ride out of there otherwise.  I decided to take the straightforward approach to the East Ridge route that I had taken on my last visit to Conness and dropped down from the ridge, passed by a small pond north of Alpine Lake and scrambled down the wet class 3 ledges to reach a maintained trail. Soon before reaching the Saddlebag campgrounds I cut north cross country and headed straight up some steep slopes to reach the road just short of the Saddlebag Lake trailhead. <br>
+<br>
+I searched for a while and couldn’t find any cars that I recognized – Dave had since left for Camp 9. Luckily Sam Mills was still around – he had been having some trouble with his truck.  I hitched a ride with him into town for some R&amp;R before everyone got together for dinner.                   <br>
+<br>
+<noformat><table>
+<tr>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__135277__object_id__13451__type__user__mountain_id____route_id____user_id____order_by____limit__" target="0"><img src="http://www.summitpost.com/images/135277.thumb.jpg" height="100" border="2"></a></td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__135278__object_id__13451__type__user__mountain_id____route_id____user_id____order_by____limit__" target="0"><img src="http://www.summitpost.com/images/135278.thumb.jpg" height="100" border="2"></a></td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__135279__object_id__13451__type__user__mountain_id____route_id____user_id____order_by____limit__" target="0"><img src="http://www.summitpost.com/images/135279.thumb.jpg" height="100" border="2"></a></td>
+</tr>
+
+<tr>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__135281__object_id__13451__type__user__mountain_id____route_id____user_id____order_by____limit__" target="0"><img src="http://www.summitpost.com/images/135281.thumb.jpg" height="100" border="2"></a></td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__135287__object_id__13451__type__user__mountain_id____route_id____user_id____order_by____limit__" target="0"><img src="http://www.summitpost.com/images/135287.thumb.jpg" height="100" border="2"></a></td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__135288__object_id__13451__type__user__mountain_id____route_id____user_id____order_by____limit__" target="0"><img src="http://www.summitpost.com/images/135288.thumb.jpg" height="100" border="2"></a></td>
+</tr>
+
+<tr>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__135290__object_id__13451__type__user__mountain_id____route_id____user_id____order_by____limit__" target="0"><img src="http://www.summitpost.com/images/135290.thumb.jpg" height="100" border="2"></a></td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__135283__object_id__13451__type__user__mountain_id____route_id____user_id____order_by____limit__" target="0"><img src="http://www.summitpost.com/images/135283.thumb.jpg" height="100" border="2"></a></td>
+<td>
+<a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__135284__object_id__13451__type__user__mountain_id____route_id____user_id____order_by____limit__" target="0"><img src="http://www.summitpost.com/images/135284.thumb.jpg" height="100" border="2"></a>  </td>
+</tr>
+</table></noformat><a name="chapter_3"></a><h2>Day 2: Mt Lyell &amp; Mt Maclure</h2>
+<b>August 1st, 2004</b><br>
+<br>
+<noformat><table border="0" cellpadding="2" cellspacing="1">  
+<tr>
+<td width="40%">
+<font color="BLUE"><u><b>Stats</b></u></font>  
+<ul>  
+<li>
+<b>Routes:</b> <a href="http://www.summitpost.org/show/route_link.pl/route_id/167/object_id/358">Lyell Glacier</a>, West Ridge, Mt Maclure via <a href="http://www.summitpost.org/show/route_link.pl/route_id/1315/object_id/1631">Southeast Ridge</a>  
+</li>
+<li>
+<b>Elevation Gained:</b> 5,041'  
+</li>
+<li>
+<b>RT Distance:</b> 26 mi  
+</li>
+<li>
+<b>RT Time:</b> TBA  
+</li>
+<li>
+<b>Trailhead:</b> Toulomne Meadows  
+</li>
+<li>
+<b>Summit Elevs.:</b> Mt Lyell: 13,114'   Mt Maclure: 12,960'  
+</li>
+<li>
+<b>Rating:</b> Class 3  
+</li>
+</ul>
+</td>  
+
+<td><center><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134668__object_id__358__type__mountain__mountain_id__358__route_id____user_id____order_by____limit__" target="0"><img src="http://www.summitpost.com/images/134668.jpg" height="250"></a></center></td>  
+</tr>
+</table></noformat><br>
+<br>
+<b>Day 2: Mt Maclure &amp; Lyell</b><br>
+<br>
+Dave Wright’s ankle had been giving him trouble from the Conness climb, so he decided to take a rest day.  Fortunately Michelle Peot was willing to pick me up on her way to the Tuolomne Meadows trailhead. I hopped into her pickup and we were at the trailhead by 3:50 am. Everyone was meeting extra early today – the trailhead start time was scheduled for 4 am to account for the extremely long distance to be covered that day.  We had a 28 mile day hike to look forward to, and it looked to be quite a grind – during the first 8.5 miles of trail we would only gain about 500 ft of the 5,050 ft to be ascended that day.  <br>
+<br>
+A lot of people showed up at the trailhead. The hike the day before had had record attendance for the Sierra Challenge, and many of the participants had come back for another beating.  <br>
+<br>
+We left at 4:10 am at a blistering pace – Matthew Holliman was in the lead, followed by Michael Graupe and me. Michelle and others were right behind me. Hiking by headlamp became difficult at such speeds as we kicked up a lot of dust. My problem became worse as my headlamp light began to fail – I was trying to squeeze as much life out of the batteries as I could, and I had the bad judgment to start of with this group of fast hikers without a fresh set of batteries. My light kept flashing on and off, usually at inopportune times, causing me to trip on the rocks and bridges that we crossed.  <br>
+<br>
+I knew that we had a long approach to get to the cross-country travel and scrambling, and I couldn’t get left behind this early. If I did I would only fall further behind since I would have to do my own route finding and I wasn’t as familiar with the area as other were.  Since someone was still right on my heels I assumed everyone was and kept going. As I tripped left and right I left my momentum carry me along the trail, landing on my other leg and continuing to hike along, half jogging.  <br>
+<br>
+We passed through the occasional meadows in Lyell Canyon. They looked very surreal as they were bathed in the cold azure glow of the full moon. We pressed on in the dark without a word, hiking at a pace I could barely sustain, with only the sound of boots clomping along the trail – time seemed to stand still. Meadows came and went, and in the dark everything looked the same.  Suddenly the stillness of time was broken by the yipping of coyotes somewhere out in one of the meadows – we were certainly in wild country now.  <br>
+<br>
+Oddly enough it was a relief for me when we reached the first set of switchbacks. My legs were dying from the brutal pace – I had never hiked so fast for so long in all my life. We slowed down a bit on the hill. In addition to this, my legs were further relieved by pushing upward for a change rather than forward. I’m used to the steep trails of the Wasatch, not flat expanses, so now I was beginning to be in my element. Heading up the hill offered a slight reprieve and I no longer felt like I would collapse – I might keep up after all!  Soon the need to dig a cat hole became too great and I had to give up the chase. Even though everyone was still right on my tail, I just had to stop. As I dropped off the trail I noticed that Michelle wasn’t behind me. Dmitry seemed to be the only one following me – no one else was in sight!   <br>
+<br>
+I took care of business and was ready to head on 10 minutes later when I saw Bob Burd and some other mountain goats rushing up the trail. By this point my legs had begun to cramp up a little and I was hiking a little slower – I had been hiking at about 4 mph for the last 2 ½ hours and by this time my legs were spent.  Bob soon caught up and I inquired as to whether we were going to take a brief 10 minute breather for some food at some point soon.   <br>
+<br>
+“Break?!! What are you talking about? We’re not taking any breaks!” he chirped as he passed me. Oh boy, today was going to be a rough day.  <br>
+<br>
+Soon we were above tree line. Just as we reached a bend in the trail at a picturesque alpine lake, Bob kept heading straight. Now we were beginning the two miles of cross country remaining before we reached the peaks. Bob and Joel Wilson had gotten ahead of me at this point, and I struggled on just to keep them in sight. They slowed down a bit as we reached the beginning of some granite slabs and our first views of Mt Maclure for the day. At one point I caught up to Bob as he stopped to photograph the bones of some deer or mountain goat. He turned to me with a grin on his face, and with a gesture towards the skeleton remarked “Don’t let this happen to you!”  Perhaps that was the skeleton of one of the slower hikers on an earlier Sierra Challenge?  <br>
+<br>
+Bob and Joel soon gained about 100 yards on me as we headed up the seemingly endless granite slabs. I felt like I was scrambling in southern Utah as I walked up all of these rock slabs – there was no vegetation in sight, only the smallest turf and a desert of crystalline rock.  <br>
+<br>
+I caught up with Joel at the toe of the Lyell Glacier. Bob had already rushed up the glacier, but Joel was still putting on his crampons. By this point I could see both Lyell and Maclure and the route finding seemed straightforward.  Joel and I hiked together from this point, heading up the glacier straight toward the rocky cliffs of Mt Lyell. I saw a figure stop at the bas of the cliffs and watch us for a little while. I figured it was Bob. By the time we finished cramponing up the awkward runnels on the glacier I had lost track of the figure. According to the purple line on Bob’s topo we were to head toward a low point in the ridge on the east side of the mountain, so Joel and I angled towards the saddle.   <br>
+<br>
+At the saddle we had an awesome view of Banner Pk &amp; Mt Ritter. After taking a few photos we attempted to follow the route shown on the topo, but it soon became obvious that the ridge was NOT 3rd class like it was marked in the topo. We crossed the moat along the cliffs several times as we headed west, looking for a break in the cliffs. After about 200 feet I saw a series of steep ledges that looked to be high class 3 to class 4. Joel and I scrambled up the ledges and the route seemed to go through. The rock was solid and the climbing exposed. After zigzagging up the cliff face we reached a subtle ridge and followed it to the summit of Mt Lyell.  <br>
+<br>
+Bob Burd had signed the summit register a full half hour before us! Our route finding difficulties had really slowed us up. Joel and I headed northwest toward the class 3-4 west ridge of Mt Lyell. We angled away from the main ridge and dropped straight to the glacier down some steep sandy ledges. The snow was very steep and hard packed, so we put on our crampons and down climbed the slope facing into the hill.  Just at this time Matthew Holliman was topping out of the glacier, looking very flustered. He had no crampons!  To save weight he had only brought an ice axe, figuring that the snow would have softened up by the time we reached the peaks.  Now he was climbing precariously up the slope, chopping foot steps for himself with his ice axe. He had chosen to climb Maclure first and was now heading up Lyell. We wished him luck on the unpleasant loose route up that part of the mountain and headed down to the saddle separating Mt Maclure and Mt Lyell.   <br>
+<br>
+Joel took off ahead of me at this point and soon disappeared. I trudged up the unpleasant class 2 boulders, heading towards the horizon of the hillside in front of me. Finally I reached the beginnings of some solid rock just as Joe Dawson, John Fedak, and Michelle Peot were heading down. As I waited for them to climb through the bottleneck I questioned them about the remainder of the climb. Apparently some good class 3 was all that I had left!    <br>
+<br>
+I scrambled up onto the ridge and followed the sheer knife edge over to the windy summit.  By this point I figured that I was the last one up there and became worried of getting left without a ride at the trailhead again. I hurried back along the ridge and dropped down to the glacier. I was pleasantly surprised to find a snowfield that cut through the tedious talus slope and glissaded down the slope. Traversing across the glacier I soon caught up with Joe, John, and Michelle. <br>
+<br>
+At this point we were all tired out and moving slowly. Since I knew that Michelle could give me a ride I relaxed and hiked with the rest of the group at an easier pace. Soon we reached the never ending cycle of meadows and trees filling Lyell Canyon. It was mid-afternoon and now the trail was full of backpackers. Most were carrying fishing poles and nearly all of them were about 30 lbs overweight and sitting alongside the trail.  Apparently this easy stretch of the John Muir trail was popular for easy backpacking fishing trips!  <br>
+<br>
+We stopped for a short break, ate some food, and soaked our feet in the cold creek. The rest felt nice and the cold water felt nice against our bruised and battered feet. Then we were on our way again. By this time I had developed a coping mechanism to deal with the torture of Lyell Canyon. I picked out a patch of rocks on the opposite hillside as far down the canyon as I could see. I watched with excitement as these rocks slowly got closer to us. By the time we were even with them I rewarded myself by picking out another marker as far down the canyon as I could see.  This psychotic exercise and our group’s incessant fantasizing of that night’s dinner kept me going.  <br>
+<br>
+As we neared a bend that I excitedly pointed out as the end of that godforsaken Lyell Canyon John began to fall behind. He assured us he would catch up and we continued on.  Once we reached the meadow we got confused as to which trail to take – there were a lot of forks in the trail that we had missed hiking in the dark earlier that day.  Joe directed us on right fork after a bridge crossing and we soon reached an inconclusive break in the trial at another river. We waited here a while for John to catch up and eventually gave up waiting for him.  I took my best guess as to which way to go and we hiked on. We crossed a bridge and passed the Tuolomne Meadows lodge. Now we knew were we were going – we had ended up somewhere east of the trailhead. Joe and Michelle recognized were we were and we headed down the road to reach the trailhead parking.  <br>
+<br>
+I was exhausted. We had been hiking for about 14 hours at a very fast pace and my legs were beat. I knew that I probably wouldn’t have the strength in me to cover the 18 miles and 6,240 ft vertical gain to climb Mt Julius Ceasar the following day. I had pushed myself to my limit.<br>
+<br>
+<noformat><table>
+<tr>
+<td><a href="http://community.webshots.com/photo/274816546/274819715IEepHc">Maclure from Lyell Glacier</a></td>
+<td><a href="http://community.webshots.com/photo/274816546/274819735xuMyGb">Lyell from Lyell Glacier</a></td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134663__object_id__358__type__mountain__mountain_id__358__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.com/images/134663.thumb.jpg" height="100" border="2"></a></td>
+</tr>
+
+<tr>
+<td>
+<a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134663__object_id__358__type__mountain__mountain_id__358__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.com/images/134666.thumb.jpg" height="100" border="2"></a>  </td>
+<td>
+<a href="http://community.webshots.com/photo/274816546/274819809ZPyjwi">Joel at Lyell's East Col</a> </td>
+<td>
+<a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134667__object_id__358__type__mountain__mountain_id__358__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.com/images/134667.thumb.jpg" height="100" border="2"></a>  </td>
+</tr>
+
+<tr>
+<td>
+<a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134668__object_id__358__type__mountain__mountain_id__358__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.com/images/134668.thumb.jpg" height="100" border="2"></a> </td>
+<td>
+<a href="http://community.webshots.com/photo/274816546/274819873eUoSjN">East Ridge of Maclure</a> </td>
+<td><a href="http://community.webshots.com/photo/274816546/274819899dCNOla">Lyell from Maclure Summit</a></td>
+</tr>
+
+<tr>
+<td>
+<a href="http://community.webshots.com/photo/274816546/274817753wIeuZY">Mt Lyell from Muir Trail</a> </td>
+<td></td>
+<td></td>
+</tr>
+</table></noformat><a name="chapter_4"></a><h2>Day 3: Homeless in Bishop</h2>
+<b>August 2nd, 2004</b><br>
+<br>
+A lot had happened the previous day. I had hiked way too fast and my legs were a wreck. I also experienced some very bad chafing to the point of bleeding and as a result I could hardly move my legs. I stayed in a motel in Bishop with Dave Wright that night, but because of our differences in schedules on the Challenge, he suggested that I ride and stay with Bob Burd for the rest of the trip.   <br>
+<br>
+Dave headed out to climb Julius Ceasar with the rest of the group while I stayed in Bishop to recuperate. The motel room was only booked for one night, so at 11 am I gathered all of my gear together and checked out. At this point I had nowhere to go and had all day to spend in Bishop.  I headed to the park to lay in the shade and read a book.  I looked rather odd walking around town, as I was carrying one large backpacking pack stuffed as full as I could get it, a full daypack, and a rolling suite case. I was also looked disheveled and walked with an awkward limp.  <br>
+<br>
+I laid against a tree in the park and read my book. I noticed some other people waiting around in the park who waved to me. They were homeless people! They must have thought that I was one of them!  <br>
+<br>
+Spending all day in the park with nothing to do nearly drove me crazy. I finished my book and tossed &amp; turned beneath the shady trees until it was time to head over to where we had agreed to have dinner. I was VERY bored, but luckily my legs had healed well enough to hike again the next day.  <a name="chapter_5"></a><h2>Day 4: Basin Mtn - Four Gables Traverse</h2>
+<b>August 3rd, 2004</b><br>
+<br>
+<noformat><table border="0" cellpadding="2" cellspacing="1">  
+<tr>
+<td width="40%">
+<font color="BLUE"><u><b>Stats</b></u></font>  
+<ul>  
+<li>
+<b>Routes:</b> <a href="http://www.summitpost.org/show/route_link.pl/route_id/3180/object_id/3021">East Couloir</a>, <a href="http://www.summitpost.org/show/route_link.pl/route_id/4841/object_id/4350">Northeast Ridge</a>, <a href="http://www.summitpost.org/show/route_link.pl/route_id/4844/object_id/4352">South Ridge</a>, <a href="http://www.summitpost.org/show/route_link.pl/route_id/4845/object_id/4352">East Ridge</a>  
+</li>
+<li>
+<b>Elevation Gained:</b> 6,262'  
+</li>
+<li>
+<b>RT Distance:</b> 12.33 mi  
+</li>
+<li>
+<b>RT Time:</b> TBA  
+</li>
+<li>
+<b>Trailhead:</b> Horton Lakes  
+</li>
+<li>
+<b>Summit Elevs.:</b> Basin Mtn: 13,240'   S Basin Mtn: 13,240'  Four Gables: 12,720'  
+</li>
+<li>
+<b>Rating:</b> Class 4  
+</li>
+</ul>
+</td>  
+
+<td>
+<center><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134671__object_id__3021__type__mountain__mountain_id__3021__route_id____user_id____order_by____limit__" target="0"><img src="http://www.summitpost.com/images/134671.jpg" height="200"></a></center>
+</td>  
+</tr>
+</table></noformat><br>
+<br>
+Once again I was up before sunrise. Bob, Michael, and I headed out to the Basin Mountain trailhead while Matthew went on his own hike for the day. Today, as in the first day, there would be two groups on the mountain: Michael, Bob, Michelle, Joe, and I would climb the class 4 east chute of Basin Mountain. The rest of the group were going to ascend the class 2 northwest slopes of the peak.    <br>
+<br>
+While technically easier, this latter route seemed nuts to me – who in their right mind would want to slog up a 2,000 ft scree slope in the midday sun??!!  Our route would take us up 5,000 vertical feet in a little under 5 miles. For those who still had the energy, Bob had planned to scramble along the class 4 ridgeline and climb and unnamed peak before ascending the 4 Gables and descending the East Chutes of the Gables.  <br>
+<br>
+The dirt road taken to get to the trailhead had been described as “rough” – this was very true and four wheel drive was a nice asset to have. We all met at the gate blocking further access on the road and were hiking by 6am.  <br>
+<br>
+I took off first and easily stayed in the lead. I had had a full rest day, and that certainly gave me an advantage, but I think the real reason I hiked so much faster was because we were heading straight up a steep continuous slope rather than a meandering trail, and physically hiking up the slope was more like hiking in the Wasatch than in the Sierra. I headed straight up the hillside through the sagebrush, cutting across the road switchbacks. I kept a mild rest step going but never stopped, and within an hour I was at the top of the steep slope and was following an old mining road as it traversed around the slope and headed into a hanging valley.  Everyone else was far behind.  <br>
+<br>
+Not wanting to give up my rarely achieved lead, I headed up the road into the cirque.  It was unexpectedly more beautiful than I had expected. I was treated with a nice view of rugged High Sierra peaks to the south, a bare dusty valley in striking contrast to the east, a steep snow-covered slope to the west, and huge cliffs towering above me from the north to the south west.  Soon the road ended and I scrambled up the loose rock moraines in the cirque. After some ups and downs I came to a tongue of snow. The snow was rock hard, but I could edge my shoes just enough as I kicked to make some faint steps, so I raced up the snow to avoid walking on the talus.  Ahead of me was a very steep chute filled with talus and scree, rising for another 1,000 vertical feet before terminating at a prominent notch in the cliffs. Because I had hiked over a moraine at the mouth of the valley, I knew that this chute wouldn’t be easy – it would likely be filled with lots of large rocks supported by a base of scree with a consistency of powdered sugar.  <br>
+<br>
+Sure enough, walking up the slope was like walking up a sand dune, but worse. Rocks slide down as I stepped up, and by the time my leg was extended I was lower than I had been before standing up! I had to scramble up the slope on all fours to maintain progress, and the constant sluffing of debris was very tiring. I headed toward the seemingly more solid south side of the chute and took a brief food break on a large stone stuck in the hillside.  By then the others had reached the snow tongue, so I slung on my pack and continued up the slope.  <br>
+<br>
+Soon I was near the notch, but the notch was split!! I had no idea which way to go, so I waited up for Bob to tell me.  Once he was within earshot I asked for directions.  <br>
+<br>
+“Which way do we go, left or right?” I shouted. Bob shrugged his shoulders. Crap – I let Bob and Michael catch up to me and they were of no help – so much for my lead.  I picked the right chute and slogged on. At the top of the chute I spotted a nice ledge system heading back to the east. I climbed up a chimney and traversed along the ledge. Michael followed me this way while Bob took another route.    <br>
+<br>
+I stopped to climb up a nice looking off-width chimney at a point where the ledge narrowed and Michael continued around the corner on the ledge. About 10 ft up the chimney was a large chock stone, and above that were some large holds. I wanted to take this more direct route rather than wasting time traversing back and forth on the cliff, so I climbed up the chimney. I knocked on the chock stone and it felt very solid – there was no hollow drumming sound or vibration, and it seemed secure. I stood up on the chock stone and began searching for some good holds to use for exiting the chimney. 10 feet below me was a 4 ft wide ledge and then a 50 foot drop to the saddle below, so I wanted to make sure my next move was very secure. Suddenly the chock stone blew out from underneath and I fell. I was startled but luckily I had enough sense to lean into the rock to avoid toppling over backward and out from the chimney. My head raked along the gap of the chimney, my helmet grinding against the rock. Then I hit the ledge with my legs slightly bent. They splayed out behind me and I ended up lying belly first against the inside corner of the ledge and the granite wall. Luckily I didn’t bounce off the ledge.  <br>
+<br>
+During the fall my right shin had raked against the rough granite and now it was bleeding profusely. There was a large mass of red and black covering about 3 square inches of my shin just below the kneecap, and the blood poured down the shin and all over my climbing shoe. I was still a little bit in shock from the traumatic fall and felt no pain, so I continued on. I was still very unnerved from the fall, though, and moved very conservatively. For the rest of the Challenge I was very leery of climbing on any rock that looked as if it could break off. <br>
+<br>
+I was tense and fatigued from the boost of adrenaline as I reached the summit. Bob and Michael were waiting for me there and they were surprised to see the state I was in. My leg was still bleeding a bit, but for the most part the blood had coagulated. I took off my climbing shoe to check the extent of the injury – blood had poured all over the tongue of the shoe and had collected inside of it. Michael got out his first-aide kit and gave me some anti-septic sticks to treat the gouged wounds. The problem was my leg had so much red and black gobs on it that I couldn’t tell where I had been cut. Not wanting to start the bleeding again I doused the area that seemed to be were I had been gouged and slapped on a band aide.  It looked rather silly – a small band aid stuck on the middle of a bloody leg. It looked quite insufficient, but it was the largest bad aide we had.   <i>(Later on the wound would get infected and I would need medical treatment. On the bright side, I got to take part in a study for its treatment and was paid in the process.)</i><img src="/message_board/images/laugh.gif" width="15" height="15">  <br>
+<br>
+I was not ready to give up for the day, though. The wound had stopped bleeding and didn’t hurt, so I followed Bob and Michael along the class 4 ridgeline instead of descending. It was too early in the day to head down! The ridge was solid for the most part and had some very exposed portions. At one point Bob jumped across a gap. Michael did the same. I had had enough falls for the day, so I cowardly crawled into the gap, reached across it, and climbed up the other side.  After a while I began to realize that Bob wasn’t always taking the line of least resistance on the ridge – best not to follow him blindly.  <br>
+<br>
+At a particularly exposed part of the ridge Michael and I saw Bob climb straight up a nasty looking part of the ridge. We had had enough of this and chose our own line on the ridge. We climbed some parallel finger cracks ascending diagonally up the left side of the ridge, foot jamming the lower crack and holding onto the upper crack for balance. We topped out behind Bob – apparently he had wanted to get an awesome shot of us climbing up the way he had gone, but we didn’t follow him as expected.  <br>
+<br>
+Soon we came to the crux of the ridge – a rather awkward off width chimney with a chock stone at the top. Michael had a harder time climbing down it than Bob since he was shorter. I followed, hanging with fully extended arms onto the top of the chimney and reaching as low down as I could to find a foothold. Then we were on our way and soon topped out on the summit of the unnamed peak along the ridge.  <br>
+<br>
+Surprisingly it had a summit register, an old band aide can left by a Sierra Club ascent party in 1960. There were very few signatures and the register, one of note being Peter Croft's signature. Apparently the peak was informally named South Basin Mountain (being slightly further south of the summit of Basin Mountain). We happily added our names to the register and continued on.  <br>
+<br>
+By this time all that class 4 climbing had tired me out psychologically, since I was still reeling from my fall earlier in the day. Making sure to keep good footing while boulder hopping down the south slopes of South Basin Mountain, I soon fell behind Bob and Michael, who weren’t walking nearly as conservatively as I was.  Once I noticed this I rushed to catch up. I met up with them as they were filling water at an unexpected stream trickling out of the remaining snow pack. Bob and Michael were concerned that I was tiring out for the day and suggested that I call it a day and descend the class 2 gulley that the stream drained down.  I knew that my slowness was more from a psychological fatigue rather than a physical one, and since the rest of the ridge was a broad slope, I knew that I could keep up for the remainder of the climb. I insisted that I could keep up and that my falling behind was accidental.  <br>
+<br>
+Bob and Michael were nice enough to let me continue on with them and we soon were making good time along the sandy class 1-2 slopes of the 4 Gables. It was tedious and the 4 Gables didn’t look very impressive from our vantage point. We circled around to the west and ascended the main summit – oddly it was obviously shorter that the next one to the south. We signed the summit register, took some photos, and headed down the class 3 east chutes.  <br>
+<br>
+The chutes had some moderately loose rock and we took care to climb one at a time or stay out of each other’s fall line. After descending about 400 feet we crossed over the arête to our left and continued descending the next chute over. It was nice for a descent, but the route certainly didn’t seem like a fun one to climb up.  <br>
+<br>
+Bob soon disappeared in the lead and Michael and I hiked down together. In hopes of catching up to him, we took a shortcut across the open grassy slopes and rock slabs of a plateau to the west of the Upper Horton Lakes. We descended the next drainage over and were just about down to the trail when we spotted Bob about even with us. He was already on the trail and we had some bushwacking to do, so we lost him again. <br>
+<br>
+The final bushwacking was terrible! Every branch seemed to smack against my bloodied shin. Luckily we were soon out of the brush and on the trail.  Soon we caught up to Bob and we hiked together down Horton Canyon.  Along the descent we had nice views of the south slopes of Mt Tom. We also came across some remanents of an old mining camp.  <br>
+<br>
+Having climbed 2 more peaks than everyone else, we had expected to be the last ones at the trailhead. Instead we were the first ones back! Apparently everyone had had some sort of trouble on the mountain that day.  Joe and Michelle had fallen behind us early on and had taken the wrong chute in the hanging valley. They ended up a good ways east along the ridge and had a long tedious scramble along it to get to the summit.    <br>
+<br>
+Michelle and Joe descended behind the others who had come up the north side.  As they descended, one of those hikers, Peter Sih, had somehow gotten himself stuck in the middle of some exposed cliffs and couldn’t climb out. Michelle down climbed to help him while Joe ran out to call Mountain Search and Rescue. Joe had a run in with a mountain lion on the way down but got back to the trailhead without incident.  Michelle was able to get Peter off of the cliffs and everyone was back at the trailhead by the time Mountain Search and Rescue arrived, saving them from needing to do a rescue.  <br>
+<br>
+Everyone seemed to have had some bad luck that day – hopefully things would be better in the days to come.  <br>
+                  <br>
+<noformat><table>
+
+<tr>
+<td><a href="http://community.webshots.com/photo/274816546/274817772LsttPD">Pic</a></td>
+<td><a href="http://community.webshots.com/photo/274816546/274817796IcFEPV">Sunrise at Horton Lakes TH</a></td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134671__object_id__3021__type__mountain__mountain_id__3021__route_id____user_id____order_by____limit__" target="0"><img src="http://www.summitpost.com/images/134671.thumb.jpg" height="100" border="2"></a></td>
+<td><a href="http://community.webshots.com/photo/274816546/274817845mmbXhZ">Basin Cirque N Wall</a></td>
+</tr>
+
+<tr>
+<td>
+<a href="http://community.webshots.com/photo/274816546/274817869lIXuTD">Basin Cirque Moraine</a>
+</td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134680__object_id__3021__type__mountain__mountain_id__3021__route_id____user_id____order_by____limit__" target="0"><img src="http://www.summitpost.com/images/134680.thumb.jpg" height="100" border="2"></a></td>
+<td>
+<a href="http://community.webshots.com/photo/274816546/274817921gbCImI">Climbing the Cirque Headwall</a> </td>
+<td><a href="http://community.webshots.com/photo/274816546/274817950sxDaHa">Mt Humphreys (1)</a></td>
+</tr>
+
+<tr>
+<td><a href="http://community.webshots.com/photo/274816546/274817995OFdamn">Mt Humphreys (2)</a></td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134681__object_id__3021__type__mountain__mountain_id__3021__route_id____user_id____order_by____limit__" target="0"><img src="http://www.summitpost.com/images/134681.thumb.jpg" height="100" border="2"></a></td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134682__object_id__3021__type__mountain__mountain_id__3021__route_id____user_id____order_by____limit__" target="0"><img src="http://www.summitpost.com/images/134682.thumb.jpg" height="100" border="2"></a></td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134683__object_id__3021__type__mountain__mountain_id__3021__route_id____user_id____order_by____limit__" target="0"><img src="http://www.summitpost.com/images/134683.thumb.jpg" height="100" border="2"></a></td>
+</tr>
+
+<tr>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134685__object_id__3021__type__mountain__mountain_id__3021__route_id____user_id____order_by____limit__" target="0"><img src="http://www.summitpost.com/images/134685.thumb.jpg" height="100" border="2"></a></td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134686__object_id__3021__type__mountain__mountain_id__3021__route_id____user_id____order_by____limit__" target="0"><img src="http://www.summitpost.com/images/134686.thumb.jpg" height="100" border="2"></a></td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134737__object_id__4350__type__mountain__mountain_id__4350__route_id____user_id____order_by____limit__" target="0"><img src="http://www.summitpost.com/images/134737.thumb.jpg" height="100" border="2"></a></td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134738__object_id__4350__type__mountain__mountain_id__4350__route_id____user_id____order_by____limit__" target="0"><img src="http://www.summitpost.com/images/134738.thumb.jpg" height="100" border="2"></a></td>
+</tr>
+
+<tr>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134739__object_id__4350__type__mountain__mountain_id__4350__route_id____user_id____order_by____limit__" target="0"><img src="http://www.summitpost.com/images/134739.thumb.jpg" height="100" border="2"></a></td>
+<td><a href="http://community.webshots.com/photo/274816546/274818365iKNSla">Looking NW from Four Gables Summit</a></td>
+<td>
+<a href="http://community.webshots.com/photo/274816546/274818402PTAdnf">Looking W from Four Gables Summit</a> </td>
+<td>
+<a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134758__object_id__4352__type__mountain__mountain_id__4352__route_id____user_id____order_by____limit__" target="0"><img src="http://www.summitpost.com/images/134758.thumb.jpg" height="100" border="2"></a> </td>
+</tr>
+
+<tr>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134740__object_id__4350__type__mountain__mountain_id__4350__route_id____user_id____order_by____limit__" target="0"><img src="http://www.summitpost.com/images/134740.thumb.jpg" height="100" border="2"></a></td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134759__object_id__4352__type__mountain__mountain_id__4352__route_id____user_id____order_by____limit__" target="0"><img src="http://www.summitpost.com/images/134759.thumb.jpg" height="100" border="2"></a></td>
+<td><a href="http://community.webshots.com/photo/274816546/274818543PaFHSm">Basin Mtn from Four Gables</a></td>
+<td>
+<a href="http://community.webshots.com/photo/274816546/274818568wprrxM">Mt Tom from Four Gables</a> </td>
+</tr>
+
+<tr>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134762__object_id__4352__type__mountain__mountain_id__4352__route_id____user_id____order_by____limit__" target="0"><img src="http://www.summitpost.com/images/134762.thumb.jpg" height="100" border="2"></a></td>
+<td><a href="http://community.webshots.com/photo/274816546/274818641hlmgaG">Four Gables from Upper Horton Lake (1)</a></td>
+<td>
+<a href="http://community.webshots.com/photo/274816546/274818671khuHBG">Four Gables from Upper Horton Lake (2)</a> </td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134764__object_id__3021__type__mountain__mountain_id__3021__route_id____user_id____order_by____limit__" target="0"><img src="http://www.summitpost.com/images/134764.thumb.jpg" height="100" border="2"></a></td>
+</tr>
+
+</table></noformat><a name="chapter_6"></a><h2>Day 5: Mt Haeckel &amp; Mt Wallace</h2>
+<b>August 4th, 2004</b><br>
+<br>
+<noformat><table border="0" cellpadding="2" cellspacing="1">  
+<tr>
+<td width="40%">
+<font color="BLUE"><u><b>Stats</b></u></font>  
+<ul>  
+<li>
+<b>Routes:</b> <a href="http://www.summitpost.org/show/route_link.pl/route_id/4185/object_id/1347">East Ridge</a>, <a href="http://www.summitpost.org/show/route_link.pl/route_id/4295/object_id/3981">South Ridge</a>, <a href="http://www.summitpost.org/show/route_link.pl/route_id/4839/object_id/3981">Southeast Slopes</a>  
+</li>
+<li>
+<b>Elevation Gained:</b> 4,200'  
+</li>
+<li>
+<b>RT Distance:</b> 16 mi  
+</li>
+<li>
+<b>RT Time:</b> TBA  
+</li>
+<li>
+<b>Trailhead:</b> Lake Sabrina  
+</li>
+<li>
+<b>Summit Elevs.:</b> Mt. Haeckel: 13,418'   Mt. Wallace: 13,377'   
+</li>
+<li>
+<b>Rating:</b> Class 3  
+</li>
+</ul>
+</td>  
+
+<td><center>
+<a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134690__object_id__1347__type__mountain__mountain_id__1347__route_id____user_id____order_by____limit__" target="0"><img src="http://www.summitpost.com/images/134690.jpg" height="200"></a>
+</center></td>  
+</tr>
+</table></noformat><br>
+<br>
+By this time there were far fewer people showing up for the Sierra Challenge. Today Bob Burd, Michael Graup, and Matthew Holliman were going to climb Mt Haeckel via the class 3 East Ridge and then follow the class 3 South Ridge over to the summit of Mt Wallace. Haekel was supposed to have some interesting class 3 scrambles while Wallace, considered a good peak to do in combination, was described as a talus pile. Dave Wright showed up at the trailhead with plans only to have a nice hike, but none for really summitting anything. Joe Dawson was also going to join us. At 6:10 everyone left the trailhead except Joe, who had failed to show up.<br>
+<br>
+We hiked along the edge of Lake (Reservoir) Sabrina as the trail gradually ascended the southern slopes. The hiking was easy, and today I seemed to be having an easier time keeping up with Bob and the gang – I was finally getting used to the pace of the hiking. The beautiful trail switch backed up some slopes and cut across the east end of Blue Lake. The scenery was beautiful and everyone stopped briefly to take pictures.<br>
+<br>
+We crossed the outlet of the lake on some stepping stones and followed the trail as it wound up and down around the hilly landscape, passing by the Emerald Lakes. Soon after passing Dingelberry Lake we began to cut back to the east as the trail meandered up a different drainage. The trail was well maintained and fairly level, so the hiking was relatively easy.<br>
+<br>
+As we headed into the next drainage we passed a large group of people heading down the trail carrying a lot of gear. They were volunteer trail workers heading out for the day. Some of the workers asked about why we were carrying ice axes since there was no snow around and we explained to them what we were doing for the day. They were rather surprised at our ambitious goals and wished us luck on the climb.<br>
+<br>
+Soon another rise was topped, the trail dropped, and we neared Hungry Packer Lake. The imposing “Picture Peak” towered majestically above the lake and again everyone was taking photos. Bob announced that he was going to stop by the lake shore to refill his water and that he would catch up, so Matthew, Michael, and I cut off the trail and headed up the steep cliffy slopes of a ridge spur to the west. We easily picked our way through the cliffs. Thinking that we were getting ahead of Bob, I was surprised to find that he had had enough time to refill he water and intercept us at a saddle in the ridge. We then followed him as the terrain turned to some class 3 scrambling. Bob led us along the south side of the ridge and we soon began climbing some terrain that was definitely more difficulty. One exposed traverse was particularly tricky, requiring some awkward bending postures and scarce handholds, but soon we were past the ridge and crossing the outlet of another picturesque alpine lake.<br>
+<br>
+Bob led the way, heading up the steeper but more solid looking east side of a buttress on the south side of the lake. As the terrain became more questionable Bob explained his intent to us – the actual route passed on the other side of the cliffs, but he wanted to see if he could find his way up these cliffs and over an unnamed high point before continuing on to the East Ridge of Haeckel. He had no idea how difficult this improvised route might be, and we all opted to take the easier and more certain option of traversing back around the cliffs rather than following Bob.<br>
+<br>
+We climbed up and to the north and soon were over the cliffs and above the loose talus slopes leading down to the alpine lake we had passed. From there it was a somewhat tedious boulder-hop to a point where we could traverse to a snowfield leading to the East Ridge of Mt Haeckel. Haeckel was beautiful, rising like a white citadel high above the snowfield before us. Michael and I were out in front cramponing up the steep snowfield and Matthew followed about 5 minutes behind. The final chute of the snowfield was about 3535<sup>o</sup> and composed of very hard packed and sun cupped snow, providing some good practice for our French Technique.<br>
+<br>
+At the saddle I looked up at the imposing east ridge of Mt Haeckel. We obviously couldn’t head straight up from the saddle – that was definitely harder than class 3. Michael seemed to know where he was going and charged out in front. I followed close behind and Matthew fell further behind. We traversed onto the south slope of the peak. The terrain was very steeped and composed of granite terraces, rising like steps toward the summit. I kept looking for a way to get onto the East Ridge but could find no such class 3 route. Meanwhile, Michael kept heading west until he was nearly at the South Ridge of the peak before cutting up! I thought that this route was very strange since we were nowhere near the East Ridge. In fact, I was rather disappointed, since the granite terraces only offered intermittent class 3 scrambling on a line not nearly as aesthetic as the rugged skyline of the East Ridge.<br>
+<br>
+The final scramble to the summit cut through a notch in the ridge and traversed around the north side of the ridge before entering a notch at the base of the summit block. The summit block was exposed and required some mantling. Michael and I barely stayed on top long enough to sign the summit register – the wind was howling and it was very cold on top.<br>
+<br>
+As we headed down we heard someone coming up through the first notch in the summit ridge. ‘It’s probably Matthew,’ we surmised to each other. Suddenly Bob appeared. Apparently Bob had passed him a ways down and Matthew was moving about 10 minutes behind. The summit was cold enough that we all decided not to wait for him. He could catch up to us on the South Ridge.<br>
+<br>
+Once again I was somewhat disappointed with the route. It was called the South Ridge, but it traveled some 100 ft below the actual ridge! I would have like to stay right on the ridge, but it seemed rather silly to do so when traversing along the east slopes slightly lower down was so much easier, and I didn’t want to make myself any slower than I needed to since I had two fast scramblers to keep up with.<br>
+<br>
+Once again Bob and Michael pulled ahead and I was left to my own enjoyment of the ridge. Once I got to Mt Wallace I was pleasantly surprised. Although the chutes one could ascend were talus piles, it was not only more fun but also easier to ascend some class three walls and chimneys along the sides of the chutes to reach the summit.<br>
+<br>
+The summit block was composed of two tall granite blocks, seemingly cleaved apart by some powerful force. Bob and Matthew were on the taller block to the north. This block required a slightly exposed mantle to surmount and barely had enough room to fit the three of us. I had arrived at the summit at about the same time as another couple heading up the same final route on the peak, and we all chatted for a bit on top. They were climbers visiting from Alaska.<br>
+<br>
+The man was nice enough to sit on the opposing summit block and photograph us. He was perfectly silhouetted against the dramatic mountains in the distance, so we took some photos of him perched on the summit block. Bob ferried cameras back and forth for the photo ops, climbing the Wallace summit several times. Then we were ready to head down. Matthew was still no where to be seen.<br>
+<br>
+We descended the miserable steep scree on the Southeast Slope of Mt Wallace. R.J. Secor described the route as <i>“Class 2. Loose scree makes this a good descent route. Caution is needed when crossing loose blocks near the top.” </i> That was an understatement – the slope was at the angle of repose and was an accident waiting to happen. I was the unfortunate one to be involved in that accident.<br>
+<br>
+Bob and Michael were ahead of me again as I descended the slopes. I didn’t know at what point they descended, so I gradually descended as I traversed south along the bowl at the top of the Southeast Slopes. The terrain was an odd mixture of loose sand and scree, with a lot of medium and large rocks scattered about in this shifting matrix. I found that it was easy to start skiing down the rocks since they were so loose, but I avoided the temptation since I didn’t know if Bob and Michael were below me.<br>
+<br>
+As I headed toward a subtle ridge to head down, I walked across a seemingly innocent open stretch on the slope and I stepped on a BIG booby trap. Suddenly I was sliding down the hill on a cushion of rocks. A patch about 20 ft by 20 ft around me suddenly let loose. Before I knew what was happening several suitcase-size rocks drifted together around my ankle, pinning me into the slide. As I began to accelerate I managed to grab onto a large boulder as I passed and held onto it for my life. Luckily I was pried free from the clutches of the larger rocks in the slide, and it swept past me with a deafening roar. By this point the rocks had picked up enough speed that the large blocks that had imprisoned me were ricocheting off of the walls of the chute below, setting off slide after slide.<br>
+<br>
+“Rock! Rock! Rock!” I shouted at the top of my lungs, as if it wasn’t obvious what was happening. Soon the roar of the rock fall drowned out my warnings to Bob and Michael below. I felt awful and prayed that they had enough sense to be on a protrusion from the slopes by that time. The rocks just kept pouring and soon I couldn’t see the valley below as the dust from the rock fall began to rise up. An updraft blew the dust back up the slope and a wall of dust rose past me. As the rocks continued to pour the dust cloud, perhaps rising over 600 feet, became so thick that I couldn’t see further than 10 feet away.<br>
+<br>
+After what seemed like an eternity the rumbling subsided and I shouted out for Bob and Michael. Bob let out a whistle and we all shouted to each other to make sure everyone was all right and to confirm where we all were. Luckily Bob and Michael had gotten onto some subtle ridges on the slope and were out of the line of fire.<br>
+<br>
+Needless to say I descended the rest of the slopes much more carefully. Each time a section of the slope began to give way I stopped my movement, paranoid of starting another large rock fall. Near the bottom of the slope I passed a couple of feet away from a rock the size of a hamper, and my disturbance of the soil supporting it caused it to roll toward me. I pushed back in vain as I tried to jump out of the way, and it rolled over my foot. After a few anguished howls, enough feeling returned to my foot to tell whether or not it was broken. Luckily the soil beneath my foot was soft enough to have protected my foot, so I limped on down the slope.<br>
+<br>
+By the time I reached the safety of flatter ground and was nearing Moonlight Lake I realized that Michael and Bob were far ahead of me. I also realized that I had no idea how far behind me Matthew was, and I really didn’t like the idea of waiting a long time at the trailhead for him to get down. Food, drinks, and a shower were just too appealing to wait for possibly another hour to have. I HAD to catch up with Bob and Michael before they left me to such a fate! I picked up the pace and once I was back on the trail I began jogging. I jogged on the down hills and some of the flat ground, and I hiked like a madman up the occasional hill. I figured that they were heading downhill at a fast 3 mph and had perhaps a half hour head start on me – I had my work cut out for me.<br>
+<br>
+Despite my fatigue I pressed on as fast as I could. As I neared Dingleberry Lake I passed the volunteer trail maintenance crew again and inquired as to whether they had seen Bob and Michael. They said that they had seen the pair about 10 minutes earlier, so that meant that they were still probably another 20 minutes ahead of me – I’d better pick up the pace!<br>
+<br>
+I ran down the trail, moving as fast as my feet would carry me. Hikers that I passed heading uphill probably thought that I was a madman. I asked a few if they had seen Bob and Michael, and each time they seemed to have seen them more recently. I was catching up! I was nearing Lake Sabrina when I had them down to about 10 minutes ahead of me. I had no idea if they would wait one minute for me at the trailhead, so time was running short. At one point I tripped, fell flat on my forearms, and immediately jumped back up and continued jogging.<br>
+<br>
+Finally I was at the home stretch and I bounded off the trail and down the dirt road to where the cars were parked. And then there was my salvation – the car was there! Bob and Michael were still unpacking their gear in preparation to leave. I had arrived about 5 minutes behind them. Panting, I dropped onto some grass beside the car in relief.<br>
+<br>
+Bob and Michael seemed amused at my exhausted state, for reasons I wouldn’t know until Bob wrote his trip report of the event. They had mercifully planned on waiting for me! I felt so satisfied having caught up to them that it was probably for the best that they didn’t ruin the moment by telling me.<br>
+<br>
+<noformat><table>
+
+<tr>
+<td><a href="http://community.webshots.com/photo/274816546/274818731xVYUUM">SW from Emerald Lake</a></td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134688__object_id__1347__type__mountain__mountain_id__1347__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.org/images/134688.thumb.jpg" height="100" border="2"></a></td>
+<td><a href="http://community.webshots.com/photo/274816546/274818793VYVtCH">Picture Pk</a></td>
+<td><a href="http://community.webshots.com/photo/274816546/274818821llmGln">N from Emerald Lakes</a></td>
+</tr>
+
+<tr>
+<td><a href="http://community.webshots.com/photo/274816546/274818837jJOBPz">Picture Pk from Emerald Lakes</a></td>
+<td><a href="http://community.webshots.com/photo/274816546/274818857DiAYDf">Matthew</a></td>
+<td><a href="http://community.webshots.com/photo/274816546/274818877aDjxaj">N from Dingleberry Lake</a></td>
+<td><a href="http://community.webshots.com/photo/274816546/274818904dozLgt">S from Dingleberry Lake</a></td>
+</tr>
+
+<tr>
+<td><a href="http://community.webshots.com/photo/274816546/274818934MOLHpJ">Picture Pk from Sailor Lake</a></td>
+<td><a href="http://community.webshots.com/photo/274816546/274818995LFzIeO">Mt Haeckel from lake</a></td>
+<td><a href="http://community.webshots.com/photo/274816546/274819117gmEQfS">Bob leading the way</a></td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134689__object_id__1347__type__mountain__mountain_id__1347__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.org/images/134689.thumb.jpg" height="100" border="2"></a></td>
+</tr>
+
+<tr>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134690__object_id__1347__type__mountain__mountain_id__1347__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.org/images/134690.thumb.jpg" height="100" border="2"></a></td>
+<td><a href="http://community.webshots.com/photo/274816546/274819117gmEQfS">Michael on snowfield</a></td>
+<td><a href="http://community.webshots.com/photo/274816546/274819148aNqTfk">Matthew on snowfield</a></td>
+<td><a href="http://community.webshots.com/photo/274816546/274819156lrpyYa">Matthew catching up</a></td>
+</tr>
+
+<tr>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134691__object_id__1347__type__mountain__mountain_id__1347__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.org/images/134691.thumb.jpg" height="100" border="2"></a></td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134692__object_id__1347__type__mountain__mountain_id__1347__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.org/images/134692.thumb.jpg" height="100" border="2"></a></td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134693__object_id__1347__type__mountain__mountain_id__1347__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.org/images/134693.thumb.jpg" height="100" border="2"></a></td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134712__object_id__3981__type__mountain__mountain_id__3981__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.org/images/134712.thumb.jpg" height="100" border="2"></a></td>
+</tr>
+
+<tr>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134713__object_id__3981__type__mountain__mountain_id__3981__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.org/images/134713.thumb.jpg" height="100" border="2"></a></td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134714__object_id__3981__type__mountain__mountain_id__3981__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.org/images/134714.thumb.jpg" height="100" border="2"></a></td>
+<td><a href="http://community.webshots.com/photo/274816546/274819514NvtSNv">Michael &amp; Bob on Wallace</a></td>
+<td><a href="http://community.webshots.com/photo/274816546/274819480BzfDGc">S from Wallace Summit</a></td>
+</tr>
+
+<tr>
+<td><a href="http://community.webshots.com/photo/274816546/274819564GEclRW">W from Wallace Summit</a></td>
+<td><a href="http://community.webshots.com/photo/274816546/274819425qxAduQ">SW from Wallace Summit</a></td>
+<td>
+<a href="http://community.webshots.com/photo/274816546/274819597NfdHcm">Bob climbing up Wallace summit</a> </td>
+<td><a href="http://community.webshots.com/photo/274816546/274819624wuuiNM">Bob, me, and Michael on Wallace summit</a></td>
+</tr>
+
+<tr>
+<td><a href="http://community.webshots.com/photo/274816546/274819651arVcla">Other Wallace summit</a></td>
+<td>
+<a href="http://community.webshots.com/photo/274816546/274819698pWEtMf">Clyde Spires</a> </td>
+<td><a href="http://www.snwburd.com/bob/trip_photos/haeckel_1/DSC00043.html"><img src="http://www.snwburd.com/bob/trip_photos/haeckel_1/reg/DSC00043.jpg" height="100" border="2"></a></td>
+<td><a href="http://www.snwburd.com/bob/trip_photos/haeckel_1/DSC00044.html"><img src="http://www.snwburd.com/bob/trip_photos/haeckel_1/reg/DSC00044.jpg" height="100" border="2"></a></td>
+</tr>
+
+<tr>
+<td><a href="http://www.snwburd.com/bob/trip_photos/haeckel_1/DSC00045.html"><img src="http://www.snwburd.com/bob/trip_photos/haeckel_1/reg/DSC00045.jpg" height="100" border="2"></a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+</table></noformat><a name="chapter_7"></a><h2>Day 6: Mt Winchell</h2>
+<b>August 5th, 2004</b><br>
+<br>
+<noformat><table border="0" cellpadding="2" cellspacing="1">  
+<tr>
+<td width="40%">
+<font color="BLUE"><u><b>Stats</b></u></font>  
+<ul>  
+<li>
+<b>Routes:</b> <a href="http://www.summitpost.org/show/route_link.pl/route_id/650/object_id/1015">East Arete</a>  
+</li>
+<li>
+<b>Elevation Gained:</b> 6,044'  
+</li>
+<li>
+<b>RT Distance:</b> 17 mi  
+</li>
+<li>
+<b>RT Time:</b> TBA  
+</li>
+<li>
+<b>Trailhead:</b> Big Pine  
+</li>
+<li>
+<b>Summit Elevs.:</b> 13,768'      
+</li>
+<li>
+<b>Rating:</b> Class 3  
+</li>
+</ul>
+</td>  
+
+<td><center><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__135265__object_id__13451__type__user__mountain_id____route_id____user_id____order_by____limit__" target="0"><img src="http://www.summitpost.com/images/135265.jpg" height="250"></a></center></td>  
+</tr>
+</table></noformat> <br>
+<br>
+It was 5 am and we were all ready to go at the Big Pine trailhead. The day’s challengers for climbing Mt Winchell’s East Ridge were Bob, Michael, Matthew, Joe, Michelle, and me. Some of the others had planned on having an easier day and were climbing nearby Mt Agassiz from a different trailhead.<br>
+<br>
+We started out hiking with headlamps, but hardly a half hour went by before we had enough morning glow from the rising sun to dispense with them. We quickly covered the first set of switchbacks climbing into the north fork and were across the following flats and up the tedious broad switchbacks in no time. I was familiar with this approach as I had climbed 14,000 ft Mt Sill nearly a year earlier with Dirk Summers and Joe Wilson. Last time we hauled in heavy packs laden with climbing gear to attempt the 5.8 Swiss Arete, and we spent a full day on the approach, camping in Sam Mack Meadow. This time I was breezing along the trail with barely 25 lbs in my daypack.<br>
+<br>
+I was amazed at the comparative difference in progress we made. What had before seemed like a long approach was merely a short stroll along a shaded creek, with barely a glimpse of First, Second, and Third Lakes. Bob, Michelle, and Joe had fallen behind and Matthew had disappeared in the lead, while Michael and I hiked together. We left the main trail just above Third Lake and crossed a marsh before hiking up the final set of switchbacks to gain Sam Mack Meadow.<br>
+<br>
+The meadow was really a ½ mile deep box-shaped notch cut dramatically into the granite cliffs below the Palisade Glacier. The flatness of the lush green ground was a striking contrast to the bare vertical palisades of crystalline granite surrounding the meadow – it was definitely one of the most beautiful base camps that I had the privilege to stay in when I was last here.<br>
+<br>
+Matthew had reached the meadow about 10 minutes before me and Michael, and we regrouped and took a short food and water break while we waited for Bob to catch up. About 5 minutes later he arrived, but Joe and Michelle were nowhere to be seen. Apparently Michelle had been suffering on and off from a knee injury during the trip and had to slow down. Joe stayed with her.<br>
+<br>
+Next was the problem of getting out of the meadow, which unexpectedly turned out to be the crux of the route. A cascade cut through the cliffs on the northwest end, and we scrambled up the talus and boulders along the side of the stream. This drainage had been in shade enough that it was covered in a thick layer of snow undercut by the stream. This large tongue of snow kept us on the right side of the stream. Suddenly we got to a point where the rocks were completely covered in a thin veneer of verglass. They had been drenched from the spraying water and there was not one patch that had not been iced over.<br>
+<br>
+After searching around for an ice free way, I decided to just climb up the verglass – I carefully wedged my feet in the interstices of the rocks to prevent them from slipping out and climbed to the left of a large boulder, right into the spray of the stream. Soon I was through the icy section, and my hands were drenched and cold. Luckily I hadn’t gotten too wet. As the others followed I continued up the drainage.<br>
+<br>
+Up above was a wonderland of vertical granite cliffs rising above a contrastingly flat drainage bottom composed of multi-leveled granite slabs, with the stream winding its way down the middle. Once again I felt like I was in southern Utah again, familiar territory. Rather than give up my lead, I whipped out the topo map that I brought along, referenced it visually with the slabs, ledges, and cliffs all around, and chose a route. After many years scrambling in similar terrain in the southwest, I had an intuitive grasp of how the rock would go, where to go to stay above the rough boulders in the stream bed without getting cliffed out on the slabs above.<br>
+<br>
+I took off up a ramp to the left. I kept my eyes peeled and found a nice series of slabs that took me over to an unnamed lake at 11,800 ft with little elevation gain or loss. I circled around the south and west sides before scrambling up the unpleasantly loose moraine of the Thunderbolt Glacier. At about this time Bob, Michael, and Matthew reached the outlet of the lake. Because of the arrangement of the cliffs, they had to pass around the north side and we met up at a point where the drainage began to narrow again.<br>
+<br>
+After some brief class 2-3 scrambling to get away from the creek and onto a subtle spur, we finally had a full view of the East Ridge of Mt Winchell. The bottom buttress was heavily broken, so instead of traveling around to the south to gain the ridge, as the route had been described, we climbed straight up the ridge from where it rose up from the landscape. The class 1-2 slabs soon turned to mild class 3 as we climbed higher. After ascending about 1,000 feet we reached a large bowl to the left of the ridge. This bowl provided an easier bypass around some of the more rugged parts of the ridge near the top, so we began climbing the stepped ledges contouring the slope. The enjoyable class 3 climbing was steep and somewhat exposed, and we gained elevation quickly, reaching the summit by noon.<br>
+<br>
+After we signed the summit register we noticed some figures standing atop the summit of nearby Mt Agassiz. We figured these climbers were the other participants in the Challenge who had gone to climb the peak. We gave a wave but got no noticeable response (Apparently it wasn’t them. In later conversation in Big Pine that night we learned that the others summitted about an hour later in the day). As we rested our legs and enjoyed the view I read through the summit register. One entry that got my attention was one made in memory of a climber who had been killed climbing on Mt Winchell a year earlier. He was a college student not much older than me, making the connection between us even closer. It was somewhat chilling to come across this summit post, which was certainly a reminder of the harshness of the mountain environment that we were playing in.<br>
+<br>
+After spending about 15 minutes on the summit, we headed down. Bob gained ground, down climbing faster than the rest of us. As we descended I kept eyeing a large snow-filled couloir on the north side of Thunderbolt Peak. It looked like a rather nice way up the mountain, and since I had planned on climbing it within the next year or so, I mentally filed this route away as I scoped it out from our high vantage point.<br>
+<br>
+As we headed down Michael soon left me and Matthew behind. As we neared Sam Mack Meadow I wasn’t too happy about down climbing the icy rock that we had come up, and I had remembered spying a possible break in the cliffs just south of where we exited the meadows, so on our descent we stayed on a ridge to the south of where we had come up. The terrain continued to slope away from beneath us, but we always seemed to find a route down through the ledges. The final 20 ft was a mildly exposed class 3-4 down climb over a couple of ledges before reaching the flat ground of the meadows. Soon we were there.<br>
+<br>
+Matthew and I made good time hiking briskly back to the trailhead, arriving at the cars about 5 minutes later than Bob and Michael. We had covered in 9.5 hours what had been a full day’s approach (and then some) during my last visit! My legs were a little fatigued, but they still had plenty of energy left in them. I was rather happy with myself for doing better than I had hoped on the Challenge. I seemed to be able to stay up with the lead group, and rather than tiring me out, the day to day hiking seemed to be working me into a good pace that I could sustain.<br>
+<br>
+<noformat><table>
+
+<tr>
+<td><a href="http://community.webshots.com/photo/276140327/276141259kquOWC">Thunderbolt Pk from the North</a></td>
+<td><a href="http://community.webshots.com/photo/276140327/276141273ZeGnNU">Mt Sill closeup</a></td>
+<td><a href="http://community.webshots.com/photo/276140327/276141300DdaLTw">Mt Sill &amp; The V Couloir</a></td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__135271__object_id__13451__type__user__mountain_id____route_id____user_id____order_by____limit__"><img src="http://www.summitpost.org/images/135271.thumb.jpg" height="100" border="2"></a></td>
+</tr>
+
+<tr>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__135265__object_id__13451__type__user__mountain_id____route_id____user_id____order_by____limit__"><img src="http://www.summitpost.org/images/135265.thumb.jpg" height="100" border="2"></a></td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__135266__object_id__13451__type__user__mountain_id____route_id____user_id____order_by____limit__"><img src="http://www.summitpost.org/images/135266.jpg" height="100" border="2"></a></td>
+<td><a href="http://community.webshots.com/photo/276140327/276141377saUHgP">Mt Agassiz</a></td>
+<td>
+<a href="http://community.webshots.com/photo/276140327/276141392rgrSne">First Buttress</a> </td>
+</tr>
+
+<tr>
+<td><a href="http://community.webshots.com/photo/276140327/276141415XHWHHk">East Arete</a></td>
+<td><a href="http://community.webshots.com/photo/276140327/276141436XeLIuA">Thunderbolt Pk from Arete</a></td>
+<td><a href="http://community.webshots.com/photo/276140327/276141465WKEtOD">Mt Agassiz from Arete</a></td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__135267__object_id__13451__type__user__mountain_id____route_id____user_id____order_by____limit__"><img src="http://www.summitpost.org/images/135267.thumb.jpg" height="100" border="2"></a></td>
+</tr>
+
+<tr>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__135268__object_id__13451__type__user__mountain_id____route_id____user_id____order_by____limit__"><img src="http://www.summitpost.org/images/135268.thumb.jpg" height="100" border="2"></a></td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__135269__object_id__13451__type__user__mountain_id____route_id____user_id____order_by____limit__"><img src="http://www.summitpost.org/images/135269.thumb.jpg" height="100" border="2"></a></td>
+<td><a href="http://community.webshots.com/photo/276140327/276141536QGGuZs">Mt Gayley &amp; Mt Sill from summit</a></td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__135270__object_id__13451__type__user__mountain_id____route_id____user_id____order_by____limit__"><img src="http://www.summitpost.org/images/135270.thumb.jpg" height="100" border="2"></a></td>
+</tr>
+
+<tr>
+<td>
+<a href="http://community.webshots.com/photo/276140327/276140682zVmrXg">Glacier-fed Lake</a> </td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+</table></noformat><a name="chapter_8"></a><h2>Day 7: Palisade Crest &amp; Mt Jepson</h2>
+<b>August 6th, 2004</b><br>
+<br>
+<noformat><table border="0" cellpadding="2" cellspacing="1">  
+<tr>
+<td width="40%">
+<font color="BLUE"><u><b>Stats</b></u></font>  
+<ul>  
+<li>
+<b>Routes:</b> <a href="http://www.summitpost.org/show/route_link.pl/route_id/4263/object_id/3960">Northwest Ridge</a>, <a href="http://www.summitpost.org/show/route_link.pl/route_id/3659/object_id/3450">South Slopes via Scimitar Pass</a>  
+</li>
+<li>
+<b>Elevation Gained:</b> 6,511'  
+</li>
+<li>
+<b>RT Distance:</b> 13.5 mi  
+</li>
+<li>
+<b>RT Time:</b> TBA  
+</li>
+<li>
+<b>Trailhead:</b> Big Pine  
+</li>
+<li>
+<b>Summit Elevs.:</b> Palisade Crest: 13,553'  Mt Jepson:  13,390'   
+</li>
+<li>
+<b>Rating:</b> Class 4  
+</li>
+</ul>
+</td>  
+
+<td><center><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134727__object_id__3960__type__mountain__mountain_id__3960__route_id____user_id____order_by____limit__" target="0"><img src="http://www.summitpost.com/images/134727.jpg" height="250"></a></center></td>  
+</tr>
+</table></noformat> <br>
+<br>
+When climbing in extremely exposed terrain there are several rules one must abide by to be able to deal psychologically with the exposure:<br>
+<ol>   <br>
+<li>Don’t ruminate about one’s fears beforehand.  <br>
+</li>
+<li>Don’t imagine oneself falling along different points along the route  <br>
+</li>
+<li>Don’t look down more than you have to  <br>
+</li>
+</ol>
+<br>
+I broke all of these rules when attempting the summit of Gandalf Peak along the Palisade Crest. The night before, I began to be overcome with a feeling of dread. I had seen photos of the route beforehand, and it was awesomely exposed. By climbing with a rope, I knew that it would be exciting, but we were going to free-solo the route. It was only class 3 along the most exposed part, and the class 4 ramp at the end was reportedly easier to deal with than the class 3 traverse. I was excited to be climbing such as awesome peak, but this feeling that something bad was going to happen kept getting worse. After experiencing minor injuries in a fall on Basin Mountain 3 days earlier and narrowly escaping a monster rock slide on Mt Wallace 2 days before, my nerves were a little tense for good reason.<br>
+<br>
+Like the day before when we climbed Mt Winchell, we were departing the Big Pine trailhead at 5:10 am. Today Bob, Michael, Matthew, Joe , Daryn, and I were the only ones attempting the Palisade Crest. This time we headed past the first set of switchbacks and straight up the south fork of Big Pine creek. Soon we began a tedious series of switchbacks winding up a 600 foot headwall. This ascent went by easily and soon we reached flatter ground again. The sun was just rising and a beautiful alpenglow washed over Middle Palisade and the Palisade Crest. This lasted only a moment before it was gone and we continued on our way. We descended a hill and then left the trail to begin heading up a western spur of the south drainage to reach Elinore Lake. The going soon got tough as the trail disappeared. We wound our way through tall grasses, crossing the myriad of streams snaking through the flats before finally reaching class 2 boulder hopping on the north side of the stream. Bob had disappeared, but after climbing up the boulders a few minutes we spotted him a little behind us, on the overgrown south side of the stream. Apparently we had picked the better route this time, and Bob hopped over to our side.<br>
+<br>
+A while later we parted company with Bob and Matthew – they followed the stream all the way to Elinore Lake, but Joe, Michael, and I opten to take a shortcut up a dividing ridge. Daryn continued up the drainage since he had decided to climb Mt Gayler and Temple Crag from the south instead of joining us on the Palisade Crest. The shortcut worked nicely as the ground was mostly clear of vegetation and we were able to scramble straight up to the shoes of Elinore Lake, reaching it just as Bob and Matthew came around the corner. We hopped along the granite boulders along the eastern shore and then began climbing some steep class 2 slabs. They reminded me a lot of Bob’s aptly named ‘Slabs ‘O Plenty’ we crossed on our way up Mt Lyell 5 days earlier. We aimed towards the end of a spur coming off the crest. The spur stuck out dramatically, like the bow of a huge ship driving its way through the rocky valley below.<br>
+<br>
+At the subtle saddle at the end of this prow, we crossed over to the south side of the ridge. From there we had a full view of the impressive east face of Norman Clyde Peak, dropping over a 1,000 vertical feet straight down to the Norman Clyde Glacier. A ways over was the Palisade Crest, although I couldn’t tell which peak was Gandalf Pk yet. We scrambled up some ugly loose sand and scree composing a moraine of some unnamed glacier, and then traversed above the glacier, angling up towards a break in the impediment of cliffs known as Scimitar Pass. For some reason this name seemed very fitting to me, due to the lethally rugged terrain surrounding it and the brutal cross country approach required to get to it. By just reaching the pass we covered more ground than one would need to climb a Sierra Peak!<br>
+<br>
+After surmounting a short class 3 headwall, we were at Scimitar Pass. Now all we had was a relatively short scrambling traverse to reach Gandalf Peak! Joe announced that he was going to split off from the group to climb nearby Mt Jepson and then head down. He felt that the exposure of the climb up Gandalf Peak would be too much for him and he didn’t want to get in over his head. This was perplexing to Matthew and Michael, since Joe could climb 5.10, well above their abilities, and yet he was too scared to attempt a class 3-4 route without a rope. Of course climbing proficiency and acceptance of risk don’t necessarily correlate, so it made sense to me.<br>
+<br>
+Joe headed north to Mt Jepson and Bob, Matthew, and I took off up the spiny ridge of the Palisade Crest. Bob soon disappeared in the lead, and as the exposure increased and I became more nervous, I fell about 50 feet or so behind Matthew and Michael. The scrambling was thrilling, but it was also barely within my comfort level. We dropped repeatedly to the east, and then climbed class 3 rock back up to the ridge. At one point we walked along the spine of the ridge with big vertical drop offs on both sides. The rock was flat, about the width of a sidewalk, and angled at about 15 degrees towards the 60 foot drop off to the West. At a notch in the sky high sidewalk Michael and Matthew just hopped over the gap. I was sketched out enough that I climbed into the notch and up the other side – I’d really rather not risk the consequences if I tripped on my landing on the far side. As the exposure increased I became increasingly worried, and I kept thinking of different scenarios of falling off of the ridge.<br>
+<br>
+Then we reached the route finding crux of the ridge. The class 3 scramble dropped us down onto the +1,000 ft high east face as it headed toward a prominent notch in the ridge. From there all we had was the class 4 ramp that wound its way up the backside of Gandalf Peak. The summit block was amazing. The rock was shaped like a sagging wizard hat – a very surreal shape to see on a mountain top. This silhouette belonged in cartoons and claymations, not in real life! The summit was named after the elf, Gandalf, in J.R.R Tolkien’s ‘The Hobbit’, and apparently the other 11 spires on the ridge were named after other characters in his stories.<br>
+<br>
+At this point the class three scrambling was intermixed with sandy class 2 ledges covered in loose scree. The looseness of the rock added to my anxiety – while the terrain was easy to walk and scramble through, it seemed very easy to slip or fall as the loose rock gave way, as it did on Basin Mountain and Mt Haekel. I climbed down the ledges facing into the hill, and I made the mistake of looking down. As I down climbed I could see the unnamed glacier we had passed over earlier peeking between my legs, over 1,000 feet below. My sense of vertigo increased and I stopped to recompose myself at a sheltered notch and chock stone along the east face.<br>
+<br>
+Michael and Matthew were having a difficult time route finding, and the cairns scattered around didn’t help much. The kept climbing farther down, closer to the precipice, and were slowly making progress to the notch. I could see Bob standing atop the ramp beyond. I took some photos and then re-evaluated the situation. This last 150 ft before the notch was the last of the most exposed scrambling on the ridge, and it really wasn’t too bad, apart from the <i>‘splat’</i> factor. I could probably make it across. Then I looked down again, and my vertigo worsened. I could probably make it across, but it would be hell coming back! As much as I desperately wanted to summit, I just couldn’t bear the though of having to retrace all of this terrain, and I froze. Matthew and Michael had found the route by then and beckoned me to follow. I knew that I was too scared to continue climbing safely, so I reluctantly told them that I was turning back. They insisted that I climb just a bit further, but I declined and headed back along the ridge.<br>
+<br>
+I was pissed that I had turned around. I really wanted to climb Gandalf Peak and it was easily within my climbing ability. I just couldn’t handle the exposure as a free-solo. It was embarrassing having turned around on a class 3 route, and I resolved to return with a rope and complete the climb. I knew that the ridge traverse was rated 5.5, so I could do the traverse for more enjoyment and as an excuse to have a rope for the sketchy parts.<br>
+<br>
+I made my way back along the ridge slowly, but easier than when coming. I felt defeated, but I didn’t want this long approach to be a waste – I decided to climb Mt Jepson before heading down Scimitar Pass.<br>
+<br>
+It was at about this time that I heard a noise behind me. I turned around to catch Bob trying to sneak up on my. I waited for him to join me and told him regretfully of my choice to turn around, and my intent t at least bag Jepson. He was up for that and we headed toward the peak. Then we heard more voices.<br>
+<br>
+Like sirens luring us off the cliffs, two mysterious ladies appeared over a bulge in the talus slopes below. Were we hallucinating?! Who would be coming up to Scimitar Pass from the West?! We greeted them and chatted for a while. Actually, Bob chatted and I just sat there. I was still a little shaken up from the Palisade Crest and couldn’t think of anything to say. Apparently these two ladies had been backpacking in the High Sierras for the past 10 days and they were hiking out over Scimitar Pass to pick up a food cache at the Big Pine trailhead before returning to the backcountry, passing back through Scimitar Pass. Quite the detour!<br>
+<br>
+We wished them well and parted ways. Bob and I scrambled up the class 2 slopes of Mt Jepson and were soon on the summit. From there we had some very nice views of the Palisade Crest to the south and the backsides of Mt Sill and Mt Polemonium to the north. We happily signed the register and laughed at Joe’s entry. He had made it here earlier and had written a very strange entry in the summit log. Then we headed back toward Scimitar Pass, reaching it at about the same time as Michael and Matthew.<br>
+<br>
+We happily told them of the sirens we had encountered, but they were skeptical. As we headed down Scimitar Pass we took to some glissading on the glacier to avoid the class 2 boulders on the side and were soon at the moraine. The ladies we had met earlier were also at the moraine, having lunch. Now Michael and Matthew were convinced. They all chatted for a while, and I remained awkwardly silent since once again I couldn’t think of anything to say, and then we parted ways again.<br>
+<br>
+Back at Elinore Lake our group paired off again to take our respective routes down to the drainage, and once again ended up there at about the same time. Daryn met us there too, having just come down from the summit of Mt Sill, and we all headed down together. The terrain was tiring, but much easier on the downhill. Once we reached the meadow we found the proper use-trail through the area and had an easy time getting back to the main trail, and in no time we were back at the cars.<br>
+<br>
+Sadly this was the last day of the Challenge for me. I had originally planned on attempting to participate for the entire 10 days, but Dirk Summers had tempted me into joining him and Gordon Ye in climbing the 5.6 North Arete of Matterhorn Peak. While it would have been fun to climb the rest of the peaks in this year’s Challenge, I was more interested in getting more experience on technical alpine routes. After having my last dinner with Bob and the gang, with the new arrival Heyning Cheng making some ‘interesting’ conversation, Heyning gave me a ride back up to Bishop to meet up with Dirk for my next adventure in the Sierras.     <br>
+<br>
+<noformat><table>
+
+<tr>
+<td>
+<a href="http://community.webshots.com/photo/274811777/274812150RnPGdi">Sunrise on Middle Palisade</a> </td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134721__object_id__3960__type__mountain__mountain_id__3960__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.org/images/134721.thumb.jpg" width="133BORDER=2"></a></td>
+<td><a href="http://community.webshots.com/photo/274811777/274812257YMSheg">Mount Williams</a></td>
+<td><a href="http://community.webshots.com/photo/274811777/274812289AIzpOm">Palisade Crest from Elinore Lake</a></td>
+</tr>
+
+<tr>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134734__object_id__831__type__mountain__mountain_id__831__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.org/images/134734.thumb.jpg" width="133" border="2"></a></td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134722__object_id__3960__type__mountain__mountain_id__3960__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.org/images/134722.thumb.jpg" height="100" border="2"></a></td>
+<td><a href="http://community.webshots.com/photo/274811777/274812394pZhwGB">Near Scimitar Pass</a></td>
+<td><a href="http://community.webshots.com/photo/274811777/274812424DIpmIA">Mt Gayley &amp; Mt Sill from Scimitar Pass</a></td>
+</tr>
+
+<tr>
+<td><a href="http://community.webshots.com/photo/274811777/274812446ZPvSdT">Palisade Crest from glacier</a></td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134723__object_id__3960__type__mountain__mountain_id__3960__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.org/images/134723.thumb.jpg" height="100" border="2"></a></td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134724__object_id__3960__type__mountain__mountain_id__3960__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.org/images/134724.thumb.jpg" height="100" border="2"></a></td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134725__object_id__3960__type__mountain__mountain_id__3960__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.org/images/134725.thumb.jpg" height="100" border="2"></a></td>
+</tr>
+
+<tr>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134727__object_id__3960__type__mountain__mountain_id__3960__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.org/images/134727.thumb.jpg" height="100" border="2"></a></td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134728__object_id__3960__type__mountain__mountain_id__3960__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.org/images/134728.thumb.jpg" height="100" border="2"></a></td>
+<td><a href="http://community.webshots.com/photo/274811777/274812649WQcrHB">Bob on Gandalf Pk</a></td>
+<td><a href="http://community.webshots.com/photo/274811777/274812681UpLdZJ">Michael on Palisade Crest</a></td>
+</tr>
+
+<tr>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134729__object_id__3960__type__mountain__mountain_id__3960__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.org/images/134729.thumb.jpg" height="100" border="2"></a></td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134735__object_id__3450__type__mountain__mountain_id__3450__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.org/images/134735.thumb.jpg" height="100" border="2"></a></td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134736__object_id__3450__type__mountain__mountain_id__3450__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.org/images/134736.thumb.jpg" height="100" border="2"></a></td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134733__object_id__831__type__mountain__mountain_id__831__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.org/images/134733.thumb.jpg" height="100" border="2"></a></td>
+</tr>
+
+<tr>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__119168__object_id__3960__type__mountain__mountain_id__3960__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.org/images/119168.thumb.jpg" height="100" border="2"></a></td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134730__object_id__3960__type__mountain__mountain_id__3960__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.org/images/134730.thumb.jpg" height="100" border="2"></a></td>
+<td><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__134731__object_id__3960__type__mountain__mountain_id__3960__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.org/images/134731.thumb.jpg" height="100" border="2"></a></td>
+<td></td>
+</tr>
+
+</table></noformat>                        <br>
+<br>
+<center><a href="http://www.summitpost.org/mountains/trip_report.pl?trip_report_id=1773&amp;mountain_id=352">North Arete of Matterhorn Pk</a></center>                                                                                               <a name="chapter_9"></a><h2>Images</h2>
+<div align="center"><table id="my_images"><tr><td><a href="/august-6th-2004-michael/90270/c-169860"><img alt="August 6th, 2004 - Michael..." src="/images/square/90270.jpg"></a></td></tr></table></div>
+            </article> 
+date: Jul 31, 2004 
+difficulty:  
+elevation:  
+grade:  
+id: 169860 
+latitude: 37.9672 
+location: California, United States, North America 
+longitude: -119.3192 
+my_route_quality:  
+name: My First Sierra Challenge (2004) 
+number_of_pitches:  
+page_url: http://www.summitpost.org/my-first-sierra-challenge-2004/169860 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons: Summer 
+time_required:  
+type: Trip Report 
+

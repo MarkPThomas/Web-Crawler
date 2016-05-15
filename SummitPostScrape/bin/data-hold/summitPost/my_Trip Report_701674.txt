@@ -1,0 +1,460 @@
+activities: Mountaineering, Trad Climbing, Scrambling 
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Stats</h2>
+<noformat><center><table border="0" cellpadding="2" cellspacing="1">  <tbody><tr>
+<td width="40%"><ul>  <li>
+<b>Route:</b> <a href="http://www.summitpost.org/east-arete/157738">East Arête/Ridge</a>
+</li>
+<li>
+<b>Official Rating:</b> III, 5.4-5.5</li>
+<li>
+<b>Rating Encountered:</b> IV, 5.5 <i>(Our winter rating)</i>   </li>
+<li>
+<b>RT Totals:</b> 3 days (February 11-13), 16.82 mi, 8396 ft gained/lost <ul>
+<li>Day 1: 5.97 mi, 4630 ft gain, 5 hrs climbing w/ +50 lb packs</li>
+<li>Day 2: 1.35 mi, 2736 ft gain, 5.5, +50 degree snow, 12 hrs climbing, bivy @ ca. 13,600'</li>
+<li>Day 3: 9.5 mi, 1030 ft gain, 8140 ft loss, 5.5, +50 degree snow, 14 hrs climbing, 10 hours driving :-()~#</li>
+</ul>
+</li>
+<li>
+<b>Trailhead:</b> Buttermilk Road  </li>
+<li>
+<b>TH Elevation:</b> 6,500’  </li>
+<li>
+<b>Summit Elev.:</b> 13,986'</li>
+<li>
+<b>Map Files:</b> <a href="">Topographic Map</a> | <a href="https://docs.google.com/leaf?id=0B2cQbm09AyrwMzRlODA5YzUtZDI3YS00MDExLWJlYzQtN2U4MzZjZmZlYWM2&amp;hl=en">Google Earth File (Download)</a> </li>
+<li>
+<b>Climbers:</b>  <a href="http://www.summitpost.org/mountains/user_link.pl?user_id=13451">Mark Thomas</a>, <a target="0" href="http://www.summitpost.org/users/vitaliy-m/62684">Vitaliy Musiyenko</a>
+</li>
+</ul></td>  <td><center><a href="http://www.summitpost.org/mt-humphreys-east-ridge/701382"><img src="http://www.summitpost.org/images/medium/701382.jpg" height="300"></a></center></td>  </tr></tbody>
+</table></center></noformat>     <a name="chapter_2"></a><h2>Intro</h2>“I need to piss  . . . it is warm, I WANT TO DRINK IT!”<br>
+<div align="center" class="image" style="width: 506px;">
+<a href="/mt-humphreys-its-north-ridge/701379"><img alt="Mt Humphreys &amp; its North Ridge" height="270" width="500" src="/images/medium/701379.jpg"></a><br>
+<span class="caption">Mt Humphreys &amp; its long North Ridge.</span>
+</div>
+<br>
+Such were the mutterings from Vitaliy as we tried to force ourselves to sleep in the frigid icebox that was our snow cave bivy at 13,600 ft on the summit plateau of Mt. Humphreys. Such sayings, while both masochistic and depraved, also seemed to embody the spirit of our intended winter objective.  I’ve wanted to climb the East Arete of Mount Humphreys for years now as a mixed snow and rock climb, and I’ve twice gotten high on the route without success. But this time I fully understood what climbing the route in those conditions would entail, and I had a partner with the resolve to see things through with me. <br>
+<br>
+The East Arete (II, 5.5) up 13,986’ Mt Humphreys is one of the 100 Classic Climbs of the High Sierra. Peter Croft upped the ante by recommending the full East Ridge (III, 5.5.) in his listing of the “Good, the Great, and the Awesome” of the High Sierra. This variation is several times longer, requires over twice as much elevation gain, and requires climbing up and over the 13,000 ft ‘gendarme’ on the ridge that to me seemed more like a pretty decent subpeak. Overall, the Full East Ridge, from where you first start climbing rock to the summit, is 0.9 miles long and gains about 2,330 ft, which is longer with more elevation gain than the Thunderbolt to Sill Traverse and – at least in winter – seemed harder (sans the summit blocks) and more alpine in nature . For one thing, the descent required down climbing half of the route.<br>
+ <br>
+ <br>
+ <br>
+ <br>
+<br>
+<br>
+<br>
+<a name="chapter_3"></a><h2>The Approach</h2> <div align="center" class="image-right" style="width: 206px;">
+<a href="/humphreys-basin-mtn-at-sunrise/701370"><img alt="Humphreys &amp; Basin Mtn at Sunrise" height="133" width="200" src="/images/small/701370.jpg"></a><br>
+<span class="caption">Humphreys &amp; Basin Mtn</span>
+</div>
+<br>
+<br>
+Despite the fact that my previous two failed attempts were in longer days of April and late May, this time I attempted the ridge in February with only 10.5 hours of precious daylight. Not out of design, but more an afterthought of realizing that conditions were good, and that my next main objective of the Petit Griffon, shared with my friends, was being delayed to wait for Shane and ‘Ski to return from their Orgy of Ice in Ouray. Vitaliy was game for taking advantage of the unusually good conditions and stable weather, so the climb was on. <br>
+<br>
+<noformat><center><table><tbody>
+<tr>
+<td> <div align="center" class="image-right" style="width: 206px;">
+<a href="/mt-tom-at-sunrise/701371"><img alt="Mt Tom at Sunrise" height="110" width="200" src="/images/small/701371.jpg"></a>
+<span class="caption">Mt Tom</span>
+</div>
+</td>
+<td> <div align="center" class="image-right" style="width: 206px;">
+<a href="/four-gables-area-at-sunrise/701374"><img alt="Four Gables Area at Sunrise" height="133" width="200" src="/images/small/701374.jpg"></a>
+<span class="caption">Four Gables Area</span>
+</div>
+</td>
+<td> <div align="center" class="image-right" style="width: 206px;">
+<a href="/mt-humphreys-at-sunrise/701377"><img alt="Mt Humphreys at Sunrise" height="140" width="200" src="/images/small/701377.jpg" style=""></a>
+<span class="caption">Mt Humphreys</span>
+</div>
+</td>
+<td> <div align="center" class="image-right" style="width: 206px;">
+<a href="/paiute-crags-mt-emerson-at-sunrise/701375"><img alt="Paiute Crags &amp; Mt Emerson at Sunrise" height="133" width="200" src="/images/small/701375.jpg" style=""></a>
+<span class="caption">Paiute Crags &amp; Mt Emerson</span>
+</div>
+</td>
+</tr>
+<tr><td colspan="4"><center><b>Sunrise over the High Sierra</b></center></td></tr>
+</tbody></table></center></noformat><br>
+<br>
+This time, to make the trip a little different for me, I chose to camp on the north side of the ridge at 11,000 ft. I admit part of this was comparing the views in Google Earth and realized the north side would offer much better views of the mountains for my photography fun. We would approach from the Buttermilks and ascend to a camp at 11,000 ft on our first day. Second day we’d expected to climb the route and be down after a long effort, with a third day set aside to hike out and drive home.<br>
+<br>
+<noformat><center><table><tbody><tr>
+<td> <div align="center" class="image-right" style="width: 206px;">
+<a href="/mt-locke-checkered-demon-at-sunrise/701376"><img alt="Mt Locke &amp; Checkered Demon at Sunrise" height="137" width="200" src="/images/small/701376.jpg"></a>
+<span class="caption">Mt Locke &amp; Checkered Demon</span>
+</div>
+</td>
+<td> <div align="center" class="image-right" style="width: 206px;">
+<a href="/eastern-sierra-panorama-at-sunrise/701378"><img alt="Eastern Sierra Panorama at Sunrise" height="75" width="200" src="/images/small/701378.jpg"></a>
+<span class="caption">Sierra Panorama from the Buttermilks</span>
+</div>
+</td>
+<td><div align="center" class="image" style="width: 506px;">
+<a href="/vitaliy-starting-out-the-tedious-approach/701384"><img alt="Vitaliy Starting Out the Tedious Approach" height="326" width="500" src="/images/medium/701384.jpg" style=""></a>
+<span class="caption">This approach gets more tedious every time.</span>
+</div></td>
+</tr></tbody></table></center></noformat><br>
+<br>
+On Friday we drove as high into the Buttermilks as we could to start the climb. I had hoped to start at about 7,500’, where one can usually get to with a 2WD vehicle when the dirt roads are dry, but the heavy season snows forced us to start 1,000 ft lower and 2 miles further out at 6,500 ft. It was surreal starting so low. We walked amongst boulders and sagebrush on a flat valley bottom towards the gleaming white peaks in the distance. They looked so small and far away, but we knew that they still rose over 7,000 ft above us. We had a ways to go.<br>
+<br>
+ <div align="center" class="image-right" style="width: 206px;">
+<a href="/magic-mcgee-the-cirque/701385"><img alt="Magic McGee &amp; the Cirque" height="133" width="200" src="/images/small/701385.jpg" style=""></a><br>
+<span class="caption">Magic McGee &amp; the Cirque</span>
+</div>
+<br>
+<br>
+Tedious walking on the gradually steepening desert valley transitioned to steeper slopes with pine trees, and finally, the alpine cirques that we sought. After 5 hours of climbing we set up our Mega-Light camp at 11,000 ft below the north face of Mt Humphreys. The campsite was gorgeous, with panoramic views of Basin Mtn, Magic Magee, Mt Humphreys, and the full East Ridge composing the skyline.<br>
+<br>
+<noformat><center>
+<table><tbody><tr>
+<td> <div align="center" class="image-right" style="width: 206px;">
+<a href="/magic-mcgee-s-ne-face/701386"><img alt="Magic McGee s NE Face" height="133" width="200" src="/images/small/701386.jpg"></a>
+<span class="caption">NE Face of Magic McGee &amp; Water Ice</span>
+</div>
+</td>
+<td> <div align="center" class="image-right" style="width: 206px;">
+<a href="/basin-mtn-from-camp/701387"><img alt="Basin Mtn from Camp" height="133" width="200" src="/images/small/701387.jpg"></a>
+<span class="caption">Basin Mtn from a Rarely Seen Side</span>
+</div>
+</td>
+</tr></tbody></table>
+<table><tbody><tr>
+<td> <div align="center" class="image-right" style="width: 206px;">
+<a href="/south-basin-pk-from-camp/701388"><img alt="South Basin Pk from Camp" height="108" width="200" src="/images/small/701388.jpg"></a>
+<span class="caption">South Basin Peak</span>
+</div>
+</td>
+<td> <div align="center" class="image-right" style="width: 206px;">
+<a href="/basin-mtn-at-sunrise/701391"><img alt="Basin Mtn at Sunrise" height="150" width="200" src="/images/small/701391.jpg"></a>
+<span class="caption">Basin Mtn at Sunset</span>
+</div>
+</td>
+<td> <div align="center" class="image-right" style="width: 206px;">
+<a href="/basin-mtn-the-north-star/701440"><img alt="Basin Mtn &amp; the North Star" height="133" width="200" src="/images/small/701440.jpg"></a>
+<span class="caption">North Star Above Basin Mtn-Streaks</span>
+</div>
+</td>
+</tr></tbody></table>
+</center></noformat><br>
+<br>
+As the sun set and we finished eating and brewing up for the night, I got out my DSLR and played away with some night photography. Thanks to Steph Abegg, I’ve been getting better at photographing at night. I’d spent most of my time practicing on cragging trips to Yosemite Valley, and now I could finally attempt to capture the nighttime beauty of the Sierra Nevada.<br>
+<br>
+<noformat><center><table><tbody>
+<tr>
+<td> <div align="center" class="image-right" style="width: 206px;">
+<a href="/basin-mtn-the-north-star/701441"><img alt="Basin Mtn &amp; the North Star" height="131" width="200" src="/images/small/701441.jpg"></a>
+<span class="caption">North Star Above Basin Mtn</span>
+</div>
+</td>
+<td> <div align="center" class="image-right" style="width: 206px;">
+<a href="/humphreys-at-night/701442"><img alt="Humphreys at Night" height="155" width="200" src="/images/small/701442.jpg"></a>
+<span class="caption">Mt Humphreys &amp; East Ridge</span>
+</div>
+</td>
+<td> <div align="center" class="image-right" style="width: 206px;">
+<a href="/the-camp-below-magic-mcgee-at-night/701443"><img alt="The Camp Below Magic McGee at Night" height="133" width="200" src="/images/small/701443.jpg"></a>
+<span class="caption">Camp &amp; Magic McGee</span>
+</div>
+</td>
+</tr>
+<tr>
+<td> <div align="center" class="image-right" style="width: 206px;">
+<a href="/the-camp-below-magic-mcgee-at-night/701444"><img alt="The Camp Below Magic McGee at Night" height="133" width="200" src="/images/small/701444.jpg"></a>
+<span class="caption">Camp with Headlamp Twirls</span>
+</div>
+</td>
+<td> <div align="center" class="image-right" style="width: 139px;">
+<a href="/camp-at-night/701446"><img alt="Camp at Night" height="200" width="133" src="/images/small/701446.jpg"></a>
+<span class="caption">Camp &amp; Orion with Moon Flare</span>
+</div>
+</td>
+<td><div align="center" class="image" style="width: 506px;">
+<a href="/ht-humphreys-full-east-ridge/701390"><img alt="Ht Humphreys Full East Ridge" height="301" width="500" src="/images/medium/701390.jpg"></a>
+<span class="caption">The Route</span>
+</div></td>
+</tr>
+</tbody></table></center></noformat><br>
+<a name="chapter_4"></a><h2>The (Lower) East Ridge</h2> <div align="center" class="image-right" style="width: 206px;">
+<a href="/lower-east-ridge/701392"><img alt="Lower East Ridge" height="150" width="200" src="/images/small/701392.jpg"></a><br>
+<span class="caption">The Lower 1,000 ft of the Route</span>
+</div>
+<br>
+<br>
+Vitaliy and I were moving by first light the following morning, at about 6am, and were at the base of the route at 11,750 ft by 7:30 am. Away went the crampons and out came the rope. Now was the time for the real fun. The rock looked great ahead, though we weren’t sure how fast we’d move climbing with our boots on. <br>
+<br>
+The terrain steepened immediately, and fortunately the vibram soles of my Nepal Evos gripped the rock well enough to leave me confident enough to push upwards. When feet were questionable, the rock usually offered a good jam for some security. There were a few problematic slab sections that would have been easy in summer in tennis shoes or rock shoes without snow, but such terrain was off limits for us. On one slab section I shimmied up some wide slanting cracks to gain the knife-edge ridge, and then shuffled a cheval along the crest. <br>
+<br>
+<i><b>Lesson:</b> When simul-climbing, you really should take care to keep the rope out of your crotch – especially when climbing a cheval!</i><br>
+<br>
+<noformat><center><table><tbody>
+<tr>
+<td> <div align="center" class="image-right" style="width: 206px;">
+<a href="/one-crux-on-the-lower-east-ridge/701393"><img alt="One Crux on the Lower East Ridge" height="150" width="200" src="/images/small/701393.jpg"></a>
+<span class="caption">A Cheval!</span>
+</div>
+</td>
+<td> <div align="center" class="image-right" style="width: 156px;">
+<a href="/typical-terrain/701708"><img alt="Typical terrain" height="200" width="150" src="/images/small/701708.JPG"></a>
+<span class="caption">Looking Back</span>
+</div>
+</td>
+<td> <div align="center" class="image-right" style="width: 156px;">
+<a href="/peter-croft-section-on-the-lower-east-ridge/701394"><img alt="Peter Croft section on the Lower East Ridge" height="200" width="150" src="/images/small/701394.jpg"></a>
+<span class="caption">Ridge of Peter Croft Fame</span>
+</div>
+</td>
+</tr>
+<tr>
+<td> <div align="center" class="image-right" style="width: 156px;">
+<a href="/vitaliy-at-the-peter-croft-section-on-the-lower-east-ridge/701396"><img alt="Vitaliy at the Peter Croft section on the Lower East Ridge" height="200" width="150" src="/images/small/701396.jpg"></a>
+<span class="caption">Will the Real Peter Croft Please Stand Up?</span>
+</div>
+</td>
+<td> <div align="center" class="image-right" style="width: 146px;">
+<a href="/vitaliy-at-the-peter-croft-section-on-the-lower-east-ridge/701397"><img alt="Vitaliy at the Peter Croft section on the Lower East Ridge" height="200" width="140" src="/images/small/701397.jpg"></a>
+<span class="caption">The More Rational Way to Climb This Section</span>
+</div>
+</td>
+<td> <div align="center" class="image-left" style="width: 206px;">
+<a href="/vitaliy-following-on-the-13k-gendarme/701412"><img alt="Vitaliy following on the 13k Gendarme" height="150" width="200" src="/images/small/701412.jpg"></a>
+<span class="caption">Downclimbing the 13k Gendarme</span>
+</div>
+</td>
+</tr>
+</tbody></table></center></noformat><br>
+<br>
+The lower ridge was a joy to climb - mostly class 3, with some class 4 and a few low to mid-5th class sections. The rock was very clean and solid and was warm in the winter sun. Soon enough Vitaliy and I reached the famed “Peter Croft” section of the East Ridge, well known for the photo of Peter Croft walking in a precarious balance on the knife-edge crest. Sadly the photos make this look more awesome than it really is. True, you can walk along the crest, but there is a nice crack that runs along the side that you can also traverse on, using the ridge crest as a handrail. Alas, like so many other inspiring shots I’ve seen in climbing books, this one was totally contrived.<br>
+<br>
+<noformat><p align="center"></p>
+<table width="480"><tbody>
+<tr><td><iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/Vpg1RMOatkk" frameborder="0" allowfullscreen=""></iframe></td></tr>
+<tr><td><b>After climbing about 800 ft of cl. 4 to low 5th rock, we traversed on snow slopes on a bypass to ascend the gendarme on our way to Humphreys. Video courtesy of Vitaliy Musiyenko.</b></td></tr>
+</tbody></table>
+<p></p></noformat><br>
+<br>
+We ascended higher and eventually reached the sheer block of the 13,000 ft gendarme that finally forces the route off the crest. We traversed on 40 degree snow slopes and up a steep chute, bypassed a steep chock stone, and climbed through mixed snow and class 3 as we rounded the gendarme to the south. As I rounded the corner I jumped back onto rock as soon as possible and found the rock to be even more clean and solid than the lower ridge. The class 3-4 scrambling was continuous, steep, and exposed with a great backdrop of Mt Humphreys still rising nearly another 1,000 ft above us.<br>
+<br>
+ <div align="center" class="image-right" style="width: 206px;">
+<a href="/east-arete-of-mt-humphreys/701411"><img alt="East Arete of Mt Humphreys" height="150" width="200" src="/images/small/701411.jpg"></a><br>
+<span class="caption">Mt Humphreys from the 13k Gendarme</span>
+</div>As I crested the 13,000 ft gendarme I was dismayed to see how much the terrain dropped down to the notch separating us from the East Arete of Mount Humphreys. I thought we were making decent time with the amount of daylight we had, but by now it was about noon, we were still a ways away from the arête, and we need to lose about 300 feet and cross over two lesser gendarmes to get there. Gendarme?! This really is a genuine subpeak!<br>
+<br>
+I tried to pick up the pace in the simul-climbing. The climbing became sustained class 4 with increasing exposure as the rock turned back into a knife edge as it dropped steeply to the notch. Most of the climbing involved descending cracks, chutes, and some short face sections a short ways off the crest, and then traversing along thin ledges to rejoin the crest, almost like descending a large staircase. Although the exposure was pretty high, the climbing was very solid and got more fun as we got deeper into it. I placed a piece every now and then since running pro wasn’t as reliable.<br>
+<br>
+ <div align="center" class="image-left" style="width: 381px;">
+<a href="/east-arete-of-mt-humphreys/701408"><img alt="East Arete of Mt Humphreys" height="500" width="375" src="/images/medium/701408.jpg"></a><br>
+<span class="caption">The East Arete</span>
+</div>“Mark! Stop! I want a belay!” Vitaliy shouted. Apparently he wasn’t having as good of a time on this terrain as I was. A cost he was paying by climbing in plastic ice climbing boots. I had gambled on wearing colder leather boots, and though I’d pay for that later, for now I was reaping the benefits of the extra grip and nimbleness. I belayed Vitaliy in to my belay at a notch in the ridge, and after looking at the route ahead, we discussed our options.<br>
+<br>
+“I don’t know about our speed,” I said. “We still have a ways to go and we really need to speed up if we aren’t going to bivy”<br>
+<br>
+“Mark, I might want to pitch it out more often if the terrain stays like this. I’m not as secure as you in my plastic boots.  Let’s descend the snow couloir from this notch and rejoin the route after these towers. We’ll avoid this terrain and make up time.”<br>
+<br>
+ <div align="center" class="image-right" style="width: 206px;">
+<a href="/looking-down-on-the-13k-gendarme/701419"><img alt="Looking Down on the 13k Gendarme" height="150" width="200" src="/images/small/701419.jpg"></a><br>
+<span class="caption">The 13k Gendarme gets smaller</span>
+</div>We had a back-and-forth about what to do. I thought we were skipping potentially the best part of the route, and knowing that we had some rappels coming up, I wasn’t convinced that downclimbing the snow couloirs and re-ascending to the route via the regular approach would be faster. I also pointed out that if we pitched it out too much as the terrain got easier (at least it seemed to me), we’d definitely spend the night up there. Vitaliy was adamant on skipping the next ridge section and was more optimistic than me in our ability to finish the route in the daylight we had left.<br>
+<br>
+So down we went. As I kick stepped down it became harder and harder to get in good steps. To my surprise, although we were descending a southwest slope in winter, we had strayed onto snow heavily laden with water ice! There was a deep blue in my foot steps and sometimes I had to kick 5 or 6 times as hard as I could to get the tiniest of footholds. I especially didn’t like that I only had one tool out, since a self-arrest seemed unlikely.<br>
+<br>
+I downclimbed extra cautiously and at the first opportunity I stepped over to a moat to put on crampons and get out my other tool.<br>
+<br>
+Ahhh! Relief!<br>
+<a name="chapter_5"></a><h2>The East Arete</h2> <div align="center" class="image-left" style="width: 206px;">
+<a href="/crux-pitch/701213"><img alt="Crux pitch" height="150" width="200" src="/images/small/701213.JPG"></a><br>
+<span class="caption">Climbing Through the Headwall</span>
+</div>Gaining the start of the standard route was more exciting than expected. Although I had climbed up to this area on failed attempt #2, we stopped at the junction of the couloirs, and the base of the route <i>looked</i> close. It was a lot steeper than it appeared, too, reaching about 50 degrees on the top half. Once we were at the notch I traversed onto 4th class ramps (now covered in steep snow) and up a 4th class chute, entering the route after making an awkward exit onto the rock in my crampons.<br>
+<br>
+Vitaliy joined me soon thereafter and we pressed on, scrambling in our crampons on the easy 3rd class terrain as the sun drifter farther west in the sky. We knew we were still only in the earlier section of the arête but already the 13,000 ft gendarme was receding far below. And then we reached the crux headwall.<br>
+<br>
+ <div align="center" class="image-right" style="width: 206px;">
+<a href="/the-crux-headwall/701421"><img alt="The Crux Headwall" height="117" width="200" src="/images/small/701421.jpg"></a><br>
+<span class="caption">The Headwall Crux</span>
+</div>
+<br>
+The headwall looked pretty intimidating. I recalled the route description saying that the route traverses left on an improbable ledge to bypass the headwall. I saw two such ledges. The lower one had snow on it and appeared to end in a clean drop-off, and I couldn’t tell if I could reach across. The upper one looked a little thin but pretty straightforward as it started at the right end of the face and traversed up and left, wrapping around the edge at mid-height.<br>
+<br>
+So off came the crampons and up I started. Immediately I began to have misgivings. I climbed a series of juggy flakes that stuck out of the rock like I was ascending the spine of a stegosaur. The moves were solid, but the traverse was <i>VERY</i> steep and there was no pro! I got in one marginal piece before topping out and then traversed to what seemed like the straightforward part of the headwall. There was a thin crack that wrapped nicely around the corner, but no face holds above. I lowered myself down a ramp that lead to a ledge below the crack (the ramp was too slick for my boots to grip). The rock pushed me back far enough that I felt on the verge of toppling, and I could see that I would bounce to the ground before my last piece of pro would come into action. The boots and pack did not help with my feeling of security here.<br>
+<div align="center" class="image" style="width: 506px;">
+<a href="/mark-in-our-bivy/701675"><img alt="Mark in our bivy" height="375" width="500" src="/images/medium/701675.JPG"></a><br>
+<span class="caption">Warming the 'Ol Toes.</span>
+</div>
+<br>
+I calmed myself, took a deep breath, and looked again at the lower ledge. It didn’t look any better, going back to it would be a pain, and I was so close! I decided to suck it up and exhaust my reasonable options before giving up in fear. I slotted in a nut behind a crumbly flake. I didn’t like the idea of taking a hard fall on this, so I also slotted in a 0.5” Metolius Power Cam and clipped in my other double rope. I could get some very marginal finger jams above the ledge, but I had no feet. This seemed way too hard for the advertised low-5th class difficulty rating. With the pro in, I reversed the ramp and explored the crack once more. It was just wide enough to slide my feet along in it, but there was nothing to keep me from toppling out. I committed to the crack, underclinging it while shuffling my feet for the first few moves. I reached out for the corner I aimed to reach and found a side-pull. <br>
+<br>
+<b>At last some stability! </b><br>
+<br>
+I finished shuffling my feet along the crack and embraced the solid jams of the cracks around the corner. This was a lot scarier and harder than I had imagined. It felt more like 5.8 in boots rather than 5.4. <i> (I now think that I went the wrong way and should have traversed lower down as I never encountered the steep &amp; exposed low 5th class cracks beginning at a ledge). </i><br>
+<div align="center" class="image" style="width: 506px;">
+<a href="/summit-pitches-of-mt-humphreys/701423"><img alt="Summit Pitches of Mt Humphreys" height="375" width="500" src="/images/medium/701423.jpg"></a><br>
+<span class="caption">Humphreys at Last!</span>
+</div>
+<br>
+I flew up the easier cracks and up ahead I saw a nice large flat belay ledge. Then one of the ropes came taught. Rope drag was eating my pink rope alive! I so desperately wanted the nice belay 20 ft ahead over a hanging gear belay in the crack that I placed a piece of pro, untied from the pink rope, tied it off to the pro, and continued up on the yellow rope.<br>
+<br>
+The flat ledge turned out to be the rappel station for the route, making this pitch a good reassessment point. Vitaliy followed the crux headwall with scarcely less trepidation than I did, partly because the route left him vulnerable to a big pendulum fall. He aided on my nut to get through the ledge, and upon reaching the belay told me that the cam had fallen out.<br>
+<br>
+<i>SHUDDER. </i> Well, I guess I’m glad that I’m conservative enough with my climbing ability that I haven’t fallen on lead yet!<br>
+<br>
+Though the sun was still high in the sky, shadows were growing longer over the crest and I was certain that we’d be lucky to make it to the summit before dark, much less descend the route.  I breached the subject to Vitaliy, but staying totally open to the idea of heading up in light of the good weather and our bivy provisions. <br>
+<br>
+And up we went.<br>
+<a name="chapter_6"></a><h2>The Bivy</h2>Based on our elevation it looked like we were nearly on the top, but what you can’t tell from the foreshortening in photographs is that there is a lot of low angle knife edge climbing before the end. With our fatigue, increased snow mixed with rock, and darkening skies, we pitched it out thinking that the plateau was one more pitch away. Then one more pitch. Then one more? Yeah, it looked like one more.<br>
+<br>
+At last I belayed Vitaliy up to a nice belay on a set of large boulders and laid out our options:<br>
+<br>
+1. We can descend in the dark, which would suck and I think is dangerous and unnecessary.<br>
+2. We can go to the summit in the dark and bivy on the way down. <br>
+3. We can bivy sooner and then decide whether to summit or just descend the next day. This is my preference.<br>
+<br>
+Vitaliy, ever the adventurous soul, opted for option number 3.<br>
+<br>
+“How about we dig a snow cave in the deep snow here? Maybe near that rock?” he suggested. “You know how to make snow shelters better than me so how about I belay you from here and you dig it out.”<br>
+<br>
+While some people might think that he was getting the better end of the deal here as he got to rest at the nice belay while I worked and crawled in the snow,  you actually get very warm when digging snow caves. I walked over to the snow drifted around the large rock and commenced <b>Operation Wombat Burrow.</b> Before long I was hollowing out a nice snowcave, but took breaks as I got tired and winded from the altitude. I tried out the various sleeping positions to make sure they were big and level enough and . . . . zzzzzz<br>
+<br>
+“Mark! What’s going on?!” Vitaliy yelled. Ooops! I was so warm and tired that I fell asleep inside the cave while ‘trying out’ the positions I was digging out. Sorry Vitaliy.<br>
+<br>
+<noformat><center><table><tbody>
+<tr>
+<td> <div align="center" class="image-right" style="width: 206px;">
+<a href="/winter-sierra-backcountry/701429"><img alt="Winter Sierra Backcountry" height="147" width="200" src="/images/small/701429.jpg"></a>
+<span class="caption">Sierra Winter Backcountry</span>
+</div>
+</td>
+<td><iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/whbi1bUO7QQ" frameborder="0" allowfullscreen=""></iframe></td>
+</tr>
+<tr><td colspan="2"><b>This actually felt pretty good, and it helped kill an hour. I also discovered that puffy mittens make great camp booties rather than putting the boots back on for the night.BTW, I blame my speech impediment on mouth-full-of-sock syndrome.Video courtesy of Vitaliy Musiyenko.</b></td></tr>
+</tbody></table></center></noformat><br>
+A cold night followed with both of us getting what little sleep we could bivying in our backpacks. My feet had become numb from the final section of snow climbing (verdict – Nepal Evos don’t keep my feet warm in snow in the winter), so I passed away the night massaging my feet and blowing on my toes while Vitaliy did some warming happy dance in his corner of the cave. Eventually my feet were comfy, I stowed them in my down mittens to keep them <i>EXTRA</i> comfy, and after a lot of tossing &amp; turning, found a position to sleep in. I don’t know if Vitaliy slept.<br>
+<br>
+<noformat><center><table><tbody><tr>
+<td><iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/TJWF6HRJHAU" frameborder="0" allowfullscreen=""></iframe></td>
+<td><iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/nMXLx5Cdcts" frameborder="0" allowfullscreen=""></iframe></td>
+</tr></tbody></table></center></noformat><br>
+<a name="chapter_7"></a><h2>Summitting and Descending</h2> <div align="center" class="image-right" style="width: 206px;">
+<a href="/winter-sierra-backcountry/701430"><img alt="Winter Sierra Backcountry" height="150" width="200" src="/images/small/701430.jpg"></a><br>
+<span class="caption">Sierra Winter Backcountry</span>
+</div>
+<br>
+The next day we were up just before sunrise and departed our humble abode just after sunrise. The summit plateau was still further away than expected (doh!) but soon enough we were at the scree bowl below Married Men’s Point. I dropped down to the left and took what looked like the easiest set of ramps and chimneys as they stepped up and right towards the summit. <br>
+<br>
+This section wasn’t as hard as the headwall, but it was definitely the second crux of the trip! The climbing was steep, with some interesting 5th class moves that helped me to work on my mantels to get around the “lack-of-good-feet” problem. (Another technique I discovered lower on the ridge was the foot-less hand traverse, where you just let your legs dangle against the slab and rock back &amp; forth on your arms). <br>
+<br>
+<noformat><center><table><tbody>
+<tr>
+<td> <div align="center" class="image-right" style="width: 206px;">
+<a href="/winter-sierra-backcountry/701431"><img alt="Winter Sierra Backcountry" height="136" width="200" src="/images/small/701431.jpg"></a>
+<span class="caption">Sierra Winter Backcountry</span>
+</div>
+</td>
+<td> <div align="center" class="image-right" style="width: 206px;">
+<a href="/n-ridge-of-mt-humphreys/701425"><img alt="N Ridge of Mt Humphreys" height="150" width="200" src="/images/small/701425.jpg"></a>
+<span class="caption">N Ridge of Humphreys</span>
+</div>
+</td>
+<td> <div align="center" class="image-right" style="width: 206px;">
+<a href="/view-ne-of-humphreys/701433"><img alt="View NE of Humphreys" height="139" width="200" src="/images/small/701433.jpg"></a>
+<span class="caption">View to the North</span>
+</div>
+</td>
+</tr>
+<tr>
+<td> <div align="center" class="image-right" style="width: 206px;">
+<a href="/magic-mcgee-nw-face/701432"><img alt="Magic McGee NW Face" height="150" width="200" src="/images/small/701432.jpg"></a>
+<span class="caption">McGee &amp; Our Camp Far Below</span>
+</div>
+</td>
+<td><div align="center" class="image" style="width: 506px;">
+<a href="/steep-downclimb/701434"><img alt="Steep Downclimb" height="375" width="500" src="/images/medium/701434.jpg"></a>
+<span class="caption">Steep Downclimb from the East Arete</span>
+</div></td>
+<td><div align="center" class="image" style="width: 506px;">
+<a href="/camp-mt-humphreys/701445"><img alt="Camp &amp; Mt Humphreys" height="361" width="500" src="/images/medium/701445.jpg"></a>
+<span class="caption">A Dream of a Winter Climb</span>
+</div></td>
+</tr>
+</tbody></table></center></noformat><br>
+<br>
+And at last we were on the summit! As nice as the summit was, though, we couldn’t forget that the descent involved downclimbing the entire arête back to the upper notch, with a long detour back around the North Fork of McGee Creek to camp, then packing up camp, then hiking out, then driving 10 hours home. Ugh . . .<br>
+<br>
+<noformat><center><table><tbody><tr>
+<td><div align="center" class="image" style="width: 506px;">
+<a href="/steep-downclimb/701434"><img alt="Steep Downclimb" height="375" width="500" src="/images/medium/701434.jpg"></a><br><span class="caption">Steep Downclimb from the East Arete</span>
+</div></td>
+<td><div align="center" class="image" style="width: 506px;">
+<a href="/camp-mt-humphreys/701445"><img alt="Camp &amp; Mt Humphreys" height="361" width="500" src="/images/medium/701445.jpg"></a><br><span class="caption">A Dream of a Winter Climb</span>
+</div></td>
+</tr></tbody></table></center></noformat><br>
+<br>
+<hr>
+<br>
+<br>
+Flashing red lights lit up the car as we drove towards Bishop. Crap. Vitaliy left his brights on again. That and the cops were bored tonight since their other reason for pulling us over was that we were going 45 mph in a 35 mph zone (no matter that the 35 mph sign was still 20 ft in front of us!).<br>
+<br>
+The cop first came to my window and looked into my bleary, red eyes. I croaked a “hello” before the cop walked around to Vitaliy’s side to explain why he pulled us over. Then he asked Vitaliy to get out of the car.<br>
+<br>
+“Have you been drinking? Have you been taking any drugs? Your face and eyes are pretty red” the cop queries Vitaliy, who in his burned, cut, dirty, and disheveled appearance looked like a sad state of a human being. And I looked no better.<br>
+<br>
+“No, sir,” Vitaliy replied. “We just got down from spending three days climbing Mt Humphreys.”<br>
+<br>
+“Mt Humphreys?” The cop asked. “Where is that?”<br>
+<br>
+Where indeed? The trip was already fading from memory, and though we still bore the battle wounds of our latest winter romp in the mountains, as we drove home Vitaliy and I already began discussing the next big winter climb.<br>
+[img:701445:aligncenter:medium:A Dream of a Winter Climb]<br>
+<br>
+                                                                              <a name="chapter_8"></a><h2>Links</h2>
+<ul>
+<br>
+<li><b><a href="https://picasaweb.google.com/markums/20110211to13MtHumphreysEArete?feat=directlink">Picasa Photos</a><br>
+</b></li>
+</ul>
+<b>                          <br>
+<br>
+<br>
+</b><center><script src="http://www.gmodules.com/ig/ifr?url=http://code.google.com/apis/kml/embed/embedkmlgadget.xml&amp;up_kml_url=https%3A%2F%2Fdocs.google.com%2Fuc%3Fid%3D0B2cQbm09AyrwNmMxYTc4YWMtNWQ3YS00NGE4LTk4YWUtMWU5Yjc2ZWQ3YmQy%26export%3Ddownload%26hl%3Den&amp;up_view_mode=earth&amp;up_earth_2d_fallback=0&amp;up_earth_fly_from_space=1&amp;up_earth_show_nav_controls=1&amp;up_earth_show_buildings=1&amp;up_earth_show_terrain=1&amp;up_earth_show_roads=1&amp;up_earth_show_borders=1&amp;up_earth_sphere=earth&amp;up_maps_zoom_out=0&amp;up_maps_default_type=map&amp;synd=open&amp;w=500&amp;h=400&amp;title=Please+Play+With+Me&amp;border=%23ffffff%7C3px%2C1px+solid+%23999999&amp;output=js"></script></center>
+<a name="chapter_9"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/mt-humphreys-sunrise/701221/c-701674"><img alt="Mt. Humphreys sunrise" src="/images/square/701221.JPG"></a></td>
+<td><a href="/camp-mt-humphreys/701445/c-701674"><img alt="Camp &amp; Mt Humphreys" src="/images/square/701445.jpg"></a></td>
+<td><a href="/snow-knife-edge/701218/c-701674"><img alt="Snow knife-edge" src="/images/square/701218.JPG"></a></td>
+<td><a href="/summit-shot/701224/c-701674"><img alt="Summit shot" src="/images/square/701224.JPG"></a></td>
+<td><a href="/crux-pitch/701213/c-701674"><img alt="Crux pitch" src="/images/square/701213.JPG"></a></td>
+<td><a href="/four-gables-area-at-sunrise/701374/c-701674"><img alt="Four Gables Area at Sunrise" src="/images/square/701374.jpg"></a></td>
+<td><a href="/mt-locke-checkered-demon-at-sunrise/701376/c-701674"><img alt="Mt Locke &amp; Checkered Demon at Sunrise" src="/images/square/701376.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/mt-humphreys-at-sunrise/701377/c-701674"><img alt="Mt Humphreys at Sunrise" src="/images/square/701377.jpg"></a></td>
+<td><a href="/mt-humphreys-east-ridge/701382/c-701674"><img alt="Mt Humphreys East Ridge" src="/images/square/701382.jpg"></a></td>
+<td><a href="/vitaliy-at-the-peter-croft-section-on-the-lower-east-ridge/701397/c-701674"><img alt="Vitaliy at the Peter Croft section on the Lower East Ridge" src="/images/square/701397.jpg"></a></td>
+<td><a href="/magic-mcgee-nw-face/701432/c-701674"><img alt="Magic McGee NW Face" src="/images/square/701432.jpg"></a></td>
+<td><a href="/summit-pitches-of-mt-humphreys/701423/c-701674"><img alt="Summit Pitches of Mt Humphreys" src="/images/square/701423.jpg"></a></td>
+<td><a href="/eastern-sierra-panorama-at-sunrise/701378/c-701674"><img alt="Eastern Sierra Panorama at Sunrise" src="/images/square/701378.jpg"></a></td>
+<td><a href="/one-crux-on-the-lower-east-ridge/701393/c-701674"><img alt="One Crux on the Lower East Ridge" src="/images/square/701393.jpg"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/winter-ascent-of-the-full-east-ridge-of-mt-humphreys/images/p-701674">View Gallery - 32 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date: Feb 13, 2011 
+difficulty:  
+elevation:  
+grade:  
+id: 701674 
+latitude:  
+location: California, United States, North America 
+longitude:  
+my_route_quality:  
+name: Winter Ascent of the Full East Ridge of Mt Humphreys 
+number_of_pitches:  
+page_url: http://www.summitpost.org/winter-ascent-of-the-full-east-ridge-of-mt-humphreys/701674 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons: Winter 
+time_required:  
+type: Trip Report 
+

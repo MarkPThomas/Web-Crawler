@@ -1,0 +1,140 @@
+activities: Hiking, Mountaineering, Ice Climbing, Mixed, Scrambling 
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>A modest elevation and well-trodden-tourist-track leading to a featureless summit would, upon first glance, make Flattop Mountain appear uninteresting to the mountaineer. But this broad expanse of summit is buttressed by long, sweeping, steep north and south faces that provide excellent year-round climbing in the spectacular heart of Rocky Mountain National Park.<br>
+<br>
+According to the book <em>High Country Names</em> by Louisa Arps and Elinor Kingery, the peak was called Table Top Mountain in 1887 when W.L. Hallett guided Frederick Chapin to its summit. (Those familiar with RMNP mountains will recognize both of those names). The name Flattop was given sometime later but the authors don't mention when or by whom.<br>
+<br>
+The first ascent must be considered unrecorded, as Ute and Arapahoe Indians used a trail over Flattop to cross the Continental Divide for hundreds of years. (Source: <em>Rocky Mountain National Park - A History</em> by C.W. Buchholtz)<br>
+<br>
+The routes I will add to this page are all snow climbs. I know there are some good rock routes on the south face, so please feel free to provide information about these. The mountain is ideally situated to make any outing a circuit, with little or no backtracking. Descent routes can use the standard trail, Tyndall or Andrews Glaciers.<br>
+<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=37252" rel="no_follow"><img src="/images/thumb/37252.jpg"></a></td>
+<td><a href="/view_object.php?object_id=37443" rel="no_follow"><img src="/images/thumb/37443.jpg"></a></td>
+<td><a href="/view_object.php?object_id=46524" rel="no_follow"><img src="/images/thumb/46524.jpg"></a></td>
+<td><a href="/view_object.php?object_id=37863" rel="no_follow"><img src="/images/thumb/37863.jpg"></a></td>
+<td><a href="/view_object.php?object_id=51730" rel="no_follow"><img src="/images/thumb/51730.jpg"></a></td>
+</tr></table>
+<a name="chapter_2"></a><h2>Getting There</h2>There are three typical options for approaching Flattop, depending upon your climbing destination. All three start at Bear Lake (9.475'). This is one of the main roads in the Park. Take the first left turn after the Beaver Meadows entrance and follow the road to its end. <br>
+<br>
+The trail options to Flattop are:<br>
+<ul>
+<li>The <b>standard hiking trail</b> begins by bearing right (north) at Bear Lake. Shortly, a sharp right turn puts you on the Bierstadt / Flattop Mountain Trail. After a half mile turn left onto the Flattop / Lake Helene trail. Yet another half mile, another trail junction, and another left turn puts you on the trail to Flattop. The route to the summit is all easy on-trail walking.<br>
+<br>
+<b>Recommended winter variation:</b> After the final left turn mentioned above the summer hiking trail winds through thick wood for well over a mile. After a fresh winter snowfall following this trail is difficult, at least for my poor navigation skills. I have used the following variation with success on numerous occasions on both skis and snowshoes. Instead of turning left at the above mentioned junction, continue straight towards Lake Helene. In less than 1/2 mile you will pass a prominent rock outcrop on your left. This is marked as point 10708 on the McHenry's Peak Quadrangle. Once this outcrop is behind you, turn left and now facing southwest, begin climbing the slope. The trees are thin here, choose the path of least resistance. In several hundred yards you <a href="http://www.summitpost.com/mountains/photo_link.pl?photo_id=85866&amp;object_id=2614&amp;type=mountain&amp;mountain_id=2614&amp;route_id=">break out of the trees</a> and the way ahead should be clear. By keeping the rocks close to your left you should be out of any slide danger from the broad expanse of slopes to your right.</li>
+<br>
+<br>
+<li>If you are climbing the <b>North Face Couloirs, Northwest Gully, or Ptarmigan Snowfield</b> then follow the above directions, but continue straight on to Lake Helene. You will begin to see the dramatic form of Notchtop Mountain ahead of you. Near Lake Helene look for one of several beaten paths on the left side of the trail. If you make a sharp turn to the right (northeast) toward Odessa Lake, then you went too far. These side tracks lead to the North Face of Flattop. In winter it is a question of choosing the best looking route. The views of Notchtop on your right are spectacular. It is about 4 miles from the trailhead to the base of the climbs.</li>
+<br>
+<br>
+<li>If you are climbing the <b>Dragons Tail, Dragons Tooth</b> or other south face routes, then turn left (south) from Bear Lake and follow the well marked trail to Emerald Lake. This is probably the most popular tourist hike in the Park and for good reason. It includes four lakes, is easy, and the views are picture-perfect Colorado postcard. The winter trail diverges at Nymph Lake, turning left at the lake and following the stream drainage to Dream Lake. At Emerald Lake you are facing Tyndall Gorge, with the south face of Flattop on your right and the dramatic north face of Hallets Peak on your left. It is less than two miles from Bear to Emerald Lake.</li>
+</ul>
+<br>
+<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=37254" rel="no_follow"><img src="/images/thumb/37254.jpg"></a></td>
+<td><a href="/view_object.php?object_id=37253" rel="no_follow"><img src="/images/thumb/37253.jpg"></a></td>
+<td><a href="/view_object.php?object_id=37864" rel="no_follow"><img src="/images/thumb/37864.jpg"></a></td>
+<td><a href="/view_object.php?object_id=87535" rel="no_follow"><img src="/images/thumb/87535.jpg"></a></td>
+<td><a href="/view_object.php?object_id=44871" rel="no_follow"><img src="/images/thumb/44871.JPG"></a></td>
+</tr></table>
+<a name="chapter_3"></a><h2>Descent Options</h2>Depending on the season and conditions any of the above routes can be combined with an alternate descent route to make for a nice circuit outing. <br>
+<br>
+You can descend the standard trail, or walk south along the Continental Divide to <a href="http://www.summitpost.org/mountains/route_link.pl?route_id=4480&amp;object_id=1845">Tyndall Glacier</a>, or farther south to <a href="http://www.summitpost.org/mountains/route_link.pl?route_id=2711&amp;object_id=2689">Andrews Glacier</a>. The latter is easier and can often (but not always!) be done without requiring an ice axe or crampons. It is also a good snowshoe option.<br>
+<br>
+Combing any of the these with an ascent of <a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/1845">Hallett Peak</a> is more icing on the cake!<br>
+<a name="chapter_4"></a><h2>Red Tape</h2>Flattop is within Rocky Mountain National Park, and all Park regulations apply. The <a href="http://www.nps.gov/romo/">Park's web site</a> will have current rate information. <br>
+<br>
+There are daily as well as annual Park passes. The annual pass is the only way to go for anyone living near the Park. But since you are out climbing and will be entering the Park at an absurdly early hour there will probably be no one there to collect your money.<br>
+<br>
+Please note that <em>no dogs</em> are permitted on any trail in RMNP, leashed or otherwise.<br>
+<br>
+<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=85133" rel="no_follow"><img src="/images/thumb/85133.jpg"></a></td>
+<td><a href="/view_object.php?object_id=51738" rel="no_follow"><img src="/images/thumb/51738.jpg"></a></td>
+<td><a href="/view_object.php?object_id=85134" rel="no_follow"><img src="/images/thumb/85134.jpg"></a></td>
+<td><a href="/view_object.php?object_id=51992" rel="no_follow"><img src="/images/thumb/51992.JPG"></a></td>
+</tr></table>
+<a name="chapter_5"></a><h2>When To Climb</h2>Flattop can be climbed by some route any time of the year.<br>
+<br>
+In summer the major safety concern are the afternoon thunderstorms which can form quickly by noon are a real danger. Avoiding these is why you have entered the park at an absurdly early hour.<br>
+<br>
+In winter you dodge the thunderstorm bullet, but must be prepared for high winds and limited visibility. I have twice been in white out conditions on the featureless slopes of the mountain and was glad to have shot compass readings back to the trail. Avalanches have also <a href="http://listsofjohn.com/Accidents/Flattop.html">claimed lives</a> in the couloirs.<br>
+<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=37287" rel="no_follow"><img src="/images/thumb/37287.jpg"></a></td>
+<td><a href="/view_object.php?object_id=38977" rel="no_follow"><img src="/images/thumb/38977.JPG"></a></td>
+<td><a href="/view_object.php?object_id=38978" rel="no_follow"><img src="/images/thumb/38978.JPG"></a></td>
+<td><a href="/view_object.php?object_id=44866" rel="no_follow"><img src="/images/thumb/44866.JPG"></a></td>
+<td><a href="/view_object.php?object_id=51739" rel="no_follow"><img src="/images/thumb/51739.jpg"></a></td>
+</tr></table>
+<a name="chapter_6"></a><h2>Camping</h2>Backcountry camps require using designated RMNP sites. <br>
+<br>
+There is an unpleasant backcountry site called Sourdough near Lake Helene. It is located in forest far from water and with no views of the nearby beauty. (Views of forests are fine, but if you are surrounded by mountains you'd prefer to see them from camp.) There is a nicer site at Odessa Lake. It is also possible to bivouac at the base of Notchtop Mountain.<br>
+<br>
+Typically this peak would be climbed as a day trip, but here is the link to <a href="http://www.nps.gov/romo/visit/park/camp/info.html">RMNP backcountry camping</a> information.<br>
+<a name="chapter_7"></a><h2>Mountain Conditions</h2>As usual for Colorado, conditions can range from the easiest of walk ups in summer (my wife and I once strolled to the top on a crystal July day after leaving Bear Lake at 1:00 PM), to howling, white-out blizzards in the winter. Or, the other way around!<br>
+<br>
+The biggest weather hazard are the afternoon thunderstorms which can build with alarming speed and danger. These are common from May through September. The Front Range is also known for ferocious wind, especially in winter.<br>
+<br>
+<a href="http://www.crh.noaa.gov/ifps/MapClick.php?MapType=3&amp;site=BOU&amp;CiTemplate=1&amp;map.x=113&amp;map.y=88">Longs Peak Ranger Station forecast</a>, elevation 9420 feet, according to the National Weather Service. Of course specific mountain conditions vary wildly over small distances<br>
+<br>
+<a href="http://www.crh.noaa.gov/ifps/MapClick.php?CityName=Estes+Park&amp;state=CO&amp;site=BOU">Estes Park forecast</a>, the gateway town on the east side of RMNP. <br>
+<br>
+<a href="http://culter.colorado.edu/exec/metpage/sdlmetpage_2.cgi">Weather charts data from the Niwot Ridge Meteorological site</a>, located at at 3528m (11,572 ft) on Niwot Ridge, some 30 miles south of RMNP. This gives you an indication of recent regional high altitude conditions.<br>
+<br>
+<a href="http://geosurvey.state.co.us/avalanche/Default.aspx?tabid=106">Colorado Avalanche Information Center</a>, more mountain forecasts and current conditions, highly useful avalance information, operates in winter months only.<br>
+<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=85137" rel="no_follow"><img src="/images/thumb/85137.jpg"></a></td>
+<td><a href="/view_object.php?object_id=86040" rel="no_follow"><img src="/images/thumb/86040.jpg"></a></td>
+<td><a href="/view_object.php?object_id=85138" rel="no_follow"><img src="/images/thumb/85138.jpg"></a></td>
+</tr></table>                                                               <a name="chapter_8"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/clark-s-nutcracker/41059/c-152200"><img alt="Clark\'s Nutcracker" src="/images/square/41059.jpg"></a></td>
+<td><a href="/rocky-mtn-high-1975-yours-truly-hiking-up-flattop-mountain/465799/c-152200"><img alt="Rocky Mtn High 1975 - Yours Truly Hiking Up Flattop Mountain" src="/images/square/465799.jpg"></a></td>
+<td><a href="/flattop-mixed/285528/c-152200"><img alt="Flattop Mixed" src="/images/square/285528.JPG"></a></td>
+<td><a href="/the-south-face-of-flattop/37249/c-152200"><img alt="The south face of Flattop..." src="/images/square/37249.jpg"></a></td>
+<td><a href="/ascending-toward-the-narrows/53042/c-152200"><img alt="Ascending toward the narrows..." src="/images/square/53042.jpg"></a></td>
+<td><a href="/the-craggy-flanks-of-flattop/46524/c-152200"><img alt="The craggy flanks of Flattop..." src="/images/square/46524.jpg"></a></td>
+<td><a href="/othis-through-flat-top/363179/c-152200"><img alt="Othis Through Flat Top" src="/images/square/363179.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/climbing-a-rib-between-the/37254/c-152200"><img alt="Climbing a rib between the..." src="/images/square/37254.jpg"></a></td>
+<td><a href="/a-large-for-colorado/37287/c-152200"><img alt="A large (for Colorado)..." src="/images/square/37287.jpg"></a></td>
+<td><a href="/climbing-the-central-couloir/37253/c-152200"><img alt="Climbing the central couloir..." src="/images/square/37253.jpg"></a></td>
+<td><a href="/looking-south-from-the/85133/c-152200"><img alt="Looking south from the..." src="/images/square/85133.jpg"></a></td>
+<td><a href="/looking-straight-down-dragon/87649/c-152200"><img alt="Looking straight down Dragon..." src="/images/square/87649.jpg"></a></td>
+<td><a href="/trudging-up-flattop-mountain/180307/c-152200"><img alt="Trudging up Flattop Mountain" src="/images/square/180307.jpg"></a></td>
+<td><a href="/rocky-mtn-high-1975-hiking-up-flattop/465808/c-152200"><img alt="Rocky Mtn High 1975 - Hiking Up Flattop" src="/images/square/465808.jpg"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/flattop-mountain/images/p-152200">View Gallery - 128 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty:  
+elevation: 12324 
+grade:  
+id: 152200 
+latitude: 40.3088 
+location: Colorado, United States, North America 
+longitude: -105.69 
+my_route_quality:  
+name: Flattop Mountain 
+number_of_pitches:  
+page_url: http://www.summitpost.org/flattop-mountain/152200 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons: Spring, Summer, Fall, Winter 
+time_required:  
+type: Mountain-Rock 
+

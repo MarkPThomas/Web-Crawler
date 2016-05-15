@@ -1,0 +1,94 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>
+<br>
+While this mountain can be seen from many places in the immediate area, it is not one that draws a lot of attention. From a distance, it looks like nothing more than a bump along the ridge that also contains Notchtop, Knobtop &amp; Gabletop Mountains, and is often "climbed" in conjunction with these other peaks.<br>
+<br>
+Ptarmigan Point serves as the western most, and deepest summit that makes up the walls of Odessa Gorge, a dramatic, glacially carved gorge in the heart of Rocky Mountain National Park.<br>
+<br>
+This peak is easliy accessible from the Flattop Mountain Trail and lies along the Continental Divide just to the Northwest of Flattop Mountain, overlooking the Bighorn Flats. It has a great little summit block, and provides for interesting views of many of the parks high peaks. It is also, as its name suggests, a great place to see Ptarmigan. This Tundra-loving bird changes from brown to white every year and blends in very well with its surroundings. So keep a sharp eye out!<br>
+<br>
+Round Trip: 10.5 miles<br>
+Elevation Gain: 2,888 feet<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=72702" rel="no_follow"><img src="/images/thumb/72702.jpg"></a></td>
+<td><a href="/view_object.php?object_id=72704" rel="no_follow"><img src="/images/thumb/72704.jpg"></a></td>
+</tr></table>
+<a name="chapter_2"></a><h2>Getting There</h2>
+<br>
+You will want to start your hike from Bear Lake, in Rocky Mountain National Park. The easiest way to get to Bear Lake, will be to enter the Park at the Beaver Meadows Entrance (hwy 36). Take your first left onto Bear Lake Road, and follow it until it dead ends (about 10 miles) at the Bear Lake Parking Lot. Follow the path about 1/4th of the way around the lake until you see the trail with sign directing you to Flattop Mountain. Follow that trail.<br>
+<br>
+<a href="http://www.nps.gov/romo/visit/maps.html"> Maps</a><br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=72701" rel="no_follow"><img src="/images/thumb/72701.jpg"></a></td>
+<td><a href="/view_object.php?object_id=72703" rel="no_follow"><img src="/images/thumb/72703.jpg"></a></td>
+</tr></table>
+<a name="chapter_3"></a><h2>Red Tape</h2>
+<br>
+The only permit required is a pass to get into the National Park. You can buy a week pass for $15, or an annual pass for $30. If you plan on camping , you will need to contact the Backcountry Office at 970-586-1242. Fees for camping vary, depending on the season, and the number in your party. A parking pass will only be required when parking overnight. A pass is included in the price of you backcountry camping permit.<br>
+<br>
+<a href="http://www.nps.gov/romo/visit/fees.html"> Fees for admission.</a><br>
+<br>
+<a href="http://www.nps.gov/romo/visit/park/protecting.html"> Basic Rules/Regulations</a><br>
+<a name="chapter_4"></a><h2>When To Climb</h2>
+<br>
+Ptarmigan Point can be climbed any time of the year. However, the Flattop Mountain Trail is basically snow free from June through September. So the Summer and early Fall are the easiest times to climb this mountain. It is just a little harder in the Winter, simply because it's more work using snowshoes. You will not need crampons or an ice axe.<br>
+<a name="chapter_5"></a><h2>Camping</h2>
+<br>
+Camping is allowed in the National Park. There are a few campsites in the area, some closer to Ptarmigan Point than others. There are no campsites on the Flattop Mountain Trail. Ask about campsites around Fern Lake and/or sites just West of the divide in the Tonohutu drainage, or the North Inlet drainage. Call 970-586-1242 to make reservations. Fees will vary depending on season and the number in your party. These will ALL be STOVES ONLY campsites.<br>
+<br>
+<a href="http://www.nps.gov/romo/visit/park/camping.html">Backcountry Camping Info.</a><br>
+<br>
+<a href="http://www.nps.gov/romo/visit/park/camp/info.html">More Info. and maps of designated Backcountry Sites.</a><br>
+<br>
+Here is the form to request a backcountry permit:<br>
+<br>
+<a href="http://www.nps.gov/romo/downloads/permits/TripWorksheet.pdf">Backcountry Campsite Request Form</a><br>
+<br>
+<a name="chapter_6"></a><h2>Mountain Conditions</h2>
+<br>
+To get the most accurate conditions on this mountain, it would be best to call Rocky Mountain National Park directly. 970-586-1206.<br>
+<a name="chapter_7"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/ptarmigan-point-approach/426327/c-153182"><img alt="Ptarmigan Point Approach" src="/images/square/426327.jpg"></a></td>
+<td><a href="/just-below-the-summit/72700/c-153182"><img alt="Just below the summit.&lt;br /&gt; &lt;br /&gt;..." src="/images/square/72700.jpg"></a></td>
+<td><a href="/up-the-final-short-slope-to/72701/c-153182"><img alt="Up the final short slope to..." src="/images/square/72701.jpg"></a></td>
+<td><a href="/the-summit-from-the/72702/c-153182"><img alt="The summit from the..." src="/images/square/72702.jpg"></a></td>
+<td><a href="/view-east-from-bighorn-flats/427092/c-153182"><img alt="View East from Bighorn Flats" src="/images/square/427092.jpg"></a></td>
+<td><a href="/just-below-the-summit-on-the/72704/c-153182"><img alt="Just below the summit on the..." src="/images/square/72704.jpg"></a></td>
+<td><a href="/hence-the-name-ptarmigans/72703/c-153182"><img alt="Hence the name: Ptarmigans..." src="/images/square/72703.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/view-from-ptarmigan-point/427058/c-153182"><img alt="View from Ptarmigan Point" src="/images/square/427058.jpg"></a></td>
+<td><a href="/ptarmagan-point-from/133314/c-153182"><img alt="Ptarmagan Point from..." src="/images/square/133314.JPG"></a></td>
+<td><a href="/ptarmigan-point-summit-from-the-east/427084/c-153182"><img alt="Ptarmigan Point Summit from the East" src="/images/square/427084.jpg"></a></td>
+<td><a href="/ptarmigan-point-bighorn-flats/289744/c-153182"><img alt="Ptarmigan point/Bighorn Flats" src="/images/square/289744.jpg"></a></td>
+<td><a href="/ptarmigan-point-and-ptarmigan-pass/426334/c-153182"><img alt="Ptarmigan Point and Ptarmigan Pass" src="/images/square/426334.jpg"></a></td>
+<td><a href="/snowdrift-from-ptarmigan-point/426647/c-153182"><img alt="Snowdrift from Ptarmigan Point" src="/images/square/426647.jpg"></a></td>
+<td><a href="/ptarmigan-point-summit-from-west/427063/c-153182"><img alt="Ptarmigan Point Summit  from West" src="/images/square/427063.jpg"></a></td>
+</tr>
+</table></div>
+            </article> 
+date:  
+difficulty:  
+elevation: 12363 
+grade:  
+id: 153182 
+latitude: 40.3131 
+location: Colorado, United States, North America 
+longitude: -105.7026 
+my_route_quality:  
+name: Ptarmigan Point 
+number_of_pitches:  
+page_url: http://www.summitpost.org/ptarmigan-point/153182 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons:  
+time_required:  
+type: Mountain-Rock 
+

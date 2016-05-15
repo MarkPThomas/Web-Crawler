@@ -1,0 +1,165 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>
+<i>I inherited this page from Bubba Suess in August 2012 and wanted to give my thanks to him for giving me the chance to build on it.</i><br>
+<br>
+Though many visitors to Mount Shasta come and go without noticing it, the Hotlum Glacier is notable for being the largest glacier on Mount Shasta and the most easily accessible place in California to access glacier and crevasse features for mountaineering activities.  Due to its quality features this glacier is perhaps <i>the</i> premier route on Shasta.  Even so, it goes unnoticed by the masses due to its geographic location on the northeast side of the mountain (far from the major highways most climbers use to arrive at the heavily frequented southwestern routes) and the summit topography (the north summit of Shasta blocks the glacier’s features from view of the true summit.  <br>
+<br>
+From the northeast the Hotlum Glacier is easily identified by the tall headwall that stands above it. First climbed in 1963 by Allen Steck and Bob Tripp, this glacier with its three icefalls, big crevasses and steep ice gullies provides variety of challenging options. The degree of difficulty will depend significantly on your chosen variation and is thus suitable to a variety of experienced climbers, yet in any case it is one of the more sustained and difficult climbs on the mountain and shouldn't be underestimated.<br>
+<br>
+<noformat> <table class="inline_image_thumbs"> <tr>
+<td>
+                      <a href="/view_object.php?object_id=320722" rel="nofollow">
+                      <img src="/images/thumb/320722.JPG"></a>
+</td>
+<td>
+                      <a href="/view_object.php?object_id=829186" rel="nofollow">
+                      <img src="/images/thumb/829186.JPG"></a>
+</td>
+<td>
+                      <a href="/view_object.php?object_id=223124" rel="nofollow">
+                      <img src="/images/thumb/223124.JPG"></a>
+</td>
+<td>
+                      <a href="/view_object.php?object_id=320730" rel="nofollow">
+                      <img src="/images/thumb/320730.JPG"></a>
+</td>
+<td>
+                      <a href="/view_object.php?object_id=829187" rel="nofollow">
+                      <img src="/images/thumb/829187.JPG"></a>
+</td>
+<td>
+                      <a href="/view_object.php?object_id=321442" rel="nofollow">
+                      <img src="/images/thumb/321442.jpg"></a>
+</td>
+</tr>
+</table></noformat><a name="chapter_2"></a><h2>Approach</h2> <div align="center" class="image-left" style="width: 506px;">
+<a href="/pavel-on-hotlum-glacier/320726"><img alt="Pavel on Hotlum Glacier" height="374" width="500" src="/images/medium/320726.JPG"></a><br><span class="caption">Early Morning on the Hotlum Glacier</span>
+</div>
+<br>
+The usual approach to Hotlum Glacier is from the Brewer Creek trailhead, though the glacier can be also approached from the North Gate trailhead.  Choosing the latter option accesses primarily the west lobe of the glacier until the midpoint, and though it bypasses the lower icefalls and crevasses present on the more featured eastern section of the glacier it remains a worthy climb and is utilized by some parties. <br>
+<br>
+As needed please refer to excellent pages by Bubba Suess on the <a href="http://www.summitpost.org/brewer-creek-trail/813934">Brewer Creek Trail</a> or the <a href="http://www.summitpost.org/north-gate-trail/808967">North Gate Trail</a> for driving directions and complete description of the trail approach.<br>
+<br>
+<b>Brewer Creek</b>  <i>(Aproximately 4 miles and 6900 feet elevation gain one way)</i><br>
+<br>
+When approaching from Brewer Creek simply follow the existing trail as it switchbacks gently up the northeast side of Shasta until it begins to approach treeline and a large moraine is visible directly up the mountain (or a bit to your right).  Use trails work your way towards the base of this easily identifiable landmark, and options are available to either climb the very steep slope up or traverse on a use trail up deep sandy slopes along the southern base of it (I’ve found it acceptable to use the steeper, more rocky route up and the easy, sandy route down though snow conditions can change preferences).  Continue working your way up the mountain until you approach the base of the eastern Hotlum Glacier.  Good camps exist at a small lake at 10,100 feet or much more commonly at a similar location and elevation at a large unmapped <a href="http://www.summitpost.org/camp-with-fresh-running-water/223120">runoff stream</a> just south of this point (use trails appear and disappear to lead to this location).  Excellent camps also exist on the southernmost moraine bordering the glacier just before it disappears at 10,700 feet into the snow below the lower headwall (left of the first icefall).<br>
+<br>
+<b>North Gate</b>  <i>(Aproximately 4 1/2 miles and 7200 feet elevation gain one way)</i><br>
+<br>
+If using the North Gate approach follow the trail until you get above the tree line. Above tree line cross the moraines to your left in any one of numerous feasible locations. Once on top of it, you will see a big flat area at 9500 feet that you will need to traverse. There are many great spots to set up a base camp here and during much of the season running water is likely to be found.  From the large flat area continue working your way up and left over snow and scree crossing another moraine as needed until you are below or cross onto the Hotlum Glacier. This approach also allows you also to make a side trip to Chicago Glacier, which is a good spot for crevasse rescue practice.<a name="chapter_3"></a><h2>Route Description</h2> <div align="center" class="image-right" style="width: 381px;">
+<a href="/climbing-on-hotlum-chicago-glacier/240727"><img alt="Climbing on Hotlum/Chicago glacier" height="500" width="375" src="/images/medium/240727.jpg"></a><br><span class="caption">Ice Play on the West Hotlum Glacier</span>
+</div>
+<br>
+If climbing the glacier from Brewer Creek, just above the highest realistic camp described above (at 10,700 feet) there is a headwall left of the first icefall.  Though the lower icefall can sometimes be climbed directly it is more typically bypassed to the right.  Continue working your way up the glacier soon passing another middle icefall on its left side and yet another upper icefall on the right (this is all extremely obvious as you climb the glacier).  There are many options, depending on your route-finding, commitment, and desired level of difficulty (or scenery).<br>
+<br>
+Once across (or around) the bergschrund there are three main variations to the last portion of the climb, each with several subvariations. You can either climb directly up the headwall (very uncommon), ascend one of the ice gullies to the left of the headwall, or exit the gully to the right of the headwall.<br>
+<br>
+<b>Hotlum Headwall:</b><br>
+The headwall itself requires 3-6 pitches of climbing extremely loose volcanic rock with the most difficult sections rated 5.8 and is rarely attempted for good reason.  If determined to take this variation this <a href="http://blog.tuckercunningham.com/2012/08/climbing-hotlum-headwall-and-glacier.html">trip report</a> by Tucker Cunningham is an excellent starting resource.<br>
+<br>
+<b>Hotlum Left Ice Gully:</b><br>
+The <a href="http://www.summitpost.org/hotlum-left-ice-gully/829183">ice gully</a> to the left of headwall is sustained (up to 55 degrees) and requires crossing the bergschrund at its base. It curves first left and then to the right and ends above the top of the headwall. Later in the season a short scramble over loose talus is then required to reach the summit.  There are several variations available (extending from closest to the headwall to several chutes left of this) at the base of the route as you begin above the bergschrund, the most desirable will vary considerably depending on your desire for talus, rock, ice, or snow and the conditions at the time.<br>
+<br>
+<b>Hotlum Right Ice Gully:</b><br>
+Similarly to the left gully, the ice gully to the right of the headwall can be a nice ice climb, but it will tend to melt out and result in a loose scree climb prior to the option on the left.  If not equipped with proper ice gear (tools, screws, etc…) and conditions are prohibitive to the left of the headwall, the exit to the right is likely the best option.  As with the other routes, there are several variations on the precise path taken.  <br>
+<br>
+<b>Descent Routes:</b><br>
+Rather than retracing your steps, the most common descent is the Hotlum-Wintun ridge, just drop down the snow slope immediately north of the summit (opposite where the main trail from the summit plateau reaches the summit area and south of the north summit area) and keep to the right side of the main ridge. After the ridge completely mellows out (no sooner!) cross over to the north and continue to camp or the Brewer Creek trailhead. The elevation of the crossover point is a bit over 12,000 feet, but note that is an imprecise number.  If beginning from North Gate the Hotlum-Bolam ridge is the best descent option.<br>
+<br>
+If seeking to experience glacier travel without getting into technical ice or rock climbing conditions that may be present on some variations, it is possible to cross over early from the upper Hotlum Glacier to the step on the Hotlum-Bolam Ridge and climb the last portion of that route to the summit.  A similar option that has been used would be to climb to the left early after the upper icefall and join the Hotlum-Wintun Ridge.<a name="chapter_4"></a><h2>Mountain Condtions</h2>
+<div class="thumb tleft"><div style="width:402px;">
+<a><img width="400" src="http://www.snowcrest.net/camera/highres.jpg"></a><div class="thumbcaption">
+<div class="magnify" style="float: right;"><a><img src="/images/layout/abby/magnify.gif" alt="Enlarge"></a></div>Mount Shasta Snowcrest Webcam</div>
+</div></div>The rangers at the Mount Shasta Ranger Station are an excellent resource and can answer most questions about the current conditions or any other concerns climbers may have.  Be aware of potential avalanche conditions in the winter and spring.<br>
+<br>
+<a href="http://www.shastaavalanche.org/advisories/advisories/avalanche-advisory">Mount Shasta Avalanche Center Online Avalanche Advisory</a><br>
+<br>
+<a href="http://www.shastaavalanche.org/advisories/advisories/climbing-advisory">USFS Mount Shasta Climbing Advisory</a> <br>
+<br>
+<a href="http://forecast.weather.gov/MapClick.php?lat=41.408230864902784&amp;lon=-122.19680786132812">Current NOAA / National Weather Service Forecast for the Summit Plateau</a><br>
+<br>
+<a href="http://forecast.weather.gov/MapClick.php?lat=41.31340266251607&amp;lon=-122.31233596801758">Current NOAA / National Weather Service Forecast for Mount Shasta City</a><br>
+<br>
+<table border="1" cellpadding="0"><tr><td><a href="http://www.wunderground.com/cgi-bin/findweather/getForecast?query=zmw:96067.1.99999&amp;bannertypeclick=wu_clean2day"><img src="http://weathersticker.wunderground.com/weathersticker/cgi-bin/banner/ban/wxBanner?bannertype=wu_clean2day_cond&amp;airportcode=KMHS&amp;ForcedCity=Mount%20Shasta&amp;ForcedState=CA&amp;zipcode=96067&amp;language=EN" alt="Click for Mount Shasta, California Forecast" height="100" width="300"></a></td></tr></table>
+<a name="chapter_5"></a><h2>Camp Locations</h2> <div align="center" class="image-left" style="width: 506px;">
+<a href="/camp-with-fresh-running-water/223120"><img alt="camp with fresh running water" height="375" width="500" src="/images/medium/223120.JPG"></a><br><span class="caption">Camp at the Hotlum Glacier Runnoff</span>
+</div>
+<br>
+As noted within the route descriptions above there are many great options for setting up camp near the Hotlum Glacier, perhaps even among the best sites on the mountain. Camp locations exist near several pools and glacial runoff streams, and the frequented sites described here all have a good chance for both camping off snow and still within a short walk of running water after mid-season during most years. <br>
+<br>
+For access to the east Hotlum Glacier from Brewer Creek most parties choose to camp just at or below the base of the glacier within the large lateral moraine to its south. Topographic maps show a small lake at 10,100 feet which makes for an ideal setting but slightly out of the way during most approaches. Use trails also lead to a similar more popular location at the same elevation alongside a large unmapped runoff stream just south (but out of view) of the lake. Excellent camps also exist on the southernmost glacial moraine  just before it disappears at 10,700 feet into the snow below the lower headwall and left of the first icefall. Though this latter option has great views and easy access for crevasse practice, it is very exposed should the wind or weather turn against you. All of these sites have room for at least a few tents of various sizes. <br>
+<br>
+If beginning at North Gate and accessing the west side of the glacier, most parties choose to camp somewhere between the two large lateral moraines that must be crossed en route to the glacier that end just above and southeast of the North Gate Plug. There is a big flat area at 9500 feet with many great spots to set up a base camp and even a shallow pool that sometimes forms near the eastern moraine. It's possible, however, to camp a good bit higher for closer access to the glacier, though you should be more prepared to melt snow for water as you ascend the mountain. <a name="chapter_6"></a><h2>Essential Gear</h2>Bringing crampons, ice axe, rope, harness, helmet, and crevasse rescue gear should be just as obvious as bringing shoes, pants, and a summit victory flask (or cigar). Depending on the chosen variation the climb may require rock protection (if climbing the headwall), or more commonly ice screws, pickets, and ice tools.  During much of the year the extra ice gear should be discretionary if you are flexible on the variation.<br>
+<br>
+<noformat> <table class="inline_image_thumbs"> <tr>
+<td>
+                      <a href="/view_object.php?object_id=223123" rel="nofollow">
+                      <img src="/images/thumb/223123.JPG"></a>
+</td>
+<td>
+                      <a href="/view_object.php?object_id=223127" rel="nofollow">
+                      <img src="/images/thumb/223127.JPG"></a>
+</td>
+<td>
+                      <a href="/view_object.php?object_id=321440" rel="nofollow">
+                      <img src="/images/thumb/321440.jpg"></a>
+</td>
+<td>
+                      <a href="/view_object.php?object_id=687155" rel="nofollow">
+                      <img src="/images/thumb/687155.JPG"></a>
+</td>
+<td>
+                      <a href="/view_object.php?object_id=223129" rel="nofollow">
+                      <img src="/images/thumb/223129.JPG"></a>
+</td>
+<td>
+                      <a href="/view_object.php?object_id=223128" rel="nofollow">
+                      <img src="/images/thumb/223128.JPG"></a>
+</td>
+</tr>
+</table></noformat><a name="chapter_7"></a><h2>Etymology</h2>Western explorer Major John Wesley Powell named several of Shasta’s glaciers.  <br>
+<br>
+“Powell was a brilliant scholar who collected over two dozen dictionaries of Native American languages and dialects. During 1879 he came to northern California to study the Wintun tribe, and climbed Mt. Shasta on November 1, 1879. Afterward, he named Shasta’s four other major glaciers with Wintun words in honor of the tribe: Hotlum (‘steep’), Bolam (‘big’ or ‘great’), Konwakiton (‘muddy’), and Wintun (the tribal name).  The names were inscribed in official records maintained by the US Geographic Board in 1897.” <b>– Andy Selters, Michael Zanger, <i>The Mt. Shasta Book: A Guide to Hiking, Climbing, Skiing, and Exploring the Mountain and Surrounding Area</i> (2006)</b>                                        <a name="chapter_8"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/crossing-crevasses-on-hotlum/60925/c-161508"><img alt="Crossing crevasses on Hotlum..." src="/images/square/60925.JPG"></a></td>
+<td><a href="/i-m-having-fun-skiing-the/114649/c-161508"><img alt="I\'m having fun skiing the..." src="/images/square/114649.jpg"></a></td>
+<td><a href="/sunrise-at-hotlum-ever/9215/c-161508"><img alt="Sunrise at Hotlum... ever..." src="/images/square/9215.jpg"></a></td>
+<td><a href="/climbing-on-hotlum-chicago-glacier/240727/c-161508"><img alt="Climbing on Hotlum/Chicago glacier" src="/images/square/240727.jpg"></a></td>
+<td><a href="/hotlum-left-ice-gully/829183/c-161508"><img alt="Hotlum Left Ice Gully" src="/images/square/829183.JPG"></a></td>
+<td><a href="/hotlum-glacier/829184/c-161508"><img alt="Hotlum Glacier" src="/images/square/829184.JPG"></a></td>
+<td><a href="/chopping-away/321633/c-161508"><img alt="Chopping away" src="/images/square/321633.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/lower-portion-of-the-left-ice-gully/223129/c-161508"><img alt="lower portion of the left ice gully" src="/images/square/223129.JPG"></a></td>
+<td><a href="/prusik-practice/321440/c-161508"><img alt="Prusik Practice" src="/images/square/321440.jpg"></a></td>
+<td><a href="/pj-descending-the-left-gully/114391/c-161508"><img alt="PJ descending the left gully..." src="/images/square/114391.jpg"></a></td>
+<td><a href="/mount-shasta/795973/c-161508"><img alt="Mount Shasta" src="/images/square/795973.JPG"></a></td>
+<td><a href="/morning-light/917989/c-161508"><img alt="morning light" src="/images/square/917989.JPG"></a></td>
+<td><a href="/crux-hotlum-left-gully-direct/321629/c-161508"><img alt="Crux:  Hotlum Left Gully Direct" src="/images/square/321629.jpg"></a></td>
+<td><a href="/climbing-up-the-hotlum-direct/429745/c-161508"><img alt="Climbing up the Hotlum Direct" src="/images/square/429745.jpg"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/hotlum-glacier/images/p-161508">View Gallery - 47 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty: Class 4-5 depending on variation 
+elevation:  
+grade:  
+id: 161508 
+latitude: 41.4094 
+location: California, United States, North America 
+longitude: -122.1939 
+my_route_quality:  
+name: Hotlum Glacier 
+number_of_pitches:  
+page_url: http://www.summitpost.org/hotlum-glacier/161508 
+rock_difficulty:  
+route_quality: 1.0 
+route_type: Snow/Glacier, Ice, Technical Rock 
+seasons:  
+time_required: One to two days 
+type: Route 
+

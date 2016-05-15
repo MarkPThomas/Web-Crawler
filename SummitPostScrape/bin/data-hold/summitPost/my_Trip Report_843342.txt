@@ -1,0 +1,364 @@
+activities: Mountaineering, Trad Climbing 
+content: <article>
+            <p></p>
+<center><table border="0">  <tbody><tr>    <td width="50%"><center>
+<a href="https://lh6.googleusercontent.com/-pjK6-KHfggQ/UTWuJm_ebLI/AAAAAAABtjI/T91RB9pH9II/s2000/2012-08-21%2520-%252006a%2520-%2520Early%2520morning%2520over%2520War%2520Bonnet%2520-%2520annotated.jpg"><img src="https://lh6.googleusercontent.com/-pjK6-KHfggQ/UTWuJm_ebLI/AAAAAAABtjI/T91RB9pH9II/s400/2012-08-21%2520-%252006a%2520-%2520Early%2520morning%2520over%2520War%2520Bonnet%2520-%2520annotated.jpg" style="border-width:0px;background-color:transparent"></a> <br>
+<b><i>The route and approaches for the NE Face of Warbonnet.</i></b>
+</center></td>    <td><center>
+<a href="https://lh3.googleusercontent.com/-Xj6-H0_LpN0/UTWuOXw8IvI/AAAAAAABtjo/AQMf7RYz6VQ/s2000/2012-08-23%2520-%252004a%2520-%2520War%2520Bonnett%2520in%2520the%2520morning%2520-%2520annotated.jpg"><img src="https://lh3.googleusercontent.com/-Xj6-H0_LpN0/UTWuOXw8IvI/AAAAAAABtjo/AQMf7RYz6VQ/s400/2012-08-23%2520-%252004a%2520-%2520War%2520Bonnett%2520in%2520the%2520morning%2520-%2520annotated.jpg" style="border-width: 0px; background-color: transparent;"></a> <br>
+<b><i>Warbonnet seen at sunrise from camp as we left for the climb.</i></b>
+</center></td>  </tr></tbody>
+</table></center>
+<br>
+<br>
+<center><table border="1">  <tbody><tr>    <td><i>"The climb requires good routefinding skills and a high level of commitment; bailing from this climb is difficult".  <br>
+      - Steve Bechtel, from 'A Select Guide to the Wind Rivers' Best Rock Climbing'.</i></td>  </tr></tbody>
+</table></center>
+<br>
+<center><table border="1">  <tbody><tr>    <td>      <i>"The route reaches the summit of Warbonnet in six fun, but loose, somewhat runout pitches."  <br>
+      - RPC, from SummitPost.org</i>
+</td>  </tr></tbody>
+</table></center>
+<br>
+<br>
+Not all of the rock in Cirque of the Towers is good, and not all of the climbing is Type I fun.<a name="chapter_1"></a><h2 id="first_h2">August 23, 2012</h2>Thomas and I had felt like we had absolutely crushed in on our first few days in the Cirque of the Towers. After knocking off the classics, we wanted a bit more 'adventure', and figured Warbonnet would be a good casual 'alpine' outing. The descriptions made it sound semi-serious with tricky routefinding, but given how fast and easily we knocked off the NE Face of Pingora the day before, we figured we could make short work of this climb and hike out the same day to try some climbs in the Tetons.<div>
+<br>
+Unfortunately, the published guidebook description and line didn't match Radek's account of the climb, which led us off route. Then once we located ourselves, the exit pitch was indicated very differently between the two sources. We should have believed Radek over the guidebook! Also, the route itself was quite humbling as it was far more unnverving than expected. Ultimately we prevailed and completed a seldom-done climb that is gritty, grassy, stout, and often runout, but takes a great line up a gorgeous peak. We found this climb to be MUCH harder and it took us MUCH longer than the IV, 5.8 NE Face of Pingora that we climed 2 days prior. Don't do this one unless you lead much harder than 5.8!</div>
+<div>
+<br>
+<a name="chapter_2"></a><h2>Confusion</h2>
+<p>So given a choice between a published guide that you paid money for and assumed has been vetted, versus the casual recollections of a climber that he wrote down and drew up during spare time at work and distributed for free online, which one would you take? Upon casual glance, the routes appeared to be the same, but as we climbed up the face, their descriptions began to differ from each other and what we encountered. We erred on following Bechtel's guidebook, but in the end we were sorry that we had doubted Radek!</p>
+<center><table border="0">  <tbody><tr>    <td width="50%"><center><a href="https://lh3.googleusercontent.com/-WKC9U9j-h8M/UTWuVHk1ccI/AAAAAAABtkI/IF7ol4tFdkY/s2000/2012-08-24%2520-%252001%2520-%2520War%2520Bonnett%2520from%2520Jackass%2520Pass%2520-%2520annotated%2520Guides.jpg"><img src="https://lh3.googleusercontent.com/-WKC9U9j-h8M/UTWuVHk1ccI/AAAAAAABtkI/IF7ol4tFdkY/s400/2012-08-24%2520-%252001%2520-%2520War%2520Bonnett%2520from%2520Jackass%2520Pass%2520-%2520annotated%2520Guides.jpg" style="border-width:0px;background-color:transparent"></a></center></td>    <td><center><a href="https://lh4.googleusercontent.com/-FJ9qlmCMCR8/UTWuWf9BVgI/AAAAAAABtkQ/cuYiqVpW4co/s2000/2012-08-24%2520-%252001%2520-%2520War%2520Bonnett%2520from%2520Jackass%2520Pass%2520-%2520annotated%2520Ours.jpg"><img src="https://lh4.googleusercontent.com/-FJ9qlmCMCR8/UTWuWf9BVgI/AAAAAAABtkQ/cuYiqVpW4co/s400/2012-08-24%2520-%252001%2520-%2520War%2520Bonnett%2520from%2520Jackass%2520Pass%2520-%2520annotated%2520Ours.jpg" style="border-width: 0px; background-color: transparent;"></a></center></td>  </tr></tbody>
+</table></center>
+<center><b><i>War Bonnet's NE Face seen from near Jackass Pass, and route lines laid down in retrospect . . .</i></b></center>
+<center><b><i><br>
+</i></b></center>
+<a name="chapter_3"></a><h2>Approach</h2>
+<center>
+<a href="https://lh6.googleusercontent.com/-9imZL0WLyAE/UFInB4H4h3I/AAAAAAABPQ0/3-A4OOPpm6g/s1600/2012-08-23%252520-%25252003%252520-%252520Watch%252520Tower%252520%252526%252520Others%252520under%252520alpenglow.jpg"><img src="https://lh6.googleusercontent.com/-9imZL0WLyAE/UFInB4H4h3I/AAAAAAABPQ0/3-A4OOPpm6g/s800/2012-08-23%252520-%25252003%252520-%252520Watch%252520Tower%252520%252526%252520Others%252520under%252520alpenglow.jpg" style="border-width: 0px; background-color: transparent;"></a><br>
+<b><i>Watch Tower and others under morning alpenglow.</i></b>
+</center>
+<center><b><i><br>
+</i></b></center>
+<center><table border="0">  <tbody><tr>    <td width="50%"><center>
+<a href="https://lh3.googleusercontent.com/-hXx-Pw0BuxQ/UFInAKmQHeI/AAAAAAABPQs/6m-PFkTGSlY/s1600/2012-08-23%252520-%25252001%252520-%252520War%252520Bonnett%252520in%252520the%252520morning.jpg"><img src="https://lh3.googleusercontent.com/-hXx-Pw0BuxQ/UFInAKmQHeI/AAAAAAABPQs/6m-PFkTGSlY/s400/2012-08-23%252520-%25252001%252520-%252520War%252520Bonnett%252520in%252520the%252520morning.jpg" style="border-width:0px;background-color:transparent"></a><br>
+<b><i>War Bonnet under alpenglow.</i></b>
+</center></td>    <td><center>
+<a href="https://lh3.googleusercontent.com/-9BN39T2qpRI/UFInAtFapVI/AAAAAAABPQw/76jZPocflgw/s1600/2012-08-23%252520-%25252002%252520-%252520War%252520Bonnett%252520upper%252520NE%252520Face.jpg"><img src="https://lh3.googleusercontent.com/-9BN39T2qpRI/UFInAtFapVI/AAAAAAABPQw/76jZPocflgw/s400/2012-08-23%252520-%25252002%252520-%252520War%252520Bonnett%252520upper%252520NE%252520Face.jpg" style="border-width: 0px; background-color: transparent;"></a><br>
+<b><i>NE Face of War Bonnet. Check out that slender free-standing spire on the lower left!</i></b>
+</center></td>  </tr></tbody>
+</table></center>
+<br>
+As the direct approach was melted out and we didn't like the idea of wet 5th class slabs that we might have to belay, we opted for the longer, cl. 3-4 route with less first-hand information. So we hiked over the climber's version of Jackass Pass, descended a hundred feet or so before picking our way over on a ledge system. Now, we had in mind that the switchback would be smaller than it was, and that the cl. 4 might be old school, so we were ready for some harder soloing. So when the ledge seemed to choke off, we started up a broken ledge system above us. <br>
+Don't do that.<br>
+<br>
+I ended up in iffy 5th class terrain, and the ledges above looked less reasonable as I got higher, so we had to work out a retreat option. It just so happened that we saw a few rappel slings in the area as we backed down and added ours to the cliffside . . .<br>
+<br>
+We headed up the chute where the ledge appeared to end and popped out the backside on a much longer ledge system. In the end, we nearly ended up on the south side of the peak before we reached the ledge that traversed back up to the Plume, but it is casual, scenic, and probably goes much faster if you know where you're going.<br>
+<br>
+<center><table border="0">  <tbody>
+<tr>    <td width="50%"><center>
+<a href="https://lh5.googleusercontent.com/-e35ah83Gl6o/UFInEn6stPI/AAAAAAABPRA/YWIpcvMsypE/s1600/2012-08-23%252520-%25252005%252520-%252520Approach%252520Ledges%252520above%252520Arrowhead%252520Lake.jpg"><img src="https://lh5.googleusercontent.com/-e35ah83Gl6o/UFInEn6stPI/AAAAAAABPRA/YWIpcvMsypE/s400/2012-08-23%252520-%25252005%252520-%252520Approach%252520Ledges%252520above%252520Arrowhead%252520Lake.jpg" style="border-width:0px;background-color:transparent"></a><br>
+<b><i>Approach ledges above Arrowhead Lake. You can mostly traverse over to this from the 'climber's Jackass Pass' trail. Look carefully for a line and some cairns as you encounter the large boulders as you descend from the pass.</i></b>
+</center></td>    <td>
+<center>
+<a href="https://lh6.googleusercontent.com/-INo5UzIOl8o/UFInF0t06wI/AAAAAAABPRE/epAWH1XtFNU/s1600/2012-08-23%252520-%25252006%252520-%252520Thomas%252520on%252520the%252520long%252520approach%252520ledge.jpg"><img src="https://lh6.googleusercontent.com/-INo5UzIOl8o/UFInF0t06wI/AAAAAAABPRE/epAWH1XtFNU/s400/2012-08-23%252520-%25252006%252520-%252520Thomas%252520on%252520the%252520long%252520approach%252520ledge.jpg" style="border-width: 0px; background-color: transparent;"></a><br>
+<b><i>Looking back at Thomas following the traverse approach. Traverse much longer than you think. The ledge appears to end, but actually narrows, drops down, then widens and continues. The switchback is obvious and if you are climbing harder than cl. 2 to exit the ledge, you are leaving it too early. I say this because at first we exited too early!</i></b>
+</center>
+<center><b><i><br>
+</i></b></center>
+<center><b><i><br>
+</i></b></center>
+</td>  </tr>  <tr>    <td width="50%"><center>
+<a href="https://lh6.googleusercontent.com/-twbTY2o13NU/UFInJIR7OWI/AAAAAAABPRM/xua3GUJ7r-s/s1600/2012-08-23%252520-%25252008%252520-%252520Switching%252520back%252520on%252520approach%252520ledge.jpg"><img src="https://lh6.googleusercontent.com/-twbTY2o13NU/UFInJIR7OWI/AAAAAAABPRM/xua3GUJ7r-s/s400/2012-08-23%252520-%25252008%252520-%252520Switching%252520back%252520on%252520approach%252520ledge.jpg" style="border-width:0px;background-color:transparent"></a><br>
+<b><i>Switching back on the approach ledge. Rock was mostly solid and mostly cl. 2 with occasional cl. 3-4 crux sections. None of it was ever all that exposed or hard for the grade.</i></b>
+</center></td>    <td><center>
+<a href="https://lh3.googleusercontent.com/-YM4zi5PjbX0/UFInKo06dNI/AAAAAAABPRQ/NviVcR8gOIM/s1600/2012-08-23%252520-%25252009%252520-%252520Final%252520part%252520of%252520Approach%252520Ledges.jpg"><img src="https://lh3.googleusercontent.com/-YM4zi5PjbX0/UFInKo06dNI/AAAAAAABPRQ/NviVcR8gOIM/s400/2012-08-23%252520-%25252009%252520-%252520Final%252520part%252520of%252520Approach%252520Ledges.jpg" style="border-width: 0px; background-color: transparent;"></a><br>
+<b><i>Final part of the approach ledges. The route begins at the notch ahead.</i></b>
+</center></td>  </tr>
+</tbody>
+</table></center>
+<br>
+At last we reached the Plume Notch and were treated with magnificent views of the Cirque.<br>
+<br>
+<center>
+<a href="https://lh3.googleusercontent.com/-MqKChBLMi84/UFInMN048CI/AAAAAAABPRU/cIbFb_ndcpQ/s1600/2012-08-23%252520-%25252010%252520-%252520Overhanging%252520Tower%252520to%252520Pingora%252520from%252520Notch.jpg"><img src="https://lh3.googleusercontent.com/-MqKChBLMi84/UFInMN048CI/AAAAAAABPRU/cIbFb_ndcpQ/s800/2012-08-23%252520-%25252010%252520-%252520Overhanging%252520Tower%252520to%252520Pingora%252520from%252520Notch.jpg" style="border-width:0px;background-color:transparent"></a><br>
+<b><i>Shark's Nose, Overhanging Tower, Wolf's Head, Bollinger Peak, Tiger Tower (all in shadow) and Pingora seen from the notch.</i></b>
+</center>
+<center><b><i><br>
+</i></b></center>
+<br>
+<center><table border="0">  <tbody><tr>    <td width="50%"><center>
+<a href="https://lh5.googleusercontent.com/-t9mI37XPutM/UFInNJ3KgtI/AAAAAAABPRY/NNd_CcLv_QA/s1600/2012-08-23%252520-%25252011%252520-%252520Wolfs%252520Head%252520%252526%252520Tiger%252520Tower.jpg"><img src="https://lh5.googleusercontent.com/-t9mI37XPutM/UFInNJ3KgtI/AAAAAAABPRY/NNd_CcLv_QA/s400/2012-08-23%252520-%25252011%252520-%252520Wolfs%252520Head%252520%252526%252520Tiger%252520Tower.jpg" style="border-width:0px;background-color:transparent"></a><br>
+<b><i>Wolf's Head, Bollinger Peak, and Tiger Tower (in shadow) seen from the notch.</i></b>
+</center></td>    <td><center>
+<a href="https://lh3.googleusercontent.com/-0pAWyPu14cs/UFInOFCgxAI/AAAAAAABPRc/XLr2hNRQ6D8/s1600/2012-08-23%252520-%25252012%252520-%252520Overhanging%252520Tower%252520%252526%252520Sharks%252520Nose.jpg"><img src="https://lh3.googleusercontent.com/-0pAWyPu14cs/UFInOFCgxAI/AAAAAAABPRc/XLr2hNRQ6D8/s400/2012-08-23%252520-%25252012%252520-%252520Overhanging%252520Tower%252520%252526%252520Sharks%252520Nose.jpg" style="border-width: 0px; background-color: transparent;"></a><br>
+<b><i>Shark's Nose and Overhanging Tower seen from the notch,</i></b>
+</center></td>  </tr></tbody>
+</table></center>
+<br>
+<br>
+<center>
+<a href="https://lh6.googleusercontent.com/-08NaWotMyik/UFInPzEcb6I/AAAAAAABPRg/JyW5N2kt9H8/s1600/2012-08-23%252520-%25252013%252520-%252520Pingora.jpg"><img src="https://lh6.googleusercontent.com/-08NaWotMyik/UFInPzEcb6I/AAAAAAABPRg/JyW5N2kt9H8/s800/2012-08-23%252520-%25252013%252520-%252520Pingora.jpg" style="border-width:0px;background-color:transparent"></a><br>
+<b><i>Pingora seen from the notch.</i></b>
+</center>
+<br>
+<a name="chapter_4"></a><h2>Attempt 1</h2>
+<center><table border="0">  <tbody><tr>    <td><center>
+<a href="https://lh4.googleusercontent.com/-7fjx026GGKI/UTWuPpD4JBI/AAAAAAABtjw/oN_BIsNNXVE/s2000/2012-08-23%2520-%252015%2520-%2520War%2520Bonnett%2520NE%2520Face%2520start%2520Panorama%2520-%2520annotated.jpg"><img src="https://lh4.googleusercontent.com/-7fjx026GGKI/UTWuPpD4JBI/AAAAAAABtjw/oN_BIsNNXVE/s400/2012-08-23%2520-%252015%2520-%2520War%2520Bonnett%2520NE%2520Face%2520start%2520Panorama%2520-%2520annotated.jpg" style="border-width:0px;background-color:transparent"></a><br>
+<b><i>War Bonnet NE Face first pitch and beyond, panorama.</i></b>
+</center></td>    <td><center>
+<a href="https://lh4.googleusercontent.com/-EXfyeEYCB1I/UTWuQwTnOoI/AAAAAAABtj4/3qAXV7sscKU/s2000/2012-08-23%2520-%252016%2520-%2520Finishing%2520P1%2520-%2520annotated.jpg"><img src="https://lh4.googleusercontent.com/-EXfyeEYCB1I/UTWuQwTnOoI/AAAAAAABtj4/3qAXV7sscKU/s400/2012-08-23%2520-%252016%2520-%2520Finishing%2520P1%2520-%2520annotated.jpg" style="border-width:0px;background-color:transparent"></a>;<br>
+<b><i>Finishing P1. I think Radek took the shadowy corner to the right, but the "Selects" guide directed us to the larger chimney on the left.</i></b>
+</center></td>  </tr></tbody>
+</table></center>
+<br>
+<br>
+The first pitch wanders a lot and eases up very quickly, so I mostly walked up it with a lot of drag. For those who don't want to solo mid-5th slab, I recommend simul-climbing P1 with a shortened rope.<br>
+<br>
+So pitch 1 of 6 was already conquered and despite our setback on the approach, it was still early in the day. However, as the face loomed larger, points of reference disappeared and the way to go became less clear. Both Radek and Bechtel described a chimney after the first pitch. We saw 3 to choose from. The middle one seemed more chimney-like than the right one, but more in line with where we were going, so we climbed up that, expecting to traverse back right as per Radek's topo.<br>
+<br>
+<center><table border="0">  <tbody>
+<tr>    <td width="50%">
+<center>
+<a href="https://lh4.googleusercontent.com/-Ny8d4iMJgXA/UFInZqR7DLI/AAAAAAABPR8/yOAEdWijIf4/s1600/2012-08-23%252520-%25252020%252520-%252520Thomas%252520Leading%252520P2.jpg"><img src="https://lh4.googleusercontent.com/-Ny8d4iMJgXA/UFInZqR7DLI/AAAAAAABPR8/yOAEdWijIf4/s400/2012-08-23%252520-%25252020%252520-%252520Thomas%252520Leading%252520P2.jpg" style="border-width:0px;background-color:transparent"></a>  <br>
+<b><i>Thomas leading the 5.6 chimney on P2.</i></b>
+</center>
+<center><b><i><br>
+</i></b></center>
+<center><b><i><br>
+</i></b></center>
+</td>    <td><center>
+<a href="https://lh4.googleusercontent.com/-K5tROoJhH1g/UFIna6vas0I/AAAAAAABPSA/Y8Ktt2_OWyU/s1600/2012-08-23%252520-%25252021%252520-%252520Following%252520P2%252520Chimney.jpg"><img src="https://lh4.googleusercontent.com/-K5tROoJhH1g/UFIna6vas0I/AAAAAAABPSA/Y8Ktt2_OWyU/s400/2012-08-23%252520-%25252021%252520-%252520Following%252520P2%252520Chimney.jpg" style="border-width: 0px; background-color: transparent;"></a><br>
+<b><i>P2 5.6 chimney. A little dirty . . .</i></b>
+</center></td>  </tr>  <tr>    <td><center>
+<a href="https://lh4.googleusercontent.com/-2m3RNLUyGK0/UFInd7EemKI/AAAAAAABPSI/656MWoq5Cz0/s1600/2012-08-23%252520-%25252023%252520-%252520P2.jpg"><img src="https://lh4.googleusercontent.com/-2m3RNLUyGK0/UFInd7EemKI/AAAAAAABPSI/656MWoq5Cz0/s400/2012-08-23%252520-%25252023%252520-%252520P2.jpg" style="border-width: 0px; background-color: transparent;"></a><br>
+<b><i>P2 climbing up before more traversing. We never found Radek's 6" ledge, which I think was at the next corner over (I could look down to it from here but we were cliffed out).</i></b>
+</center></td>    <td><center>
+<a href="https://lh5.googleusercontent.com/-1PthS6p6yNQ/UFInfnRUEzI/AAAAAAABPSM/fktdn3fGnbc/s1600/2012-08-23%252520-%25252024%252520-%252520Starting%252520P3.jpg"><img src="https://lh5.googleusercontent.com/-1PthS6p6yNQ/UFInfnRUEzI/AAAAAAABPSM/fktdn3fGnbc/s400/2012-08-23%252520-%25252024%252520-%252520Starting%252520P3.jpg" style="border-width: 0px; background-color: transparent;"></a><br>
+<b><i>Starting P3 on lovely rock. It gets more decomposed higher up.</i></b>
+</center></td>  </tr>
+</tbody>
+</table></center>
+<br>
+<br>
+<center>
+<a href="https://lh3.googleusercontent.com/-eMyvNpqTzHY/UFIng_55yeI/AAAAAAABPSQ/LOGGL9MEM_A/s1600/2012-08-23%252520-%25252025%252520-%252520P3.jpg"><img src="https://lh3.googleusercontent.com/-eMyvNpqTzHY/UFIng_55yeI/AAAAAAABPSQ/LOGGL9MEM_A/s600/2012-08-23%252520-%25252025%252520-%252520P3.jpg" style="border-width: 0px; background-color: transparent;"></a><br>
+<b><i>P3 crux. Thinking we were still on route, the info directed me to climb the decomposing left corner, where I couldn't see any pro or the mystical piton. No way! I like the line to the right better, and opted for what turned out to be a stout 5.8 OW (Thomas followed it as a lieback that he thought was 5.9).</i></b>
+</center>
+<br>
+<br>
+Leading P3 was interesting, not just due to the lack of pro and clear path, but because this was my first time leading something so sustained in rottenness and difficulty, where I felt like I had a good chance of falling due to a smear slipping on grit or a hold breaking off. The prospect of an unexpected fall was much higher here, but with much less security with pro and safe fall zones. Most of the cracks were exfoliating seams or full of grass.<br>
+<br>
+<center><table border="0">  <tbody><tr>    <td width="50%"><center>
+<a href="https://lh3.googleusercontent.com/-swLnCrTggSk/UFInjq4ewCI/AAAAAAABPSU/4HNVTGTvC88/s1600/2012-08-23%252520-%25252026%252520-%252520Looking%252520down%252520P3.jpg"><img src="https://lh3.googleusercontent.com/-swLnCrTggSk/UFInjq4ewCI/AAAAAAABPSU/4HNVTGTvC88/s400/2012-08-23%252520-%25252026%252520-%252520Looking%252520down%252520P3.jpg" style="border-width:0px;background-color:transparent"></a>  <br>
+<b><i>Looking down from atop P3.</i></b>
+</center></td>    <td><center>
+<a href="https://lh4.googleusercontent.com/-8zYOAtm9qQc/UFInkVmwlrI/AAAAAAABPSY/AXruqdB8sOw/s1600/2012-08-23%252520-%25252027%252520-%252520Thomas%252520at%252520P3%252520Crux.jpg"><img src="https://lh4.googleusercontent.com/-8zYOAtm9qQc/UFInkVmwlrI/AAAAAAABPSY/AXruqdB8sOw/s400/2012-08-23%252520-%25252027%252520-%252520Thomas%252520at%252520P3%252520Crux.jpg" style="border-width:0px;background-color:transparent"></a><br>
+<b><i>Thomas at the crux. He liebacked this at what he thought was 5.9. Leading it, I crawled inside at what I would rate a 5.8 OW. It was my first time hanging on a shoulder-shoulder jam while resetting my feet.</i></b>
+</center></td>  </tr></tbody>
+</table></center>
+<br>
+<br>
+So atop P3, it seemed like we were on route, yet not. A lot of features matched both descriptions, but not quite, and there seemed to be a few ways to go. Thomas started up a center shallow groove, expecting to find a way to traverse to the buttress on our right, where we figured P5 would start.<br>
+<br>
+<center><table border="0">  <tbody><tr>    <td width="50%"><center>
+<a href="https://lh5.googleusercontent.com/-5qfufjjZYV4/UFInmwtbZQI/AAAAAAABPSg/R2z5c7N2KTA/s1600/2012-08-23%252520-%25252029%252520-%252520Thomas%252520leading%252520P4.jpg"><img src="https://lh5.googleusercontent.com/-5qfufjjZYV4/UFInmwtbZQI/AAAAAAABPSg/R2z5c7N2KTA/s400/2012-08-23%252520-%25252029%252520-%252520Thomas%252520leading%252520P4.jpg" style="border-width:0px;background-color:transparent"></a><br>
+<b><i>Thomas leading P4. He is in gritty, friable 5.8R terrain and almost at a thin grassy ledge where he traverse to the right.</i></b>
+</center></td>    <td>
+<center>
+<a href="https://lh5.googleusercontent.com/-JoM5lcRc7v4/UFInpqvwdnI/AAAAAAABPSo/BCVOHxvdC4U/s1600/2012-08-23%252520-%25252031%252520-%252520Thomas%252520leading%252520P4%252520at%252520traverse.jpg"><img src="https://lh5.googleusercontent.com/-JoM5lcRc7v4/UFInpqvwdnI/AAAAAAABPSo/BCVOHxvdC4U/s400/2012-08-23%252520-%25252031%252520-%252520Thomas%252520leading%252520P4%252520at%252520traverse.jpg" style="border-width: 0px; background-color: transparent;"></a><br>
+<b><i>Thomas leading P4. He is past the gritty, friable 5.8R terrain and on a traversing ledge. This led to a grassy, dirt 5.9 downclimb to a notch on the right. This downclimb was thin and very awkward!</i></b>
+</center>
+<center><b><i><br>
+</i></b></center>
+</td>  </tr></tbody>
+</table></center>
+<br>
+<center>
+<a href="https://lh3.googleusercontent.com/-RuqBeEGnOMI/UFInrMM04II/AAAAAAABPSs/eORqmBhg9AA/s1600/2012-08-23%252520-%25252032%252520-%252520Following%252520P4.jpg"><img src="https://lh3.googleusercontent.com/-RuqBeEGnOMI/UFInrMM04II/AAAAAAABPSs/eORqmBhg9AA/s600/2012-08-23%252520-%25252032%252520-%252520Following%252520P4.jpg" style="border-width:0px;background-color:transparent"></a><br>
+<b><i>Following P4. Not much for jamming or gripping. Don't slip!</i></b>
+</center>
+<center><b><i><br>
+</i></b></center>
+<center><b><i><br>
+</i></b></center> <br>
+<center><table border="0">  <tbody><tr>    <td width="50%"><center>
+<a href="https://lh3.googleusercontent.com/-YAoJcUyu_bw/UFInrxQF9FI/AAAAAAABPSw/B51ISS0V76c/s1600/2012-08-23%252520-%25252033%252520-%252520Following%252520P4%252520w%252520crux%252520downclimb.jpg"><img src="https://lh3.googleusercontent.com/-YAoJcUyu_bw/UFInrxQF9FI/AAAAAAABPSw/B51ISS0V76c/s400/2012-08-23%252520-%25252033%252520-%252520Following%252520P4%252520w%252520crux%252520downclimb.jpg" style="border-width:0px;background-color:transparent"></a><br>
+<b><i>Following P4. I climbed up to a small ledge and then did the crux downclimb to Thomas.</i></b>
+</center></td>    <td><center>
+<a href="https://lh6.googleusercontent.com/-82Tg0l-m6Lw/UFInumkxolI/AAAAAAABPS4/soEbYA_JjaU/s1600/2012-08-23%252520-%25252035%252520-%252520P4%252520Steep%252520grassy%252520downclimb.jpg"><img src="https://lh6.googleusercontent.com/-82Tg0l-m6Lw/UFInumkxolI/AAAAAAABPS4/soEbYA_JjaU/s400/2012-08-23%252520-%25252035%252520-%252520P4%252520Steep%252520grassy%252520downclimb.jpg" style="border-width: 0px; background-color: transparent;"></a><br>
+<b><i>Looking back on the P4 steep grassy 5.9 downclimb (crack on the left). The correct exit pitch goes up the corner on the right that kind of blends in with the face.</i></b>
+</center></td>  </tr></tbody>
+</table></center>
+<br>
+<br>
+So now things started to get strange. We looked more closely at both guides and saw that they were pointing at distinctly different exits. Also, we couldn't see the terrain around us well enough to pinpoint just where we were on the face. We thought we were still on route (whatever that was at this point), but we weren't too confident about that. I started up P5, which was supposed to be 5.6 and presumably a break from the scarier climbing down low. I guess it was 5.6, but something about the rock and strange body positions made it all feel spooky.<br>
+<br>
+<center><table border="0">  <tbody><tr>    <td width="50%"><center>
+<a href="https://lh4.googleusercontent.com/-Ge5KaUz04fQ/UFInvqWPiTI/AAAAAAABPS8/im9EKZH4EWY/s1600/2012-08-23%252520-%25252036%252520-%252520P5.jpg"><img src="https://lh4.googleusercontent.com/-Ge5KaUz04fQ/UFInvqWPiTI/AAAAAAABPS8/im9EKZH4EWY/s400/2012-08-23%252520-%25252036%252520-%252520P5.jpg" style="border-width:0px;background-color:transparent"></a><br>
+<b><i>P5 (5.6 spooky).</i></b>
+</center></td>    <td><center>
+<a href="https://lh6.googleusercontent.com/-Xv6TUtsl3vA/UFInySjSFmI/AAAAAAABPTA/ZzYkR9XUfWE/s1600/2012-08-23%252520-%25252037%252520-%252520P5.jpg"><img src="https://lh6.googleusercontent.com/-Xv6TUtsl3vA/UFInySjSFmI/AAAAAAABPTA/ZzYkR9XUfWE/s400/2012-08-23%252520-%25252037%252520-%252520P5.jpg" style="border-width: 0px; background-color: transparent;"></a><br>
+<b><i>P5 (5.6 spooky)</i></b>
+</center></td>  </tr></tbody>
+</table></center>
+<br>
+<br>
+I gained ground fast and saw a chimney blocking the end quickly approaching. Then I came across rappel slings. I thought that would be odd to find if we were on route, and the chimney above looked large, so I wondered if it was much tougher than 5.6 and was in fact the wrong exit. I continued up a bit higher above the slings on a really tough finger crack (felt like 5.8+, but too awkward to protect, so I ran it out above the rappel horn), then had more doubts. I figured it would be easier to reverse here than going higher, so I downclimbed with a nut left as a TR piece, then rigged a rappel off the slings. Perhaps we weren't far enough over on the face?<br>
+<br>
+<center>
+<a href="https://lh5.googleusercontent.com/-ET4tPt3fhTA/UFIn09bfrxI/AAAAAAABPTE/A4kkmCybMcA/s1600/2012-08-23%252520-%25252038%252520-%252520P5%252520looking%252520down.jpg"><img src="https://lh5.googleusercontent.com/-ET4tPt3fhTA/UFIn09bfrxI/AAAAAAABPTE/A4kkmCybMcA/s600/2012-08-23%252520-%25252038%252520-%252520P5%252520looking%252520down.jpg" style="border-width: 0px; background-color: transparent;"></a><br>
+<b><i>Looking down P5. I later bailed on this pitch after a 5.8 finger traverse above some fresh rapp slings. I had doubts about being on route, which was too bad, since this was the way we should have gone!</i></b>
+</center>
+<br>
+<a name="chapter_5"></a><h2>Attempt 2</h2>The belay for P4 also had rappel slings, and looking down the corner to our right, we saw numerous rappel stations scattered over the face. So we rappelled down into the next corner and set up a belay to climb up, assuming that we were in the 5.6 corner system that Bechtel had indicated as the finish.<br>
+<br>
+Thomas stopped before going very far, and said that the corner we were in seemed to end. No way was it 5.6 if he went higher. I climbed up to him and figured maybe we were still on the left side of the face and that corner ahead was a buttress blocking our view of the rest of the face. So Thomas belayed me as I traversed sideways to the corner in hopes of better seeing where we were, or maybe finding the corner of salvation around the bend.<br>
+<br>
+The end of the traverse was interesting as I had  to mantle atop a car-sized detached flake that vibrated under me. I felt it safe to assume it had not been adequately tested by prior climbers, so I tried to avoid pushing out too hard on it.<br>
+<br>
+<center><table border="0">  <tbody>
+<tr>    <td width="50%">
+<center>
+<a href="https://lh6.googleusercontent.com/-axHB0AxWQAU/UFIn2y9oD_I/AAAAAAABPTI/DUtD7bdtffI/s1600/2012-08-23%252520-%25252039%252520-%252520Rapp%252520%252526%252520re-lead%252520to%252520traverse.jpg"><img src="https://lh6.googleusercontent.com/-axHB0AxWQAU/UFIn2y9oD_I/AAAAAAABPTI/DUtD7bdtffI/s400/2012-08-23%252520-%25252039%252520-%252520Rapp%252520%252526%252520re-lead%252520to%252520traverse.jpg" style="border-width:0px;background-color:transparent"></a><br>
+<b><i>So we rappelled on some bail slings at the base of P5 (there were bail slings everywhere on the face) to a ledge near some other bail slings in the next chute over. Thomas led up this corner as we thought we were one corner too far left on the face, especially after consulting the "Selects" guide photo.</i></b>
+</center>
+<center><b><i><br>
+</i></b></center>
+<center><b><i><br>
+</i></b></center>
+</td>    <td>
+<center>
+<a href="https://lh5.googleusercontent.com/-fQyQIpmCxI4/UFIn7POyINI/AAAAAAABPTQ/q6vhXvWJXK0/s1600/2012-08-23%252520-%25252041%252520-%252520Traversing%252520to%252520the%252520end.jpg"><img src="https://lh5.googleusercontent.com/-fQyQIpmCxI4/UFIn7POyINI/AAAAAAABPTQ/q6vhXvWJXK0/s400/2012-08-23%252520-%25252041%252520-%252520Traversing%252520to%252520the%252520end.jpg" style="border-width: 0px; background-color: transparent;"></a><br>
+<b><i>I traversed this face to the sunlight. I thought the buttress on the skyline was midway across the face, and the chutes we sought after were maybe just around that corner (as there was nothing feasible in sight above us). So I traversed over on some loose ledges and large vibrating flakes to find . . .</i></b>
+</center>
+<center><b><i><br>
+</i></b></center>
+<center><b><i><br>
+</i></b></center>
+</td>  </tr>  <tr>    <td><center>
+<a href="https://lh6.googleusercontent.com/-WyT2k0zjiII/UFIn85DwbqI/AAAAAAABPTU/6O6MJye5GHw/s1600/2012-08-23%252520-%25252042%252520-%252520End%252520of%252520the%252520NE%252520Face.jpg"><img src="https://lh6.googleusercontent.com/-WyT2k0zjiII/UFIn85DwbqI/AAAAAAABPTU/6O6MJye5GHw/s400/2012-08-23%252520-%25252042%252520-%252520End%252520of%252520the%252520NE%252520Face.jpg" style="border-width: 0px; background-color: transparent;"></a><br>
+<b><i>No more NE Face! The tower in front seemed to overhang towards me. I think this is the Feather Pitch (5.9R/X). The "Selects" guide indicates the exit chute exits just to the right of the flake in sunlight behind and to the left.</i></b>
+</center></td>    <td><center>
+<a href="https://lh6.googleusercontent.com/-2xqATpLgFW0/UFIn992weCI/AAAAAAABPTY/jhP15gnTGds/s1600/2012-08-23%252520-%25252043%252520-%252520Warrior%252520I.jpg"><img src="https://lh6.googleusercontent.com/-2xqATpLgFW0/UFIn992weCI/AAAAAAABPTY/jhP15gnTGds/s400/2012-08-23%252520-%25252043%252520-%252520Warrior%252520I.jpg" style="border-width:0px;background-color:transparent"></a><br>
+<b><i>Warrior I seen from Warbonnet.</i></b>
+</center></td>  </tr>
+</tbody>
+</table></center>
+<br>
+<br>
+So this cleared things up. Apparently we had already exhausted out options! I enjoyed the views and traversed back to Thomas.<br>
+<br>
+<br>
+<br>
+<center>
+<a href="https://lh3.googleusercontent.com/-vMPxXfJ4XnM/UFIoANPUawI/AAAAAAABPTg/ifG9IYTBx_E/s1600/2012-08-23%252520-%25252044a%252520-%252520Summit%252520Ridge%252520of%252520Warrior%252520I.jpg"><img src="https://lh3.googleusercontent.com/-vMPxXfJ4XnM/UFIoANPUawI/AAAAAAABPTg/ifG9IYTBx_E/s800/2012-08-23%252520-%25252044a%252520-%252520Summit%252520Ridge%252520of%252520Warrior%252520I.jpg" style="border-width:0px;background-color:transparent"></a><br>
+<b><i>Warrior I. Now I see why most parties don't continue to the summit after finishing the NE Face (IV, 5.9), which ends on the tower on the right. Still, the guide says it is only a 'few' pitches of '5.7 with rappels' . . .</i></b>
+</center>
+<br>
+<br>
+<center>
+<a href="https://lh3.googleusercontent.com/-5tDziXRJhNU/UFIoBRcrWRI/AAAAAAABPTk/0SIx08KQIwE/s1600/2012-08-23%252520-%25252045%252520-%252520Looking%252520back%252520across%252520the%252520NE%252520Face.jpg"><img src="https://lh3.googleusercontent.com/-5tDziXRJhNU/UFIoBRcrWRI/AAAAAAABPTk/0SIx08KQIwE/s600/2012-08-23%252520-%25252045%252520-%252520Looking%252520back%252520across%252520the%252520NE%252520Face.jpg" style="border-width:0px;background-color:transparent"></a><br>
+<b><i>Looking back across the NE Face. Thomas is at the base and the "Selects" guide annotated photo indicated we exit to the near side of the flake in sunshine on the ridge. Instead of 5.6 this seemed to be more like 5.10R or worse, so we decided to trust Radek's drawing again, which showed the exit being several chutes back the other way.</i></b>
+</center>
+<br>
+<br>
+<br>
+<center>
+<a href="https://lh6.googleusercontent.com/-qlaxkF01-_U/UFIoFW5-o-I/AAAAAAABPTw/7uAebZ8DmVI/s1600/2012-08-23%252520-%25252048%252520-%252520No%2525205_7%252520way%252520here.jpg"><img src="https://lh6.googleusercontent.com/-qlaxkF01-_U/UFIoFW5-o-I/AAAAAAABPTw/7uAebZ8DmVI/s600/2012-08-23%252520-%25252048%252520-%252520No%2525205_7%252520way%252520here.jpg" style="border-width:0px;background-color:transparent"></a><br>
+<b><i>Looking for a 5.6-5.7 way up here. The "Selects" guide indicates 2 lines. This section was very steep (about 80 degrees) and we couldn't see anything remotely close to that level of difficulty, and no pro potential. Just seams . . .</i></b>
+</center>
+<br>
+<br>
+<br>
+Thomas couldn't find any way up near us that seemed remotely close to 5.6, or protectable. As we hadn't definitively exhausted that earlier corner, we decided that we should go back and make sure whether it would work or not. So we downclimbed to another rappel station where we could get back over into the prior corner we had rappelled into, so that I could climb back up the other side of it to get back on route . . .<br>
+<a name="chapter_6"></a><h2>Attempt 3</h2>It was getting late in the day, and we were getting quite frustrated and worn out, but we weren't ready to bail just yet. We had to exhaust our options first.<br>
+<br>
+<center>
+<a href="https://lh4.googleusercontent.com/-3BMY8M7NTQ4/UFIoKBP9EnI/AAAAAAABPT8/jHwA8-Xk9sw/s1600/2012-08-23%252520-%25252051%252520-%252520Back%252520on%252520track%252520looking%252520back%252520at%252520Thomas.jpg"><img src="https://lh4.googleusercontent.com/-3BMY8M7NTQ4/UFIoKBP9EnI/AAAAAAABPT8/jHwA8-Xk9sw/s600/2012-08-23%252520-%25252051%252520-%252520Back%252520on%252520track%252520looking%252520back%252520at%252520Thomas.jpg" style="border-width:0px;background-color:transparent"></a><br>
+<b><i>Back on track looking back at Thomas. The pitch started with about 15' of unprotected 5.7 slab right off the belay. Good 'ol alpine flavor . . .</i></b>
+</center>
+<br>
+<br>
+<center>
+<a href="https://lh6.googleusercontent.com/-g-TISkfuQpc/UFIoK9QclEI/AAAAAAABPUA/qR-TH6kVdik/s1600/2012-08-23%252520-%25252052%252520-%252520Wolfs%252520Head%252520from%252520P5.jpg"><img src="https://lh6.googleusercontent.com/-g-TISkfuQpc/UFIoK9QclEI/AAAAAAABPUA/qR-TH6kVdik/s800/2012-08-23%252520-%25252052%252520-%252520Wolfs%252520Head%252520from%252520P5.jpg" style="border-width:0px;background-color:transparent"></a><br>
+<b><i>Wolf's Head from P5.</i></b>
+</center>
+<br>
+<br>
+I wasn't too eager to re-lead the spooky 5.6, and it was Thomas' turn next anyways, so I stopped at the base of P5 again to swing leads. I would take the finishing chimneys to keep things fair. Thomas led up and agreed that the pitch seemed like 5.6, yet not. He didn't like it much either.<br>
+<br>
+<center><table border="0">  <tbody><tr>    <td width="50%"><center>
+<a href="https://lh3.googleusercontent.com/-Zbb0MpNxjBs/UFIoNLaEhGI/AAAAAAABPUE/XAlm38N0v3E/s1600/2012-08-23%252520-%25252053%252520-%252520Crack%252520climbing%252520on%252520the%252520NE%252520Face%252520of%252520War%252520Bonnett.jpg"><img src="https://lh3.googleusercontent.com/-Zbb0MpNxjBs/UFIoNLaEhGI/AAAAAAABPUE/XAlm38N0v3E/s400/2012-08-23%252520-%25252053%252520-%252520Crack%252520climbing%252520on%252520the%252520NE%252520Face%252520of%252520War%252520Bonnett.jpg" style="border-width:0px;background-color:transparent"></a><br>
+<b><i>Crack climbing on the NE Face of War Bonnet.</i></b>
+</center></td>    <td><center>
+<a href="https://lh6.googleusercontent.com/-WlwECS5y0O4/UFIoPakKs_I/AAAAAAABPUI/eT0wrOZaXfc/s1600/2012-08-23%252520-%25252054%252520-%252520Following%252520P5.jpg"><img src="https://lh6.googleusercontent.com/-WlwECS5y0O4/UFIoPakKs_I/AAAAAAABPUI/eT0wrOZaXfc/s400/2012-08-23%252520-%25252054%252520-%252520Following%252520P5.jpg" style="border-width:0px;background-color:transparent"></a><br>
+<b><i>Following P5 through the chockstone crux. Ooo lookie! A piton! That is a good sign.</i></b>
+</center></td>  </tr></tbody>
+</table></center>
+<br>
+<br>
+Now we were sure that we were on route! The piton was a good sign (though not indicated in Radek's topo where he called out various pitons that we never found), and the chimney above looked much more doable. Scale was strange on this face, so I had assumed it was much larger than it was - instead of a huge chimney, it was a squeeze.<br>
+<center><table border="0">  <tbody><tr>    <td width="50%"><center>
+<a href="https://lh5.googleusercontent.com/-TAKiP7ljYm8/UFIoSWIBBvI/AAAAAAABPUM/jRMcr96FXNw/s1600/2012-08-23%252520-%25252055%252520-%252520Following%252520P5.jpg"><img src="https://lh5.googleusercontent.com/-TAKiP7ljYm8/UFIoSWIBBvI/AAAAAAABPUM/jRMcr96FXNw/s400/2012-08-23%252520-%25252055%252520-%252520Following%252520P5.jpg" style="border-width:0px;background-color:transparent"></a><br>
+<b><i>Reaching Thomas atop P5. A little dirty here . . . Above is the exit pitch that goes through two 5.6 squeeze chimneys. The second chimney had an interesting interior alcove with an ancient nut with chord. Stemming the alcove made the chimney easier.</i></b>
+</center></td>    <td width="369"><center>
+<a href="https://lh5.googleusercontent.com/-tnIB-TnGNOg/UFIoUIpK-aI/AAAAAAABPUQ/1RJHQDim9AU/s1600/2012-08-23%252520-%25252056%252520-%252520P6%252520Chimney.jpg"><img src="https://lh5.googleusercontent.com/-tnIB-TnGNOg/UFIoUIpK-aI/AAAAAAABPUQ/1RJHQDim9AU/s400/2012-08-23%252520-%25252056%252520-%252520P6%252520Chimney.jpg" style="border-width:0px;background-color:transparent"></a><br>
+<b><i>P6 chimney.</i></b>
+</center></td>  </tr></tbody>
+</table></center>
+<br>
+<br>
+I summitted and belayed Thomas up, and we enjoyed a nice alpenglow view from the top. So much for being a half-day climb! This Grade III climb took us much longer than the Grade IV NE Face of Pingora.<br>
+<br>
+<center><table border="0">  <tbody><tr>    <td width="50%"><center>
+<a href="https://lh5.googleusercontent.com/-3A6ee2fnQYI/UFIoZE6qhjI/AAAAAAABPUg/sy7Rn4r9S_g/s1600/2012-08-23%252520-%25252058a%252520-%252520Summit%252520View%252520South.jpg"><img src="https://lh5.googleusercontent.com/-3A6ee2fnQYI/UFIoZE6qhjI/AAAAAAABPUg/sy7Rn4r9S_g/s400/2012-08-23%252520-%25252058a%252520-%252520Summit%252520View%252520South.jpg" style="border-width:0px;background-color:transparent"></a><br>
+<b><i>Summit view South towards Steeple Peak (left).</i></b>
+</center></td>    <td><center>
+<a href="https://lh6.googleusercontent.com/-zS1sPdRsIaY/UFIobVlG3NI/AAAAAAABPUk/7aQ_nNQa08Q/s1600/2012-08-23%252520-%25252059%252520-%252520Summit%252520View%252520of%252520Mitchell%252520Pk.jpg"><img src="https://lh6.googleusercontent.com/-zS1sPdRsIaY/UFIobVlG3NI/AAAAAAABPUk/7aQ_nNQa08Q/s400/2012-08-23%252520-%25252059%252520-%252520Summit%252520View%252520of%252520Mitchell%252520Pk.jpg" style="border-width:0px;background-color:transparent"></a><br>
+<b><i>Summit view of Mitchell Pk.</i></b>
+</center></td>  </tr></tbody>
+</table></center>
+<br>
+<br>
+The descent was straightforward, although there is one tricky section where you need to cut left early where it doesn't look like you should, in order to avoid having to climb back up to the proper descent gully to the east. We made it to the bottom of the loose cl. 3-4 section just before we needed to turn on our headlamps. From there we had interminable boulder hopping on house-sized boulders to make it back to Jackass Pass and our camp. It was quite the full day! We had a casual dinner and as conditions were so nice, I slept out on the granite slab in my bag to savor the night sky.<br>
+<center>
+<a href="https://lh5.googleusercontent.com/-kIu8NohAbGc/UTWuLRyaiOI/AAAAAAABtjY/aI4xr17kEgI/s2000/2012-08-21%2520-%252027%2520-%2520NE%2520Face%2520of%2520Pingora%2520-%2520War%2520Bonnet%2520-%2520annotated.jpg"><img src="https://lh5.googleusercontent.com/-kIu8NohAbGc/UTWuLRyaiOI/AAAAAAABtjY/aI4xr17kEgI/s600/2012-08-21%2520-%252027%2520-%2520NE%2520Face%2520of%2520Pingora%2520-%2520War%2520Bonnet%2520-%2520annotated.jpg" style="border-width:0px;background-color:transparent"></a> <br>
+<b><i>Yet another route topo variation . . .</i></b>
+</center>
+<br>
+<br>
+<br>
+<a name="chapter_7"></a><h2>Post</h2>On the hike out, Thomas and I actually crossed paths with Radek, exchanging brief greetings as our two groups passed one another. I was focused enough on getting back to the TH quickly that it took a few minutes for the neuron firing of recognition to cross the synapse :-P (we have only known each other via online communication).<div>
+<br>
+<a name="chapter_8"></a><h2>Links</h2>
+<ul>
+<li><a href="http://www.summitpost.org/northeast-face-left/161798">SummitPost Route - NE Face, Left</a></li>
+<li><a href="https://picasaweb.google.com/105894936663116565516/20120823to24CoTWThomasWarBonnetNEFaceIII586PHikeOut?authuser=0&amp;feat=directlink">Picasa Album</a></li>
+</ul>
+<br>
+</div>
+</div>
+<a name="chapter_9"></a><h2>Images</h2>
+<div align="center"><table id="my_images"><tr><td><a href="/war-bonnet-at-sunrise/841980/c-843342"><img alt="War Bonnet at sunrise" src="/images/square/841980.jpg"></a></td></tr></table></div>
+            </article> 
+date: Aug 23, 2012 
+difficulty:  
+elevation:  
+grade:  
+id: 843342 
+latitude: 42.74909 
+location: Wyoming, United States, North America 
+longitude: -109.21987 
+my_route_quality:  
+name: War Path on Warbonnet, NE Face, Left 
+number_of_pitches:  
+page_url: http://www.summitpost.org/war-path-on-warbonnet-ne-face-left/843342 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons: Summer 
+time_required:  
+type: Trip Report 
+

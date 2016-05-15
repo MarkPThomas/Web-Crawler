@@ -1,0 +1,267 @@
+activities: Hiking, Mountaineering, Trad Climbing, Sport Climbing, Toprope, Ice Climbing, Aid Climbing, Mixed, Scrambling, Skiing 
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>
+<center>Don't Forget to Check Out These Sister Pages!</center>
+<hr width="80%">
+<center>
+<a href="http://www.summitpost.org/mountains/mountain_link.pl/mountain_id/5136"><b>Little Cottonwood Canyon</b></a> | <a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/4421"><b>Wasatch Alpine Climbs</b></a>
+</center>
+<hr width="80%">
+<br>
+<a href="http://www.byways.org/browse/byways/2004/">Big Cottonwood Canyon</a> is one of the three large canyons that carves dramatically through the +11,000 ft high Wasatch Mountains, dropping some 3,000 ft to the Wasatch Front Metropolitain area. Collectively these three canyons are known as the tri-canyon areas (Millcreek Canyon, Big Cottonwood Canyon, &amp; Little Cottonwood Canyon), with the Cottonwood Canyons being popular for a multitude of activities such as cycling, hiking, snowshoeing, picnicking, backcountry skiing, fishing, mountaineering, and rock climbing. <a href="http://www.utah.com/ski/resorts/brighton.htm">Brighton</a> and <a href="http://www.utah.com/ski/resorts/solitude.htm">Solitude</a> ski resorts are also located at the top of the canyon and are accessible via public transit.<br>
+<br>
+During the mid-1800s, miners sought their fortune in gold and silver in this canyon, and remnants of the old mines can still be found in the canyon.<br>
+<br>
+The spectacular vistas of the 15 mile long canyon are carved by the erosive powers of its rivers, leaving behind rugged and broken cliffs of smooth hard quartzite. While at first glance these cliffs don't appear to hold much climbing potential, they actually sport many good routes on solid rock ranging from 5.4-5.13d.  The quartzite is hard and slick, and the holds form at odd angles requiring unique body positions to use, but the angular holds abound for crimping and edging. Another aspect of climbing in Big Cottonwood Canyon is that the routes are often steeper than they look. <br>
+<br>
+Because of the nature of the quartzite, many routes in the canyon are difficult to protect, the result being that some of the routes in the canyon require expertise with nutcraft. New routes have proliferated in the 80s and 90s with the improvement of power drills, and there are now many bolted routes in the canyon that once were unprotectable. In some cases, routes may have a mixture of trad climbing with a few bolts here and there for the runouts. Bolting of existing routes is highly discouraged by the local climbing community, but bolting of a new route, if done carefully and tastefully, can be acceptable. Most of the routes ascended before the 80s were done from the ground up, and only recently have the newer routes been bolted on rappel.<br>
+<br>
+In general, Big Cottonwood Canyon sports many single-pitch climbs that can be top-roped, with a good number of the routes' anchors being accessible with out an initial lead climb.  Because of this, it is a good canyon for beginning climbers or those who want to practice harder routes. There are also a number of short multi-pitch routes ranging from 2 to 4 pitches.  A big draw for climbing in this canyon is the abundance of shady crags, and climbers at Dogwood crag and the Storm Mountain Area can end the day with a picnic at the neighboring picnic areas.<br>
+<br>
+While there are many possible routes in the canyon, most of the routes listed in guidebooks are within a 15 minute hike from the road. Due to the laziness of local craggers, there are many unrecorded and unclimbed routes on the cliffs higher up the steep canyon walls.<br>
+<a name="two"><br>
+<p></p></a><table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=107621" rel="no_follow"><img src="/images/thumb/107621.jpg"></a></td>
+<td><a href="/view_object.php?object_id=107625" rel="no_follow"><img src="/images/thumb/107625.jpg"></a></td>
+<td><a href="/view_object.php?object_id=107906" rel="no_follow"><img src="/images/thumb/107906.jpg"></a></td>
+</tr></table>
+<a name="chapter_2"></a><h2>Getting There</h2>
+<font color="blue"><u>By Car</u></font>:<br>
+Big Cottonwood Canyon is located at approximately 7000 South Wasatch Blvd., about 12 miles southeast of downtown Salt Lake City, Utah.<br>
+<br>
+Unless you're coming from Sandy, the most common way to get to Big Cottonwood Canyon is to get on the I-215 WB Belt Loop and follow the signs for the Cottonwood Canyons Ski resorts. <br>
+<br>
+At Knudsons Corner, take the 6200 S exit- EXIT 6- toward SKI AREAS/Solitude / Brighton/Snowbird / Alta for 0.2 miles. Merge onto UT-190 E toward SKI AREAS/Solitude / Brighton/Snowbird / Alta and drive for 1.8 miles to the mouth of Big Cottonwood Canyon, which is at Fort Union Blvd &amp; Wasatch Blvd.<br>
+<br>
+At the mouth of the canyon is a Park'N Ride. This is a popular place for recreationists to meet up &amp; carpool up the canyon or begin bike rides up the canyon. In the winter, this is the hub for the ski buses, that run from the city up to the Ski Resorts.<br>
+<a name="three"><br>
+<br>
+<font color="blue"><u>By Bus:</u></font><br>
+The mouth of the canyon can be accessed by </a><a href="http://www.rideuta.com/Default.aspx">UTA</a> mass transit. In the winter, you can get on a ski bus to go up to the ski resorts, although to get to the crags, you'll either need a friend with a car or bring a bike (most of the climbing is a short bike ride up the canyon). Depending on where you're starting, you can get there using a combination of bus and <a href="http://www.rideuta.com/schedulesAndMaps/routeSchedules/?routeGroupID=0">TRAX</a>, the metro area's light rail. UTA's website has a good <a href="http://www.rideuta.com/schedulesAndMaps/tripPlanner/">Trip Planner</a> for figuring out your schedule.<br>
+<a name="chapter_3"></a><h2>Climbing Areas Overview</h2>As you head up the canyon, there are a scattered collection of crags high up on the left side of the road. Beginning at the Dogwood Picnic Area, there is a large concentration of routes along the cliff that drops into Big Cottonwood Canyon Creek on the south side of the road. Next is the epicenter of climbing in Big Cottonwood Canyon, a huge number of walls and aretes surrounding the Storm Mountain Picnic area and reaching up into Mule Hollow and Tanners Gulch. Above this there is more climbing to had in some gulleys and buttresses on the north side of the canyon until you reach the highest point with much climbing potential in the canyon - the S-Curve. There are a number of climbing areas here, as well as Millstone Slab and alpine routes on Sundial Peak up Mill B South Fork, and some remote but high quality climbing areas far up Mill B North Fork.<br>
+<br>
+The climbing areas are described in the order in which they are reached, heading up the canyon. Only areas listed under the route section are covered here - there are many more yet to climb!<br>
+<br>
+<a href="http://www.summitpost.org/show/route_link.pl/route_id/5562/object_id/4933"><b>Dogwood Crag:</b></a><br>
+This climbing area features many single pitch climbs on a wall rising out of (or nearly out of) Big Cottonwood Canyon Stream. It is 0.95 miles up the canyon and is next to a picnic area, which can be nice for having a mid-climb or post-climb picnic.<br>
+<br>
+<a href="http://www.summitpost.org/show/route_link.pl/route_id/5568/object_id/4933"><b>JHCOB Wall:</b></a><br>
+The next five areas are within a short distance of each other (2.25 mi-2.7 mi) and you can really walk from one to the other. JHCOB Wall (sometimes called Jacob Wall) is a giant wall/arete that towers some 300 ft above the Big Cottonwood Canyon road. It offers many nice multipitch trad routes. The acronym stands for: Jesus H. Christ on a Bicycle.<br>
+<br>
+<a href="http://www.summitpost.org/show/route_link.pl/route_id/5558/object_id/4933"><b>Salt Lake Slips:</b></a><br>
+Located across the river just up the road from JHCOB Wall. A fun tyrolean traverse is needed to cross the river, especially in the spring. This area has a number of sport climbs on a shaded wall.<br>
+<br>
+<a href="http://www.summitpost.org/show/route_link.pl/route_id/5808/object_id/4933"><b>Narcolepsy Area:</b></a><br>
+This shady crag is the next one up the canyon from JHCOB wall on the south side of the road. It features a number of crack climbs and some good steep sport routes, all of which can be top-roped. A somewhat 'lengthy' approach keeps this climbing area a little more empty than the surrounding areas.<br>
+<br>
+<a href="http://www.summitpost.org/show/route_link.pl/route_id/5580/object_id/4933"><b>Storm Mountain Island:</b></a><br>
+This area is accessed via Storm Mountain Picnic Ground. It has a variety of routes, ranging from easy routes to desperate overhangs. There are some aid routes as well as some short multipitch routes on the island.<br>
+<br>
+<a href="http://www.summitpost.org/show/route_link.pl/route_id/5578/object_id/4933"><b>Static Wall &amp; Reservoir Alcove:</b></a><br>
+These are accessed via Storm Mountain Picnic Ground across an open field from the Storm Mountain Island. They have some pumpy sport routes, some easy sport routes, and a trad ridge climb that is good for beginning leaders.<br>
+<br>
+<a href="http://www.summitpost.org/show/route_link.pl/route_id/5588/object_id/4933"><b>Dead Snag:</b></a><br>
+This intimidating wall is a short ways up Stairs Gulch (which is right across the road from the Storm Mountain Picnic Ground) and beneath the mighty NE face of Storm Mountain.  There are many moderately difficult and steep multipitch trad routes that ascend this wall, and several rapells are needed to descend all of them.<br>
+<br>
+<a href="http://www.summitpost.org/show/route_link.pl/route_id/5561/object_id/4933"><b>Millstone Slab:</b></a><br>
+This is the first large slab on your right as you hike up Mill Fork B from the S-Curve. There is a II-III 5.3 climb up the slab, as well as many vertical and overhanging sport routes along the wall of the slab on the south side.<br>
+<br>
+<a name="four"><br>
+</a><a name="chapter_4"></a><h2>Summits Overview</h2>The following are a list of summits than can be climbed directly from Big Cottonwood Canyon or one of its tributaries, listed in order of the trailheads reached.<ul>
+<br>
+<li>
+<a href="http://www.summitpost.org/mountains/mountain_link.pl?mountain_id=3238">Storm Mountain</a> - 9,524 ft</li>
+<br>
+<li>
+<a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/390">Broads Fork Twin Peaks</a> - 11,330 ft</li>
+<br>
+<li>
+<a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/1401">Sunrise Peak</a> - 11,275 ft</li>
+<br>
+<li>
+<a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/92">Mt Dromedary</a> - 11,107 ft</li>
+<br>
+<li>
+<a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/1405">Sundial Pk</a> - 10,320 ft</li>
+<br>
+<li>
+<a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/1426">Mt Superior &amp; Monte Cristo</a> - 11,040 ft &amp; 11,132 ft</li>
+<br>
+<li>
+<a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/2354">Mt Raymond</a> - 10,241 ft</li>
+<br>
+<li>
+<a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/2688">Gobblers Knob</a> - 10,246 ft</li>
+<br>
+<li>
+<a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/4208">Reynolds Peak</a> - 9,422 ft</li>
+<br>
+<li>
+<a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/4207">Little Water Peak</a> - 9,605 ft</li>
+<br>
+<li>
+<a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/3269">Kessler Peak</a> - 10,403 ft</li>
+<br>
+<li>
+<a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/3715">Flagstaff Mountain</a> - 10,530 ft</li>
+<br>
+<li>
+<a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/3377">Honeycomb Cliffs</a> - 10,480 ft</li>
+<br>
+<li>
+<a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/3378">Mount Millicent</a> - 10,452 ft</li>
+<br>
+<li>
+<a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/3379">Mount Wolverine &amp; Mt Tuscarora</a> - 10,640 ft &amp; 10,795 ft</li>
+<br>
+<li>
+<a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/3376">Sunset Peak</a> - 10,648 ft</li>
+<br>
+<li>
+<a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/3374">Pioneer Peak</a> - 10,450 ft</li>
+<br>
+<li>
+<a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/3375">Mt Majestic (Claton Peak)</a> - 10,721 ft</li>
+<br>
+</ul>
+<br>
+If there are peaks that need to be added or are in improper order, please let me know!<br>
+<a name="five"><br>
+</a><a name="chapter_5"></a><h2>Page &amp; Route Format</h2>Since there are so many short climbs in this canyon, I've grouped them together by the main rock feature ascended. In some cases I've grouped several features onto one route. The routes begin with a listing of all climbs in the area, their difficulty, quality (out of 3 stars), and FA. Route overview information is used from Stuart &amp; Bret Ruckman's <a href="http://www.amazon.com/exec/obidos/ASIN/0762727306/summitpost-20/103-3515982-7251006">Rock Climbing the Wasatch Range</a> to give people a general idea of what's out there. Alterations to climbing quality ratings, and in depth route descriptions are included only for the routes I've climbed (sorry, but if you want the info for the other routes, you'd better get the guidebook!)<br>
+<br>
+Many of the climbing areas are still not listed on the page - I'm only putting them up after I've climbed at least one route in the area.<br>
+<br>
+If you've done a climb in the areas listed as routes, feel free to add info for an existing climb or for an unclimbed route, and I'll integrate it into the page. If you've climbed in a region not listed, feel free to put up a route page for it, but please try to stick with the general format for this page to maintain continuity. <br>
+<a name="six"><br>
+</a><a name="chapter_6"></a><h2>Red Tape</h2>Big Cottonwood Canyon is part of the Salt Lake City Watershed. As a result no dogs are allowed. Many of the side canyons are in the Mount Olympus and Broads Fork Twins Wilderness Areas. Regulations for these wilderness areas are as follows:<ul>
+<li>Camp at least 100 ft from the trail and 200 ft from any water source</li>
+<li>Do not defecate or urinate within 200 ft of any water source</li>
+<li>Do not swim in any of the reservoirs</li>
+<li>No dogs or horses</li>
+<li>Parties limited to 9 people</li>
+</ul>
+<br>
+Apart from these restrictions, no permits are needed to enter or camp in the wilderness areas.<br>
+<a name="seven"><br>
+</a><a name="chapter_7"></a><h2>When To Climb</h2>Usually the rock routes are in prime climbing conditions beginning in April and lasting until late October.  During Salt Lake's regular warm thaws throughout the winter, the lower routes often melt out enough to allow climbing in the middle of the winter!  During the winter there are also a number of mixed WI routes in the canyon, so climbing can be done year-round.<br>
+<a name="eight"><br>
+</a><a name="chapter_8"></a><h2>Mountain Conditions</h2>
+<a name="iframe"><br>
+<ul style="list-style-type:none;"><li><b>For the 7-day forecast, click <a href="http://ifps.wrh.noaa.gov/cgi-bin/dwf?outFormat=table&amp;duration=168hr&amp;interval=6&amp;citylist=Select%2BCity%2C%2Cnone&amp;latitude=&amp;longitude=&amp;ZOOMLEVEL=8&amp;XSTART=235&amp;YSTART=347&amp;XC=261&amp;YC=380&amp;X=261&amp;Y=380&amp;siteID=SLC&amp;click.x=202&amp;click.y=263">here</a></b></li></ul>
+<div style="overflow:hidden;width:527px;height:465px;"><iframe src="http://ifps.wrh.noaa.gov/cgi-bin/dwf?outFormat=table&amp;duration=72hr&amp;interval=6&amp;citylist=Select+City,,none&amp;latitude=&amp;longitude=&amp;ZOOMLEVEL=8&amp;XSTART=235&amp;YSTART=346&amp;XC=261&amp;YC=379&amp;X=261&amp;Y=379&amp;siteID=SLC&amp;click.x=220&amp;click.y=252" style="position:relative;left:-138px;top:-160px;width:650px;height:1820px;" frameborder="0" scrolling="no"><br>
+  [Your user agent does not support frames or is currently configured<br>
+  not to display frames. However, you may visit<br>
+  <a href="http://ifps.wrh.noaa.gov/cgi-bin/dwf?outFormat=table&amp;duration=168hr&amp;interval=6&amp;citylist=Select%2BCity%2C%2Cnone&amp;latitude=&amp;longitude=&amp;ZOOMLEVEL=8&amp;XSTART=235&amp;YSTART=347&amp;XC=261&amp;YC=380&amp;X=261&amp;Y=380&amp;siteID=SLC&amp;click.x=202&amp;click.y=263">the related document.</a>]</iframe></div>
+<br>
+</a><a name="nine"><br>
+</a><a name="chapter_9"></a><h2>Camping</h2>Free camping can be had if you hike into the neighboring wilderness areas.  For more accessible camping, Big Cottonwood Canyon has 3 Campgrounds, which are part of the Salt Lake Ranger District:<ul>
+<li><a href="http://www.fs.fed.us/r4/wcnf/unit/slrd/recreation/camping/big_cottonwood_canyon_cg.shtml#jordan-pines-cg">Jordan Pines</a></li>
+<li><a href="http://www.fs.fed.us/r4/wcnf/unit/slrd/recreation/camping/big_cottonwood_canyon_cg.shtml#spruces-cg">Spruces</a></li>
+<li><a href="http://www.fs.fed.us/r4/wcnf/unit/slrd/recreation/camping/big_cottonwood_canyon_cg.shtml#redman-cg">Redman</a></li>
+</ul>
+<br>
+<br>
+None of these campgrounds are open in the winter.<br>
+<a name="ten"><br>
+</a><a name="chapter_10"></a><h2>Nearby Amenities</h2>
+<font color="blue"><b><u>Emergency Services</u></b></font><br>
+Diall 911 from any  phone. There are public phones located at the Park'N Ride at the mouth of Big Cottonwood Canyon<ul>
+<li>
+<b>St Mark's Hospital</b> - 1200 E 3900 S - (801) 268-7129</li>
+<li>
+<b>Cottonwood Hospital</b> - 5770 S 300 E - (801) 262-3461</li>
+</ul>
+<font color="blue"><b><u>Showers</u></b></font><ul><li>
+<b>Cottonwood Heights Rec Center</b> - 7500 S 2700 E - (801) 943-3160<br>
+Showers cost $4.00 and their hours are M-F 6am-10pm, Sat 7am-8pm, Sun 12-5pm.</li></ul>
+<font color="blue"><b><u>Gas, ATM &amp; Groceries</u></b></font><br>
+There is a gas station and ATM at the mouth of the canyon. Driving south on Wasatch Blvd from this intersection will bring you to another stoplight. A Smith's grocery store is one block west (right) of here.<font color="blue"><b><u>Local Equipment Retailors</u></b></font><ul>
+<li>
+<b>Black Diamond</b> - 2084 E 3900 S, SLC - (801) 278-0223</li>
+<li>
+<b>IME</b> - 3265 E 3300 S, SLC - (801) 484-8073</li>
+<li>
+<b>REI</b> - 3285 E 3300 S, SLC - (801) 486-2100</li>
+<li>
+<b>Wasatch Touring</b> - 702 E 100 S, SLC - (801) 359-9361</li>
+</ul>
+<font color="blue"><b><u>Local Guide Services</u></b></font><ul><li>
+<b>Exum Utah Mountain Adventures</b> - Black Diamond Center, 2092 E 3900 S, Suite B, SLC - (801) 272-7338</li></ul>
+<font color="blue"><b><u>Climbing Gyms</u></b></font><ul>
+<li>
+<b>Rockreation</b> - 2074 E 3900 S, SLC - (801) 278-7473</li>
+<li>
+<b>Wasatch Front Climbing Gym</b> 427 W Universal Circle (9160 S), Sandy - (801) 565-3657</li>
+</ul>
+<font color="blue"><b><u>Good Eats</u></b></font><br>
+Of course you can find plenty of good places to eat in the city or at the ski resorts, but these are a few of my favorites:<ul>
+<li>
+<b><a href="http://www.roasting.com/">Salt Lake Roasting Co.</a></b> - 320 E 400 S - (801) 363-7572</li>
+<li>
+<b>Einstein Bagels</b> - 3900 S &amp; Wasatch Blvd.</li>
+<li>
+<b>Cottonbottom</b> (pub, garlic burgers) - 2820 E 6200 S - (801) 273-9830 </li>
+<li>
+<b>Hoppers Grill and Brewing Co.</b> - 7145 S (Corner of Ft Union Blvd) 900 E - (801) 566-0424</li>
+<li>
+<b><a href="http://www.slamdance.com/2005/festival/location_detail.asp?location_id=3">Brewvies</a></b> - 677 S 200 W - (801) 355-5500</li>
+</ul>
+<font color="blue"><u><b>Hostels</b></u></font><br>
+There are two hostels frequented by climbers and skiiers, but neither one is close to the crags.<ul>
+<li>
+<b>Avenues Hostel</b> - 107 N "F" Street - (801) 359-4525</li>
+<li>
+<b>Ute Hostel</b> - 21 E (between State &amp; Main) 1160 S - (801) 595-1645</li>
+</ul>
+<br>
+<a name="chapter_11"></a><h2>External Links</h2>
+<ul>
+<li>
+<a href="http://www.rockclimbing.com/routes/listState.php?CountryStateID=1">Rock Climbing.com</a><br> A page similar to summitpost with a lot of firsthand information of various climbing routes in the state.<br>
+</li>
+<li>
+<a href="http://www.climbingsaltlake.com/">Climbing Salt Lake</a><br> A page similar to summitpost, covering different climbing routes in the Salt Lake metro area. It is also a good place to meet climbing partners, even if you're just visiting SLC.<br>
+</li>
+</ul>                                           <a name="chapter_12"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/a-dramatic-view-of-sundial-peak-and-lake-blanche-just-another-day-at-church/583573/c-154148"><img alt="A Dramatic View of Sundial Peak and Lake Blanche.... Just another day at church" src="/images/square/583573.JPG"></a></td>
+<td><a href="/2008-utah-fall-colors/506269/c-154148"><img alt="2008 Utah fall colors" src="/images/square/506269.JPG"></a></td>
+<td><a href="/the-sundial/560277/c-154148"><img alt="The Sundial" src="/images/square/560277.JPG"></a></td>
+<td><a href="/another-beautiful-wasatch-sunset-they-say-it-is-the-pollution-that-gives-us-such-beautiful-sunsets-get-shorty/584771/c-154148"><img alt='Another beautiful Wasatch sunset...."They say it is the pollution that gives us such beautiful sunsets"-Get Shorty-' src="/images/square/584771.JPG"></a></td>
+<td><a href="/reynolds-peak/558777/c-154148"><img alt="Reynolds Peak" src="/images/square/558777.JPG"></a></td>
+<td><a href="/2009-fall-colors-on-the-mill-b-south-trail/559720/c-154148"><img alt="2009 Fall Colors on the Mill B South trail" src="/images/square/559720.JPG"></a></td>
+<td><a href="/big-cottonwood-canyon/484994/c-154148"><img alt="Big Cottonwood Canyon" src="/images/square/484994.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/a-moose-and-her-calf-take-a-rest-near-peak-10-420/558810/c-154148"><img alt="A Moose and her Calf take a rest near Peak 10,420" src="/images/square/558810.JPG"></a></td>
+<td><a href="/mount-raymond/526003/c-154148"><img alt="Mount Raymond" src="/images/square/526003.JPG"></a></td>
+<td><a href="/the-great-western-trail/535534/c-154148"><img alt="The Great Western Trail" src="/images/square/535534.JPG"></a></td>
+<td><a href="/fall-colors-on-the-sundail/559210/c-154148"><img alt="Fall Colors on the Sundail" src="/images/square/559210.JPG"></a></td>
+<td><a href="/the-choir-boy/567509/c-154148"><img alt="The Choir Boy" src="/images/square/567509.JPG"></a></td>
+<td><a href="/reynolds-summit/526005/c-154148"><img alt="Reynolds Summit" src="/images/square/526005.JPG"></a></td>
+<td><a href="/big-cottonwood-canyon/600637/c-154148"><img alt="Big Cottonwood Canyon." src="/images/square/600637.jpg"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/big-cottonwood-canyon/images/p-154148">View Gallery - 42 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty:  
+elevation:  
+grade:  
+id: 154148 
+latitude: 40.6194 
+location: Utah, United States, North America 
+longitude: -111.7874 
+my_route_quality:  
+name: Big Cottonwood Canyon 
+number_of_pitches:  
+page_url: http://www.summitpost.org/big-cottonwood-canyon/154148 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons: Spring, Summer, Fall, Winter 
+time_required:  
+type: Canyon 
+

@@ -1,0 +1,69 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>South Basin Peak is the highpoint on the ridge connecting Basin Mountain to an adjoining plateau that lies between Mt Humphreys, Four Gables, and Basin Mountain.  In R.J. Secor's "The High Sierra" guidebook he calls it <b>Peak 13,240'</b>. However, when I read through the band-aide box summit register that was left on the peak by a 1960 Sierra Club ascent, some of the entries called the summit <b>South Basin Peak</b>.   <p>  Admittedly this summit doesn't stand out much from the imposing surroundings of Mt Humphreys, Basin Mountain, and Mt Tom, but it is still a worthwhile peak to climb, nonetheless. It has solid rock and some very enjoyable class 4 scrambling. Also, this is a great peak to do in combination with Basin Mountain and Four Gables.</p>  <p>  </p>
+<table border="1" cellspacing="0"><tr><td>  <table border="0" cellspacing="2" cellpadding="2">    <tr bgcolor="#c0c0c0"><td colspan="5"><font style="font-weight:bold;">ROUTES OVERVIEW</font></td></tr>  <tr>  <td align="center"><font style="font-weight:bold;">Route</font></td>  <td align="center"><font style="font-weight:bold;">Difficulty</font></td>  <td align="center"><font style="font-weight:bold;">FA</font></td>  <td align="center"><font style="font-weight:bold;">FA Party</font></td>  <td align="center"><font style="font-weight:bold;">Photos</font></td>    </tr>
+<tr>  <td><a href="http://www.summitpost.org/mountains/route_link.pl?route_id=4841&amp;route_name=Northeast+Ridge&amp;mountain_name=&amp;object_id=4350&amp;option=3&amp;x=25&amp;y=7">Northeast Ridge</a></td>  <td align="center">cl. 4</td>  <td align="center">1992</td>  <td>Will Crjenko and Jim King</td>  <td>
+<a href="http://www.summitpost.org/mountains/photo_link.pl/photo_id/134738/mountain_id/4350/object_id/4350/type/mountain">(1)</a>, <a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__138727__object_id__4350__type__mountain__mountain_id__4350__route_id____user_id____order_by____limit__">(2)</a>, <a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__138728__object_id__4350__type__mountain__mountain_id__4350__route_id____user_id____order_by____limit__">(3)</a>
+</td>
+</tr>    <tr>  <td bgcolor="#e0e0e0">Southwest Ridge</td>  <td bgcolor="#e0e0e0" align="center">cl. 3</td>  <td bgcolor="#e0e0e0" align="center">Sep 20, 1953</td>  <td bgcolor="#e0e0e0">Barbara Lilley, John Wedberg, and Dick Woodward  </td>  <td bgcolor="#e0e0e0"></td>
+</tr>    <tr>  <td><a href="http://www.summitpost.org/show/route_link.pl/route_id/4842/object_id/4350">Horton Lakes </a></td>  <td align="center">cl. 2</td>  <td align="center">1930</td>  <td>Norman Clyde</td>  <td></td>
+</tr>  </table>    <i><small>First ascent information used from R.J. Secor's <a href="http://www.summitpost.org/mountains/book_query.pl/object_id/4350/sort_by/submission_date">"The High Sierra"</a> guidebook.</small></i>  </td></tr></table>  <br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=90279" rel="no_follow"><img src="/images/thumb/90279.jpg"></a></td>
+<td><a href="/view_object.php?object_id=90280" rel="no_follow"><img src="/images/thumb/90280.jpg"></a></td>
+<td><a href="/view_object.php?object_id=90278" rel="no_follow"><img src="/images/thumb/90278.jpg"></a></td>
+<td><a href="/view_object.php?object_id=90281" rel="no_follow"><img src="/images/thumb/90281.jpg"></a></td>
+<td><a href="/view_object.php?object_id=90283" rel="no_follow"><img src="/images/thumb/90283.JPG"></a></td>
+</tr></table>
+<a name="chapter_2"></a><h2>Getting There</h2>Take HWY 168 west from the center of Bishop. Head about 7.5 miles and turn right onto Buttermilk Road. At this point, the paved road becomes a passable dirt road. As one gets closer to the mountains the road gets more rough. A 4WD vehicle is needed to make it all the way to the trailhead, and having high clearance would be a benefit.   <p>  Continue on Buttermilk Road past several forks and turn-outs. When in doubt, take a more traveled right fork. At some point, you will reach the marked intersection of Buttermilk Road and the Horton Lakes trailhead road. Turn right here and follow it for another mile until it reaches a small dead tree forest. If it was challenging for your vehicle to get to this point, you may want to leave it here on the shaded pullout where you can still turn your car around.</p>  <p>   From there hike the final half a mile to the Horton Lakes trailhead. If you have a 4WD vehicle, continue driving along the worsening road a little further as it turns back across the slopes heading north until you reach the locked gate. Park here to approach any of the eastern, southern, or northern routes to the peak.</p>
+<br>
+<a name="chapter_3"></a><h2>Red Tape</h2>A wilderness permit is required for all overnight stays in the Horton Creek drainage from May 1 through November 1, and there is a quota. To find out more about getting a permit, check the <a href="http://www.fs.fed.us/r5/inyo/recreation/wild/permitsres.shtml">Inyo National Forest</a> website.<br>
+<a name="chapter_4"></a><h2>When To Climb</h2>This peak can be climbed year-round, although a spring climb would be ideal since the loose class 2 talus and scree encountered would still be covered in snow.<br>
+<a name="chapter_5"></a><h2>Camping</h2>One can car camp at the trailhead, but there are nice camping spots along the trail through the occasional flat meadows passed. One can also camp along the shores of Horton Lake, but to get even closer to the peak one can also camp at Upper Horton Lake.<br>
+<a name="chapter_6"></a><h2>External Links</h2>
+<ul>
+<li>
+<a href="http://www.summitpost.org/cgi-bin/trip_report.pl?trip_report_id=1767">2004 Sierra Challenge - Day 3: Homeless in Bishop &amp; Day 4: Basin Mtn - Four Gables Traverse</a><br> <br>
+</li>
+<li>
+<a href="http://www.snwburd.com/bob/trip_reports/basin_s_1.html">Basin / Four Gables traverse - Aug 3, 2004</a><br> <br>
+</li>
+</ul>                     <a name="chapter_7"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/michael-watches-mark-climb/93134/c-153693"><img alt="Michael watches Mark climb..." src="/images/square/93134.jpg"></a></td>
+<td><a href="/august-3rd-2004-south/90279/c-153693"><img alt="August 3rd, 2004 - South..." src="/images/square/90279.jpg"></a></td>
+<td><a href="/august-3rd-2004-the/90280/c-153693"><img alt="August 3rd, 2004 - The..." src="/images/square/90280.jpg"></a></td>
+<td><a href="/august-3rd-2004-south/90278/c-153693"><img alt="August 3rd, 2004 - South..." src="/images/square/90278.jpg"></a></td>
+<td><a href="/august-3rd-2004-south/90281/c-153693"><img alt="August 3rd, 2004 - South..." src="/images/square/90281.jpg"></a></td>
+<td><a href="/here-the-knife-edged/93135/c-153693"><img alt="Here the knife-edged..." src="/images/square/93135.jpg"></a></td>
+<td><a href="/south-basin-pk-from-camp/701388/c-153693"><img alt="South Basin Pk from Camp" src="/images/square/701388.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/utm519283/536031/c-153693"><img alt="UTM519283" src="/images/square/536031.jpg"></a></td>
+<td><a href="/crux-of-traverse-from-basin-mtn-to-south-basin-peak/536032/c-153693"><img alt="Crux of traverse from Basin Mtn. to “South Basin Peak”" src="/images/square/536032.jpg"></a></td>
+<td><a href="/basin-mtn-and-utm519283/536033/c-153693"><img alt="Basin Mtn. and UTM519283" src="/images/square/536033.jpg"></a></td>
+</tr>
+</table></div>
+            </article> 
+date:  
+difficulty:  
+elevation: 13240 
+grade:  
+id: 153693 
+latitude: 37.2914 
+location: California, United States, North America 
+longitude: -118.6725 
+my_route_quality:  
+name: South Basin Peak (pt. 13,240') 
+number_of_pitches:  
+page_url: http://www.summitpost.org/south-basin-peak-pt-13-240/153693 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons:  
+time_required:  
+type: Mountain-Rock 
+

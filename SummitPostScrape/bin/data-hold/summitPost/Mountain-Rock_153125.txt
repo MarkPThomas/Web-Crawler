@@ -1,0 +1,102 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>Chipman Peak is a seldom visited summit located in the <a href="http://www.fs.fed.us/r4/wcnf/unit/slrd/wilderness/lone_peak_wilderness.shtml" target="blank">Lone Peak Wilderness Area</a> of the Wasatch Mountains.  The length and elevation gain from all approaches make this peak a challenging objective for most hikers.<br>
+<br>
+From the summit are outstanding views of the rugged Little Cottonwood Canyon ridge, the Lake Hardy basin to the west, and much of Utah County to the south.<br>
+<br>
+USGS Quads:<br>
+<li>Dromedary Peak, Utah  (1:24k)<br>
+</li>
+<li>Draper, Utah  (1:24k)<br>
+</li>
+<li>Timpanogos Cave, Utah  (1:24k)<br>
+<div align="center" class="image" style="width: 506px;">
+<a href="/chipman-peak/265881"><img alt="Chipman Peak" height="375" width="500" src="/images/medium/265881.jpg"></a><br><span class="caption">Viewed While Ascending the Pfeifferhorn</span>
+</div>
+<a name="chapter_2"></a><h2>Is Chipman Really A Peak?</h2>The elevation gain from the saddle between Chipman Peak and Lightning Ridge is only ±175 ft., so strictly speaking Chipman Peak is not officially a separate peak as defined by the '300-foot rule'.  However, since it lies a considerable distance (0.93 miles) from the nearest named summit, <a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/2343"><b>South Thunder Mountain</b></a>, it was decided to include Chipman Peak as a distinct peak on Summitpost.<br>
+<br>
+Also taken into consideration was the fact that Chipman Peak is located on a spur ridge perpendicular to the main ridge between South Thunder Mountain and the <a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/1236"><b>Pfeifferhorn</b></a>, therefore it is not automatically climbed as a 'pass-over peak' when traversing the ridge between these other two summits.<br>
+<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=71018" rel="no_follow"><img src="/images/thumb/71018.JPG"></a></td>
+<td><a href="/view_object.php?object_id=71014" rel="no_follow"><img src="/images/thumb/71014.JPG"></a></td>
+<td><a href="/view_object.php?object_id=71015" rel="no_follow"><img src="/images/thumb/71015.JPG"></a></td>
+<td><a href="/view_object.php?object_id=71017" rel="no_follow"><img src="/images/thumb/71017.JPG"></a></td>
+<td><a href="/view_object.php?object_id=84138" rel="no_follow"><img src="/images/thumb/84138.jpg"></a></td>
+</tr></table>
+<a name="chapter_3"></a><h2>Routes Overview</h2>Chipman peak is located on a short spur ridge extending south from lightning ridge, roughly midway between the <a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/1236"><b>Pfeifferhorn</b></a> to the east, and <a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/2343"><b>South Thunder Mountain</b></a> to the west.<br>
+<br>
+Chipman Peak is probably most commonly climbed as part of the <a href="http://www.summitpost.org/mountains/route_link.pl/route_id/4531/object_id/1236">Beatout</a> hike, which typically begins with an ascent of  the Pfeifferhorn via <a href="http://www.summitpost.org/show/route_link.pl/route_id/1593/object_id/1236">Red Pine Canyon</a>, followed by a 2-mile ridge traverse to South Thunder Mountain.  An ascent of Chipman Peak during the Beatout hike becomes a relatively trivial matter of making the short 0.2 mile boulder hop south to the summit of Chipman.<br>
+<br>
+A similar approach but in reverse direction would involve first ascending South Thunder Mountain via <a href="http://www.summitpost.org/show/route_link.pl/route_id/2211/object_id/2343">Bells Canyon</a>, then making a 3/4 mile traverse south-east from the summit of South Thunder to Chipman.  This approach would involve considerably more elevation gain due to the lower elevation of the Bells Canyon trailhead.<br>
+<br>
+Either of these approaches to Chipman will involve 10-12 miles, ±6,000 feet of elevation gain/loss, and much class 3 scrambling with routefinding.<br>
+<br>
+An even longer traverse to Chipman Peak could be be created by following the ridge east from <a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/1400"><b>Lone Peak</b></a> and/or <a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/3352"><b>Bighorn Peak</b></a>.  An ascent of South Thunder Mountain would not be required from this approach.<br>
+<br>
+Two other possible approaches to Chipman Peak exist to the south; Chipman Canyon, and Dry Creek Canyon.  Route descriptions for these approaches will be added in the future.<br>
+<a name="chapter_4"></a><h2>Red Tape</h2>Chipman Peak is located in the <a href="http://www.fs.fed.us/r4/wcnf/unit/slrd/wilderness/lone_peak_wilderness.shtml" target="blank">Lone Peak Wilderness Area</a>.  The following regulations apply:<br>
+</li>
+<li>No motor vehicles, mechanized equipment, hang gliders, or bicycles<br>
+</li>
+<li>Group sizes not to exceed 10 persons<br>
+</li>
+<li>No camping within 200 feet of lakes, trails, or other sources of water<br>
+</li>
+<li>No camping for more than 3 days at one site<br>
+</li>
+<li>Do not short cut trail switchbacks<br>
+</li>
+<li>Properly disposing of garbage, debris, or other waste<br>
+</li>
+<li>Open fires are not permitted in the Red Pine and Maybird Gulch drainages<br>
+<br>
+No fees or permits are requried for the majority of the common approaches used to ascend Chipman Peak.  The exception would be an approach originating in American Fork Canyon, which requires a $3.00 entrance fee to enter the canyon.<br>
+<a name="chapter_5"></a><h2>When To Climb</h2>Spring through late fall for hikers and scramblers.  Year round for ski mountaineers.<br>
+<a name="chapter_6"></a><h2>Camping</h2>The nearest spot for good camping would be in the Lake Hardy area, which is located approximately ½ mile to the west.  Bells Canyon (to the northwest) and Red Pine Canyon (to the northeast) also contain abundant camping possibilities.<br>
+<a name="chapter_7"></a><h2>Mountain Conditions</h2>The 7-day forecast below is for the Wasatch Front valleys - expect considerably colder and more severe weather in the mountains.<br>
+<br>
+<center><img width="440" height="297" src="http://connect2utah.com/wx/kutv_saltlake_7day_16x9.jpg"></center>                                                                                                                                                                                            <a name="chapter_8"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/chipman-peak-and-the-pfeifferhorn/617666/c-153125"><img alt="Chipman Peak and The Pfeifferhorn" src="/images/square/617666.JPG"></a></td>
+<td><a href="/looking-south-at-chipman-peak/71013/c-153125"><img alt="Looking south at Chipman Peak..." src="/images/square/71013.JPG"></a></td>
+<td><a href="/best-beatout-scrambling/903681/c-153125"><img alt="Best Beatout scrambling" src="/images/square/903681.JPG"></a></td>
+<td><a href="/overview-photo-showing/71018/c-153125"><img alt="Overview photo showing..." src="/images/square/71018.JPG"></a></td>
+<td><a href="/chipman-peak/265881/c-153125"><img alt="Chipman Peak" src="/images/square/265881.jpg"></a></td>
+<td><a href="/view-from-the-summit-looking/71014/c-153125"><img alt="View from the summit looking..." src="/images/square/71014.JPG"></a></td>
+<td><a href="/view-from-the-summit-looking/71015/c-153125"><img alt="View from the summit looking..." src="/images/square/71015.JPG"></a></td>
+</tr>
+<tr>
+<td><a href="/chipman-peak-as-viewed-from/71017/c-153125"><img alt="Chipman Peak as viewed from..." src="/images/square/71017.JPG"></a></td>
+<td><a href="/chipman-peak/517793/c-153125"><img alt="Chipman Peak" src="/images/square/517793.jpg"></a></td>
+<td><a href="/chipman-peak/409661/c-153125"><img alt="Chipman Peak" src="/images/square/409661.jpg"></a></td>
+<td><a href="/the-claw/839191/c-153125"><img alt="The Claw" src="/images/square/839191.JPG"></a></td>
+<td><a href="/lightning-ridge/839192/c-153125"><img alt="Lightning Ridge" src="/images/square/839192.JPG"></a></td>
+<td><a href="/view-from-the-summit-of/84138/c-153125"><img alt="View from the summit of..." src="/images/square/84138.jpg"></a></td>
+<td><a href="/sunset-on-box-elder/646496/c-153125"><img alt="Sunset on Box Elder" src="/images/square/646496.jpg"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/chipman-peak/images/p-153125">View Gallery - 31 More Images</a> ]</td></tr>
+</table></div>
+            </li></article> 
+date:  
+difficulty:  
+elevation: 10954 
+grade:  
+id: 153125 
+latitude: 40.5226 
+location: Utah, United States, North America 
+longitude: -111.723 
+my_route_quality:  
+name: Chipman Peak 
+number_of_pitches:  
+page_url: http://www.summitpost.org/chipman-peak/153125 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons:  
+time_required:  
+type: Mountain-Rock 
+

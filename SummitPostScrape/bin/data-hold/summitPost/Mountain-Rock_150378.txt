@@ -1,0 +1,409 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">**NEWS: Regular Northwest Face affected by huge rockfall**</h2>On or around July 3 (a party attempting the route on the 5th made the discovery), huge rockrall, including the ledge comprising the Robbins Traverse, occurred on the northwest face of Half Dome. Portions of the Regular NW face have been affected. At this time, it is unknown how this will be addressed to allow future climbers to climb this route, one of the most significant historically in North America. In addition to this, sections above the affected areas are currently considered unstable and at risk of future rockfall. Climbers are advised to stay away from the route until stability is better ascertained. <br>
+<br>
+(<a href="http://www.climbing.com/news/big-section-of-half-dome-route-falls-off/">link</a>)<br>
+<a name="chapter_2"></a><h2>Overview</h2>When most people think of Yosemite, an image of Half Dome's <a href="/mountains/photo_link.pl?photo_id=2011&amp;object_id=305&amp;type=mountain&amp;mountain_id=305&amp;route_id=">sheer northwest face</a> towering over the valley immediately comes to mind. The inspiring view and hiker accessible "Cables Route" to the summit has made Half Dome one of the must do hikes for visitors coming to Yosemite National Park (YNP) from California, other parts of the United States, and indeed from around the world. Half Dome has inspired many people to take up hiking, climbing, and has even seen BASE jumpers (see Red Tape section below) and snowboarders take off from its summit. The end of 2000 saw the first two snowboard descents of Half Dome's east side by Jim Zellers. Unfortunately, all this attention has also made this summit extremely crowded, especially between Memorial Day and Labor Day. If you plan to hike the <a href="/mountains/route_link.pl/route_id/1534/object_id/221">Cables Route</a> (see below) during the high season, be sure to get an early start (as well as a permit; see Red Tape below) as you can often get stuck in gridlock on the narrow cables section during the middle of the day (Ref: <a href="/mountains/user_link.pl?user_id=1237">BranchWhitney</a>). The park doesn't keep official numbers of visitors, but Jim Snyder, the park's historian, says ""On Memorial Day in 1972, more than 700 people went up. It was horrendous." While people have been known to spend an hour on the Cables each way during the high season, climbing <a href="/mountains/route_link.pl/route_id/79/object_id/221">Snake Dike</a> on a popular summer weekend may be even worse with reports of parties waiting 5 hours at the base of the route before getting on the rock. To get away from the crowds and enjoy fine views of the valley, try <a href="/mountains/mountain_link.pl/mountain_id/279">Clouds Rest</a> or <a href="/mountains/mountain_link.pl/mountain_id/305">North Dome</a>. These peaks also have excellent views of Half Dome itself.  <p>  The majority of Half Dome ascents are made via the "Cables Route" via the Yosemite Valley or Happy Isles Approach. This 8.2 mile route follows the John Muir Trail (JMT) from the valley's Happy Isles Trailhead (4,105 feet) for 6.2 miles before branching off to the Half Dome summit trail. This route is often good at intimidating for the first time hiker due to the last 840 feet of the ascent which are assisted by <a href="/mountains/photo_link.pl/p/photo_id__1119__object_id__2__type__user__mountain_id____route_id____user_id__">steel cables</a> attached to the dome's east side. Many people choose to use work gloves on the cables portion of the route to get a better grip. During the high season there is often a pile of work gloves at the base of the cables for your use, however, it may be a good idea to bring your own gloves just in case. Hikers using the JMT from the valley also have an option to take the more strenuous Mists Trail variation which gets its name from the fine spray flowing over the trail from Nevada Falls. The Mists Trail connects to the JMT on both ends so you won't have to worry about getting lost.  </p>
+<p>  Warning from <a href="/mountains/user_link.pl/user_id/305">mconnell</a> (edited): Many inexperienced hikers attempt this summit unprepared and wind up running out of water or coming down in the dark without. Basic essentials that should be considered include: enough water (2+ liters / person recommended), water filters or purification tablets, flashlights and jackets for late night descents, etc. Don't depend on rangers to escort you down, since they won't do this unless you're seriously injured.  </p>
+<p>  Half Dome's steep NW face is home to dozens of classic rock climbs, including the Regular and Direct NW Face, all being fairly serious. There are also a number of rock climbs on its lower angle SW and South faces including the ultra popular Snake Dike route. The Regular NW Face is probably the third most popular route on the dome after the Cables Route and Snake Dike.  </p>
+<ul>  <table border="1" cellspacing="0"><tbody><tr><td><table border="0" cellspacing="2" cellpading="1"><tbody>
+<tr bgcolor="#c0c0c0">
+<td><font style="font-weight: bold;">Map Name</font></td>  <td><font style="font-weight: bold;">Publisher</font></td>  <td><font style="font-weight: bold;">Scale</font></td>  <td><font style="font-weight: bold;">Interval</font></td>  <td><font style="font-weight: bold;">Plastic</font></td>  <td><font style="font-weight: bold;">Lat/Long</font></td>  <td><font style="font-weight: bold;">UTM</font></td>
+</tr>  <tr>  <td>Half Dome</td>  <td><a href="http://mcmcweb.er.usgs.gov/topomaps/">USGS</a></td>  <td>1:24,000</td>  <td align="center">?</td>  <td align="center">N</td>  <td align="center">?</td>  <td align="center">?</td>  </tr>  <tr>  <td>Yosemite High Country Trail Map</td>  <td><a href="http://www.tomharrisonmaps.com">Tom Harrison Maps</a></td>  <td>1:63,360</td>  <td align="center">200 ft</td>  <td align="center">Y</td>  <td align="center">Y</td>  <td align="center">Y</td>  </tr>  <tr>  <td><a href="http://www.trailsillustrated.com/acb/showdetl.cfm?&amp;DID=15&amp;Product_ID=26&amp;CATID=1">Yosemite National Park</a></td>  <td>Trails Illustrated</td>  <td>1:100,000</td>  <td align="center">200 ft</td>  <td align="center">Y</td>  <td align="center">Y</td>  <td align="center">?</td>  </tr>  </tbody></table></td></tr></tbody></table>
+</ul>
+<br>
+<p></p>
+<table class="inline_image_thumbs"><tbody><tr>
+<td><a href="/view_object.php?object_id=40707" rel="no_follow"><img src="/images/thumb/40707.jpg" unselectable="on"></a></td>
+<td><a href="/view_object.php?object_id=5934" rel="no_follow"><img src="/images/thumb/5934.jpg" unselectable="on"></a></td>
+<td><a href="/view_object.php?object_id=41718" rel="no_follow"><img src="/images/thumb/41718.jpg" unselectable="on"></a></td>
+<td><a href="/view_object.php?object_id=31927" rel="no_follow"><img src="/images/thumb/31927.jpg" unselectable="on"></a></td>
+<td><a href="/view_object.php?object_id=142859" rel="no_follow"><img src="/images/thumb/142859.jpg" unselectable="on"></a></td>
+</tr></tbody></table>
+<p></p>
+<a name="chapter_3"></a><h2>Routes Overview</h2>Here is a working list of routes on Half Dome.<ul>  <table border="1" cellspacing="0"><tbody>
+<tr><td>
+<table border="0" cellspacing="2" cellpadding="1">    <tbody>
+<tr bgcolor="#c0c0c0"><td colspan="6"><font style="font-weight: bold;">ROUTES OVERVIEW</font></td></tr>  <tr>
+<td align="center"><font style="font-weight: bold;">#</font></td>  <td align="center"><font style="font-weight: bold;">Route Name</font></td>  <td align="center"><font style="font-weight: bold;">Difficulty</font></td>  <td align="center"><font style="font-weight: bold;">FA</font></td>  <td align="center"><font style="font-weight: bold;">FA Party</font></td>  <td align="center"><font style="font-weight: bold;">Notes</font></td>
+</tr>    <tr>
+<td align="center" bgcolor="#e0e0e0">1</td>  <td bgcolor="#e0e0e0">Arcturas</td>  <td align="center" bgcolor="#e0e0e0">VI 5.7 A4</td>  <td align="center" bgcolor="#e0e0e0">1970</td>  <td bgcolor="#e0e0e0">Royal Robbins, Dick Dorworth</td>  <td bgcolor="#e0e0e0"><font color="#e0e0e0">.</font></td>
+</tr>    <tr>
+<td align="center">2</td>  <td>Artic Sea</td>  <td align="center">VI 5.10 A4</td>  <td align="center">1983</td>  <td>Duane Raleigh &amp; Tom Cosgriff</td>  <td></td>
+</tr>    <tr>
+<td align="center" bgcolor="#e0e0e0">3</td>  <td bgcolor="#e0e0e0">Autobahn</td>  <td align="center" bgcolor="#e0e0e0">5.11+ R</td>  <td align="center" bgcolor="#e0e0e0">1985</td>  <td bgcolor="#e0e0e0">Charles Cole, Rusty Reno &amp; John Middendorf</td>  <td bgcolor="#e0e0e0">Southwest Face</td>
+</tr>    <tr>
+<td align="center">4</td>  <td>Bare Necessities</td>  <td align="center"></td>  <td align="center">1972</td>  <td>Mark Chapman &amp; Rik Rieder</td>  <td></td>
+</tr>    <tr>
+<td align="center" bgcolor="#e0e0e0">5</td>  <td bgcolor="#e0e0e0">Big Chill, The</td>  <td align="center" bgcolor="#e0e0e0">VI</td>  <td align="center" bgcolor="#e0e0e0">1987</td>  <td bgcolor="#e0e0e0">Jim Bridwell, Peter Mayfield, Sean Plunkett &amp; Steve Bosque</td>  <td bgcolor="#e0e0e0"><font color="#e0e0e0">.</font></td>
+</tr>    <tr>
+<td align="center">6</td>  <td>Bushido</td>  <td align="center">VI 5.10 A4</td>  <td align="center">1977</td>  <td>Jim Bridwell &amp; Dale Bard</td>  <td></td>
+</tr>    <tr>
+<td align="center" bgcolor="#e0e0e0">7</td>  <td bgcolor="#e0e0e0"><a href="http://www.summitpost.com/mountains/route_link.pl/route_id/1534/object_id/221">Cables, The</a></td>  <td align="center" bgcolor="#e0e0e0">Class 3;<br>
+5.4 w/o cables</td>  <td align="center" bgcolor="#e0e0e0">1875</td>  <td bgcolor="#e0e0e0">George C. Anderson</td>  <td bgcolor="#e0e0e0">East Slope. FA: barefoot using rope and iron pegs. First Female Ascent by Sandy Dutcher (wearing long dress), also in 1875.</td>
+</tr>    <tr>
+<td align="center">8</td>  <td>Call of the Wild</td>  <td align="center">5.10d A0</td>  <td align="center">1975</td>  <td>Peter Haan &amp; Roger Briggs</td>  <td>South Face</td>
+</tr>    <tr>
+<td align="center" bgcolor="#e0e0e0">9</td>  <td bgcolor="#e0e0e0">Cold, Rain, and Snow</td>  <td align="center" bgcolor="#e0e0e0"></td>  <td align="center" bgcolor="#e0e0e0">1989</td>  <td bgcolor="#e0e0e0">Greg Murphy &amp; Elliott Robinson</td>  <td bgcolor="#e0e0e0"><font color="#e0e0e0">.</font></td>
+</tr>    <tr>
+<td align="center">10</td>  <td>Deuceldike, The</td>  <td align="center">5.9 R</td>  <td align="center">1985</td>  <td>Charles Cole, Rusty Reno &amp; John Middendorf</td>  <td>On Southwest Face. Joins Snake Dike.</td>
+</tr>    <tr>
+<td align="center" bgcolor="#e0e0e0">11</td>  <td bgcolor="#e0e0e0">Dome Polishers</td>  <td align="center" bgcolor="#e0e0e0">5.9 R</td>  <td align="center" bgcolor="#e0e0e0">1988</td>  <td bgcolor="#e0e0e0">Tucker Tech &amp; Steve Ortner</td>  <td bgcolor="#e0e0e0">On Southwest Face. Joins Snake Dike.</td>
+</tr>    <tr>
+<td align="center">12</td>  <td>Dreamscape</td>  <td align="center">IV 5.11+</td>  <td align="center">1988</td>  <td>Scott Burke, Tory Elbrader &amp; Jeff Folett</td>  <td>Southwest Face</td>
+</tr>    <tr>
+<td align="center" bgcolor="#e0e0e0">13</td>  <td bgcolor="#e0e0e0">Eye in the Sky</td>  <td align="center" bgcolor="#e0e0e0">5.10b R</td>  <td align="center" bgcolor="#e0e0e0">1985</td>  <td bgcolor="#e0e0e0">Mark Spencer, Shirley Spencer, Dan Abbot &amp; David Abbot</td>  <td bgcolor="#e0e0e0">On Southwest Face.</td>
+</tr>    <tr>
+<td align="center">14</td>  <td>Fast Lane, The</td>  <td align="center">5.11+ R</td>  <td align="center">1986</td>  <td>Dimitri Barton, Scott Burke &amp; Chris Hash</td>  <td>Southwest Face</td>
+</tr>    <tr>
+<td align="center" bgcolor="#e0e0e0">15</td>  <td bgcolor="#e0e0e0">Final Exam</td>  <td align="center" bgcolor="#e0e0e0">5.10d</td>  <td align="center" bgcolor="#e0e0e0">1971</td>  <td bgcolor="#e0e0e0">Mark Klemens &amp; Jim Bridwell</td>  <td bgcolor="#e0e0e0"><font color="#e0e0e0">.</font></td>
+</tr>    <tr>
+<td align="center">16</td>  <td>Gravity's Rainbow</td>  <td align="center"></td>  <td align="center">1976</td>  <td>Ray Jardine &amp; John Lakey</td>  <td></td>
+</tr>    <tr>
+<td align="center" bgcolor="#e0e0e0">17</td>  <td bgcolor="#e0e0e0">Happy Gully</td>  <td align="center" bgcolor="#e0e0e0">5.8</td>  <td align="center" bgcolor="#e0e0e0">1966</td>  <td bgcolor="#e0e0e0">Joe Faint, Warren Harding &amp; Chris Fredericks</td>  <td bgcolor="#e0e0e0"><font color="#e0e0e0">.</font></td>
+</tr>    <tr>
+<td align="center">18</td>  <td>Jet Stream</td>  <td align="center">VI 5.9 A4</td>  <td align="center">1989</td>  <td>Sean Plunkett &amp; Bill Russell</td>  <td></td>
+</tr>    <tr>
+<td align="center" bgcolor="#e0e0e0">19</td>  <td bgcolor="#e0e0e0">Kali Yuga</td>  <td align="center" bgcolor="#e0e0e0">VI 5.10 A4</td>  <td align="center" bgcolor="#e0e0e0">1989</td>  <td bgcolor="#e0e0e0">John Middendorf &amp; Walt Shipley</td>  <td bgcolor="#e0e0e0"><font color="#e0e0e0">.</font></td>
+</tr>    <tr>
+<td align="center">20</td>  <td>Karma</td>  <td align="center">V 5.11d A0</td>  <td align="center">1986</td>  <td>Dave Schultz, Ken Yager &amp; Jim Campbell</td>  <td>South Face</td>
+</tr>    <tr>
+<td align="center" bgcolor="#e0e0e0">21</td>  <td bgcolor="#e0e0e0">Labor of Love</td>  <td align="center" bgcolor="#e0e0e0">5.10b R</td>  <td align="center" bgcolor="#e0e0e0">1991</td>  <td bgcolor="#e0e0e0">Walt Shipley &amp; Stephanie McCormack</td>  <td bgcolor="#e0e0e0">Southwest Face</td>
+</tr>    <tr>
+<td align="center">22</td>  <td>Lost Again</td>  <td align="center">VI 5.10 A3+</td>  <td align="center">1972</td>  <td>Eric Kohl</td>  <td></td>
+</tr>    <tr>
+<td align="center" bgcolor="#e0e0e0">23</td>  <td bgcolor="#e0e0e0">North Ridge</td>  <td align="center" bgcolor="#e0e0e0">5.10d R</td>  <td align="center" bgcolor="#e0e0e0">1961</td>  <td bgcolor="#e0e0e0">Chuck Wilts &amp; Royal Robbins</td>  <td bgcolor="#e0e0e0"><font color="#e0e0e0">.</font></td>
+</tr>    <tr>
+<td align="center">24</td>  <td>Northwest Buttress</td>  <td align="center">IV 5.8 A3</td>  <td align="center">1969</td>  <td>Andy Embick &amp; Bob Jensen</td>  <td></td>
+</tr>    <tr>
+<td align="center" bgcolor="#e0e0e0">25</td>  <td bgcolor="#e0e0e0">Northwest Face, Direct</td>  <td align="center" bgcolor="#e0e0e0">5.13c/d</td>  <td align="center" bgcolor="#e0e0e0">1963</td>  <td bgcolor="#e0e0e0">Royal Robbins &amp; Dick McCracken</td>  <td bgcolor="#e0e0e0">FFA: 1993: Todd Skinner &amp; Paul Piana</td>
+</tr>    <tr>
+<td align="center">26</td>  <td>Northwest Face, Regular</td>  <td align="center">VI 5.12 or<br>
+VI 5.9 A2</td>  <td align="center">1957</td>  <td>Royal Robbins</td>  <td>First Female Ascent: 1967: Liz Robbins. FFA: 1980: Leonard Coyne</td>
+</tr>      <tr>
+<td align="center" bgcolor="#e0e0e0">27</td>  <td bgcolor="#e0e0e0">On the Edge</td>  <td align="center" bgcolor="#e0e0e0">5.11b R</td>  <td align="center" bgcolor="#e0e0e0">1975</td>  <td bgcolor="#e0e0e0">Dale Bard &amp; George Meyers</td>  <td bgcolor="#e0e0e0">Southwest Face</td>
+</tr>    <tr>
+<td align="center">28</td>  <td>Porcelain Pup</td>  <td align="center"></td>  <td align="center">1987</td>  <td>Walt Shipley &amp; Rob Orovitz</td>  <td></td>
+</tr>    <tr>
+<td align="center" bgcolor="#e0e0e0">29</td>  <td bgcolor="#e0e0e0">Promised Land</td>  <td align="center" bgcolor="#e0e0e0">VI 5.10 A4</td>  <td align="center" bgcolor="#e0e0e0">1989</td>  <td bgcolor="#e0e0e0">Kevin Fosburg, Jeff Hornibrook &amp; Troy Johnson</td>  <td bgcolor="#e0e0e0"><font color="#e0e0e0">.</font></td>
+</tr>    <tr>
+<td align="center">30</td>  <td>Queen of Spades</td>  <td align="center">VI 5.9 A4</td>  <td align="center">1984</td>  <td>Charles Cole</td>  <td></td>
+</tr>    <tr>
+<td align="center" bgcolor="#e0e0e0">31</td>  <td bgcolor="#e0e0e0">Repo Man</td>  <td align="center" bgcolor="#e0e0e0"></td>  <td align="center" bgcolor="#e0e0e0">1999</td>  <td bgcolor="#e0e0e0">Eric George, Bryan Law</td>  <td bgcolor="#e0e0e0"><font color="#e0e0e0">.</font></td>
+</tr>    <tr>
+<td align="center">32</td>  <td>Salathe Route (Southwest Face)</td>  <td align="center">5.10b R</td>  <td align="center">1946</td>  <td>John Salathe, Anton Nelson</td>  <td>Southwest Face. FFA: 1964: Frank Sacherer, Bob Kamps &amp; Andy Lichtman.</td>
+</tr>    <tr>
+<td align="center" bgcolor="#e0e0e0">33</td>  <td bgcolor="#e0e0e0">Same as it Never Was</td>  <td align="center" bgcolor="#e0e0e0">VI 5.11b A4</td>  <td align="center" bgcolor="#e0e0e0">1986</td>  <td bgcolor="#e0e0e0">Jay Smith, Karl McConachie &amp; Randy Grandstaff</td>  <td bgcolor="#e0e0e0"><font color="#e0e0e0">.</font></td>
+</tr>    <tr>
+<td align="center">34</td>  <td>Shadows</td>  <td align="center">VI A5</td>  <td align="center">1989</td>  <td>Jim Bridwell, Cito Kirkpatrick, Charlie Row &amp; Billy Westbay</td>  <td></td>
+</tr>    <tr>
+<td align="center" bgcolor="#e0e0e0">35</td>  <td bgcolor="#e0e0e0">Silver Platter, The</td>  <td align="center" bgcolor="#e0e0e0"></td>  <td align="center" bgcolor="#e0e0e0">1976</td>  <td bgcolor="#e0e0e0">Ray Jardine &amp; John Lakey</td>  <td bgcolor="#e0e0e0"><font color="#e0e0e0">.</font></td>
+</tr>    <tr>
+<td align="center">36</td>  <td>Snake Dance</td>  <td align="center">5.9+ R</td>  <td align="center">1973</td>  <td>Claude Fiddler &amp; Bob Jones</td>  <td>Southwest Face.</td>
+</tr>    <tr>
+<td align="center" bgcolor="#e0e0e0">37</td>  <td bgcolor="#e0e0e0"><a href="http://www.summitpost.com/mountains/route_link.pl/route_id/79/object_id/221">Snake Dike</a></td>  <td align="center" bgcolor="#e0e0e0">5.7 R</td>  <td align="center" bgcolor="#e0e0e0">1965</td>  <td bgcolor="#e0e0e0">Eric Beck, Jim Bridwell &amp; Chris Fredericks</td>  <td bgcolor="#e0e0e0">On Southwest Face.</td>
+</tr>    <tr>
+<td align="center">38</td>  <td>Snake in the Grass</td>  <td align="center">5.10b</td>  <td align="center">1988</td>  <td>Tucker Tech &amp; Steve Ortner</td>  <td>Southwest Face</td>
+</tr>    <tr>
+<td align="center" bgcolor="#e0e0e0">39</td>  <td bgcolor="#e0e0e0">Solitary Confinement</td>  <td align="center" bgcolor="#e0e0e0"></td>  <td align="center" bgcolor="#e0e0e0">1999</td>  <td bgcolor="#e0e0e0">Eric George</td>  <td bgcolor="#e0e0e0"><font color="#e0e0e0">.</font></td>
+</tr>    <tr>
+<td align="center">40</td>  <td>South Face</td>  <td align="center">VI 5.8 A3</td>  <td align="center">1970</td>  <td>Warren Harding &amp; Galen Rowell</td>  <td></td>
+</tr>    <tr>
+<td align="center" bgcolor="#e0e0e0">41</td>  <td bgcolor="#e0e0e0">Southern Belle</td>  <td align="center" bgcolor="#e0e0e0">V 5.12d R</td>  <td align="center" bgcolor="#e0e0e0">1987</td>  <td bgcolor="#e0e0e0">Walt Shipley &amp; Dave Schultz</td>  <td bgcolor="#e0e0e0">South Face. FFA: 1988: Dave Schultz &amp; Scott Cosgrove.</td>
+</tr>    <tr>
+<td align="center">42</td>  <td>Tis-sa-ack</td>  <td align="center">VI 5.10 A3</td>  <td align="center">1969</td>  <td>Royal Robbins &amp; Don Peterson</td>  <td></td>
+</tr>    <tr>
+<td align="center" bgcolor="#e0e0e0">43</td>  <td bgcolor="#e0e0e0">West Corner</td>  <td align="center" bgcolor="#e0e0e0"></td>  <td align="center" bgcolor="#e0e0e0">1961</td>  <td bgcolor="#e0e0e0">Bob Kamps &amp; Dave Rearick</td>  <td bgcolor="#e0e0e0"><font color="#e0e0e0">.</font></td>
+</tr>    <tr>
+<td align="center">44</td>  <td>White Room</td>  <td align="center">VI 5.10 A4</td>  <td align="center">1988</td>  <td>Walt Shipley &amp; Sean Plunkett</td>  <td></td>
+</tr>    <tr>
+<td align="center" bgcolor="#e0e0e0">45</td>  <td bgcolor="#e0e0e0">White Trash Vacation</td>  <td align="center" bgcolor="#e0e0e0"></td>  <td align="center" bgcolor="#e0e0e0">1999</td>  <td bgcolor="#e0e0e0">Eric George &amp; Eric Coomer</td>  <td bgcolor="#e0e0e0"><font color="#e0e0e0">.</font></td>
+</tr>    <tr>
+<td align="center">46</td>  <td>Zenith</td>  <td align="center">VI 5.9 A4</td>  <td align="center">1978</td>  <td>Jim Bridwell &amp; Kim Schmitz</td>  <td></td>
+</tr>  </tbody>
+</table>    </td></tr>  </tbody></table>  </ul>
+<br>
+<p></p>
+<table class="inline_image_thumbs"><tbody><tr>
+<td><a href="/view_object.php?object_id=122735" rel="no_follow"><img src="/images/thumb/122735.jpg" unselectable="on"></a></td>
+<td><a href="/view_object.php?object_id=12249" rel="no_follow"><img src="/images/thumb/12249.jpg" unselectable="on"></a></td>
+<td><a href="/view_object.php?object_id=51094" rel="no_follow"><img src="/images/thumb/51094.JPG" unselectable="on"></a></td>
+<td><a href="/view_object.php?object_id=64681" rel="no_follow"><img src="/images/thumb/64681.JPG" unselectable="on"></a></td>
+<td><a href="/view_object.php?object_id=136563" rel="no_follow"><img src="/images/thumb/136563.jpg" unselectable="on"></a></td>
+</tr></tbody></table>
+<p></p>
+<a name="chapter_4"></a><h2>Getting There</h2>YOSEMITE VALLEY (aka HAPPY ISLES) APPROACH: The most popular approach is to take the John Muir Trail (JMT) up from the Happy Isles Trailhead in Yosemite Valley. You can reach Yosemite Valley via CA SR-120, CA SR-140, and CA SR-41 which enter the park at the Big Oak Flat, Arch Rock (aka El Portal), and Wawona (aka South) Entrances to the park.  <p>  TENAYA LAKE APPROACH (via CLOUDS REST): Drive to CA SR-120 and park at the Sunrise Trailhead just south of the lake from where you can take the trail south towards Clouds Rest. In 9.9 miles (including a summit of Clouds Rest) you will reach the JMT. Continue southwest for 0.5 miles before joining the 2 mile Half Dome summit trail. This stretch of CA SR-120 is closed during the winter. See the Road Closure Status with the link under the Mountain Conditions section.  </p>
+<p>  TUOLUMNE MEADOWS APPROACH (via JMT): Park at Tuolumne Meadows off of CA SR-120 and head southwest on the JMT for 14.4 miles before heading northwest at the 2 mile Half Dome summit trail. This stretch of CA SR-120 is closed during the winter. See the Road Closure Status with the link under the Mountain Conditions section.<br>
+</p>
+<p></p>
+<table class="inline_image_thumbs"><tbody><tr>
+<td><a href="/view_object.php?object_id=15789" rel="no_follow"><img src="/images/thumb/15789.JPG" unselectable="on"></a></td>
+<td><a href="/view_object.php?object_id=7530" rel="no_follow"><img src="/images/thumb/7530.jpg" unselectable="on"></a></td>
+<td><a href="/view_object.php?object_id=3577" rel="no_follow"><img src="/images/thumb/3577.JPG" unselectable="on"></a></td>
+<td><a href="/view_object.php?object_id=15790" rel="no_follow"><img src="/images/thumb/15790.JPG" unselectable="on"></a></td>
+<td><a href="/view_object.php?object_id=111631" rel="no_follow"><img src="/images/thumb/111631.jpg" unselectable="on"></a></td>
+</tr></tbody></table>
+<p></p>
+<a name="chapter_5"></a><h2>Red Tape</h2>PARK ENTRANCE FEE (MANDATORY): Yosemite National Park is part of the US NPS and an entrance fee is charged. The most common way to enter the park is by vehicle for a $20 entrance fee good for 7 days. Check the <a href="http://www.nps.gov/yose/pphtml/feespermits.html">NPS web site</a> for the latest fees. As with all US National Parks, you also have the option of purchasing an annual National Parks Pass.  <p>  OVERNIGHT TRIP PERMIT (OPTIONAL): If you are planning an overnight trip outside established campgrounds, you will need a Wilderness Permit since YNP has a trailhead-based quota system in place. At least 40% of the permits are available on a day-of or day-before basis. See the <a href="http://www.nps.gov/yose/wilderness/permits.htm">YNP Wilderness Permits Page</a> for more information on how to reserve these permits by the Internet, phone (209-372-0740), or mail. While the permit itself is free, if you wish to make an advance reservation, there is a non-refundable $5 per person processing fee.  </p>
+<p>  BASE JUMPING (ILLEGAL): This activity is no longer allowed in YNP. If you get caught the penalties can include: fines up to $5000, confiscation and destruction of equipment, probation up to 3 years, as well as jail time up to 3 days. Just ask French BASE jumpers Jean-Noël Itzstein and Jérôme Ruby who experienced this first hand in 1998. Conveniently, YNP has its own court and jailhouse. This is a dangerous activity and jumpers have been killed in YNP (while running away from rangers).  </p>
+<p>  HALF DOME CABLES PERMIT: See below.<a name="chapter_6"></a></p>
+<h2>New and Improved: The Half Dome Via The Cables While The Cables Are Up Permit</h2>
+<p>Gone are the good ol’ days, when one could wake up, arrive at the trailhead, and set forth with 1,000 or so of ones newfound closest friends to set forth and conquer the mighty Half Dome. Likely due in no small part to the combination of the ever-increasing throngs attempting The Cables, subsequent associated environmental degradation, and not to mention a few well-publicized fatalities, the almighty National Park Service (NPS) has decreed that once the cables are “up,” a permit shall henceforth be required for any person desiring to hike Half Dome. It should be noted that this permit is required: 1. Only for the Cables route (other routes are unaffected), &amp; 2. Only when the cables are up (check with Yosemite to see if this is the case or not). Now for the fun part of figuring out how to get the permits- yay!</p>
+<p><br>
+When the cables are up, you want to hike Half Dome, &amp; you need a permit to do so, there are currently 3 ways by which the NPS allows you to obtain this prized commodity:</p>
+<p><br>
+1.Register via <a href="http://www.recreation.gov/">Recreation.gov</a> during a preseason lottery in March (the whole month, EST if you’re really pushing it). Through this process, 225 of these bad boys are allotted to lucky hikers per day. Notification will be sent to applicants in April telling them if they’re winners or losers. Or, if you just can’t take the suspense, you can also request results by checking online or calling recreation.gov.</p>
+<p><br>
+2.“Daily” lottery. Feel lucky? It’s really more like a ‘2-days before’ lottery. Too lazy or ineffectual to apply in a timely manner, months before you want to do the hike? This option is meant for you. Apply 2 days in advance (from midnight to 1 PM Pacific time). For instance, to hike on Saturday, you’d apply on Thursday &amp; receive an email notification of whether you won or lost on Thursday night. Approximately 50 permits are available daily through this system, depending on how the stars happen to line up. </p>
+<p><br>
+3.Backpackers. Prefer to disassociate yourself from the day-hiking riff raff, &amp; want a more pristine “wilderness” experience? Backpack in, &amp; apply for your Cables permit with the “wilderness” permit (i.e. separate from the day-hiking Cables permit system). There are 75 of these available daily (50 by reservation &amp; 25 available 1 day in advance). Get the skinny <a href="http://www.nps.gov/yose/planyourvisit/hdwildpermits.htm">here.</a><br>
+<br>
+$$$<br>
+If applying for the daily permit, there is a (currently; it will rise soon enough) $4.50/$6.50 online/phone application fee. Those lucky enough to get the coveted permit will pay (currently) an additional $8. </p>
+<p><br>
+Make sense? Great! Want even more beta? Read about all the fun rules, regulations, and specificities <a href="http://www.nps.gov/yose/planyourvisit/hdpermits.htm">here.</a><br>
+</p>
+<a name="chapter_7"></a><h2>When To Climb, Ski &amp; Snowboard</h2>Summer time has the best weather (though most people) for hiking up the Cables Route. Rock climbers will find the spring and autumn weather more agreable. However, climbing during high season weekends can often mean long waits. On June 29, 2002 when I climbed Snake Dike for the first time, there were 22 people climbing Snake Dike and about 200 on the Cables route, spending about an hour each way on the cables. Also during 2002, Ron Karpel and Arun Mahajan spent 5 hours waiting at the base of Snake Dike before getting on the route. The reason? There were groups of 4 and 5 climbing together on the route - how crazy is that?  <p>  If you're planning on hiking up the Cables Route, you should know that the cables are usually put up in late May or June and taken down in October with the first snow storm. All this means is that the posts and the boards that make the walk-way are removed. The cables are still there, and are not at all difficult to use in their "down" state (if there's no snow/ice). In fact, during October and the spring, it's almost easier because there isn't a <a href="http://www.summitpost.com/mountains/photo_link.pl?photo_id=14630&amp;object_id=221&amp;type=mountain&amp;mountain_id=221&amp;route_id=">huge line of tourists</a>! For even more (extreme) fun, winter snow and ice also make it possible to climb this route with an ice axe and crampons as well as enjoy challenging ski and snowboard descents.  </p>
+<p>  <font style="font-weight: bold;">WINTER CONSIDERATIONS</font>  </p>
+<p>  Depending on conditions, Half Dome can often be climbed during the winter. During low snow years such as 2003, Snake Dike will often be snow free allowing for some solitude during the climb. The cables route often has snow and an ice axe and crampons are useful for ascending this route. For the descent, you can either prussik/rap the cables route or rap Snake Dike (which can be done with a pair of 50m ropes from anywhere on the route). Conditions may warrant an ice axe and crampons for a Cables route descent if you climb Snake Dike as well.  </p>
+<p>  <a href="http://www.summitpost.com/mountains/user_link.pl?user_id=370">Snwburd</a> visited this peak during the winter and adds: "the cables do little good when the snow falls. The cables are mostly buried under snow and ice and are frozen hard to the rock. You can't just lift them up and shake the snow off. The whole route is plastered with a veneer of snow/ice that is frightening to the average climber [...] Should you fall or the veneer give way, you've got a 1,000 ft+ fall down the north face." Know what you're doing if you attempt this in winter - 'nuff said :-) Of course, this is before we climbed Snake Dike and descended the Cables route on March 8, 2003. The next task is to climb the Cables route during the winter!  </p>
+<p>  <font style="font-weight: bold;">WARNING ON SKIING &amp; SNOWBOARDING</font>  </p>
+<p>  Skiing and snowboarding from the summit is a dangerous activity with Jim Zellers making unsuccessful attempts over several years before making the first successful snowboard descent in 2000. It is not uncommon for snowslabs to slide down the 47+° East Face (along the Cables Route) which would quickly sweep an unsuspecting skier / boarder down to a certain death.<br>
+</p>
+<p></p>
+<table class="inline_image_thumbs"><tbody><tr>
+<td><a href="/view_object.php?object_id=8173" rel="no_follow"><img src="/images/thumb/8173.jpg" unselectable="on"></a></td>
+<td><a href="/view_object.php?object_id=8172" rel="no_follow"><img src="/images/thumb/8172.jpg" unselectable="on"></a></td>
+<td><a href="/view_object.php?object_id=18260" rel="no_follow"><img src="/images/thumb/18260.jpg" unselectable="on"></a></td>
+<td><a href="/view_object.php?object_id=54392" rel="no_follow"><img src="/images/thumb/54392.jpg" unselectable="on"></a></td>
+</tr></tbody></table>
+<p></p>
+<a name="chapter_8"></a><h2>Camping</h2>There are numerous places to camp in the park, however, during peak periods, you may not want to if you are seeking solitude. The valley can fill up with so many cars, RVs, and tents that you'd think you were at a Boy Scout Jamboree.  <p>  Of the many campgrounds in Yosemite Valley, the cheapest one is Camp 4 (aka Sunnyside or climber's camp), a walk-in campground which is open year-round. There's no reservations here and everything is first-come, first-served basis so grab a spot early as they tend to go fast. Along the JMT, the Little Yosemite Campground is also popular. See the <a href="http://www.nps.gov/yose/camping.htm">Official YNP Campgrounds page</a> for other campgrounds, permit, and reservation information. See the Red Tape section above for backcountry camping wilderness permit information.  </p>
+<p>  Hint from <a href="http://www.summitpost.com/mountains/user_link.pl/user_id/2">Josh</a> (edited): To save money you can always stay in the USDA National Forest Service land just outside of the park. Approximately 1.3 miles west of the Big Oak Flat Entrance on CA SR-120, there's a dirt road near the Yosemite Gatehouse Lodge that leads into the woods (passable by any car). Just drive down a mile or so and voila, you'll have a great place to camp.<br>
+<a name="chapter_9"></a></p>
+<h2>Mountain Conditions</h2>Check the <a href="http://www.nps.gov/yose/news.htm">Official YNP Conditions Update webpage</a> or call 209-372-0200 for the current weather and road closure status. <a href="http://forecast.weather.gov/MapClick.php?lat=37.74655746554895&amp;lon=-119.53330993652344&amp;site=sto&amp;smap=1&amp;marine=0&amp;unit=0&amp;lg=en">Here</a> is a link for the forecast as given by NOAA. <p>  Also check out the following web cams:  </p>
+<p>  <a href="http://www.yosemite.org/vryos/TurtlebackCam.htm">View from Turtleback Dome Web Cam</a>: by <a href="http://www.yosemite.org/vryos/index.htm">Virtual Yosemite</a><br>
+  <a href="http://www.yosemite.org/vryos/sentinelcam.htm">View from Sentinel Dome Web Cam</a>: by <a href="http://www.yosemite.org/vryos/index.htm">Virtual Yosemite</a>  </p>
+<p>  For summer 2005 trail closure information, see the Red Tape section above.<br>
+<a name="chapter_10"></a></p>
+<h2>Historical Timeline</h2>Below is a timeline of significant events at Half Dome including a few early FA's. More complete FA information is located above in the Routes Overview Section.  <p>  FA = First Ascent<br>
+  FFA = First Free Ascent<br>
+  FCA = First Clean Ascent  </p>
+<p>  1851: Half Dome named by Mariposa Battalion<br>
+  1875: FA - East Slope: George C. Anderson (barefoot using rope and iron pegs)<br>
+  1875: First Female Ascent - East Slope: Sandy Dutcher (wearing long dress)<br>
+  1919: Sierra Club donates funds to install first cables on the East Slope<br>
+  1933: CCC begins work in YNP including replacing cables on the East Slope<br>
+  1946: FA - Southwest Face: John Salathe, Ax Nelson<br>
+  1957: FA - Northwest Face (VI 5.12): Royal Robbins (first grade VI climb in America)<br>
+  1963: FA -  Direct Northwest Face (5.13c/d): Royal Robbins<br>
+  1965: FA - <a href="http://www.summitpost.com/mountains/route_link.pl/route_id/79/object_id/221">Snake Dike</a> (5.7 R): Eric Beck, Jim Bridwell, Chris Fredericks<br>
+    <!--1967: First Female Ascent - Northwest Face: Liz Robbins<br />
+  1969: FA - Northwest Buttress (IV 5.8 A3): Andy Embick, Bob Jensen<br />
+  1969: FA - Tis-sa-ack (VI 5.10 A3): Royal Robbins, Don Peterson<br />
+  1970: FA - Arcturas (VI 5.7 A4): Royal Robbins, Dick Dorworth<br />
+  1970: FA - South Face (VI 5.8 A3): Warren Harding, Galen Rowell<br />
+  1972: FA - Lost Again (VI 5.10 A3+): Eric Kohl<br />
+-->  1973: FCA - Northwest Face: Dennis Hennek, Bob Roney and Gallen Rowell in 3 days. Mostly likely the first clean big wall climb and remained the standard for many years. (Ref: <a href="http://www.summitpost.org/mountains/user_link.pl?user_id=569">JScoles</a>).<br>
+  <!-- 1977: FA - Bushido (VI 5.10 A4): Jim Bridwell, Dale Bard<br />
+  1978: FA - Zenith (VI 5.9 A4): Jim Bridwell, Kim Schmitz<br />
+  1980: FFA - Northwest Face: Leonard Coyne<br />
+-->  1982: First Night BASE Jump: Rick Harrison and brother<br>
+  <!--1983: FA - Artic Sea (VI 5.10 A4) Duane Raleigh, Tom Cosgriff<br />
+  1984: FA - Queen of Spades (VI 5.9 A4): Charles Cole<br />
+  1985: FA - Autobahn (5.11+): Charles Cole, Rusty Reno, John Middendorf<br />
+  1986: FA - The Fast Lane (5.11+): Dimitri Barton, Scott Burke, Chris Hash<br />
+  1986: FA - Karma (5.11d A0): Dave Schultz, Ken Yager, Jim Campbell<br />
+  1986: FA - Same as it Never Was (VI 5.11b A4): Jay Smith, Karl McConachie, Randy Grandstaff<br />
+  1987: FA - The Big Chill (VI): Jim Bridwell, Peter Mayfield, Sean Plunkett, Steve Bosque<br />
+  1988: FA - Dreamscape (5.11+): Scott Burke, Tory Elbrader, Jeff Folett<br />
+  1988: FFA - Southern Belle (V 5.12): Dave Schultz, Scott Cosgrove<br />
+  1988: FA - White Room (VI 5.10 A4): Walt Shipley, Sean Plunkett<br />
+  1989: FA - Jet Stream (VI 5.9 A4): Sean Plunkett, Bill Russell<br />
+  1989: FA - Kali Yuga (VI 5.10 A4): John Middendorf, Walt Shipley<br />
+  1989: FA - Promised Land (VI 5.10 A4): Kevin Fosburg, Jeff Hornibrook, Troy Johnson<br />
+  1989: FA - Shadows (VI A5): Jim Bridwell, Cito Kirkpatrick, Charlie Row, Billy Westbay<br />
+  1992: FFA - Direct Northwest Face: Todd Skinner, et al.<br />
+  1999: FA - Repo Man: Eric George, Bryan Law<br />
+  1999: FA - Solitary Confinement: Eric George<br />
+  1999: FA - White Trash Vacation: Eric George, Eric Coomer<br />
+-->  2000: First Snowboard Descent - East Slope: Jim Zellers  </p>
+<p>  ????: First One Day Solo - Direct Northwest Face: Steve Schneider<br>
+  ????: First One Day Solo - Northwest Face: Mark Blanchard<br>
+  ????: First Solo Ascent - Zenith: Sean Plunkett<br>
+  ????: First Solo Ascent - South Face: Walt Shipley<br>
+  ????: First Solo Ascent - Tis-sa-ack: Walt Shipley<br>
+<br>
+More information is available at <a href="http://www.summitpost.org/user_page.php?user_id=20576">xharv</a>'s <a href="http://highwire.org/~galic/stanford/halfdome/">Chronicles of Early Ascents of Half Dome</a> page.<a name="chapter_11"></a></p>
+<h2>How It Got Its Name</h2>From <a href="http://www.summitpost.com/mountains/user_link.pl?user_id=370">snwburd</a>:  <p>  The Mariposa Battalion had named North Dome, Half Dome, and South Dome, the latter applied to what is now Sentinel Dome. The name South Dome was latter transferred to Half Dome, and then later still it reverted to Half Dome. South Dome was then given to what is now Mount Starr King before dropping from use altogether.   </p>
+<p>  EXCERPT: The following is an excerpt from: ERWIN GUDDE, "<a href="http://www.amazon.com/exec/obidos/ASIN/0520213165/summitpost-20">California Place Names</a>," 1998, ISBN: 0520213165 (Ref: <a href="http://www.summitpost.com/mountains/user_link.pl?user_id=370">snwburd</a>):  </p>
+<p>  "The name was given by the Mariposa Battalion in 1851 to the split mountain that is also known as South Dome."   </p>
+<p>  EXCERPT: The following are two excerpts from: FRANCIS P. FARQUHAR, "<a href="http://www.amazon.com/exec/obidos/ASIN/0520015517/summitpost-20">History of the Sierra Nevada</a>," 1989, ISBN: 0520015517 (Ref: <a href="http://www.summitpost.com/mountains/user_link.pl?user_id=370">snwburd</a>):  </p>
+<p>  "Name given by Bunnel and the Mariposa Battalion at the time of their visits and remaining unchanged are Mirror Lake, Clouds Rest, Little Yosemite, Yosemite Falls, Vernal Falls, Nevada Fall, Three Brothers, El Capitan, and Tenaya Lake (except for spelling)."   </p>
+<p>  "The great Half Dome in Yosemite Valley had been pronounced by Professor Whitney in his most pontifical manner to be 'perfectly inaccessible.' 'It never will be trodden by human foot.' he added. He weakened a little, however, when an attempt to climb it nearly succeeded, and introduced 'perhaps' in a new edition of his Yosemite Guide-Book. John Muir gives a lively account of this attempt. 'John Conway, a resident of the Valley, has a flock of small boys who climb smooth rocks like lizards. He sent them up the Dome with a rope, hoping they might be able to fasten it with spikes driven into fissures, and thus reach the top. They took the rope in tow and succeeded in making it fast two or three hundred feet above the point ordinarily reached, but finding the upper portion of the curve impracticable without laboriously drilling into the rock, he called down his lizards, thinking himself fortunate in effecting a safe retreat.' Sound mountaineering on the part of Mr. Conway!   </p>
+<p>  It remained for another resident of the Valley, George C. Anderson, whom Muir was happy to acknowledge as a fellow Scot, to complete the climb and be the first to set foot upon the summit of Half Dome. 'Anderson began with Conway's old rope,' says Muir, 'and resolutely drilled for the next above. Occasionally some irregularity in the curve or slight foothold would enable him to climb fifteen or twenty feet independently of the rope, which he would pass and begin drilling again, the whole thing accomplished in a few days.' Muir himself hastened to be among the first to follow. 'Our first winter storm had bloomed,' he writes, 'and all the mountains were mantled with fresh snow. I was therefore a little apprehensive of danger from the slipperiness of the rock, Anderson refusing to believe that anyone could climb his rope in the condition it was then in.' But Muir went up, alone, and 'gained the top without the slightest difficulty.' In characteristic fashion he goes on to describe the view and particularly the botany. Spiraea and Pentstemon were there, and several species of grasses and sedges. There were three species of pines, 'repressed and storm beaten.' He never gets around to telling us how he got down, but it may be presumed that he did not spend the night there.   </p>
+<p>  Others soon followed, including 'four English gentlemen, then sojourning in the Valley. A day or two afterwards, Miss S. L. Dutcher, of San Francisco, with the courage of a heroine, accomplished it, and was the first lady that ever stood upon it.' There were other early ascents of Half Dome, and there is one that deserves special mention, for it introduces an advance upon Clarence King's riata method. During the winter of 1883-1884 ice and snow had carried away most of Anderson's rope and some of his eyebolts. 'Just after sunset, one evening of the ensuing summer,' writes Hutchings, 'every resident of the Valley, familiar with the fact of the ropes removal, was startled by the sight of a blazing fire upon the crest of the Dome.' It turned out that two young men had made the perilous climb. One of them, Alden Sampson of New York, a few days later gave Hutchings a vivid account of their experiences; the other Phimister Proctor, of Colorado, writing sixty years afterwards, added some interesting details. To read the whole story leaves one limp with vicarious fatigue, as may be conceived from the following abridgement: 'I made the climb barefoot,' says Proctor. 'Sampson had nailed boots. I was a pretty fair hand with a lariat, so, tying a loop on a lash rope, I made a throw. After several false pitches I got the range. As we proceeded we found that some of the pins had been bent and were difficult to rope. Often my loop would roll over a ring twenty times before I caught it. Several of the pins pulled out when I put my weight on the rope. When I reached a pin I would climb up on it, leaning against the wall of the mountain, and hook my big toe over the pin.' Now let Sampson take up the tale: 'After a while we came to a clean stretch of a hundred feet where every pin had been carried away; yet at this point a difficult corner of the ledge had to be turned. In the hardest place of all, a little bunch of dwarf Spiraea, six or eight inches high, which was growing in a crevice, gave me friendly assistance.' At the end of the first day they had made but half the distance. The second day was even more perilous than the first, but they made the top at last and just at sunset built the fire that was seen from below. 'Relunctantly we left,' writes Proctor, 'slid down the cable and reached safety just at dark.' "<br>
+<a name="chapter_12"></a></p>
+<h2>External Links</h2>
+<ul>
+<li>
+<a href="http://www.outsidemag.com/magazine/200011/200011disp10.html">Jim Zellers' First Snowboard Descent of Half Dome</a><br>
+ Outside Online's article and photo of this amazing feat. Ascent made with ice axe and crampons.<br>
+</li>
+<li>
+<a href="http://www.yosemite.org/vryos/index.htm">Half Dome Cam</a><br>
+ This is a camera on Turtle Back Dome aimed at Half Dome with El Capitan and part of the Valley in View. The picture updates every few minutes.<br>
+</li>
+<li>
+<a href="http://www.dankat.com/swhikes/hadome.htm">C.E.Brennen's account of climbing Half Dome</a><br>
+ <br>
+</li>
+<li>
+<a href="http://www.dankat.com/swhikes/hadome.htm">C.E.Brennen's account of climbing Half Dome</a><br>
+ <br>
+</li>
+<li>
+<a href="http://www.snwburd.com/bob/trip_reports/half_dome_1.html">A speedclimb of Half Dome - Aug 1, 1998</a><br>
+ <br>
+</li>
+<li>
+<a href="http://www.snwburd.com/bob/trip_reports/half_dome_2.html">The climber's route from Mirror Lake - Sept 12, 1999</a><br>
+ <br>
+</li>
+<li>
+<a href="http://www.snwburd.com/bob/trip_reports/half_dome_3.html">A winter attempt - Feb 25, 2000</a><br>
+ <br>
+</li>
+<li>
+<a href="http://www.snwburd.com/bob/trip_reports/half_dome_4.html">Another winter attempt - Dec 18, 2001</a><br>
+ <br>
+</li>
+<li>
+<a href="http://www.snwburd.com/bob/trip_reports/half_dome_5.html">Snake Dike - May 18, 2002</a><br>
+ <br>
+</li>
+<li>
+<a href="http://www.snwburd.com/bob/trip_reports/half_dome_6.html">The Slabs route - Oct 18, 2002</a><br>
+ <br>
+</li>
+<li>
+<a href="http://www.uc-hiking-club.berkeley.ca.us/reports/Heyning4.html">Half Dome cross-country ascent from Mirror Lake</a><br>
+ <br>
+</li>
+<li>
+<a href="http://www.snwburd.com/bob/trip_reports/half_dome_7.html">Snake Dike - March 8, 2003</a><br>
+ <br>
+</li>
+<li>
+<a href="http://bubl.ac.uk/org/tacit/tac/tac59/halfdome.htm">Half Dome trip July 2003</a><br>
+ <br>
+</li>
+<li>
+<a href="http://divisionoflabour.com/archives/001226.php">Half Dome via cables, May 15, 2005</a><br>
+ <br>
+</li>
+<li>
+<a href="http://www.yosemitehikes.com/yosemite-valley/half-dome/half-dome.htm">good external primer on The Cables</a><br>
+<br>
+</li>
+</ul>                                                              <div align="center">
+<a name="messages"></a><a name="chapter_13"></a><h2>Additions and Corrections</h2>[ <a href="/object_discussion.php?type=vote_comments&amp;object_id=150378&amp;is_addition=1#vote_form">Post an Addition or Correction</a> ]<table cellpadding="0" cellspacing="0" style="width: 775px;"><tr><td><table cellpadding="2" cellspacing="2" width="100%"><tr>
+<td align="left"><span class="pagertext">Viewing: <b>1</b>-<b>3</b> of <b>3</b></span></td>
+<td align="center"></td>
+<td align="right">    </td>
+</tr></table></td></tr></table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="119714"></a> <a class="dis_user_lnk" href="/users/kayak22/741">kayak22</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Untitled Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;"><p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p></td>
+<td colspan="2" style="padding-top: 6px;">In 1881, 2 young Americans, on a whim, scaled half dome using just a rope and sheer nerve. The cable there<br><br><br>today is evidence of their success. This story is from the book "Sculptor in Buckskin" as told by Alexander<br><br><br>Phimster Proctor. http://www.frontier.net/~merryeye/ours.html<br><br><br><br><br><br>Alden Sampson was my great-great-grandfather.</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Jan 2, 2002 8:48 pm</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="121940"></a> <a class="dis_user_lnk" href="/users/otalison/29612">otalison</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Untitled Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;"><p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p></td>
+<td colspan="2" style="padding-top: 6px;">Id recommend that you start early (5am ish). By noon there is an hour wait to climb the cables (see pics, it was just like that when we went). Nothing takes the  wind out of your sails on a pretty day in the outdoors like standing in line!</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Dec 31, 2005 12:11 am</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="217983"></a> <a class="dis_user_lnk" href="/users/jomagam/26000">jomagam</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>5.4 ?</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/jomagam/26000"><img alt="jomagam" width="50" height="50" border="0" src="/images/avatars/313152.jpg"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">Is the cables route really 5.4 without the cables ? It seemed way more difficult than that. </td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Sep 6, 2007 12:30 pm</span></td></tr>
+</table>
+<br><table border="0" width="775"><tr><td><table cellpadding="2" cellspacing="2" width="100%"><tr>
+<td align="left"><span class="pagertext">Viewing: <b>1</b>-<b>3</b> of <b>3</b></span></td>
+<td align="center"></td>
+<td align="right">    </td>
+</tr></table></td></tr></table>
+<br>
+</div>
+<a name="chapter_14"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/the-pink-hour-over/40707/c-150378"><img alt='The "pink hour" over...' src="/images/square/40707.jpg"></a></td>
+<td><a href="/half-dome-and-glacier-point/320487/c-150378"><img alt="Half Dome and Glacier Point" src="/images/square/320487.jpg"></a></td>
+<td><a href="/half-dome-from-glacier-point/36508/c-150378"><img alt="Half Dome from Glacier Point,..." src="/images/square/36508.jpg"></a></td>
+<td><a href="/half-dome-and-yosemite-valley/232888/c-150378"><img alt="Half Dome and Yosemite Valley" src="/images/square/232888.JPG"></a></td>
+<td><a href="/half-dome-and-liberty-cap/117957/c-150378"><img alt="Half Dome and Liberty Cap..." src="/images/square/117957.JPG"></a></td>
+<td><a href="/bivy-on-big-sandy-ledge/253001/c-150378"><img alt="Bivy on Big Sandy Ledge" src="/images/square/253001.JPG"></a></td>
+<td><a href="/yosemite-falls-and-half-dome/451287/c-150378"><img alt="Yosemite Falls and Half Dome" src="/images/square/451287.JPG"></a></td>
+</tr>
+<tr>
+<td><a href="/half-dome/215414/c-150378"><img alt="Half Dome" src="/images/square/215414.jpg"></a></td>
+<td><a href="/not-a-waterfall-but-an/45307/c-150378"><img alt="Not a waterfall, but an..." src="/images/square/45307.JPG"></a></td>
+<td><a href="/half-dome-and-clouds-rest/342410/c-150378"><img alt="Half Dome and Clouds Rest" src="/images/square/342410.jpg"></a></td>
+<td><a href="/approaching-the-cables/117958/c-150378"><img alt="Approaching the cables." src="/images/square/117958.JPG"></a></td>
+<td><a href="/half-dome-before-sunrise/401532/c-150378"><img alt="Half Dome before sunrise" src="/images/square/401532.jpg"></a></td>
+<td><a href="/these-two-germans-slept-on/142859/c-150378"><img alt="These two Germans slept on..." src="/images/square/142859.jpg"></a></td>
+<td><a href="/a-view-of-the-seldom-seen/31927/c-150378"><img alt=" A view of the seldom-seen..." src="/images/square/31927.jpg"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/half-dome/images/p-150378">View Gallery - 631 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty:  
+elevation: 8842 
+grade:  
+id: 150378 
+latitude: 37.7461 
+location: California, United States, North America 
+longitude: -119.5319 
+my_route_quality:  
+name: Half Dome 
+number_of_pitches:  
+page_url: http://www.summitpost.org/half-dome/150378 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons:  
+time_required:  
+type: Mountain-Rock 
+

@@ -1,0 +1,47 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Approach</h2>
+<br>
+The Sawmill Pass Trail is the most common approach for this climb. Starting from the trailhead on Division Creek Rd follow the trail as it climbs up the East slope of Sawmill Point. This section is characteristically hot and dry, so bring lots of water. There is NO shade until you reach 7200ft. The trail climbs continuously until it reaches the ridgeline, then drops 200ft down to the "Hogsback". You are now in Sawmill Canyon, which is appropriately named for the pine forests it holds. You'll climb up the Hogsback for several miles to Sawmill Meadow. There are several creek crossings all of which are easy, though in the early season the trail often floods in numerous spots so be ready for mud. Once at Sawmill Meadow the Canyon begins to open up, and you climb a bit steeper up to Mule Lake then Sawmill Lake. The best camping spots are near Sawmill Meadow and at 9500ft before Mule Lake. After you pass Sawmill Lake it is only a little over 1000ft to the pass, on mostly rocky terrain so very few camping opportunities. The pass comes up very quickly, once there drop 400ft down the West side toward the basin to the right of the trail. Cedric Wright dominates the skyline once you top out on the pass. Stay to the right side of the basin and follow the valley the runs to the East of the lakes.  This brings you to the saddle between Cedric Wright and Colosseum, the start of this route.<br>
+Time Required is from the Woods Lake Basin, not the trail head.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr><td><a href="/view_object.php?object_id=115937" rel="no_follow"><img src="/images/thumb/115937.JPG"></a></td></tr></table>
+<a name="chapter_2"></a><h2>Route Description</h2>
+<br>
+<a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__169139__object_id__5220__type__mountain__mountain_id__5220__route_id____user_id____order_by____limit__">TOPO!</a><br>
+From the saddle the ridge lies to your left or West. It is best to traverse 20ft to the right(North) to gain the ridge. The first part of the ridge is solid class 3 blocks and steps. The scramble is very straight forward, follow the ridge as it twists from North to West.  The first several hundred feet follow very solid granite and the exposure is minimal. After surmounting the first section the direct ridge is mostly class 2. At 3700m traverse South around a small false summit, the scenery then changes to dark volcanic rock. Follow the ridgeline, the only difficulty is a pinnacle 1/3 of the way up this final ridge. It can be traversed around on the East side(class 2) or climbed directly over(class 3).  Once around this pinnacle follow the ridgeline to the far South end where the summit block lies.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr><td><a href="/view_object.php?object_id=115941" rel="no_follow"><img src="/images/thumb/115941.JPG"></a></td></tr></table>
+<a name="chapter_3"></a><h2>Essential Gear</h2>
+<br>
+No technical gear needed during normal summer climbing months. In early season or winter ice axe and crampons would be required for the hike up Sawmill Pass and for the summit ridgeline. The lower class 3 section may be covered with ice during early season so proceed with caution. Several summit logs mentioned skiing off the peak as another winter option.<br>
+<a name="chapter_4"></a><h2>Miscellaneous Info</h2>
+<br>
+If you have information about this route that doesn't pertain to any of the other sections, please add it here.<br>
+<a name="chapter_5"></a><h2>Images</h2>
+<div align="center"><table id="my_images"><tr>
+<td><a href="/morning-light-on-cedric/115937/c-165924"><img alt="Morning light on Cedric..." src="/images/square/115937.JPG"></a></td>
+<td><a href="/class-3-nw-ridge-route-from/115941/c-165924"><img alt="Class 3 NW ridge route from..." src="/images/square/115941.JPG"></a></td>
+<td><a href="/mt-cedric-wright-routes-photo-topo/667432/c-165924"><img alt="Mt Cedric Wright Routes (Photo Topo)" src="/images/square/667432.jpg"></a></td>
+</tr></table></div>
+            </article> 
+date:  
+difficulty: Class 3 
+elevation:  
+grade:  
+id: 165924 
+latitude: 36.9039 
+location: California, United States, North America 
+longitude: -118.3878 
+my_route_quality:  
+name: NE Ridge from Cedric/Colosseum saddle 
+number_of_pitches:  
+page_url: http://www.summitpost.org/ne-ridge-from-cedric-colosseum-saddle/165924 
+rock_difficulty:  
+route_quality: 0.0 
+route_type: Scramble 
+seasons:  
+time_required: Half a day 
+type: Route 
+

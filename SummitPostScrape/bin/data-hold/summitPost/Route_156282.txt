@@ -1,0 +1,60 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Approach</h2>
+<br>
+Use the 2.7 mile YDS class 1 <a href="http://www.summitpost.com/mountains/route_link.pl/route_id/505/object_id/832">Crags Trail</a> (aka Castle Dome Trail). When you get to the plateau you will see Castle Dome. Just walk over to <a href="http://www.summitpost.com/mountains/photo_link.pl?photo_id=9950&amp;object_id=832&amp;type=mountain&amp;mountain_id=832&amp;route_id=">the base / shoulder</a>.<br>
+<a name="chapter_2"></a><h2>Route Description</h2>
+<br>
+Once you get to the shoulder, you can prepare for the more technical portion of this climb / scramble. It seems like most people will rope up for this climb, however, it's easy enough that many people would do a running belay to save time or just go solo.<p><font style="font-weight:bold;">Part 1</font> (Class 2-3) The first portion of the climb just climbs up a 30° ramp with two switchbacks as seen in <a href="http://www.summitpost.com/mountains/photo_link.pl?photo_id=9950&amp;object_id=832&amp;type=mountain&amp;mountain_id=832&amp;route_id=507">this photo</a>. The topmost diagonal follows a prominent quartzite vein in the rock.</p>
+<p><font style="font-weight:bold;">Part 2</font> (Class 2+) Once you get to the top traverse around the east side and you will come to "<a href="http://www.summitpost.com/mountains/photo_link.pl?photo_id=9951&amp;object_id=832&amp;type=mountain&amp;mountain_id=832&amp;route_id=507">the dish</a>" a 10 foot wide tilted, shallow bowl in the rock. Crossing the dish normally isn't an issue because the rock is solid here with good grip, however, if you did happen to fall about 10 feet down, you'll find yourself falling over a ledge and there's a long way to go before you hit bottom. A belay here is nice for some people. There's a tree about 5 feet away from the far end of the dish that you can use as an anchor.</p>
+<p><font style="font-weight:bold;">Part 3</font> (Class 3-) Once you get across the dish, you will see <a href="http://www.summitpost.com/mountains/photo_link.pl?photo_id=9946&amp;object_id=832&amp;type=mountain&amp;mountain_id=832&amp;route_id=507">the gully</a> to your left. Climb the gully which will end at a small flat area between the rocks.</p>
+<p><font style="font-weight:bold;">Part 4</font> (Class 4-): You have two choices now. You can either climb "the stairs" or a gently sloping rock face with numerous holds (similar to chickenheads). There's one or two ledges before you get to the summit. There's more air on "the stairs" variation which is fun to use on the ascent, however, less experienced climbers will feel more comfortable taking the rock slabs down to the top of the gully. Here are photos <a href="http://www.summitpost.com/mountains/photo_link.pl?photo_id=9954&amp;object_id=832&amp;type=mountain&amp;mountain_id=832&amp;route_id=507">looking up the stairs</a> and <a href="http://www.summitpost.com/mountains/photo_link.pl?photo_id=9953&amp;object_id=832&amp;type=mountain&amp;mountain_id=832&amp;route_id=507">looking down the stairs</a>. At the top of "the stairs" there's another small tree where you can anchor in.</p>
+<p>This should get you to the top but I should probably go back and do this another time to verify ;-) <br>
+</p>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=5731" rel="no_follow"><img src="/images/thumb/5731.jpg"></a></td>
+<td><a href="/view_object.php?object_id=5730" rel="no_follow"><img src="/images/thumb/5730.jpg"></a></td>
+<td><a href="/view_object.php?object_id=5728" rel="no_follow"><img src="/images/thumb/5728.jpg"></a></td>
+<td><a href="/view_object.php?object_id=5724" rel="no_follow"><img src="/images/thumb/5724.jpg"></a></td>
+<td><a href="/view_object.php?object_id=5729" rel="no_follow"><img src="/images/thumb/5729.jpg"></a></td>
+</tr></table>
+<a name="chapter_3"></a><h2>Essential Gear</h2>
+<br>
+Vibram-soled hiking boots (or similar).<p>Some climbers may want a rope to do a running belay. Only a light rack is necessary, a few small cams and passive pro pieces, slings (for trees - above the dish and above the stairs), and quickdraws.</p>
+<p>During the winter months, snowshoes and poles are useful for the approach.<br>
+<a name="chapter_4"></a></p>
+<h2>Miscellaneous Info</h2>
+<br>
+If you have information about this route that doesn't pertain to any of the other sections, please add it here.<br>
+<a name="chapter_5"></a><h2>Images</h2>
+<div align="center"><table id="my_images"><tr>
+<td><a href="/castle-dome-from-the-plateau/5728/c-156282"><img alt="Castle Dome from the plateau..." src="/images/square/5728.jpg"></a></td>
+<td><a href="/george-center-and-randy-in/5724/c-156282"><img alt="George (center) and Randy in..." src="/images/square/5724.jpg"></a></td>
+<td><a href="/here-i-am-ascending-the/5730/c-156282"><img alt="Here I am ascending the..." src="/images/square/5730.jpg"></a></td>
+<td><a href="/randy-leading-the-stairs/5731/c-156282"><img alt='Randy leading the "stairs"...' src="/images/square/5731.jpg"></a></td>
+<td><a href="/playing-around-on-the-slabs/94951/c-156282"><img alt="Playing around on the slabs..." src="/images/square/94951.JPG"></a></td>
+<td><a href="/looking-up-the-regular-route/292036/c-156282"><img alt='Looking up the "Regular Route"' src="/images/square/292036.JPG"></a></td>
+<td><a href="/not-the-best-photo-of-the/5729/c-156282"><img alt="Not the best photo of the..." src="/images/square/5729.jpg"></a></td>
+</tr></table></div>
+            </article> 
+date:  
+difficulty: YDS Class 4- 
+elevation:  
+grade:  
+id: 156282 
+latitude: 41.175 
+location: California, United States, North America 
+longitude: -122.3256 
+my_route_quality:  
+name: Regular Route 
+number_of_pitches:  
+page_url: http://www.summitpost.org/regular-route/156282 
+rock_difficulty:  
+route_quality: 0.8923076923076924 
+route_type: Rock / Scramble 
+seasons:  
+time_required: Less than two hours 
+type: Route 
+

@@ -1,0 +1,129 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Approach</h2>
+<br>
+Drive 2.85 miles up from the neon sign. You can either park on one of the pullouts on the right side of the road, or park in the Storm Mountain picnic ground ($4.00) on the left side of the road. The entrance says that it costs $2 to use the area for any reason, but I'm not sure if this applies to climbers rather than just picnickers. The host has never said anything as I've walked by, and I've never seen climbers paying fees.   <p>  <b>East Face:</b> Cross the bridge and follow the pathways left. Continue off the paths following some climbers trails to the base of the cliffs. From here, the routes can be accessed by just traveling along the cliffs.  </p>
+<p>  <b>North Face Left:</b>Same as East Face approach, but head slightly right before leaving the asphalt.  </p>
+<p>  <b>North Face Right:</b>Follow the asphalt pathways to the right until you see an open amphitheater. The climbs are located on the cliffs above the seating.<br>
+</p>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=107628" rel="no_follow"><img src="/images/thumb/107628.jpg"></a></td>
+<td><a href="/view_object.php?object_id=107629" rel="no_follow"><img src="/images/thumb/107629.jpg"></a></td>
+<td><a href="/view_object.php?object_id=107632" rel="no_follow"><img src="/images/thumb/107632.jpg"></a></td>
+</tr></table>
+<a name="chapter_2"></a><h2>Route Description</h2>
+<br>
+These are popular climbing areas due to their shady bottoms and proximity to the Storm Mountain picnic ground. The Wasatch Mountain Club often climbs here on Thursdays, and in the past these climbs were accompanied by the club's infamous beer and burger social. For $1 climbers could help themselves. Alas, this is no more. The island has some good sport routes offering face climbs, and a collection of moderate crack climbs.  <p>  Another nice thing about climbing here is that if a route is taken, one only needs to walk a couple of minutes to look for free routes on the cliffs across the field to the north, such as <a href="http://www.summitpost.org/show/route_link.pl/route_id/5578/object_id/4933">Static Wall &amp; Reservoir Alcove</a>.  </p>
+<p>  Another thing to consider is the noise from the river below - it can be nearly impossible to communicate with your partner on a climb. 2-way radios would be reccommended to avoid this problem.   </p>
+<p>  </p>
+<table border="1" cellspacing="0"><tr><td>  <table border="0" cellspacing="2" cellpadding="2">    <tr bgcolor="#c0c0c0"><td colspan="5"><font style="font-weight:bold;">ROUTES OVERVIEW</font></td></tr>  <tr>  <td align="center"><font style="font-weight:bold;">Route</font></td>  <td align="center"><font style="font-weight:bold;">Difficulty</font></td>  <td align="center"><font style="font-weight:bold;">Rating</font></td>  <td align="center"><font style="font-weight:bold;">FA</font></td>  <td align="center"><font style="font-weight:bold;">Trad/Sport</font></td>    </tr>
+<tr bgcolor="#c0c0c0"><td colspan="5"><font style="font-weight:bold;">Storm Mountain Island - East Face</font></td></tr>    <tr>  <td>Nice Little Crack</td>  <td align="center">5.5</td>  <td align="center"><img src="http://www.summitpost.org/images/stara.gif"></td>  <td>Unknown</td>  <td align="center">Tr</td>
+</tr>    <tr>  <td bgcolor="#e0e0e0">Storm Mountain Stupor</td>  <td bgcolor="#e0e0e0" align="center">5.5</td>  <td bgcolor="#e0e0e0" align="center"><img src="http://www.summitpost.org/images/stara.gif"></td>  <td bgcolor="#e0e0e0">Unknown</td>  <td bgcolor="#e0e0e0" align="center">Tr</td>
+</tr>    <tr>  <td>Le Creme De Shorts</td>  <td align="center">5.9</td>  <td align="center">
+<img src="http://www.summitpost.org/images/stara.gif"><img src="http://www.summitpost.org/images/stara.gif">
+</td>  <td>Unknown</td>  <td align="center">Tr</td>
+</tr>    <tr>  <td bgcolor="#e0e0e0"><a href="#four">Layback Crack</a></td>  <td bgcolor="#e0e0e0" align="center">5.5</td>  <td bgcolor="#e0e0e0" align="center">
+<img src="http://www.summitpost.org/images/stara.gif"><img src="http://www.summitpost.org/images/stara.gif">
+</td>  <td bgcolor="#e0e0e0">Unknown</td>  <td bgcolor="#e0e0e0" align="center">Tr</td>
+</tr>    <tr bgcolor="#c0c0c0"><td colspan="5"><font style="font-weight:bold;">Storm Mountain Island - North Face (Left Side)</font></td></tr>    <tr>  <td>Goodro's Wall</td>  <td align="center">5.10c</td>  <td align="center">
+<img src="http://www.summitpost.org/images/stara.gif"><img src="http://www.summitpost.org/images/stara.gif"><img src="http://www.summitpost.org/images/stara.gif">
+</td>  <td>Unknown</td>  <td align="center">Tr</td>
+</tr>    <tr>  <td bgcolor="#e0e0e0">Closing The Gap Variation</td>  <td bgcolor="#e0e0e0" align="center">5.12d</td>  <td bgcolor="#e0e0e0" align="center"><img src="http://www.summitpost.org/images/stara.gif"></td>  <td bgcolor="#e0e0e0">1989, Drew Bedford</td>  <td bgcolor="#e0e0e0" align="center">Tr</td>
+</tr>    <tr>  <td>Generation Gap</td>  <td align="center">5.12b</td>  <td align="center"><img src="http://www.summitpost.org/images/stara.gif"></td>  <td>1988, John Storm, Stuart Ruckman, &amp; Gordon Douglas</td>  <td align="center">Tr</td>
+</tr>    <tr>  <td bgcolor="#e0e0e0"><a href="#eight">Six Appeal</a></td>  <td bgcolor="#e0e0e0" align="center">5.6</td>  <td bgcolor="#e0e0e0" align="center">
+<img src="http://www.summitpost.org/images/stara.gif"><img src="http://www.summitpost.org/images/stara.gif">
+</td>  <td bgcolor="#e0e0e0">1989, Vicki &amp; Brian Smoot</td>  <td bgcolor="#e0e0e0" align="center">Sp</td>
+</tr>    <tr>  <td><a href="#nine">Epic Wall</a></td>  <td align="center">5.5</td>  <td align="center"><img src="http://www.summitpost.org/images/stara.gif"></td>  <td>Unknown</td>  <td align="center">Tr</td>
+</tr>    <tr>  <td bgcolor="#e0e0e0"><a href="#ten">Six Pence</a></td>  <td bgcolor="#e0e0e0" align="center">5.6</td>  <td bgcolor="#e0e0e0" align="center"><img src="http://www.summitpost.org/images/stara.gif"></td>  <td bgcolor="#e0e0e0">Unknown</td>  <td bgcolor="#e0e0e0" align="center">Sp</td>
+</tr>    <tr>  <td>Bolt Route</td>  <td align="center">5.4</td>  <td align="center"></td>  <td>Unknown</td>  <td align="center">Sp/Tr</td>
+</tr>    <tr bgcolor="#c0c0c0"><td colspan="5"><font style="font-weight:bold;">Storm Mountain Island - North Face (Right Side)</font></td></tr>    <tr>  <td bgcolor="#e0e0e0"><a href="#twelve">The Flake</a></td>  <td bgcolor="#e0e0e0" align="center">5.5</td>  <td bgcolor="#e0e0e0" align="center"><img src="http://www.summitpost.org/images/stara.gif"></td>  <td bgcolor="#e0e0e0">Unknown</td>  <td bgcolor="#e0e0e0" align="center">Tr</td>
+</tr>    <tr>  <td>Padded Cell</td>  <td align="center">5.12a or 5.12c</td>  <td align="center">
+<img src="http://www.summitpost.org/images/stara.gif"><img src="http://www.summitpost.org/images/stara.gif">
+</td>  <td>1987, Drew Bedford</td>  <td align="center">Sp</td>
+</tr>    <tr>  <td bgcolor="#e0e0e0">Amphitheater Overhang Left</td>  <td bgcolor="#e0e0e0" align="center">5.12d</td>  <td bgcolor="#e0e0e0" align="center"><img src="http://www.summitpost.org/images/stara.gif"></td>  <td bgcolor="#e0e0e0">1964, Royal Robbins</td>  <td bgcolor="#e0e0e0" align="center">Sp/Tr</td>
+</tr>    <tr>  <td>Amphitheater Overhang Right</td>  <td align="center">A1</td>  <td align="center"></td>  <td>Unknown</td>  <td align="center">Sp</td>
+</tr>    <tr>  <td bgcolor="#e0e0e0">Thin Slice of Time</td>  <td bgcolor="#e0e0e0" align="center">5.10c</td>  <td bgcolor="#e0e0e0" align="center"><img src="http://www.summitpost.org/images/stara.gif"></td>  <td bgcolor="#e0e0e0">Lynn Wheeler</td>  <td bgcolor="#e0e0e0" align="center">Tr</td>
+</tr>    <tr>  <td>Big In Japan</td>  <td align="center">5.12b</td>  <td align="center">
+<img src="http://www.summitpost.org/images/stara.gif"><img src="http://www.summitpost.org/images/stara.gif">
+</td>  <td>1987, Drew Bedford &amp; Dana Hauser</td>  <td align="center">Sp</td>
+</tr>    <tr><td colspan="5"><small><i>Route overview information used from Stuart &amp; Bret Ruckman's <a href="http://www.amazon.com/exec/obidos/ASIN/0762727306/summitpost-20/103-3515982-7251006">Rock Climbing the Wasatch Range</a>. In depth information is from personal experience</i></small></td></tr>  </table>  </td></tr></table>  <a name="four"><br>
+</a><a name="chapter_3"></a><h2>Layback Crack - 5.5</h2>
+<br>
+A fun 2.5 pitch climb. To reach it, go left on the pathways beyond the bridge. They end at a picnic table beside the creek. Climb up on some ledges and traverse over to a spot at the base of a dihedral large enough to belay from. The climb starts here. The crack going up the left face of the dihedral is the 5.9 Le Creme De Shorts, which can be top-roped after climbing the first pitch of Layback Crack. If you climb around to the left of the dihedral, this is the high water route for reaching two other good <a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__157972__object_id__4933__type__mountain__mountain_id__4933__route_id____user_id____order_by____limit__">5.5 climbs</a> - 'Nice Little Crack' and 'Storm Mountain Stupor'.  <p>  Note: This climb is right above the Big Cottonwood Canyon Stream. As such, the noise of the rapids drowns out any communication between climber and belayer. 2-way radios would be recommended for communicating on this climb.  </p>
+<p>  <b>Pitch #1:</b> Climb straight up the dihedral. The crack takes gear well, and the rock forces you to layback on the crack while smearing on the wall. At the top of the dihedral, work your way left.  At the top one needs to do a few mantle moves to reach the belay ledge, which has bolted chains.  </p>
+<p>  <b>Pitch #2:</b> This pitch is easy, but rope drag and runouts are a bit of an issue. While I'm not sure if this is the proper way, I climbed this pitch by leaving the crack, winding my way to the left of some horns, and then traversing back to the crack beneath a roof, straightening out the rope here. The roof is the first place that takes good pro (some 25 ft above the belay station, via class 3 scrambling). Surmount the rood (5.4), and climb around a large flake, reaching another nice belay ledge with bolted chains on the left.  </p>
+<p>  <b>Pitch #2.5:</b>This pitch is straightforward and only about 20 ft. Just climb up and to the right through a gap (cl. 3-4). Once at the top, you can clamber over some large boulders by some scrub oaks and do a braced body belay between the rocks.  </p>
+<p>  <b>Descent:</b> Walk off to the north west. Follow a climbers trail around the cliffs, looping back to the east, reaching the ampitheater.    <a name="eight"><br>
+<p></p></a></p>
+<table class="inline_image_thumbs"><tr><td><a href="/view_object.php?object_id=107630" rel="no_follow"><img src="/images/thumb/107630.jpg"></a></td></tr></table>
+<a name="chapter_4"></a><h2>Six Appeal - 5.6</h2>
+<br>
+One of the most popular routes on the island - a straightforward sport route with loads of edging, crimping, and smearing. Best of all, you're climbing right beside beautiful Goodro's Wall!  <p>  To get to this route, follow the pathways beyond the bridge a little to the left, but soon cut cross country on climbers trails to reach the rock wall. Follow the wall around until you can see <a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__157967__object_id__4933__type__mountain__mountain_id__4933__route_id____user_id____order_by____limit__">Goodro's Wall</a> (it really stands out). Climb up the short chimney beneath it to reach a large belay ledge and start climbing!  <a name="nine"><br>
+<p></p></a></p>
+<table class="inline_image_thumbs"><tr><td><a href="/view_object.php?object_id=107634" rel="no_follow"><img src="/images/thumb/107634.jpg"></a></td></tr></table>
+<a name="chapter_5"></a><h2>Epic Wall - 5.5</h2>
+<br>
+This multipitch climb ascends the mossy slabs to the right of Six Appeal. The climb is rather easy, broken, and mossy, but still an allright climb for practicing lead trad.<br>
+<p><br>
+<b>Pitch #1:</b> Climb up the slab, heading toward the outside corner on the right. This bypasses the moss and has the most opportunities for pro. Placements are a little hard to find, but the climbing is easy, with a face climbing crux beneath a roof.  My experience on the route differed slightly from the topo. Instead of climbing to the right of the roof, clip a piton in the roof and traverse around to the left. This brings you to a nice tree with some slings. You can belay from here, or sling it (taking care to flip your rope over the roof!) and keep going.<br>
+</p>
+<p><br>
+<b>Pitch #2:</b> From here the terrain is much more broken, and the climbing is much easier. The route is straightforward, just head straight up and around a large block/spire on the left to the top!<br>
+<a name="ten"><br>
+<p></p></a></p>
+<table class="inline_image_thumbs"><tr><td><a href="/view_object.php?object_id=107626" rel="no_follow"><img src="/images/thumb/107626.jpg"></a></td></tr></table>
+<a name="chapter_6"></a><h2>Six Pence - 5.6</h2>
+<br>
+A well protected climb with easy climbing with plenty of edging and smears. There's one small crux about 3/4 of the way up, but apart from that, its mostly 5.5. The one downside of this route is the anchor - its not in a very friendly location.  <p>  To reach the route, follow the pathways beyond the bridge a little to the right, but soon cut cross country on climbers trails to reach the rock wall. Follow the trail around until you find a large chimney/chute. The climb ascends the slanted rocky face to the left of this chimney.  <a name="twelve"><br>
+<p></p></a></p>
+<table class="inline_image_thumbs"><tr><td><a href="/view_object.php?object_id=107637" rel="no_follow"><img src="/images/thumb/107637.jpg"></a></td></tr></table>
+<a name="chapter_7"></a><h2>The Flake - 5.5</h2>
+<br>
+At the amphitheater, head towards a pine tree on the left side, behind the seats. This climb ascends the chimney behind this tree.  <p>  The first pitch is fun, although a littel anti-climatic as you really don't have to climb over an imposing roof via a crack. The belay ledges above are filled with scree, which is well position to pelt your belayer with rocks as your rope knocks bits off. The final pitch makes this route, with steep and exposed climbing up a crack an on an arete. Pro is more difficult to place on the upper pitch,  and the conclusion of the pitch is an exposed mantle if you refrain from clipping the anchor bolts of Padded Cell.  </p>
+<p>  <b>Pitch #1:</b> Climb up a crack (5.5), and then zig back to broken rock on your right, and zag forward to bypass the roof to reach the belay ledges. The higher ledge seems a bit nicer, and you're better positioned for the next pitch. If you traverse out from here, you will reach the start of Padded Cell (5.12a or 5.12c)  </p>
+<p>  <b>Pitch #2:</b> Ascend up and right into a narrow chimney/crack (5.5), where you must either use moves on the face or jambs in the crack. The rock is clean and smooth, and a little difficult to protect. This pitch takes you out from the 'protection' of the rock walls, allowing you to feel the full exposure of the upper pitch. Near the top is a large, flat ledge (its hard to miss). If you walk out on this block, you can clip the Padded Cell anchors, and then double-back to the arete for the final mantle move (5.5).  </p>
+<p>  <b>Descent:</b> Scramble south and then circle back around (west-north-east) to the amphitheater via a climbers trail.<br>
+</p>
+<p></p>
+<table class="inline_image_thumbs"><tr><td><a href="/view_object.php?object_id=113705" rel="no_follow"><img src="/images/thumb/113705.jpg"></a></td></tr></table>
+<a name="chapter_8"></a><h2>Essential Gear</h2>
+<br>
+For sport routes, some slings and 6 or 7 quickdraws is plenty. For the multipitch, a full rack of pro can be useful, as a variety of sizes and techniques are needed.<br>
+<a name="chapter_9"></a><h2>Other Info</h2>
+<br>
+If you have additional info for routes described or have done a route not described in depth, please put the info here and I'll integrate it into the page!<br>
+<a name="chapter_10"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/may-26th-2005-layback/107630/c-165308"><img alt="May 26th, 2005 - Layback..." src="/images/square/107630.jpg"></a></td>
+<td><a href="/may-26th-2005-the-famous/107629/c-165308"><img alt="May 26th, 2005 - The famous..." src="/images/square/107629.jpg"></a></td>
+<td><a href="/2002-peter-golden-leading/107634/c-165308"><img alt="2002 - Peter Golden leading..." src="/images/square/107634.jpg"></a></td>
+<td><a href="/may-26th-2005-another/107637/c-165308"><img alt="May 26th, 2005 - Another..." src="/images/square/107637.jpg"></a></td>
+<td><a href="/may-26th-2005-the-famous/107628/c-165308"><img alt="May 26th, 2005 - The famous..." src="/images/square/107628.jpg"></a></td>
+<td><a href="/may-26th-2005-two-other/107632/c-165308"><img alt="May 26th, 2005 - Two other..." src="/images/square/107632.jpg"></a></td>
+<td><a href="/may-26th-2005-one-of-the/107626/c-165308"><img alt="May 26th, 2005 - One of the..." src="/images/square/107626.jpg"></a></td>
+</tr>
+<tr><td><a href="/may-26th-2005-the-flake/113705/c-165308"><img alt="May 26th, 2005 - The Flake..." src="/images/square/113705.jpg"></a></td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty: 5.4-5.12d 
+elevation:  
+grade:  
+id: 165308 
+latitude: 40.6194 
+location: Utah, United States, North America 
+longitude: -111.7874 
+my_route_quality:  
+name: Storm Mountain Island 
+number_of_pitches:  
+page_url: http://www.summitpost.org/storm-mountain-island/165308 
+rock_difficulty:  
+route_quality: 0.8 
+route_type: Sport,Trad - Single/Multipitch 
+seasons:  
+time_required: Less than two hours 
+type: Route 
+

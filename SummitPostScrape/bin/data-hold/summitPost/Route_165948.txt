@@ -1,0 +1,42 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Approach</h2>Hike to Morgan Pass from either Mosquito Flat at the end of Rock Creek Road, or from the tungsten mine at the end of Pine Creek Road. See the <a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/5229">main page</a> for more detailed information. Leave the trail at the pass, heading south up and over some easy, mostly flat, granite benches to the start of the North Ridge.<br>
+<a name="chapter_2"></a><h2>Route Description</h2>There are numerous options that can be taken along the north ridge, several shown in the accompanying photograph. Most of the route is class 3, with short class 4 sections. Stay on the crest of the ridge for more demanding (and more enjoyable) scrambling, or move to the east side of the ridge for easier going. From the north summit, follow the crest to the higher south summit.<br>
+<br>
+There is some loose rock, some in the form of very large boulders perched along the ridge and on either side. Be careful to test holds and watch out for anyone climbing below you.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=116135" rel="no_follow"><img src="/images/thumb/116135.jpg"></a></td>
+<td><a href="/view_object.php?object_id=122232" rel="no_follow"><img src="/images/thumb/122232.jpg"></a></td>
+</tr></table>
+<a name="chapter_3"></a><h2>Essential Gear</h2>None needed.<br>
+<a name="chapter_4"></a><h2>Miscellaneous Info</h2>If you have information about this route that doesn't pertain to any of the other sections, please add it here.<br>
+                     <a name="chapter_5"></a><h2>Images</h2>
+<div align="center"><table id="my_images"><tr>
+<td><a href="/several-options-available-on/116135/c-165948"><img alt="Several options available on..." src="/images/square/116135.jpg"></a></td>
+<td><a href="/rosy-finch-peak-from-the/122232/c-165948"><img alt="Rosy Finch Peak from the..." src="/images/square/122232.jpg"></a></td>
+<td><a href="/rosy-finch-n-ridge-w-ridge-photo-topo/667423/c-165948"><img alt="Rosy Finch N Ridge &amp; W Ridge (Photo Topo)" src="/images/square/667423.jpg"></a></td>
+<td><a href="/rosy-finch-peak-traverse-to-pyramid-peak-photo-topo/667425/c-165948"><img alt="Rosy Finch Peak &amp; Traverse to Pyramid Peak (Photo Topo)" src="/images/square/667425.jpg"></a></td>
+<td><a href="/west-side-of-north-ridge/336067/c-165948"><img alt="West side of North Ridge" src="/images/square/336067.jpg"></a></td>
+</tr></table></div>
+            </article> 
+date:  
+difficulty:  
+elevation:  
+grade: II 
+id: 165948 
+latitude: 37.3777 
+location: California, United States, North America 
+longitude: -118.7495 
+my_route_quality:  
+name: North Ridge 
+number_of_pitches:  
+page_url: http://www.summitpost.org/north-ridge/165948 
+rock_difficulty: Class 4 
+route_quality: 0.8 
+route_type: Scrambling 
+seasons: Spring, Summer, Fall 
+time_required: Half a day 
+type: Route 
+

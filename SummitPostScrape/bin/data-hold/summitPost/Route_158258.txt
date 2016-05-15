@@ -1,0 +1,56 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Approach</h2>
+<br>
+From the Lembert Dome parking lot, head northeast towards the dome. The southwest face with steeper class 5 routes is to the left, the South Slope lies to the right.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr><td><a href="/view_object.php?object_id=24583" rel="no_follow"><img src="/images/thumb/24583.jpg"></a></td></tr></table>
+<a name="chapter_2"></a><h2>Route Description</h2>
+<br>
+This is a fine scrambling route in Tuolumne Meadows - no approach, a short scramble, and numerous alternatives between easy class 3 and difficult class 5 face climbing.<br>
+<br>
+From the southwest side of Lembert Dome, climb the granite skirt aiming for a small tree to the right, that marks the start of the South Slope. From the small tree, head diagonally up to the right, aiming for a larger tree on a good ledge. This section is the start of the class 3 friction - if it bothers you climbing moderate granite slopes without handholds you may want to turn back now. If you make it to the big tree without much trouble, you'll probably enjoy the rest of the route.<br>
+<br>
+From the large tree, continue diagonally up to the right into the center of the South Slope. The easiest route trends up to the east (right), the more challenging route trends west (left). There is no one (or two or three) fixed routes, as one can choose many variations on this face. And route-finding is part of the fun. The friction is very good on most of the slopes which allow scrambling on steeper slopes than one might first expect. In fact you can head almost straight up if you like, or aim for ledges and lower-angled slopes as suites your comfort level. <br>
+<br>
+The summit you see up and to the left is a false summit, but has good views and makes a fine target to aim for. The true summit is further to the northeast, a few hundred yards further, and about 100 feet higher up.<br>
+<br>
+To descend, either head back down the South Slope (shortest route back), or if you've had enough spice for one day, head east down the East Slope. You can pick up the trail to the northeast between the summit and a lower summit to the north. Usually it's just a matter of following the regular crowd back down to the trail.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=22416" rel="no_follow"><img src="/images/thumb/22416.jpg"></a></td>
+<td><a href="/view_object.php?object_id=24389" rel="no_follow"><img src="/images/thumb/24389.jpg"></a></td>
+</tr></table>
+<a name="chapter_3"></a><h2>Essential Gear</h2>
+<br>
+None needed, but wear rock shoes if uncomfortable on class 3 slabs.<br>
+<a name="chapter_4"></a><h2>Miscellaneous Info</h2>
+<br>
+If you have information about this route that doesn't pertain to any of the other sections, please add it here.<br>
+<a name="chapter_5"></a><h2>Images</h2>
+<div align="center"><table id="my_images"><tr>
+<td><a href="/lembert-dome-s-south-slope/22416/c-158258"><img alt="Lembert Dome\'s South Slope ...." src="/images/square/22416.jpg"></a></td>
+<td><a href="/kiwifzzz-is-climbing-class/24389/c-158258"><img alt=" kiwifzzz is climbing Class..." src="/images/square/24389.jpg"></a></td>
+<td><a href="/etsuko-is-resting-on-the/24583/c-158258"><img alt="Etsuko is resting on the..." src="/images/square/24583.jpg"></a></td>
+</tr></table></div>
+            </article> 
+date:  
+difficulty: Class 3 
+elevation:  
+grade:  
+id: 158258 
+latitude: 37.88 
+location: California, United States, North America 
+longitude: -119.35 
+my_route_quality:  
+name: South Slope 
+number_of_pitches:  
+page_url: http://www.summitpost.org/south-slope/158258 
+rock_difficulty:  
+route_quality: 1.0 
+route_type: Scramble 
+seasons:  
+time_required: Less than two hours 
+type: Route 
+

@@ -2,77 +2,148 @@ require 'nokogiri'
 require_relative '../lib/SummitPostScrape'
 require_relative '../lib/LibFileReadWrite'
 
-# Testing methods:
-page1_data = read_route_page('http://www.mountainproject.com/v/cassin-ridge/105954372')
-page2_data = read_route_page('http://www.mountainproject.com/v/chrysler-crack/105887571')
-page3_data = read_route_page('http://www.mountainproject.com/v/centennial/105715670')
-page4_data = read_area_page('http://www.mountainproject.com/v/swan-slab/105841123')
-page5_data = read_area_page('http://www.mountainproject.com/v/california/105708959')
-page6_data = read_routes_todo('http://www.mountainproject.com/u/mark-p-thomas//106560803?action=todos&')
-
-# Running methods
-DATA_DIR = 'data-hold/mountainProject'
+DATA_DIR = 'data-hold/summitPost'
 FileUtils::mkdir_p(DATA_DIR) unless File.exists?(DATA_DIR)
 
-BASE_URL = 'http://www.mountainproject.com'
-PROFILE_URL = '/u/mark-p-thomas//106560803'
+BASE_URL = 'http://www.summitpost.org'
+PROFILE_URL = '/users/pellucidwombat/12893'
 
-# Page 1 is used as a starting point for getting the pagination range
-TICKS_URL = '?action=ticks&&page='
-URL_PAGE = '1'
-list_url = BASE_URL + PROFILE_URL + TICKS_URL + URL_PAGE
+HOME_PAGE = BASE_URL + PROFILE_URL
+TEST_DIR = '/test-data'
 
-# Get the last page number from the second arrow button in the table navigation links in the first page
-page = Nokogiri::HTML(open(list_url))
-last_page_number = page.css('a.smallMedium')[1]['href'].match(/page=(\d+)/)[1].to_i
+# ================================
+# Testing methods
+# ================================
+def run_tests
+  puts 'Running tests'
 
-##### Ticks Page #####
-# Get basic route data from route ticks
-route_ticks = get_all_route_ticks(BASE_URL + PROFILE_URL + TICKS_URL, last_page_number)
-url_routes = get_all_route_tick_urls(route_ticks)
+  test_data_dir = "#{DATA_DIR}#{TEST_DIR}"
 
-# Read route pages to get stars and rating
-get_all_ticked_route_overwrites(url_routes)
+#Clear and remake test data directory
+  FileUtils::rm_rf(test_data_dir) if File.exists?(test_data_dir)
+  sleep(0.2)
+  FileUtils::mkdir_p(test_data_dir) unless File.exists?(test_data_dir)
 
-##### To-Do List Page #####
-# Get additional routes from TODOS
-puts 'Scraping To-Do Page'
-TODO_URL = '?action=todos&'
+# URLs really tough to group a priori based on website layout
+# Easiest to just get all URLs from the lists, then classify them when visiting their pages.
+  puts "Getting object URLs from profile page #{HOME_PAGE}"
+  object_urls = get_object_urls_from_profile(HOME_PAGE)
+  object_urls.keys.each { |url|  append_hash("#{test_data_dir}/object_urls.txt", object_urls[url])}
 
-list_url = BASE_URL + PROFILE_URL + TODO_URL
-puts "Scraping: #{list_url}"
-routes_todo = read_routes_todo(list_url)
+# Tick URLs can be classified on the fly as they have a predictable and unique substring in their URLs
+  puts "Getting tick URLs from profile page #{HOME_PAGE}"
+  tick_urls = get_tick_urls_from_profile(HOME_PAGE)
+  tick_urls.keys.each { |tick|  append_hash("#{test_data_dir}/tick_urls.txt", tick_urls[tick])}
 
-# TODO
-# Print to file. Later this is to be swapped to insert to database
-local_fname = "#{DATA_DIR}/todo_list.txt"
-puts "Writing to file #{local_fname}"
-routes_todo.keys.each { |route_todo|  append_hash(local_fname, routes_todo[route_todo])}
+# Read Climber Logs
+  climber_log_url = 'http://www.summitpost.org/devil-s-golf-ball/climbers-log/247651/d-146721#146721'
+  puts "Getting climber log from #{climber_log_url}"
+  climber_logs = read_climbers_log_page(climber_log_url, PROFILE_URL)
+  climber_logs.keys.each { |log|  append_hash("#{test_data_dir}/climber_log.txt", climber_logs[log])}
 
-puts 'Adding URLs to total routes URL list'
-routes_todo.keys.each { |route_todo|  url_routes.push(BASE_URL + routes_todo[route_todo][:route_url]).compact.uniq}
+# Type: Mountain/Rock
+  mountain_rock_url = 'http://www.summitpost.org/four-gables/153695'
+  puts "Getting mountain/rock from #{mountain_rock_url}"
+  page = Nokogiri::HTML(open(mountain_rock_url))
+  read_write_page_by_type(page, mountain_rock_url, test_data_dir)
 
-##### Routes Page #####
-# Scrape remaining data from route pages
-routes = get_all_route_pages(url_routes)
-url_parents = get_all_route_areas_urls(routes)
+# Type: Route (rock)
+  route_url = 'http://www.summitpost.org/selaginella/283772'
+  puts "Getting rock route from #{route_url}"
+  page = Nokogiri::HTML(open(route_url))
+  read_write_page_by_type(page, route_url, test_data_dir)
 
-# Save complete URLs in case list needs to be regenerated - ideally from the backup file
-# TODO
-# Print to file. Later this is to be swapped to insert to database
-local_fname = "#{DATA_DIR}/url_parents.txt"
-puts "Writing to file #{local_fname}"
-append_array(local_fname, url_parents)
+# Type: Route (my rating)
+  route_url = 'http://www.summitpost.org/green-butte-ridge/157170'
+  puts "Getting route I rated from #{route_url}"
+  page = Nokogiri::HTML(open(route_url))
+  read_write_page_by_type(page, route_url, test_data_dir)
 
-##### Area Pages #####
-areas = get_all_route_areas_pages(url_parents)
-url_parents_parent = get_all_area_parents_urls(areas)
 
-# Save complete URLs in case list needs to be regenerated - ideally from the backup file
-# TODO
-# Print to file. Later this is to be swapped to insert to database
-local_fname = "#{DATA_DIR}/url_parents_parent.txt"
-puts "Writing to file #{local_fname}"
-append_array(local_fname, url_parents_parent)
+# Type: Article
+  article_url = 'http://www.summitpost.org/glaciers/700719'
+  puts "Getting article from #{article_url}"
+  page = Nokogiri::HTML(open(article_url))
+  read_write_page_by_type(page, article_url, test_data_dir)
 
-get_all_area_parents_pages(url_parents_parent, areas)
+# Type: Trip Report
+  trip_report_url = 'http://www.summitpost.org/war-path-on-warbonnet-ne-face-left/843342'
+  puts "Getting trip report from #{trip_report_url}"
+  page = Nokogiri::HTML(open(trip_report_url))
+  read_write_page_by_type(page, trip_report_url, test_data_dir)
+
+# Type: Area/Range
+  area_range_url = 'http://www.summitpost.org/ouray-ice-park-colorado/164486'
+  puts "Getting area/range from #{area_range_url}"
+  page = Nokogiri::HTML(open(area_range_url))
+  read_write_page_by_type(page, area_range_url, test_data_dir)
+
+# Type: Trailhead
+  trip_report_url = 'http://www.summitpost.org/white-pine-trailhead/627226'
+  puts "Getting trailhead from #{trip_report_url}"
+  page = Nokogiri::HTML(open(trip_report_url))
+  read_write_page_by_type(page, trip_report_url, test_data_dir)
+
+# Type: Canyon
+  canyon_url = 'http://www.summitpost.org/little-cottonwood-canyon/154313'
+  puts "Getting canyon from #{canyon_url}"
+  page = Nokogiri::HTML(open(canyon_url))
+  read_write_page_by_type(page, canyon_url, test_data_dir)
+
+# Type: Other
+  nil_url = 'http://www.summitpost.org/my-list-o-climbs/660859'
+  puts "Getting data from unsupported object from #{nil_url}"
+  page = Nokogiri::HTML(open(nil_url))
+  read_write_page_by_type(page, nil_url, test_data_dir)
+end
+
+
+# ================================
+# Scraping all
+# ================================
+def scrape_all
+  puts 'Running full scrape'
+
+# Scrape all logs
+  tick_urls_array = scrape_all_logs
+
+# Scrape all ticked pages
+  scrape_all_ticked_pages(tick_urls_array)
+
+# Scrape all personal pages
+  scrape_all_personal_pages
+end
+
+def scrape_all_logs
+  puts 'Scraping all climber logs ...'
+  tick_urls_array = []
+  tick_urls = get_tick_urls_from_profile(HOME_PAGE)
+  tick_urls.keys.each { |key|
+    tick_urls_array[tick_urls_array.count] = "#{BASE_URL}#{tick_urls[key][:link_url]}"
+  }
+  read_write_climber_logs(tick_urls_array, PROFILE_URL, DATA_DIR)
+
+  tick_urls_array
+end
+
+def scrape_all_ticked_pages(tick_urls_array)
+  puts 'Scraping all pages of ticked objects ...'
+  read_write_pages_ticked(tick_urls_array, PROFILE_URL, DATA_DIR)
+end
+
+def scrape_all_personal_pages
+  puts 'Scraping all personal pages ...'
+  personal_urls_array = []
+  object_urls = get_object_urls_from_profile(HOME_PAGE)
+  object_urls.keys.each { |key|
+    personal_urls_array[personal_urls_array.count] = "#{BASE_URL}#{object_urls[key][:link_url]}"
+  }
+  read_write_pages_personal(personal_urls_array, DATA_DIR)
+end
+
+
+
+run_tests
+scrape_all
+
+puts 'Website scrape complete.'

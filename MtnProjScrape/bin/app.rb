@@ -76,3 +76,5 @@ puts "Writing to file #{local_fname}"
 append_array(local_fname, url_parents_parent)
 
 get_all_area_parents_pages(url_parents_parent, areas)
+
+puts 'Website scrape complete.'

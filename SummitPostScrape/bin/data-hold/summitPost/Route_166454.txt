@@ -1,0 +1,46 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Approach</h2>From Piute Pass, cross the rolling terrain of Humphreys Basin heading northeast, aiming for the West Face of Mt. Emerson. The West Face is a broad slope, narrowing as it rises up to the flattish summit area that marks the northwest summit (this is the point marked on the 7.5' map, but it is not the highpoint. The West Ridge proper is the ridgeline running between the northwest and southeast summits, a little less than 1/2 mile in length.<br>
+<br>
+The West Face can be approached by a shorter, but steeper route by following the seasonal creek north from Piute Lake (around 11,000ft). <a href="http://www.summitpost.org/mountains/user_link.pl?user_id=13699">thebeave7</a> adds: <i>head up a grassy ramp just West of this <a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__185392__object_id__1358__type__mountain__mountain_id__1358__route_id____user_id____order_by____limit__"><i>boulder field</i></a>. The ramp ascends above the cliffs seen on the left side of the photo, then heads straight up the boulder field into the wash. The stream bed is easily navigated, though this may be complicated in early season, due to high run off. Stay to the right when the stream bed splits. Following this brings one to the base of the class 3 West Face. The route up to the base of the West face is Class 2.</i><br>
+<br>
+You can also leave the Piute Trail halfway between Piute Lake and Piute Pass (around 11,200ft), climbing the benches north of the trail (class 2-3) into Humphreys Basin.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr><td><a href="/view_object.php?object_id=122405" rel="no_follow"><img src="/images/thumb/122405.jpg"></a></td></tr></table>
+<a name="chapter_2"></a><h2>Route Description</h2>From Humphreys Basin below, it is pretty clear that the left (north) half of the West Face is peppered with significant cliffs and the right half is an easier climb. Find any of several breaks in the weak cliffs on the right side that go class 2-3 and lead to the class 2 slopes above and the northwest summit. For a spicier class 3-4 climb, attack the left side of the West Face and make your way through mostly class 3 rock in the cliff areas. You can also climb the NW Ridge of the West Face from its start, bypassing gendarmes on the west side.<br>
+<br>
+Once at the northwest summit, the easiest route follows below the ridgeline on the south side, no more than class 3. This involves much talus and crossing several aretes and the intervening chutes on the South Face, and is the route described by Secor.<br>
+<br>
+The West Ridge can be followed more directly, never deviating from the ridge by more than about 10ft with difficulties increasing to mostly class 4, with a low class 5 crux. This is really a very enjoyable scramble on solid rock, much better than the easier alternative. The crux is a 15-foot face with great hand holds in a crack, but not much for your feet while hanging in the middle of it. This can of course be bypassed on the south side of the ridge, but you'll regret missing it later... :-)<br>
+<br>
+The easiest descent from the southeast summit is down the South Slopes. Choose one of several scree-filled chutes (class 2-3) for the descent down to the Piute Pass Trail.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr><td><a href="/view_object.php?object_id=122407" rel="no_follow"><img src="/images/thumb/122407.jpg"></a></td></tr></table>
+<a name="chapter_3"></a><h2>Essential Gear</h2>None needed.<br>
+<a name="chapter_4"></a><h2>Miscellaneous Info</h2>If you have information about this route that doesn't pertain to any of the other sections, please add it here.<br>
+                                          <a name="chapter_5"></a><h2>Images</h2>
+<div align="center"><table id="my_images"><tr>
+<td><a href="/heading-northwest-from-the/122407/c-166454"><img alt="Heading northwest from the..." src="/images/square/122407.jpg"></a></td>
+<td><a href="/emerson-s-west-face-is-the/122405/c-166454"><img alt="Emerson\'s West Face is the..." src="/images/square/122405.jpg"></a></td>
+</tr></table></div>
+            </article> 
+date:  
+difficulty:  
+elevation:  
+grade: III 
+id: 166454 
+latitude: 37.242 
+location: California, United States, North America 
+longitude: -118.653 
+my_route_quality:  
+name: West Ridge 
+number_of_pitches:  
+page_url: http://www.summitpost.org/west-ridge/166454 
+rock_difficulty: Class 4 
+route_quality: 0.6923076923076923 
+route_type: Scrambling 
+seasons: Summer, Fall 
+time_required: Most of a day 
+type: Route 
+

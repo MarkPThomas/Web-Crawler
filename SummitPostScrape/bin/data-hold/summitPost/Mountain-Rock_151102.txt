@@ -1,0 +1,174 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>
+<b>Merriam Peak</b> overlooks French Canyon at the southwest end of the Royce Lakes Basin.  The peak is named for biologist <b>Dr. Clinton Hart Merriam</b>, inventor of the <a href="http://www.cpluhna.nau.edu/Biota/merriam.htm">"life zones concept"</a>, author of <a href="http://www.yosemite.ca.us/history/indian_village_and_camp_sites_in_yosemite_valley.html">Indian Village and Camp Sites of Yosemite Valley</a>, and noted bear expert of the 19th century.<br>
+<br>
+The most striking feature on Merriam Peak is the <a href="http://www.summitpost.org/cgi-bin/trip_report.pl?trip_report_id=678&amp;mountain_id=1139">North Buttress</a>, a difficult technical rock climbing route.  Easiest access is via the snow chute leading to the saddle between Merriam and Royce peaks, then up the class 2 <a href="http://www.summitpost.org/show/route_link.pl/route_id/1553/object_id/1139">northwest ridge</a> to the summt.<br>
+<br>
+<center>
+<br>
+<img border="2" src="http://www.summitpost.org/images/original/27890.JPG"><br>
+<b>Merriam Peak (center) and Royce Peak (right) above the Royce Lakes Basin</b><br>
+<br>
+</center>
+<br>
+<br>
+Merriam Peak is most frequently climbed by Sierra Club groups also intent on bagging <a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/2053">Royce Peak</a> immediately north.  The spectacular views from the summit of this mountain are owing to it's relatively isolated location at the southern end of a ridge separating the Merriam Lake basin from the Royce Lakes basin.<br>
+<br>
+Other worthwhile objectives around the Royce Lakes Basin are the spectacular and technically difficult  <a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/1325">Feather Peak</a>, the intricate and enjoyable <a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/2108">Spire Peak</a>, and the easy, centrally located <a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/2107">Peak 12,563'</a>, which has stunning 360* views.<br>
+<br>
+<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=29044" rel="no_follow"><img src="/images/thumb/29044.jpg"></a></td>
+<td><a href="/view_object.php?object_id=87109" rel="no_follow"><img src="/images/thumb/87109.JPG"></a></td>
+<td><a href="/view_object.php?object_id=26973" rel="no_follow"><img src="/images/thumb/26973.jpg"></a></td>
+<td><a href="/view_object.php?object_id=86151" rel="no_follow"><img src="/images/thumb/86151.jpg"></a></td>
+<td><a href="/view_object.php?object_id=22856" rel="no_follow"><img src="/images/thumb/22856.jpg"></a></td>
+</tr></table>
+<a name="chapter_2"></a><h2>Routes</h2>
+<noformat><table width="540" border="0" cellpadding="4" cellspacing="4">
+<tr>
+<td bgcolor="e0e0e0" align="center">
+<b>ROUTE</b>
+</td>
+<td bgcolor="e0e0ff" align="center">
+<b>TYPE</b>
+</td>
+<td bgcolor="e0ffff" align="center">
+<b>DIFFICULTY</b>
+</td>
+<td bgcolor="e0ffe0" align="center" width="64">
+<b>PHOTO</b>
+</td>
+</tr>
+<tr>
+<td bgcolor="f6f6f6" align="center">
+<a href="http://www.summitpost.org/northeast-ridge-face/161862"><b>Northeast Ridge/Face</b></a>
+</td>
+<td bgcolor="f6f6ff" align="center">
+Scramble
+</td>
+<td bgcolor="f6ffff" align="center">
+Class 4
+</td>
+<td bgcolor="f6fff6" align="center">
+<a href="http://www.summitpost.org/mountains/photo_link.pl?photo_id=103052&amp;object_id=1139&amp;type=mountain&amp;mountain_id=1139&amp;route_id=3712"><img width="60%" src="http://www.summitpost.org/images/thumb/65567.jpg"></a>
+</td>
+</tr>
+<tr>
+<td bgcolor="f6f6f6" align="center">
+<a href="http://www.summitpost.org/northwest-ridge/157900"><b>Northwest Ridge</b></a>
+</td>
+<td bgcolor="f6f6ff" align="center">
+Scramble
+</td>
+<td bgcolor="f6ffff" align="center">
+Class 2+
+</td>
+<td bgcolor="f6fff6" align="center">
+<a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__158764__object_id__1139__type__mountain__mountain_id__1139__route_id____user_id____order_by____limit__"><img width="60%" src="http://www.summitpost.org/images/thumb/108252.jpg"></a>
+</td>
+</tr>
+<tr>
+<td bgcolor="f6f6f6" align="center">
+<a href="http://www.summitpost.org/north-buttress-iv-5-10b/809424"><b>North Buttress</b></a>
+</td>
+<td bgcolor="f6f6ff" align="center">
+Technical Rock Climb
+</td>
+<td bgcolor="f6ffff" align="center">
+IV 5.10b
+</td>
+<td bgcolor="f6fff6" align="center">
+<a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__167159__object_id__1139__type__mountain__mountain_id__1139__route_id____user_id____order_by____limit__"><img width="60%" src="http://www.summitpost.org/images/thumb/114562.JPG"></a>
+</td>
+</tr>
+</table>
+</noformat><a name="chapter_3"></a><h2>Getting There</h2>From Highway US-395 in Bishop, drive approx. 10 miles north to the turn-off to Rovana. Drive west through Rovana and up Pine Creek Canyon to the Pine Creek trailhead. Hike up the trail to where the Italy Pass Trail goes north. Follow the Italy Pass Trail to a flat area of slabs and meadows just past Honeymoon Lake. Leave the trail and head west up to Royce Pass.  Cross over into the Royce Lakes Basin and hike south, passing east of Lake 11,725', and head for the obvious saddle between Royce and Merriam.<br>
+<br>
+An easier but much longer approach can be made by continuing up the Pine Creek Pass Trail to Pine Creek Pass.  From the pass, contour west over a slight rise into Royce Lakes basin.  Merriam Peak is the large, impressive peak that first comes into view across the basin.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=108250" rel="no_follow"><img src="/images/thumb/108250.jpg"></a></td>
+<td><a href="/view_object.php?object_id=22232" rel="no_follow"><img src="/images/thumb/22232.jpg"></a></td>
+<td><a href="/view_object.php?object_id=22233" rel="no_follow"><img src="/images/thumb/22233.jpg"></a></td>
+<td><a href="/view_object.php?object_id=108251" rel="no_follow"><img src="/images/thumb/108251.jpg"></a></td>
+</tr></table>
+<a name="chapter_4"></a><h2>Red Tape</h2>For day hikes, no permit required.  For overnight stays, obtain a free wilderness permit at the White Mountain Ranger Station, 798 North Main Street, Bishop, CA  93514.  Phone number is 760-873-2500.  Permits may be reserved in advance for $5 per person.  Though walk-in permits are still free, the visitor quota for this trailhead is often filled.<br>
+<br>
+For more info, visit the <a href="http://www.summitpost.org/mountains/mountain_link.pl?mountain_id=4859">Eastern Sierra Nevada Logistics Page</a><br>
+<a name="chapter_5"></a><h2>When To Climb</h2>Best season is early June to mid October.  Earlier than June, use skis to approach.  November to January may have some snow, but not enough to ski.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=9151" rel="no_follow"><img src="/images/thumb/9151.jpg"></a></td>
+<td><a href="/view_object.php?object_id=87111" rel="no_follow"><img src="/images/thumb/87111.JPG"></a></td>
+<td><a href="/view_object.php?object_id=9149" rel="no_follow"><img src="/images/thumb/9149.jpg"></a></td>
+<td><a href="/view_object.php?object_id=20227" rel="no_follow"><img src="/images/thumb/20227.jpg"></a></td>
+<td><a href="/view_object.php?object_id=86207" rel="no_follow"><img src="/images/thumb/86207.jpg"></a></td>
+</tr></table>
+<a name="chapter_6"></a><h2>Camping</h2>Best camping is in the Pine Creek drainage before crossing into Royce Lakes basin.  Royce Lakes have no shade and windy campsites.  Nearby French Canyon has some good camping and fishing.<br>
+<br>
+<a name="chapter_7"></a><h2>Further Reading</h2>
+<font color="004400"><b>BOOKS</b></font><br>
+<u>The High Sierra: Peaks, Passes, and Trails</u> 2nd ed. (R. J. Secor) - PP 318-320<br>
+<u>Sierra Classics: 100 Best Climbs in the High Sierra</u> (John Moynier and Claude Fiddler) - P 194<br>
+<u>The Climber's Guide to the High Sierra</u> (Steve Roper) - P 139<br>
+<br>
+<font color="004400"><b>WEB<b></b></b></font><br>
+<a href="http://www.summitpost.org/mountains/mountain_link.pl?mountain_id=4859">Eastern Sierra Nevada Logistics Page</a> (<a href="http://www.summitpost.org/mountains/user_link.pl/user_id/11009">Matthew Holliman</a>)<br>
+<br>
+<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=108252" rel="no_follow"><img src="/images/thumb/108252.jpg"></a></td>
+<td><a href="/view_object.php?object_id=114562" rel="no_follow"><img src="/images/thumb/114562.JPG"></a></td>
+<td><a href="/view_object.php?object_id=114561" rel="no_follow"><img src="/images/thumb/114561.JPG"></a></td>
+<td><a href="/view_object.php?object_id=32875" rel="no_follow"><img src="/images/thumb/32875.JPG"></a></td>
+</tr></table>
+<a name="chapter_8"></a><h2>External Links</h2>
+<ul><li>
+<a href="http://www.summitpost.org/mountains/mountain_link.pl?mountain_id=4859">Eastern Sierra Nevada Logistics Page</a><br>  <br>
+</li></ul>                                                                                    <a name="chapter_9"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/sierra-diamond/555391/c-151102"><img alt="Sierra Diamond" src="/images/square/555391.jpg"></a></td>
+<td><a href="/nb-pic-topo/321561/c-151102"><img alt="NB Pic-Topo" src="/images/square/321561.jpg"></a></td>
+<td><a href="/the-north-face-of-merriam/29044/c-151102"><img alt="The north face of Merriam..." src="/images/square/29044.jpg"></a></td>
+<td><a href="/strange-light-on-merriam-peak/662612/c-151102"><img alt="Strange Light on Merriam Peak" src="/images/square/662612.jpg"></a></td>
+<td><a href="/merriam-peak/692300/c-151102"><img alt="Merriam Peak" src="/images/square/692300.jpg"></a></td>
+<td><a href="/merriam-peak-alpenglow/213955/c-151102"><img alt="Merriam Peak Alpenglow" src="/images/square/213955.jpg"></a></td>
+<td><a href="/merriam-peak/841256/c-151102"><img alt="Merriam Peak" src="/images/square/841256.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/amika-peering-up-the-route/108252/c-151102"><img alt="Amika peering up the route...." src="/images/square/108252.jpg"></a></td>
+<td><a href="/merriam-peak/754623/c-151102"><img alt="Merriam Peak" src="/images/square/754623.JPG"></a></td>
+<td><a href="/merriam-and-royce-peaks/418307/c-151102"><img alt="Merriam and Royce Peaks" src="/images/square/418307.JPG"></a></td>
+<td><a href="/en-route-taken-july-31-2004/108250/c-151102"><img alt="En route. Taken July 31, 2004." src="/images/square/108250.jpg"></a></td>
+<td><a href="/the-north-buttress-of-merriam/87111/c-151102"><img alt="The North Buttress of Merriam..." src="/images/square/87111.JPG"></a></td>
+<td><a href="/merriam-peak/753368/c-151102"><img alt="Merriam Peak" src="/images/square/753368.JPG"></a></td>
+<td><a href="/merriam-north-buttress/398444/c-151102"><img alt="Merriam North Buttress" src="/images/square/398444.jpg"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/merriam-peak/images/p-151102">View Gallery - 25 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty:  
+elevation: 13103 
+grade:  
+id: 151102 
+latitude: 37.3093 
+location: California, United States, North America 
+longitude: -118.7644 
+my_route_quality:  
+name: Merriam Peak 
+number_of_pitches:  
+page_url: http://www.summitpost.org/merriam-peak/151102 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons:  
+time_required:  
+type: Mountain-Rock 
+

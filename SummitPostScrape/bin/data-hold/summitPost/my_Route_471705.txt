@@ -1,0 +1,36 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>This route is perhaps best used as an alternate descent route of Mt. St. Piran, especially if linking it with Mt Niblock and Mt Whyte.<a name="chapter_2"></a><h2>Getting There</h2>Take the Lake Agnes Trail from Lake Louise to the Lake Agnes Tea House.<a name="chapter_3"></a><h2>Route Description</h2>Follow the climbers trail up towards the Niblock-Whyte cirque. Eventually the cliffs to the right ease up to steep grass and bush slopes and a pass. Then just follow whatever use trails you can link up to reach the saddle!<br>
+<br>
+From the saddle it is a straightforward boulder-hop to the summit.<br>
+<br>
+If descending the route from the summit, just follow the main ridge toward Niblock. Initially it looks like the route cliffs out, but just as you reach the edge, more slope appears. This is pretty much the same all the way down into the Niblock-Whyte Cirque from Goat Pass.<br>
+<a name="chapter_4"></a><h2>Essential Gear</h2>Trail runners. Trekking poles for the downhill.                                                         <a name="chapter_5"></a><h2>Images</h2>
+<div align="center"><table id="my_images"><tr>
+<td><a href="/niblock-and-whyte-from-mt-st-piran/471709/c-471705"><img alt="Niblock and Whyte from Mt St Piran" src="/images/square/471709.jpg"></a></td>
+<td><a href="/the-niblock-whyte-cirque/471714/c-471705"><img alt="The Niblock-Whyte Cirque" src="/images/square/471714.jpg"></a></td>
+<td><a href="/lake-agnes-from-the-slopes-of-mt-st-piran-and-mt-niblock/471720/c-471705"><img alt="Lake Agnes from the slopes of Mt St Piran and Mt Niblock" src="/images/square/471720.jpg"></a></td>
+<td><a href="/the-agnes-lake-tea-house/471725/c-471705"><img alt="The Agnes Lake Tea House" src="/images/square/471725.jpg"></a></td>
+<td><a href="/goat-pass/471712/c-471705"><img alt="Goat Pass" src="/images/square/471712.jpg"></a></td>
+</tr></table></div>
+            </article> 
+date:  
+difficulty: Class 2 
+elevation:  
+grade:  
+id: 471705 
+latitude:  
+location: Alberta, Canada, North America 
+longitude:  
+my_route_quality:  
+name: Goat Pass 
+number_of_pitches:  
+page_url: http://www.summitpost.org/goat-pass/471705 
+rock_difficulty:  
+route_quality: 0.6 
+route_type: Hiking 
+seasons:  
+time_required: Half a day 
+type: Route 
+

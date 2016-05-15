@@ -1,0 +1,54 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Approach</h2>
+<br>
+Millstone Slab is a 600-800 ft long quartzite slab just a short ways up Mill Fork B.<br>
+<br>
+Drive 4.2 miles up the canyon from the neon sign at the mouth of BCC. Park at the Broads Fork/Mill Fork B trailhead and head up the Mill Fork B trail toward Lake Blanche.<br>
+<br>
+About 1 mile up the trail a huge block of quartzite can be seen rising above the trees of the opposite side of the stream. Hike just past the rock and then cross the stream, climbing up the opposite hill on class 2 boulders. Angle right, and eventually cut through a short section of pine trees to reach the rock. There is an impenetrable wall surrounding the block, overhanging in many places. There are many sport routes found along this vertical to overhanging barrier.<br>
+<br>
+For the multipitch route, follow this wall downhill, looking carefully for a break in the barrier. One should be found that is approximately class 4. I is approximately where the slab boundary jogs to the right before continuing downhill. This is where the route begins.<br>
+<br>
+<a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__59355__object_id__2354__type__mountain__mountain_id__2354__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.org/images/original/31055.jpg" width="80%"></a><br>
+<a name="chapter_2"></a><h2>Route Description</h2>
+<br>
+Climb through the break in the block wall and onto the slab. From there, take the easiest line, dictated primarily on where you can see cracks to place pro. The rock is smooth, but angled enough that it is mostly a friction pitch. The rock undulates as you climb higher, and the best belays are found at the flatter points of this rocky wave.  Variations abound, but if you take a direct line to the top, the climb is about 4-5 pitches.<br>
+<br>
+The route is fun and easy, but it will test your ability to place small nuts for pro!<br>
+<p></p>
+<table class="inline_image_thumbs"><tr><td><a href="/view_object.php?object_id=113725" rel="no_follow"><img src="/images/thumb/113725.jpg"></a></td></tr></table>
+<a name="chapter_3"></a><h2>Descent</h2>
+<br>
+Once at the top, carefully pass around the periphery of the block and descend along its boundaries to the north (downcanyon). The descent is class 3.<br>
+<br>
+At the bottom of the slab, follow it round the tip to reach the starting point again. From here, hike out the way you hiked in.<br>
+<a name="chapter_4"></a><h2>Essential Gear</h2>
+<br>
+Lots of small stoppers, micro-nuts. Cams are too big for any of the cracks encountered.<br>
+<a name="chapter_5"></a><h2>Images</h2>
+<div align="center"><table id="my_images"><tr>
+<td><a href="/july-2nd-2005-millstone/113725/c-165270"><img alt="July 2nd, 2005 - Millstone..." src="/images/square/113725.jpg"></a></td>
+<td><a href="/mt-raymond-summit-view/947259/c-165270"><img alt="Mt. Raymond summit view" src="/images/square/947259.JPG"></a></td>
+</tr></table></div>
+            </article> 
+date:  
+difficulty: II 5.3 - Trad Multi-pitch, 5.7-5.11d Sport 
+elevation:  
+grade:  
+id: 165270 
+latitude: 40.6194 
+location: Utah, United States, North America 
+longitude: -111.7874 
+my_route_quality:  
+name: Millstone Slab 
+number_of_pitches:  
+page_url: http://www.summitpost.org/millstone-slab/165270 
+rock_difficulty:  
+route_quality: 0.8 
+route_type: Technical Climb 
+seasons:  
+time_required: Half a day 
+type: Route 
+

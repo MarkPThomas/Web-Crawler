@@ -1,0 +1,81 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>
+<br>
+Mount Winchell stands high in the Sierra Nevada mountains to the north of North Palisade, Starlight Peak and Thunderbolt Peak.  Elisha Winchell named the peak for his cousin Alexander who was a geology professor at Michigan.  Routes include the popular East Arete (Class 3), the Southeast Face (Class 3-4), the West Arete (5.8) and the Northwest Ridge (5.8).<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=9870" rel="no_follow"><img src="/images/thumb/9870.jpg"></a></td>
+<td><a href="/view_object.php?object_id=18411" rel="no_follow"><img src="/images/thumb/18411.jpg"></a></td>
+<td><a href="/view_object.php?object_id=65657" rel="no_follow"><img src="/images/thumb/65657.jpg"></a></td>
+<td><a href="/view_object.php?object_id=26843" rel="no_follow"><img src="/images/thumb/26843.jpg"></a></td>
+<td><a href="/view_object.php?object_id=60684" rel="no_follow"><img src="/images/thumb/60684.jpg"></a></td>
+</tr></table>
+<a name="chapter_2"></a><h2>Getting There</h2>
+<br>
+Mt. Winchell is located in the Palisade region of the Sierra Nevada. To access the eastern routes drive to the end of the road in Glacier Canyon (Big Pine Creek). Follow the north fork (of Big Pine Creek) past first, second, and third lakes.  When you come to the junction with the Sam Mack Meadows trail follow that trail to the meadows.  Climb any of the chutes that leaves the meadows and head toward the Thunderbolt Glacier.  Mount Winchell is  to the north of Thunderbolt Peak.<br>
+<br>
+The access to the western routes on Mount Winchell can be achieved by taking Bishop Pass to the Dusy Basin area.  To get there, one takes the South Lake Road which leaves Highway  168 approximately  fifteen miles from Bishop.  From the trailhead at South Lake the trail climbs gradually to join the junction with the Treasure Lakes trail at one mile (10,240 feet).  The Bishop Pass Trail goes left and continues to climb.  After this the trail follows the eastern aspect  of the picturesque Long Lake.  After passing Saddlerlock and Bishop Lake, many switchbacks lead to the summit of Bishop Pass (11,960 feet).  Then one descends into Dusy Basin which is the stepping off point to the western aspect of Winchell<br>
+<a name="chapter_3"></a><h2>Red Tape</h2>
+<br>
+Permits are required.  Please get your permits at  the Inyo National Forest station in Bishop.<br>
+<a name="chapter_4"></a><h2>When To Climb</h2>
+<br>
+Summer and fall are the best seasons to climb.  Avalanche danger is high in the winter.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr><td><a href="/view_object.php?object_id=65466" rel="no_follow"><img src="/images/thumb/65466.jpg"></a></td></tr></table>
+<a name="chapter_5"></a><h2>Camping</h2>
+<br>
+Camping is possible  at Sam Mack Meadows (running water, campsites, and trees).  One  can also camp on the Thunderbolt glacier or moraine.<br>
+<a name="chapter_6"></a><h2>External Links</h2>
+<ul>
+<li>
+<a href="http://www.snwburd.com/bob/trip_reports/winchell_1.html">East Arete dayhike - Aug 5, 2004</a><br> <br>
+</li>
+<li>
+<a href="http://www.hikinglasvegas.com/panoramas/Winchell.html">Panorama from the summit of Mt. Winchell</a><br> 360 degree, interactive panorama from the summit of Mt. Winchell.<br>
+</li>
+</ul>
+<a name="chapter_7"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/mt-winchell-alpenglow/663984/c-151010"><img alt="Mt. Winchell Alpenglow" src="/images/square/663984.jpg"></a></td>
+<td><a href="/dusy-basin-alpenglow/437039/c-151010"><img alt="Dusy Basin Alpenglow" src="/images/square/437039.jpg"></a></td>
+<td><a href="/sierra-backbone/638746/c-151010"><img alt="Sierra Backbone" src="/images/square/638746.jpg"></a></td>
+<td><a href="/from-left-to-right/65183/c-151010"><img alt="From left to right:..." src="/images/square/65183.JPG"></a></td>
+<td><a href="/the-steep-and-impressive-west/34020/c-151010"><img alt="The steep and impressive west..." src="/images/square/34020.jpg"></a></td>
+<td><a href="/palisades-reflected-in-the/65662/c-151010"><img alt="Palisades reflected in the..." src="/images/square/65662.jpg"></a></td>
+<td><a href="/mount-winchell-northwest-ridge/289082/c-151010"><img alt="Mount Winchell, Northwest Ridge" src="/images/square/289082.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/summit-view/419696/c-151010"><img alt="Summit view" src="/images/square/419696.JPG"></a></td>
+<td><a href="/dusy-basin-and-the-grand/27135/c-151010"><img alt="Dusy Basin and the grand..." src="/images/square/27135.jpg"></a></td>
+<td><a href="/sunset-alpenglow-on-mt/65661/c-151010"><img alt="Sunset alpenglow on Mt...." src="/images/square/65661.jpg"></a></td>
+<td><a href="/alpenglow-on-winchell/49670/c-151010"><img alt="Alpenglow on Winchell" src="/images/square/49670.JPG"></a></td>
+<td><a href="/palisades-summit-view/419694/c-151010"><img alt="Palisades summit view" src="/images/square/419694.JPG"></a></td>
+<td><a href="/typical-class-2-3-climbing-along-the-east-arete/310745/c-151010"><img alt="Typical class 2-3 climbing along the East Arete" src="/images/square/310745.jpg"></a></td>
+<td><a href="/mt-winchell-from-the-palisade-glacier/964405/c-151010"><img alt="Mt. Winchell from the Palisade Glacier" src="/images/square/964405.jpg"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/mount-winchell/images/p-151010">View Gallery - 76 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty:  
+elevation: 13768 
+grade:  
+id: 151010 
+latitude: 37.103 
+location: California, United States, North America 
+longitude: -118.525 
+my_route_quality:  
+name: Mount Winchell 
+number_of_pitches:  
+page_url: http://www.summitpost.org/mount-winchell/151010 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons:  
+time_required:  
+type: Mountain-Rock 
+

@@ -1,0 +1,51 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Stats</h2>
+<br>
+<b>Distance:</b> TBA (1-way)<br>
+<b>Elevation Gain:</b> TBA<br>
+<b>Avg Slope of Chutes:</b>  32<sup>o</sup> for 500 ft<br>
+<a name="chapter_2"></a><h2>Approach</h2>
+<br>
+<font color="blue"><u>Butler Fork</u></font><br>
+Drive about 8 miles up Big Cottonwood Canyon.  Just as Reynolds Flats comes into view, there will be a pullout on the north side of the road. This is the Butler Fork Trailhead. Park here and being hiking up the main trail.<br>
+<a name="chapter_3"></a><h2>Route Description</h2>
+<br>
+The east face of Mt Raymond has many broad snow chutes bordered by prominent rock ribs. The existence of a clear runout below and an easy approach makes this a fine snowclimb.<br>
+<br>
+Take the Butler Fork trail. Make sure to take the west (left) drainage when the trail forks. Soon after this a saddle is reached, followed by a traverse across the base on Gobblers Knob along the Desolation Trail. This circumvents Mill A Basin.  <br>
+Once you are below the series of rocky ribs, head up the chutes. The 2nd one from the left takes you directly up to the summit via a constantly 30 degree broad chute. The next chute right merges with this one, but with a steep constriction right before the merger.  The chute angles to the right and opens up.  From here, continue up to the main ridge and directly to the summit.<br>
+<br>
+I have only done this as a winter climb - it probably isn't very enjoyable without snow cover.<br>
+<br>
+If you are doing this route as a ski descent, take the East Ridge to the summit and choose any line down.<br>
+<a name="chapter_4"></a><h2>Essential Gear</h2>
+<br>
+Bring snowshoes and an ice axe. Crampons might be needed at certain times of the year.<br>
+<br>
+This slope is avalanche prone and faces a dangerous aspect for the Wasatch Range.  Be sure to bring a shovel, probe, and beacon and know how to use them. Better yet, go when conditions are safe and know how to check the snowpack stability before attempting this route.<br>
+<a name="chapter_5"></a><h2>Miscellaneous Info</h2>
+<br>
+If you have information about this route that doesn't pertain to any of the other sections, please add it here.<br>
+
+            </article> 
+date:  
+difficulty: Moderate Snow 
+elevation:  
+grade:  
+id: 163756 
+latitude: 40.658 
+location: Utah, United States, North America 
+longitude: -111.701 
+my_route_quality:  
+name: East Face Chutes 
+number_of_pitches:  
+page_url: http://www.summitpost.org/east-face-chutes/163756 
+rock_difficulty:  
+route_quality: 1.0 
+route_type: Basic Snow Climb, Ski descent 
+seasons:  
+time_required: Half a day 
+type: Route 
+

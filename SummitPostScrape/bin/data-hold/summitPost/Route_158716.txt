@@ -1,0 +1,52 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Approach</h2>
+<br>
+The base of the climb can be reached either from the Merriam Lakes basin to the west or the Royce Lakes to the east.  Both approaches require several days of hiking from either the North Lake trailhead or the Pine Creek Pack Station.  North Lake can be reached by following highway 168 just West from just South of Bishop. From the trailhead follow the Puite Canyon trail until you can turn up the French Canyon trail, which leads to both approaches. The Pine Creek Pack Station can be reached from a road found between Bishop and Rock Creek.  From the trailhead hike up over Pine Creek Pass and either to the Royce Lakes or down into French Canyon to Merriam Lake.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=23838" rel="no_follow"><img src="/images/thumb/23838.jpg"></a></td>
+<td><a href="/view_object.php?object_id=39575" rel="no_follow"><img src="/images/thumb/39575.JPG"></a></td>
+</tr></table>
+<a name="chapter_2"></a><h2>Route Description</h2>
+<br>
+The saddle between Merriam and Royce Peak can be reached either by climbing a very easy gradual slope from the Merriam Lake side(west) or by the permanent glacier on the Royce Lakes side.  In mid to late season one can skirt the right(North) side of the snow field and ascend the saddle without an axe or crampons.  Once on the saddle scramble up the slope either via some nice Class 2-3 rocks or follow one of the semi-worn gravel trails that winds its way(off and on) to the summit.  The middle of the three piles of rocks on the summit plateau is the actual summit.  All three can be climbed, though the far summit requires some Class 3 moves.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=23837" rel="no_follow"><img src="/images/thumb/23837.jpg"></a></td>
+<td><a href="/view_object.php?object_id=23839" rel="no_follow"><img src="/images/thumb/23839.jpg"></a></td>
+</tr></table>
+<a name="chapter_3"></a><h2>Essential Gear</h2>
+<br>
+In early summer and springtime ice axes and crampons may be required to climb the route from Royce Lakes.  The snow field is in pretty good shape, though can become soft at times.  Winter ascents require a long snow filled approach.<br>
+<a name="chapter_4"></a><h2>Miscellaneous Info</h2>
+<br>
+If you have information about this route that doesn't pertain to any of the other sections, please add it here.<br>
+<a name="chapter_5"></a><h2>Images</h2>
+<div align="center"><table id="my_images"><tr>
+<td><a href="/the-snow-field-located-in-the/23838/c-158716"><img alt="The snow field located in the..." src="/images/square/23838.jpg"></a></td>
+<td><a href="/looking-up-at-the-three/23837/c-158716"><img alt="Looking up at the three..." src="/images/square/23837.jpg"></a></td>
+<td><a href="/the-two-major-routes-east-and/39575/c-158716"><img alt="The two major routes(East and..." src="/images/square/39575.JPG"></a></td>
+<td><a href="/the-steep-gravel-and-rock/23839/c-158716"><img alt="The steep gravel and rock..." src="/images/square/23839.jpg"></a></td>
+</tr></table></div>
+            </article> 
+date:  
+difficulty: Class 2 
+elevation:  
+grade:  
+id: 158716 
+latitude: 37.3189 
+location: California, United States, North America 
+longitude: -118.7697 
+my_route_quality:  
+name: South slope via Royce/Merriam saddle 
+number_of_pitches:  
+page_url: http://www.summitpost.org/south-slope-via-royce-merriam-saddle/158716 
+rock_difficulty:  
+route_quality: 0.6923076923076923 
+route_type: Scramble 
+seasons:  
+time_required: Less than two hours 
+type: Route 
+

@@ -1,0 +1,128 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Approach</h2>
+<br>
+The approach is a fairly short ( 3 miles ? ) hike from South lake via the Bishop Pass trail, the Treasure Lakes trail and cross counrty hiking up slabs and scree to campsites at the base on Mt. Gilbert. This can also be easily done as a day trip from South Lake.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=142405" rel="no_follow"><img src="/images/thumb/142405.jpg"></a></td>
+<td><a href="/view_object.php?object_id=142407" rel="no_follow"><img src="/images/thumb/142407.jpg"></a></td>
+<td><a href="/view_object.php?object_id=142403" rel="no_follow"><img src="/images/thumb/142403.jpg"></a></td>
+<td><a href="/view_object.php?object_id=142404" rel="no_follow"><img src="/images/thumb/142404.jpg"></a></td>
+<td><a href="/view_object.php?object_id=142406" rel="no_follow"><img src="/images/thumb/142406.jpg"></a></td>
+</tr></table>
+<a name="chapter_2"></a><h2>Route Description</h2>
+<br>
+The 900' 50 - 65 degree couloir is obvious. The bershrund if present is usually easily crossed. Rock belays on the side of the couloir are possible. At the top of the couloir,  turn left and follow a corner and slabs to the right of the corner to the summit. This is an excellent ice climb.<br>
+<br>
+A note on the rating - the old Roper guide rated this climb III, 5.6 / AI2 or WI3, as does the current Secor guide book. The Sierra Classics guide ( Moynier &amp; Fiddler ) calls it class 4 - 5. This is probably a more realistic rating, but there are several ways to finish  the last pitch, so I'll leave the original rating. If there is fresh snow on the final slabs, you better be able to lead 5.6!<br>
+<br>
+Descend the class 2 Southeast slope route to Treasure Col ( see the High Sierra guide book by R. J. Secor ) or, if you're camped below the North Face, I've used this descent - rappel or downclimb from the summit back to the top of the couloir. Continue descending to the west down a rock chute ( rappels ) until one is able to climb through the notch west of Mt. Gilbert and back to the cirque north of the peak. <br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=11852" rel="no_follow"><img src="/images/thumb/11852.jpg"></a></td>
+<td><a href="/view_object.php?object_id=11674" rel="no_follow"><img src="/images/thumb/11674.jpg"></a></td>
+<td><a href="/view_object.php?object_id=11853" rel="no_follow"><img src="/images/thumb/11853.jpg"></a></td>
+<td><a href="/view_object.php?object_id=11851" rel="no_follow"><img src="/images/thumb/11851.jpg"></a></td>
+<td><a href="/view_object.php?object_id=125597" rel="no_follow"><img src="/images/thumb/125597.jpg"></a></td>
+</tr></table>
+<a name="chapter_3"></a><h2>Essential Gear</h2>
+<br>
+Ice axe and north wall hammer, crampons, rope and a light rack, a few screws.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr><td><a href="/view_object.php?object_id=142408" rel="no_follow"><img src="/images/thumb/142408.jpg"></a></td></tr></table>
+<a name="chapter_4"></a><h2>Miscellaneous Info</h2>
+<br>
+If you have information about this route that doesn't pertain to any of the other sections, please add it here.<br>
+<div align="center">
+<a name="messages"></a><a name="chapter_5"></a><h2>Additions and Corrections</h2>[ <a href="/object_discussion.php?type=vote_comments&amp;object_id=157002&amp;is_addition=1#vote_form">Post an Addition or Correction</a> ]<table cellpadding="0" cellspacing="0" style="width: 775px;"><tr><td><table cellpadding="2" cellspacing="2" width="100%"><tr>
+<td align="left"><span class="pagertext">Viewing: <b>1</b>-<b>2</b> of <b>2</b></span></td>
+<td align="center"></td>
+<td align="right">    </td>
+</tr></table></td></tr></table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="109124"></a> <a class="dis_user_lnk" href="/users/pellucidwombat/12893">PellucidWombat</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Route Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/pellucidwombat/12893"><img alt="PellucidWombat" width="50" height="50" border="0" src="/images/avatars/833128.jpg"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">
+<u>Rock Pitch:</u><br><br><br>If you head straight towards the large chimney above the couloir, this is the 5.5-5.6 variation, which requires climbing a short section of thin parallel cracks. To climb the class 4 variation, descend the south side of the saddle a short ways and find your way up slabs to the left.<br><br><br><br><br><br><u>Descent:</u> <br><br><br>As we were concerned about finding our way down the rapps, we found another descent route (albeit a little longer) to get back to camp if you're camped at the base of the North Couloir. <br><br><br><br><br><br>Descend the SE slopes of Mt Gilbert to pass 12,400' and descend the couloir. When we did this, it was filled with hard neve, but there were several nice rapp stations to use (the first is about 30 ft down from the top). <br><br><br><br><br><br>From there, cut across the bowl staying fairly high. You want to cut around the ridge on a lightly forested slope between a set of cliffs at 11,600'. This puts you back in the correct drainage to reach camp with minimal elevation loss.</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Dec 24, 2005 4:14 pm</span></td></tr>
+</table>
+<table border="0" width="745" class="messages" style="margin-left: 30px;">
+<tr><td rowspan="4" valign="top"><img src="/styles/layout/reply_arrow.gif"></td></tr>
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="109434"></a> <a class="dis_user_lnk" href="/users/craig-peer/5092">Craig Peer</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Route Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/craig-peer/5092"><img alt="Craig Peer" width="50" height="50" border="0" src="/images/avatars/111278.JPG"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">Thanks for the additional information.</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Dec 27, 2005 1:07 pm</span></td></tr>
+</table>
+<br><table border="0" width="775"><tr><td><table cellpadding="2" cellspacing="2" width="100%"><tr>
+<td align="left"><span class="pagertext">Viewing: <b>1</b>-<b>2</b> of <b>2</b></span></td>
+<td align="center"></td>
+<td align="right">    </td>
+</tr></table></td></tr></table>
+<br>
+</div>
+<a name="chapter_6"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/september-24th-2005-sp/142405/c-157002"><img alt="September 24th, 2005 - SP..." src="/images/square/142405.jpg"></a></td>
+<td><a href="/mt-gilbert-north-couloir/243653/c-157002"><img alt="Mt. Gilbert North Couloir" src="/images/square/243653.jpg"></a></td>
+<td><a href="/september-24th-2005/142408/c-157002"><img alt="September 24th, 2005 -..." src="/images/square/142408.jpg"></a></td>
+<td><a href="/near-the-top-of-the-north/11853/c-157002"><img alt="Near the top of the North..." src="/images/square/11853.jpg"></a></td>
+<td><a href="/10-sept-2005-north-couloir/125597/c-157002"><img alt="10-Sept-2005: North couloir,..." src="/images/square/125597.jpg"></a></td>
+<td><a href="/september-24th-2005/142406/c-157002"><img alt="September 24th, 2005 -..." src="/images/square/142406.jpg"></a></td>
+<td><a href="/september-24th-2005/142407/c-157002"><img alt="September 24th, 2005 -..." src="/images/square/142407.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/looking-down-mt-gilbert-s-n/11674/c-157002"><img alt="Looking down Mt. Gilbert\'s N...." src="/images/square/11674.jpg"></a></td>
+<td><a href="/mount-gilbert-in-full-winter/11851/c-157002"><img alt="Mount Gilbert in full winter..." src="/images/square/11851.jpg"></a></td>
+<td><a href="/mt-gilbert-north-couloir/747305/c-157002"><img alt="Mt. Gilbert, North Couloir" src="/images/square/747305.JPG"></a></td>
+<td><a href="/september-24th-2005-ahh/142404/c-157002"><img alt="September 24th, 2005 - Ahh,..." src="/images/square/142404.jpg"></a></td>
+<td><a href="/mt-gilbert-n-couloir/512856/c-157002"><img alt="Mt Gilbert N Couloir" src="/images/square/512856.JPG"></a></td>
+<td><a href="/looking-up-mount-gilberts/11852/c-157002"><img alt="Looking up Mount Gilberts..." src="/images/square/11852.jpg"></a></td>
+<td><a href="/september-24th-2005-the/142403/c-157002"><img alt="September 24th, 2005 - The..." src="/images/square/142403.jpg"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/north-couloir/images/p-157002">View Gallery - 1 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty: III, 5.6, AI2 or WI3 
+elevation:  
+grade:  
+id: 157002 
+latitude: 37.137 
+location: California, United States, North America 
+longitude: -118.597 
+my_route_quality:  
+name: North Couloir 
+number_of_pitches:  
+page_url: http://www.summitpost.org/north-couloir/157002 
+rock_difficulty:  
+route_quality: 0.8 
+route_type: Technical ice and rock 
+seasons:  
+time_required: Half a day 
+type: Route 
+

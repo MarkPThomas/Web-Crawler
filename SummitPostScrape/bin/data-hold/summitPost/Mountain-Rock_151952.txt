@@ -1,0 +1,71 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>Mount Mellenthin is the second highest point in the La Sal mountain range which is located in San Juan County. The La Sals are the second highest mountain range in Utah, second only to the Uinta Mountains. <br>
+<br>
+The La Sals are laccoliths. Magma rose under sedimentary layers, intruding into sandstone and shale layers, but did not break the surface as in a volcanic eruption.  Successive intrusions developed overlapping laccolithic blisters. The intrusions lifted the overlying sediments as much as 6,000'. <br>
+<br>
+USGS Quad 24k, Mount Peale, Quad # = o38109-d2 <br>
+USGS Quad 100k, La Sal, Quad # = f38109-a1 <br>
+USGS Quad 250k, Moab, Quad # c38108-a1 <br>
+<a name="chapter_2"></a><h2>Getting There</h2>Moab ~ La Sal Pass<br>
+From Moab, UT drive 21.8 miles south on Utah highway 191 to the junction of Utah Highway 46 at La Sal Junction. Turn east (left) onto Utah 46, pass through the small town of La Sal, and drive 12.8 miles to the signed, gravel road stating, "La Sal Pass." Turn left onto this graded gravel road. Drive 2 miles and turn left (west) onto the La Sal Pass Road at a marked junction. Drive another 7.4 miles to La Sal Pass at 10,125 feet. Most 2WD vehictes will make it to this point, however, in late spring there is a creek crossing that may present a challenge during high run-off periods. There are a couple of possible starting points for Mt. Peale. One is to drive all the way to La Sal Pass near Medicine Lake and park. The other, is to park at the drainage just past the turnoff to Beaver Lake. Both options are viable and the difference in distance is negligable. Alternatively, La Sal Pass can be approached from the west side, but 4WD and high clearance is required.  (copied from the Peale Page, I found the Peale description to be accurate)<br>
+The turn off after Beaver Lake is approximaety .50 of a mile before the La Sal Pass trailhead and would the the last right hand turn within that distance.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr><td><a href="/view_object.php?object_id=30329" rel="no_follow"><img src="/images/thumb/30329.jpg"></a></td></tr></table>
+<a name="chapter_3"></a><h2>Red Tape</h2>Mount Mellenthin is in the Manti-La Sal National Forest. No permits or summit fees are necessary. <br>
+<a name="chapter_4"></a><h2>Camping</h2>Since Mount Mellenthin is in the Manti-La Sal National Forest camping is plentiful along the La Sal Loop road for its entirety.<br>
+<br>
+La Sal Pass:<br>
+Take the forest road leading south from the trailhead.<br>
+<br>
+Medince Lake:<br>
+Take the last left hand turn (1000 meters) before La Sal Pass <br>
+<br>
+Peale trailhead area:<br>
+Take the Right hand turn (.50 mile) before La Sal Pass<br>
+<br>
+<br>
+<p></p>
+<table class="inline_image_thumbs"><tr><td><a href="/view_object.php?object_id=30330" rel="no_follow"><img src="/images/thumb/30330.JPG"></a></td></tr></table>                     <a name="chapter_5"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/mount-mellenthin/754954/c-151952"><img alt="Mount Mellenthin" src="/images/square/754954.jpg"></a></td>
+<td><a href="/haystack-left-mellenthin/50222/c-151952"><img alt="Haystack (left), Mellenthin..." src="/images/square/50222.jpg"></a></td>
+<td><a href="/looking-north-at-mt/115554/c-151952"><img alt="Looking north at Mt...." src="/images/square/115554.JPG"></a></td>
+<td><a href="/mt-mellenthin-from-tuk-ne-ridge/290978/c-151952"><img alt="Mt. Mellenthin from Tuk NE Ridge" src="/images/square/290978.JPG"></a></td>
+<td><a href="/la-sal-mountains/967573/c-151952"><img alt="La Sal Mountains" src="/images/square/967573.JPG"></a></td>
+<td><a href="/mellenthin-peale-tuk-as/30328/c-151952"><img alt="Mellenthin, Peale, Tuk as..." src="/images/square/30328.jpg"></a></td>
+<td><a href="/july-4-2001-mt-mellenthin/32864/c-151952"><img alt="July 4, 2001&lt;br /&gt; Mt. Mellenthin..." src="/images/square/32864.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/mount-peale-summit-view-north/709212/c-151952"><img alt="Mount Peale: summit view north" src="/images/square/709212.JPG"></a></td>
+<td><a href="/looking-at-laurel-peak-with/30351/c-151952"><img alt="Looking at Laurel Peak with..." src="/images/square/30351.JPG"></a></td>
+<td><a href="/mount-mellenthin/283671/c-151952"><img alt="Mount Mellenthin" src="/images/square/283671.jpg"></a></td>
+<td><a href="/someone-s-gra-filthy-along/30330/c-151952"><img alt="Someone’s gra-filthy along..." src="/images/square/30330.JPG"></a></td>
+<td><a href="/from-the-saddle-looking-along/30350/c-151952"><img alt="From the saddle looking along..." src="/images/square/30350.JPG"></a></td>
+<td><a href="/mellenthin-as-seen-from/30352/c-151952"><img alt="Mellenthin as seen from..." src="/images/square/30352.JPG"></a></td>
+<td><a href="/7-nov-2004-mt-mellenthin-s/80728/c-151952"><img alt="7 Nov 2004 - Mt. Mellenthin\'s..." src="/images/square/80728.jpg"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/mount-mellenthin/images/p-151952">View Gallery - 21 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty:  
+elevation: 12645 
+grade:  
+id: 151952 
+latitude: 38.4633 
+location: Utah, United States, North America 
+longitude: -109.2332 
+my_route_quality:  
+name: Mount Mellenthin 
+number_of_pitches:  
+page_url: http://www.summitpost.org/mount-mellenthin/151952 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons:  
+time_required:  
+type: Mountain-Rock 
+

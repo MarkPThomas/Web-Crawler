@@ -1,0 +1,107 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>Starlight Peak is but a sub-peak of North Palisade, but due to it's spectacular summit block (the "Milk Bottle") and the difficulty of most routes to its summit, it has acquired an aura of its own, and justly ranks among the 15 California fourteeners.  The most common way to climb Starlight is to traverse from North Palisade, or (less frequently) from Thunderbolt Peak.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=14147" rel="no_follow"><img src="/images/thumb/14147.JPG"></a></td>
+<td><a href="/view_object.php?object_id=18326" rel="no_follow"><img src="/images/thumb/18326.jpg"></a></td>
+<td><a href="/view_object.php?object_id=18327" rel="no_follow"><img src="/images/thumb/18327.JPG"></a></td>
+<td><a href="/view_object.php?object_id=2144" rel="no_follow"><img src="/images/thumb/2144.jpg"></a></td>
+<td><a href="/view_object.php?object_id=18067" rel="no_follow"><img src="/images/thumb/18067.jpg"></a></td>
+</tr></table>
+<a name="chapter_2"></a><h2>Approach Information</h2>Drive to Big Pine in Owens Valley and then drive to Glacier Lodge. Hike the North Fork of Big Pine Creek for approaches to North-East facing routes. <br>
+<br>
+Alternatively, drive to Bishop and then to South Lake; hike over Bishop Pass and into Dusy Basin. Cross Thunderbolt Pass (cross-country) into the Palisade Basin. This is the approach for South-West facing routes.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr><td><a href="/view_object.php?object_id=18331" rel="no_follow"><img src="/images/thumb/18331.jpg"></a></td></tr></table>
+<a name="chapter_3"></a><h2>Red Tape</h2>Overnight wilderness permits are required at all times, and both both Bishop Pass and the North Fork of Big Pine Creek have use quotas in effect from May 1 to November 1. Permits can be obtained from the ranger stations in Lee Vining, Bishop or Lone Pine. If under quotas, make reservations is advance. More information can be found at the Inyo  <a href="http://www.r5.fs.fed.us/inyo/vvc/wild_permits/permits.htm">National Forest Visitor Center</a>.<br>
+<br>
+<a name="chapter_4"></a><h2>Mountain Conditions</h2>Check <a href="http://www.395.com">www.395.com</a> for current conditions, or call the Inyo National Forest Rangers at (760) 873-2400 for conditions. Daily report are available at the ranger station.<br>
+<br>
+Another nice source for weather data is <a href="http://mammothweather.com/">Howard Sheckter's webpage</a> out of Mammoth Lakes. <br>
+<p></p>
+<table class="inline_image_thumbs"><tr><td><a href="/view_object.php?object_id=18332" rel="no_follow"><img src="/images/thumb/18332.jpg"></a></td></tr></table>
+<a name="chapter_5"></a><h2>History</h2>See Stephen F. Porcella &amp; Cameron M. Burns, Climbing California's Fourteeners.<br>
+<a name="chapter_6"></a><h2>External Links</h2>
+<ul>
+<li>
+<a href="http://http://www.climber.org/TripReports/2002/932.html">Starlight Peak</a><br> A Starlight Peak TR<br>
+</li>
+<li>
+<a href="http://www.climber.org/TripReports/2002/937.html">Starlight Peak</a><br> Another TR<br>
+</li>
+</ul>                     <div align="center">
+<a name="messages"></a><a name="chapter_7"></a><h2>Additions and Corrections</h2>[ <a href="/object_discussion.php?type=vote_comments&amp;object_id=150505&amp;is_addition=1#vote_form">Post an Addition or Correction</a> ]<table cellpadding="0" cellspacing="0" style="width: 775px;"><tr><td><table cellpadding="2" cellspacing="2" width="100%"><tr>
+<td align="left"><span class="pagertext">Viewing: <b>1</b>-<b>1</b> of <b>1</b></span></td>
+<td align="center"></td>
+<td align="right">    </td>
+</tr></table></td></tr></table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="390462"></a> <a class="dis_user_lnk" href="/users/hyadventure/19875">Hyadventure</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>WARNING</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/hyadventure/19875"><img alt="Hyadventure" width="50" height="50" border="0" src="/images/avatars/325139.jpg"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">Do not climb the Milk Bottle without a sling (double) to back-up the bolt. The ¼ inch bolt and folded sheet metal hanger, both rusted, are not safe to handle bodyweight, let alone a fall. <br><br>
+<br><br>
+</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Aug 30, 2010 8:26 pm</span></td></tr>
+</table>
+<br><table border="0" width="775"><tr><td><table cellpadding="2" cellspacing="2" width="100%"><tr>
+<td align="left"><span class="pagertext">Viewing: <b>1</b>-<b>1</b> of <b>1</b></span></td>
+<td align="center"></td>
+<td align="right">    </td>
+</tr></table></td></tr></table>
+<br>
+</div>
+<a name="chapter_8"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/milk-bottle/477005/c-150505"><img alt="Milk Bottle" src="/images/square/477005.JPG"></a></td>
+<td><a href="/the-summit-pinnacle-i-free/8338/c-150505"><img alt="The summit pinnacle I free..." src="/images/square/8338.JPG"></a></td>
+<td><a href="/starlight-8-12-09/541059/c-150505"><img alt="Starlight 8-12-09" src="/images/square/541059.JPG"></a></td>
+<td><a href="/the-final-20-feet-of-the-milk/18067/c-150505"><img alt="The final 20 feet of the Milk..." src="/images/square/18067.jpg"></a></td>
+<td><a href="/palisades-with-labels/331294/c-150505"><img alt="Palisades with labels" src="/images/square/331294.jpg"></a></td>
+<td><a href="/palisades-in-early-morning/331287/c-150505"><img alt="Palisades in early morning" src="/images/square/331287.jpg"></a></td>
+<td><a href="/starlight-peak-in-march/281423/c-150505"><img alt="Starlight Peak in March" src="/images/square/281423.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/manly-pose-on-starlight-profile/632950/c-150505"><img alt="Manly Pose on Starlight (Profile)" src="/images/square/632950.jpg"></a></td>
+<td><a href="/overlooking-fourth-lake/949413/c-150505"><img alt="Overlooking Fourth Lake" src="/images/square/949413.JPG"></a></td>
+<td><a href="/crossing-the-shrund-into/11854/c-150505"><img alt="Crossing the \'shrund into..." src="/images/square/11854.JPG"></a></td>
+<td><a href="/starlight-peak-and-the-milk/14147/c-150505"><img alt="Starlight Peak and the Milk..." src="/images/square/14147.JPG"></a></td>
+<td><a href="/leading-the-milkbottle/322790/c-150505"><img alt="Leading the Milkbottle" src="/images/square/322790.JPG"></a></td>
+<td><a href="/lauren-rapping-off-the-4th/128043/c-150505"><img alt="Lauren rapping off the 4th..." src="/images/square/128043.JPG"></a></td>
+<td><a href="/this-photo-depicts-the/12245/c-150505"><img alt=" This photo depicts the..." src="/images/square/12245.jpg"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/starlight-peak/images/p-150505">View Gallery - 69 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty:  
+elevation: 14200 
+grade:  
+id: 150505 
+latitude: 37.0951 
+location: California, United States, North America 
+longitude: -118.5142 
+my_route_quality:  
+name: Starlight Peak 
+number_of_pitches:  
+page_url: http://www.summitpost.org/starlight-peak/150505 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons:  
+time_required:  
+type: Mountain-Rock 
+

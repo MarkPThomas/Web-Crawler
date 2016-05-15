@@ -1,0 +1,86 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Approach</h2>From the main highway, turn onto a fairly well developed dirt road heading north. This road intersects the main highway just after Skull Rock pass. It should be the first dirt road on the right that you come to.  Follow this dirt road north, keeping an eye out for another, more rugged dirt road leading off to the right (east) of the road, towards Notch Peak.  It's hard to see, so keep a close look out for it. <br>
+<br>
+NOTE:  This road is labeled as a jeep road on topo maps.  I managed to get my Subaru Impreza to the end, but only after a lot of difficulty (and filling in some of the really big holes in the road with rocks).<br>
+<br>
+This road eventually turns right just as it nears the mouth of a two canyons, then it starts going up the left fork for another 100 yards.  I stopped here to begin hiking.<br>
+<br>
+<noformat>
+<table>
+<tr>
+<td><div align="center" class="image" style="width: 73px;">
+<a href="/i-really-thought-this-pillar/19430"><img alt="I really thought this pillar..." height="100" width="67" src="/images/thumb/19430.jpg"></a><br><span class="caption"> </span>
+</div></td>
+<td><div align="center" class="image" style="width: 67px;">
+<a href="/the-north-face-as-viewed-from/19431"><img alt="The north face as viewed from..." height="100" width="61" src="/images/thumb/19431.jpg"></a><br><span class="caption"> </span>
+</div></td>
+<td><div align="center" class="image" style="width: 106px;">
+<a href="/a-more-detailed-topo-showing/30643"><img alt="A more detailed topo showing..." height="66" width="100" src="/images/thumb/30643.jpg"></a><br><span class="caption"> </span>
+</div></td>
+</tr>
+</table>
+</noformat><a name="chapter_2"></a><h2>Route Description</h2>From the road you can scramble through some washes around the rock outcroppings to the south to reach the mouth of the canyon leading to the 'amphitheater.'  I opted instead to just scramble over the saddle in the outcropping and drop into the canyon.  From there just walk up the rocky wash towards the base of the north face.  Eventually the tributary narrows and twists and turns, but one's view is not much restricted. Keep following the wash as far as desired.  I didn't make it to the end because altough I was hiking it in the fall, there was still snow in the bottom of the wash!  I kept post-holing and eventually turned back because it was getting dark.  The snow didn't begin until I got under the shadow of the face, though.<br>
+<br>
+<noformat>
+<table>
+<tr>
+<td><div align="center" class="image" style="width: 106px;">
+<a href="/here-s-the-north-side-of-the/19441"><img alt="Here s the north side of the..." height="50" width="100" src="/images/thumb/19441.jpg"></a><br><span class="caption"> </span>
+</div></td>
+<td><div align="center" class="image" style="width: 75px;">
+<a href="/looking-into-the/19442"><img alt="Looking into the..." height="100" width="69" src="/images/thumb/19442.jpg"></a><br><span class="caption"> </span>
+</div></td>
+</tr>
+</table>
+</noformat><a name="chapter_3"></a><h2>Essential Gear</h2>Same as for the Sawtooth trail, although in this case, a spare tire/s are even more important.<br>
+<br>
+<noformat>
+<table>
+<tr>
+<td><div align="center" class="image" style="width: 106px;">
+<a href="/the-cliff-bands-that-compose/19440"><img alt="The cliff bands that compose..." height="66" width="100" src="/images/thumb/19440.jpg"></a><br><span class="caption"> </span>
+</div></td>
+<td><div align="center" class="image" style="width: 106px;">
+<a href="/looking-north-from-the-top-of/19449"><img alt="Looking north from the top of..." height="67" width="100" src="/images/thumb/19449.jpg"></a><br><span class="caption"> </span>
+</div></td>
+<td><div align="center" class="image" style="width: 106px;">
+<a href="/looking-down-off-the-north/19451"><img alt="Looking down off the north..." height="69" width="100" src="/images/thumb/19451.jpg"></a><br><span class="caption"> </span>
+</div></td>
+</tr>
+</table>
+</noformat><a name="chapter_4"></a><h2>Miscellaneous Info</h2>If you have information about this route that doesn't pertain to any of the other sections, please add it here.<br>
+                     <a name="chapter_5"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/the-cliff-bands-that-compose/19440/c-157948"><img alt="The cliff bands that compose..." src="/images/square/19440.jpg"></a></td>
+<td><a href="/looking-into-the/19442/c-157948"><img alt="Looking into the..." src="/images/square/19442.jpg"></a></td>
+<td><a href="/i-really-thought-this-pillar/19430/c-157948"><img alt="I really thought this pillar..." src="/images/square/19430.jpg"></a></td>
+<td><a href="/here-s-the-north-side-of-the/19441/c-157948"><img alt="Here\'s the north side of the..." src="/images/square/19441.jpg"></a></td>
+<td><a href="/looking-down-off-the-north/19451/c-157948"><img alt="Looking down off the north..." src="/images/square/19451.jpg"></a></td>
+<td><a href="/looking-north-from-the-top-of/19449/c-157948"><img alt="Looking north from the top of..." src="/images/square/19449.jpg"></a></td>
+<td><a href="/a-more-detailed-topo-showing/30643/c-157948"><img alt="A more detailed topo showing..." src="/images/square/30643.jpg"></a></td>
+</tr>
+<tr><td><a href="/the-north-face-as-viewed-from/19431/c-157948"><img alt="The north face as viewed from..." src="/images/square/19431.jpg"></a></td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty: Cl. 1 
+elevation:  
+grade:  
+id: 157948 
+latitude: 39.143 
+location: Utah, United States, North America 
+longitude: -113.409 
+my_route_quality:  
+name: The 'Amphitheater' 
+number_of_pitches:  
+page_url: http://www.summitpost.org/the-amphitheater/157948 
+rock_difficulty:  
+route_quality: 0.8 
+route_type: Hiking 
+seasons:  
+time_required: Half a day 
+type: Route 
+

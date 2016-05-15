@@ -1,0 +1,363 @@
+activities: Hiking, Trad Climbing, Sport Climbing, Toprope, Bouldering, Scrambling 
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>Mount Diablo is a lone massif towering over the eastern San Francisco Bay area, separating the valleys and ranges of the Coast Ranges from the vast Central Valley and the delta of the San Joaquin River. The high point of Contra Costa County, Mount Diablo is about 25 miles east-northeast of San Francisco. It is shaped like a volcano with two high summits (North Peak is 3557 feet) tapering down to the surrounding hills, which are all below 2000 feet. It is said that the view from the top of Mount Diablo covers 40 counties, and is the world's second most far-ranging view, after <a href="http://www.summitpost.com/mountains/mountain_link.pl/mountain_id/17">Mount Kilimanjaro</a> of Africa. Conversely, Mount Diablo is visible from many, many places, especially on the inland side where the land is vast and flat. As a result its summit is the primary point of reference for land surveying in California, the Mount Diablo Meridian.<br>
+<br>
+Mount Diablo is a popular biking, hiking, horse riding, camping, and sight-seeing destination. There is a 15 mile-long winding road that reaches the summit, where there is a visitor center building and observation deck. The paved road plays host to numerous road biking races. There are many trails criss-crossing the mountain, most are fire roads through rolling grassy terrain with open views and accessible to mountain bikes. Steeper terrain are found on the southwest (for example the sandstone outcrops at "Rock City") and northeast flanks of the mountain. <a href="http://www.topozone.com/map.asp?lat=37.89317&amp;lon=-121.89927&amp;size=l&amp;u=4&amp;datum=nad27&amp;layer=DRG">North Peak</a> (3557 feet), located 2 miles to the northeast of the main peak, is inaccessible to automobiles, and is seldom visited. It features very steep terrain with lots of rock outcrops, ideal for scrambling.<br>
+<p></p>
+<table class="inline_image_thumbs"><tbody><tr>
+<td><a href="/view_object.php?object_id=5231" rel="no_follow"><img src="/images/thumb/5231.jpg"></a></td>
+<td><a href="/view_object.php?object_id=82894" rel="no_follow"><img src="/images/thumb/82894.JPG"></a></td>
+<td><a href="/view_object.php?object_id=9745" rel="no_follow"><img src="/images/thumb/9745.jpg"></a></td>
+<td><a href="/view_object.php?object_id=10387" rel="no_follow"><img src="/images/thumb/10387.jpg"></a></td>
+<td><a href="/view_object.php?object_id=10440" rel="no_follow"><img src="/images/thumb/10440.jpg"></a></td>
+</tr></tbody></table>
+<p></p>
+<a name="chapter_2"></a><h2>Getting There</h2>The following are the main trailheads. There are several others that are in residential neighborhoods in the surrounding towns.<br>
+<br>
+1. South entrance: Take Diablo Road from Interstate 680 at the town of Danville. This is the traditional approach. Follow signs to Mount Diablo State Park. You can drive all the way to the top from here.<br>
+<br>
+2. North entrance: Take Walnut Ave off Ygnacio Valley Road in the town of Walnut Creek; follow signs to Mount Diablo State Park. You can drive all the way to the top from here.<br>
+<br>
+3. North - Mitchell Canyon trailhead (700 feet elevation) : Take Mitchell Canyon Road off Clayton Road in the town of Clayton, go to the end. There is a ranger station here (parking fee charged). Mitchell Canyon Road is a popular bike trail that climbs to the summit in 13 miles.<br>
+<br>
+4. North - Regency Road trailhead (500 feet elevation): Take Regency Road off Marsh Creek Road in the town of Clayton, go to the end and park on the side of street (free). This trailhead accesses Donner Canyon and Back Canyon. Both canyons lead to the main peak or north peak in 6 miles through steep trails, however bicyclists can follow Donner Canyon Road for a longer ride to the summits.<br>
+<br>
+5. Northeast - Marsh Creek Road trailhead (900 feet elevation): This is an unsigned, gated turn-off on Marsh Creek Road, east of the town of Clayton. Take Marsh Creek Road until it reaches its highest saddle, then park on the right. A pair of high voltage power lines crosses the road close to it. This trailhead accesses the Mt Olympia Trail, the steepest trail in the park.<br>
+<p></p>
+<table class="inline_image_thumbs"><tbody><tr>
+<td><a href="/view_object.php?object_id=6491" rel="no_follow"><img src="/images/thumb/6491.jpg"></a></td>
+<td><a href="/view_object.php?object_id=19209" rel="no_follow"><img src="/images/thumb/19209.JPG"></a></td>
+<td><a href="/view_object.php?object_id=25308" rel="no_follow"><img src="/images/thumb/25308.jpg"></a></td>
+<td><a href="/view_object.php?object_id=17932" rel="no_follow"><img src="/images/thumb/17932.jpg"></a></td>
+<td><a href="/view_object.php?object_id=82904" rel="no_follow"><img src="/images/thumb/82904.jpg"></a></td>
+</tr></tbody></table>
+<p></p>
+<a name="chapter_3"></a><h2>Red Tape</h2>Entrance fee to Mount Diablo State Park is $10 daily, collected at the North and South entrances.<br>
+<a name="chapter_4"></a><h2>When To Climb</h2>Avoid summers for the oppressive heat. Spring is the best season when wild flowers carpet the grassy slopes.<br>
+<a name="chapter_5"></a><h2>Camping</h2>Camping in designated campgrounds only. Fees and reservation required. Inquire at entrance gates.<br>
+<a name="chapter_6"></a><h2>Mountain Conditions</h2>Find out the current weather at the <a href="hhttp://forecast.weather.gov/MapClick.php?lat=37.882034624454015&amp;lon=-121.91425323486328&amp;site=mtr&amp;smap=1&amp;unit=0&amp;lg=en&amp;FcstType=text">NOAA Weather Station</a> located atop Mount Diablo (link contributed by <a href="http://www.summitpost.org/user_page.php?user_id=65145">TheIgor</a>).<br>
+<a name="chapter_7"></a><h2>Etymology</h2>Supposedly Mount Diablo was named by Spanish soldiers who lost a battle with local Indians in the vicinity, probably in the 18th century. The soldiers believed that the mountain was the "devil" ("diablo" in Spanish) who caused their defeat.<br>
+<a name="chapter_8"></a><h2>External Links</h2>
+<ul>
+<li>
+<a href="http://www.mdia.org/hikesdifficult.htm">Ten Demanding Trails</a><br>
+ Trail descriptions.<br>
+</li>
+<li>
+<a href="http://www.pctrailruns.com/Diablo.htm">Trail Runs</a><br>
+ 50 mile, 100 mile endurance trail running on Mount Diablo.<br>
+</li>
+<li>
+<a href="http://www.savemountdiablo.org/AboutMountDiablo.htm">Save Mount Diablo</a><br>
+ History of Mount Diablo.<br>
+</li>
+<li>
+<a href="http://www.diablomag.com/archives/guides/DM9907Guide.html">Mount Diablo Guide</a><br>
+ Extensive information on hiking and biking trails.<br>
+</li>
+<li>
+<a href="http://sepwww.stanford.edu/sep/morgan/images/scenery/california/sanfran/east/mount_diablo/index.html">Morgan &amp; Kim Brown, April 26, 2003.  Moses Rock Ridge</a><br>
+ <br>
+</li>
+<li>
+<a href="http://www.snwburd.com/bob/trip_reports/diablo_1.html">Four Summits - March 26, 2004</a><br>
+ <br>
+</li>
+<li>
+<a href="http://www.backcountrybliss.net/2009/12/snow-on-mt-diablo-dec-7-09.html">Snow on Mount Diablo</a><br>
+<br>
+</li>
+</ul>
+<div align="center">
+<a name="messages"></a><a name="chapter_9"></a><h2>Additions and Corrections</h2>[ <a href="/object_discussion.php?type=vote_comments&amp;object_id=150863&amp;is_addition=1#vote_form">Post an Addition or Correction</a> ]<table cellpadding="0" cellspacing="0" style="width: 775px;"><tr><td><table cellpadding="2" cellspacing="2" width="100%"><tr>
+<td align="left"><span class="pagertext">Viewing: <b>1</b>-<b>14</b> of <b>14</b></span></td>
+<td align="center"></td>
+<td align="right">    </td>
+</tr></table></td></tr></table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="12970"></a> <a class="dis_user_lnk" href="/users/gordonye/361">gordonye</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Untitled Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/gordonye/361"><img alt="gordonye" width="50" height="50" border="0" src="/images/avatars/251792.jpg"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">It is probably a false claim (myth). This claim is widely used in official literature, but a number of people have disputed it. For example, Pikes peak is a highly qualified contender. Search google for "diablo kilimanjaro view".</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Sep 12, 2003 12:49 pm</span></td></tr>
+</table>
+<table border="0" width="745" class="messages" style="margin-left: 30px;">
+<tr><td rowspan="4" valign="top"><img src="/styles/layout/reply_arrow.gif"></td></tr>
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="480901"></a> <a class="dis_user_lnk" href="/users/bms914/106551">BMS914</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Re: Untitled Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/bms914/106551"><img alt="BMS914" width="50" height="50" border="0" src="/images/avatars/853427.JPG"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">I used to live at the base of this mountain.  The view is indeed fabulous, but the claim is from a plaque in the gift shop at the summit.  Guy who made the claim had a hotel on the mountain long ago he was promoting.  3900' mountains have limited views!</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Feb 24, 2014 11:47 pm</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="16393"></a> <a class="dis_user_lnk" href="/users/mpbro/220">mpbro</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Untitled Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/mpbro/220"><img alt="mpbro" width="50" height="50" border="0" src="/images/avatars/964.jpg"></a></p>
+<p><span style="font-size: 9px; color: #888;">Voted 10/10</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">I think there is a quantitative way of determining such a measure.  On a digital elevation model, simply trace straight rays at all (reasonable) azimuths and elevations from the summit of interest to obtain a map like this: <a href="http://sepwww.stanford.edu/sep/morgan/research/topo/yosemite/yosemite-valley-2by3-halfdome-visibility.gif">Half Dome</a>.<br><br><br><br><br><br>Of course, this approach ignores haze and other atmospheric events (curving rays), and also ignores the earth's curvature (easy to correct for) but you get a pretty good idea of what's going on.</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Nov 15, 2003 1:28 pm</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="16595"></a> <a class="dis_user_lnk" href="/users/gordonye/361">gordonye</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Untitled Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/gordonye/361"><img alt="gordonye" width="50" height="50" border="0" src="/images/avatars/251792.jpg"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">Morgan, very nice exercise. You can calculate visibility areas with a standard GIS software like ArcInfo. However, the crux of the problem is obtaining enough digital elevation model data to cover all visible areas. This is very difficult as the visible areas can be 200+ miles in radius, which means a high resolution dataset of the area will be huge. Using a smaller dataset you'll always miss a few distant peaks.</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Nov 19, 2003 12:16 pm</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="76593"></a> <a class="dis_user_lnk" href="/users/gordonye/361">gordonye</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Untitled Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/gordonye/361"><img alt="gordonye" width="50" height="50" border="0" src="/images/avatars/251792.jpg"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">Yes, these are endemic plants on Mt Diablo; the names of quite a few native plants carry the name of the mountain.</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted May 26, 2005 7:50 pm</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="120180"></a> <a class="dis_user_lnk" href="/users/diggler/453">Diggler</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Untitled Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/diggler/453"><img alt="Diggler" width="50" height="50" border="0" src="/images/avatars/816079.jpg"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">Gordon,<br><br><br><br><br><br>I've heard the claim before that Diablo has one of the country's farther ranging views. Hadn't heard the bit about it being only 2nd to Kiliminjaro. How is that determined, or from which sources did you get that (not disputing your claim, merely curious)?</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Sep 12, 2003 11:42 am</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="120181"></a> <a class="dis_user_lnk" href="/users/gordonye/361">gordonye</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Untitled Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/gordonye/361"><img alt="gordonye" width="50" height="50" border="0" src="/images/avatars/251792.jpg"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">It is probably a false claim (myth). This claim is widely used in official literature, but a number of people have disputed it. For example, Pikes peak is a highly qualified contender. Search google for "diablo kilimanjaro view".</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Sep 12, 2003 12:49 pm</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="120248"></a> <a class="dis_user_lnk" href="/users/mpbro/220">mpbro</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Untitled Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/mpbro/220"><img alt="mpbro" width="50" height="50" border="0" src="/images/avatars/964.jpg"></a></p>
+<p><span style="font-size: 9px; color: #888;">Voted 10/10</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">I think there is a quantitative way of determining such a measure.  On a digital elevation model, simply trace straight rays at all (reasonable) azimuths and elevations from the summit of interest to obtain a map like this: <a href="http://sepwww.stanford.edu/sep/morgan/research/topo/yosemite/yosemite-valley-2by3-halfdome-visibility.gif">Half Dome</a>.<br><br><br><br><br><br>Of course, this approach ignores haze and other atmospheric events (curving rays), and also ignores the earth's curvature (easy to correct for) but you get a pretty good idea of what's going on.</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Nov 15, 2003 1:28 pm</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="120255"></a> <a class="dis_user_lnk" href="/users/gordonye/361">gordonye</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Untitled Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/gordonye/361"><img alt="gordonye" width="50" height="50" border="0" src="/images/avatars/251792.jpg"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">Morgan, very nice exercise. You can calculate visibility areas with a standard GIS software like ArcInfo. However, the crux of the problem is obtaining enough digital elevation model data to cover all visible areas. This is very difficult as the visible areas can be 200+ miles in radius, which means a high resolution dataset of the area will be huge. Using a smaller dataset you'll always miss a few distant peaks.</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Nov 19, 2003 12:16 pm</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="121159"></a> <a class="dis_user_lnk" href="/users/nartreb/18713">nartreb</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Untitled Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/nartreb/18713"><img alt="nartreb" width="50" height="50" border="0" src="/images/avatars/898272.jpg"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">Unless there's another Mt Diablo nearby, this mountain is in the news this week as the home of the thought-to-be-extinct <br><br><br><a href="http://www.berkeley.edu/news/media/releases/2005/05/24_buckwheat.shtml">Mount Diablo Buckwheat</a>
+</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted May 26, 2005 6:48 pm</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="121160"></a> <a class="dis_user_lnk" href="/users/gordonye/361">gordonye</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Untitled Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/gordonye/361"><img alt="gordonye" width="50" height="50" border="0" src="/images/avatars/251792.jpg"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">Yes, these are endemic plants on Mt Diablo; the names of quite a few native plants carry the name of the mountain.</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted May 26, 2005 7:50 pm</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="139096"></a> <a class="dis_user_lnk" href="/users/scott-fulton/17773">Scott Fulton</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Summit Trail closed on 7/2/06</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/scott-fulton/17773"><img alt="Scott Fulton" width="50" height="50" border="0" src="/images/avatars/226929.JPG"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">As of July 2nd, 2006, the Summit Trail was closed at the South Gate Entrance due to landslides. There was a barrier about 200 or 300 yards from the trailhead. I'll try again later this summer, but I'll call the Park beforehand.</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Jul 3, 2006 10:05 pm</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="489921"></a> <a class="dis_user_lnk" href="/users/clayton-pete/125922">Clayton Pete</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Clayton Pete</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;"><p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p></td>
+<td colspan="2" style="padding-top: 6px;">The Reason for viewing the largest Land Mass is not just Mt. Diablo's elevation, but the distance to other peaks that might block the view. ie Northerly on a clear day we can see Mt. Shasta about 180 miles, north of Redding,CA, easterly to the Sierras about 100 miles, and westerly to the Pacific Ocean. Mt. Kilimanjero is far taller, but has other mountains blocking it's distant views, so the Claim for Mt. Diablo is probably correct.</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Apr 3, 2015 3:58 pm</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="490868"></a> <a class="dis_user_lnk" href="/users/tarol/26978">tarol</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>$10 now</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/tarol/26978"><img alt="tarol" width="50" height="50" border="0" src="/images/avatars/844898.JPG"></a></p>
+<p><span style="font-size: 9px; color: #888;">Voted 9/10</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">entrance fee is now $10</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Jun 9, 2015 12:08 pm</span></td></tr>
+</table>
+<br><table border="0" width="775"><tr><td><table cellpadding="2" cellspacing="2" width="100%"><tr>
+<td align="left"><span class="pagertext">Viewing: <b>1</b>-<b>14</b> of <b>14</b></span></td>
+<td align="center"></td>
+<td align="right">    </td>
+</tr></table></td></tr></table>
+<br>
+</div>
+<a name="chapter_10"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/mt-diablo-3-849-from-mt-tamalpais/596396/c-150863"><img alt="Mt. Diablo, 3,849\' from Mt. Tamalpais" src="/images/square/596396.JPG"></a></td>
+<td><a href="/sinuous-curves/82894/c-150863"><img alt="Sinuous Curves" src="/images/square/82894.JPG"></a></td>
+<td><a href="/snowy-mt-diablo-from-lafayette-reservoir/581019/c-150863"><img alt="Snowy Mt. Diablo from Lafayette Reservoir" src="/images/square/581019.JPG"></a></td>
+<td><a href="/don-t-fall-aug-03-2003/25308/c-150863"><img alt="Don\'t Fall. Aug 03, 2003" src="/images/square/25308.jpg"></a></td>
+<td><a href="/spring-2005-california/96517/c-150863"><img alt="Spring 2005 - California..." src="/images/square/96517.jpg"></a></td>
+<td><a href="/mount-diablo/245620/c-150863"><img alt="Mount Diablo" src="/images/square/245620.jpg"></a></td>
+<td><a href="/spring-in-donner-canyon/751443/c-150863"><img alt="Spring  in Donner Canyon" src="/images/square/751443.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/mt-diablo-from-back-creek-road/603853/c-150863"><img alt="Mt. Diablo from Back Creek Road" src="/images/square/603853.jpg"></a></td>
+<td><a href="/on-the-way-down-to-the/10387/c-150863"><img alt="On the way down to the..." src="/images/square/10387.jpg"></a></td>
+<td><a href="/mt-diablo-in-the-sunset-on/23778/c-150863"><img alt="Mt. Diablo in the sunset. On..." src="/images/square/23778.jpg"></a></td>
+<td><a href="/south-diablo-range-from-diablo-north-peak/517532/c-150863"><img alt="South Diablo Range from Diablo North Peak" src="/images/square/517532.jpg"></a></td>
+<td><a href="/mt-diablo-from-eagle-peak/603855/c-150863"><img alt="Mt. Diablo from Eagle Peak " src="/images/square/603855.JPG"></a></td>
+<td><a href="/mt-diablo-with-eagle-peak-far-right/603858/c-150863"><img alt="Mt. Diablo with Eagle Peak, far right" src="/images/square/603858.JPG"></a></td>
+<td><a href="/eagle-peak-from-mt-diablo-north-peak-trail/603834/c-150863"><img alt="Eagle Peak from Mt. Diablo North Peak Trail" src="/images/square/603834.jpg"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/mount-diablo/images/p-150863">View Gallery - 194 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty:  
+elevation: 3849 
+grade:  
+id: 150863 
+latitude: 37.882 
+location: California, United States, North America 
+longitude: -121.913 
+my_route_quality:  
+name: Mount Diablo 
+number_of_pitches:  
+page_url: http://www.summitpost.org/mount-diablo/150863 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons: Spring, Summer, Fall, Winter 
+time_required:  
+type: Mountain-Rock 
+

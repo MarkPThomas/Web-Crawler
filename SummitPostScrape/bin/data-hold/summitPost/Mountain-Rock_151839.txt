@@ -1,0 +1,69 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>White Baldy is one of the highest peaks in the Wasatch.  Quite rugged and seldom-climbed, it's easiest routes are class 3 scrambles with some exposure.  Outstanding views of Red Pine Lakes/White Pine Lake area, as well as Silver Lake area to the south.  From the summit, the western peak looks nearly as high, but the topo maps list it as 11,240+.  The western peak is an angular granite block.<br>
+<br>
+White Baldy can be climbed as part of the <a href="http://www.summitpost.org/show/route_link.pl/route_id/4803/object_id/3428">Bullion Divide</a> ridge route, an outstanding hike/scramble beginning at Alta and climbing over many peaks before White Baldy.<br>
+<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=27085" rel="no_follow"><img src="/images/thumb/27085.jpg"></a></td>
+<td><a href="/view_object.php?object_id=27086" rel="no_follow"><img src="/images/thumb/27086.jpg"></a></td>
+<td><a href="/view_object.php?object_id=135868" rel="no_follow"><img src="/images/thumb/135868.jpg"></a></td>
+<td><a href="/view_object.php?object_id=80742" rel="no_follow"><img src="/images/thumb/80742.jpg"></a></td>
+<td><a href="/view_object.php?object_id=80743" rel="no_follow"><img src="/images/thumb/80743.jpg"></a></td>
+</tr></table>
+<a name="chapter_2"></a><h2>Getting There</h2>Most commonly climbed from Red Pine or White Pine trails in Little Cottonwood Canyon, both of which start at White Pine Trailhead, about 5.5 miles up Little Cottonwood Canyon road.  Can also be accessed from Silver Lake in American Fork Canyon by taking exit 287 east up American Fork Canyon (fee).  At the split, go left towards Tibble Reservoir/Granite Flat.  Park at Silver Lake Flat.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=114599" rel="no_follow"><img src="/images/thumb/114599.JPG"></a></td>
+<td><a href="/view_object.php?object_id=114582" rel="no_follow"><img src="/images/thumb/114582.JPG"></a></td>
+<td><a href="/view_object.php?object_id=114583" rel="no_follow"><img src="/images/thumb/114583.JPG"></a></td>
+<td><a href="/view_object.php?object_id=127539" rel="no_follow"><img src="/images/thumb/127539.jpg"></a></td>
+</tr></table>
+<a name="chapter_3"></a><h2>Red Tape</h2>If using the American Fork approach, the fee is $3 for a 3-Day pass.  No permits required on the Little Cottonwood side.<br>
+<a name="chapter_4"></a><h2>When To Climb</h2>Experienced snow climbers can approach this peak as early as May, but for hikers and scramblers, best season is July-September.<br>
+<a name="chapter_5"></a><h2>Camping</h2>Excellent camping can be found in Red Pine Canyon and White Pine Canyon, no fees.  Some good camp spots can also be found near secluded Silver Glance Lake on the American Fork side.<br>
+<a name="chapter_6"></a><h2>Mountain Conditions</h2>For current weather conditions check www.ksl.com or www.altaskiarea.com for nearby mountain cams.<br>
+                                                               <a name="chapter_7"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/white-baldy-west-ridge/192670/c-151839"><img alt="White Baldy (West Ridge)" src="/images/square/192670.jpg"></a></td>
+<td><a href="/ascending-the-west-ridge/192489/c-151839"><img alt="Ascending the West Ridge" src="/images/square/192489.JPG"></a></td>
+<td><a href="/white-baldy/483721/c-151839"><img alt="White Baldy" src="/images/square/483721.JPG"></a></td>
+<td><a href="/white-baldy-summit-ridge/551020/c-151839"><img alt="White Baldy Summit ridge." src="/images/square/551020.jpg"></a></td>
+<td><a href="/morning-on-white-baldy/192487/c-151839"><img alt="Morning on White Baldy" src="/images/square/192487.JPG"></a></td>
+<td><a href="/skinning-towards-white-baldy/192674/c-151839"><img alt="Skinning towards White Baldy" src="/images/square/192674.JPG"></a></td>
+<td><a href="/cottonwood-ridge-from-the/115244/c-151839"><img alt="Cottonwood Ridge from the..." src="/images/square/115244.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/white-and-red-baldy-autumn/831584/c-151839"><img alt="White and Red Baldy Autumn" src="/images/square/831584.JPG"></a></td>
+<td><a href="/white-baldy-left-from-red/114599/c-151839"><img alt="White Baldy, left from Red..." src="/images/square/114599.JPG"></a></td>
+<td><a href="/white-baldy/839611/c-151839"><img alt="White Baldy" src="/images/square/839611.JPG"></a></td>
+<td><a href="/just-below-the-summit/408442/c-151839"><img alt="just below the summit" src="/images/square/408442.jpg"></a></td>
+<td><a href="/bear-on-the-backside/300714/c-151839"><img alt="bear on the backside" src="/images/square/300714.JPG"></a></td>
+<td><a href="/white-baldy-overlooking-lower-red-pine-lake/958920/c-151839"><img alt="White Baldy Overlooking Lower Red Pine Lake" src="/images/square/958920.JPG"></a></td>
+<td><a href="/white-baldy-from-tibble-fork-reservoir/709053/c-151839"><img alt="White Baldy from Tibble Fork Reservoir" src="/images/square/709053.jpg"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/white-baldy/images/p-151839">View Gallery - 121 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty:  
+elevation: 11321 
+grade:  
+id: 151839 
+latitude: 40.533 
+location: Utah, United States, North America 
+longitude: -111.6805 
+my_route_quality:  
+name: White Baldy 
+number_of_pitches:  
+page_url: http://www.summitpost.org/white-baldy/151839 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons:  
+time_required:  
+type: Mountain-Rock 
+

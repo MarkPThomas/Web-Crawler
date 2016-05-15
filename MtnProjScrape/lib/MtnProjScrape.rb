@@ -13,7 +13,7 @@ def read_route_ticks(url)
   rows = page.css('table.objectList > tr')
 
   route_ticks = {}
-  rows[1..-2].each { |row|   # starting at 1 skips the column header
+  rows[1...-1].each { |row|   # starting at 1 skips the column header
     route_tick = read_route_tick(row)
     route_ticks[route_tick[:route_url]] = route_tick
   } # done: rows.each
@@ -26,7 +26,7 @@ def read_route_ticks_latest(url)
   rows = page.css('table.objectList > tr')
 
   route_ticks = {}
-  rows[1..-2].each { |row|   # starting at 1 skips the column header
+  rows[1...-1].each { |row|   # starting at 1 skips the column header
     #TODO: Assess if the tick has already been recorded. Only do below if it is new.
     route_tick = read_route_tick(row)
     route_ticks[route_tick[:route_url]] = route_tick
@@ -66,7 +66,7 @@ def read_routes_todo(url)
   rows = page.css('table#todoListItems > tr')
 
   routes_todo = {}
-  rows[1..-2].each { |row|   # starting at 1 skips the column header
+  rows[1...-1].each { |row|   # starting at 1 skips the column header
     route_todo = read_route_todo(row)
     routes_todo[route_todo[:route_url]] = route_todo
   } # done: rows.each
@@ -79,7 +79,7 @@ def read_routes_todo_latest(url)
   rows = page.css('table#todoListItems > tr')
 
   routes_todo = {}
-  rows[1..-2].each { |row|   # starting at 1 skips the column header
+  rows[1...-1].each { |row|   # starting at 1 skips the column header
     #TODO: Assess if the todo has already been recorded. Only do below if it is new.
 
     route_todo = read_route_todo(row)

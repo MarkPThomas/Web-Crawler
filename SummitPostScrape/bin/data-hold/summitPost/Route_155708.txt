@@ -1,0 +1,83 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Approach</h2>
+<br>
+From the end of Glacier Lodge Road, take the South Fork Trail towards Brainerd Lake. Half a mile before Brainerd Lake, you'll pass a smaller unnamed lake, and the trail will begin a mild descent. At this point you have several options. The quickest/shortest option leaves the trail at this point, before it starts to descend. Heading south, you can climb steep slabs to the right, or a large boulder field to the left. The slabs are easier, but the top of the boulder field leads to a use trail that leads from Brainerd Lake to Finger Lake. Your second option is to simply continue on the maintained trail to Brainerd Lake, then picking up the use trail that skirts the north side of the lake heading west. The use trail is lost briefly as it crosses a boulder field, but ducks often mark the entry/exit points through the boulder field. <br>
+<br>
+At Finger Lake cross over to the west side of the creek. You cannot climb to the south end of Finger Lake along the shore, and if you are heading to Middle Palisade, there's no reason to go that way anyway. Head up the boulders and slabs on the right side of the lake. Climb up and to the left, contouring around the left side of the ridge. This will bring you around to the base of the Middle Palisade Glacier. Head for the morraine that splits the glacier in two, and climb this to the base of the Northeast Face.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=26245" rel="no_follow"><img src="/images/thumb/26245.jpg"></a></td>
+<td><a href="/view_object.php?object_id=1605" rel="no_follow"><img src="/images/thumb/1605.JPG"></a></td>
+<td><a href="/view_object.php?object_id=1606" rel="no_follow"><img src="/images/thumb/1606.jpg"></a></td>
+<td><a href="/view_object.php?object_id=26221" rel="no_follow"><img src="/images/thumb/26221.jpg"></a></td>
+<td><a href="/view_object.php?object_id=26244" rel="no_follow"><img src="/images/thumb/26244.jpg"></a></td>
+</tr></table>
+<a name="chapter_2"></a><h2>Route Description</h2>
+<br>
+Secor describes some reddish brown or white rocks marking a key point, the color depending on one's mood. In fact the granite is marked with reddish brown and white rocks in several places, often the two mixed together. The region Secor describes is <i>not</i> the large area just above the central glacial morraine that is well evident from below.<br>
+<br>
+Secor is somewhat misleading in his description of the Northeast Face route. The key element is finding the elusive ledge that climbs diagonally up and right. It does not start at the top of the central glacial morraine but higher to the left, near the high point of the southern half of the glacier. Even in late season during a dry year, it is necessary to clamber onto the glacier for at least a short distance to reach the ledge if you do not want to climb class 4-5 rock at the glacier's edge. The ledge then leads up to a good class 2-3 chute that can be climbed to the summit. This is the chute secor describes as a "wide couloir". He further describes a traverse at the top into the next couloir, but this is unnecessary. Secor's chute (see pictures) is really just one branch of the main chute, and one just continues up the lower chute into main one above. This route is better described in Porcella and Burns, but is called the class 3 East Face. The chute can alternatively be reached by a class 4 chimney that is about 20ft lower than the ledge and does not require one to climb the glacier.<br>
+<br>
+Secor's chute can be bypassed altogether if you don't mind a bit of loose class 3 rock. From the top of the central glacial morraine, follow the obvious reddish rocks diagonally up and over to the main chute on the right. The reddish (and white) rocks are horribly loose but not really dangerous (except to those below you!), and they are the most troublesome part - it gets easier after this. The lower part of the chute is also loose, but again not really dangerous. Climb this chute to the summit, taking the left branch about a third of the way up. You will find that the chute merges with Secor's chute just before it branches left and right. Porcella and Burns describe climbing this main chute as the Northeast Face, but alternately describe entering from the glacier below. The advantage of following the loose reddish rock to the main chute is that crampons and axe are unnecessary.<br>
+<br>
+<a href="http://www.summitpost.org/mountains/user_link.pl?user_id=13699">Eric Lee</a> adds: <i>Even though most of the class 3 is very solid, loose rock abounds throughout the chute. It is more of an issue on the descent and a helmet is advised for all those traveling in a party of 2 or more. Even while being careful my partner and I kicked loose numerous baseball size rocks that went flying down the chute.</i><br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=1607" rel="no_follow"><img src="/images/thumb/1607.jpg"></a></td>
+<td><a href="/view_object.php?object_id=5214" rel="no_follow"><img src="/images/thumb/5214.JPG"></a></td>
+<td><a href="/view_object.php?object_id=2765" rel="no_follow"><img src="/images/thumb/2765.jpg"></a></td>
+<td><a href="/view_object.php?object_id=10614" rel="no_follow"><img src="/images/thumb/10614.jpg"></a></td>
+<td><a href="/view_object.php?object_id=10615" rel="no_follow"><img src="/images/thumb/10615.jpg"></a></td>
+</tr></table>
+<a name="chapter_3"></a><h2>Essential Gear</h2>
+<br>
+None needed unless early in the season when axe and crampons are necessary to gain the top of the glacier.<br>
+<a name="chapter_4"></a><h2>Miscellaneous Info</h2>
+<br>
+If you have information about this route that doesn't pertain to any of the other sections, please add it here.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr><td><a href="/view_object.php?object_id=26247" rel="no_follow"><img src="/images/thumb/26247.jpg"></a></td></tr></table>
+<a name="chapter_5"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/the-thumb-from-finger-lake/26245/c-155708"><img alt="The Thumb from Finger Lake -..." src="/images/square/26245.jpg"></a></td>
+<td><a href="/the-two-ne-face-chutes-on/10615/c-155708"><img alt="The two NE Face chutes on..." src="/images/square/10615.jpg"></a></td>
+<td><a href="/two-chutes-are-identified/10614/c-155708"><img alt="Two chutes are identified..." src="/images/square/10614.jpg"></a></td>
+<td><a href="/the-thumb-left-and-middle/26244/c-155708"><img alt="The Thumb (left) and Middle..." src="/images/square/26244.jpg"></a></td>
+<td><a href="/big-pine-brian-descends-the/97631/c-155708"><img alt=" Big Pine Brian descends the..." src="/images/square/97631.JPG"></a></td>
+<td><a href="/the-thumb-from-the-ne-face-of/26247/c-155708"><img alt="The Thumb from the NE face of..." src="/images/square/26247.jpg"></a></td>
+<td><a href="/incredible-water-color-of/26246/c-155708"><img alt="Incredible water color of..." src="/images/square/26246.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/approach-route-for-northeast/1605/c-155708"><img alt="Approach route for Northeast..." src="/images/square/1605.JPG"></a></td>
+<td><a href="/wendy-going-up-the-main-chute-of-middle-pal/321471/c-155708"><img alt='Wendy going up the "Main Chute" of Middle Pal' src="/images/square/321471.jpg"></a></td>
+<td><a href="/the-red-brown-band-on-ne-face/214044/c-155708"><img alt="the red-brown band on NE face" src="/images/square/214044.jpg"></a></td>
+<td><a href="/looking-down-the-ne-face/26229/c-155708"><img alt="Looking down the NE face..." src="/images/square/26229.jpg"></a></td>
+<td><a href="/this-should-demonstrate-the/26228/c-155708"><img alt="This should demonstrate the..." src="/images/square/26228.jpg"></a></td>
+<td><a href="/northeast-face-route-on/1607/c-155708"><img alt="Northeast Face Route on..." src="/images/square/1607.jpg"></a></td>
+<td><a href="/half-way-up-the-ne-face-of/26226/c-155708"><img alt="Half-way up the NE face of..." src="/images/square/26226.jpg"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/northeast-face/images/p-155708">View Gallery - 26 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty: Class 3 
+elevation:  
+grade:  
+id: 155708 
+latitude: 37.07 
+location: California, United States, North America 
+longitude: -118.4692 
+my_route_quality:  
+name: Northeast Face 
+number_of_pitches:  
+page_url: http://www.summitpost.org/northeast-face/155708 
+rock_difficulty:  
+route_quality: 0.8923076923076924 
+route_type: Scramble 
+seasons:  
+time_required: One to two days 
+type: Route 
+

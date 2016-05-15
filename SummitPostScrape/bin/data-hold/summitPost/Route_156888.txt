@@ -1,0 +1,157 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Approach</h2>
+<br>
+The summit block can be approached from either the Underhill Couloir (to the north) or from the notch between the two summits (the south summit is the highest, and to which this description applies). Both routes require some class 4 climbing before reaching the base of the summit block.<br>
+<a name="chapter_2"></a><h2>Route Description</h2>
+<br>
+Thunderbolt's summit block is the most difficult of all the major peaks in the Sierra Nevada range, rated 5.8. The block itself is an impressive single chunk of granite 30ft high on the west side, 15ft high on the east. There are two 1/4 inch bolts at the top with an aluminum carabiner threaded through the eye of both bolt hangers. There are no bomber holds on the block, the top being particularly free of holds. The top also slopes at an angle of about 35 degrees, and there is room for no more than one or two persons at the same time. Currently you do not need to climb the summit block to sign the register which has been placed at the base of the block. But from time to time the register has been relocated on the summit block. It is a personal decision as to whether you must surmount the summit block in order to believe you have climbed Thunderbolt Peak.<br>
+<br>
+The easiest route is on the west side where it goes 30ft with a great deal of exposure at 5.8. The east side is shorter, 12-15ft, with little exposure, but it is rated 5.9 and has a pointy granite block at the base that will skewer you should you peel in the attempt. If you can free climb the block by either of these routes, by all means do so. It will involve a minimum of additional equipment and you will earn considerable bragging rights. The rest of this description is for those mortals like myself that would prefer to aid the summit block.<br>
+<br>
+There are a number of aid methods by which the summit block can be climbed. All involve a rope. If you used one to climb to the base, it will suffice. As a minimum, bring a 100ft, 7.5-8mm rope. A harness with a locking carbiner will also be helpful. The first step in all these aid methods is to lasso the summit block. the south side has a fine notch that will hold the rope nicely. the north side is not so clean - just make sure the rope doesn't drape over too close to the top (where it can pop off) or too far down (where it will make it more difficult to climb to the top of the block). Secure both ends of the rope to the rocks on the east side of the block. Now use on of the following:<br>
+<br>
+Prussiks (or entrieres or stirrups). Attach these to the rope before you have secured the ends as described above. You must make sure the knots begin above the bend in the summit block, otherwise you will not be able to lift them past the point where the rope bends over the block on the northeast side. This isn't a pretty way to climb it, but seems to be the preferred method of the Sierra Club, judging from their trip reports.<br>
+<br>
+Knots or loops in the rope. Before tying the ends of the rope off, tie a series of loops in the rope about a foot apart. A directional figure eight is a handy knot for this. The loops should be big enough to fit your boots through. As the knots are tied, pull the rope from the south side so that you have a trail of loops running from the base to the top of the block. These can then be used to climb the rope. Again, it is not pretty, but works. If you have a harness and carabiner, clip into the loops as you pass them to hold you in a fall. For safety, you should first attach the next loop to the carabiner before releasing the previous one. A more elegant way to use this system is to stem across to the summit block from another block just to the NE. This does not require great leg flexibility, but does require precise foot placement and a great deal of faith. Climb the block to the NE, and attach the highest loop possible to your harness. This will prevent serious injury by holding you should you fail in the step across to the summit block. Now, with your hands holding the highest reachable loops, step across to the summit block. Before moving on, attach higher loops to your harness and detach the lower loop(s). Push off the NE block and pull yourself up on the summit block. You should now be able to slowly walk up the sloping north side of the summit block, stopping to attach/detach successive loops. The moves are reversible (including the step across) to get yourself back down again.<br>
+<br>
+A third method that has been employed requires sheer luck or precise rodeo abilities in being able to lasso the rope into the carabiner at the summit block (<a href="//www.snwburd.com/bob/trip_reports/thunderbolt_1.html">It has happened before</a>). This allows a simpler pulley system to be used without the need to tie loops in the rope. Have the summitter attach one end of the rope to his harness and climb the NE block. Then, as he/she goes to step across onto the summit block, the other rope end is pulled by another person to assist and hold the climber on the summit block. A one-way hauling pulley or a rappel device on the pulling side can help make it safer and prevent the rope from going in the other direction. <br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=10583" rel="no_follow"><img src="/images/thumb/10583.jpg"></a></td>
+<td><a href="/view_object.php?object_id=10585" rel="no_follow"><img src="/images/thumb/10585.jpg"></a></td>
+<td><a href="/view_object.php?object_id=10582" rel="no_follow"><img src="/images/thumb/10582.jpg"></a></td>
+<td><a href="/view_object.php?object_id=10584" rel="no_follow"><img src="/images/thumb/10584.jpg"></a></td>
+</tr></table>
+<a name="chapter_3"></a><h2>Essential Gear</h2>
+<br>
+Rope. A standard climbing rope is best, particularly if prussiking. If using one of the other methods, a narrower rope, 7.5-8mm will suffice. The rope should be at least 100ft long to accomodate loops and tying off the ends. <br>
+<br>
+Harness with a locking carabiner. This is helpful as a safety aid to catch you in a fall. Not required for climbing or descending.<br>
+<a name="chapter_4"></a><h2>Miscellaneous Info</h2>
+<br>
+If you have information about this route that doesn't pertain to any of the other sections, please add it here.<br>
+<div align="center">
+<a name="messages"></a><a name="chapter_5"></a><h2>Additions and Corrections</h2>[ <a href="/object_discussion.php?type=vote_comments&amp;object_id=156888&amp;is_addition=1#vote_form">Post an Addition or Correction</a> ]<table cellpadding="0" cellspacing="0" style="width: 775px;"><tr><td><table cellpadding="2" cellspacing="2" width="100%"><tr>
+<td align="left"><span class="pagertext">Viewing: <b>1</b>-<b>3</b> of <b>3</b></span></td>
+<td align="center"></td>
+<td align="right">    </td>
+</tr></table></td></tr></table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="385181"></a> <a class="dis_user_lnk" href="/users/pellucidwombat/12893">PellucidWombat</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>A few notes on aiding the summit block</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/pellucidwombat/12893"><img alt="PellucidWombat" width="50" height="50" border="0" src="/images/avatars/833128.jpg"></a></p>
+<p><span style="font-size: 9px; color: #888;">Voted 10/10</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">
+<b>Lassoing the block</b><br><br>
+It is easiest to have only one person toss the rope while the other person holds a pre-coiled end to feed out. The better option is for the tosser to climb up high on a fin to the right (east) of the summit block and toss from there. To help get the rope over, droop some initial rope between the fin and the summit block. Tossing less rope is better than tossing more as the greater weight is difficult to get to clear the block.<br><br>
+<br><br>
+<b>The Notch</b><br><br>
+There is a 'ridge' on the backside of the summit block that you cannot see. It has a small notch in it that catches the rope as you pull it up. This sets the rope nicely for aiding and helps a lot to prevent the rope from slipping up and over the top.<br><br>
+<br><br>
+<b>Aiding up the block</b><br><br>
+There are some nice foot/hand holds on the left side of the crest that you aid up near. As the rope tends to cause you to swing to the right, using these holds helps hold you in line. I found it workable to just attach a ti-b lock above the 'step across' corner, and pull on it to move up the rope while mostly climbing along the left crest.<br><br>
+<br><br>
+Also, you can attach the prussic or ti-block to the rope after it has been tossed and secured.</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Jul 20, 2010 6:59 pm</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="387245"></a> <a class="dis_user_lnk" href="/users/ski/47531">SKI</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>For those who don't mind a spoiler...</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/ski/47531"><img alt="SKI" width="50" height="50" border="0" src="/images/avatars/909751.jpg"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">
+<a href="http://www.youtube.com/watch?v=WG9WOF7r_tQ">This</a> is a youtube of Glenn Gookin leading the sucker, video by Tom Becht.</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Aug 5, 2010 9:44 pm</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="473735"></a> <a class="dis_user_lnk" href="/users/mark-m/38778">Mark M</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Using Prusiks</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/mark-m/38778"><img alt="Mark M" width="50" height="50" border="0" src="/images/avatars/621534.JPG"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">This is the method <a href="http://www.summitpost.org/users/cab/56866">cab</a>  and I used to climb the summit block. It worked really well and is quick to set up if you have your prusiks already made (or use ascenders)<br><br>
+<a href="http://images.summitpost.org/original/859919.jpg"><br><br>
+<img src="http://images.summitpost.org/original/859919.jpg" alt="prusik" width="425" height="213" border="0"><br><br>
+</a> <ol style="font-weight: bold; font-size: 14px;">
+<center> Click Image to Enlarge</center> <br><br>
+</ol>
+</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Aug 5, 2013 9:36 pm</span></td></tr>
+</table>
+<br><table border="0" width="775"><tr><td><table cellpadding="2" cellspacing="2" width="100%"><tr>
+<td align="left"><span class="pagertext">Viewing: <b>1</b>-<b>3</b> of <b>3</b></span></td>
+<td align="center"></td>
+<td align="right">    </td>
+</tr></table></td></tr></table>
+<br>
+</div>
+<a name="chapter_6"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/will-leading-the-summit-block/446058/c-156888"><img alt="Will leading the summit block" src="/images/square/446058.JPG"></a></td>
+<td><a href="/thunderbolt-summit/277170/c-156888"><img alt="Thunderbolt Summit" src="/images/square/277170.jpg"></a></td>
+<td><a href="/t-bolt-summit-block-sequence/820226/c-156888"><img alt="T-Bolt Summit Block Sequence" src="/images/square/820226.jpg"></a></td>
+<td><a href="/will-leading-the-summit-block/446060/c-156888"><img alt="Will leading the summit block" src="/images/square/446060.JPG"></a></td>
+<td><a href="/michelle-working-the-summit-block/322780/c-156888"><img alt="Michelle working the summit block" src="/images/square/322780.JPG"></a></td>
+<td><a href="/the-stemming-or-step-across/10584/c-156888"><img alt="The stemming, or step-across..." src="/images/square/10584.jpg"></a></td>
+<td><a href="/view-down-of-summit-ledge-from-top-of-block/445632/c-156888"><img alt="View down of Summit Ledge from Top of Block" src="/images/square/445632.JPG"></a></td>
+</tr>
+<tr>
+<td><a href="/thunderbolt-peak-summit-block/923815/c-156888"><img alt="Thunderbolt Peak Summit Block" src="/images/square/923815.JPG"></a></td>
+<td><a href="/fred-sitting-on-summit-block/445613/c-156888"><img alt="Fred Sitting on Summit Block" src="/images/square/445613.JPG"></a></td>
+<td><a href="/luis-standing-on-summit-block/445618/c-156888"><img alt="Luis Standing on Summit Block" src="/images/square/445618.JPG"></a></td>
+<td><a href="/the-climber-uses-loops-in-the/10583/c-156888"><img alt="The climber uses loops in the..." src="/images/square/10583.jpg"></a></td>
+<td><a href="/thunderbolt-summit-block/640906/c-156888"><img alt="Thunderbolt Summit Block" src="/images/square/640906.jpg"></a></td>
+<td><a href="/doing-the-wombat-crawl/640908/c-156888"><img alt="Doing the Wombat Crawl" src="/images/square/640908.jpg"></a></td>
+<td><a href="/the-rope-going-around-the/10582/c-156888"><img alt="The rope going around the..." src="/images/square/10582.jpg"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/the-summit-block/images/p-156888">View Gallery - 2 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty: 5.8 
+elevation:  
+grade:  
+id: 156888 
+latitude: 37.0981 
+location: California, United States, North America 
+longitude: -118.5167 
+my_route_quality:  
+name: The Summit Block 
+number_of_pitches:  
+page_url: http://www.summitpost.org/the-summit-block/156888 
+rock_difficulty:  
+route_quality: 0.8923076923076924 
+route_type: Rock Climb 
+seasons:  
+time_required: Less than two hours 
+type: Route 
+

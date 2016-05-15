@@ -1,0 +1,64 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview and Approach</h2>[img:74285:alignleft:small:]<br>
+This classic Sierra couloir route is probably the most accessible in the range. The approach is short, approximately 3.5 miles and 1,000 feet gain.<br>
+<br>
+In the spring and early summer this is a snow climb. It has been skied. As summer wanes into fall, the snow metamorphoses into neve, and then ice. If it's ice you want, then September-October is the time to visit. Doug Nidever, a local guide, used to maintain a <a href="http://www.themountainguide.com/couloir/">web page</a> on Sierra Ice conditions. It's off line now. Hopefully it will come back.<br>
+<br>
+From the hiker parking at Saddlebag Lake (see "Getting There" on the main North Peak page), take the trail that passes under the dam spillway and follow it along the western shore of Saddlebag Lake. Pass Greestone Lake, then head up canyon towards Steelhead Lake. From the vicinity of Steelhead Lake travel cross country to Cascade Lake. Gain a prominent ramp about 500 feet above Cascade Lake and follow it south to the glacier at the base of the north face. This route ascends the rightmost of three obvious couloirs. <br>
+<br>
+Note: Both the left and middle couloirs are also climbed. The left couloir has been mostly melted out in recent years. The center one is made interesting by a rock band near the top that introduces an element of mixed climbing. <a name="chapter_2"></a><h2>Route Description</h2>The route ascends the right-hand side of the gully above the bergschrund for 4-5 pitches, depending on where you rope up and how far apart you set up belays. Staying to the right is important, as everything that falls in the upper part of the route quickly finds its way to the left side.<br>
+<br>
+The bergschrund is usually crossed on the left side, but depending on conditions, you may cross closer to the right. Just remember to get over to the right as soon as possible.<br>
+<br>
+In the early season, this is a snow climb. If you are comfortable on 50-degree snow, then there may be no need to rope up. In the fall, the whole gully is usually ice, and most parties rope up. <br>
+<br>
+The technical climbing ends in a notch about 600 feet below the summit. If you want to sign the register, scramble up third class rock directly above the notch to the top.<a name="chapter_3"></a><h2>Descent</h2>While it's possible to decend the route, it's much easier to drop down the south side towards the Conness Lakes. Eventually you will pick up a trail, which will lead you back to the trailhead.<a name="chapter_4"></a><h2>Essential Gear</h2>When the route is in snow conditions, an ice axe and crampons are typically all that's needed. If you prefer the security of a rope, then a few pickets (or whatever your favorite snow anchor might be) would come in handy. <br>
+<br>
+In ice conditions, crampons, two technical ice tools, plus 6-12 ice screws (the number depends on how far apart you plan to place them) are needed. There are few opportunities to place rock pro along the wall of the couloir, so spare yourself the extra weight and leave the rock gear at home.<br>
+<br>
+A helmet is strongly recommended. This is a popular route. Unless you get lucky, there is likely to be another party above you. Peak baggers on the third class rock above the couloir can also knock things down on you inadvertantly.<br>
+<br>
+<font size="-2">5-1-06 1639</font>                                                                <a name="chapter_5"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/kris-leading-the-final-pitch/127284/c-155838"><img alt=" Kris leading the final pitch..." src="/images/square/127284.jpg"></a></td>
+<td><a href="/middle-and-right-couloirs/224796/c-155838"><img alt="Middle and Right Couloirs" src="/images/square/224796.JPG"></a></td>
+<td><a href="/taking-a-moment/351754/c-155838"><img alt="Taking a Moment...." src="/images/square/351754.jpg"></a></td>
+<td><a href="/skiing-the-north-couloir-on/57434/c-155838"><img alt="Skiing the North Couloir on..." src="/images/square/57434.jpg"></a></td>
+<td><a href="/kris-starts-the-first/127141/c-155838"><img alt=" Kris starts the first..." src="/images/square/127141.jpg"></a></td>
+<td><a href="/what-the-climbing-looks-like/127285/c-155838"><img alt="What the climbing looks like..." src="/images/square/127285.JPG"></a></td>
+<td><a href="/crossing-the-inlet-of/82349/c-155838"><img alt="Crossing the inlet of..." src="/images/square/82349.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/on-the-lip-of-the-north/57433/c-155838"><img alt="On the lip of the North..." src="/images/square/57433.jpg"></a></td>
+<td><a href="/at-the-bottom-of-the-north/82352/c-155838"><img alt="At the bottom of the North..." src="/images/square/82352.jpg"></a></td>
+<td><a href="/9-october-2004-north-peak/73113/c-155838"><img alt="9-October-2004: North Peak..." src="/images/square/73113.jpg"></a></td>
+<td><a href="/tight-turns-in-the-north/82351/c-155838"><img alt="Tight turns in the North..." src="/images/square/82351.jpg"></a></td>
+<td><a href="/meadows-from-the-couloir/537269/c-155838"><img alt="Meadows from the couloir" src="/images/square/537269.jpg"></a></td>
+<td><a href="/yours-truly-tele-skiing-the/82350/c-155838"><img alt="Yours truly tele skiing the..." src="/images/square/82350.jpg"></a></td>
+<td><a href="/left-couloir/224795/c-155838"><img alt="Left Couloir" src="/images/square/224795.JPG"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/north-couloir/images/p-155838">View Gallery - 8 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty: Class 4-5 ice 
+elevation:  
+grade: II 
+id: 155838 
+latitude: 37.9825 
+location: California, United States, North America 
+longitude: -119.3128 
+my_route_quality:  
+name: North Couloir 
+number_of_pitches:  
+page_url: http://www.summitpost.org/north-couloir/155838 
+rock_difficulty:  
+route_quality: 1.0 
+route_type: Snow/Ice climb 
+seasons:  
+time_required: Most of a day 
+type: Route 
+
