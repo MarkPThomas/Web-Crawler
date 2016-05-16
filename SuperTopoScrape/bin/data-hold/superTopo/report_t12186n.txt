@@ -1,0 +1,246 @@
+content: <div class="articletext">
+<div class="photonormal">
+<table valign="top" border="0" width="626" cellspacing="0" cellpadding="0" class="sdw_box">
+			<tr>
+			  <td><img src="/nav_img/top_left_sdw.gif" width="13" height="13"></td>
+			  <td class="sdw_top"></td>
+			  <td><img src="/nav_img/top_right_sdw.gif" width="13" height="13"></td>
+			</tr>
+			<tr>
+			  <td class="sdw_left"></td>
+			  <td class="sdw_body" width="600"><div>
+<a href="javascript:photoZoom('Oj45PDkoJiInIA,,')" title="Click to enlarge"><img src="http://www.supertopo.com/photos/20/77/329211_12993_L.jpg" width="600" height="353" name="" alt="Looking back at Mt Humphreys from NW Ridge"></a><span class="small"><br>Looking back at Mt Humphreys from NW Ridge<br><div class="photo-credit">Credit: PellucidWombat</div></span>
+</div></td>
+			  <td class="sdw_right"></td>
+			</tr>
+			<tr>
+			  <td><img src="/nav_img/bottom_left_sdw.gif" width="13" height="13"></td>
+			  <td class="sdw_bottom"></td>
+			  <td><img src="/nav_img/bottom_right_sdw.gif" width="13" height="13"></td>
+			</tr>
+		  </table>
+</div>The Southwest Couloir of Mt Humphreys is one of the '100 Classic Climbs of the High Sierra', and as such I had been interested in climbing it for some time. However, as it is only cl. 4, with a big couloir slog leading to the scramble, I had the idea of doing this route in a way similar to a lot of other routes that have since gotten physically or technically easy or more mundane for me compared to many other Sierra slogs and boulder-hops - find a way to make it harder, or more interesting and unique. Google Earth and the Topo! CD program are great sources for generating crazy ideas (many of which have been great successes!), so this was another climb born of late night computer play and Sierra Nevada sipping. The idea had come to be:<br>
+<br>
+1. Do the route in the winter<br>
+2. Sleep on the west side of the crest to catch evening alpenglow and take some unique night photos<br>
+3. Combine the route with the intriguing NW Ridge - the most rational way to do this, as it seemed to me, was to approach the SW Couloir from the north rather than the more common Paiute Pass from the south, as the NW Ridge returns one to the same crest crossing, making a nice loop if one carries over their camp.<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-P9vgN1jVArE/UU2VkxjT4nI/AAAAAAACnMs/hp_FVMVkpIY/s1600/2013-03-17%252520-%252520Humphreys%252520SW%252520Couloir%252520-%252520Topo.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-P9vgN1jVArE/UU2VkxjT4nI/AAAAAAACnMs/hp_FVMVkpIY/s800/2013-03-17%252520-%252520Humphreys%252520SW%252520Couloir%252520-%252520Topo.jpg"></a><br>
+<b><i>Topo Map - Humphreys SW Couloir. Red = Day 1, Yellow = Day 2</i></b><br>
+<br>
+<a href="https://lh3.googleusercontent.com/-5kvKYotDEhA/UU2Vjn3bk6I/AAAAAAACnMU/WVUdThQlNYQ/s1600/2013-03-17%252520-%252520Humphreys%252520SW%252520Couloir%252520-%252520Profile.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-5kvKYotDEhA/UU2Vjn3bk6I/AAAAAAACnMU/WVUdThQlNYQ/s800/2013-03-17%252520-%252520Humphreys%252520SW%252520Couloir%252520-%252520Profile.jpg"></a><br>
+<b><i>Elevation Profile - Humphreys SW Couloir</i></b><br>
+<br>
+<b><u>March 16-17, 2013</u></b><br>
+<br>
+I had this general idea for a while, but conditions had coalesced into a "must do" outing in March, partly because I had been cooped up indoors studying for my Civil Engineer PE licensing exams (I was taking all of them for my first time in April, and not having a BS in Civil, nor having worked recently in a design office had me nervous!), and mostly because of some upsetting developments in the condition of my knee. I desperately needed a night in the mountains, some days of sweating and gasping in the cold, and a nice environment for reflection on my future. Unfortunately, I couldn't find any takers for the weekend for this idea, and as it was my only weekend I felt I could take off from PE studying, I was insistent on doing the climb anyways, so I decided to do this as my first solo outing in the Sierra.<br>
+<br>
+The trip was a great success, and although I didn't have any partners for the climb, Mike D., Andrew G., and Jonathan C. joined me on the drive up, but split off for their own ski descent ambitions on Mt Emerson's North Couloir and Zebra Couloir. Snow conditions were horrible, but doable if you didn't give up, and the avalanche danger was low at the time. I brought a rope &amp; light rack, but found none of it necessary, although I did appreciate having the rope to rappel one particularly thin and snowy section. This would have been a perfect weekend of recharging from life if my car hadn't caught fire on the drive home, but eh, what can you do? At least I got out!<br>
+<br>
+<b><u>The Knee</u></b><br>
+<i>(Sorry for the rant. To me this is relevant for the climb. If you don't care, skip ahead to the next section which is back on topic).</i><br>
+<br>
+I knew something was wrong with my left knee since 2010, before I had gotten much into trad climbing and was still mostly scrambling cycling, skiing, and jogging. At the time I figured the locking and instability was my rebuilt ACL loosening up. I was not in a sufficient insurance situation to dare get it diagnosed as I knew I couldn't afford treatment, and I didn't want to have a pre-existing condition once my employment and insurance situation improved. So I wore a brace, stopped jogging and skiing, and over the years saw my abilities to do long days of hiking and scrambling in the mountains slowly diminish. Recovery took longer, and my knee got more sore and stiff on the long rides between Berkeley and the Sierra. However, rock climbing rose to fill the gap . . . until last winter. I was getting strangely sore after climbing, and needed a post-climbing IPA a little too much for pain relief rather than relaxation. In January, climbing at Arch Rock with my good friend, Nic, burnt me out in a day with only a few pitches of 5.10 climbing, and I was left with a lingering background pain that wouldn't go away. My insurance situation still hadn't changed in the past 3 years, but at this point I knew I needed to see an orthopedist. The X-Ray results were not good. My ACL was fine, but I was in much bigger trouble than if it was merely my ACL.<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-vmg7lnBuNSg/UnRfExoYjfI/AAAAAAAC1Nc/cE9jcz_zgz8/s1600/2013-02-13%2520-%2520X-Rays%2520-%2520Knee%2520-%2520UCSF%252021.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-vmg7lnBuNSg/UnRfExoYjfI/AAAAAAAC1Nc/cE9jcz_zgz8/s800/2013-02-13%2520-%2520X-Rays%2520-%2520Knee%2520-%2520UCSF%252021.jpg"></a><br>
+<b><i>My knee as of late January, 2013.</i></b><br>
+<br>
+The sudden increase in pain was because I had finally worn through a sufficient amount of cartilage for the bones to really damage each other, tearing through my articular cartilage, causing bone spurs, and loosening the joint as the retaining cupped shape of the meniscus was no longer present because I essentially had no more lateral meniscus remaining. The first surgeon said that I was heading straight towards a total knee replacement, and at 29, I was way too young for such a thing. He said I should stop all activity right away and go in to surgery immediately for an osteotomy, where he would cut open my femur and insert a wedge to change the line of force through my knee to better align with where I still had cartilage.<br>
+<br>
+For a number of reasons, this did NOT feel right to me, so I got two other surgeon opinions. Basically, I learned that any treatment, even non-treatment, is controversial, especially for me as the cartilage damage was so large, I am knock-kneed and am now highly arthritic. Reconstruction could be attempted, but would be extremely expensive, and the longevity of such a repair was highly uncertain, especially for someone with my complicating factors. The third surgeon suggested I just burn out the knee with the help of steroid and cortisone shots, and continue doing the things I loved. So long as I didn't return to running or skiing, I could probably make it to an appropriate age for a total knee replacement.<br>
+<br>
+So at the time of this climb, I was lying low in hopes that my knee pain would diminish, and was preparing for a slow downward spiral of burning out my knee over the years ahead . . . or maybe doing the reconstructive surgery anyways.<br>
+<br>
+Since I really didn't know what to expect out of my knee in terms of pain or recovery, I was also wary of climbing with others as I didn't want to fail to live up to expectations, so in a way I was glad to head out solo, as that removed pressure to perform. I could just go out and see what I could still accomplish. This was to be the first of many 'experimentation' outings this year where I learned what I could still do and expect, and how to reduce pain and swelling to sustainable levels.<br>
+<br>
+<b><u>March 16, 2013</u></b><br>
+Between low snow accumulation and driving a 4WD Subaru, this year for my first time ever I made it to about 8,500' and within a few hundred yards of the end of the dirt road that accesses the East Arete of Mt Humphreys. This made for a much shorter day.<br>
+<br>
+<a href="https://lh3.googleusercontent.com/-hzGroao12qU/UU2UY7IuVAI/AAAAAAACm8Y/QFBRGrwdu1s/s1600/2013-03-16%252520-%25252002%252520-%252520Views%252520from%252520the%252520car%252520of%252520Humphreys.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-hzGroao12qU/UU2UY7IuVAI/AAAAAAACm8Y/QFBRGrwdu1s/s800/2013-03-16%252520-%25252002%252520-%252520Views%252520from%252520the%252520car%252520of%252520Humphreys.jpg"></a><br>
+<b><i>Checkered Demon &amp; Mt Humphreys, seen from the car.</i></b><br>
+<br>
+Initially the snowshoeing went all right, but by 9,400' I ran into the horror that had characterized much of the winter snowpack (as I heard from my skiing friends lamenting the poor conditions). Much of the snow was a breakable crust with bottomless powder beneath. In this area it turned out to be the worst mix - the crust was just hard enough to <i>almost</i> work, but just as you leaned forward for the next step, you would punch through, icy snow grinding against your chins, until the penetrating foot hit a bush, root, or rock, suddenly stopping the plunge. Initially it was an occasional step, and only ankle deep, but eventually it came to be nearly every other stem and knee deep! With a heavier overnight pack on, it became tiring and demoralizing to constantly high-step on the high leg while mantling on the poles . . .<br>
+<br>
+<a href="https://lh6.googleusercontent.com/-ipzkmtbUZ4I/UU2Ucc2HPyI/AAAAAAACm9I/xFPVlmhrHG0/s1600/2013-03-16%252520-%25252006%252520-%252520Slowshoes%252520and%252520breakable%252520crust.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-ipzkmtbUZ4I/UU2Ucc2HPyI/AAAAAAACm9I/xFPVlmhrHG0/s800/2013-03-16%252520-%25252006%252520-%252520Slowshoes%252520and%252520breakable%252520crust.jpg"></a><br>
+<b><i>Slowshoes and breakable crust, getting up to my knee. Later on I would be breaking in up to my crotch.</i></b><br>
+<br>
+At least I had no expectations on what I would accomplish today, apart from the idea that I would just keep moving all day and see where I would end up, so I pressed on. One of the worst experience was a headwall where I kept breaking in up to my waist. In the end it actually worked best for me to take off my pack, punch through and break trail to the top of the hill, then return to my pack, stomping on the snow as hard as I could. I still punched in a lot the second time up with my pack, but at least it was now doable.Fortunately I soon reached a point with some nice alpine views to take my mind off the tedium.<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-1Oq9cBubOuY/UU2UdQs5KxI/AAAAAAACm9c/RhMYjlHyb1Q/s1600/2013-03-16%252520-%25252008%252520-%252520Mt%252520Humphreys%252520N%252520Face.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-1Oq9cBubOuY/UU2UdQs5KxI/AAAAAAACm9c/RhMYjlHyb1Q/s800/2013-03-16%252520-%25252008%252520-%252520Mt%252520Humphreys%252520N%252520Face.jpg"></a><br>
+<b><i>Mt Humphreys N Face. A 5.7 route goes up nearly the center of this. John C. tried to talk me into doing it with him on this trip, but I was unsure of my abilities at this point, so he kept to his skiing plans and I kept to my scrambling ones. Now and I intrigued to go back and try it! The North Couloir on the right is a classic ski descent.</i></b><br>
+<br>
+<a href="https://lh4.googleusercontent.com/-rYunrrYqeOI/UU2UePyWuDI/AAAAAAACm9o/ijbwwxfdVzk/s1600/2013-03-16%252520-%25252009%252520-%252520Humphreys%252520N%252520Side%252520above%252520Langley%252520Reservoir.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-rYunrrYqeOI/UU2UePyWuDI/AAAAAAACm9o/ijbwwxfdVzk/s800/2013-03-16%252520-%25252009%252520-%252520Humphreys%252520N%252520Side%252520above%252520Langley%252520Reservoir.jpg"></a><br>
+<b><i>Humphreys N Side above Longley Reservoir. The NW Ridge forms the skyline on the right.</i></b><br>
+<br>
+As I rose above treeline, the snow consistency became better, but I was also more tired, so I took my time, took my breaks, and kept on plodding. Eventually I reached the ridge crest, where a high wind was blowing a cross. I had planned to take a lunch break here, but it was so cold that I had to keep moving! I found the west side to be consistently windy all night and much of the next day.<br>
+<br>
+<div class="youtube"><iframe width="560" height="340" src="http://www.youtube.com/embed/34tRTvUXZ7U" frameborder="0"></iframe></div>
+<br>
+<b><i>Wind across the Crest Plateau</i></b><br>
+<br>
+<a href="https://lh3.googleusercontent.com/-lq8PgHY_9wc/UU2Urk9zupI/AAAAAAACm-o/ufplXdm1XGM/s1600/2013-03-16%252520-%25252013%252520-%252520Looking%252520across%252520the%252520Crest%252520Plateau.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-lq8PgHY_9wc/UU2Urk9zupI/AAAAAAACm-o/ufplXdm1XGM/s800/2013-03-16%252520-%25252013%252520-%252520Looking%252520across%252520the%252520Crest%252520Plateau.jpg"></a><br>
+<b><i>Looking across the crest plateau. I dropped down and wrapped around the low point to the right of the pointy sub-peak.</i></b><br>
+<br>
+<a href="https://lh4.googleusercontent.com/-oWpMPpT3KLY/UU2Uui4YCFI/AAAAAAACm_E/73kF0CNuWB0/s1600/2013-03-16%252520-%25252014a%252520-%252520S%252520Face%252520of%252520BCS%252520from%252520the%252520Crest.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-oWpMPpT3KLY/UU2Uui4YCFI/AAAAAAACm_E/73kF0CNuWB0/s800/2013-03-16%252520-%25252014a%252520-%252520S%252520Face%252520of%252520BCS%252520from%252520the%252520Crest.jpg"></a><br>
+<b><i>South Face of Bear Creek Spire from the crest plateau.</i></b><br>
+<br>
+<a href="https://lh3.googleusercontent.com/-Iz5gzqcIG_Q/UU2UvB55QMI/AAAAAAACm_M/43tP09-ICmw/s1600/2013-03-16%252520-%25252015%252520-%252520Merriam%252520%252526%252520Royce.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-Iz5gzqcIG_Q/UU2UvB55QMI/AAAAAAACm_M/43tP09-ICmw/s800/2013-03-16%252520-%25252015%252520-%252520Merriam%252520%252526%252520Royce.jpg"></a><br>
+<b><i>Merriam, Royce &amp; Feather Peak</i></b><br>
+<br>
+<a href="https://lh6.googleusercontent.com/-nFKh8cNjtGk/UU2UwcufG8I/AAAAAAACm_k/nCWUSzOI1DQ/s1600/2013-03-16%252520-%25252016a%252520-%252520Sierra%252520West%252520Side.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-nFKh8cNjtGk/UU2UwcufG8I/AAAAAAACm_k/nCWUSzOI1DQ/s800/2013-03-16%252520-%25252016a%252520-%252520Sierra%252520West%252520Side.jpg"></a><br>
+<b><i>Sierra West Side</i></b><br>
+<br>
+I had hoped that the west side, being exposed to more wind scouring and sunlight, would be more compact, but unfortunately the breakable crust returned. Still, I had plenty of hours left in the day, and just enough energy to continue. I reached my planned spot for a campsite about an hour before sunset.<br>
+<br>
+<a href="https://lh5.googleusercontent.com/-FTbWb5QFcf4/UU2Ux1lkFpI/AAAAAAACm_8/rwJXjYP2tTY/s1600/2013-03-16%252520-%25252018%252520-%252520Humphreys%252520from%252520the%252520West%252520Side.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-FTbWb5QFcf4/UU2Ux1lkFpI/AAAAAAACm_8/rwJXjYP2tTY/s800/2013-03-16%252520-%25252018%252520-%252520Humphreys%252520from%252520the%252520West%252520Side.jpg"></a><br>
+<b><i>Humphreys from the West Side</i></b><br>
+<br>
+<a href="https://lh6.googleusercontent.com/-1SP19JOIi5w/UU2U0NH8mRI/AAAAAAACnAc/tsBDlhyaCCo/s1600/2013-03-16%252520-%25252020%252520-%252520Humphreys%252520from%252520the%252520West.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-1SP19JOIi5w/UU2U0NH8mRI/AAAAAAACnAc/tsBDlhyaCCo/s800/2013-03-16%252520-%25252020%252520-%252520Humphreys%252520from%252520the%252520West.jpg"></a><br>
+<b><i>Humphreys from the West at sunset. Too bad the clouds had moved in, as I was hoping for an alpenglow show!</i></b><br>
+<br>
+At last I reached the spot, at the base of the entries to the SW Chute, where I hoped to get some nice sunset alpenglow photos. Being on the West side of the crest, I also hoped I could get light pollution illuminating the sky behind. Unfortunately, despite the forecast for a clear day &amp; night, as the sun got low in the sky, the wind picked up, and clouds began to build to the west.<br>
+<br>
+<a href="https://lh3.googleusercontent.com/-6s_8w_Mn3iY/UU2UzTw8nLI/AAAAAAACnAU/tRkXbOSskok/s1600/2013-03-16%252520-%25252019%252520-%252520Ominous%252520Afternoon%252520Clouds.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-6s_8w_Mn3iY/UU2UzTw8nLI/AAAAAAACnAU/tRkXbOSskok/s800/2013-03-16%252520-%25252019%252520-%252520Ominous%252520Afternoon%252520Clouds.jpg"></a><br>
+<b><i>Ominous Afternoon Clouds</i></b><br>
+<br>
+It got cold quickly, so I dug a snow trench and set up my subterranean camp. This was my first winter outing sleeping in my lightweight quilt sleeping bag + bivy liner combo, and it worked just fine. Despite forecast temperatures being in the single digits, I slept comfortably.<br>
+<br>
+<a href="https://lh3.googleusercontent.com/-WKC4zAzntdo/UU2U1kdL39I/AAAAAAACnA8/zPH7dMRkQbE/s1600/2013-03-16%252520-%25252022%252520-%252520Sierra%252520Sunset.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-WKC4zAzntdo/UU2U1kdL39I/AAAAAAACnA8/zPH7dMRkQbE/s800/2013-03-16%252520-%25252022%252520-%252520Sierra%252520Sunset.jpg"></a><br>
+<b><i>Sierra Sunset. Getting cold now. Time to start up the stove in my snow trench!</i></b><br>
+<br>
+<a href="https://lh4.googleusercontent.com/-wiPy6Le1rE0/UWtVPz69xUI/AAAAAAACnM0/7DcttRaQTpk/s1600/2013-03-16%252520-%25252024a%252520-%252520Mt%252520Humphreys%252520at%252520Night.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-wiPy6Le1rE0/UWtVPz69xUI/AAAAAAACnM0/7DcttRaQTpk/s800/2013-03-16%252520-%25252024a%252520-%252520Mt%252520Humphreys%252520at%252520Night.jpg"></a><br>
+<b><i>Mt Humphreys at Night</i></b><br>
+<br>
+<br>
+<b><u>March 17, 2013</u></b><br>
+I awoke early, but it was still cold and a bit windy. I decided to sleep in a bit, and take my time leaving the trench. I fired up the stove and enjoyed a hearty breakfast and coffee while I waited for the sun to shine over the crest. By the time I packed up camp and started up the slopes, it was comfortably warm and sunny. I was very happy to see that despite a hard day before and the jarring of all of the post-holing, my knee had mostly recovered and was only mildly sore.Time to climb on!<br>
+<br>
+<a href="https://lh5.googleusercontent.com/-xEt02uB5RxU/UWtVQwmmiiI/AAAAAAACnNE/B-AP0eW7SR8/s1600/2013-03-17%252520-%25252002%252520-%252520Mt%252520Humphreys%252520from%252520the%252520West%252520-%252520annotation.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-xEt02uB5RxU/UWtVQwmmiiI/AAAAAAACnNE/B-AP0eW7SR8/s800/2013-03-17%252520-%25252002%252520-%252520Mt%252520Humphreys%252520from%252520the%252520West%252520-%252520annotation.jpg"></a><br>
+<b><i>Mt Humphreys from the West side. It's getting bright, so I'd better get climbing! I had intended to take the direct chute on the left, but the chockstone looked tricky to pass, especially with my carryover pack on. So I opted to angle right towards the dry patch and access a long, sloping series of ledges there to work back left.</i></b><br>
+<br>
+<a href="https://lh5.googleusercontent.com/-ZKoK6briYDs/UU2U4KgTLeI/AAAAAAACnBk/f53Rk_Njl_4/s1600/2013-03-17%252520-%25252003a%252520-%252520Bear%252520Creek%252520Spire%252520S%252520Face.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-ZKoK6briYDs/UU2U4KgTLeI/AAAAAAACnBk/f53Rk_Njl_4/s800/2013-03-17%252520-%25252003a%252520-%252520Bear%252520Creek%252520Spire%252520S%252520Face.jpg"></a><br>
+<b><i>Bear Creek Spire S Face</i></b><br>
+<br>
+<a href="https://lh4.googleusercontent.com/-2ZNB4Ggt6OA/UU2U5xBz8JI/AAAAAAACnCE/oOtPEbTCi4w/s1600/2013-03-17%252520-%25252004%252520-%252520Pinwheel%252520Head.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-2ZNB4Ggt6OA/UU2U5xBz8JI/AAAAAAACnCE/oOtPEbTCi4w/s800/2013-03-17%252520-%25252004%252520-%252520Pinwheel%252520Head.jpg"></a><br>
+<b><i>Melted out pinwheel head.</i></b><br>
+<br>
+Surprisingly, though, I fatigued more easily than the day before, and my breathing was much more labored. So despite better snow conditions and a slightly lighter pack, I moved more slowly today. This breathing and fatigue would worsen as the day progressed, and did not get better with descent, so the final part of my day was absolutely exhausting. In retrospect, I think it was due to my asthma and sensitive throat/lungs becoming inflamed. At least as it got worse it felt like the summer days in SLC when I would be cycling outside despite the high ozone warnings - that searing, burning feeling, like fire, that oscillates up and down your wind pipe as the throat tightened up and refused to allow in enough air unless you stopped to take heaving breathing breaks every now and then. As I hadn't been to the mountains at all this winter, and my longest period away from them in winter for many years, my body was not at all acclimated to the colder, drier air that I was breathing so heavily, so that is probably why I felt so crappy.<br>
+<br>
+<a href="https://lh3.googleusercontent.com/-ZsYjp9F6P2Y/UU2U6rPPnHI/AAAAAAACnCU/QVWiOHSFBFg/s1600/2013-03-17%252520-%25252005%252520-%252520Looking%252520South.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-ZsYjp9F6P2Y/UU2U6rPPnHI/AAAAAAACnCU/QVWiOHSFBFg/s800/2013-03-17%252520-%25252005%252520-%252520Looking%252520South.jpg"></a><br>
+<b><i>Looking South</i></b><br>
+<br>
+<a href="https://lh6.googleusercontent.com/-33azrp03jYs/UU2U88p5dTI/AAAAAAACnC8/nTqVVCFaFH4/s1600/2013-03-17%252520-%25252007a%252520-%252520Looking%252520West.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-33azrp03jYs/UU2U88p5dTI/AAAAAAACnC8/nTqVVCFaFH4/s800/2013-03-17%252520-%25252007a%252520-%252520Looking%252520West.jpg"></a><br>
+<b><i>Looking West</i></b><br>
+<br>
+<a href="https://lh4.googleusercontent.com/-_f2QCo8MDmQ/UU2U_cl1j9I/AAAAAAACnDc/0pPOaro-exw/s1600/2013-03-17%252520-%25252009%252520-%252520Climbing%252520up%252520the%252520SW%252520Chute%252520entry.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-_f2QCo8MDmQ/UU2U_cl1j9I/AAAAAAACnDc/0pPOaro-exw/s800/2013-03-17%252520-%25252009%252520-%252520Climbing%252520up%252520the%252520SW%252520Chute%252520entry.jpg"></a><br>
+<b><i>Climbing up the SW Chute entry. At last the snow is getting consolidated enough for crampons.</i></b><br>
+<br>
+<a href="https://lh5.googleusercontent.com/-dJgXXAnptVY/UU2U_0w8XwI/AAAAAAACnDs/Fy6hK4gDFmk/s1600/2013-03-17%252520-%25252010%252520-%252520Climbing%252520up%252520the%252520SW%252520Couloir.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-dJgXXAnptVY/UU2U_0w8XwI/AAAAAAACnDs/Fy6hK4gDFmk/s800/2013-03-17%252520-%25252010%252520-%252520Climbing%252520up%252520the%252520SW%252520Couloir.jpg"></a><br>
+<b><i>Climbing up the SW Couloir. I found some old ski &amp; boot tracks heading up to the N Couloir Notch, so these made the climbing more relaxed.</i></b><br>
+<br>
+<a href="https://lh5.googleusercontent.com/--icfpfK1EPU/UU2VA284PpI/AAAAAAACnD0/cvWS_Hgpw0c/s1600/2013-03-17%252520-%25252011%252520-%252520Looking%252520down%252520the%252520SW%252520Couloir.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/--icfpfK1EPU/UU2VA284PpI/AAAAAAACnD0/cvWS_Hgpw0c/s800/2013-03-17%252520-%25252011%252520-%252520Looking%252520down%252520the%252520SW%252520Couloir.jpg"></a><br>
+<b><i>Looking down the SW Couloir.</i></b><br>
+<br>
+<a href="https://lh5.googleusercontent.com/-xNqcN44qmwk/UU2VBusN3KI/AAAAAAACnEE/ceBeXIN7HNc/s1600/2013-03-17%252520-%25252012%252520-%252520Climbing%252520up%252520the%252520SW%252520Couloir.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-xNqcN44qmwk/UU2VBusN3KI/AAAAAAACnEE/ceBeXIN7HNc/s800/2013-03-17%252520-%25252012%252520-%252520Climbing%252520up%252520the%252520SW%252520Couloir.jpg"></a><br>
+<b><i>Climbing up the SW Couloir. The Notch is the melted out area ahead.</i></b><br>
+<br>
+<a href="https://lh4.googleusercontent.com/-mdk1f1h1k-Y/UU2VCl7Q0hI/AAAAAAACnEk/fOctD_1aPlI/s1600/2013-03-17%252520-%25252013a%252520-%252520Looking%252520SW.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-mdk1f1h1k-Y/UU2VCl7Q0hI/AAAAAAACnEk/fOctD_1aPlI/s800/2013-03-17%252520-%25252013a%252520-%252520Looking%252520SW.jpg"></a><br>
+<b><i>Looking SW</i></b><br>
+<br>
+<a href="https://lh5.googleusercontent.com/-P27LpvIxCZE/UWtVWeWQqpI/AAAAAAACnNc/ExmHeiYIG5w/s1600/2013-03-17%252520-%25252033a%252520-%252520Looking%252520up%252520Mt%252520Humphreys%252520from%252520Notch%252520-%252520annotation.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-P27LpvIxCZE/UWtVWeWQqpI/AAAAAAACnNc/ExmHeiYIG5w/s800/2013-03-17%252520-%25252033a%252520-%252520Looking%252520up%252520Mt%252520Humphreys%252520from%252520Notch%252520-%252520annotation.jpg"></a><br>
+<b><i>Looking up Mt Humphreys from Notch</i></b><br>
+<br>
+At last I reached the notch. I had fretted a lot in planning as to how it would be soloing with snow cover, but once I saw it in person, it didn't look too bad. I ditched my pack at the notch, and, now that I felt lighter than air, I started up the cl. 2-3 slabs and slots. At least without the pack on, my breathing was much better!<br>
+<br>
+<a href="https://lh5.googleusercontent.com/-IQxOTaZYUr4/UU2VGJmvSkI/AAAAAAACnFc/9Xnc1TfJ5XU/s1600/2013-03-17%252520-%25252017%252520-%252520Looking%252520up%252520the%252520scrambling%252520section%252520from%252520the%252520Notch.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-IQxOTaZYUr4/UU2VGJmvSkI/AAAAAAACnFc/9Xnc1TfJ5XU/s800/2013-03-17%252520-%25252017%252520-%252520Looking%252520up%252520the%252520scrambling%252520section%252520from%252520the%252520Notch.jpg"></a><br>
+<b><i>Looking up the scrambling section from the Notch</i></b><br>
+<br>
+Climbing was mostly straightforward, but the first cl. 4 crux required some thinking and working up to. Starting from soft snow was awkward and it was a thin traverse requiring some balance and finesse. Fortunately it was not too exposed and short before the climbing got more secure. Although I never made an anchor backup, I was glad to have brought my 30m single twin when I saw the rappel anchor, as I didn't like the idea of downclimbing that move! The rope was barely long enough for the rappel.<br>
+<br>
+I reached a platform and sunshine, and scrambled up good rock to another platform beneath the second and final crux.<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-F94eYbMdUIw/UU2VJr5U1wI/AAAAAAACnGM/f4SQ-FVZkkY/s1600/2013-03-17%252520-%25252020%252520-%252520Looking%252520down%252520from%252520below%252520the%252520second%252520crux.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-F94eYbMdUIw/UU2VJr5U1wI/AAAAAAACnGM/f4SQ-FVZkkY/s800/2013-03-17%252520-%25252020%252520-%252520Looking%252520down%252520from%252520below%252520the%252520second%252520crux.jpg"></a><br>
+<b><i>Looking down from below the second crux</i></b><br>
+<br>
+<a href="https://lh6.googleusercontent.com/-ec6DKfKwBuI/UU2VIdLfE5I/AAAAAAACnF8/hLYUA-OfkSg/s1600/2013-03-17%252520-%25252019%252520-%252520Looking%252520down%252520from%252520below%252520the%252520second%252520crux.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-ec6DKfKwBuI/UU2VIdLfE5I/AAAAAAACnF8/hLYUA-OfkSg/s800/2013-03-17%252520-%25252019%252520-%252520Looking%252520down%252520from%252520below%252520the%252520second%252520crux.jpg"></a><br>
+<b><i>Looking down from below the second crux</i></b><br>
+<br>
+<a href="https://lh6.googleusercontent.com/-eOd0odnmV-0/UU2VKy4JjkI/AAAAAAACnGY/FZ27xBe4vjI/s1600/2013-03-17%252520-%25252021%252520-%252520Second%252520Crux.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-eOd0odnmV-0/UU2VKy4JjkI/AAAAAAACnGY/FZ27xBe4vjI/s800/2013-03-17%252520-%25252021%252520-%252520Second%252520Crux.jpg"></a><br>
+<b><i>Second Crux. It looks worse than it is. Fun wide!</i></b><br>
+<br>
+<a href="https://lh5.googleusercontent.com/-UUI4nzRk230/UU2VLxew2_I/AAAAAAACnGk/HOJ9PkAFeLw/s1600/2013-03-17%252520-%25252022%252520-%252520Piton%252520at%252520second%252520crux.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-UUI4nzRk230/UU2VLxew2_I/AAAAAAACnGk/HOJ9PkAFeLw/s800/2013-03-17%252520-%25252022%252520-%252520Piton%252520at%252520second%252520crux.jpg"></a><br>
+<b><i>Piton at second crux. I thought it was strange to see this, as I thought the crux, while more exposed, was far easier and more secure than the lower crux.</i></b><br>
+<br>
+<a href="https://lh4.googleusercontent.com/-OVO1MHRFfHY/UU2VNC7yT5I/AAAAAAACnG0/M5LSe9g3P9g/s1600/2013-03-17%252520-%25252023%252520-%252520Final%252520cl2-3%252520to%252520the%252520summit.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-OVO1MHRFfHY/UU2VNC7yT5I/AAAAAAACnG0/M5LSe9g3P9g/s800/2013-03-17%252520-%25252023%252520-%252520Final%252520cl2-3%252520to%252520the%252520summit.jpg"></a><br>
+<b><i>Final cl. 2-3 to the summit</i></b><br>
+<br>
+The second crux looked intimidating, but as you moved into it, the solid moves revealed themselves, and then it was straightforward scrambling to the summit. The crux was easy enough that I happily dowclimbed it on descent.<br>
+<br>
+I was happy to find the summit register! There were some interesting entries for comparison here. Apparently I got 2 out of 3 of the first summits of the year the last three years :-)<br>
+<br>
+<a href="https://lh6.googleusercontent.com/-hw19b2wRJj4/UU2VN73BH2I/AAAAAAACnHE/xQP4NqZPUxk/s1600/2013-03-17%252520-%25252024%252520-%252520Summit%252520Register.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-hw19b2wRJj4/UU2VN73BH2I/AAAAAAACnHE/xQP4NqZPUxk/s800/2013-03-17%252520-%25252024%252520-%252520Summit%252520Register.jpg"></a><br>
+<b><i>Summit Register</i></b><br>
+<br>
+<a href="https://lh6.googleusercontent.com/-uReQhT7rqiI/UU2VTdwf0tI/AAAAAAACnIc/29PLbr9nPOY/s1600/2013-03-17%252520-%25252026%252520-%252520Summit%252520Register%252520-%252520E%252520Arete%252520Entry.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-uReQhT7rqiI/UU2VTdwf0tI/AAAAAAACnIc/29PLbr9nPOY/s800/2013-03-17%252520-%25252026%252520-%252520Summit%252520Register%252520-%252520E%252520Arete%252520Entry.jpg"></a><br>
+<b><i>Summit Register - Our old E Arete entry and first ascent of 2011.</i></b><br>
+<br>
+<a href="https://lh4.googleusercontent.com/-OcLT9fouHcM/UU2VSXhNRCI/AAAAAAACnIM/upZCLjvIrLE/s1600/2013-03-17%252520-%25252025%252520-%252520Summit%252520Register%252520-%252520Alex%252520Honnold.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-OcLT9fouHcM/UU2VSXhNRCI/AAAAAAACnIM/upZCLjvIrLE/s800/2013-03-17%252520-%25252025%252520-%252520Summit%252520Register%252520-%252520Alex%252520Honnold.jpg"></a><br>
+<b><i>Summit Register - Alex Honnold first ascent of 2012</i></b><br>
+<br>
+<a href="https://lh4.googleusercontent.com/-S2luihX4iUg/UU2VT7vPYgI/AAAAAAACnIs/X6W0egrJcKE/s1600/2013-03-17%252520-%25252027%252520-%252520Summit%252520Register%252520-%252520SW%252520Couloir%252520Entry.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-S2luihX4iUg/UU2VT7vPYgI/AAAAAAACnIs/X6W0egrJcKE/s800/2013-03-17%252520-%25252027%252520-%252520Summit%252520Register%252520-%252520SW%252520Couloir%252520Entry.jpg"></a><br>
+<b><i>Summit Register - My first ascent of 2013</i></b><br>
+<br>
+<a href="https://lh3.googleusercontent.com/-E5iKpKpvVcY/UU2VUghLc8I/AAAAAAACnI4/D-u1ZH7R8Ag/s1600/2013-03-17%2520-%252028%2520-%2520Summit%2520Register%2520-%2520Old%2520Tom%2520Bennett%2520Memorial.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-E5iKpKpvVcY/UU2VUghLc8I/AAAAAAACnI4/D-u1ZH7R8Ag/s800/2013-03-17%2520-%252028%2520-%2520Summit%2520Register%2520-%2520Old%2520Tom%2520Bennett%2520Memorial.jpg"></a><br>
+<b><i>Summit Register - Tom Bennett's memorial is still here. Fortunately the vial of Jameson that I had left has been drunk and removed.</i></b><br>
+<br>
+<a href="https://lh4.googleusercontent.com/-4E0AAv7Vg2c/UU2VR-zztYI/AAAAAAACnIE/s4LDCDDkgBs/s1600/2013-03-17%252520-%25252031%252520-%252520Starting%252520down.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-4E0AAv7Vg2c/UU2VR-zztYI/AAAAAAACnIE/s4LDCDDkgBs/s800/2013-03-17%252520-%25252031%252520-%252520Starting%252520down.jpg"></a><br>
+<b><i>Starting down</i></b><br>
+<br>
+<a href="https://lh4.googleusercontent.com/-lGr9h4R9o2s/UU2VbLp-NVI/AAAAAAACnJ8/fd3ns3dJb8w/s1600/2013-03-17%252520-%25252032a%252520-%252520Looking%252520down%252520the%252520N%252520Couloir%252520of%252520Humphreys.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-lGr9h4R9o2s/UU2VbLp-NVI/AAAAAAACnJ8/fd3ns3dJb8w/s800/2013-03-17%252520-%25252032a%252520-%252520Looking%252520down%252520the%252520N%252520Couloir%252520of%252520Humphreys.jpg"></a><br>
+<b><i>Looking down the N Couloir of Humphreys. This is a classic Sierra ski descent, and can turn into a late season ice climb.</i></b><br>
+<br>
+Before I knew it I was back at the notch. I picked up my pack and started picking my way along the cl. 3-4 NW Ridge. Fortunately it was mostly cl. 2-3, as the soft snow made it slow and tiring enough.<br>
+<br>
+<a href="https://lh6.googleusercontent.com/-4okjmASkn1A/UWtVX3GDSCI/AAAAAAACnNs/l_NED-JYv5M/s1600/2013-03-17%252520-%25252034%252520-%252520Looking%252520back%252520at%252520Humphreys%252520from%252520NW%252520Ridge%252520-%252520annotation.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-4okjmASkn1A/UWtVX3GDSCI/AAAAAAACnNs/l_NED-JYv5M/s800/2013-03-17%252520-%25252034%252520-%252520Looking%252520back%252520at%252520Humphreys%252520from%252520NW%252520Ridge%252520-%252520annotation.jpg"></a><br>
+<b><i>Looking back at Humphreys from NW Ridge</i></b><br>
+<br>
+<a href="https://lh3.googleusercontent.com/-6-k9S3AVpg0/UU2Ve-DeVRI/AAAAAAACnLE/UK3xJQITHqo/s1600/2013-03-17%252520-%25252037%252520-%252520Looking%252520back%252520at%252520Humphreys%252520from%252520NW%252520Ridge.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-6-k9S3AVpg0/UU2Ve-DeVRI/AAAAAAACnLE/UK3xJQITHqo/s800/2013-03-17%252520-%25252037%252520-%252520Looking%252520back%252520at%252520Humphreys%252520from%252520NW%252520Ridge.jpg"></a><br>
+<b><i>Looking back at Humphreys from NW Ridge</i></b><br>
+<br>
+I was quite surprised with the unexpected views from this ridge - from no other angle does Humphreys look so symmetric and rugged! This alone made me very happy that I took the NW Ridge back rather than descending the SW Couloir.<br>
+<br>
+<a href="https://lh3.googleusercontent.com/-4irZHY1xITE/UU2Vg-QCbrI/AAAAAAACnLk/zM6PlyrcscE/s1600/2013-03-17%252520-%25252038a%252520-%252520Climbing%252520the%252520NW%252520Ridge.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-4irZHY1xITE/UU2Vg-QCbrI/AAAAAAACnLk/zM6PlyrcscE/s800/2013-03-17%252520-%25252038a%252520-%252520Climbing%252520the%252520NW%252520Ridge.jpg"></a><br>
+<b><i>Climbing the NW Ridge</i></b><br>
+<br>
+<a href="https://lh5.googleusercontent.com/-ekFY7fOmPFI/UU2VialedvI/AAAAAAACnL8/UHe5CWjAozk/s1600/2013-03-17%252520-%25252039a%252520-%252520Climbing%252520the%252520NW%252520Ridge.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-ekFY7fOmPFI/UU2VialedvI/AAAAAAACnL8/UHe5CWjAozk/s800/2013-03-17%252520-%25252039a%252520-%252520Climbing%252520the%252520NW%252520Ridge.jpg"></a><br>
+<b><i>Climbing the NW Ridge. At this point one cannot stay on the crest and keep it class 4. The most straightforward option is to descend about 200 ft to the west at traverse along until you can climb back up to the plateau (melted out section to the left). It also appears that you can drop down a similar amount traversing the east side in more exposed terrain, although the entry-exit to the plateau might be tricky.</i></b><br>
+<br>
+<a href="https://lh6.googleusercontent.com/-3pJWreH7pZM/UU2VjKfQzwI/AAAAAAACnMM/ACea9AowQko/s1600/2013-03-17%252520-%25252040%252520-%252520Looking%252520back%252520on%252520the%252520NW%252520Ridge.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-3pJWreH7pZM/UU2VjKfQzwI/AAAAAAACnMM/ACea9AowQko/s800/2013-03-17%252520-%25252040%252520-%252520Looking%252520back%252520on%252520the%252520NW%252520Ridge.jpg"></a><br>
+<b><i>Looking back on the NW Ridge</i></b><br>
+<br>
+At last I regained the crest plateau, and I could tell that it was late enough in the day that the others would begin to wonder about me. I had cell reception and called down to tell them I was fine and to give them an ETA. Unfortunately I had assumed that my breathing troubles and fatigue would get better as I got lower, and not worse! After seemingly endless breathing breaks and postholing, I collapsed at the cars around midnight. The others were in good spirits waiting around, and Mike D. happily captured the moment.<br>
+<br>
+<a href="https://lh5.googleusercontent.com/-EOK9MMpmB1Y/UnUi8z5o3qI/AAAAAAAC1PA/BUSXtfsN2_Q/s1600/photo.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-EOK9MMpmB1Y/UnUi8z5o3qI/AAAAAAAC1PA/BUSXtfsN2_Q/s800/photo.jpg"></a><br>
+<b><i>Collapsing at the car after a full day in the mountains. (by Mike D.)</i></b><br>
+<br>
+The others had had great ski descents and an overnight by Mt. Emerson, although Mike had gotten sick and only did one, but he was feeling better by this point. We piled into the car and booked it back towards the Bay Area. We still hoped to beat morning rush hour and make it back just in time for shower and work. Unfortunately, we had another epic between South Tahoe and Minden.<br>
+<br>
+<a href="https://lh6.googleusercontent.com/-ntd-sf3cM24/UnUi-32J6nI/AAAAAAAC1PI/bTIW9_vjP8M/s1600/2013-03-18%2520-%252002%2520-%2520Burnt%2520Subaru%2520-%2520Andrew%2520Gillies.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-ntd-sf3cM24/UnUi-32J6nI/AAAAAAAC1PI/bTIW9_vjP8M/s800/2013-03-18%2520-%252002%2520-%2520Burnt%2520Subaru%2520-%2520Andrew%2520Gillies.jpg"></a><br>
+<b><i>This is what happens when your mechanic doesn't screw the oil plug in sufficiently in your car - oil dumps out, fries engine, and engine ignites the oil that has splattered all across the underside. Doh! (by Johnathan C.)</i></b><br>
+<br>
+Fortunately the fire only mildly damaged the car, and insurance mostly covered the replacement of the engine. With the kindness of friends in Tahoe, we managed to get all of our climbing and skiing gear either home in the rental car or safely stowed at Tahoe.<br>
+<br>
+While the weekend wasn't the recharging one between work and studying that I had hoped for, it was still a very fulfilling one, and just what I needed to stave off some of my cabin fever. After seeing what I could still do and how much better my knee felt, I felt much more confident about my chances of continuing to get out in the alpine, despite my knee.<br>
+<br>
+<div class="horizontalrule"><hr></div>
+<div class="horizontalrule"><hr></div>
+<br>
+<b><u>Links</u></b><br>
+<a href="https://picasaweb.google.com/105894936663116565516/20130316to17HumphreysSWCouloir?authuser=0&amp;feat=directlink" target="_blank" rel="nofollow">Picasa Album</a><br>
+<br>
+
+</div> 
+id: t12186n 
+name: Solo Winter Ascent of Mt Humphreys via SW Couloir & NW Ridge Descent 
+url: http://www.supertopo.com/tr/Solo-Winter-Ascent-of-Mt-Humphreys-via-SW-Couloir-NW-Ridge-Descent/t12186n.html 
+

@@ -38,6 +38,7 @@ date:
 difficulty: 5.7 
 elevation:  
 grade:  
+hits: 4094  
 id: 167674 
 latitude:  
 location:  
@@ -46,6 +47,9 @@ my_route_quality:
 name: Overhang Bypass 
 number_of_pitches:  
 page_url: http://www.summitpost.org/overhang-bypass/167674 
+parent_code: 151605 
+parent_name: Joshua Tree National Park 
+parent_url: /joshua-tree-national-park/151605 
 rock_difficulty:  
 route_quality: 0.8 
 route_type: technical rock 

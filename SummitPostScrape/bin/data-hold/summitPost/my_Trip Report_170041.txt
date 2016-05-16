@@ -171,6 +171,7 @@ date: Sep 20, 2003
 difficulty:  
 elevation:  
 grade:  
+hits: 4646  
 id: 170041 
 latitude: 37.0939 
 location: California, United States, North America 
@@ -179,6 +180,9 @@ my_route_quality:
 name: Mark N’ Dirk’s Bivouac Trilogy - Part 3: North Palisade & Polemonium 
 number_of_pitches:  
 page_url: http://www.summitpost.org/mark-n-dirk-s-bivouac-trilogy-part-3-north-palisade-polemonium/170041 
+parent_code: 150406 
+parent_name: North Palisade 
+parent_url: /north-palisade/150406 
 rock_difficulty:  
 route_quality:  
 route_type:  

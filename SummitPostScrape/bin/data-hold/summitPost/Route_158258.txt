@@ -39,6 +39,7 @@ date:
 difficulty: Class 3 
 elevation:  
 grade:  
+hits: 4729  
 id: 158258 
 latitude: 37.88 
 location: California, United States, North America 
@@ -47,6 +48,9 @@ my_route_quality:
 name: South Slope 
 number_of_pitches:  
 page_url: http://www.summitpost.org/south-slope/158258 
+parent_code: 151389 
+parent_name: Lembert Dome 
+parent_url: /lembert-dome/151389 
 rock_difficulty:  
 route_quality: 1.0 
 route_type: Scramble 

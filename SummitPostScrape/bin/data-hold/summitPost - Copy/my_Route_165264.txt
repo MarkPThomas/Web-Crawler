@@ -1,0 +1,106 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Approach</h2>
+<br>
+Park 2.45 miles up the canyon from the neon sign at the Park N' Ride. Use one of the pullouts from either side of the road. Drop down to the river from a point where you are directly across from the wall. At the river is a fixed line strung between trees that is crossed via a Tyrolean Traverse. Recently a foot line has been put up too, but it's not as fun <img src="/message_board/images/laugh.gif" width="15" height="15">.  <p>  The routes begin at an overhang at the far side of the river crossing. Follow the base of the cliffs right to reach the rest of the climbs.<br>
+<a name="chapter_2"></a></p>
+<h2>Route Description</h2>
+<br>
+This area is very popular and is often full on weekends. Nearby trees and the river keep the area cool while the east facing rock catches the morning sun. While the routes are close together, they can all be top roped at the same time. The rock is solid and steep, and the area hosts routes of a variety of difficulties. The climbing here is mostly sport.   <p>  During the winter the base of the main wall is used for praticing dry-tool traverses, while the dark chimney to the left of the Italian Arete is used for practicing dry-tooling on top rope (5.5-5.6).  </p>
+<p>  </p>
+<table border="1" cellspacing="0"><tr><td>  <table border="0" cellspacing="2" cellpadding="2">    <tr bgcolor="#c0c0c0"><td colspan="5"><font style="font-weight:bold;">ROUTES OVERVIEW</font></td></tr>  <tr>  <td align="center"><font style="font-weight:bold;">Route</font></td>  <td align="center"><font style="font-weight:bold;">Difficulty</font></td>  <td align="center"><font style="font-weight:bold;">Rating</font></td>  <td align="center"><font style="font-weight:bold;">FA</font></td>  <td align="center"><font style="font-weight:bold;">Trad/Sport</font></td>    </tr>
+<tr>  <td>Salem's Lot</td>  <td align="center">5.10c</td>  <td align="center"><img src="http://www.summitpost.org/images/stara.gif"></td>  <td>1992, Shane Willet &amp; Mike Carnahan</td>  <td align="center">Sp</td>
+</tr>    <tr>  <td bgcolor="#e0e0e0">Witchhunt</td>  <td bgcolor="#e0e0e0" align="center">5.10a</td>  <td bgcolor="#e0e0e0" align="center">
+<img src="http://www.summitpost.org/images/stara.gif"><img src="http://www.summitpost.org/images/stara.gif">
+</td>  <td bgcolor="#e0e0e0">1992, Shane Willet &amp; Mike Carnahan</td>  <td bgcolor="#e0e0e0" align="center">Sp</td>
+</tr>    <tr>  <td>Abracadabra</td>  <td align="center">5.5</td>  <td align="center"></td>  <td>Unknown</td>  <td align="center">Tr</td>
+</tr>    <tr>  <td bgcolor="#e0e0e0">Senseless Banter</td>  <td bgcolor="#e0e0e0" align="center">5.9+</td>  <td bgcolor="#e0e0e0" align="center"><img src="http://www.summitpost.org/images/stara.gif"></td>  <td bgcolor="#e0e0e0">1990, Scott Unice &amp; Julie Gustin</td>  <td bgcolor="#e0e0e0" align="center">Tr</td>
+</tr>    <tr>  <td>Forgotten Ambition</td>  <td align="center">5.9</td>  <td align="center"></td>  <td>1990, Scott Unice &amp; Julie Gustin</td>  <td align="center">Tr</td>
+</tr>    <tr>  <td bgcolor="#e0e0e0"><a href="#six">Italian Arete</a></td>  <td bgcolor="#e0e0e0" align="center">5.6</td>  <td bgcolor="#e0e0e0" align="center">
+<img src="http://www.summitpost.org/images/stara.gif"><img src="http://www.summitpost.org/images/stara.gif">
+</td>  <td bgcolor="#e0e0e0">1992, Tony Calderone</td>  <td bgcolor="#e0e0e0" align="center">Sp</td>
+</tr>    <tr>  <td><a href="#seven">Entre Nous</a></td>  <td align="center">5.8+</td>  <td align="center">
+<img src="http://www.summitpost.org/images/stara.gif"><img src="http://www.summitpost.org/images/stara.gif">
+</td>  <td>1989, Stuart Rickman &amp; Libby Ellis</td>  <td align="center">Sp</td>
+</tr>    <tr>  <td bgcolor="#e0e0e0"><a href="#eight">Thieving Magpie</a></td>  <td bgcolor="#e0e0e0" align="center">5.7</td>  <td bgcolor="#e0e0e0" align="center">
+<img src="http://www.summitpost.org/images/stara.gif"><img src="http://www.summitpost.org/images/stara.gif">
+</td>  <td bgcolor="#e0e0e0">1992, Paul Hodges &amp; Ray Dahl</td>  <td bgcolor="#e0e0e0" align="center">Sp</td>
+</tr>    <tr>  <td><a href="#nine">Roll the Bones</a></td>  <td align="center">5.6</td>  <td align="center">
+<img src="http://www.summitpost.org/images/stara.gif"><img src="http://www.summitpost.org/images/stara.gif">
+</td>  <td>1991, Ray Dahl &amp; Paul Hodges</td>  <td align="center">Sp</td>
+</tr>    <tr><td colspan="5"><small><i>Route overview information used from Stuart &amp; Bret Ruckman's <a href="http://www.amazon.com/exec/obidos/ASIN/0762727306/summitpost-20/103-3515982-7251006">Rock Climbing the Wasatch Range</a>. In depth information is from personal experience</i></small></td></tr>  </table>    </td></tr></table>    <p>  <a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__157961__object_id__4933__type__mountain__mountain_id__4933__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.org/images/original/107624.jpg" width="90%"></a></p>  <a name="six"><br>
+</a><a name="chapter_3"></a><h2>Italian Arete - 5.6</h2>
+<br>
+<a name="seven">  The Italian Arete is a fun climb on a sharp arete. Big blocky holds characterize this route.   <p>  <b>Pitch #1:</b> Climb the corner of a large wall that most of the other sport routes ascend. Start on the inside of a dihedal and climb straight for the arete. About 3/4 up, drop back into the left face of the arete to reach the bolted anchor. This section is usually then top-roped.  </p>
+<p>  <b>Pitch #2:</b> If one so wishes, a second pitch can be climbed from here, with a walkoff for descent. Trad gear is needed for the second pitch.<br>
+<a name="chapter_4"></a></p>
+<h2>Entre Nous - 5.8+</h2>
+<br>
+</a><a name="eight">  This is the first bolted route on the rock slab past the Italian Arete. It has small holds, used mostly for balance while edging. An intimidating 80 ft climb.<br>
+</a><a name="chapter_5"></a><h2>Thieving Magpie - 5.7</h2>
+<br>
+<a name="nine">  This is the next climb over from Entre Nous. Clean, crisp rock, and a thin crux near the top.<br>
+</a><a name="chapter_6"></a><h2>Roll the Bones - 5.6</h2>
+<br>
+The last bolted route on the wall. A good climb on a shield of quartzite.<br>
+<a name="chapter_7"></a><h2>Essential Gear</h2>
+<br>
+For the sport routes, 1 set of quickdraws and two slings for anchoring should do. I haven't done the trad here, so I can't give gear reccomendations on that.<br>
+<a name="chapter_8"></a><h2>Other Info</h2>
+<br>
+If you have additional info for routes described or have done a route not described in depth, please put the info here and I'll integrate it into the page!<br>
+<div align="center">
+<a name="messages"></a><a name="chapter_9"></a><h2>Additions and Corrections</h2>[ <a href="/object_discussion.php?type=vote_comments&amp;object_id=165264&amp;is_addition=1#vote_form">Post an Addition or Correction</a> ]<table cellpadding="0" cellspacing="0" style="width: 775px;"><tr><td><table cellpadding="2" cellspacing="2" width="100%"><tr>
+<td align="left"><span class="pagertext">Viewing: <b>1</b>-<b>1</b> of <b>1</b></span></td>
+<td align="center"></td>
+<td align="right">    </td>
+</tr></table></td></tr></table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="490615"></a> <a class="dis_user_lnk" href="/users/spericksen0613/125688">spericksen0613</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Just a couple things</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/spericksen0613/125688"><img alt="spericksen0613" width="50" height="50" border="0" src="/images/avatars/933730.jpg"></a></p>
+<p><span style="font-size: 9px; color: #888;">Voted 7/10</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">1. There is no Tyrolean Traverse anymore. The best way to get by the river when it's high is a trail from Storm Mountain Picnic Area.<br><br>
+<br><br>
+2. My girlfriend and I had a rather unfortunate encounter with small hidden cacti on the top-out area. I've never seen a warning about it anywhere, either. I think it would be great to have that included, as well. The closest image I could find is this: http://www.naturenorth.com/Garden/Cacti_pear1.jpg<br><br>
+<br><br>
+Hope this helps!</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted May 22, 2015 4:56 pm</span></td></tr>
+</table>
+<br><table border="0" width="775"><tr><td><table cellpadding="2" cellspacing="2" width="100%"><tr>
+<td align="left"><span class="pagertext">Viewing: <b>1</b>-<b>1</b> of <b>1</b></span></td>
+<td align="center"></td>
+<td align="right">    </td>
+</tr></table></td></tr></table>
+<br>
+</div>
+            </article> 
+date:  
+difficulty: 5.6-5.10c 
+elevation:  
+grade:  
+id: 165264 
+latitude: 40.6194 
+location: Utah, United States, North America 
+longitude: -111.7874 
+my_route_quality:  
+name: Salt Lake Slips 
+number_of_pitches:  
+page_url: http://www.summitpost.org/salt-lake-slips/165264 
+rock_difficulty:  
+route_quality: 1.0 
+route_type: Sport, Trad - Single & Multi Pitch 
+seasons:  
+time_required: Less than two hours 
+type: Route 
+

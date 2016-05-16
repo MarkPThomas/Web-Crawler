@@ -191,6 +191,7 @@ date:
 difficulty:  
 elevation: 14242 
 grade:  
+hits: 95379  
 id: 150406 
 latitude: 37.0941 
 location: California, United States, North America 
@@ -199,6 +200,9 @@ my_route_quality:
 name: North Palisade 
 number_of_pitches:  
 page_url: http://www.summitpost.org/north-palisade/150406 
+parent_code: 171074 
+parent_name: Palisades 
+parent_url: /palisades/171074 
 rock_difficulty:  
 route_quality:  
 route_type:  

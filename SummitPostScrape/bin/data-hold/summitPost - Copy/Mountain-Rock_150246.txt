@@ -1,0 +1,420 @@
+activities: Hiking, Mountaineering, Trad Climbing, Scrambling, Skiing 
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>Mount Langley is one of the easiest <a href="http://www.summitpost.org/list/170899/california-14ers.html">California Fourteeners</a> to climb if the <a href="http://www.summitpost.org/route/156296/army-pass-normal-route.html">Army Pass</a> route is chosen.  Langley provides a great view of the south Sierra in all directions from the summit, including the Mount Whitney group, the Great Western Divide, Olancha Peak, and Owen's Valley.  It is the southernmost fourteener, and the most desert-like of the Sierra Nevada fourteeners. The North and South faces provide excellent technical rock climbing, while Old Army Pass and the south slopes provide an easy walk-up.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=21532" rel="no_follow"><img src="/images/thumb/21532.jpg"></a></td>
+<td><a href="/view_object.php?object_id=105348" rel="no_follow"><img src="/images/thumb/105348.JPG"></a></td>
+<td><a href="/view_object.php?object_id=114368" rel="no_follow"><img src="/images/thumb/114368.jpg"></a></td>
+<td><a href="/view_object.php?object_id=16467" rel="no_follow"><img src="/images/thumb/16467.jpg"></a></td>
+<td><a href="/view_object.php?object_id=27588" rel="no_follow"><img src="/images/thumb/27588.jpg"></a></td>
+</tr></table>
+<a name="chapter_2"></a><h2>Getting There</h2>Take US-395 to Lone Pine, CA, and head west on Whitney Portal Road. After a couple of miles, turn left at a sign to Horseshoe Meadows Road and follow it to the Cottonwood Lakes/Army Pass trailhead. Make sure you turn right at the sign indicating Cottonwood Lakes, otherwise you will end up at the trailhead for Cottonwood Pass. There is a walk-in campground, bear boxes and toilets at the trailhead, as well as ample parking.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=47355" rel="no_follow"><img src="/images/thumb/47355.jpg"></a></td>
+<td><a href="/view_object.php?object_id=53389" rel="no_follow"><img src="/images/thumb/53389.JPG"></a></td>
+<td><a href="/view_object.php?object_id=240604" rel="no_follow"><img src="/images/thumb/240604.jpg"></a></td>
+<td><a href="/view_object.php?object_id=7144" rel="no_follow"><img src="/images/thumb/7144.jpg"></a></td>
+<td><a href="/view_object.php?object_id=145300" rel="no_follow"><img src="/images/thumb/145300.jpg"></a></td>
+</tr></table>
+<a name="chapter_3"></a><h2>Red Tape</h2>The quota in the Inyo National Forest is from May 1st through November 1st and permits can be obtained from any one of the four Ranger Stations: Mono Lake in Lee Vining, Mammoth Lakes Visitor Center in Mammoth, White Mountain Ranger Station in Bishop or Lone Pine Ranger Station in Lone Pine. <br>
+<br>
+There are 60 spots on the quota. 60% (36) of the quotas are held for reservations. The other 40% (24) are for walk-in permits.<br>
+<br>
+It costs $5.00 per person to reserve a permit in advance.  All other times of the year have no quota on trail users, but require a wilderness permit, which can be obtained free at the ranger station in Lone Pine.  The mountain is always open, but the road is not plowed during winter. For example, in 2002, the road opened in late April (some have been known to open up the gates and proceed up anyway, especially in low snow years like 2002 - however this is illegal). Go <a href="http://www.fs.fed.us/r5/inyo/recreation/wild/permitsres.shtml">here</a> for more information on permits.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=105347" rel="no_follow"><img src="/images/thumb/105347.JPG"></a></td>
+<td><a href="/view_object.php?object_id=29052" rel="no_follow"><img src="/images/thumb/29052.jpg"></a></td>
+<td><a href="/view_object.php?object_id=47357" rel="no_follow"><img src="/images/thumb/47357.jpg"></a></td>
+<td><a href="/view_object.php?object_id=50823" rel="no_follow"><img src="/images/thumb/50823.JPG"></a></td>
+<td><a href="/view_object.php?object_id=7988" rel="no_follow"><img src="/images/thumb/7988.jpg"></a></td>
+</tr></table>
+<a name="chapter_4"></a><h2>When To Climb</h2>The best hiking and rock climbing is during June through early October.  Good mountaineering snow is present from May through July.  This peak can be snowshoed up in winter, but is very far, with the road not being plowed (see above for the road access conditions. In 2002 a party was able to climb the mountain in February by driving all the way to the main trailhead.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=13520" rel="no_follow"><img src="/images/thumb/13520.jpg"></a></td>
+<td><a href="/view_object.php?object_id=13722" rel="no_follow"><img src="/images/thumb/13722.JPG"></a></td>
+<td><a href="/view_object.php?object_id=40798" rel="no_follow"><img src="/images/thumb/40798.JPG"></a></td>
+<td><a href="/view_object.php?object_id=133672" rel="no_follow"><img src="/images/thumb/133672.jpg"></a></td>
+<td><a href="/view_object.php?object_id=133673" rel="no_follow"><img src="/images/thumb/133673.jpg"></a></td>
+</tr></table>
+<a name="chapter_5"></a><h2>Camping</h2>Overnight wilderness permits are required at all times.  There are use quotas in effect from May 1 to November 1. Obtained permits from the ranger stations in Lee Vining, Bishop or Lone Pine. If under quotas, make reservations is advance. More information can be found at the Inyo  <a href="http://www.fs.fed.us/r5/inyo/recreation/wild/permitsres.shtml">National Forest Visitor Center</a>.<br>
+<br>
+Outstanding spots for a basecamp can be found around the Cottonwood Lakes, in particular lake # 3.<br>
+<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=13723" rel="no_follow"><img src="/images/thumb/13723.JPG"></a></td>
+<td><a href="/view_object.php?object_id=54039" rel="no_follow"><img src="/images/thumb/54039.JPG"></a></td>
+<td><a href="/view_object.php?object_id=21922" rel="no_follow"><img src="/images/thumb/21922.JPG"></a></td>
+<td><a href="/view_object.php?object_id=133674" rel="no_follow"><img src="/images/thumb/133674.jpg"></a></td>
+</tr></table>
+<a name="chapter_6"></a><h2>Mountain Conditions</h2>Check <a href="http://www.395.com">www.395.com</a> for current conditions, or call the Inyo National Forest Rangers at (760) 873-2400 for conditions. Daily report at the ranger station.<br>
+<br>
+Another nice source for weather data is <a href="http://mammothweather.com/">Howard Sheckter's webpage</a> out of Mammoth Lakes. <br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=54040" rel="no_follow"><img src="/images/thumb/54040.JPG"></a></td>
+<td><a href="/view_object.php?object_id=54041" rel="no_follow"><img src="/images/thumb/54041.JPG"></a></td>
+</tr></table>
+<a name="chapter_7"></a><h2>External Links</h2>
+<ul>
+<li>
+<a href="http://adrenalineqwest.com/adventure/mountaineering/mt_langley.htm">Langley via Tuttle cr.</a><br><br>
+</li>
+<li>
+<a href="http://www.summitpost.org/phpBB2/viewtopic.php?t=24816&amp;postdays=0&amp;postorder=asc&amp;highlight=rank&amp;start=0">SP forum discussion on CA 14er Ranking from Easiest to Hardest</a><br>
+<br>
+</li>
+<li>
+<a href="http://www.summitpost.org/fact-sheet/234991/topo-maps-of-california-14ers-and-13ers.html">Topo Maps of CA 14ers and 13ers</a><br>
+<br>
+</li>
+<li>
+<a href="http://www.snwburd.com/bob/trip_reports/langley_1.html">Bob Burd's Excellent TR</a> <br>
+<br>
+</li>
+<li>
+<a href="http://www.karpel.org/Ron/Reports2000/Langley07162000.html">Ron Karpel's Langley Page</a><br> Contains nice photos of an ascent of Langley<br>
+</li>
+<li>
+<a href="http://www.climber.org/TripReports/Lae.html">Trip reports from climber.org</a><br> Useful trip reports for Langley<br>
+</li>
+<li>
+<a href="http://groups.google.com/groups?hl=en&amp;ie=ISO-8859-1&amp;oe=ISO-8859-1&amp;threadm=366AA790.F02E6D71%40earthlink.net&amp;rnum=1&amp;prev=/groups%3Fhl%3Den%26ie%3DISO-8859-1%26oe%3DISO-8859-1%26selm%3D366AA790.F02E6D71">Discussion Thread from Google Groups</a><br> Some useful information here too.<br>
+</li>
+<li>
+<a href="http://www.stanford.edu/~wacziarg/climbing/LangleyMay02.html">Romain Wacziarg's Mount Langley Page</a><br> <br>
+</li>
+<li>
+<a href="http://www.stanford.edu/~wacziarg/climbing/LangleyMay02.html">Romain Wacziarg's Mount Langley Page</a><br> Photos and a trip report of a May 2002 ascent of Mount Langley.<br>
+</li>
+<li>
+<a href="http://home.pacbell.net/harryla/harrypage/mountains.htm#Langley">From the South and West, Class 1</a><br> <br>
+</li>
+<li>
+<a href="http://www.climber.org/TripReports/1994/21.html">Mount Langley - By Fair Means (www.climber.org page)</a><br> <br>
+</li>
+<li>
+<a href="http://www.rockclimbing.org/gallery/langley_crux.htm">The crux 5th pitch on North Arete of Langley</a><br> What a pitch!<br>
+</li>
+<li>
+<a href="http://www-db.stanford.edu/~crespo/Pictures/Langley03">Langley via New Army Pass</a><br> <br>
+</li>
+<li>
+<a href="http://www.tarol.com/miterbasin.html">Mt. Langley Trip Report <br>
+August 2005</a><br> <br>
+</li>
+<li>
+<a href="http://www.sierradescents.com/skiing/langley/2006/northeast-couloir.php">Skiing Langley's Northeast Couloir</a>, from SierraDescents.com<br> <br>
+</li>
+</ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         <div align="center">
+<a name="messages"></a><a name="chapter_8"></a><h2>Additions and Corrections</h2>[ <a href="/object_discussion.php?type=vote_comments&amp;object_id=150246&amp;is_addition=1#vote_form">Post an Addition or Correction</a> ]<table cellpadding="0" cellspacing="0" style="width: 775px;"><tr><td><table cellpadding="2" cellspacing="2" width="100%"><tr>
+<td align="left"><span class="pagertext">Viewing: <b>1</b>-<b>15</b> of <b>15</b></span></td>
+<td align="center"></td>
+<td align="right">    </td>
+</tr></table></td></tr></table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="4269"></a> <a class="dis_user_lnk" href="/users/romain/185">Romain</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Untitled Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/romain/185"><img alt="Romain" width="50" height="50" border="0" src="/images/avatars/675933.JPG"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">Morgan, <br><br><br>Thanks.<br><br><br>The benchmark on the summit of Langley is <a href="http://www.stanford.edu/~wacziarg/climbing/photos/LangleyMay02/Langley2-0017.jpg">here</a>. Not sure I can spot a date on it. Does it have special significance?<br><br><br>Romain</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Nov 5, 2002 11:02 pm</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="5159"></a> <a class="dis_user_lnk" href="/users/mpbro/220">mpbro</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Untitled Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/mpbro/220"><img alt="mpbro" width="50" height="50" border="0" src="/images/avatars/964.jpg"></a></p>
+<p><span style="font-size: 9px; color: #888;">Voted 10/10</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">Sorry, I missed this post and didnt' reply earlier...<br><br><br><br><br><br>If I read it correctly, I see "14042" on there, which would be the surveyed elevation in feet.  Unless a more recent survey has been done, this answers the question!</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Dec 15, 2002 2:16 pm</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="5595"></a> <a class="dis_user_lnk" href="/users/romain/185">Romain</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Untitled Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/romain/185"><img alt="Romain" width="50" height="50" border="0" src="/images/avatars/675933.JPG"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">Morgan,<br><br><br>Those dual elevation data are annoying. I'm going with the USGS website, under the assumption that it reflects the most recent survey. The GNIS displays an elevation of 14026, I assume that the marker must reflect older data...<br><br><br>Cheers,<br><br><br>Romain</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Dec 29, 2002 12:28 am</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="82971"></a> <a class="dis_user_lnk" href="/users/romain/185">Romain</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Untitled Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/romain/185"><img alt="Romain" width="50" height="50" border="0" src="/images/avatars/675933.JPG"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">Fixed. Thanks!</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Jul 14, 2005 4:49 pm</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="97558"></a> <a class="dis_user_lnk" href="/users/romain/185">Romain</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Untitled Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/romain/185"><img alt="Romain" width="50" height="50" border="0" src="/images/avatars/675933.JPG"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">Fixed. Thanks.</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Oct 17, 2005 11:20 pm</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="119843"></a> <a class="dis_user_lnk" href="/users/mpbro/220">mpbro</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Untitled Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/mpbro/220"><img alt="mpbro" width="50" height="50" border="0" src="/images/avatars/964.jpg"></a></p>
+<p><span style="font-size: 9px; color: #888;">Voted 10/10</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">The most recent USGS topographical map quotes an elevation of 4275 meters, or when multiplied by 3.281, 14026 feet.<br><br><br><br><br><br>Did you note the date of the benchmark on the summit?</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Jul 4, 2002 9:52 pm</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="119950"></a> <a class="dis_user_lnk" href="/users/romain/185">Romain</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Untitled Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/romain/185"><img alt="Romain" width="50" height="50" border="0" src="/images/avatars/675933.JPG"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">Morgan, <br><br><br>Thanks.<br><br><br>The benchmark on the summit of Langley is <a href="http://www.stanford.edu/~wacziarg/climbing/photos/LangleyMay02/Langley2-0017.jpg">here</a>. Not sure I can spot a date on it. Does it have special significance?<br><br><br>Romain</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Nov 5, 2002 11:02 pm</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="119995"></a> <a class="dis_user_lnk" href="/users/mpbro/220">mpbro</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Untitled Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/mpbro/220"><img alt="mpbro" width="50" height="50" border="0" src="/images/avatars/964.jpg"></a></p>
+<p><span style="font-size: 9px; color: #888;">Voted 10/10</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">Sorry, I missed this post and didnt' reply earlier...<br><br><br><br><br><br>If I read it correctly, I see "14042" on there, which would be the surveyed elevation in feet.  Unless a more recent survey has been done, this answers the question!</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Dec 15, 2002 2:16 pm</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="120001"></a> <a class="dis_user_lnk" href="/users/romain/185">Romain</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Untitled Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/romain/185"><img alt="Romain" width="50" height="50" border="0" src="/images/avatars/675933.JPG"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">Morgan,<br><br><br>Those dual elevation data are annoying. I'm going with the USGS website, under the assumption that it reflects the most recent survey. The GNIS displays an elevation of 14026, I assume that the marker must reflect older data...<br><br><br>Cheers,<br><br><br>Romain</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Dec 29, 2002 12:28 am</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="120475"></a> <a class="dis_user_lnk" href="/users/shano/18534">Shano</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Untitled Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/shano/18534"><img alt="Shano" width="50" height="50" border="0" src="/images/avatars/220567.JPG"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">Another option for approaching Mount Langley is via Tuttle Creek. From the Stone House, continue up-canyon (the low path seems to be the easier ascent route) past the Keyhole Wall and up another mile until you reach the pseudo-basin at the Northeastern foot of Mount Langley. Running water and level white sand "beaches" can be found with a great view of the NE side of the peak.<br><br><br>A number of 2nd and 3rd class routes can be attempted from this side</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Jun 9, 2004 11:51 am</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="120476"></a> <a class="dis_user_lnk" href="/users/shano/18534">Shano</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Untitled Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/shano/18534"><img alt="Shano" width="50" height="50" border="0" src="/images/avatars/220567.JPG"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">I should also mention that there are certainly much more difficult AIx, 4th &amp; 5th class routes as well; your imagination is the only limit here</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Jun 9, 2004 11:57 am</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="121287"></a> <a class="dis_user_lnk" href="/users/inyoface/25356">inyoface</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Untitled Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;"><p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p></td>
+<td colspan="2" style="padding-top: 6px;">The quota in the Inyo National Forest is actually from May 1st  through  November 1st and permits can be obtained from any one of the four Ranger Stations on the Forest: Mono Lake in Lee Vining, Mammoth Lakes Visitor Center in Mammoth, White Mountain Ranger Station in Bishop and yes, the Lone Pine Ranger Station in Lone Pine. </td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Jul 13, 2005 4:09 pm</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="121290"></a> <a class="dis_user_lnk" href="/users/romain/185">Romain</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Untitled Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/romain/185"><img alt="Romain" width="50" height="50" border="0" src="/images/avatars/675933.JPG"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">Fixed. Thanks!</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Jul 14, 2005 4:49 pm</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="121654"></a> <a class="dis_user_lnk" href="/users/maj/28213">maj</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Untitled Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/maj/28213"><img alt="maj" width="50" height="50" border="0" src="/images/avatars/201875.jpg"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">http://www.fs.fed.us/r5/inyo/recreation/wild/permitsres.shtml</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Oct 16, 2005 3:05 am</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="121660"></a> <a class="dis_user_lnk" href="/users/romain/185">Romain</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Untitled Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/romain/185"><img alt="Romain" width="50" height="50" border="0" src="/images/avatars/675933.JPG"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">Fixed. Thanks.</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Oct 17, 2005 11:20 pm</span></td></tr>
+</table>
+<br><table border="0" width="775"><tr><td><table cellpadding="2" cellspacing="2" width="100%"><tr>
+<td align="left"><span class="pagertext">Viewing: <b>1</b>-<b>15</b> of <b>15</b></span></td>
+<td align="center"></td>
+<td align="right">    </td>
+</tr></table></td></tr></table>
+<br>
+</div>
+<a name="chapter_9"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/langley-peak/133667/c-150246"><img alt="Langley peak" src="/images/square/133667.jpg"></a></td>
+<td><a href="/miguel-carmona-leading-the/21532/c-150246"><img alt="Miguel Carmona leading the..." src="/images/square/21532.jpg"></a></td>
+<td><a href="/lone-pine-sierra-from-the-alabama-hills/826072/c-150246"><img alt="Lone Pine Sierra from the Alabama Hills" src="/images/square/826072.jpg"></a></td>
+<td><a href="/cirque-peak-and-mt-langley-from-a-stream-in-horseshoe-meadows/477521/c-150246"><img alt="Cirque Peak and Mt. Langley from a stream in Horseshoe Meadows" src="/images/square/477521.JPG"></a></td>
+<td><a href="/sunfan-lone-pine-high-sierra/825132/c-150246"><img alt="Sunfan,  Lone Pine High Sierra" src="/images/square/825132.JPG"></a></td>
+<td><a href="/lone-pine-high-sierra/507620/c-150246"><img alt="Lone Pine High Sierra" src="/images/square/507620.JPG"></a></td>
+<td><a href="/sunrise-panorama-over-old-army-pass/869012/c-150246"><img alt="Sunrise panorama over Old Army Pass" src="/images/square/869012.jpeg"></a></td>
+</tr>
+<tr>
+<td><a href="/mt-langley-moonset/935457/c-150246"><img alt="Mt. Langley moonset" src="/images/square/935457.JPG"></a></td>
+<td><a href="/winter-pass-at-sunrise/114367/c-150246"><img alt='"Winter Pass" at sunrise....' src="/images/square/114367.jpg"></a></td>
+<td><a href="/sunset-over-the-high-sierra/588067/c-150246"><img alt="Sunset over the High Sierra" src="/images/square/588067.jpg"></a></td>
+<td><a href="/mt-langley-and-lone-pine-peak/453745/c-150246"><img alt="Mt. Langley and Lone Pine Peak" src="/images/square/453745.JPG"></a></td>
+<td><a href="/langley-and-lone-pine-peak/922354/c-150246"><img alt="Langley and Lone Pine Peak" src="/images/square/922354.jpg"></a></td>
+<td><a href="/mount-langley-from-alabama-hills/960972/c-150246"><img alt="Mount Langley from Alabama Hills" src="/images/square/960972.jpg"></a></td>
+<td><a href="/march-23-2004-looking-down/47359/c-150246"><img alt="March 23, 2004 - Looking down..." src="/images/square/47359.jpg"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/mount-langley/images/p-150246">View Gallery - 229 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty:  
+elevation: 14026 
+grade:  
+id: 150246 
+latitude: 36.5233 
+location: California, United States, North America 
+longitude: -118.238 
+my_route_quality:  
+name: Mount Langley 
+number_of_pitches:  
+page_url: http://www.summitpost.org/mount-langley/150246 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons: Spring, Summer, Fall, Winter 
+time_required:  
+type: Mountain-Rock 
+

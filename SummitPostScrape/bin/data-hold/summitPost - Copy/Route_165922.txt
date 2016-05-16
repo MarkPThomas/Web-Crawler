@@ -1,0 +1,46 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Approach</h2>
+<br>
+The Sawmill Pass Trail is the most common approach for this climb. Starting from the trailhead on Division Creek Rd follow the trail as it climbs up the East slope of Sawmill Point. This section is characteristically hot and dry, so bring lots of water. There is NO shade until you reach 7200ft. The trail climbs continuously until it reaches the ridgeline, then drops 200ft down to the "Hogsback". You are now in Sawmill Canyon, which is appropriately named for the pine forests it holds. You'll climb up the Hogsback for several miles to Sawmill Meadow. There are several creek crossings all of which are easy, though in the early season the trail often floods in numerous spots so be ready for mud. Once at Sawmill Meadow the Canyon begins to open up, and you climb a bit steeper up to Mule Lake then Sawmill Lake. The best camping spots are near Sawmill Meadow and at 9500ft before Mule Lake.  After you pass Sawmill Lake it is only a little over 1000ft to the pass, on mostly rocky terrain so very few camping opportunities. The pass comes up very quickly, once there drop 400ft down the West side toward the basin to the right of the trail. Cedric Wright dominates the skyline once you top out on the pass. Stay on top of the ridge that runs up toward Cedric Wright and the pinnacle to its South.<br>
+Time Required is from the Woods Lake Basin, not the trail head.<br>
+<a name="chapter_2"></a><h2>Route Description</h2>
+<br>
+The Southeast slope runs directly up from Lake 3480m. On the left will be peak 3721m and the sandy talus filled SE slope will present itself to your right. A large bowl separates the two, in early season this is often filled with snow so. Scramble up the talus and sand toward the Southern end of the ridge. The rocky pinnacle near the Southern end is your goal. One can also traverse over or around the South side of peak 3721m for more technical scrambling, though there is much loose rock on this mountain so be careful.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=115939" rel="no_follow"><img src="/images/thumb/115939.JPG"></a></td>
+<td><a href="/view_object.php?object_id=116028" rel="no_follow"><img src="/images/thumb/116028.JPG"></a></td>
+</tr></table>
+<a name="chapter_3"></a><h2>Essential Gear</h2>
+<br>
+No technical gear is required during normal summer climbing months. In early season an ice axe and crampons may be useful to ascend to Sawmill Pass and also to ascend the SE slope.<br>
+<a name="chapter_4"></a><h2>Miscellaneous Info</h2>
+<br>
+If you have information about this route that doesn't pertain to any of the other sections, please add it here.<br>
+<a name="chapter_5"></a><h2>Images</h2>
+<div align="center"><table id="my_images"><tr>
+<td><a href="/outline-of-the-basic-routes/116028/c-165922"><img alt="Outline of the basic routes..." src="/images/square/116028.JPG"></a></td>
+<td><a href="/the-broad-class-2-se-slope/115939/c-165922"><img alt="The broad class 2- SE slope,..." src="/images/square/115939.JPG"></a></td>
+</tr></table></div>
+            </article> 
+date:  
+difficulty: Class 1-2 
+elevation:  
+grade:  
+id: 165922 
+latitude: 36.9039 
+location: California, United States, North America 
+longitude: -118.3878 
+my_route_quality:  
+name: South East Slope 
+number_of_pitches:  
+page_url: http://www.summitpost.org/south-east-slope/165922 
+rock_difficulty:  
+route_quality: 0.0 
+route_type: Hike/Scramble 
+seasons:  
+time_required: Half a day 
+type: Route 
+

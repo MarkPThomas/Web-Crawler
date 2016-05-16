@@ -160,6 +160,7 @@ date: Aug 16, 2003
 difficulty:  
 elevation:  
 grade:  
+hits: 4261  
 id: 170009 
 latitude: 37.9672 
 location: California, United States, North America 
@@ -168,6 +169,9 @@ my_route_quality:
 name: Mark N’ Dirk’s Bivouac Trilogy - Part 1: Mt Conness 
 number_of_pitches:  
 page_url: http://www.summitpost.org/mark-n-dirk-s-bivouac-trilogy-part-1-mt-conness/170009 
+parent_code: 150473 
+parent_name: Mount Conness 
+parent_url: /mount-conness/150473 
 rock_difficulty:  
 route_quality:  
 route_type:  

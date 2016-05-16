@@ -119,6 +119,7 @@ date:
 difficulty:  
 elevation: 11624 
 grade:  
+hits: 55975  
 id: 150408 
 latitude: 51.3528 
 location: Alberta, Canada, North America 
@@ -127,6 +128,9 @@ my_route_quality:
 name: Mount Temple 
 number_of_pitches:  
 page_url: http://www.summitpost.org/mount-temple/150408 
+parent_code: 170874 
+parent_name: Banff Nat´l Park 
+parent_url: /banff-nat-l-park/170874 
 rock_difficulty:  
 route_quality:  
 route_type:  

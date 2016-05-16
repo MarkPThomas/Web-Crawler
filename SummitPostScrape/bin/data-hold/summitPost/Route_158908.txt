@@ -117,6 +117,7 @@ date:
 difficulty: I, 5.6 
 elevation:  
 grade:  
+hits: 4118  
 id: 158908 
 latitude: 37.88 
 location: California, United States, North America 
@@ -125,6 +126,9 @@ my_route_quality:
 name: Northwest Books 
 number_of_pitches:  
 page_url: http://www.summitpost.org/northwest-books/158908 
+parent_code: 151389 
+parent_name: Lembert Dome 
+parent_url: /lembert-dome/151389 
 rock_difficulty:  
 route_quality: 0.8 
 route_type: Technical Rock Climb 

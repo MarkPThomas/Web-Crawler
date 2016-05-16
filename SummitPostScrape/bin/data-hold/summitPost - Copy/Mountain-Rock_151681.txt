@@ -1,0 +1,92 @@
+activities: Scrambling 
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>Mount Powell sits on the Sierra Crest between Echo Col and Mount Thompson.  Depending on what map you are looking at and what guidebook you are reading, the name "Mount Powell" can refer to any one of the three summits on this section of the crest.  The western-most of the three summits is the 13,364' peak now labelled "Mount Powell" on the most recent Mt. Darwin 7.5' topo map.  The middle summit is the 13,356' peak that has no name on the most recent map, but is called "Mount Powell" on the 1983 Mt. Darwin quad (this version is on Topozone even today -- click on the map link on the left page margin to see).  The third, easternmost summit is the unnamed and unnumbered peak at the 13,360'+ contour just west of the Thompson-Powell Col.  This peak has never had an official name according to the USGS, but there is some debate over this point.  <br>
+<br>
+To allay confusion (or to foster it, depending on your point of view), people have come to refer to these peaks in honor of the intrepid soul for whom "Mount Powell" was originally named in 1911 -- John Wesley Powell.  This annotated map shows the three peaks, and their informal names:<br>
+<br>
+<center>
+<br>
+<img src="http://www.tahoebackcountry.net/features/powell/images/powell_map.jpg"><br>
+</center>
+<br>
+<br>
+In his book <i>High Sierra: Peaks, Passes and Trails"</i>, RJ Secor claims that the USGS in its original 1911 naming decision affixed the name Mount Powell to the eastern summit -- now known as "Point Powell":<br>
+<br>
+<i>"Confusion has surrounded the naming of [Point Powell], formerly called 'Mount Powell.'  In 1911, the Board of Geographic Names named a peak in memory of John Wesley Powell, the noted western explorer and former director of the United States Geological Survey. Unfortunately, on the Mount Goddard 15-minute map, the name was placed incorrectly on the lower, western summit of this plateau (Peak 13,356ft; UTM 554111), informally known as 'Point Wesley.'  This error made its way into early editions of the Mount Darwin 7.5-minute map. The Board of Geographic Names detected this mistake in 1983 and directed the USGS Mapping Center to place the name Mount Powell on the third peak, previously called 'Point John' (13,364ft; 1.4 mi SE of Mount Wallace; UTM 550113). While Point John may be the highest of the three points, it is not as prominent as Point Powell."</i><br>
+<br>
+Secor, 2d ed., page 281.<br>
+<br>
+While Secor is correct that Point Powell is more prominent than the other two "Mount Powells", he appears to be incorrect in stating that this peak in 1911 originally bore the name Mount Powell.  <a href="http://www.climber.org/Secor/powell_usgs.html">A letter from the USGS</a> on this point seems to refute his claim, as it cites "historical files for the 1911 decision pinpoint[ing] the location at [the current coordinates of Point John]".<br>
+<br>
+Thus, most people now seem to agree that the real Mount Powell is the western peak, with a spot elevation of 13,364'.  It is a shame that Point Powell has no official name -- it is one of the most beautiful and prominent unnamed Sierra peaks and deserving of its own identity.  Indeed, the <a href="http://www.peakbagging.com/Peak%20notes/Powell.htm">Sierra Peaks Section</a> (SPS) of the Sierra Club has placed this unnamed peak on its peaks list, eschewing the "real" Mount Powell.  <br>
+<br>
+As Secor says, Point Powell is more prominent than its cousins.  It may also be higher than the other two.  The 7.5' topo map (40 foot contour intervals) shows the summit as a closed contour at 13,360' -- which means the peak may be anywhere between 13,360' and 13,399'.  Chances are it is higher than the "real" Mount Powell, which stands only 13,364'.<br>
+<br>
+<b>Mount Powell ("Point John").</b><br>
+<br>
+This peak is generally climbed from the vicinity of Echo Lake.  Head up a chute east of Echo Lake, then follow the snowramp all the way up to the summit ridge.  Here is a <a href="http://www.thebackcountry.net/messagepics/powell1.jpg">winter shot</a> showing the entire route perfectly.  From the ridge, a short third class ridge traverse leads to the summit.<br>
+<br>
+Point John can also be climbed as part of a link up with Points Powell and Wesley, via the Class 3-4 SW Ridge.  Bob Burd and group dayhiked the three Powell Peaks in August 2006 and after initially surveying the SW Ridge ("It is a jumble of broken ridgeline with half a dozen gendarmes and what looks like a lot of crappy rock") <a href="http://www.snwburd.com/bob/trip_reports/point_powell_1.html">reported</a> that this route was over highly enjoyable granite after an initial loose section.<br>
+<br>
+<b>Peak 13,360+ ("Point Powell").</b><br>
+<br>
+"Point Powell" is a beautiful mountain that offers challenging rock routes, a fun couloir climb, and an easier class 2 route via the Thompson-Powell Col.  The NE Couloir is probably best done in early spring to avoid the sandy scree at the top of the chute and danger of rockfall.  There are some very stout climbing routes on the NE Face of the peak, including a route pioneered by Galen Rowell.<br>
+<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=22738" rel="no_follow"><img src="/images/thumb/22738.jpg"></a></td>
+<td><a href="/view_object.php?object_id=22737" rel="no_follow"><img src="/images/thumb/22737.jpg"></a></td>
+</tr></table>
+<br>
+<br>
+<b>Peak 13,356 ("Point Wesley").</b><br>
+<br>
+This is a bump on the south end of the Mt. Powell plateau.  It is an easy stroll from Point Powell, or Class 3-4 via the ridge connecting to Point John.<a name="chapter_2"></a><h2>Getting There</h2>Mount Powell is usually approached from the Sabrina Basin, west of Bishop, CA.   Follow the Sabrina Basin trail past Blue, Baboon and Sunset Lakes, and up to the Thompson Glacier.  Mount Powell can also be approached from the west from the vicinity of LeConte Canyon in Kings Canyon National Park.<br>
+<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=22740" rel="no_follow"><img src="/images/thumb/22740.jpg"></a></td>
+<td><a href="/view_object.php?object_id=22739" rel="no_follow"><img src="/images/thumb/22739.jpg"></a></td>
+</tr></table>
+<a name="chapter_3"></a><h2>Red Tape</h2>Mount Powell is on the border of the John Muir Wilderness and Kings Canyon National Park.  Both jurisdictions require a wilderness permit for overnight stays.  <br>
+<br>
+<a href="http://www.fs.fed.us/r5/inyo/recreation/wild/">John Muir Wilderness Info</a><br>
+<a href="http://www.nps.gov/seki/bc_permt.htm">Kings Canyon Info</a><br>
+<br>
+Trailhead parking is free, about 1/2 mile from the actual trailhead (annoying...)<br>
+<a name="chapter_4"></a><h2>When To Climb</h2>Spring through Fall is the typical time to climb.  A winter approach is long, as it requires starting from the end of the plowed road at Aspendell.  Spring is probably the best time -- the fish are biting, the mosquitos aren't, and the scree and loose rock is covered in nice snow.<br>
+<a name="chapter_5"></a><h2>Camping</h2>On the Sabrina side, good camping is available at Sunset Lake and Baboon Lakes.  Blue Lake is a little too crowded with day hikers for my tastes, and is much farther from the mountain.  Sunset Lake is stunning, with views of Thompson and Powell, but it is a high alpine lake (11,400'+) with no sun protection.<br>
+                                          <a name="chapter_6"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/hiking-along-sunset-lake-on/22740/c-151681"><img alt=" Hiking along Sunset Lake on..." src="/images/square/22740.jpg"></a></td>
+<td><a href="/climbers-returning-from-a/22743/c-151681"><img alt=" Climbers returning from a..." src="/images/square/22743.jpg"></a></td>
+<td><a href="/looking-out-over-half-frozen/22739/c-151681"><img alt=" Looking out over half-frozen..." src="/images/square/22739.jpg"></a></td>
+<td><a href="/point-powell-seen-from-the/22737/c-151681"><img alt=" Point Powell, seen from the..." src="/images/square/22737.jpg"></a></td>
+<td><a href="/climbing-the-ne-couloir-of/22742/c-151681"><img alt=" Climbing the NE Couloir of..." src="/images/square/22742.jpg"></a></td>
+<td><a href="/ascending-the-final-200/22738/c-151681"><img alt=" Ascending the final 200\'..." src="/images/square/22738.jpg"></a></td>
+<td><a href="/ascending-the-snow-apron/22741/c-151681"><img alt=" Ascending the snow apron..." src="/images/square/22741.jpg"></a></td>
+</tr>
+<tr><td><a href="/mount-powell/843912/c-151681"><img alt="Mount Powell" src="/images/square/843912.jpg"></a></td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty:  
+elevation: 13364 
+grade:  
+id: 151681 
+latitude: 37.1408 
+location: California, United States, North America 
+longitude: -118.6241 
+my_route_quality:  
+name: Mount Powell 
+number_of_pitches:  
+page_url: http://www.summitpost.org/mount-powell/151681 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons:  
+time_required:  
+type: Mountain-Rock 
+

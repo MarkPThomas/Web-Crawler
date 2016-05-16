@@ -1,0 +1,263 @@
+content: <div class="articletext">
+<div class="photonormal">
+<table valign="top" border="0" width="626" cellspacing="0" cellpadding="0" class="sdw_box">
+			<tr>
+			  <td><img src="/nav_img/top_left_sdw.gif" width="13" height="13"></td>
+			  <td class="sdw_top"></td>
+			  <td><img src="/nav_img/top_right_sdw.gif" width="13" height="13"></td>
+			</tr>
+			<tr>
+			  <td class="sdw_left"></td>
+			  <td class="sdw_body" width="600"><div>
+<a href="javascript:photoZoom('Mjk5OTo7JSQr')" title="Click to enlarge"><img src="http://www.supertopo.com/photos/9/65/217976_6411_L.jpg" width="600" height="488" name="" alt="Tyrolean on SRA seen from VBA through the notch between Ibrium Tower &amp;..."></a><span class="small"><br>Tyrolean on SRA seen from VBA through the notch between Ibrium Tower &amp; First Tower on Moon Goddess Arete. Sweet! (This is a photo montage of one climber crossing the gap).<br><div class="photo-credit">Credit: PellucidWombat</div></span>
+</div></td>
+			  <td class="sdw_right"></td>
+			</tr>
+			<tr>
+			  <td><img src="/nav_img/bottom_left_sdw.gif" width="13" height="13"></td>
+			  <td class="sdw_bottom"></td>
+			  <td><img src="/nav_img/bottom_right_sdw.gif" width="13" height="13"></td>
+			</tr>
+		  </table>
+</div>
+<b><u>July 28-29, 2012</u></b><br>
+<br>
+Jared and I hoped to take 3 days R-T to do a traverse to Gayley or Mt Sill, starting with the Sun Ribbon Arete on Temple Crag. This was to be my first real multi-day carryover of a technical climb, and I chose to do this as a prep-climb for my ambitious <a href="http://www.markpthomas.com/mountaineering/trip-reports/wyoming/teton-grand-slam-8-classic-routes-and-some-traverses-done-over-a-9-day-climbing-marathon" target="_blank" rel="nofollow">Teton plans with Steph Abegg</a>, slated for September.<br>
+<br>
+A lot of things slowed us up on day 1 (packs too heavy, not first on the route, group cluster at and beyond the Tyrolean, etc) so we had to bivy at the notch beneath pitch 9 with the team of 3 that was pretty much climbing in parallel with us. This delay cost us the traverse due to not having enough water to reach the next snowfield, plus we were just too tired as this was more of a butt-kicker than expected, but it was still a great experience climbing one of the longer, more classic routes in the Sierra with heavy packs!<br>
+<br>
+<a href="https://lh5.googleusercontent.com/-BIfJcrpq1sI/UhbnwKz6fRI/AAAAAAACnAQ/cxq8SApQs3Q/s1600/2011-09-05%2520-%252004%2520-%2520Temple%2520Crag%2520from%25202nd%2520Lake%2520-%2520annotate%2520-%2520SRA.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-BIfJcrpq1sI/UhbnwKz6fRI/AAAAAAACnAQ/cxq8SApQs3Q/s800/2011-09-05%2520-%252004%2520-%2520Temple%2520Crag%2520from%25202nd%2520Lake%2520-%2520annotate%2520-%2520SRA.jpg"></a><br>
+<b><i>Sun Ribbon Arete - Temple Crag from 2nd Lake (September 5, 2011)</i></b><br>
+<br>
+Apart from the cl. 3-4 pitch 2, I led all pitches, and I climbed with about a 35-40 lb pack (depending on the day) and 12 lb rack (from carrying doubles to #3). This was a good learning experience as first, neither of us fully appreciated how much harder and exhausting it would be to climb with heavy packs on (Jared had intended to swing many 5.7 leads, but changed his mind after following P1), and second, weight added up faster than expected. A post-climb analysis of what we brought and used, and a weight breakdown, made it easier to keep packs lighter on future carry-overs, and it was enlightening to see where it really mattered to trim weight (food) and where you were just stuck if you didn't move fast enough or place caches (e.g. water). Another important detail we overlooked was that the rack weighs a lot, so it really matters that the leader carries a lighter pack if both climbers are to climb with the same weight. We had our packs the same weight, assuming that was more convenient with swinging leads to avoid constantly switching packs, but as we ended up not swinging leads, that left a double-whammy on me leading!<br>
+<br>
+A summary of my less-than ideal pack weights on this trip are as follows:<br>
+<br>
+<b>Pack on Approach</b> - 61.2 lbs<br>
+<b>Day 1</b> - 40.4 lbs, 52 lbs w/ rack<br>
+<b>Day 2</b> - 34.4 lbs, 46.4 lbs w/ rack<br>
+<br>
+<div class="horizontalrule"><hr></div>
+<br>
+<b><u>July 28, 2012</u></b><br>
+Jared and I raced up to the start of the route the night before, bivying in the sandy bivy sites beneath the permanent snowfields. This allowed us to rest our legs before the grueling climb, enjoy some nice alpenglow on the peaks, and hopefully start ahead of the crowds more easily. We got 2 out of 3.<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-ebKDX36J1no/UBtzeMEUNPI/AAAAAAABLus/WJywB0k-6xs/s1600/2012-07-28%252520-%25252003%252520-%252520Alpenglow%252520on%252520the%252520Celestial%252520Aretes.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-ebKDX36J1no/UBtzeMEUNPI/AAAAAAABLus/WJywB0k-6xs/s800/2012-07-28%252520-%25252003%252520-%252520Alpenglow%252520on%252520the%252520Celestial%252520Aretes.jpg"></a><br>
+<b><i>The Celestial Aretes and Dark Star under alpenglow.</i></b><br>
+<br>
+Unfortunately, we had gotten a bit relaxed with our position right beneath the route, and erred on sleeping a little more and having a more complete breakfast before starting. As we were half packing, half eating, we heard voices. Crap! Some climbers were already ascending behind the permanent snowfield to access the route. Oh well, I guess we might as well take our time to let them get ahead!<br>
+<br>
+<a href="https://lh6.googleusercontent.com/-5LY3zgmwjEo/UBtzflMM6jI/AAAAAAABLu0/CqiFrKuv1XA/s1600/2012-07-28%252520-%25252005%252520-%252520Climbers%252520ascending%252520loose%252520cl%2525204%252520ledges%252520around%252520the%252520snowfield.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-5LY3zgmwjEo/UBtzflMM6jI/AAAAAAABLu0/CqiFrKuv1XA/s800/2012-07-28%252520-%25252005%252520-%252520Climbers%252520ascending%252520loose%252520cl%2525204%252520ledges%252520around%252520the%252520snowfield.jpg"></a><br>
+<b><i>Climbers bypassing the snowfield in the moat and loose cl. 4 scrambling.</i></b><br>
+<br>
+This was a bad decision, as two more parties came up behind them by the time we decided to leave camp to properly take our place in line at the base of the route. The party immediately ahead of was a party of 3. It was 10am by the time I began the first lead of the day. So much for an early start.<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-ngZ9XqBbzfg/UCIH9lzTwpI/AAAAAAABMFE/yA5SkBoBvAU/s1600/2012-07-28%252520-%25252007a%252520-%252520Leading%252520P1%2525205_7%252520corner%252520-%252520by%252520Jared%252520Wood.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-ngZ9XqBbzfg/UCIH9lzTwpI/AAAAAAABMFE/yA5SkBoBvAU/s800/2012-07-28%252520-%25252007a%252520-%252520Leading%252520P1%2525205_7%252520corner%252520-%252520by%252520Jared%252520Wood.jpg"></a><br>
+<b><i>Leading P1 (by Jared Wood).</i></b><br>
+<br>
+I was surprised how difficult the first 5.7 pitch was with a pack on, but I soon found my groove, albeit at a slower climbing pace with more broken up, deliberate moves, and more rests.<br>
+<br>
+<a href="https://lh4.googleusercontent.com/--eQIY09zdFg/Tm-IOub-X5I/AAAAAAACgmg/gHuZDYdhGng/s1600/2011-09-03%2520-%252006%2520-%2520Sun%2520Ribbon%2520Arete.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/--eQIY09zdFg/Tm-IOub-X5I/AAAAAAACgmg/gHuZDYdhGng/s800/2011-09-03%2520-%252006%2520-%2520Sun%2520Ribbon%2520Arete.jpg"></a><br>
+<b><i>Sun Ribbon Arete seen from Moon Godess Arete. First tower is the lower one on the right. (September 3, 2011)</i></b><br>
+<br>
+<a href="https://lh6.googleusercontent.com/-mo7XrqnnmIQ/Tm-IWPy6XWI/AAAAAAACgng/1B_m7L3woew/s1600/2011-09-03%2520-%252014%2520-%2520Sun%2520Ribbon%2520Arete.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-mo7XrqnnmIQ/Tm-IWPy6XWI/AAAAAAACgng/1B_m7L3woew/s800/2011-09-03%2520-%252014%2520-%2520Sun%2520Ribbon%2520Arete.jpg"></a><br>
+<b><i>Sun Ribbon Arete seen from Moon Goddess Arete. First tower is located beneath the higher knob on Dark Star behind. (September 3, 2011)</i></b><br>
+<br>
+I enjoyed my rest atop P1 as Jared came up, and Jared took off to lead the next couple of cl. 3-4 pitches as a simul-climb to the notch behind the First Tower.<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-28XHeMhNC5A/UBtzjQJjlLI/AAAAAAABLvM/DQbUs4EPIR0/s1600/2012-07-28%252520-%25252011%252520-%252520P2%252520to%252520P6.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-28XHeMhNC5A/UBtzjQJjlLI/AAAAAAABLvM/DQbUs4EPIR0/s800/2012-07-28%252520-%25252011%252520-%252520P2%252520to%252520P6.jpg"></a><br>
+<b><i>Jared nearing the end of the the cl. 3-4 pitch 2.</i></b><br>
+<br>
+After following P1 and leading P2, Jared decided he would prefer to follow rather than swing leads. That was all right, although I underestimated how much more that would wear me out on this climb. All good for training, though :-)<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-_-y3ZeUlexs/UBtzjiMaOhI/AAAAAAABLvQ/28d1YKb8FfA/s1600/2012-07-28%252520-%25252012%252520-%252520P3%252520to%252520P6.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-_-y3ZeUlexs/UBtzjiMaOhI/AAAAAAABLvQ/28d1YKb8FfA/s800/2012-07-28%252520-%25252012%252520-%252520P3%252520to%252520P6.jpg"></a><br>
+<b><i>Pitches 3 to 6. The leader of the 3-person team is partway through pitch 3.</i></b><br>
+<br>
+Suprisingly, despite our heavy packs, Jared and I caught up to the team of 3 climbers. As we were climbing with 70m doubles and could link longer pitches, the team ahead generously allowed us to pass once their leader started belaying their second.<br>
+<br>
+<a href="https://lh5.googleusercontent.com/-oGByZcYf8XY/UBtzmOkh1nI/AAAAAAABLvY/gkLtwWhRKsk/s1600/2012-07-28%252520-%25252013%252520-%252520Pitch%2525203.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-oGByZcYf8XY/UBtzmOkh1nI/AAAAAAABLvY/gkLtwWhRKsk/s800/2012-07-28%252520-%25252013%252520-%252520Pitch%2525203.jpg"></a><br>
+<b><i>Waiting for the team of 3 to finish pitch 3. At the notch by the first gendarme.</i></b><br>
+<br>
+<a href="https://lh3.googleusercontent.com/-r3Cl6SdZ5fw/UBtznTEqKII/AAAAAAABLvg/LiilDfgPsRs/s1600/2012-07-28%252520-%25252015%252520-%252520P5%252520Straight%252520in%252520Cracks.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-r3Cl6SdZ5fw/UBtznTEqKII/AAAAAAABLvg/LiilDfgPsRs/s800/2012-07-28%252520-%25252015%252520-%252520P5%252520Straight%252520in%252520Cracks.jpg"></a><br>
+<b><i>Leader of 3 climbers in the team ahead of us on the fun straight in cracks of P5.</i></b><br>
+<br>
+One thing that surprised me was how much pro on this route goes behind thin or hollow sounding flakes. The climbing never got too hard, and there weren't too many loose blocks to avoid trundling, but this constant insecurity in pro left me wary for the entire route. I felt like in those ways, this climb was consistently looser throughout than Venusian Blind Arete.<br>
+<br>
+<a href="https://lh4.googleusercontent.com/--6qrEgQCL44/UCIH9aoQ3TI/AAAAAAABMFA/e7vXrP5G-44/s1600/2012-07-28%252520-%25252015a%252520-%252520P5%252520Passing%252520the%252520Party%252520of%2525203%252520-%252520by%252520Jared%252520Wood.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/--6qrEgQCL44/UCIH9aoQ3TI/AAAAAAABMFA/e7vXrP5G-44/s800/2012-07-28%252520-%25252015a%252520-%252520P5%252520Passing%252520the%252520Party%252520of%2525203%252520-%252520by%252520Jared%252520Wood.jpg"></a><br>
+<b><i>P5 passing the party of 3 (by Jared Wood).</i></b><br>
+<br>
+<a href="https://lh3.googleusercontent.com/-M9dd4JH9_a8/UBtzpfFqq3I/AAAAAAABLvs/gvhB4UWtMFM/s1600/2012-07-28%252520-%25252018%252520-%252520P6%252520Final%252520Corner.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-M9dd4JH9_a8/UBtzpfFqq3I/AAAAAAABLvs/gvhB4UWtMFM/s800/2012-07-28%252520-%25252018%252520-%252520P6%252520Final%252520Corner.jpg"></a><br>
+<b><i>Final 5.7-5.8 corner of pitch 6.</i></b><br>
+<br>
+I passed the party ahead smoothly, but then suffered an emergency wag-bag break on lead that cost us our time gain. By 2:40 pm we were atop P6 at the Tyrolean. We expected to pick up speed after this section, but despite the easier ratings in the topo, this was only the beginning of a long, slow section of the route.<br>
+<br>
+<a href="https://lh5.googleusercontent.com/-4LUr8L7BPlc/UibWNue8P0I/AAAAAAACm9w/or8IFL7skZQ/s1600/2011-09-03%20-%2046%20-%20SRA%20Tyrolean%20section%20-%20annotated.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-4LUr8L7BPlc/UibWNue8P0I/AAAAAAACm9w/or8IFL7skZQ/s800/2011-09-03%20-%2046%20-%20SRA%20Tyrolean%20section%20-%20annotated.jpg"></a><br>
+<b><i>Sun Ribbon Arete with the Tyrolean notch on the right. Seen from the traverse around Ibrium Tower. (From Moon Goddess Arete, September 3, 2011)</i></b><br>
+<br>
+<a href="https://lh3.googleusercontent.com/-9BJJaTXrW-Q/UBtzp5yMsxI/AAAAAAABLv0/0EZAdYIZ_R4/s1600/2012-07-28%252520-%25252020%252520-%252520Tyrolean.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-9BJJaTXrW-Q/UBtzp5yMsxI/AAAAAAABLv0/0EZAdYIZ_R4/s800/2012-07-28%252520-%25252020%252520-%252520Tyrolean.jpg"></a><br>
+<b><i>The Tyrolean.</i></b><br>
+<br>
+I had hoped to do this climb a years earlier, following a more experienced friend as the final climb of the weekend that I climbed <a href="http://www.markpthomas.com/mountaineering/trip-reports/california/moon-goddess-arete" target="_blank" rel="nofollow">MGA</a> and <a href="http://www.markpthomas.com/mountaineering/trip-reports/california/venusian-blind" target="_blank" rel="nofollow">VBA</a>, with the idea that the Tyrolean on this climb would be a good warm-up for a bigger Tyrolean on Lost Arrow Spire (LAS) that<a href="http://www.markpthomas.com/mountaineering/trip-reports/california/lost-arrow-spire-tip" target="_blank" rel="nofollow"> I had planned later that Fall</a>. Unfortunately, the SRA plan fell through. Since doing LAS, reaching this Tyrolean was a bit anti-climactic, but in the alpine setting, and lassoing it as a means of moving forward, it was still really cool!<br>
+<br>
+Unfortunately, I suck at throwing, and this exercise of rope trickery brought back bad memories of my two times throwing a rope over the Thunderbolt summit block. Fortunately Jared is a better thrower than me, so after I gave up, he quickly got the deed done.<br>
+<br>
+<a href="https://lh6.googleusercontent.com/-ji5jqdMO9lk/UBtzr52Hu3I/AAAAAAABLv8/Ib4-r8JJRzY/s1600/2012-07-28%252520-%25252022%252520-%252520Tyrolean%252520Slung%252520Horn.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-ji5jqdMO9lk/UBtzr52Hu3I/AAAAAAABLv8/Ib4-r8JJRzY/s800/2012-07-28%252520-%25252022%252520-%252520Tyrolean%252520Slung%252520Horn.jpg"></a><br>
+<b><i>The horn is successfully slung! This toss looks good. I think between me and Jared this was attempt 12.</i></b><br>
+<br>
+I wondered what this lasso would be like. The horn is much easier to snag than the Thunderbolt summit block, and it is very secure. The crux of the Tyrolean is the exit, but it isn't that bad if you think before you act. I went across first, then towed the packs, then Jared followed to clean.<br>
+<br>
+<a href="https://lh5.googleusercontent.com/-UBKWTp1ey3o/UCIH8huwquI/AAAAAAABME4/RkhuyBUt0yI/s1600/2012-07-28%252520-%25252023b%252520-%252520Doing%252520the%252520Tyrolean%252520-%252520by%252520Jared%252520Wood.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-UBKWTp1ey3o/UCIH8huwquI/AAAAAAABME4/RkhuyBUt0yI/s800/2012-07-28%252520-%25252023b%252520-%252520Doing%252520the%252520Tyrolean%252520-%252520by%252520Jared%252520Wood.jpg"></a><br>
+<b><i>Doing the Tyrolean (by Jared Wood).</i></b><br>
+<br>
+<a href="https://lh4.googleusercontent.com/-AudAUgXvLQM/UBtzt1FBSxI/AAAAAAABLwI/9dLquY4sNGA/s1600/2012-07-28%252520-%25252025%252520-%252520Jared%252520on%252520Tyrolean.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-AudAUgXvLQM/UBtzt1FBSxI/AAAAAAABLwI/9dLquY4sNGA/s800/2012-07-28%252520-%25252025%252520-%252520Jared%252520on%252520Tyrolean.jpg"></a><br>
+<b><i>Jared on the Tyrolean.</i></b><br>
+<br>
+<a href="https://lh3.googleusercontent.com/-9qzfb19XPnw/TmazJf1n3_I/AAAAAAACg48/5REx7f1yGRU/s1600/2011-09-04%2520-%252021c%2520-%2520Series%2520-%2520Tyrolean%2520on%2520SRA%2520between%2520Ibrium%2520%2526%25201st%2520Tower%2520on%2520MGA%2520seen%2520from%2520VBA.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-9qzfb19XPnw/TmazJf1n3_I/AAAAAAACg48/5REx7f1yGRU/s800/2011-09-04%2520-%252021c%2520-%2520Series%2520-%2520Tyrolean%2520on%2520SRA%2520between%2520Ibrium%2520%2526%25201st%2520Tower%2520on%2520MGA%2520seen%2520from%2520VBA.jpg"></a><br>
+<b><i>The Tyrolean on Sun Ribbon Arete, seen through the Notch on Moon Goddess Arete. (From Venusian Blind Arete, September 4, 2011)</i></b><br>
+<br>
+By the time Jared crossed, the team of 3 had caught up to us and asked if they could zip across on our line to save time. As they were nice enough to let us pass lower down, we decided to be nice here. In retrospect, not only did this cost us a lot of time, but it kept our parties too close together to avoid the cluster that was to follow getting over the next two towers.<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-kNb8Fa2ySQA/UBtzwulWiLI/AAAAAAABLwU/l2v8-r1eWSM/s1600/2012-07-28%252520-%25252028%252520-%252520Looking%252520back%252520on%252520P7.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-kNb8Fa2ySQA/UBtzwulWiLI/AAAAAAABLwU/l2v8-r1eWSM/s800/2012-07-28%252520-%25252028%252520-%252520Looking%252520back%252520on%252520P7.jpg"></a><br>
+<b><i>Looking back on pitch 7.</i></b><br>
+<br>
+I made short work of the cl. 4 ridgeline up to the Second Tower. In an attempt to keep our speed up, I belayed Jared in a short bit to get slack, Jared fixed himself, and I rappelled the first tower before resuming the simul-climb. Both the SuperTopo and Bindner topos that we brought indicated that the next tower was to be bypassed by 5.7 climbing, and that the slings atop it should be ignored. My beta even indicated that it was 5.6R to reach them.<br>
+<br>
+<a href="https://lh6.googleusercontent.com/-B2YLIfQNVwk/UBtzv99n9AI/AAAAAAABLwc/ipImghoLbvc/s1600/2012-07-28%252520-%25252029%252520-%252520Second%252520Rappel.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-B2YLIfQNVwk/UBtzv99n9AI/AAAAAAABLwc/ipImghoLbvc/s800/2012-07-28%252520-%25252029%252520-%252520Second%252520Rappel.jpg"></a><br>
+<b><i>Second rappel. SuperTopo says to ignore these slings, but I think they are actually a good way to go.</i></b><br>
+<br>
+It turns out that while you shouldn't place pro due to drag, it is easy to climb to them (you can even place pro to protect thin moves, then back clean). The rappel anchor is good and drops you right into the notch, which was much more convenient than the 5.7 climbing, which was very difficult to pick out.<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-eP_YnKt8lRo/UBtzyk9aAKI/AAAAAAABLws/MPj5BtbT7IA/s1600/2012-07-28%252520-%25252033%252520-%252520Crux%252520Pitch%252520Right%252520Var%252520Panorama%252520from%252520Notch.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-eP_YnKt8lRo/UBtzyk9aAKI/AAAAAAABLws/MPj5BtbT7IA/s800/2012-07-28%252520-%25252033%252520-%252520Crux%252520Pitch%252520Right%252520Var%252520Panorama%252520from%252520Notch.jpg"></a><br>
+<b><i>Right variation of pitch 9. 5.10a face protected by pitons leading to a loose 5.9 crack.</i></b><br>
+<br>
+Unfortunately, we ended up in a cluster of 5 climbers doing both the right-side 5.7 bypass and the direct rappel!<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-vungbJXkDd0/UBtzyzjxkeI/AAAAAAABLww/ENxeLiAyO74/s1600/2012-07-28%252520-%25252034%252520-%252520Looking%252520Back%252520at%252520Second%252520Rappel.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-vungbJXkDd0/UBtzyzjxkeI/AAAAAAABLww/ENxeLiAyO74/s800/2012-07-28%252520-%25252034%252520-%252520Looking%252520Back%252520at%252520Second%252520Rappel.jpg"></a><br>
+<b><i>Looking back at the cluster by the double gendarme rappels. At this point we were practically a team of 5. Not the best for moving fast!</i></b><br>
+<br>
+It was getting late in the day and we still had a lot of ridge left. We were now at the base of the crux pitch, at a large, comfy notch. It turns out that the other party of 3 had brought enough gear for a comfy bivy as well, so we all decided "screw it! Let's just have dinner and sleep here!".<br>
+<br>
+<div class="horizontalrule"><hr></div>
+<br>
+<b><u>July 29 2012</u></b><br>
+<br>
+We had a nice dinner and comfortable sleep in the notch. This was my first test of my quilt bag, and I was so warm I never even closed it all the way up. Very comfy mountain camping! I could enjoy more of this :-)<br>
+<br>
+<a href="https://lh3.googleusercontent.com/--o3niUwbV3o/UibWFwf5-9I/AAAAAAACm8s/NP1nIt6IzKw/s1600/2011-09-03%20-%2018%20-%20Sun%20Ribbon%20Arete%20-%20annotation.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/--o3niUwbV3o/UibWFwf5-9I/AAAAAAACm8s/NP1nIt6IzKw/s800/2011-09-03%20-%2018%20-%20Sun%20Ribbon%20Arete%20-%20annotation.jpg"></a><br>
+<b><i>Upper section of Sun Ribbon Arete seen from the traverse around Ibrium Tower on Moon Goddess Arete. The right notch is where one must set up a Tyrolean! (From Moon Goddess Arete, September 3, 2011)</i></b><br>
+<br>
+From the big notch, one can choose to climb a 5.10a face variation on the right of the crest (illustrated well in SuperTopo, not shown in Bindner's topo), climb the 5.9 crack and 5.10a face variation on the left (shown completely wrong in SuperTopo, but accurately in Bindner), or bypass the ridge entirely and continue up a series of 5.7 ramps parallel to the ridge until you can reach the next notch (or enter the gully to finish).<br>
+<br>
+<a href="https://lh6.googleusercontent.com/-DWUOWPRnz-U/UBtz16V_dhI/AAAAAAABLw0/NG925yLyNZc/s1600/2012-07-29%252520-%25252001%252520-%252520Looking%252520back%252520at%2525202nd%252520rapp%252520%252526%252520Big%252520Notch.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-DWUOWPRnz-U/UBtz16V_dhI/AAAAAAABLw0/NG925yLyNZc/s800/2012-07-29%252520-%25252001%252520-%252520Looking%252520back%252520at%2525202nd%252520rapp%252520%252526%252520Big%252520Notch.jpg"></a><br>
+<b><i>Looking at the double gendarmes at the start of the Left Variation to pitch 9.</i></b><br>
+<br>
+<a href="https://lh4.googleusercontent.com/-Gp9rcTQPNXs/UBtzz5yRVBI/AAAAAAABLw4/4UfTveL1ggk/s1600/2012-07-29%252520-%25252002%252520-%252520View%252520to%2525205_7%252520bypass%252520from%252520Notch.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-Gp9rcTQPNXs/UBtzz5yRVBI/AAAAAAABLw4/4UfTveL1ggk/s800/2012-07-29%252520-%25252002%252520-%252520View%252520to%2525205_7%252520bypass%252520from%252520Notch.jpg"></a><br>
+<b><i>Pitch 9 Left Variation and the 5.7 bypass.</i></b><br>
+<br>
+The team of 3 really needed to get back to LA that night, so they started up first. Jared and I expected to be slower, as the leader in the team of 3 got to lead with a bullet pack. As my pack was heavy, I planned to lead without it. I would haul my pack and Jared's at the same time to make the climbing easier for him. This was my first time experimenting with a hauling system for alpine climbing (using only Klemheists and a BD Guide in Guide Mode), and things worked out great. I hauled the packs on one line while belaying Jared on the other. Jared followed closely enough to unclip the bag rope from pro and tend the bags, and it turned out that I could haul the bags a bit faster than he could climb. We really didn't lose that much time doing this system as we caught up to the team of 3 in a few more pitches anyways. The only real problem that we had hauling was that I burned through the skin on the underside of my fingers, which made climbing somewhat less pleasant for the rest of the day. If you plan to do alpine hauling, especially with thin ropes like the doubles we used, I would recommend wearing gloves!<br>
+<br>
+<a href="https://lh3.googleusercontent.com/-_ezOCMAi0gY/UBtz0jEVD1I/AAAAAAABLxM/S8Vcs5-NNcM/s1600/2012-07-29%252520-%25252004%252520-%252520Phil%252520Leading%252520P9%252520Crux%252520L%252520Variation.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-_ezOCMAi0gY/UBtz0jEVD1I/AAAAAAABLxM/S8Vcs5-NNcM/s800/2012-07-29%252520-%25252004%252520-%252520Phil%252520Leading%252520P9%252520Crux%252520L%252520Variation.jpg"></a><br>
+<b><i>Phil leading the 5.10a Left Variation of pitch 9.</i></b><br>
+<br>
+<a href="https://lh4.googleusercontent.com/-R9A-Y3mUdec/UBtz08tJrkI/AAAAAAABLxQ/dBMYPZrp-lM/s1600/2012-07-29%252520-%25252005%252520-%252520Alex%252520seconding%252520the%252520P9%252520Crux%252520traverse.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-R9A-Y3mUdec/UBtz08tJrkI/AAAAAAABLxQ/dBMYPZrp-lM/s800/2012-07-29%252520-%25252005%252520-%252520Alex%252520seconding%252520the%252520P9%252520Crux%252520traverse.jpg"></a><br>
+<b><i>Alex following the Pitch 9 Left Variation, after the 5.9 crack and beginning the 5.10a face traverse.</i></b><br>
+<br>
+The 5.10a face traverse was very tough and heady for me, since I suck at face climbing. Unfortunately I had to hang midway through rather than risking a real fall onto very small gear. After the crux I tried climbing straight up a 5.6ish groove towards where Phil is in the above photo, but it was a rounded out groove without pro. I was pumped enough from the 5.10a section that I started losing my grip, so I quickly downclimbed back to a rest near pro. While less direct, it turns out that it is much better to traverse right all the way to the ridge crest and scramble up cl. 4 blocks on the backside. It is easy to avoid placing gear here and you can then flip the rope to trail in line above the crux (better for hauling) and you can flip the rope back over for the follower after they pass the crux.<br>
+<br>
+<a href="https://lh3.googleusercontent.com/-7WqYyxSEljQ/UBtz1Wju7RI/AAAAAAABLxU/dnXWbfsgI7Q/s1600/2012-07-29%252520-%25252006%252520-%252520Christian%252520thirding%252520P9.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-7WqYyxSEljQ/UBtz1Wju7RI/AAAAAAABLxU/dnXWbfsgI7Q/s800/2012-07-29%252520-%25252006%252520-%252520Christian%252520thirding%252520P9.jpg"></a><br>
+<b><i>Christian following the 5.9 hand crack on the Pitch 9 Left Variation. This crack was steep and sustained jamming. Very sweet jamming!</i></b><br>
+<br>
+<a href="https://lh4.googleusercontent.com/-PIUoouUiZ88/UBtz2yPxe6I/AAAAAAABLxc/W0HCZ9nHJb0/s1600/2012-07-29%252520-%25252008%252520-%2525202%252520Rapp%252520Towers.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-PIUoouUiZ88/UBtz2yPxe6I/AAAAAAABLxc/W0HCZ9nHJb0/s800/2012-07-29%252520-%25252008%252520-%2525202%252520Rapp%252520Towers.jpg"></a><br>
+<b><i>The double gendarmes and notch that we slept in.</i></b><br>
+<br>
+<a href="https://lh5.googleusercontent.com/-_QXI7D9BrIU/UBtz3p6f8iI/AAAAAAABLxg/tf5Y-01E9vM/s1600/2012-07-29%252520-%25252009%252520-%252520Moon%252520Goddess%252520Arete%252520Gendarme.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-_QXI7D9BrIU/UBtz3p6f8iI/AAAAAAABLxg/tf5Y-01E9vM/s800/2012-07-29%252520-%25252009%252520-%252520Moon%252520Goddess%252520Arete%252520Gendarme.jpg"></a><br>
+<b><i>Gendarme with the 5.7 pitch on Moon Goddess Arete.</i></b><br>
+<br>
+<a href="https://lh3.googleusercontent.com/-3G5B5bTx0KI/UBtz4RXmOgI/AAAAAAABLxk/hmDc7ZqqcdE/s1600/2012-07-29%252520-%25252010%252520-%252520Looking%252520down%252520P10%252520about%252520to%252520link%252520w%252520P11.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-3G5B5bTx0KI/UBtz4RXmOgI/AAAAAAABLxk/hmDc7ZqqcdE/s800/2012-07-29%252520-%25252010%252520-%252520Looking%252520down%252520P10%252520about%252520to%252520link%252520w%252520P11.jpg"></a><br>
+<b><i>Looking down pitch 10, about to link with pitch 11. Below are the Tyrolean and Rappels section.</i></b><br>
+<br>
+<a href="https://lh4.googleusercontent.com/-6w0rxDZmpO8/UBtz5iZWjiI/AAAAAAABLxs/nWCDNJ9cMGg/s1600/2012-07-29%252520-%25252011%252520-%252520Looking%252520ahead%252520on%252520P11.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-6w0rxDZmpO8/UBtz5iZWjiI/AAAAAAABLxs/nWCDNJ9cMGg/s800/2012-07-29%252520-%25252011%252520-%252520Looking%252520ahead%252520on%252520P11.jpg"></a><br>
+<b><i>Looking ahead on pitch 11.</i></b><br>
+<br>
+<a href="https://lh5.googleusercontent.com/-dabmqkNXGtg/Tm-I35CK_lI/AAAAAAACgsw/sODcBpDONhY/s1600/2011-09-03%2520-%252052%2520-%2520Upper%2520SRA.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-dabmqkNXGtg/Tm-I35CK_lI/AAAAAAACgsw/sODcBpDONhY/s800/2011-09-03%2520-%252052%2520-%2520Upper%2520SRA.jpg"></a><br>
+<b><i>Upper section of Sun Ribbon Arete seen from Moon Goddess Arete (September 3, 2011)</i></b><br>
+<br>
+<a href="https://lh6.googleusercontent.com/-ZW9QFifDiJU/UBtz6w6f72I/AAAAAAABLxw/flaJL3TjmBg/s1600/2012-07-29%252520-%25252012%252520-%252520Jared%252520following%252520P12.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-ZW9QFifDiJU/UBtz6w6f72I/AAAAAAABLxw/flaJL3TjmBg/s800/2012-07-29%252520-%25252012%252520-%252520Jared%252520following%252520P12.jpg"></a><br>
+<b><i>Jared following pitch 12.</i></b><br>
+<br>
+<a href="https://lh3.googleusercontent.com/-PPhUS9ZChg8/UBtz9JgDm0I/AAAAAAABLyA/WGR1RsQdFLQ/s1600/2012-07-29%252520-%25252015%252520-%252520Reaching%252520the%252520rappel%252520tower%252520on%252520P13.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-PPhUS9ZChg8/UBtz9JgDm0I/AAAAAAABLyA/WGR1RsQdFLQ/s800/2012-07-29%252520-%25252015%252520-%252520Reaching%252520the%252520rappel%252520tower%252520on%252520P13.jpg"></a><br>
+<b><i>Reaching the rappel tower on pitch 13. Cross to the south side to climb this.</i></b><br>
+<br>
+<a href="https://lh4.googleusercontent.com/-RIML-5_IaZQ/UBtz9s0uLmI/AAAAAAABLyE/3jao2BXKlsA/s1600/2012-07-29%252520-%25252016%252520-%252520Looking%252520at%252520P15%252520from%252520rappel.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-RIML-5_IaZQ/UBtz9s0uLmI/AAAAAAABLyE/3jao2BXKlsA/s800/2012-07-29%252520-%25252016%252520-%252520Looking%252520at%252520P15%252520from%252520rappel.jpg"></a><br>
+<b><i>Looking at the last half of pitch 15 across from the rappel.</i></b><br>
+<br>
+We caught up to the team of 3 at this point. They still needed to be back in LA that night, and after 15 pitches of ridge climbing, they had lost their enthusiasm for it, so at this rappel the traversed left into the cl. 4 gully to finish quickly. This is a very easy bail to do.<br>
+<br>
+Jared and I still had time and energy, so we continued along the ridge after the rappel.<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-p9FjoQjR8b0/UBtz-3pF0hI/AAAAAAABLyI/36OykEk9H2I/s1600/2012-07-29%252520-%25252017%252520-%252520Upper%252520section%252520of%252520P15.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-p9FjoQjR8b0/UBtz-3pF0hI/AAAAAAABLyI/36OykEk9H2I/s800/2012-07-29%252520-%25252017%252520-%252520Upper%252520section%252520of%252520P15.jpg"></a><br>
+<b><i>Upper two-thirds of pitch 15. Bindner rates this 5.4, SuperTopo has no rating. Compared to the other pitches, I'd say this felt like a mid-5.7 (it was at least harder than some of the 5.7s earlier).</i></b><br>
+<br>
+<a href="https://lh3.googleusercontent.com/-w2eVWjRQBgc/UBtz_Qpu3OI/AAAAAAABLyM/mR0mSYvRVjA/s1600/2012-07-29%252520-%25252018%252520-%252520P15%252520from%252520the%252520notch.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-w2eVWjRQBgc/UBtz_Qpu3OI/AAAAAAABLyM/mR0mSYvRVjA/s800/2012-07-29%252520-%25252018%252520-%252520P15%252520from%252520the%252520notch.jpg"></a><br>
+<b><i>Pitch 15 seen from the notch. It starts with some hard, physical moves and loose rock, but gets better as you get higher.</i></b><br>
+<br>
+<a href="https://lh5.googleusercontent.com/-dFIlkVXkwoI/UBt0APjxCPI/AAAAAAABLyQ/AOTXyec6elQ/s1600/2012-07-29%252520-%25252019%252520-%252520P15%252520looking%252520back%252520at%252520the%252520traverse.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-dFIlkVXkwoI/UBt0APjxCPI/AAAAAAABLyQ/AOTXyec6elQ/s800/2012-07-29%252520-%25252019%252520-%252520P15%252520looking%252520back%252520at%252520the%252520traverse.jpg"></a><br>
+<b><i>Looking back at the pitch 15 downclimb and traverse. Even with doubles and minimal pro, rope drag shut me down here.</i></b><br>
+<br>
+After the rappel, SuperTopo indicates climbing to the right of the ridge crest and climb some sort of 5.8 crack. Bindner indicated that you could switchback up to a small notch on the ridge via 5.4 climbing. As Bindner's route was easier and more direct, we didn't see any point in following the SuperTopo way here!<br>
+<br>
+<a href="https://lh6.googleusercontent.com/-UvVHwVVqq94/UBt0BZIZV7I/AAAAAAABLyY/BEH_28CTJeY/s1600/2012-07-29%252520-%25252021%252520-%252520P15%2525205_4%252520to%252520notch.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-UvVHwVVqq94/UBt0BZIZV7I/AAAAAAABLyY/BEH_28CTJeY/s800/2012-07-29%252520-%25252021%252520-%252520P15%2525205_4%252520to%252520notch.jpg"></a><br>
+<b><i>Pitch 15 5.4 to the notch.</i></b><br>
+<br>
+<a href="https://lh3.googleusercontent.com/-sFVa-paC08I/UBt0CKGXt3I/AAAAAAABLyc/TVQHLfQHztU/s1600/2012-07-29%252520-%25252022%252520-%252520P16%252520from%252520notch.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-sFVa-paC08I/UBt0CKGXt3I/AAAAAAABLyc/TVQHLfQHztU/s800/2012-07-29%252520-%25252022%252520-%252520P16%252520from%252520notch.jpg"></a><br>
+<b><i>Pitch 16 from the notch. Traverse on the north side of the ridge, occasionally climbing back left towards the crest.</i></b><br>
+<br>
+<a href="https://lh6.googleusercontent.com/-Rvg1B5DdkVw/UBt0Eu4Eu4I/AAAAAAABLys/r0ERTaQs8Wc/s1600/2012-07-29%252520-%25252025a%252520-%252520Looking%252520down%252520Sunribbon%252520Arete%252520from%252520P17.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-Rvg1B5DdkVw/UBt0Eu4Eu4I/AAAAAAABLys/r0ERTaQs8Wc/s800/2012-07-29%252520-%25252025a%252520-%252520Looking%252520down%252520Sunribbon%252520Arete%252520from%252520P17.jpg"></a><br>
+<b><i>Looking down Sun Ribbon Arete from pitch 17. The flat top at the end is the approach side of the Tyrolean.</i></b><br>
+<br>
+<a href="https://lh3.googleusercontent.com/-a1l-sAnr6jQ/UBt0Dq5tXqI/AAAAAAABLyk/chomV2uLvyU/s1600/2012-07-29%252520-%25252024%252520-%252520P17%252520to%252520next%252520rappel.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-a1l-sAnr6jQ/UBt0Dq5tXqI/AAAAAAABLyk/chomV2uLvyU/s800/2012-07-29%252520-%25252024%252520-%252520P17%252520to%252520next%252520rappel.jpg"></a><br>
+<b><i>Pitch 17 to the next rappel. The end still looks like a ways away, and the ridge is about to get harder again.</i></b><br>
+<br>
+<a href="https://lh4.googleusercontent.com/-Vkc8oWOZjP0/UBt0FffDb4I/AAAAAAABLyw/C03dONjxF24/s1600/2012-07-29%252520-%25252027%252520-%252520Traversing%252520around%252520to%252520rappel%252520into%252520gully%252520on%252520P18.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-Vkc8oWOZjP0/UBt0FffDb4I/AAAAAAABLyw/C03dONjxF24/s800/2012-07-29%252520-%25252027%252520-%252520Traversing%252520around%252520to%252520rappel%252520into%252520gully%252520on%252520P18.jpg"></a><br>
+<b><i>Traversing around to rappel into the gully on pitch 18.</i></b><br>
+<br>
+<a href="https://lh4.googleusercontent.com/-kBuVLYUiQo0/UCIH6NkFopI/AAAAAAABMEg/NEPV3B0uwUI/s1600/2012-07-29%252520-%25252027a%252520-%252520Nearing%252520top%252520of%252520next%252520gendarme%252520before%252520rappel%252520on%252520P18%252520-%252520by%252520Jared%252520Wood.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-kBuVLYUiQo0/UCIH6NkFopI/AAAAAAABMEg/NEPV3B0uwUI/s800/2012-07-29%252520-%25252027a%252520-%252520Nearing%252520top%252520of%252520next%252520gendarme%252520before%252520rappel%252520on%252520P18%252520-%252520by%252520Jared%252520Wood.jpg"></a><br>
+<b><i>Nearing the top of the next gendarme before the rappel on P18 (by Jared Wood).</i></b><br>
+<br>
+<a href="https://lh4.googleusercontent.com/-q63TWXyctW0/Unq3RasoQQI/AAAAAAAC1kc/aOUxSNk-2yo/s1600/2012-07-29%2520-%252029a%2520-%2520P18%2520%2526%2520on%2520Panorama.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-q63TWXyctW0/Unq3RasoQQI/AAAAAAAC1kc/aOUxSNk-2yo/s800/2012-07-29%2520-%252029a%2520-%2520P18%2520%2526%2520on%2520Panorama.jpg"></a><br>
+<b><i>Pitch 18 and on.</i></b><br>
+<br>
+At pitch 18 it was really difficult to see how we could stay on the ridge. We were getting very worn down and climbing slowly, so it seemed that it would take way to long finish the route staying true on the last few pitches. Also, a short ways ahead I saw a large block that looked disturbingly precarious, with no way to avoid climbing over it.<br>
+<br>
+<a href="https://lh3.googleusercontent.com/-ZkCQHyWNK-s/UBt0Htg5GLI/AAAAAAABLy8/ekNobHzD3lg/s1600/2012-07-29%252520-%25252030%252520-%252520Death%252520block%252520on%252520death%252520gendarme.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-ZkCQHyWNK-s/UBt0Htg5GLI/AAAAAAABLy8/ekNobHzD3lg/s800/2012-07-29%252520-%25252030%252520-%252520Death%252520block%252520on%252520death%252520gendarme.jpg"></a><br>
+<b><i>Death block perched on death gendarme. We had had enough of the ridge by now, and the gully was very close, so we rappelled into the gully here and took the class 4 scramble finish.</i></b><br>
+<br>
+The end was so close and the gully was not very far down, so we decided to call it good and rappel off.<br>
+<br>
+<a href="https://lh6.googleusercontent.com/-Xb6wl4KG3V8/UBt0IWWB70I/AAAAAAABLzA/xCbdpHyAxC4/s1600/2012-07-29%252520-%25252031%252520-%252520Finishing%252520rapps%252520into%252520gully.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-Xb6wl4KG3V8/UBt0IWWB70I/AAAAAAABLzA/xCbdpHyAxC4/s800/2012-07-29%252520-%25252031%252520-%252520Finishing%252520rapps%252520into%252520gully.jpg"></a><br>
+<b><i>Rappel #2 to get into the gully. This station is better for getting into the gully. In retrospect the downclimb-traverse isn't too bad, or at least it would be better to skip the first rappel station and downclimb-traverse to this station.</i></b><br>
+<br>
+<a href="https://lh5.googleusercontent.com/-1IccMKNu8B0/UBt0JM7NaJI/AAAAAAABLzE/aXeSJtXcEJk/s1600/2012-07-29%252520-%25252032%252520-%252520Cl%2525204%252520Gulley%252520scramble%252520to%252520top.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-1IccMKNu8B0/UBt0JM7NaJI/AAAAAAABLzE/aXeSJtXcEJk/s800/2012-07-29%252520-%25252032%252520-%252520Cl%2525204%252520Gulley%252520scramble%252520to%252520top.jpg"></a><br>
+<b><i>Class 4 gully scramble to the top, follows the slanting ledges.</i></b><br>
+<br>
+By the time we reached the Temple Crag summit plateau, we were pretty much exhausted. We had another day left of time and provisions to climb, but it was doubtful that we would get much farther than the summit before sunset, leaving a lot of climbing the next day to reach Gayley and descend. So we decided to leave the packs at the top of the route, visit the summit, and head out that night. The Temple-Gayley traverse will have to wait for another time.<br>
+<br>
+<a href="https://lh3.googleusercontent.com/-1vTSnBUbK4w/UBt0KvuRmYI/AAAAAAABLzM/tEbuE6Be_bM/s1600/2012-07-29%252520-%25252034%252520-%252520Traverse%252520to%252520Sill%252520from%252520Temple.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-1vTSnBUbK4w/UBt0KvuRmYI/AAAAAAABLzM/tEbuE6Be_bM/s800/2012-07-29%252520-%25252034%252520-%252520Traverse%252520to%252520Sill%252520from%252520Temple.jpg"></a><br>
+<b><i>Traverse from Temple to Sill via Gayley. Next time . . .</i></b><br>
+<br>
+<div class="horizontalrule"><hr></div>
+<div class="horizontalrule"><hr></div>
+<b><u>Notes:</u></b><br>
+I found the SuperTopo info to be spot on for the rack for the route, and the topo was useful for the lower section. It does not show the alternate crux accurately and missed an easier and more direct variation on the upper pitches. For these, I would recommend supplementing that info with Bruce Bindner's excellent route <a href="http://www.summitpost.org/temple-crag-sun-ribbon-arete/98340" target="_blank" rel="nofollow">topo</a>.<br>
+<br>
+<br>
+<div class="horizontalrule"><hr></div>
+<div class="horizontalrule"><hr></div>
+<br>
+<b><u>Links:</u></b><br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120728to29SunRibbonAreteWJaredIV510a20OrSoPitches?authuser=0andfeat=directlink" target="_blank" rel="nofollow">Picasa</a>
+</div> 
+id: t12193n 
+name: Backpacking Sun Ribbon Arete 
+url: http://www.supertopo.com/tr/Backpacking-Sun-Ribbon-Arete/t12193n.html 
+

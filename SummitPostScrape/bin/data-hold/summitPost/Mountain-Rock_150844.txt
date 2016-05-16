@@ -185,6 +185,7 @@ date:
 difficulty:  
 elevation: 12999 
 grade:  
+hits: 40448  
 id: 150844 
 latitude: 37.1097 
 location: California, United States, North America 
@@ -193,6 +194,9 @@ my_route_quality:
 name: Temple Crag 
 number_of_pitches:  
 page_url: http://www.summitpost.org/temple-crag/150844 
+parent_code: 171074 
+parent_name: Palisades 
+parent_url: /palisades/171074 
 rock_difficulty:  
 route_quality:  
 route_type:  

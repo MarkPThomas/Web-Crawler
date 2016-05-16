@@ -52,6 +52,7 @@ date:
 difficulty:  
 elevation: 13240 
 grade:  
+hits: 5703  
 id: 153693 
 latitude: 37.2914 
 location: California, United States, North America 
@@ -60,6 +61,9 @@ my_route_quality:
 name: South Basin Peak (pt. 13,240') 
 number_of_pitches:  
 page_url: http://www.summitpost.org/south-basin-peak-pt-13-240/153693 
+parent_code: 170988 
+parent_name: John Muir Wilderness 
+parent_url: /john-muir-wilderness/170988 
 rock_difficulty:  
 route_quality:  
 route_type:  

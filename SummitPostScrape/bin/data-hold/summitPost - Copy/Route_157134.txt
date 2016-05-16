@@ -1,0 +1,154 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Approach</h2>
+<br>
+Use the information provided in the <a href="http://www.summitpost.com/mountains/display_component.pl?type=component&amp;mountain_id=1396&amp;route_id=&amp;component_id=14290&amp;object_id=14290">main page</a> to get to the "Mount Olympus Trailhead".<br>
+<a name="chapter_2"></a><h2>Route Description</h2>
+<br>
+Simply follow the trail.  The first 1400 feet of ascent is a steep, but not troublesome, climb along the north side of Tolcate Canyon.  After crossing Tolcate Creek, however, the trail steepens considerably.  Climb another 2000 feet over merely 1.5 miles to Olympus's South shoulder and take in excellent views to the south and east. Most of the remaining 600 feet to the summit is gained by scrambling over straightforward class 3 terrain.  Warning, the smooth quartzite rock that you'll encounter tends to be a bit slick when dry, murderously slippery when wet.<br>
+<br>
+This <a href="http://www.topozone.com/map.asp?z=12&amp;n=4500275&amp;e=433375&amp;s=50&amp;size=l&amp;u=0&amp;layer=DRG25">topographic map</a> nicely illustrates the route.  The USGS 7.5-minute quad is named "Sugar House".<br>
+<br>
+PellucidWombat describes an interesting <a href="http://www.summitpost.org/mountains/display_component.pl?type=component&amp;mountain_id=1396&amp;route_id=1055&amp;component_id=14296&amp;object_id=14296">easy 5th class variation</a> that provides an alternative to the "Blister Hill" portion of the Mount Olympus Trail.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=12663" rel="no_follow"><img src="/images/thumb/12663.jpg"></a></td>
+<td><a href="/view_object.php?object_id=12662" rel="no_follow"><img src="/images/thumb/12662.jpg"></a></td>
+<td><a href="/view_object.php?object_id=12661" rel="no_follow"><img src="/images/thumb/12661.jpg"></a></td>
+<td><a href="/view_object.php?object_id=12665" rel="no_follow"><img src="/images/thumb/12665.jpg"></a></td>
+<td><a href="/view_object.php?object_id=12666" rel="no_follow"><img src="/images/thumb/12666.jpg"></a></td>
+</tr></table>
+<a name="chapter_3"></a><h2>Essential Gear</h2>
+<br>
+Standard hiking gear.  In the late summer months, no water is found along the route.  However, as the route is so short (3.5 miles one way to the summit), you needn't worry too much.  Rock shoes are unnecessary, though your footwear should grip well and have enough stability for the punishing, rocky descent.<br>
+<a name="chapter_4"></a><h2>Miscellaneous Info</h2>
+<br>
+If you have information about this route that doesn't pertain to any of the other sections, please add it here.<br>
+<div align="center">
+<a name="messages"></a><a name="chapter_5"></a><h2>Additions and Corrections</h2>[ <a href="/object_discussion.php?type=vote_comments&amp;object_id=157134&amp;is_addition=1#vote_form">Post an Addition or Correction</a> ]<table cellpadding="0" cellspacing="0" style="width: 775px;"><tr><td><table cellpadding="2" cellspacing="2" width="100%"><tr>
+<td align="left"><span class="pagertext">Viewing: <b>1</b>-<b>4</b> of <b>4</b></span></td>
+<td align="center"></td>
+<td align="right">    </td>
+</tr></table></td></tr></table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="75014"></a> <a class="dis_user_lnk" href="/users/pellucidwombat/12893">PellucidWombat</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Route Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/pellucidwombat/12893"><img alt="PellucidWombat" width="50" height="50" border="0" src="/images/avatars/833128.jpg"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">Here's a little variation I found that avoids hiking Blister Hill and adds some fun scrambling to the ascent.<br><br><br><br><br><br><u>Arete Variation:</u><br><br><br><b>Length:</b> 500 vertical feet<br><br><br><b>Rating:</b> 5.2<br><br><br><br><br><br>From Tolcat Creek, follow the regular trail until the first switchback. From there, deal with about 100 ft of moderate bushwacking south to reach the rocky rib. Many variations are possible, and the climbing is more difficult the closer one stays to the ridge. (There is another ridge further south, but I stayed on the northernmost one)<br><br><br><br><br><br>Apart from a few short detours to the side to avoid some roofs and +5.7 stuff, I was able to stay on the arete. The climbing was mostly 3rd-4th class, with occasional 5th class moves. <br><br><br><br><br><br>While there are definitely places that you don't want to fall, the exposure isn't too bad and you have nice views of the valley &amp; the Mount Olympus Trail below.<br><br><br><br><br><br>Near the end one is confronted with some exposed face climbing with small handholds on the north side of the arete, but there is enough in the way of a faint ledge system that you can mostly edge up this part. After the face climbing, the ridge soon peters out and a short walk takes you back to the main trail.</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted May 16, 2005 11:00 am</span></td></tr>
+</table>
+<table border="0" width="745" class="messages" style="margin-left: 30px;">
+<tr><td rowspan="4" valign="top"><img src="/styles/layout/reply_arrow.gif"></td></tr>
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="76204"></a> <a class="dis_user_lnk" href="/users/pellucidwombat/12893">PellucidWombat</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Route Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/pellucidwombat/12893"><img alt="PellucidWombat" width="50" height="50" border="0" src="/images/avatars/833128.jpg"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">Here's a route photo:<br><br><br><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__156537__object_id__1396__type__mountain__mountain_id__1396__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.org/images/156537.jpg" width="400px"></a>
+</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted May 24, 2005 10:18 am</span></td></tr>
+</table>
+<table border="0" width="745" class="messages" style="margin-left: 30px;">
+<tr><td rowspan="4" valign="top"><img src="/styles/layout/reply_arrow.gif"></td></tr>
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="76280"></a> <a class="dis_user_lnk" href="/users/dmitry-pruss/22982">Dmitry Pruss</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Route Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/dmitry-pruss/22982"><img alt="Dmitry Pruss" width="50" height="50" border="0" src="/images/avatars/719338.JPG"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">I used the next rib to the right a few years ago, there is only a small potentially class 5 cracked slab but mostly it is a walk-up. Did you find a geocache up there, BTW? ;)</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted May 24, 2005 6:17 pm</span></td></tr>
+</table>
+<table border="0" width="745" class="messages" style="margin-left: 30px;">
+<tr><td rowspan="4" valign="top"><img src="/styles/layout/reply_arrow.gif"></td></tr>
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="76283"></a> <a class="dis_user_lnk" href="/users/pellucidwombat/12893">PellucidWombat</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Route Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/pellucidwombat/12893"><img alt="PellucidWombat" width="50" height="50" border="0" src="/images/avatars/833128.jpg"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">The crux on this was also a slab - you could really only use your hands for balance and do some delicate edging on a small crack system. Apart from that, just a bunch of fun &amp; short class 3-4 problems, but you could have made it easier by dropping down more often.<br><br><br><br><br><br>Sadly, I found no geocache :-(</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted May 24, 2005 6:22 pm</span></td></tr>
+</table>
+<br><table border="0" width="775"><tr><td><table cellpadding="2" cellspacing="2" width="100%"><tr>
+<td align="left"><span class="pagertext">Viewing: <b>1</b>-<b>4</b> of <b>4</b></span></td>
+<td align="center"></td>
+<td align="right">    </td>
+</tr></table></td></tr></table>
+<br>
+</div>
+<a name="chapter_6"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/mountain-mahogany-on-tolcats-trail/431627/c-157134"><img alt="Mountain Mahogany on Tolcats Trail" src="/images/square/431627.JPG"></a></td>
+<td><a href="/tapertip-onion-allium-acuminatum/412453/c-157134"><img alt="Tapertip Onion (Allium acuminatum)" src="/images/square/412453.JPG"></a></td>
+<td><a href="/blooming-grape-holly-on-tolcats-trail/404049/c-157134"><img alt="Blooming Grape-Holly on Tolcats Trail" src="/images/square/404049.jpg"></a></td>
+<td><a href="/skunkberry-blooming-along-the-tolcats-canyon-trail/404304/c-157134"><img alt="Skunkberry blooming along the Tolcats Canyon Trail" src="/images/square/404304.jpg"></a></td>
+<td><a href="/broadleaf-penstemon-on-tolcats-trail/427813/c-157134"><img alt="Broadleaf Penstemon on Tolcats Trail" src="/images/square/427813.JPG"></a></td>
+<td><a href="/redstem-stork-s-bill-in-july/427842/c-157134"><img alt="Redstem Stork\'s-bill in July" src="/images/square/427842.JPG"></a></td>
+<td><a href="/redstem-stork-s-bill-in-april/427841/c-157134"><img alt="Redstem Stork\'s-bill in April" src="/images/square/427841.JPG"></a></td>
+</tr>
+<tr>
+<td><a href="/vigorous-spring-shoots-of-linaria/409457/c-157134"><img alt="Vigorous spring shoots of Linaria" src="/images/square/409457.jpg"></a></td>
+<td><a href="/jesse-scrambling-up-slippery/12663/c-157134"><img alt="Jesse scrambling up slippery..." src="/images/square/12663.jpg"></a></td>
+<td><a href="/panoramic-image-of-tolcate/12665/c-157134"><img alt="Panoramic image of Tolcate..." src="/images/square/12665.jpg"></a></td>
+<td><a href="/looking-down-chute/792719/c-157134"><img alt="Looking down chute" src="/images/square/792719.JPG"></a></td>
+<td><a href="/south-facing-gully-above-the-saddle/192939/c-157134"><img alt="South-facing gully above the saddle" src="/images/square/192939.jpg"></a></td>
+<td><a href="/views-to-the-west-of-salt/12661/c-157134"><img alt="Views to the west of Salt..." src="/images/square/12661.jpg"></a></td>
+<td><a href="/snowcapped-peaks-south-of-big/12662/c-157134"><img alt="Snowcapped peaks south of Big..." src="/images/square/12662.jpg"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/mount-olympus-trail/images/p-157134">View Gallery - 3 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty: Class 3 (YDS) 
+elevation:  
+grade:  
+id: 157134 
+latitude: 40.657 
+location: Utah, United States, North America 
+longitude: -111.77 
+my_route_quality:  
+name: Mount Olympus Trail 
+number_of_pitches:  
+page_url: http://www.summitpost.org/mount-olympus-trail/157134 
+rock_difficulty:  
+route_quality: 1.0 
+route_type: Trail/Scramble 
+seasons:  
+time_required: Half a day 
+type: Route 
+

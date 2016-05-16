@@ -24,6 +24,7 @@ date:
 difficulty: class 2 
 elevation:  
 grade:  
+hits: 2613  
 id: 160002 
 latitude: 40.8032 
 location: Utah, United States, North America 
@@ -32,6 +33,9 @@ my_route_quality:
 name: General Routes on Gunsight Peak. 
 number_of_pitches:  
 page_url: http://www.summitpost.org/general-routes-on-gunsight-peak/160002 
+parent_code: 152297 
+parent_name: Gunsight Peak 
+parent_url: /gunsight-peak/152297 
 rock_difficulty:  
 route_quality: 0.6923076923076923 
 route_type: scramble 

@@ -60,6 +60,7 @@ date:
 difficulty:  
 elevation: 13377 
 grade:  
+hits: 15169  
 id: 153374 
 latitude: 37.147 
 location: California, United States, North America 
@@ -68,6 +69,9 @@ my_route_quality:
 name: Mount Wallace 
 number_of_pitches:  
 page_url: http://www.summitpost.org/mount-wallace/153374 
+parent_code: 170988 
+parent_name: John Muir Wilderness 
+parent_url: /john-muir-wilderness/170988 
 rock_difficulty:  
 route_quality:  
 route_type:  

@@ -243,6 +243,7 @@ date:
 difficulty: Advanced Snow Climb, Extreme Ski Descent 
 elevation:  
 grade: II 
+hits: 49470  
 id: 159690 
 latitude: 63.0692 
 location: Alaska, United States, North America 
@@ -251,6 +252,9 @@ my_route_quality:
 name: West Buttress 
 number_of_pitches:  
 page_url: http://www.summitpost.org/west-buttress/159690 
+parent_code: 150199 
+parent_name: Denali 
+parent_url: /denali/150199 
 rock_difficulty:  
 route_quality: 1.0 
 route_type: Mountaineering, Scrambling, Skiing 

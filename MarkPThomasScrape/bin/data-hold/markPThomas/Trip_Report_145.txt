@@ -1,0 +1,266 @@
+content: <div dir="ltr">
+<h1>
+<a name="TOC-Cycling-and-Scrambling-from-Calgary-to-Vancouver"></a>Cycling and Scrambling from Calgary to Vancouver</h1>
+<p>
+</p>
+<h2>
+<a name="TOC-In-A-Nutshell"></a>In A Nutshell</h2>
+<hr>
+<center><a href="https://lh5.googleusercontent.com/-V-PUDRo8tt4/ULXFqZYKxZI/AAAAAAABhNw/u6SQ-abeKwA/s2000/Route%2520Map%2520-%2520Far%2520General%2520.jpg"><img src="https://lh5.googleusercontent.com/-V-PUDRo8tt4/ULXFqZYKxZI/AAAAAAABhNw/u6SQ-abeKwA/s800/Route%2520Map%2520-%2520Far%2520General%2520.jpg" style="border-width:0px;background-color:transparent"></a></center>
+<center><b><i>A rough map of the trip</i></b></center>
+<center><b><i><br>
+</i></b></center>
+This trip report is very long, partly because it was a very long trip (23 days), partly because I covered a lot of ground (cycled 770 miles and climbed over 10 peaks), and also because I&acirc;&#128;&#153;ve decided not to just write the standard &acirc;&#128;&#156;went there, did that&acirc;&#128;&#157; format. The trip was as much an inward journey for me as an outward one, so I feel that ignoring details relevant to my motivations and self-reflection would miss out on a lot of the adventure. 
+<br>
+<br>
+
+In a nutshell, from July 29th to August 17th I cycled solo across Western Canada, from Calgary, Alberta, to Vancouver, British Columbia via Banff, Kamloops, and Whistler. Along the way I hiked and climbed throughout the <a href="http://www.summitpost.org/area/range/215361/canadian-rocky-mountains.html">Canadian Rockies</a> and a small amount in the Coastal Range, summitting about 10 peaks. I cycled fully self-supported (apart from supply refills along the way) with camping gear and basic scrambling equipment, and this was to be my first ever multi-day cycling tour and first time ever combining cycling with scrambling on an approach. Although it was a very ambitious trip, in the end it was a wild success, and I had many interesting experiences along the way. For those that like stats, here they are:
+<br>
+<br>
+<b><u>Cycling (17 days)</u></b>
+<ul>
+<li>Distance: 767 miles (45 miles / day)</li>
+<li>Elevation Gain:  ca. 41,000 ft (2,400 ft/day)</li>
+<li>Elevation Loss:  ca. 42,900 ft (2,500 ft/day)</li>
+<li>Average Speed: 12 mph</li>
+<li>Weight Carried: ca. 82 lbs (nearly 90 lbs when maxed out on water capacity)</li>
+</ul>
+<b><u>Hiking/Scrambling (8 days)</u></b>
+<ul>
+<li>Distance: 82 miles (10 miles/day)</li>
+<li>Elevation Gain: 36,010 ft (4,500 ft/day)</li>
+</ul>
+<center>
+<a href="https://lh3.googleusercontent.com/-T08ssXYa2kg/ULXGRR9cgzI/AAAAAAABhTo/Mmzlfyu34GE/s2000/Route%2520Profile%2520-%2520Canada%2520Cycle%2520Tour%2520Accumulated.jpg"><img src="https://lh3.googleusercontent.com/-T08ssXYa2kg/ULXGRR9cgzI/AAAAAAABhTo/Mmzlfyu34GE/s800/Route%2520Profile%2520-%2520Canada%2520Cycle%2520Tour%2520Accumulated.jpg" style="border-width:0px;background-color:transparent"></a><br>
+<b><i>Diagrammed elevation profile of the trip (actual, not planned)</i></b>
+</center>
+<h2>
+<a name="TOC-The-Premise"></a>The Premise</h2>
+<hr>
+
+The summer of 2008 was a pivotal summer for me. I was on the verge of completing my graduate studies in structural engineering, and I had just spent 6 months interning at a prestigious firm in New York City that worked on exactly the sort of projects that I had so ambitiously trained myself for over the past 5 years.
+
+<table align="right" cellpadding="5%">
+<tbody>
+<tr>
+<td><a href="https://lh4.googleusercontent.com/-wlIgR6fyO_A/TjDblrwBB6I/AAAAAAAAfiM/hdSqmMwmrwU/s2000/2007-12-08%2520-%252018%2520-%2520Winter%2520Sunset%2520at%2520LERA.jpg"><img src="https://lh4.googleusercontent.com/-wlIgR6fyO_A/TjDblrwBB6I/AAAAAAAAfiM/hdSqmMwmrwU/s300/2007-12-08%2520-%252018%2520-%2520Winter%2520Sunset%2520at%2520LERA.jpg" style="border-width:0px;background-color:transparent"></a></td>
+</tr>
+<tr>
+<td>
+<center><b><i>Views from the office</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+
+Although I loved New York City, the Shawagunks and the Adirondacks could barely begin to replace the outdoor lifestyle of the West that has become such a part of me. Despite being a dream job, I had turned down an offer to continue at the firm as a full employee, partly because I was insistent on finishing the optional extended portion of my degree and then contacting them, but also because I couldn&acirc;&#128;&#153;t decide what to do. I have always had a conflicting dichotomy of the love for big cities and the love for wilderness, and as my career track pulled me ever more strongly away from Nature, I have had a greater struggle between which passion to follow.
+<br>
+<br>
+
+It was in this state that I began planning some summer excursions, partly with the idea that this might be the last time for many years that I would be able to get out in the mountains and deserts that I so loved. No summer job this year &acirc;&#128;&#147; it was to be my last hurrah before fully entering a full-time career, and I wanted to do a number of big trips that I had been dreaming to do for a while. Or perhaps the trips could help me be at ease with scaling down my career ambitions for the sake of the mountains. For June I would spend the month in Alaska, climbing Denali with a group of climbing friends on a self-led expedition. With this trip already set in stone, I decided to take the month of July &acirc;&#128;&#156;off&acirc;&#128;&#157; to &acirc;&#128;&#156;rest&acirc;&#128;&#157; and recover from Denali and get in good cycling shape for my next big summer objective: cycling across Western Canada.
+<br>
+<br>
+
+Cycling has always been very therapeutic for me, both physical and emotional, so I guess part of the idea of this trip was to be a symbolic therapy for my current angst about my future.
+<h2>
+<a name="TOC-1"></a><br>
+</h2>
+<h2>
+<a name="TOC-The-Trip"></a>The Trip</h2>
+<hr>
+<center>
+<a href="https://lh5.googleusercontent.com/-KSy_0btTllM/ULXHyzI88vI/AAAAAAABhfY/BvzqOoxAWPI/s2000/2008-08-03%2520-%252011%2520-%2520The%2520Death%2520Trap.jpg"><img src="https://lh5.googleusercontent.com/-KSy_0btTllM/ULXHyzI88vI/AAAAAAABhfY/BvzqOoxAWPI/s640/2008-08-03%2520-%252011%2520-%2520The%2520Death%2520Trap.jpg" style="border-width:0px;background-color:transparent"></a><br>
+<b><i>Valley of the 6 Glaciers (Banff National Park)</i></b>
+</center>
+<br>
+<br>
+
+
+I first got the idea of doing a cycling trip in the Banff/Jasper area in 1999 when I took a road trip through the area with my father. At the time I was barely getting into climbing peaks, and on the trip we didn&acirc;&#128;&#153;t venture far from the car as I was still recuperating from a major reconstructive knee surgery. The region left a strong impression on me &acirc;&#128;&#147; some details in particular were the great combination of extremely rugged roadside beauty and surprisingly mild road grades through the mountains, perfect conditions for a great cycle touring route. Ever since that trip, I had casually toyed with the idea of someday cycling through there, maybe ambitiously, as a loop from Calgary.
+<br>
+<br>
+<center><a href="https://lh4.googleusercontent.com/-2aUiJpTKRG4/ULXFpZ15zkI/AAAAAAABhNo/refsjDkQchA/s2000/Route%2520Map%25201.jpg"><img alt="Route Map - Far General" src="https://lh4.googleusercontent.com/-2aUiJpTKRG4/ULXFpZ15zkI/AAAAAAABhNo/refsjDkQchA/s800/Route%2520Map%25201.jpg" style="border-width:0px;background-color:transparent"></a></center>
+<center><b><i>The trip in the early planning stages. working out day divisions and noting prevailing wind directions as I was debating West-to-East vs. East-to-West</i></b></center>
+<center><b><i><br>
+</i></b></center>
+
+Over the years as I have fallen in love with mountaineering, one major influence in my interests and ambitions in the mountains has been <a href="http://www.summitpost.org/user_page.php?user_id=276">Bob Burd</a> and his <a href="http://www.summitpost.org/trip-report/170475/2005-Sierra-Challenge.html">Sierra Challenges</a>.  Not only did they expand my awareness of what I could accomplish in single-day mega hikes, leading to my idea to day hike Gannett Peak, but in 2006 when I managed to do the full 10 days of the Challenge I learned a lot about multi-day ultra-endurance events and how to go about attempting them.
+
+<table align="right" cellpadding="5%">
+<tbody>
+<tr>
+<td><a href="https://lh5.googleusercontent.com/-QGF7kRnNOrM/ULXDLn5B4-I/AAAAAAABg74/UKaCosDBwTk/s2000/2008-08-18%2520-%252047%2520-%2520Buildings.jpg"><img src="https://lh5.googleusercontent.com/-QGF7kRnNOrM/ULXDLn5B4-I/AAAAAAABg74/UKaCosDBwTk/s400/2008-08-18%2520-%252047%2520-%2520Buildings.jpg" style="border-width:0px;background-color:transparent"></a></td>
+</tr>
+<tr>
+<td>
+<center><b><i>Vancouver</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+
+From this background, in 2008 when I decided to finally do a cycling tour in Banff, I got really ambitious. First, the trip wouldn&acirc;&#128;&#153;t just be about cycling in the area. I would also hike and scramble up peaks. I was confident that if I paced myself, I could go continuously for many days, and that the effort of doing day hikes in the Canadian Rockies wouldn&acirc;&#128;&#153;t tire me out too much for such a pace. Also, I theorized that hiking days could be &acirc;&#128;&#156;rest&acirc;&#128;&#157; days for my cycling days, and vice-versa, since the activities use slightly different muscles.
+<br>
+<br>
+
+Then I just went off the deep end. I had always wanted to see Vancouver and had been learning more about Whistler and the Vancouver area, so I began to get interested in linking up my cycling trip from Calgary all the way to Vancouver. I had the time, so what the hell &acirc;&#128;&#147; if only cycled 50 miles a day, taking all day if I wanted to, I would have time to do this. And so the idea for my uber-ambitious mega-cycling-climbing trip was born.
+
+
+
+
+<h2>
+<a name="TOC-2"></a><br>
+</h2>
+<h2>
+<a name="TOC-3"></a><br>
+</h2>
+<h2>
+<a name="TOC-Partners-Planning-and-Preparation"></a>Partners, Planning, and Preparation</h2>
+<hr>
+
+Still, the idea was a little crazy since at the time 50 miles was my all-time cycling record for one day, on an unloaded bike, and it left me wasted for a few days after. Also, I wasn&acirc;&#128;&#153;t about to do this alone just yet. I had never solo-toured before (or done a cycling tour for that matter), and I had done very little soloing in the mountains.
+<br>
+<br>
+
+For the partner problem, I knew just who to call &acirc;&#128;&#147; my friend Joel Wilson, who had joined me for the <a href="http://www.markpthomas.com/mountaineering/trip-reports/wyoming/gannett-peak-the-hard-way-in-one-day">Gannett Peak day hike sufferfest</a>. He likes these sorts of trips, and he was very interested in the idea. Still, he had research to do that summer, but expected to be able to take at least a week off. So we tentatively planned for him to join me at the very least in the Banff area. This allowed the nice possibility of trying to climb Mt Assiniboine along the way, since we could afford to bring the weight of a rope and light rack on our bikes as Joel wouldn&acirc;&#128;&#153;t need to carry as much gear for the trip and wouldn&acirc;&#128;&#153;t be riding as far with it. 
+<br>
+<br>
+
+Sadly, in the end Joel couldn&acirc;&#128;&#153;t take enough time off to do the whole trip, and then he got a girlfriend, so I was left friendless for the trip. At this point I was enthusiastic enough about the trip that I decided just to go solo, but Mt Assiniboine would have to wait. And my newly purchased SPOT Personal Locator Beacon could be used to let family know on a regular basis whether I was making progress on my route, so at least someone could call in a rescue if I needed one.
+<br>
+<br>
+
+I would fly to Calgary with my bike packed up in a box. Then I would assemble it at the airport and begin my ride. In Vancouver I would get another box to pack up my bike, and ride a Greyhound bus to Seattle to meet some friends and visit a prospective employer before shipping my bike back to Salt Lake City flying back to school in Berkeley via Los Angeles (for further job interviews). Busy month! Plus there was still the possibility of my friends in Seattle driving up to meet me in Whistler with extra climbing gear to tackle Mt Garabaldi.
+<br>
+<br>
+<center>
+<a href="https://lh5.googleusercontent.com/-ldaz2hVoRLw/ULXG7uGxWZI/AAAAAAABhYs/eUJWPRDHH_Y/s2000/2008-08-16%2520-%252006%2520-%2520Mt%2520Garabaldi.jpg"><img src="https://lh5.googleusercontent.com/-ldaz2hVoRLw/ULXG7uGxWZI/AAAAAAABhYs/eUJWPRDHH_Y/s640/2008-08-16%2520-%252006%2520-%2520Mt%2520Garabaldi.jpg" style="border-width:0px;background-color:transparent"></a><br>
+<b><i>Mt Garabaldi</i></b>
+</center>
+<br>
+<br>
+
+For planning and preparations, I made good use of the month of July staying at home in Salt Lake City. The planning was a major hurdle in and of itself. I had absolutely no idea what I was really getting into, and I couldn&acirc;&#128;&#153;t find any information readily available for doing such a cycling tour, as far as where to stay, quality of roads, suggested routes, distances to be covered each day, where to restock on food and water, etc. 
+<br>
+<br>
+
+That and I needed to learn how to do a multi-day cycling tour. So I designed a custom trip from scratch based on internet searches, point of personal interest, and the joys of Google Maps and Google Earth. A few variations were planned, all of which passed handily through Kamloops, making a figure-8 centered on the town. I was very tempted with a northern route via Jasper and then down the backside of the Canadian Rockies. But then that was a major detour, and I would miss Yoho National Park, which I had yet to see. So I would take Canada Highway 1 from Calgary to Kamloops. 
+<br>
+<br>
+
+On the next leg, the more obvious route was to join Highway 5 and take it south and into the river valley that empties into Vancouver. This way is more well-traveled, but from what I read online, the there was a pass that was notorious for cycling tourists for its steepness and elevation gain from either side; plus, the idea of cycling through endless flat land and suburbs to get to Vancouver seemed less appealing to me.
+<br>
+<br>
+
+By looking closely at maps, I picked together a northern route that took me to Cache Creek, over the Pavilion Range to Lillooete, and then over the Coastal Range in 2 hurdles, one from Lillooet to Pemberton, and then another main climb from Pemberton to Whistler. From there it was (mostly) downhill to Vancouver on the vividly-named Sea-to-Sky Highway. The idea of descending from the mountains to the ocean, cycling along a highway like California&acirc;&#128;&#153;s Highway 1, sandwiched between the mountains and the sea seemed too great to pass up. Plus, this route brought me in to Vancouver from the north, allowing me to get downtown with a minimum of cycling within the city.
+<br>
+<br>
+<center>
+<a href="https://lh3.googleusercontent.com/-7KiblvC-3Ss/ULXHUwSSjCI/AAAAAAABhb8/gWzIrUgLe2c/s2000/2008-08-17%2520-%252018%2520-%2520Howe%2520Sound.jpg"><img src="https://lh3.googleusercontent.com/-7KiblvC-3Ss/ULXHUwSSjCI/AAAAAAABhb8/gWzIrUgLe2c/s640/2008-08-17%2520-%252018%2520-%2520Howe%2520Sound.jpg" style="border-width:0px;background-color:transparent"></a><br>
+<b><i>View along the Sea to Sky Highway</i></b>
+</center>
+<br>
+<br>
+
+There was a big problem with the alternate route, though. Upon closer inspection, the stretch from Lillooet to Pemberton seemed to fade away.  Topographic maps showed a nice valley linking the two towns, but this was filled with a reservoir and I could only find railroad tracks alongside the water. There was a road (that as far as I could tell from satellite photos was paved) that cut across the arc that the valley carved through the mountains, but this shortcut had a significant climb up and over the mountains. In addition to climbing over 3,000 ft in one push, I found the first 1,500 ft to be very steep &acirc;&#128;&#147; grades as steep as 10% and nothing less than 5%. This would not be pretty with a fully loaded touring bike at the end of a major cycling tour. I had no idea if I could even peddle up such a consistently steep grade with so much weight on my bike. Still, the picturesque descent on the Sea-to-Sky Highway ending with a sudden and dramatic entrance into Vancouver (similar to entering San Francisco via the Golden Gate Bridge) seemed too romantic of an idea to pass up. So it was settled.
+<br>
+<br>
+
+My dad insisted that I was going backwards on the route, since it was against the prevailing wind, but I was set on having Vancouver as the endpoint. It seemed more rewarding and a much nicer way to end the trip by arriving someplace new. Also, research into typical wind weather data for August in the towns I was riding through showed that the winds were primarily directed by the mountains and not the prevailing current. Regardless which way I traveled, I would have headwind about half the time, tail wind the other half, and some cross-wind here and there.
+<br>
+<br>
+<center>
+<a href="https://lh4.googleusercontent.com/-rNosaz9Ny-M/ULXGQhqYZVI/AAAAAAABhTg/qgQMIK_tbVw/s2000/Route%2520Map%2520Small.jpg"><img src="https://lh4.googleusercontent.com/-rNosaz9Ny-M/ULXGQhqYZVI/AAAAAAABhTg/qgQMIK_tbVw/s800/Route%2520Map%2520Small.jpg" style="border-width:0px;background-color:transparent"></a><br>
+<b><i>A detailed map of the route (actual, not planned)</i><b>
+</b></b>
+</center>
+<br>
+<br>
+
+With the route known, I then digitized the route (nerdy, I know, but helpful). Not only could I plan were I should stop based on distance and elevation gain, but I could have a breakdown printed out with me to know how much distance and elevation gain between various points, which proved very helpful in the trip when I had to deviate from my planned stops (which happened a lot!) and I wanted to make informed decisions. Because there were a lot of ways in which I could break up the route, by having the map digitized on a spread sheet, I could intelligently plan stops so that I could start small with elevation gain and distance, and gradually ramp it up.
+<br>
+<br>
+
+As far as climbing, I spent hours poring over guidebooks and Google Earth piecing together potential peaks. Eventually I drew up a list of possible outings (more than I could do, but then allowing for a nice variety of options). One logistic to work out was how I would get to the peaks without a car, so finding routes with reasonable cycling approaches was key. I could cycle out from a &acirc;&#128;&#156;base camp&acirc;&#128;&#157;, climb a peak, and then head back. On peaks further out, but along my route, I could cycle over, climb the peak, and continue on to that night&acirc;&#128;&#153;s destination. The second concern was what I would do with the gear and food on my bike, being left unattended in Bear country. 
+<br>
+<br>
+
+Light camo- netting would protect my bike from theft (after it was stashed in the bushes, plus the netting could make &acirc;&#128;&#152;questionable&acirc;&#128;&#153; roadside camping easier), but were there any bear boxes at the trailheads, or would I have to bring a bear canister? A call to the ranger office in Banff answered that question &acirc;&#128;&#147; no bear boxes, and the Canadians don&acirc;&#128;&#153;t trust bear canisters. My only option would be to hang food. I was also informed that I didn&acirc;&#128;&#153;t need to make campsite reservations as I should be able to find a site coming in on a bicycle and it being a slow year. When the ranger inquired as to my overall plans and I told him, he warned me that the stretch from around Kamloops all the way to the Coastal Range was a desert that could reach 100<sup>o</sup> F during August. I had seen the barren areas on satellite photos, but just assumed it was barren and cool highlands &acirc;&#128;&#147; I hadn&acirc;&#128;&#153;t even considered that rain-drenched British Columbia would have a desert! I would have to get across that section of my route fast &acirc;&#128;&#147; and carry a lot of water.
+<br>
+<br>
+
+In order to prep myself for the trip while trying to recover from Denali, I tried to cycle at least every other day, if not every day, for the entire month &acirc;&#128;&#147; and when I went out I aimed to punish myself. The emphasis would be hills galore, and as fast as I could take them. Of course I would also make sure my rides were initially at least 20 miles and then gradually increase the distance to 50 miles or so. The 10-mile 2,000 ft climb in Millcreek Canyon got routine and loops from my house in Holladay to Brighton and Alta ski resorts became reasonable outings.
+<br>
+<br>
+
+Packing went less straightforward. By the time I had amassed all of the gear I thought I needed, it weighed over 90 lbs. After some thoughtful sorting and inventorying to see where the weight was, I managed to trim it down to 82 lbs &acirc;&#128;&#147; still not a very good number, but it was the best I could do with the unknowns. Spread-sheeting everything, as nerdy as it seemed at the time, was very helpful, since I could make sure the weight was balanced well between my 4 panniers and rear bag. Also, bringing a printout list with me made repacking every day very easy, since everything was packed so tightly and needed to stay balanced throughout the trip.
+<br>
+<br>
+<center><a href="https://lh4.googleusercontent.com/-76igqJaYezw/UL8HTVb7ORI/AAAAAAABkVI/8GKEFUL_TEg/s2000/Gear%2520List.jpg"><img src="https://lh4.googleusercontent.com/-76igqJaYezw/UL8HTVb7ORI/AAAAAAABkVI/8GKEFUL_TEg/s800/Gear%2520List.jpg" style="border-width:0px;background-color:transparent"></a></center>
+<br>
+<br>
+In the end I decided to go without a trailer (harder to control on downhills, and required more parts to bring for repairs) in favor of front panniers (messes with steering a tad, but otherwise lighter and simpler for airline travel), and going by what apparently is a North American preference of 70% weight on the rear and 30% weight on the front.  Also, I chose my mountain bike, outfitted with slicks, over my lighter and faster road bike. The name of the game on this ride would be comfort, and I needed as low of a gear as possible for the &acirc;&#128;&#152;death pass&acirc;&#128;&#153; near Lillooete.
+<br>
+<br>
+<h2>
+<a name="TOC-Day-0---Test-Run"></a>Day 0 - Test Run</h2>
+<hr>
+
+Planning and packing took much longer than expected, and my procrastination for actually loading up my bike and riding with it stretched until the day before my flight to Calgary. I planned to load it up exactly as I would ride, including wearing my climbing daypack carrying a full camelback of water, and then cycle from my house to the top of Immigration Canyon and back.This would give me a nice continuous 1,500 ft climb on grades similar to anything I expected to experience on the route except for the &acirc;&#128;&#152;death pass&acirc;&#128;&#153;.
+<br>
+<br>
+
+The first run didn&acirc;&#128;&#153;t go so well, as it was very difficult controlling the bicycle, with extremely bad fluttering in the rear, especially whenever I turned. Moving weight lower solved this problem, and I was on my way. 
+<br>
+<br>
+
+Overall the ride was fine once I got used to the sluggish handling and riding slower. I knew I would need to practice self-discipline in focusing on perceived effort and not speed as my pace metric for the trip so that I wouldn&acirc;&#128;&#153;t burn myself out. The riding wasn&acirc;&#128;&#153;t too bad with the weight on my bike as long as I didn&acirc;&#128;&#153;t try to go fast, and to my surprise, I made the climb without it being that bad. In fact, I still managed to pass some cyclists on the climb.
+<br>
+<br>
+
+Everything went fine until I got home. I hit the driveway a little fast, which has a sudden uphill slope from the road, and this dynamic shock caused my rear pannier rack to shear off the mounting screws. All I felt was a bump, and then there was a sudden snap as it felt like I just started tugging a block of concrete, stopping me cold. I went out for some last minute errands, including getting some stronger metal grade screws, and extra screws and other supplies. 
+<br>
+<br>
+
+Because the screw sheared off, half of the screw was still wound into the threads on my bike frame, and only after drilling a griping hole to unscrew this segment with some special tools was the bike mechanic able to free the hole for the replacement screw. There was no way I would be able to carry the tools needed to fix such a breakdown if this happened again on route, so if the screws sheared off while on my ride, I would have no way to remount the rack. I would have to be very careful on my trip to avoid this type of breakdown, especially since hitting holes and bumps at speed would be unavoidable on the trip. I made a note to always check the mounting screws before and after each ride and retighten them if they came loose to avoid subjecting them to an extra dynamic shock from any bumps.
+<div>
+<br>
+</div>
+<div>As much as I had hoped to be better prepared, I was out of time, and things seemed to barely be ready enough to go through with the trip. So I set off.<br>
+&Acirc;&nbsp;
+
+<hr>
+<hr>
+<center>
+<a href="http://www.markpthomas.com/mountaineering/trip-reports/canada/cycling-and-scrambling-from-calgary-to-vancouver/part-i---calgary-through-the-canadian-rockies">Part I - Calgary through the Canadian Rockies</a><br>
+<br>
+<a href="http://www.markpthomas.com/mountaineering/trip-reports/canada/cycling-and-scrambling-from-calgary-to-vancouver/part-ii---lake-louise-lake-o-hara-areas">Part II - Lake Louise &amp; Lake O'Hara Areas</a><br>
+<br>
+<a href="http://www.markpthomas.com/mountaineering/trip-reports/canada/cycling-and-scrambling-from-calgary-to-vancouver/part-iii---mishaps-in-the-middle-ranges">Part III - Mishaps in the Middle Ranges</a><br>
+<br>
+<a href="http://www.markpthomas.com/mountaineering/trip-reports/canada/cycling-and-scrambling-from-calgary-to-vancouver/part-iv---british-columbia-s-desert">Part IV - British Columbia's Desert?!</a><br>
+<br>
+<a href="http://www.markpthomas.com/mountaineering/trip-reports/canada/cycling-and-scrambling-from-calgary-to-vancouver/part-v---crossing-the-coastal-range-to-vancouver">Part V - Crossing the Coastal Range to Vancouver</a><br>
+<br>
+<a href="http://www.markpthomas.com/mountaineering/trip-reports/canada/cycling-and-scrambling-from-calgary-to-vancouver/epilogue">Epilogue</a><br>
+</center>
+<hr>
+<hr>
+<h2>
+<a name="TOC-Links"></a>Links</h2>
+<ul>
+<li>
+<a href="https://picasaweb.google.com/105894936663116565516/20080728CanadaCyclingTripMapsAnnotations?authuser=0&amp;feat=directlink">Picasa Album - 2008-07-28 - Canada Cycling Trip - Maps &amp; Annotations</a>
+</li>
+<li>
+<a href="http://www.summitpost.org/cycling-and-scrambling-from-calgary-to-vancouver/531269">SummitPost TR</a>
+</li>
+</ul>
+</div>
+</div> 
+page_id: 145 
+page_menu_name: Cycling and Scrambling from Calgary to Vancouver 
+page_url: /mountaineering/trip-reports/canada/cycling-and-scrambling-from-calgary-to-vancouver 
+title: Cycling and Scrambling from Calgary to Vancouver 
+type: Trip_Report 
+

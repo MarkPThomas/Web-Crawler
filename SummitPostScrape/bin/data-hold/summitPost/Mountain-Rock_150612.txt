@@ -145,6 +145,7 @@ date:
 difficulty:  
 elevation: 13713 
 grade:  
+hits: 57649  
 id: 150612 
 latitude: 37.3681 
 location: California, United States, North America 
@@ -153,6 +154,9 @@ my_route_quality:
 name: Bear Creek Spire 
 number_of_pitches:  
 page_url: http://www.summitpost.org/bear-creek-spire/150612 
+parent_code: 170988 
+parent_name: John Muir Wilderness 
+parent_url: /john-muir-wilderness/170988 
 rock_difficulty:  
 route_quality:  
 route_type:  

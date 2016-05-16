@@ -37,6 +37,7 @@ date:
 difficulty: Class 4 
 elevation:  
 grade:  
+hits: 9420  
 id: 155706 
 latitude: 37.0936 
 location: California, United States, North America 
@@ -45,6 +46,9 @@ my_route_quality:
 name: From the U-Notch 
 number_of_pitches:  
 page_url: http://www.summitpost.org/from-the-u-notch/155706 
+parent_code: 150513 
+parent_name: Polemonium Peak 
+parent_url: /polemonium-peak/150513 
 rock_difficulty:  
 route_quality: 0.8923076923076924 
 route_type: Scramble/Technical Rock Climb 

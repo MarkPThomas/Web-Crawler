@@ -34,6 +34,7 @@ date:
 difficulty:  
 elevation: 5800 
 grade:  
+hits: 3368  
 id: 165854 
 latitude: 40.5717 
 location: Utah, United States, North America 
@@ -42,6 +43,9 @@ my_route_quality:
 name: The Gate Buttress - Prune Face 
 number_of_pitches:  
 page_url: http://www.summitpost.org/the-gate-buttress-prune-face/165854 
+parent_code: 154313 
+parent_name: Little Cottonwood Canyon 
+parent_url: /little-cottonwood-canyon/154313 
 rock_difficulty:  
 route_quality:  
 route_type:  

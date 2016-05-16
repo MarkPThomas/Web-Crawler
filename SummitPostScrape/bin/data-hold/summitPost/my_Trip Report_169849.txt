@@ -80,6 +80,7 @@ date: Jan 22, 2005
 difficulty:  
 elevation:  
 grade:  
+hits: 5572  
 id: 169849 
 latitude: 40.3846 
 location: Utah, United States, North America 
@@ -88,6 +89,9 @@ my_route_quality:
 name: A Failed Attempt of Everest Ridge on Mt Timpanogos 
 number_of_pitches:  
 page_url: http://www.summitpost.org/a-failed-attempt-of-everest-ridge-on-mt-timpanogos/169849 
+parent_code: 151365 
+parent_name: Mt. Timpanogos (UT) 
+parent_url: /mt-timpanogos-ut/151365 
 rock_difficulty:  
 route_quality:  
 route_type:  

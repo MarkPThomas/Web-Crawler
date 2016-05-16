@@ -76,6 +76,7 @@ date:
 difficulty: 5.5-5.6, mostly 3rd-4th class 
 elevation:  
 grade:  
+hits: 8542  
 id: 157074 
 latitude: 37.0951 
 location: California, United States, North America 
@@ -84,6 +85,9 @@ my_route_quality:
 name: Traverse from Thunderbolt 
 number_of_pitches:  
 page_url: http://www.summitpost.org/traverse-from-thunderbolt/157074 
+parent_code: 150505 
+parent_name: Starlight Peak 
+parent_url: /starlight-peak/150505 
 rock_difficulty:  
 route_quality: 1.0 
 route_type: Scramble 

@@ -40,6 +40,7 @@ date:
 difficulty: Class 2-3 
 elevation:  
 grade:  
+hits: 4741  
 id: 158350 
 latitude: 37.7775 
 location: California, United States, North America 
@@ -48,6 +49,9 @@ my_route_quality:
 name: East Face 
 number_of_pitches:  
 page_url: http://www.summitpost.org/east-face/158350 
+parent_code: 151700 
+parent_name: Vogelsang Peak 
+parent_url: /vogelsang-peak/151700 
 rock_difficulty:  
 route_quality: 0.8923076923076924 
 route_type: Scramble 

@@ -152,6 +152,7 @@ date:
 difficulty: "California Sierra Class 4 
 elevation:  
 grade: III 
+hits: 16854  
 id: 157706 
 latitude: 37.0939 
 location: California, United States, North America 
@@ -160,6 +161,9 @@ my_route_quality:
 name: West Chute (U-Notch Southwest Side) 
 number_of_pitches:  
 page_url: http://www.summitpost.org/west-chute-u-notch-southwest-side/157706 
+parent_code: 150406 
+parent_name: North Palisade 
+parent_url: /north-palisade/150406 
 rock_difficulty: Class 4 
 route_quality: 1.0 
 route_type: Mountaineering, Trad Climbing, Scrambling 

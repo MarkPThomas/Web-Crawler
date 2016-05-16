@@ -123,6 +123,7 @@ date:
 difficulty:  
 elevation: 12324 
 grade:  
+hits: 34473  
 id: 152200 
 latitude: 40.3088 
 location: Colorado, United States, North America 
@@ -131,6 +132,9 @@ my_route_quality:
 name: Flattop Mountain 
 number_of_pitches:  
 page_url: http://www.summitpost.org/flattop-mountain/152200 
+parent_code: 171116 
+parent_name: Rocky Mountain National Park 
+parent_url: /rocky-mountain-national-park/171116 
 rock_difficulty:  
 route_quality:  
 route_type:  

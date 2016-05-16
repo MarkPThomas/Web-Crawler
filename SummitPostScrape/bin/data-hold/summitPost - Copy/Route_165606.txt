@@ -1,0 +1,43 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Approach</h2>
+<br>
+<i>This is a 3400'+/- day.</i>   Fairview Mountain is one of the easiest Canadian Rocky scrambles.<br>
+<br>
+Park at the Lake Louise Chateau hotel 5 km south of town.  The Saddleback trail starts near the boathouse along the southern lake shore.  Take the Saddleback Trail to the saddle between Saddle Peak and Fairview (3.7 km at 2200' gain).  I could have used spikes (not crampons) on the trail (ice) on the way to the saddle.  <br>
+<a target="_top" href="/mountains/photo_link.pl?photo_id=155665&amp;object_id=2374&amp;type=mountain&amp;mountain_id=2374&amp;route_id="><img src="http://www.summitpost.com/images/thumb/105919.jpg" alt="Tooltip for IE: Gamskofel" title="Tooltip for Mozilla: Gamskofel"></a> <a target="_top" href="/mountains/photo_link.pl?photo_id=163100&amp;object_id=265&amp;type=mountain&amp;mountain_id=265&amp;route_id="><img src="http://www.summitpost.com/images/thumb/111599.jpg" alt="Tooltip for IE: Gamskofel" title="Tooltip for Mozilla: Gamskofel"></a> <br>
+<p></p>
+<table class="inline_image_thumbs"><tr><td><a href="/view_object.php?object_id=127111" rel="no_follow"><img src="/images/thumb/127111.jpg"></a></td></tr></table>
+<a name="chapter_2"></a><h2>Route Description</h2>
+<br>
+Once at the saddle, turn right and ascend the southeast scree slope to Fairview's summit.  We had fresh snow, therefore, no trail to follow.  We did have snow from Lake Louise on up and were post holing it from the saddle to the summit (1200' gain).  The glissade down in snow is very quick.   <br>
+<br>
+The views are tremendous for such a small mountain with easy access.  They include, Haddo, Aberdeen, Temple, Valley of the Ten Peaks, Whyte, Niblock, Victoria and the Deathtrap, Daly, Richardson, etc.  There appears to be no summit cairn or register.  However, there is a great photo op as per the dog photo above.<br>
+<br>
+The adjacent Saddle Mountain can be ascended with minimal extra effort.<br>
+<a name="chapter_3"></a><h2>Essential Gear</h2>
+<br>
+Ice Walkers and Gaiters if early season.  Bear Spray.  Good one to take the dog or kids.<br>
+<a name="chapter_4"></a><h2>Images</h2>
+<div align="center"><table id="my_images"><tr><td><a href="/beehive-as-seen-from-the/127111/c-165606"><img alt='"Beehive" as seen from the...' src="/images/square/127111.jpg"></a></td></tr></table></div>
+            </article> 
+date:  
+difficulty: Easy 
+elevation:  
+grade:  
+id: 165606 
+latitude:  
+location: Alberta, Canada, North America 
+longitude:  
+my_route_quality:  
+name: SE Slopes 
+number_of_pitches:  
+page_url: http://www.summitpost.org/se-slopes/165606 
+rock_difficulty:  
+route_quality: 0.6923076923076923 
+route_type: Scramble 
+seasons:  
+time_required: Half a day 
+type: Route 
+

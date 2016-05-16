@@ -1,0 +1,20 @@
+page_id: 1 
+page_menu_name: Size Matters: A Gear Comparison 
+page_url: /mountaineering/articles/size-matters-a-gear-comparison 
+type: Article 
+
+page_id: 2 
+page_menu_name: Glaciers 
+page_url: /mountaineering/articles/glaciers 
+type: Article 
+
+page_id: 3 
+page_menu_name: Dry Tooling & Mixed Climbing 
+page_url: /mountaineering/articles/dry-tooling-mized 
+type: Article 
+
+page_id: 4 
+page_menu_name: Mt Shasta Slope Hazard Map 
+page_url: /mountaineering/articles/mt-shasta-slope-hazard-map 
+type: Article 
+

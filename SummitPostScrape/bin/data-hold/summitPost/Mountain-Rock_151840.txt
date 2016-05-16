@@ -109,6 +109,7 @@ date:
 difficulty:  
 elevation: 12321 
 grade:  
+hits: 15708  
 id: 151840 
 latitude: 37.093 
 location: California, United States, North America 
@@ -117,6 +118,9 @@ my_route_quality:
 name: Isosceles Peak 
 number_of_pitches:  
 page_url: http://www.summitpost.org/isosceles-peak/151840 
+parent_code: 171074 
+parent_name: Palisades 
+parent_url: /palisades/171074 
 rock_difficulty:  
 route_quality:  
 route_type:  

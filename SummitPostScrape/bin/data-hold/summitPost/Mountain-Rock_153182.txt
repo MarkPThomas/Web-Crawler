@@ -77,6 +77,7 @@ date:
 difficulty:  
 elevation: 12363 
 grade:  
+hits: 7463  
 id: 153182 
 latitude: 40.3131 
 location: Colorado, United States, North America 
@@ -85,6 +86,9 @@ my_route_quality:
 name: Ptarmigan Point 
 number_of_pitches:  
 page_url: http://www.summitpost.org/ptarmigan-point/153182 
+parent_code: 171116 
+parent_name: Rocky Mountain National Park 
+parent_url: /rocky-mountain-national-park/171116 
 rock_difficulty:  
 route_quality:  
 route_type:  

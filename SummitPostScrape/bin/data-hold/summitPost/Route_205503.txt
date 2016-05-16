@@ -54,6 +54,7 @@ date:
 difficulty: Class 2 
 elevation:  
 grade:  
+hits: 1426  
 id: 205503 
 latitude:  
 location: California, United States, North America 
@@ -62,6 +63,9 @@ my_route_quality:
 name: SW slopes 
 number_of_pitches:  
 page_url: http://www.summitpost.org/sw-slopes/205503 
+parent_code: 197009 
+parent_name: Colosseum Mountain 
+parent_url: /colosseum-mountain/197009 
 rock_difficulty:  
 route_quality: 0.6 
 route_type: Scrambling 

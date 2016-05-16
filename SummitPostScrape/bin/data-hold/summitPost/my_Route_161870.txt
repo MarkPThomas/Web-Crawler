@@ -232,6 +232,7 @@ date:
 difficulty: III, 5.6 
 elevation:  
 grade:  
+hits: 12687  
 id: 161870 
 latitude: 42.7806 
 location: Wyoming, United States, North America 
@@ -240,6 +241,9 @@ my_route_quality:
 name: East Ridge 
 number_of_pitches:  
 page_url: http://www.summitpost.org/east-ridge/161870 
+parent_code: 150579 
+parent_name: Wolfs Head 
+parent_url: /wolfs-head/150579 
 rock_difficulty:  
 route_quality: 1.0 
 route_type: Technical Rock Climb 

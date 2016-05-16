@@ -185,6 +185,7 @@ date: May 25, 2004
 difficulty:  
 elevation:  
 grade:  
+hits: 9848  
 id: 169439 
 latitude: 37.697 
 location: California, United States, North America 
@@ -193,6 +194,9 @@ my_route_quality:
 name: A Double Summit Delight – Banner Pk & Mt Ritter 
 number_of_pitches:  
 page_url: http://www.summitpost.org/a-double-summit-delight-banner-pk-mt-ritter/169439 
+parent_code: 150963 
+parent_name: Banner Peak 
+parent_url: /banner-peak/150963 
 rock_difficulty:  
 route_quality:  
 route_type:  

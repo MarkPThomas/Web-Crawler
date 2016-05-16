@@ -1399,6 +1399,7 @@ date: Nov 26, 2011
 difficulty:  
 elevation:  
 grade:  
+hits: 4487  
 id: 781282 
 latitude:  
 location: Utah, United States, North America 
@@ -1407,6 +1408,9 @@ my_route_quality:
 name: Look at Me, Dad! Err . . . Actually, Don't! - A Climb Up Ancient Art & Other Utah Rocks 
 number_of_pitches:  
 page_url: http://www.summitpost.org/look-at-me-dad-err-actually-don-t-a-climb-up-ancient-art-other-utah-rocks/781282 
+parent_code: 509337 
+parent_name: Ancient Art 
+parent_url: /ancient-art/509337 
 rock_difficulty:  
 route_quality:  
 route_type:  

@@ -1,0 +1,127 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>Trojan Peak lies just east of the Sierra crest about 5 miles north of Mt. Whitney, wholely within the John Muir Wilderness. Though one of the 20 highest peaks in California, it is overshadowed by taller and more popular peaks that crowd it on three sides: Mts. <a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/297">Williamson</a>, <a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/300">Tyndall</a>, and <a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/1466">Barnard</a>. Coupled with the fact that it comes up 53 feet short of being a coveted 14er, it sees relatively few visitors.<br>
+<br>
+The peak is not technically difficult, no more than class 2 from most approaches. Even more so than nearby Mt. Barnard, the peak is a very high pile of rubble and sand whose tediousness at altitude can tax even the most ardent peakbagger.<br>
+<br>
+The name of the peak was suggested by Chester <a href="http://www.snwburd.com/bob/etymology/versteeg.html">Versteeg</a> and Ralph Chase for their Alma Mater, the University of Southern California. Versteeg's first suggestion, Southern California Peak, was rejected by the BGN (a wise decision to avoid a confusingly named peak). Versteeg was also responsible for naming Lake Helen of Troy, located just northwest of the peak.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=77348" rel="no_follow"><img src="/images/thumb/77348.jpg"></a></td>
+<td><a href="/view_object.php?object_id=77349" rel="no_follow"><img src="/images/thumb/77349.jpg"></a></td>
+<td><a href="/view_object.php?object_id=124965" rel="no_follow"><img src="/images/thumb/124965.jpg"></a></td>
+</tr></table>
+<a name="chapter_2"></a><h2>Getting There</h2>All the approaches to Trojan Peak are long and arduous, and almost always done as a multiday backpack trip. In fact, Trojan Peak is rarely the primary objective of any given outing, often the second or third peak to be climbed in the area. <br>
+<br>
+The shortest approach is via George Creek, a classic Eastern Sierra bushwhack amply described on Mt. Williamson's <a href="http://www.summitpost.org/show/route_link.pl/route_id/599/object_id/297">Southeast Ridge</a> route page. Somewhere near the 2900m level (yes, this is one of the silly USGS maps that got done in meters) you will be able to see the broad chute leading to the Barnard-Trojan basin. Follow this up for the easiest approach to Trojan's Southeast Slopes. An alternative approach is to take the right branch of George Creek (same as you would take to Mt. Williamson) and climbing <a href="http://www.topozone.com/map.asp?z=11&amp;n=4055577&amp;e=383132&amp;s=50&amp;size=l&amp;u=1&amp;layer=DRG25">this snow-filled chute</a> to the class 2 Southeast Slopes. Because George Creek is open only until May 15, you are likely to encounter mostly snow above the 3100m level.<br>
+<br>
+A second approach is via the Shepherd Pass TH, hiking up to Shepherd Pass then crossing Williamson Bowl (see the approach description for Williamson's <a href="http://www.summitpost.org/show/route_link.pl/route_id/785/object_id/297">West Face</a> route). After reaching the highest of the Williamson Bowl lakes, climb southeast to Lake Helen of Troy, then head south to the saddle on the Sierra crest between Trojan Peak and Mt. Versteeg. From the crest it is a straightforward climb to follow the Southwest Ridge. Alternatively, one can climb to the summit from the saddle between it and Mt. Williamson. The easiest climbing is found to the right on the Northwest Face. Both variations from Williamson Bowl are class 2.<br>
+<br>
+A third approach, and by far the least tedious is from the JMT east through Wright Lakes. Leave the JMT in the vicinity of Bighorn Plateau and follow Wright Creek to the northeast, following the middle fork to the west side of the Sierra crest between Mt. Barnard and Trojan Peak. The last 300m to the Sierra crest are steep class 3 and described by Secor as the West Face. Once at the crest, follow the Southwest Ridge to the summit.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=77347" rel="no_follow"><img src="/images/thumb/77347.jpg"></a></td>
+<td><a href="/view_object.php?object_id=77346" rel="no_follow"><img src="/images/thumb/77346.jpg"></a></td>
+</tr></table>
+<a name="chapter_3"></a><h2>Red Tape &amp; Mountain Conditions</h2>See the restrictions below concerning the Bighorn Sheep Zoologocial Preserve. <br>
+<br>
+Wilderness Permits are required for overnight visits in the John Muir Wilderness and Sequoia-Kings Canyon National Park. For an east side entry, everything you need to know about conditions, permits and regulations can be found on the <a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/4859">Eastern Sierra - Logisitcal Center</a> page.<br>
+<a name="chapter_4"></a><h2>When To Climb</h2>Since Trojan Peak falls within the Bighorn Sheep Zoological area, climbs of Trojan Peak are limited throughout the year. George Creek is open only from April 15 to May 15, and Dec 15 to Jan 1. Williamson Bowl is open from Dec 15 to July 15. The Wright Lakes approach is open year round, but the last third of a mile from the Sierra crest eastward falls within the time restrictions for Williamson Bowl. If you are climbing illegally after July 15, at least consider this route as the least disruptive of the three.<br>
+<a name="chapter_5"></a><h2>Camping</h2>In George Creek, there are some suitable flat camp sites at the 2800m level between the two forks of the creek. There are also some sites further up near the 3100m level, which are sometimes just below snowline around early May.<br>
+<br>
+There are some stark and desolate campsites at the two upper lakes in Williamson Bowl. Plenty of water, but no shade and little flora/fauna.<br>
+<br>
+Wright Lakes, with dozens of lakes and alpine meadows, offers probably the best camping options near Trojan Peak. <br>
+<a name="chapter_6"></a><h2>External Links</h2>
+<ul><li>
+<a href="http://www.snwburd.com/bob/trip_reports/barnard_1.html">Barnard/Trojan dayhike - May 8, 2004</a><br> <br>
+</li></ul>                     <div align="center">
+<a name="messages"></a><a name="chapter_7"></a><h2>Additions and Corrections</h2>[ <a href="/object_discussion.php?type=vote_comments&amp;object_id=153310&amp;is_addition=1#vote_form">Post an Addition or Correction</a> ]<table cellpadding="0" cellspacing="0" style="width: 775px;"><tr><td><table cellpadding="2" cellspacing="2" width="100%"><tr>
+<td align="left"><span class="pagertext">Viewing: <b>1</b>-<b>2</b> of <b>2</b></span></td>
+<td align="center"></td>
+<td align="right">    </td>
+</tr></table></td></tr></table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="131246"></a> <a class="dis_user_lnk" href="/users/langenbacher/1860">Langenbacher</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>coordinates</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/langenbacher/1860"><img alt="Langenbacher" width="50" height="50" border="0" src="/images/avatars/193732.jpg"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">coordinates should be 36.64228 N, 118.31531, NAD83 / WGS84  , should they not ?</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Apr 22, 2006 11:20 pm</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="131664"></a> <a class="dis_user_lnk" href="/users/bob-burd/276">Bob Burd</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>oops.</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/bob-burd/276"><img alt="Bob Burd" width="50" height="50" border="0" src="/images/avatars/1177.jpg"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">I had two digits switched on the latitude. Thanks for pointing that out!</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Apr 25, 2006 6:24 pm</span></td></tr>
+</table>
+<br><table border="0" width="775"><tr><td><table cellpadding="2" cellspacing="2" width="100%"><tr>
+<td align="left"><span class="pagertext">Viewing: <b>1</b>-<b>2</b> of <b>2</b></span></td>
+<td align="center"></td>
+<td align="right">    </td>
+</tr></table></td></tr></table>
+<br>
+</div>
+<a name="chapter_8"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/trojan-peak/496961/c-153310"><img alt="Trojan Peak" src="/images/square/496961.JPG"></a></td>
+<td><a href="/the-gangs-all-here/503896/c-153310"><img alt="The gangs all here!" src="/images/square/503896.jpg"></a></td>
+<td><a href="/shepherd-pass-from-trojan-peak/625298/c-153310"><img alt="Shepherd Pass from Trojan Peak" src="/images/square/625298.JPG"></a></td>
+<td><a href="/high-sierra-pano-from-pleasant-point/581887/c-153310"><img alt="High Sierra pano from Pleasant Point" src="/images/square/581887.jpg"></a></td>
+<td><a href="/high-sierra-from-grapevine-nipple/681269/c-153310"><img alt="High Sierra from Grapevine Nipple" src="/images/square/681269.JPG"></a></td>
+<td><a href="/sierra-north-from-alabama-hills/473339/c-153310"><img alt="Sierra north from Alabama Hills" src="/images/square/473339.jpg"></a></td>
+<td><a href="/this-is-the-view-into/77347/c-153310"><img alt="This is the view into..." src="/images/square/77347.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/the-view-up-george-creek-not/77346/c-153310"><img alt="The view up George Creek not..." src="/images/square/77346.jpg"></a></td>
+<td><a href="/trojan-peak-s-north-face-seen/77348/c-153310"><img alt="Trojan Peak\'s North Face seen..." src="/images/square/77348.jpg"></a></td>
+<td><a href="/mts-russell-and-williamson/418969/c-153310"><img alt="Mts. Russell and Williamson" src="/images/square/418969.JPG"></a></td>
+<td><a href="/the-southeast-slopes-of/77344/c-153310"><img alt="The Southeast Slopes of..." src="/images/square/77344.jpg"></a></td>
+<td><a href="/trojan-peak-s-northwest-face/77349/c-153310"><img alt="Trojan Peak\'s Northwest Face..." src="/images/square/77349.jpg"></a></td>
+<td><a href="/northeast-aspect-of-trojan/104855/c-153310"><img alt="Northeast aspect of Trojan..." src="/images/square/104855.JPG"></a></td>
+<td><a href="/trojan-peak/586095/c-153310"><img alt="Trojan Peak" src="/images/square/586095.jpg"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/trojan-peak/images/p-153310">View Gallery - 2 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty:  
+elevation: 13947 
+grade:  
+id: 153310 
+latitude: 36.642 
+location: California, United States, North America 
+longitude: -118.3143 
+my_route_quality:  
+name: Trojan Peak 
+number_of_pitches:  
+page_url: http://www.summitpost.org/trojan-peak/153310 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons:  
+time_required:  
+type: Mountain-Rock 
+

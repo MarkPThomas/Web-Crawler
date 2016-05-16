@@ -53,6 +53,7 @@ date:
 difficulty: Walk up, class 2 
 elevation:  
 grade:  
+hits: 3175  
 id: 159102 
 latitude: 40.5395 
 location: Utah, United States, North America 
@@ -61,6 +62,9 @@ my_route_quality:
 name: Northwest Slopes 
 number_of_pitches:  
 page_url: http://www.summitpost.org/northwest-slopes/159102 
+parent_code: 151973 
+parent_name: Red Baldy 
+parent_url: /red-baldy/151973 
 rock_difficulty:  
 route_quality: 0.8 
 route_type: Hike/Scramble 

@@ -87,6 +87,7 @@ date:
 difficulty: Class 3 
 elevation:  
 grade:  
+hits: 7132  
 id: 161312 
 latitude: 40.5267 
 location: Utah, United States, North America 
@@ -95,6 +96,9 @@ my_route_quality:
 name: Big Willow 
 number_of_pitches:  
 page_url: http://www.summitpost.org/big-willow/161312 
+parent_code: 151267 
+parent_name: Lone Peak 
+parent_url: /lone-peak/151267 
 rock_difficulty:  
 route_quality: 0.8 
 route_type: Steep Snow 

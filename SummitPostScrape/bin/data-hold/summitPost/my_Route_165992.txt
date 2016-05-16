@@ -68,6 +68,7 @@ date:
 difficulty: II AI2, Steep Snow, Class 2-3 
 elevation:  
 grade:  
+hits: 5981  
 id: 165992 
 latitude: 40.5517 
 location: Utah, United States, North America 
@@ -76,6 +77,9 @@ my_route_quality:
 name: Pipeline Couloir 
 number_of_pitches:  
 page_url: http://www.summitpost.org/pipeline-couloir/165992 
+parent_code: 151755 
+parent_name: American Fork Twin Peaks 
+parent_url: /american-fork-twin-peaks/151755 
 rock_difficulty:  
 route_quality: 1.0 
 route_type: Alpine Ice/Neve Climb 

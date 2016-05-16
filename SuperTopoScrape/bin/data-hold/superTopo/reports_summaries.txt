@@ -1,0 +1,390 @@
+hits: 5,685 
+id: t12258n 
+messages: 37 
+report_name: Bear Creek Spire (E Ridge) - An Overlooked Sierra Classic! 
+report_url: /tr/Bear-Creek-Spire-E-Ridge-An-Overlooked-Sierra-Classic/t12258n.html 
+
+hits: 6,335 
+id: t11417n 
+messages: 44 
+report_name: CNRoLPP - My First (Accidental) Grade V Climb 
+report_url: /tr/CNRoLPP-My-First-Accidental-Grade-V-Climb/t11417n.html 
+
+hits: 3,855 
+id: t12248n 
+messages: 22 
+report_name: Pingora (NE Face) 
+report_url: /tr/Pingora-NE-Face/t12248n.html 
+
+hits: 7,961 
+id: t11122n 
+messages: 50 
+report_name: Liberty Cap Beating #2: Ptarmigan Ridge 
+report_url: /tr/Liberty-Cap-Beating-2-Ptarmigan-Ridge/t11122n.html 
+
+hits: 6,752 
+id: t11782n 
+messages: 106 
+report_name: The DEER Route - A Yosemite Reverse Spelunking Adventure 
+report_url: /tr/The-DEER-Route-A-Yosemite-Reverse-Spelunking-Adventure/t11782n.html 
+
+hits: 4,967 
+id: t11715n 
+messages: 33 
+report_name: South Face of Charlotte Dome (III, 5.8) (Photo TR) 
+report_url: /tr/South-Face-of-Charlotte-Dome-III-5-8-Photo-TR/t11715n.html 
+
+hits: 42,870 
+id: t11159n 
+messages: 73 
+report_name: Playing Hooky from Work: A Solo Ascent of Geochronology Wall (I, C2, cl.3) 
+report_url: /tr/Playing-Hooky-from-Work-A-Solo-Ascent-of-Geochronology-Wall-I-C2-cl-3/t11159n.html 
+
+hits: 2,494 
+id: t12463n 
+messages: 30 
+report_name: Palisade Crest N-S Traverse (IV, 5.8) 
+report_url: /tr/Palisade-Crest-N-S-Traverse-IV-5-8/t12463n.html 
+
+hits: 1,984 
+id: t12479n 
+messages: 8 
+report_name: Mt Emerson (SE Face) Scramble with Extra Ridge Variations 
+report_url: /tr/Mt-Emerson-SE-Face-Scramble-with-Extra-Ridge-Variations/t12479n.html 
+
+hits: 4,693 
+id: t12340n 
+messages: 27 
+report_name: Palisade 'Tangent Traverse' 
+report_url: /tr/Palisade-Tangent-Traverse/t12340n.html 
+
+hits: 6,038 
+id: t11335n 
+messages: 60 
+report_name: FA of Effervescent Glory (Wi0) 
+report_url: /tr/FA-of-Effervescent-Glory-Wi0/t11335n.html 
+
+hits: 3,276 
+id: t12193n 
+messages: 24 
+report_name: Backpacking Sun Ribbon Arete 
+report_url: /tr/Backpacking-Sun-Ribbon-Arete/t12193n.html 
+
+hits: 3,733 
+id: t11492n 
+messages: 22 
+report_name: IC + Desert Tower Trip #2: Supercrack Buttress, Technicolor Wall, and Kor-Ingalls on Castleton Tower 
+report_url: /tr/IC-Desert-Tower-Trip-2-Supercrack-Buttress-Technicolor-Wall-and-Kor-Ingalls-on-Castleton-Tower/t11492n.html 
+
+hits: 5,536 
+id: t12247n 
+messages: 29 
+report_name: South Buttress of Pingora and East Ridge of Wolf's Head Linkup 
+report_url: /tr/South-Buttress-of-Pingora-and-East-Ridge-of-Wolfs-Head-Linkup/t12247n.html 
+
+hits: 4,726 
+id: t12262n 
+messages: 41 
+report_name: Cardinal Pinnacle - Four Great Crack Climbs 
+report_url: /tr/Cardinal-Pinnacle-Four-Great-Crack-Climbs/t12262n.html 
+
+hits: 2,471 
+id: t12246n 
+messages: 5 
+report_name: Crescent Tower (Lion's Way) - A Great R&R (Rain & Relaxation) Climb 
+report_url: /tr/Crescent-Tower-Lions-Way-A-Great-R-R-Rain-Relaxation-Climb/t12246n.html 
+
+hits: 4,275 
+id: t11567n 
+messages: 19 
+report_name: West Pillar of Eichorn Pinnacle - Regular and Direct Variations (Photo TR) 
+report_url: /tr/West-Pillar-of-Eichorn-Pinnacle-Regular-and-Direct-Variations-Photo-TR/t11567n.html 
+
+hits: 2,137 
+id: t11810n 
+messages: 29 
+report_name: Devil's Golf Ball (Happy Turk) (5.8, C1) (Photo TR) 
+report_url: /tr/Devils-Golf-Ball-Happy-Turk-5-8-C1-Photo-TR/t11810n.html 
+
+hits: 2,957 
+id: t12093n 
+messages: 13 
+report_name: (Right) North Couloir of North Peak (AI2) (Photo TR) 
+report_url: /tr/Right-North-Couloir-of-North-Peak-AI2-Photo-TR/t12093n.html 
+
+hits: 3,980 
+id: t12057n 
+messages: 36 
+report_name: Failures and Success on Ruby Wall 
+report_url: /tr/Failures-and-Success-on-Ruby-Wall/t12057n.html 
+
+hits: 2,626 
+id: t11814n 
+messages: 26 
+report_name: Three Penguins, Right Chimney (5.10c), and Chinese Eyes (5.9+) 
+report_url: /tr/Three-Penguins-Right-Chimney-5-10c-and-Chinese-Eyes-5-9/t11814n.html 
+
+hits: 3,509 
+id: t11974n 
+messages: 28 
+report_name: Mt Russell, Mithral Dihedral (III, 5.10, 7P) Car-to-Car via a Unique Approach (Photo TR) 
+report_url: /tr/Mt-Russell-Mithral-Dihedral-III-5-10-7P-Car-to-Car-via-a-Unique-Approach-Photo-TR/t11974n.html 
+
+hits: 3,622 
+id: t11828n 
+messages: 30 
+report_name: Liberty Cap Beating #3: Curtis Ridge Attempt 
+report_url: /tr/Liberty-Cap-Beating-3-Curtis-Ridge-Attempt/t11828n.html 
+
+hits: 2,022 
+id: t11815n 
+messages: 19 
+report_name: Lizard Rock (Fisher Towers) & Dark Angel (Arches NP) 
+report_url: /tr/Lizard-Rock-Fisher-Towers-Dark-Angel-Arches-NP/t11815n.html 
+
+hits: 2,944 
+id: t11734n 
+messages: 33 
+report_name: A Fall Day on Dark Star (Sit-Start Variation) 
+report_url: /tr/A-Fall-Day-on-Dark-Star-Sit-Start-Variation/t11734n.html 
+
+hits: 2,281 
+id: t11720n 
+messages: 11 
+report_name: Some Teton Wanderings & Irene's Arete (III, 5.9+ var.) 
+report_url: /tr/Some-Teton-Wanderings-Irenes-Arete-III-5-9-var/t11720n.html 
+
+hits: 3,519 
+id: t11703n 
+messages: 7 
+report_name: Black Dike Traverse (II, cl. 3-4, moderate snow) and the Southwest Couloir of Mt Teewinot (II, cl. 4) (Carryout Day 1) 
+report_url: /tr/Black-Dike-Traverse-II-cl-3-4-moderate-snow-and-the-Southwest-Couloir-of-Mt-Teewinot-II-cl-4-Carryout-Day-1/t11703n.html 
+
+hits: 7,193 
+id: t11697n 
+messages: 5 
+report_name: Owen-Grandstand Traverse (II, 5.7 with rappels) (Carryover Day 3) 
+report_url: /tr/Owen-Grandstand-Traverse-II-5-7-with-rappels-Carryover-Day-3/t11697n.html 
+
+hits: 4,208 
+id: t11693n 
+messages: 6 
+report_name: The Valhalla Traverse (II, cl. 3-4, falling rock & ice hazard) (Carryover Day 1) 
+report_url: /tr/The-Valhalla-Traverse-II-cl-3-4-falling-rock-ice-hazard-Carryover-Day-1/t11693n.html 
+
+hits: 3,093 
+id: t11524n 
+messages: 26 
+report_name: North Buttress of Goode day-hike (Photo TR) 
+report_url: /tr/North-Buttress-of-Goode-day-hike-Photo-TR/t11524n.html 
+
+hits: 6,030 
+id: t11378n 
+messages: 40 
+report_name: Look at Me, Dad! Err . . . Actually, Don't!  - A Climb Up Ancient Art & Other Utah Rocks 
+report_url: /tr/Look-at-Me-Dad-Err-Actually-Dont-A-Climb-Up-Ancient-Art-Other-Utah-Rocks/t11378n.html 
+
+hits: 2,379 
+id: t11341n 
+messages: 18 
+report_name: The RORP 
+report_url: /tr/The-RORP/t11341n.html 
+
+hits: 3,252 
+id: t11118n 
+messages: 26 
+report_name: Liberty Cap Beating #1: Liberty Ridge 
+report_url: /tr/Liberty-Cap-Beating-1-Liberty-Ridge/t11118n.html 
+
+hits: 6,553 
+id: t11757n 
+messages: 64 
+report_name: Yosemite Point Buttress, 'Direct' (IV, 5.9+, 14P) 
+report_url: /tr/Yosemite-Point-Buttress-Direct-IV-5-9-14P/t11757n.html 
+
+hits: 6,202 
+id: t12165n 
+messages: 45 
+report_name: South Ridge of Gimli Peak - A Lesser-Known Canadian Classic 
+report_url: /tr/South-Ridge-of-Gimli-Peak-A-Lesser-Known-Canadian-Classic/t12165n.html 
+
+hits: 8,643 
+id: t11578n 
+messages: 44 
+report_name: Matthes Crest - S-N Traverse (III, 5.7) and Full Traverse (IV, 5.8) (Photo TR) 
+report_url: /tr/Matthes-Crest-S-N-Traverse-III-5-7-and-Full-Traverse-IV-5-8-Photo-TR/t11578n.html 
+
+hits: 3,667 
+id: t11479n 
+messages: 22 
+report_name: NE Butt of Higher Cathedral 
+report_url: /tr/NE-Butt-of-Higher-Cathedral/t11479n.html 
+
+hits: 2,833 
+id: t12154n 
+messages: 39 
+report_name: Chockstone Chimney with LeBruce (Photo TR) 
+report_url: /tr/Chockstone-Chimney-with-LeBruce-Photo-TR/t12154n.html 
+
+hits: 4,525 
+id: t12186n 
+messages: 18 
+report_name: Solo Winter Ascent of Mt Humphreys via SW Couloir & NW Ridge Descent 
+report_url: /tr/Solo-Winter-Ascent-of-Mt-Humphreys-via-SW-Couloir-NW-Ridge-Descent/t12186n.html 
+
+hits: 9,905 
+id: t12222n 
+messages: 59 
+report_name: South Howser Tower (Beckey-Chouinard) 
+report_url: /tr/South-Howser-Tower-Beckey-Chouinard/t12222n.html 
+
+hits: 2,525 
+id: t12438n 
+messages: 27 
+report_name: Norman Clyde Pk (Twilight Pillar) 
+report_url: /tr/Norman-Clyde-Pk-Twilight-Pillar/t12438n.html 
+
+hits: 6,548 
+id: t11186n 
+messages: 27 
+report_name: Temple Crag Two'fer & the Labor Day Partay - MGA + VBA & friends on VBA, MGA & SRA 
+report_url: /tr/Temple-Crag-Twofer-the-Labor-Day-Partay-MGA-VBA-friends-on-VBA-MGA-SRA/t11186n.html 
+
+hits: 2,754 
+id: t12348n 
+messages: 28 
+report_name: Norman Clyde Peak (Firebird Ridge) 
+report_url: /tr/Norman-Clyde-Peak-Firebird-Ridge/t12348n.html 
+
+hits: 10,843 
+id: t12324n 
+messages: 39 
+report_name: Half Dome Like You're Never Seen it Before 
+report_url: /tr/Half-Dome-Like-Youre-Never-Seen-it-Before/t12324n.html 
+
+hits: 2,733 
+id: t11867n 
+messages: 21 
+report_name: War Path on Warbonnet, NE Face, Left 
+report_url: /tr/War-Path-on-Warbonnet-NE-Face-Left/t11867n.html 
+
+hits: 3,695 
+id: t12256n 
+messages: 28 
+report_name: Merriam Peak (N Buttress) 
+report_url: /tr/Merriam-Peak-N-Buttress/t12256n.html 
+
+hits: 3,707 
+id: t12263n 
+messages: 20 
+report_name: Not Another Third Pillar of Dana TR! (GoPro TR) 
+report_url: /tr/Not-Another-Third-Pillar-of-Dana-TR-GoPro-TR/t12263n.html 
+
+hits: 4,348 
+id: t12243n 
+messages: 21 
+report_name: Pigeon Spire (W Ridge) 
+report_url: /tr/Pigeon-Spire-W-Ridge/t12243n.html 
+
+hits: 4,125 
+id: t12224n 
+messages: 20 
+report_name: Bugaboo Spire (NE Ridge) 
+report_url: /tr/Bugaboo-Spire-NE-Ridge/t12224n.html 
+
+hits: 1,930 
+id: t12187n 
+messages: 21 
+report_name: Southwest Face of Conness (Photo TR) 
+report_url: /tr/Southwest-Face-of-Conness-Photo-TR/t12187n.html 
+
+hits: 3,148 
+id: t12149n 
+messages: 25 
+report_name: West Face of Isosceles Peak - A Great Backcountry Wide Climb in the High Sierra 
+report_url: /tr/West-Face-of-Isosceles-Peak-A-Great-Backcountry-Wide-Climb-in-the-High-Sierra/t12149n.html 
+
+hits: 7,146 
+id: t11498n 
+messages: 42 
+report_name: Direct SE Face of Clyde Minaret (IV, 5.9+) 
+report_url: /tr/Direct-SE-Face-of-Clyde-Minaret-IV-5-9/t11498n.html 
+
+hits: 5,390 
+id: t11481n 
+messages: 30 
+report_name: Central Pillar of Frenzy warmup to East Buttress of Middle Cathedral - Photo TR 
+report_url: /tr/Central-Pillar-of-Frenzy-warmup-to-East-Buttress-of-Middle-Cathedral-Photo-TR/t11481n.html 
+
+hits: 3,512 
+id: t11972n 
+messages: 20 
+report_name: Mt Russell, Fishhook Arete (III, 5.9, 8P) via a Unique Variation (Photo TR) 
+report_url: /tr/Mt-Russell-Fishhook-Arete-III-5-9-8P-via-a-Unique-Variation-Photo-TR/t11972n.html 
+
+hits: 4,490 
+id: t11841n 
+messages: 44 
+report_name: Washer Woman, In Search of Suds (III, 5.10+ C0 or 5.11-) 
+report_url: /tr/Washer-Woman-In-Search-of-Suds-III-5-10-C0-or-5-11-/t11841n.html 
+
+hits: 12,457 
+id: t11690n 
+messages: 15 
+report_name: Complete Exum Ridge of the Grand Teton (III, 5.7) 
+report_url: /tr/Complete-Exum-Ridge-of-the-Grand-Teton-III-5-7/t11690n.html 
+
+hits: 6,231 
+id: t11702n 
+messages: 8 
+report_name: North Ridge of the Grand Teton (Italian Cracks Variation)(IV, 5.7) (Carryover Day 4) 
+report_url: /tr/North-Ridge-of-the-Grand-Teton-Italian-Cracks-Variation-IV-5-7-Carryover-Day-4/t11702n.html 
+
+hits: 3,290 
+id: t11719n 
+messages: 7 
+report_name: Southwest Ridge of Symmetry Spire (II, 5.7) 
+report_url: /tr/Southwest-Ridge-of-Symmetry-Spire-II-5-7/t11719n.html 
+
+hits: 5,666 
+id: t11705n 
+messages: 4 
+report_name: Mt Teewinot via the Southwest Couloir (II, cl. 4) and East Face Descent (II, cl. 4)(Carryout Day 2) 
+report_url: /tr/Mt-Teewinot-via-the-Southwest-Couloir-II-cl-4-and-East-Face-Descent-II-cl-4-Carryout-Day-2/t11705n.html 
+
+hits: 8,275 
+id: t11665n 
+messages: 51 
+report_name: Teton Grand Slam: 8 Classic Routes and Some Traverses Done Over a 9 Day Climbing Marathon 
+report_url: /tr/Teton-Grand-Slam-8-Classic-Routes-and-Some-Traverses-Done-Over-a-9-Day-Climbing-Marathon/t11665n.html 
+
+hits: 3,432 
+id: t11695n 
+messages: 6 
+report_name: Serendipity Arete of Mt Owen (IV, 5.9) (Carryover Day 2) 
+report_url: /tr/Serendipity-Arete-of-Mt-Owen-IV-5-9-Carryover-Day-2/t11695n.html 
+
+hits: 4,644 
+id: t11686n 
+messages: 11 
+report_name: Garnet Canyon Approach and the North Ridge of Middle Teton (II, 5.6) 
+report_url: /tr/Garnet-Canyon-Approach-and-the-North-Ridge-of-Middle-Teton-II-5-6/t11686n.html 
+
+hits: 3,488 
+id: t11571n 
+messages: 21 
+report_name: Team Trundle Tackles the NE Gully of Laurel Mtn 
+report_url: /tr/Team-Trundle-Tackles-the-NE-Gully-of-Laurel-Mtn/t11571n.html 
+
+hits: 4,366 
+id: t11362n 
+messages: 38 
+report_name: The Iota Chimney - A Super Awesome, Must Do 5.4 in Yosemite! 
+report_url: /tr/The-Iota-Chimney-A-Super-Awesome-Must-Do-5-4-in-Yosemite/t11362n.html 
+
+hits: 5,159 
+id: t11169n 
+messages: 13 
+report_name: Urban Aid Climbing: How to Spend a Weekend not in the Mountains 
+report_url: /tr/Urban-Aid-Climbing-How-to-Spend-a-Weekend-not-in-the-Mountains/t11169n.html 
+

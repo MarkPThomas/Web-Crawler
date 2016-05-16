@@ -1,0 +1,124 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>Mt. Muir is counted among the 15 California 14ers, but is easily overshadowed by its more famous neighbor, Mt. Whitney. Named for the founding father of the Sierra Club and America's most famous naturalist, Mt. Muir features a class 3 summit block that provides at least some excitement after the long haul up the Mt. Whitney Trail.<br>
+<br>
+For those looking for a bit more adventure, the East Buttress (clearly visible from Trail Camp on the Whitney Trail) is a fine route that provides several multi-pitch variations rated class 4-5.9.<br>
+<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=13800" rel="no_follow"><img src="/images/thumb/13800.jpg"></a></td>
+<td><a href="/view_object.php?object_id=13715" rel="no_follow"><img src="/images/thumb/13715.JPG"></a></td>
+<td><a href="/view_object.php?object_id=16958" rel="no_follow"><img src="/images/thumb/16958.jpg"></a></td>
+<td><a href="/view_object.php?object_id=121811" rel="no_follow"><img src="/images/thumb/121811.jpg"></a></td>
+</tr></table>
+<a name="chapter_2"></a><h2>Getting There</h2>The main trailhead for Mt. Muir is the same as for Mt. Whitney, at the end of the Whitney Portal Rd out of Lone Pine on US395. For more info, see the <a href="http://www.summitpost.com/mountains/mountain_link.pl/mountain_id/45">Mt. Whitney</a> page.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=14687" rel="no_follow"><img src="/images/thumb/14687.JPG"></a></td>
+<td><a href="/view_object.php?object_id=33477" rel="no_follow"><img src="/images/thumb/33477.JPG"></a></td>
+<td><a href="/view_object.php?object_id=33546" rel="no_follow"><img src="/images/thumb/33546.JPG"></a></td>
+<td><a href="/view_object.php?object_id=33478" rel="no_follow"><img src="/images/thumb/33478.JPG"></a></td>
+</tr></table>
+<a name="chapter_3"></a><h2>Red Tape</h2>Yes, there is lots of it. You need a Whitney Zone stamp on your backcountry permit, or a dayhike permit (same as Mt. Whitney) if only going for the day. See the <a href="http://www.summitpost.com/mountains/mountain_link.pl/mountain_id/45">Mt. Whitney</a> page for more details. Even more info on the <a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/4859">Eastern Sierra - Logisitcal Center</a> page.<br>
+<a name="chapter_4"></a><h2>When To Climb</h2>Mt. Muir is generally climbed as a sidetrip by those climbing Mt. Whitney who have a bit more energy than the average Whitney hiker. As such it can be climbed any time of year that Mt. Whitney can, which is to say all year round. Climbs in the winter months are more arduous and should only be undertaken by those skilled in winter mountaineering.<br>
+<a name="chapter_5"></a><h2>Camping</h2>Again, see the <a href="http://www.summitpost.com/mountains/mountain_link.pl/mountain_id/45">Mt. Whitney</a> page for camping information. <br>
+<br>
+Just to show that I'm not riding the coattails of Mt Whitney the whole way, I'll add my two cents:<br>
+The Mt. Whitney page says the two most popular camp locations are Trail Camp and Outpost Camp. You are allowed to camp elsewhere as long you follow all wilderness regulations, but there are few other flat spots off the trail with easy access to water (and of course no toilets). Trail Camp is the prime location for those wanting an easy summit day. Outpost Camp is usually taken up by those who can't get a permit for Trail Camp. Both campsites have zero privacy with the ever-popular Whitney Trail running through the middle of them. If this doesn't bother you, sign up. Otherwise, consider a dayhike, or for the truly adventurous, sleep the night at the summit. Most summer nights are nicer than you might expect on top. And the sunsets/sunrises are spectacular.<br>
+<a name="chapter_6"></a><h2>Mountain Conditions</h2>See the <a href="http://www.summitpost.com/mountains/mountain_link.pl/mountain_id/45">Mt. Whitney</a> page for a list of contacts for up-to-date conditions and information.<br>
+<a name="chapter_7"></a><h2>Etymology</h2>"The great naturalist and mountaineer, John Muir (1838-1914), has been commemorated in the nomenclature of the state more than any other person. Muir Gorge [Yosemite NP]: 'We named this gorge Muir Gorge [in 1894], after John Muir, the first man to go through the canyon' (R. M. Price, Sierra Club Bulletin 1:206). Muir Grove [Sequoia NP] and Pass [Kings Canyon NP] were named by R. B. Marshall in 1909. Muir, Mount and Lake [Tulare Co.]: The name was given to the peak by Alexander G. McAdie of the U. S. Weather Bureau. <br>
+- <b>Erwin Gudde, <i>California Place Names</i></b><br>
+"John Muir (1838-1914), 'born in Scotland, reared in the University of Wisconsin, by final choice a Californian, widely traveled observer of the world we dwell in, man of science and of letters, friend and protector of Nature, uniquely gifted to interpret unto other men her mind and ways.' (Benjamin Ide Wheeler, President of the University of California, conferring the degree of Doctor of Laws on Muir, May 14, 1913.) <br>
+<br>
+Muir was one of the four founders of the Sierra Club, and its first president, 1892-1914. He was the foremost conservationist of his time, a mountain explorer and exponent of the outdoor life. 'John Muir was not a "dreamer," but a practical man, a faithful citizen, a scientific observer, a writer of enduring power, with vision, poetry, courage in a contest, a heart of gold, and a spirit pure and fine.' (Robert Underwood Johnson in SCB 10, no. 1, Jan. 1916: 15. See that issue of SCB, 1-77.) <br>
+<br>
+[Muir Grove was] named by R. B. Marshall, USGS, in 1909. (Farquhar: Marshall.) The name appears on the second edition of the Tehipite 30' map, 1912. On the first edition, 1905, it is simply called 'Big Trees.' <br>
+<br>
+[Muir Lake] first appeared on the Olancha 15-minute quad, 1956. <br>
+<br>
+[Mount Muir] is on the first edition of the Mt. Whitney 30' map, 1907. <br>
+<br>
+The pass was named by R. B. Marshall, USGS, and appears on the first Mt. Goddard 30' map, 1912. It was first crossed with pack stock by a party led by George R. Davis, USGS, in 1907. (SCB 7, no. 1, Jan. 1909:4.) <br>
+<br>
+The hut (not named on the maps) was dedicated in 1933. 'As his work is destined to carry on through the years, so, the hope was expressed, this shelter, dedicated to him, may likewise serve for an untold period of time to offer protection and safety to storm-bound travelers.' (SCB 19, no. 3, June 1934: 7.)" <br>
+- <b>Peter Browning, <i>Place Names of the Sierra Nevada</i></b><br>
+<br>
+"It was the spring of 1868 when a young, lanky, bewhiskered adventurer named John Muir picked his way past Inspiration Point and descended intoYosemite Valley. Muir stood transfixed by the spectacle of nature that unfolded before him. A lifelong love affair developed, an affair so engaging and irrepressible that it came to be embraced by an entire nation. It was, he would later write, 'a glorious wilderness that seemed to be calling with a thousand songful voices ... Beauty beyond thought everywhere, beneath, above, made and being made forever.' With effusive words like those, Muir almost single-handedly championed the fledgling national cause of preservation. <br>
+<br>
+Muir was 11 when his family emigrated from Scotland to Wisconsin in 1849. He worked on the family farm until he was 22 and then enrolled at the University of Wisconsin, studying literature, botany and geology. A mechanical wizard, he dropped out of school and took a job in an Indianapolis carriage shop. The pivotal point in his life occurred in 1867. A file slipped from his grasp and lanced his right eye. His left eye went sympathetically blind. Desperate, Muir vowed to devote his life to the study of the inventions of God should his sight return. When it did, he launched unswervingly into his new vocation as a tramp and embarked on a 1,000-mile journey to the Gulf of Mexico. While recuperating from a bout with malarial fever, Muir read a travel brochure extolling the beauties of a place called Yosemite. In hopes his fever might be cooled with mountain winds and delicious crystal water, Muir sailed to San Francisco and hiked 200 miles to Yosemite. <br>
+<br>
+It was in Yosemite that he crystalized his life's goals. The wilderness became his laboratory for research and temple for worship. 'Climb the mountains and get their good tidings. Nature's peace will flow into you as sunshine flows into trees,' he wrote. 'The winds will blow their own freshness into you and the storms their energy, while cares will drop off like autumn leaves.' <br>
+<br>
+Muir made his home in Yosemite Valley from 1868 to 1873, working as a shepherd, a sawmill operator and guide when he needed money. He spent every spare moment scaling cliffs, sleuthing for glaciers, exploring and sketching mountain meadows and majestic peaks and recording his adventures in journals. He had a masterful way of transmuting physical danger into a kind of spiritual ecstasy. Once, while scaling a sheer wall above Yosemite Valley, he wound up riding a snow avalanche spread-eagle 2,500 feet to the canyon floor. Escaping unscathed, he wrote about the episode, 'Elijah's flight in a chariot of fire could hardly have been more gloriously exciting.' Another time, stranded overnight on a frozen mountaintop, Muir stayed warm by dancing the Highland fling until sunrise. <br>
+<br>
+Muir was the first to recognize that glaciation was largely responsible for carving Yosemite Valley. At the time, the prevailing theory among geologists was that a cataclysmic collapse was responsible. <br>
+<br>
+He wrote compulsively from about 1863 until his death a half century later. His first published work -- an article on glaciers -- appeared in the New York Tribune in 1871. Buoyed by his initial success, Muir became a professional nature writer to finance his mountain sojourns and nature studies. 'John the Baptist was not more eager to get all his fellow sinners into the Jordan than I to baptize all of mine in the beauty of God's mountains,' he wrote. In 1874, Muir was lured away to explore the rest of the Sierra Nevada and Alaska, write, marry and raise a family and run a fruit ranch near Martinez. <br>
+<br>
+On a 1889 Yosemite visit, Muir and close friend Robert Underwood Johnson of Century magazine were appalled to find bare meadows, muddy streams, charred tree stumps, barbed-wire fences and unsightly commercial development. At Johnson's urging, Muir wrote articles focusing on the damage to the environment. The articles and an effective lobbying campaign culminated with the creation of Yosemite National Park on Oct. 1, 1890. <br>
+<br>
+The Father of Yosemite National Park and the Savior of the Sequoias was on personal terms with three presidents and was the guiding light behind the 1906 Antiquities Act, which gave the nation's chief executives the authority to proclaim national monuments. After a 1903 Yosemite camping trip with Muir, Theodore Roosevelt devised a policy that created five national parks and 23 monuments and placed 148 million acres in national forests.Besides Yosemite, Muir was a motivating force in the establishment of Sequoia, King's Canyon, Rainier, Petrified Forest and Grand Canyon national parks. In 1905, Muir, who by then had founded and was president of the Sierra Club, led the crusade that restored Yosemite Valley to federal control. Until then, the valley had been under the state's jurisdiction. <br>
+<br>
+Along with so many successes, defeats were inevitable. The most grievous for Muir was his inability to save Hetch Hetchy Valley from being dammed to provide drinking water for San Francisco. In December 1914, a year after President Woodrow Wilson signed the Raker Act allowing San Francisco to build the dam, Muir left home to wander the Mojave Desert and came down with pneumonia. At 76, he died on Christmas Eve in Los Angeles and was buried behind his Martinez home." <br>
+-<b>Modesto Bee (online)</b><br>
+<br>
+"Then it seemed to me the Sierra should be called not the Nevada or Snowy Range, but the Range of Light. And after ten years spent in the heart of it, rejoicing and wondering, bathing in the glorious floods of light, seeing the sunbursts of morning among the icy peaks, the noonday radiance on the trees and rocks and snow, the flush of the alpenglow, and a thousand dashing waterfalls with their marvelous abundance of irised spray, it still seems to me above all others the Range of Light, the most divinely beautiful of all the mountain chains I have ever seen." <br>
+- <b>John Muir</b><br>
+<br>
+More on John Muir:<br>
+The Sierra Club's <a href="http://www.sierraclub.org/john_muir_exhibit/">John Muir Exhibit</a><br>
+<a href="http://www.sierraclub.org/john_muir_exhibit/writings/">His writings</a> (Many in full text)<br>
+<a name="chapter_8"></a><h2>External Links</h2>
+<ul> <br>
+<li>
+<a href="http://www.stanford.edu/~wacziarg/climbing/WhitneyOct02.html">Mount Whitney, Crooks Peak, Mount Muir TR, October 2002.</a><br>  <br>
+</li>
+<li>
+<a href="http://www-db.stanford.edu/~crespo/Pictures/Langley03">Muir via Whitney Trail</a><br> <br>
+</li>
+<li>
+<a href="http://www.justhiking.com/hikes/2005/08-30whit/whit.htm">Whitney/Muir/Wotan's Throne (08/30/2005)</a><br> <br>
+</li>
+</ul>                                          <a name="chapter_9"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/sierra-fire/175360/c-150495"><img alt="Sierra Fire" src="/images/square/175360.JPG"></a></td>
+<td><a href="/mt-muir-in-winter/378585/c-150495"><img alt="Mt. Muir in Winter" src="/images/square/378585.JPG"></a></td>
+<td><a href="/moon-setting-between-s-brutal-tower-and-aiguille-junior/457500/c-150495"><img alt="Moon setting between S\'Brutal Tower and Aiguille Junior." src="/images/square/457500.JPG"></a></td>
+<td><a href="/mt-muir/631594/c-150495"><img alt="Mt. Muir" src="/images/square/631594.jpg"></a></td>
+<td><a href="/east-side-of-mt-muir-and-sky/64648/c-150495"><img alt="East side of Mt. Muir and sky..." src="/images/square/64648.JPG"></a></td>
+<td><a href="/alpenglow-on-the-east/62529/c-150495"><img alt="Alpenglow on the East..." src="/images/square/62529.jpg"></a></td>
+<td><a href="/mt-muir-3rd-class-route/364878/c-150495"><img alt="Mt. Muir 3rd Class Route" src="/images/square/364878.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/mt-muir-from-the-southwest/20323/c-150495"><img alt=" Mt. Muir from the southwest" src="/images/square/20323.jpg"></a></td>
+<td><a href="/morning-alpenglow-on-mt-muir/457499/c-150495"><img alt="Morning alpenglow on Mt Muir" src="/images/square/457499.JPG"></a></td>
+<td><a href="/the-class-3-way-up-mount/13802/c-150495"><img alt="The class 3 way up Mount..." src="/images/square/13802.jpg"></a></td>
+<td><a href="/camp-alpenglow/911830/c-150495"><img alt="camp alpenglow" src="/images/square/911830.jpg"></a></td>
+<td><a href="/the-summit-block-of-mt-muir/62522/c-150495"><img alt="The summit block of Mt. Muir..." src="/images/square/62522.jpg"></a></td>
+<td><a href="/looking-at-the-new-variation/62526/c-150495"><img alt="Looking at the new variation..." src="/images/square/62526.jpg"></a></td>
+<td><a href="/whitney-panoramic-from-mt-russell/418965/c-150495"><img alt="Whitney Panoramic - From Mt. Russell" src="/images/square/418965.JPG"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/mount-muir/images/p-150495">View Gallery - 89 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty:  
+elevation: 14012 
+grade:  
+id: 150495 
+latitude: 36.5639 
+location: California, United States, North America 
+longitude: -118.2911 
+my_route_quality:  
+name: Mount Muir 
+number_of_pitches:  
+page_url: http://www.summitpost.org/mount-muir/150495 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons:  
+time_required:  
+type: Mountain-Rock 
+

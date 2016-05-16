@@ -56,6 +56,7 @@ date:
 difficulty:  
 elevation:  
 grade: III 
+hits: 1869  
 id: 166654 
 latitude: 37.14 
 location: California, United States, North America 
@@ -64,6 +65,9 @@ my_route_quality:
 name: South Ridge 
 number_of_pitches:  
 page_url: http://www.summitpost.org/south-ridge/166654 
+parent_code: 151233 
+parent_name: Clyde Spires 
+parent_url: /clyde-spires/151233 
 rock_difficulty: Class 4 
 route_quality: 0.8 
 route_type: Scrambling 

@@ -69,6 +69,7 @@ date:
 difficulty: II, cl. 3, Moderate Snow 
 elevation:  
 grade:  
+hits: 4425  
 id: 165734 
 latitude: 40.5939 
 location: Utah, United States, North America 
@@ -77,6 +78,9 @@ my_route_quality:
 name: North Ridge 
 number_of_pitches:  
 page_url: http://www.summitpost.org/north-ridge/165734 
+parent_code: 150522 
+parent_name: Broads Fork Twin Peaks 
+parent_url: /broads-fork-twin-peaks/150522 
 rock_difficulty:  
 route_quality: 1.0 
 route_type: Scramble, Snow Climb 

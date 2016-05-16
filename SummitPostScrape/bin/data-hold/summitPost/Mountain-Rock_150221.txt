@@ -215,6 +215,7 @@ date:
 difficulty:  
 elevation: 14246 
 grade:  
+hits: 190605  
 id: 150221 
 latitude: 37.6344 
 location: California, United States, North America 
@@ -223,6 +224,9 @@ my_route_quality:
 name: White Mountain Peak 
 number_of_pitches:  
 page_url: http://www.summitpost.org/white-mountain-peak/150221 
+parent_code: 171605 
+parent_name: Inyo-White Mountains 
+parent_url: /inyo-white-mountains/171605 
 rock_difficulty:  
 route_quality:  
 route_type:  

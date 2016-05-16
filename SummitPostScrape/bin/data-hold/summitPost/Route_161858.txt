@@ -128,6 +128,7 @@ date:
 difficulty: III, 5.5 (5.8-5.9 to climb the summit block) 
 elevation:  
 grade:  
+hits: 6288  
 id: 161858 
 latitude: 37.0981 
 location: California, United States, North America 
@@ -136,6 +137,9 @@ my_route_quality:
 name: Northwest Ridge 
 number_of_pitches:  
 page_url: http://www.summitpost.org/northwest-ridge/161858 
+parent_code: 150222 
+parent_name: Thunderbolt Peak 
+parent_url: /thunderbolt-peak/150222 
 rock_difficulty:  
 route_quality: 0.8 
 route_type: Technical Rock Climb, possible Ice Climb 

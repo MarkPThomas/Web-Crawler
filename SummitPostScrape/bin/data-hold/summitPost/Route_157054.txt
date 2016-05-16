@@ -171,6 +171,7 @@ date:
 difficulty: Class 4 
 elevation:  
 grade:  
+hits: 13691  
 id: 157054 
 latitude: 37.3681 
 location: California, United States, North America 
@@ -179,6 +180,9 @@ my_route_quality:
 name: Northeast Ridge 
 number_of_pitches:  
 page_url: http://www.summitpost.org/northeast-ridge/157054 
+parent_code: 150612 
+parent_name: Bear Creek Spire 
+parent_url: /bear-creek-spire/150612 
 rock_difficulty:  
 route_quality: 1.0 
 route_type: rock climbing 

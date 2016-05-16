@@ -72,6 +72,7 @@ date:
 difficulty:  
 elevation: 13225 
 grade:  
+hits: 22838  
 id: 151241 
 latitude: 37.242 
 location: California, United States, North America 
@@ -80,6 +81,9 @@ my_route_quality:
 name: Mount Emerson 
 number_of_pitches:  
 page_url: http://www.summitpost.org/mount-emerson/151241 
+parent_code: 170988 
+parent_name: John Muir Wilderness 
+parent_url: /john-muir-wilderness/170988 
 rock_difficulty:  
 route_quality:  
 route_type:  

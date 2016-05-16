@@ -52,6 +52,7 @@ date:
 difficulty:  
 elevation: 11321 
 grade:  
+hits: 18439  
 id: 151839 
 latitude: 40.533 
 location: Utah, United States, North America 
@@ -60,6 +61,9 @@ my_route_quality:
 name: White Baldy 
 number_of_pitches:  
 page_url: http://www.summitpost.org/white-baldy/151839 
+parent_code: 171209 
+parent_name: Wasatch Range (Central) 
+parent_url: /wasatch-range-central/171209 
 rock_difficulty:  
 route_quality:  
 route_type:  

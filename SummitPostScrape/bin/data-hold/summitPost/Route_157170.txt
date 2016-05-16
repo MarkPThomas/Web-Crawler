@@ -37,10 +37,10 @@ For current updates contact climbing rangers at Mt. Shasta Ranger Station (530) 
 <td><a href="/upper-green-butte-ridge/270572/c-157170"><img alt="Upper Green Butte Ridge" src="/images/square/270572.JPG"></a></td>
 </tr>
 <tr>
-<td><a href="/approach-to-green-butte-ridge/799780/c-157170"><img alt="Approach to Green Butte Ridge" src="/images/square/799780.jpg"></a></td>
-<td><a href="/sunrise-on-shastarama-point/598583/c-157170"><img alt="Sunrise on Shastarama Point" src="/images/square/598583.jpg"></a></td>
 <td><a href="/the-rime-traverse/598644/c-157170"><img alt="The Rime Traverse" src="/images/square/598644.jpg"></a></td>
 <td><a href="/there-is-nothing-green-about-green-butte/317326/c-157170"><img alt="There is Nothing Green about Green Butte" src="/images/square/317326.JPG"></a></td>
+<td><a href="/approach-to-green-butte-ridge/799780/c-157170"><img alt="Approach to Green Butte Ridge" src="/images/square/799780.jpg"></a></td>
+<td><a href="/sunrise-on-shastarama-point/598583/c-157170"><img alt="Sunrise on Shastarama Point" src="/images/square/598583.jpg"></a></td>
 <td><a href="/jason-and-griff-on-green/41040/c-157170"><img alt="Jason and Griff on Green..." src="/images/square/41040.jpg"></a></td>
 <td><a href="/game-over/598569/c-157170"><img alt="Game Over!" src="/images/square/598569.jpg"></a></td>
 <td><a href="/final-chute-to-the-sargents-traverse/598579/c-157170"><img alt="Final Chute to the Sargents Traverse" src="/images/square/598579.jpg"></a></td>
@@ -52,6 +52,7 @@ date:
 difficulty: Grade II - Class 3/35-55 degree slopes 
 elevation:  
 grade:  
+hits: 22756  
 id: 157170 
 latitude: 41.4094 
 location: California, United States, North America 
@@ -60,6 +61,9 @@ my_route_quality:
 name: Green Butte Ridge 
 number_of_pitches:  
 page_url: http://www.summitpost.org/green-butte-ridge/157170 
+parent_code: 150188 
+parent_name: Mount Shasta 
+parent_url: /mount-shasta/150188 
 rock_difficulty:  
 route_quality: 0.8923076923076924 
 route_type: Mountaineering, Scrambling, Skiing 

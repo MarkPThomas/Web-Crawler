@@ -74,6 +74,7 @@ date:
 difficulty:  
 elevation: 10377 
 grade:  
+hits: 25510  
 id: 151086 
 latitude: 37.591 
 location: California, United States, North America 
@@ -82,6 +83,9 @@ my_route_quality:
 name: Crystal Crag 
 number_of_pitches:  
 page_url: http://www.summitpost.org/crystal-crag/151086 
+parent_code: 662262 
+parent_name: Mammoth Lakes Basin 
+parent_url: /mammoth-lakes-basin/662262 
 rock_difficulty:  
 route_quality:  
 route_type:  

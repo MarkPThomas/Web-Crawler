@@ -437,6 +437,7 @@ date:
 difficulty:  
 elevation: 13140 
 grade:  
+hits: 120610  
 id: 150452 
 latitude: 37.8461 
 location: Nevada, United States, North America 
@@ -445,6 +446,9 @@ my_route_quality:
 name: Boundary Peak (Nevada) 
 number_of_pitches:  
 page_url: http://www.summitpost.org/boundary-peak-nevada/150452 
+parent_code: 171605 
+parent_name: Inyo-White Mountains 
+parent_url: /inyo-white-mountains/171605 
 rock_difficulty:  
 route_quality:  
 route_type:  

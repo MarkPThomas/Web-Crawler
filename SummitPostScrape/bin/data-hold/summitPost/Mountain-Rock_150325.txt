@@ -349,6 +349,7 @@ date:
 difficulty:  
 elevation: 14440 
 grade:  
+hits: 419470  
 id: 150325 
 latitude: 39.1178 
 location: Colorado, United States, North America 
@@ -357,6 +358,9 @@ my_route_quality:
 name: Mount Elbert 
 number_of_pitches:  
 page_url: http://www.summitpost.org/mount-elbert/150325 
+parent_code: 171834 
+parent_name: Sawatch Range 
+parent_url: /sawatch-range/171834 
 rock_difficulty:  
 route_quality:  
 route_type:  

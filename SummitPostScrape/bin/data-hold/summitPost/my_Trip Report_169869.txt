@@ -179,6 +179,7 @@ date: Aug 7, 2004
 difficulty:  
 elevation:  
 grade:  
+hits: 6999  
 id: 169869 
 latitude: 38.0928 
 location: California, United States, North America 
@@ -187,6 +188,9 @@ my_route_quality:
 name: North Arete of Matterhorn Peak 
 number_of_pitches:  
 page_url: http://www.summitpost.org/north-arete-of-matterhorn-peak/169869 
+parent_code: 150488 
+parent_name: Matterhorn Peak 
+parent_url: /matterhorn-peak/150488 
 rock_difficulty:  
 route_quality:  
 route_type:  

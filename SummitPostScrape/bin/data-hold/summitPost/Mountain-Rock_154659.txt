@@ -58,6 +58,7 @@ date:
 difficulty:  
 elevation: 12967 
 grade:  
+hits: 12396  
 id: 154659 
 latitude: 37.1179 
 location: California, United States, North America 
@@ -66,6 +67,9 @@ my_route_quality:
 name: Mount Robinson 
 number_of_pitches:  
 page_url: http://www.summitpost.org/mount-robinson/154659 
+parent_code: 171074 
+parent_name: Palisades 
+parent_url: /palisades/171074 
 rock_difficulty:  
 route_quality:  
 route_type:  

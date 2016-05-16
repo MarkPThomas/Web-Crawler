@@ -1,0 +1,193 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>
+<center>
+<a target="top" href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__167673__object_id__2099__type__mountain__mountain_id__2099__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.org/images/original/114927.JPG" title="Grandeur Peak Routes"></a><br>
+<br><br>
+<b>Overview of Routes on Grandeur Peak</b>
+</center>
+<br>
+<br>
+Grandeur Peak is the western-most peak on the ridge separating Parleys Canyon on the north and Mill Creek Canyon on the south.  Its proximity to the Salt Lake valley makes it a popular hike, which can be completed in several hours or less.  For more advanced hikers, Grandeur Peak is the starting point of the challenging <a href="http://www.summitpost.org/show/route_link.pl/route_id/4600/object_id/2099">Mill Creek Ridge</a> route.<br>
+<br>
+Distance of ±6.0 miles round trip from the trailhead at the end of Church Fork Road, with an elevation gain of 2,340 feet.  The Church Fork trailhead elevation is 5,960 feet.<br>
+<br>
+The steeper West Ridge route gains approximately 3,200 feet in just 2.5 miles.  This gives an elevation gain of 1,280 ft/mile, undoubtably one of the steepest hikes on the Wasatch Front.<br>
+<br>
+USGS Quads:<br>
+<li>Sugar House, Utah  (1:24k)<br>
+</li>
+<li>Mount Aire, Utah  (1:24k)<br>
+</li>
+<li>Salt Lake City, Utah  (1:100k)<br>
+<br>
+<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=75895" rel="no_follow"><img src="/images/thumb/75895.jpg"></a></td>
+<td><a href="/view_object.php?object_id=81117" rel="no_follow"><img src="/images/thumb/81117.jpg"></a></td>
+<td><a href="/view_object.php?object_id=26010" rel="no_follow"><img src="/images/thumb/26010.jpg"></a></td>
+<td><a href="/view_object.php?object_id=81115" rel="no_follow"><img src="/images/thumb/81115.jpg"></a></td>
+<td><a href="/view_object.php?object_id=99691" rel="no_follow"><img src="/images/thumb/99691.jpg"></a></td>
+</tr></table>
+<a name="chapter_2"></a><h2>Getting There</h2>The most common routes which are used to ascend Grandeur Peak include:<br>
+<br>
+<a href="http://www.summitpost.org/show/route_link.pl/route_id/1999/object_id/2099"><b>Church Fork</b></a>: <br>
+From I-215 on the east side of Salt Lake valley, take either the 3300 or 3900 South exit, and proceed east to Wasatch Boulevard.  Follow Wasatch Boulevard to 3800 South, and look for signs to Mill Creek Canyon.  Proceed approximately 3.75 miles up Mill Creek Canyon to the Church Fork picnic area on the left.  Park either along the road or in the small parking area at the trailhead, approximately ½ mile from the main road.<br>
+<br>
+<a href="http://www.summitpost.org/show/route_link.pl/route_id/2040/object_id/2099"><b>West Slopes</b></a>:<br>
+From I-215 on the east side of Salt Lake valley, take the 3300 South exit, and proceed east to Wasatch Boulevard.  For northbound traffic there is no offramp at 3300 South, so take the 3900 South exit and follow Wasatch Boulvard north approximately 1 mile to 3300 South.  From the intersection with 3300 South, follow Wasatch Boulevard north to approximately 2900 South, where a gated parking area marks the end of the road and the trailhead.<br>
+<br>
+<a href="http://www.summitpost.org/show/route_link.pl/route_id/4363/object_id/2099"><b>Pharaohs Glen</b></a>:<br>
+This route begins near exit 131 of I-80, approximately 2 miles east from the mouth of Parleys Canyon.  There is no offramp at this exit for eastbound traffic; proceed another mile east along I-80 to exit 132, then backtrack one mile west to exit 131.  Westbound traffic may exit directly at exit 131.<br>
+<br>
+<a href="http://www.summitpost.org/show/route_link.pl/route_id/5069/object_id/2099"><b>Dragon's Tail Ridge</b></a>:<br>
+Begins from same trailhead as the West Slopes route.<br>
+<br>
+See the 'Routes' section of this page for details on ascending the peak from each of these routes.<br>
+<br>
+<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=25013" rel="no_follow"><img src="/images/thumb/25013.JPG"></a></td>
+<td><a href="/view_object.php?object_id=25011" rel="no_follow"><img src="/images/thumb/25011.JPG"></a></td>
+<td><a href="/view_object.php?object_id=25014" rel="no_follow"><img src="/images/thumb/25014.JPG"></a></td>
+<td><a href="/view_object.php?object_id=25009" rel="no_follow"><img src="/images/thumb/25009.JPG"></a></td>
+<td><a href="/view_object.php?object_id=25010" rel="no_follow"><img src="/images/thumb/25010.JPG"></a></td>
+</tr></table>
+<a name="chapter_3"></a><h2>Red Tape</h2>
+<u><i>Church Fork</i></u><br>
+This route begins in Mill Creek Canyon, which is a fee area.  A toll booth is located approximately 1.5 miles up the canyon, and collects a fee of $3.00 per vehicle as you <font color="red"><b>exit</b></font> the canyon.  Annual passes may also be purchased for $40.00  There is only room for 8 cars at the trailhead in Church Fork picnic area, and the picnic area gate closes at 10:00 pm. Parking in the picnic area parking stalls for trailhead access is not permitted.<br>
+<br>
+<u><i>West Slopes</i></u><br>
+Although it begins from a public access area, this route passes very near a residential area; be considerate of the property owners when passing near these areas.  The trailhead parking area gate is closed at 10:00pm each night, so plan your return to the trailhead accordingly.  The beginning of this route has been closed due to trail restoration since early summer 2011 - a short (±0.1 mile) trail to the north bypasses this area.<br>
+<br>
+<u><i>Pharaohs Glen</i></u><br>
+This route begins on private property.  Be very respectful of the property owners when using this route, and be aware that the owners reserve the right to deny access at any time.<br>
+<br>
+<u><i>Dragon's Tail Ridge</i></u><br>
+Same as West Slopes route.<br>
+<br>
+<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=99930" rel="no_follow"><img src="/images/thumb/99930.jpg"></a></td>
+<td><a href="/view_object.php?object_id=107558" rel="no_follow"><img src="/images/thumb/107558.jpg"></a></td>
+<td><a href="/view_object.php?object_id=47883" rel="no_follow"><img src="/images/thumb/47883.JPG"></a></td>
+<td><a href="/view_object.php?object_id=122392" rel="no_follow"><img src="/images/thumb/122392.jpg"></a></td>
+</tr></table>
+<a name="chapter_4"></a><h2>Additional Information</h2>Additional web sites of interest:<br>
+</li>
+<li>
+<a href="http://fs.usda.gov/wps/portal/fsinternet/!ut/p/c5/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjAwhwtDDw9_AI8zPwhQoY6IeDdGCqCPOBqwDLG-AAjgb6fh75uan6BdnZaY6OiooA1tkqlQ!!/dl3/d3/L2dJQSEvUUt3QS9ZQnZ3LzZfMjAwMDAwMDBBODBPSEhWTjBNMDAwMDAwMDA!/?ss=110419&amp;navtype=forestBean&amp;navid=091000000000000&amp;pnavid=null&amp;cid=null&amp;ttype=main&amp;pname=Wasatch-Cache%20National%20Forest%20-%20Home/">Uinta-Wasatch-Cache</a> National Forest Website<br>
+</li>
+<li>Climb-Utah <a href="http://climb-utah.com/WM/grandeur.htm">Grandeur Peak</a> Page<br>
+</li>
+<li>Utah <a href="http://www.avalanche.org/~uac/">Avalanche Center</a> website<br>
+<a name="chapter_5"></a><h2>Web Cam</h2>Webcam looking up the west ridge of Grandeur Peak.<br>
+<br>
+<img src="http://img.bonnint.net/slc/weather/cam_uppermillcreek.jpg"><a name="chapter_6"></a><h2>Mountain Conditions</h2>The 7-day forecast below is for the Wasatch Front valleys - expect considerably colder and more severe weather in the mountains.<br>
+<br>
+<center><img width="440" height="297" src="http://connect2utah.com/wx/kutv_saltlake_7day_16x9.jpg"></center>                                                                                                                                                                                                                                                                                                                          <div align="center">
+<a name="messages"></a><a name="chapter_7"></a><h2>Additions and Corrections</h2>[ <a href="/object_discussion.php?type=vote_comments&amp;object_id=151751&amp;is_addition=1#vote_form">Post an Addition or Correction</a> ]<table cellpadding="0" cellspacing="0" style="width: 775px;"><tr><td><table cellpadding="2" cellspacing="2" width="100%"><tr>
+<td align="left"><span class="pagertext">Viewing: <b>1</b>-<b>2</b> of <b>2</b></span></td>
+<td align="center"></td>
+<td align="right">    </td>
+</tr></table></td></tr></table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="373149"></a> <a class="dis_user_lnk" href="/users/sarah-simon/35029">Sarah Simon</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Minor typo</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/sarah-simon/35029"><img alt="Sarah Simon" width="50" height="50" border="0" src="/images/avatars/909498.jpg"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">Hey there,<br><br>
+<br><br>
+Very minor spelling error in the "Getting There" section that I wish to bring to your attention as a courtesy:<br><br>
+<br><br>
+Church Fork<br><br>
+This route begins in Mill Creek Canyon, which is a fee area. A toll booth is located approximately 1.5 miles up the canyon, and collects a fee of $3.00 per vehicle as you exit the canyon. Annual passes may also be purchased for $40.00 There is only room for 8 cars at the trailhead in <b>Chuch</b> Fork picnic area, and the picnic area gate closes at 10:00 pm. Parking in the picnic area parking stalls for trailhead access is not permitted.<br><br>
+<br><br>
+I think you meant <i>Chu<b>r</b>ch</i> instead of <i>Chuch</i>.<br><br>
+<br><br>
+Safe climbing,<br><br>
+<br><br>
+Sarah</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Apr 5, 2010 6:58 pm</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="373235"></a> <a class="dis_user_lnk" href="/users/joseph-bullough/15930">Joseph Bullough</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Oops...</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/joseph-bullough/15930"><img alt="Joseph Bullough" width="50" height="50" border="0" src="/images/avatars/618932.jpg"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">I've owned this page for quite a few years.  Amazing that a typo survived that long.  It's fixed now.<br><br>
+<br><br>
+Thanks...</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Apr 6, 2010 8:51 am</span></td></tr>
+</table>
+<br><table border="0" width="775"><tr><td><table cellpadding="2" cellspacing="2" width="100%"><tr>
+<td align="left"><span class="pagertext">Viewing: <b>1</b>-<b>2</b> of <b>2</b></span></td>
+<td align="center"></td>
+<td align="right">    </td>
+</tr></table></td></tr></table>
+<br>
+</div>
+<a name="chapter_8"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/grandeur-peak/467307/c-151751"><img alt="Grandeur Peak" src="/images/square/467307.JPG"></a></td>
+<td><a href="/grandeur-peak/525338/c-151751"><img alt="Grandeur Peak" src="/images/square/525338.JPG"></a></td>
+<td><a href="/grandeur-peak/826032/c-151751"><img alt="Grandeur Peak" src="/images/square/826032.JPG"></a></td>
+<td><a href="/user-profile-image/190889/c-151751"><img alt="User Profile Image" src="/images/square/190889.JPG"></a></td>
+<td><a href="/grandeur-peak/581348/c-151751"><img alt="Grandeur Peak" src="/images/square/581348.JPG"></a></td>
+<td><a href="/false-solomon-seal-below-grandeur/415549/c-151751"><img alt="False Solomon-Seal below Grandeur" src="/images/square/415549.JPG"></a></td>
+<td><a href="/grandeur-peak/595002/c-151751"><img alt="Grandeur Peak. " src="/images/square/595002.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/sunset-from-granduer/545752/c-151751"><img alt="Sunset from Granduer" src="/images/square/545752.JPG"></a></td>
+<td><a href="/grandeur-peak-sunset/378908/c-151751"><img alt="Grandeur Peak Sunset" src="/images/square/378908.jpg"></a></td>
+<td><a href="/rays-of-dawn-on-grandeur/422638/c-151751"><img alt="Rays of dawn on Grandeur" src="/images/square/422638.JPG"></a></td>
+<td><a href="/grandeur-tree/538628/c-151751"><img alt="Grandeur Tree" src="/images/square/538628.JPG"></a></td>
+<td><a href="/gobblers-knob-from-the-summit-of/581350/c-151751"><img alt="Gobblers Knob from the summit of.." src="/images/square/581350.JPG"></a></td>
+<td><a href="/grandeur-peak-1-9-2011/690804/c-151751"><img alt="Grandeur Peak, 1/9/2011" src="/images/square/690804.JPG"></a></td>
+<td><a href="/en-route-to-grandeur-peak/171425/c-151751"><img alt="En route to Grandeur Peak" src="/images/square/171425.JPG"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/grandeur-peak/images/p-151751">View Gallery - 94 More Images</a> ]</td></tr>
+</table></div>
+            </li></article> 
+date:  
+difficulty:  
+elevation: 8299 
+grade:  
+id: 151751 
+latitude: 40.707 
+location: Utah, United States, North America 
+longitude: -111.7592 
+my_route_quality:  
+name: Grandeur Peak 
+number_of_pitches:  
+page_url: http://www.summitpost.org/grandeur-peak/151751 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons:  
+time_required:  
+type: Mountain-Rock 
+

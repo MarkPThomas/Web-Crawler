@@ -1,0 +1,202 @@
+activities: Mountaineering, Mixed, Scrambling 
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Stats</h2>
+<noformat><table border="0" cellpadding="2" cellspacing="1">  
+<tr>
+<td width="40%">
+<ul>  
+<li>
+<b>Routes:</b> Banner Pk - <a href="http://www.summitpost.org/show/route_link.pl/route_id/1089/object_id/950">West Slope</a>  Ritter - <a href="http://www.summitpost.org/show/route_link.pl/route_id/1960/object_id/363">North Face</a>, <a href="">West Slopes</a>, <a href="http://www.summitpost.org/show/route_link.pl/route_id/270/object_id/363">SE Glacier: Clyde Variation</a>  
+</li>
+<li>
+<b>Ascent Route:</b> Mammoth Ski Lodge – Agnew Meadows –Ediza Lake – Ritter/Banner Saddle – South West Slopes – North Face: Classic Variation – West Slopes   
+</li>
+<li>
+<b>Descent Route:</b> South East Glacier: Clyde Variation –Ediza Lake – Agnew Meadows – Mammoth Ski Lodge
+</li>
+<li>
+<b>Elevation Gained:</b> 7,990 ft (Day 1: 1,780 ft, Day 2: 4,800 ft, Day 3: 1,330 ft)   
+</li>
+<li>
+<b>RT Distance:</b> 26.68 miles (Day 1:10.74 miles, Day 2: 7.7 miles, Day 3: 8.24 miles)   
+</li>
+<li>
+<b>RT Time:</b> 3 Days   
+</li>
+<li>
+<b>Trailhead:</b> Mammoth Ski Lodge  
+</li>
+<li>
+<b>TH Elevation:</b> TBA  
+</li>
+<li>
+<b>Summit Elevs.:</b> Banner -12,945  Ritter - 13,143'  
+</li>
+<li>
+<b>Rating:</b> II Class 3, Steep Snow  
+</li>
+<li>
+<b>Climbers:</b>  <a href="http://www.summitpost.org/mountains/user_link.pl?user_id=13451" target="0">Mark Thomas</a>, Kevin Long, Mike Shen, <a href="http://www.summitpost.org/mountains/user_link.pl/user_name/crag" target="0">Dan King</a>
+</li>
+</ul>
+</td>  
+
+<td>
+<center>
+<a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__97974__object_id__363__type__mountain__mountain_id__363__route_id____user_id____order_by____limit__" target="0"><img src="http://www.summitpost.com/images/97974.jpg" height="300"></a>
+</center>
+</td>  
+</tr>
+</table></noformat>     <br>
+<br>
+   <a name="chapter_2"></a><h2>May 23, 2004 </h2>Joel Wilson, Mike Shen, and Mateusz Matolek and I celebrated our successful climb of Mt Williamson the day before by stuffing ourselves in a Big Pine restaurant. We had hiked out from Anvil Camp early, and Mike and I needed to meet up with Dan King for our next mountaineering trip, so we called his cell and set up a meeting place where we were eating.   <br>
+<br>
+Dan was an SPer from San Diego who wanted to join my trip to climb Banner Peak and Mt Ritter together as a snow climb. Kevin Long, a UC Berkeley student with whom I had climbed Lassen Pk earlier in the year, was also interested in the climb. He was going to meet us up at some hot springs north of Bishop. It was a precarious arrangement since Mike and I didn’t have a ride back to the Bay Area after the trip. The best arrangement we could make was for Dan or Kevin to drop us off in Fresno so that we could take a Greyhound back to Berkeley.   <br>
+<br>
+Dan arrived shortly after we had begun eating, appearing rather sullen – things had been going badly at work and it was unlikely that he could join us on the trip. Nevertheless, he had booked a motel room in Mammoth in hopes of finishing his work Monday and joining us on our trip, since we hadn’t planned on leaving until Tuesday. Developments at his work had taken a turn for the worst and it looked less likely that he could join us since he made these arrangements.   <br>
+<br>
+After breaking the bad news, transferring gear between vehicles, and saying goodbye to Joel and Mateusz, Dan, Mike, and I drove up to the hot springs to look for Kevin. He wasn’t at the first few private ones we searched, but we soon found him at the larger hot springs that heated a river in the area. He was lounging with a bunch of ski bums from Mammoth when we arrived, and I joined him for a brief soak in the springs before we headed out to Mammoth.   <br>
+<br>
+The weather forecast had been looking dour since the week before and it had gotten steadily worse since I had left for Williamson. We checked the forecast at the Mammoth ranger station and saw that afternoon and evening showers were expected for Tuesday through Friday, with chances of precipitation increasing each day. Also, thunderstorms were forecast for Wednesday, our planned summit day. Because the storm cells were localized to afternoon activity, and the snow would be soft and sloppy by then anyways, we decided that the weather could be avoided by getting off the peaks by 3pm, which was the ideal plan anyways – we would just have to take turnaround times more seriously. To avoid the worst weather on Wednesday, we would have to bump our trip schedule up by a day, leaving Monday afternoon and summitting Tuesday. This wasn’t good news for Dan, and he had given up hope of being able to join us, but Kevin, Mike, and I still held out, deciding on a reasonably late departure time on Monday in hopes that Dan could resolve his work problems by then.   <br>
+<br>
+<br>
+<a name="chapter_3"></a><h2>May 24, 2004</h2>Our hopes were suddenly destroyed when Dan got a phone call Monday morning from the motel clerk – his rental car, which had been parked in the motel’s parking structure, was found without any tires or rims, resting on two cinder blocks and two car jacks. According to the police, this sort of thing had never happened in Mammoth before. Dan was truly experiencing the trip from hell. By this time there was nothing Kevin, Mike, or I could do to help him, and he certainly would be unable to join us on the climb, so we wished him luck and set out. Luckily for Dan, the thieves were dumb enough to be seen near the police station with the stolen wheels and rims later that day and were promptly arrested, and Dan’s insurance covered any remaining expenses.   <br>
+<br>
+The SR 201 was still closed at the Mammoth ski lodge, even though it was free of snow, so we had to park at the resort and walk the 5 miles of road to Agnew Meadows. Overall, we had a 10.74 mile hike and 1,780 feet to gain to reach our planned campsite on some tree-covered hills west of Ediza Lake. Oddly, there were artificially frosted pine trees lining the road between Mammoth Ski Resort and Minaret Summit. When we reached Minaret Summit, we walked across the open meadow to get a nice view of our climbing objectives before short-cutting down the open slope to the road. We made good progress on the road while keeping at a relaxed yet steady pace. Midway down the road we met two backpackers heading out from Shadow Lake. According to them the snow was solid and began between Shadow Lake and Ediza Lake. The occasional forest service car that drove by us rubbed in the irritation of having to walk in on a clear road, and we were more than happy to get off of it.   <br>
+<br>
+At Agnew Meadows we stopped for a food break, where Kevin and I experimented with ways to eat up the jar of peanut butter that we had brought for a source of concentrated calories. I came up with a yummy combination of spreading peanut butter on the cream of an Oreo cookie and putting the cookie back together. As a trail food, it tasted surprisingly good. Sadly, my idea of wrapping a ball of peanut butter in a wad of sandwich meat proved less palatable, even after two days out.   <br>
+<br>
+Our next good view of Banner and Ritter was at Shadow Lake. It was late afternoon by then and the long shadows made the glacier between them, now in full view, look extremely steep. Kevin expressed his doubts about the climb, but I had experienced similar views before, and reassured him that the route wasn’t nearly as steep as it looked. I was caught off guard by how much snow was still up there, though. Snow line on my earlier trip to climb Mt Corcoran and LeConte was at 10,500 ft, and Mt Williamson was nearly melted out the day before. The snow line here began at 9,000 feet.   <br>
+<br>
+By the time we reached Ediza Lake the trail was no longer visible, and we took off along the north side of the lake, scrambling along the cliffs at the mouth of the lake before crawling over a combination of snow, talus, and brush on the north shore. We were too eager to head up the slopes and left the shore of the lake too early. After scrambling through a series of cliffs and realizing our error, we backtracked and found a nice campsite under some pine trees and next to a river that was fed by the glacier above. The camp was on the edge of a granite cliff, so we had a dry place to sit and prepare food and a gorgeous view of Clyde Minaret.   <br>
+<br>
+<br>
+Since I still had plenty of energy, I ran on up the valley wearing nothing but boots, shorts, and a t-shirt to get a better view of our route. I managed to climb about 300 vertical feet to the bowl below the cliffs that contained the glacier that we would climb the following day. I picked a route staying to the east side of the lower cliffs, staying to the edge of the glacier, before ascending a narrow chute to bypass the cliffs and gain the saddle. There were no signs of crevasses, rock fall, or recent avalanching activity. By then the sun was setting and my bare skin was getting numb, so I stumbled down the never-ending series of drainage channels, some of which were several feet deep, before getting back to camp. Coming down I was able to pick out an easier route through these ridges than when coming up, and following my footprints the following morning in the dark proved very helpful for making efficient progress up the mountain.   <br>
+<br>
+<div align="center" class="image" style="width: 506px;">
+<a href="/kevin-long-framing-tomorrow-s-objective/61473"><img alt="Kevin Long Framing Tomorrow s Objective" height="375" width="500" src="/images/medium/61473.jpg"></a><br><span class="caption">Kevin Long framing tomorrow's objective</span>
+</div>
+<br>
+<br>
+I arrived at camp just in time to watch the evening alpenglow illuminate Clyde Minaret. Kevin and I climbed a hill next to our camp to catch one last glimpse of it illuminating Banner Peak and Mount Ritter. That night we estimated our travel times and set up an itinerary. At the most optimistic, we would wake up at 4:30 am and be hiking by 5:00 am. We planned to reach the saddle by 7am, Banner’s summit by 8am, and Ritter’s summit by 11am, and be back at camp at 1pm. At the latest, we should be leaving the saddle to climb Ritter no later than noon, and aim to be back at camp by no later than 3pm.   <br>
+<a name="chapter_4"></a><h2>May 25, 2004</h2>
+<div align="center" class="image" style="width: 506px;">
+<a href="/may-25th-2004-banner-peak/61474"><img alt="May 25th, 2004 - Banner Peak..." height="375" width="500" src="/images/medium/61474.jpg"></a><br><span class="caption">Banner Peak</span>
+</div>
+<br>
+<br>
+The next morning we were up and out of camp by 5:10 am and made excellent progress up to the saddle. The snow was ice encrusted, and all was quiet except for the sounds of labored breathing and the crunching of crampon points biting into the frozen crust. It only got down to 14<sup>o</sup> F the night before, but with the temperature still hovering around 25<sup>o</sup>, the snow was perfect for cramponing. We stopped a few times to watch the sun rise as we ascended the snow slopes, and photographed the alpenglow on the immense rock faces of Banner and Ritter just at we passed the first set of cliffs. As we traveled up the glacier, the sound of chirping became prominent against the wind, and I saw a few birds hopping around on the snow around us – quite an odd site to see on a snow wasteland at 11,500 ft, over a thousand feet above tree level. They must have been eating bugs encrusted in the snow - I’ve often seen moths and bees stuck in the snow up to and beyond 14,000 feet, perhaps carried up by warm updrafts before getting trapped in the cold high-altitude air.   <br>
+<br>
+ <div align="center" class="image-left" style="width: 494px;">
+<a href="/may-25th-2004-the-route-we/61566"><img alt="May 25th, 2004 - The route we..." height="650" width="488" src="/images/original/61566.jpg"></a><br><span class="caption">The North Face of Mt Ritter</span>
+</div>
+<br>
+<br>
+The final chute above the glacier was interesting, with slopes reaching 40<sup>o</sup> near the top, providing a good opportunity to practice my French technique on some steep slopes. Luckily there was no cornice at the top, and the saddle was easily gained by 6:30 am. After caching most of our gear at the saddle (and water bottles in direct sunlight to keep them from freezing), the three of us began scrambling up the bare, windswept southwest slopes of Banner Peak. The summit was only 900 feet above us at this point. Wind and solar loading had eliminated all of the snow on this apart from a few slivers in some subtle indentations farther west, so the climb was mostly a scree and talus slog until we got within about 200 feet of the summit ridge, where solid basalt cliffs offered some fun class 3 chimney climbing. I topped out on what appeared to be the summit, but I couldn’t find a register! I couldn’t tell if some of the other bumps on the summit ridge were higher, so I down-climbed, traversed, and ascended all of the potential summits. The summit ridge was very rugged, with a sheer drop off down the north face and solid class 3 scrambling along the south side of the ridge. Alas, after much searching, we gave up on finding the summit register and headed back down to the saddle.   <br>
+<br>
+From the summit of Banner Peak we saw that the classic variation on the North Face had good snow cover and didn’t look too steep, so we chose to ascend this route. It soon proved to be steeper and harder than expected. Slopes reached a sustained 40<sup>o</sup> and the snow was hard packed. After gaining the first 300 vertical feet of our 1,000 foot climb, we reached the first band of class 3 cliffs. We took off our crampons and climbed up the rock for about 20 feet (except for Kevin, who found a thinner band of rock and mix-climbed it), before donning our crampons for a 100 foot section of snow. At this point the snow had become an interesting mix of up to half an inch of rotten snow on top of what felt like solid ice. Ice axe shafts didn’t penetrate very deep, and the rotten snow made flat-footing seem ineffective, so we had to begin front-pointing the rest of the route to get good purchase in the snow. At the end of this snow patch we decided that the rib to our right looked like a good class 3 route that could possibly be followed to the top of the face. After climbing about 60 feet the route looked doubtful, so we crossed back to the final snowfield. Mike didn’t want to put his crampons back on, so he crossed the cliff band that we had descended to in order to climb a class 3 rib on the left side of the chute. I gave him the digital camera since he would be in a good position to photograph Kevin and me as we climbed the snow and then we continued on, with Kevin leading.   <br>
+<br>
+Eventually Kevin began knocking down lots of small snow chunks as he penetrated an ever hardening snow crust, so I took shelter behind some boulders in the middle of the chute while he finished the final 60 foot +50<sup>o</sup> slope to the ridge. The snow on the last portion was very hard, and it had taken a now familiar form of large angled plates sticking out several inches from the slope. These sastruggi created a very odd climbing surface. Their silhouette against the horizon was very odd – it looked like the snow we were climbing was a mass of porcelain spikes. The headwall looked like a vertical face as Kevin ascended it, knocking off chunks of the brittle plates of snow, and I felt a little nervous following. The final climb passed quickly, and I felt relieved as I swung my ice axe over the bulge at the top to hook solid snow behind before pulling back on it to help me surmount the bulge. Mike had reached the top before us and scouted the ledge system that we would take to reach the summit. Apparently there were snow drifts possibly as steep as 60<sup>o</sup> covering it, dropping directly off the sheer north face. Conditions sounded too extreme for us, especially without a rope. Kevin and I noted the very dark clouds looming to the west of us, crossing the Kaweahs. It was only 11 am – the storm was arriving early and it looked bad, perhaps arriving within the hour. We decided to be cautious and finish the climb via a more straightforward route. We descended the ridge about 100 feet before traversing below a rib and dropping into the class 2 chute on the west slope of Ritter.   <br>
+<br>
+ <div align="center" class="image-right" style="width: 206px;">
+<a href="/may-25th-2004-clyde/61475"><img alt="May 25th, 2004 - Clyde..." height="150" width="200" src="/images/small/61475.jpg"></a><br><span class="caption">Clyde Minaret</span>
+</div>
+<br>
+The chute was more difficult than expected, inclined at about 40 to 45<sup>o</sup>, and the snow was too hard to penetrate with our ice axe spikes. I climbed up the slope in front-pointing and holding the ice axe in dagger position, while Kevin lead, swinging his pick into the slope high above his head before repositioning his feet higher up. By this point my calves were very burnt out, so I decided to try climbing the ridge bordering the left side of the chute – it appeared to be class the all the way to the summit. Mike followed a ways below, and apart from a detour where I ended up on class 4 terrain that I didn’t enjoy, we summitted shortly after Kevin at about noon.   <br>
+<br>
+This time there was a summit register – we were the 3rd party to have signed it for 2004. Apparently a guided group summitted about 2 days earlier, and their tracks provided an easy guide for finding our way down the southeast glacier. By this time the storm clouds had blown over Clyde Minaret to the south, and we heard some thunder – it was time to get down!   <br>
+<br>
+The southeast slope had been exposed to the sun for a while now, it and provided great glissading. The glissade was interrupted by some class 2 scrambling in a chute on the left side of the upper snowfield, and then Kevin and I raced each other - me sitting, him standing – down to where we would traverse to take the Clyde Variation. The traverse was made easy by footprints left by the earlier descent party, and I enjoyed a fast glissade down the remaining few hundred feet to the canyon below. We hustled back to camp, arriving just over an hour after leaving the summit – surely a very fast 3,700 foot descent.  <br>
+<br>
+<noformat>
+<center>
+<table>
+<tr>
+<td><div align="center" class="image" style="width: 156px;">
+<a href="/north-face-of-mt-ritter-seen-from-the-saddle/61563"><img alt="North Face of Mt Ritter Seen from the Saddle" height="200" width="150" src="/images/small/61563.jpg"></a><br><span class="caption">The North Face of Mt Ritter seen from the south slopes of Banner Peak.</span>
+</div></td>
+<td><div align="center" class="image" style="width: 206px;">
+<a href="/starting-up-ritter-s-north-face/61569"><img alt="Starting Up Ritter s North Face" height="150" width="200" src="/images/small/61569.jpg"></a><br><span class="caption">Starting up the North Face of Mt Ritter</span>
+</div></td>
+<td><div align="center" class="image" style="width: 156px;">
+<a href="/on-the-lower-slopes-of-the-north-face-of-mt-ritter/61570"><img alt="On the Lower Slopes of the North Face of Mt Ritter" height="200" width="150" src="/images/small/61570.jpg"></a><br><span class="caption">On the Lower Slopes of the North Face of Mt Ritter</span>
+</div></td>
+<td><div align="center" class="image" style="width: 206px;">
+<a href="/me-and-kevin-climbing-mt-ritter-s-north-face/61571"><img alt="Me and Kevin Climbing Mt Ritter s North Face" height="150" width="200" src="/images/small/61571.jpg"></a><br><span class="caption">Me and Kevin Climbing Mt Ritter's North Face</span>
+</div></td>
+</tr>
+</table>
+</center>
+</noformat><br>
+<br>
+Since it was still early in the day, storms were coming, and we were tired of snow, Kevin suggested packing up camp and moving it down to the Pacific Trail Junction, about 2 ½ miles and 1,000 feet lower. Then the storm hit. We packed up camp as soon fast as we could and raced around the southern end of Ediza Lake. As we reached the far side of the lake the storm had stopped temporarily – it had dumped half an inch of snow on us during the past 45 minutes. After being tired, wet, and slightly cold, this was less than welcome. As we hiked out it rained and snowed on us periodically, and the storm clouds reversed direction and blew back over us heading the opposite direction, precipitating again.   <br>
+<br>
+<div align="center" class="image" style="width: 426px;">
+<a href="/kevin-long-topping-out-on-the-north-face/61572"><img alt="Kevin Long Topping Out on the North Face" height="500" width="420" src="/images/medium/61572.jpg"></a><br><span class="caption">Kevin topping out on the North Face</span>
+</div>
+<br>
+<br>
+<div align="center" class="image" style="width: 506px;">
+<a href="/kevin-long-topping-out-on-the-north-face/61574"><img alt="Kevin Long Topping Out on the North Face" height="375" width="500" src="/images/medium/61574.jpg"></a><br><span class="caption"> </span>
+</div>
+<br>
+<br>
+Finally we reached the Pacific Trail Junction, where we set up a nice dry camp and built a fire. The next day we had leisurely morning of breaking camp and hiking out, leaving the Mammoth ski lodge just after noon to soak in the hot springs one last time. Unfortunately, the drive through Yosemite took longer than expected, and Mike and I made the last Greyhound bound for San Francisco within 10 minutes of departure. That bus arrived in the San Francisco bus terminal 15 minutes before the last transbay F bus left that night. Needless to say, Mike and I were both quite relieved when the F bus dropped us off on the north end of the Berkeley campus at about 12:30am.<br>
+<br>
+<noformat>
+<center>
+<table>
+<tr>
+<td><div align="center" class="image" style="width: 206px;">
+<a href="/on-ritter-s-summit/61567"><img alt="On Ritter s Summit" height="143" width="200" src="/images/small/61567.jpg"></a><br><span class="caption">On Ritter's Summit</span>
+</div></td>
+<td><div align="center" class="image" style="width: 156px;">
+<a href="/descending-the-se-glacier/61568"><img alt="Descending the SE Glacier" height="200" width="150" src="/images/small/61568.jpg"></a><br><span class="caption">Descending the SE Glacier</span>
+</div></td>
+<td><div align="center" class="image" style="width: 206px;">
+<a href="/mt-ritter-and-banner-pk/61575"><img alt="Mt Ritter and Banner Pk" height="150" width="200" src="/images/small/61575.jpg"></a><br><span class="caption">Mt Ritter &amp; Banner Pk</span>
+</div></td>
+</tr>
+</table>
+</center>
+</noformat>                      <a name="chapter_5"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/kevin-long-topping-out-on-the-north-face/61574/c-169439"><img alt="Kevin Long Topping Out on the North Face" src="/images/square/61574.jpg"></a></td>
+<td><a href="/kevin-long-topping-out-on-the-north-face/61572/c-169439"><img alt="Kevin Long Topping Out on the North Face" src="/images/square/61572.jpg"></a></td>
+<td><a href="/kevin-long-framing-tomorrow-s-objective/61473/c-169439"><img alt="Kevin Long Framing Tomorrow\'s Objective" src="/images/square/61473.jpg"></a></td>
+<td><a href="/on-the-lower-slopes-of-the-north-face-of-mt-ritter/61570/c-169439"><img alt="On the Lower Slopes of the North Face of Mt Ritter" src="/images/square/61570.jpg"></a></td>
+<td><a href="/mt-ritter-and-banner-pk/61575/c-169439"><img alt="Mt Ritter and Banner Pk" src="/images/square/61575.jpg"></a></td>
+<td><a href="/may-25th-2004-the-route-we/61566/c-169439"><img alt="May 25th, 2004 - The route we..." src="/images/square/61566.jpg"></a></td>
+<td><a href="/me-and-kevin-climbing-mt-ritter-s-north-face/61571/c-169439"><img alt="Me and Kevin Climbing Mt Ritter\'s North Face" src="/images/square/61571.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/may-25th-2004-clyde/61475/c-169439"><img alt="May 25th, 2004 - Clyde..." src="/images/square/61475.jpg"></a></td>
+<td><a href="/starting-up-ritter-s-north-face/61569/c-169439"><img alt="Starting Up Ritter\'s North Face" src="/images/square/61569.jpg"></a></td>
+<td><a href="/may-25th-2004-banner-peak/61474/c-169439"><img alt="May 25th, 2004 - Banner Peak..." src="/images/square/61474.jpg"></a></td>
+<td><a href="/on-ritter-s-summit/61567/c-169439"><img alt="On Ritter\'s Summit" src="/images/square/61567.jpg"></a></td>
+<td><a href="/descending-the-se-glacier/61568/c-169439"><img alt="Descending the SE Glacier" src="/images/square/61568.jpg"></a></td>
+<td><a href="/north-face-of-mt-ritter-seen-from-the-saddle/61563/c-169439"><img alt="North Face of Mt Ritter Seen from the Saddle" src="/images/square/61563.jpg"></a></td>
+</tr>
+</table></div>
+            </article> 
+date: May 25, 2004 
+difficulty:  
+elevation:  
+grade:  
+id: 169439 
+latitude: 37.697 
+location: California, United States, North America 
+longitude: -119.194 
+my_route_quality:  
+name: A Double Summit Delight – Banner Pk & Mt Ritter 
+number_of_pitches:  
+page_url: http://www.summitpost.org/a-double-summit-delight-banner-pk-mt-ritter/169439 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons: Spring 
+time_required:  
+type: Trip Report 
+

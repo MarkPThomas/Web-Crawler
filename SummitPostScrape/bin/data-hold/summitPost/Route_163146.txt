@@ -67,6 +67,7 @@ date:
 difficulty: Class 3 
 elevation:  
 grade:  
+hits: 5407  
 id: 163146 
 latitude: 40.5435 
 location: Utah, United States, North America 
@@ -75,6 +76,9 @@ my_route_quality:
 name: West Face via Bells Canyon 
 number_of_pitches:  
 page_url: http://www.summitpost.org/west-face-via-bells-canyon/163146 
+parent_code: 153420 
+parent_name: North Thunder Mountain 
+parent_url: /north-thunder-mountain/153420 
 rock_difficulty:  
 route_quality: 1.0 
 route_type: Hike with scrambling and routefinding 

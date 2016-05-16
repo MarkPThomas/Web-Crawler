@@ -403,6 +403,7 @@ date:
 difficulty:  
 elevation: 14026 
 grade:  
+hits: 156269  
 id: 150246 
 latitude: 36.5233 
 location: California, United States, North America 
@@ -411,6 +412,9 @@ my_route_quality:
 name: Mount Langley 
 number_of_pitches:  
 page_url: http://www.summitpost.org/mount-langley/150246 
+parent_code: 171134 
+parent_name: Sequoia/Kings Canyon NP 
+parent_url: /sequoia-kings-canyon-np/171134 
 rock_difficulty:  
 route_quality:  
 route_type:  

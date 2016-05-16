@@ -30,6 +30,7 @@ date:
 difficulty: Class 3 
 elevation:  
 grade:  
+hits: 1355  
 id: 165924 
 latitude: 36.9039 
 location: California, United States, North America 
@@ -38,6 +39,9 @@ my_route_quality:
 name: NE Ridge from Cedric/Colosseum saddle 
 number_of_pitches:  
 page_url: http://www.summitpost.org/ne-ridge-from-cedric-colosseum-saddle/165924 
+parent_code: 154375 
+parent_name: Mount Cedric Wright 
+parent_url: /mount-cedric-wright/154375 
 rock_difficulty:  
 route_quality: 0.0 
 route_type: Scramble 

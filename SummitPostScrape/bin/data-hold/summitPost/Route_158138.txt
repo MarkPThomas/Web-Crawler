@@ -49,6 +49,7 @@ date:
 difficulty: V, 5.8 - 5.10, C1 
 elevation:  
 grade:  
+hits: 3208  
 id: 158138 
 latitude: 37.75 
 location: California, United States, North America 
@@ -57,6 +58,9 @@ my_route_quality:
 name: The South Face 
 number_of_pitches:  
 page_url: http://www.summitpost.org/the-south-face/158138 
+parent_code: 151630 
+parent_name: Washington Column - Yosemite Valley 
+parent_url: /washington-column-yosemite-valley/151630 
 rock_difficulty:  
 route_quality: 1.0 
 route_type: big wall 

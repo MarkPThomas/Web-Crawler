@@ -165,6 +165,7 @@ date: Aug 21, 2006
 difficulty:  
 elevation:  
 grade:  
+hits: 25332  
 id: 218677 
 latitude: 32.84 
 location: Wyoming, United States, North America 
@@ -173,6 +174,9 @@ my_route_quality:
 name: Gannett Peak, the Hard Way – In One Day 
 number_of_pitches:  
 page_url: http://www.summitpost.org/gannett-peak-the-hard-way-in-one-day/218677 
+parent_code: 150362 
+parent_name: Gannett Peak 
+parent_url: /gannett-peak/150362 
 rock_difficulty:  
 route_quality:  
 route_type:  

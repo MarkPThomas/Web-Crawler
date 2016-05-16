@@ -141,6 +141,7 @@ date:
 difficulty:  
 elevation: 12473 
 grade:  
+hits: 7461  
 id: 197009 
 latitude: 36.90821 
 location: California, United States, North America 
@@ -149,6 +150,9 @@ my_route_quality:
 name: Colosseum Mountain 
 number_of_pitches:  
 page_url: http://www.summitpost.org/colosseum-mountain/197009 
+parent_code: 171134 
+parent_name: Sequoia/Kings Canyon NP 
+parent_url: /sequoia-kings-canyon-np/171134 
 rock_difficulty:  
 route_quality:  
 route_type:  

@@ -959,6 +959,7 @@ date: Sep 18, 2011
 difficulty:  
 elevation:  
 grade:  
+hits: 7385  
 id: 758454 
 latitude: 37.75362 
 location: California, United States, North America 
@@ -967,6 +968,9 @@ my_route_quality:
 name: Working Out My Fear of Heights on Lost Arrow Spire Tip 
 number_of_pitches:  
 page_url: http://www.summitpost.org/working-out-my-fear-of-heights-on-lost-arrow-spire-tip/758454 
+parent_code: 151257 
+parent_name: Lost Arrow Spire 
+parent_url: /lost-arrow-spire/151257 
 rock_difficulty:  
 route_quality:  
 route_type:  

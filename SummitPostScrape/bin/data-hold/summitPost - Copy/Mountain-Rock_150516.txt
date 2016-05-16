@@ -1,0 +1,91 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>Matthes Crest is a fantastic, mile-long knife-edged fin in Yosemite NP. It is one of the more difficult peaks in the park; all of its routes are class 5, including the classic South to North Traverse. It can be reached relatively easily from Tuolumne Meadows, but gets much fewer climbers than its more famous neighbor, <a href="http://www.summitpost.com/mountains/mountain_link.pl/mountain_id/392">Cathedral Peak</a>.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=52183" rel="no_follow"><img src="/images/thumb/52183.jpg"></a></td>
+<td><a href="/view_object.php?object_id=144177" rel="no_follow"><img src="/images/thumb/144177.jpg"></a></td>
+<td><a href="/view_object.php?object_id=7753" rel="no_follow"><img src="/images/thumb/7753.jpg"></a></td>
+<td><a href="/view_object.php?object_id=22317" rel="no_follow"><img src="/images/thumb/22317.JPG"></a></td>
+<td><a href="/view_object.php?object_id=66574" rel="no_follow"><img src="/images/thumb/66574.jpg"></a></td>
+</tr></table>
+<a name="chapter_2"></a><h2>Getting There</h2>The easiest approach is via the Cathedral Lakes trail in <a href="http://www.summitpost.com/mountains/mountain_link.pl?mountain_id=759">Tuolumne Meadows</a>. From either the east or west, take Highway 120 into Yosemite NP and drive to Tuolumne Meadows. The Cathedral Lakes Trailhead is located on the west end of the meadow, about a mile west of the visitor center. It is a very busy trailhead and there are usually a dozen or more cars parked there at any given time during the summer.<br>
+<br>
+Other approach options using the Bud Creek Trail are described in the Approach section of the <a href="http://www.summitpost.org/show/route_link.pl/route_id/188/object_id/384">South to North Traverse page</a>. These may be faster, but require more cross-country travel. <br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=86264" rel="no_follow"><img src="/images/thumb/86264.JPG"></a></td>
+<td><a href="/view_object.php?object_id=85993" rel="no_follow"><img src="/images/thumb/85993.jpg"></a></td>
+<td><a href="/view_object.php?object_id=86263" rel="no_follow"><img src="/images/thumb/86263.JPG"></a></td>
+<td><a href="/view_object.php?object_id=121828" rel="no_follow"><img src="/images/thumb/121828.jpg"></a></td>
+</tr></table>
+<a name="chapter_3"></a><h2>Red Tape</h2>Permits are not required for day hikes, but Wilderness permits are required for overnight visits. These can be obtained from any ranger station in the park. The nearest location is the permit building just east of the Tuolmne Meadows campground. It is just off the road that leads to the Tuolumne Lodge, on the right hand side. <br>
+<a name="chapter_4"></a><h2>When To Climb</h2>Climbing is generally done May-Oct. Before and after this time Highway 120 is closed. There can be much snow on the ground in May and June, so check ahead and plan accordingly if you intend to climb at this time. Late in October the highway is often open but closed to overnight parking - dayhikes to Matthes Crest can still be done easily.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=86098" rel="no_follow"><img src="/images/thumb/86098.jpg"></a></td>
+<td><a href="/view_object.php?object_id=116966" rel="no_follow"><img src="/images/thumb/116966.jpg"></a></td>
+<td><a href="/view_object.php?object_id=86279" rel="no_follow"><img src="/images/thumb/86279.JPG"></a></td>
+<td><a href="/view_object.php?object_id=128718" rel="no_follow"><img src="/images/thumb/128718.jpg"></a></td>
+</tr></table>
+<a name="chapter_5"></a><h2>Camping</h2>Camping is allowed in the Yosemite Wilderness that surrounds Matthes Crest with a valid Wilderness permit (no charge). Note that camping is not allowed in the Budd Creek drainage, nor north of Cathedral Pass since they fall within the four-mile exclusion zone (measured from all trailheads in Tuolumne Meadows). Late in the summer there is little or no water in the streams in the upper portions of the canyons on either side of Matthes Crest. You can find suitable campsites with water at Echo and Matthes Lakes, south of the peak. These are prime bear patrol areas, so guard your food well!<br>
+<a name="chapter_6"></a><h2>Mountain Conditions</h2>
+<a href="http://www.nps.gov/yose/">NPS Page</a><br>
+<a name="chapter_7"></a><h2>Etymology</h2>"The names [Crest and Lake] were first suggested for, and to, Francois E. Matthes in 1946; the proposal was made more formally by Reid Moran, a YNP ranger, in 1949. 'Dr. Matthes was a very modest and unassuming man and would have been the last to suggest that anything be named in his honor. However, he was greatly pleased at the suggestion that this ridge bear his name, saying he knew no other unnamed feature in the Sierra which he would rather have chosen.' (SCB 34, no. 6, June 1949: 110-11.) Matthes Crest was known informally during the 1930s as 'Echo Ridge' because of its proximity to Echo Peaks and Echo Lake. <br>
+Francois Emile Matthes, a USGS geologist for 51 years, made extensive studies in Yosemite and elsewhere in the Sierra Nevada. Among nearly 100 published works, Matthes had 14 articles in various issues of the Sierra Club Bulletin. <br>
+<br>
+The glaciers are not named on the Blackcap Mtn. and Mt. Goddard 13' quads. They are on the north side of Glacier Divide, from the glacier southwest of Lobe Lakes on the west to the one south of Paine Lake on the east. The name was approved by the BGN in 1972." <br>
+- <b>Peter Browning, <i>Place Names of the Sierra Nevada</i></b> <br>
+<br>
+<br>
+<a name="chapter_8"></a><h2>External Links</h2>
+<ul>
+<li>
+<a href="http://www.snwburd.com/bob/trip_reports/matthes_crest_2.html">Sept 23, 2000</a><br> <br>
+</li>
+<li>
+<a href="http://www.snwburd.com/bob/trip_reports/matthes_crest_3.html">The full N-S traverse - July 30, 2004</a><br> <br>
+</li>
+</ul>                                          <a name="chapter_9"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/the-first-half-of-the-matthes/117048/c-150516"><img alt="The first half of the Matthes..." src="/images/square/117048.jpg"></a></td>
+<td><a href="/etsuko-is-checking-out-the/68674/c-150516"><img alt="Etsuko is checking out the..." src="/images/square/68674.jpg"></a></td>
+<td><a href="/gordon-getting-funky-on-the/86098/c-150516"><img alt=" Gordon getting funky on the..." src="/images/square/86098.jpg"></a></td>
+<td><a href="/looking-back-at-the-north/144177/c-150516"><img alt="Looking back at the North..." src="/images/square/144177.jpg"></a></td>
+<td><a href="/on-the-knife-edge-of-the/1646/c-150516"><img alt="On the knife-edge of the..." src="/images/square/1646.jpg"></a></td>
+<td><a href="/riding-the-fin/305420/c-150516"><img alt="Riding the Fin" src="/images/square/305420.jpg"></a></td>
+<td><a href="/the-matthes-crest-and-the/52183/c-150516"><img alt=" The Matthes Crest and the..." src="/images/square/52183.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/looking-back-at-the-north/116967/c-150516"><img alt="Looking back at the North..." src="/images/square/116967.jpg"></a></td>
+<td><a href="/dirk-on-top-of-the-south/67787/c-150516"><img alt="Dirk on top of the south..." src="/images/square/67787.JPG"></a></td>
+<td><a href="/etsuko-on-the-knife-edge-of/68670/c-150516"><img alt="Etsuko on the knife edge of..." src="/images/square/68670.jpg"></a></td>
+<td><a href="/beautiful-matthes-lake-with/116966/c-150516"><img alt="Beautiful Matthes Lake with..." src="/images/square/116966.jpg"></a></td>
+<td><a href="/the-wave-pitch-of-the/62987/c-150516"><img alt='The "wave" pitch of the...' src="/images/square/62987.jpg"></a></td>
+<td><a href="/towards-cathedral-and-budd-lake/496185/c-150516"><img alt="Towards Cathedral and Budd Lake" src="/images/square/496185.JPG"></a></td>
+<td><a href="/at-the-risk-of-contributing/149887/c-150516"><img alt="At the risk of contributing..." src="/images/square/149887.jpg"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/matthes-crest/images/p-150516">View Gallery - 111 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty:  
+elevation: 10918 
+grade:  
+id: 150516 
+latitude: 37.8233 
+location: California, United States, North America 
+longitude: -119.3964 
+my_route_quality:  
+name: Matthes Crest 
+number_of_pitches:  
+page_url: http://www.summitpost.org/matthes-crest/150516 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons:  
+time_required:  
+type: Mountain-Rock 
+

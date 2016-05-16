@@ -1,0 +1,66 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Approach</h2>
+<br>
+This route can be reached from many of the other routes on Mt Olympus. <br>
+If one is using it to gain the northern summits, it is gained from the <a href="http://www.summitpost.org/show/route_link.pl/route_id/1055/object_id/1396">Mount Olympus Trail</a> at the second meadow/plateau (ca. 6,200 ft)<br>
+This route also serves as a descent route from the any of the routes on the norther end of the mountain.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=82881" rel="no_follow"><img src="/images/thumb/82881.jpg"></a></td>
+<td><a href="/view_object.php?object_id=82882" rel="no_follow"><img src="/images/thumb/82882.jpg"></a></td>
+</tr></table>
+<a name="chapter_2"></a><h2>Route Description</h2>
+<br>
+At the second plateau on the <a href="http://www.summitpost.org/show/route_link.pl/route_id/1055/object_id/1396">Mount Olympus Trail</a> (ca. 6,200ft), leave the trail and head towards some cliffs to the north east.  Some bushwacking is necessary, but with close attention it can be kept to a minimum. Scramble up between the cliffs. From here, follow the line of least resistance through the brush up the ridge. <br>
+I found that the cross-country travel was easiest by staying on the faint ridge to the south. This faint ridge curves to the north. From this point (ca. 6,800ft) the remaining routefinding is straightforward. This ridge meets up with some other spurs and becomes more prominent. Follow a series of game trails, staying directly on the ridge, with possibly excursions to either side (but staying within about 50 ft). <br>
+<br>
+At 7,400 ft the shoulder of the north ridge is reached. There are some nice campsites here, but no water. From this point, head east across a clearing and the use-trail will become more prominent. It switchbacks across an open slope for 1,000 vertical feet until the slope tapers to a point, forcing the route north, directly onto the rocky west ridge. Stay on this class 2 ridge. Occasionally the route drops to one side or the other, but never further away than about 20 ft.  <br>
+<br>
+At about 8,300 ft a prominent notch is reached. This is the top of the <a href="http://www.summitpost.org/show/route_link.pl/route_id/1517/object_id/1396">North Face Trail</a>. <br>
+<br>
+A ways further a large notch is encountered. You can do two things here:<br>
+<br>
+<b>Variation 1:</b> After an easy class 3 downclimb, drop into the gulley to the south. <br>
+If one travels up this gulley to the saddle, they can reach the northernmost summit via some class 2 scrambling. <br>
+<br>
+<b>Variation 2:</b> After descending into the notch, climb up the other side, starting to the right, working left, and then angling back right on some steep and solid class 4 rock. From there, wander your way to the north summit (cl. 3), occasionally wandering onto ledges on the north face.<br>
+<br>
+The highest north summit can be reached from the saddle south of the northern summit via a class 4 chimney.<br>
+If one traverses south past the next set of cliffs,  the highest north summit can be gained by scrambling up a class 3 chute. Continue traversing to continue on the <a href="http://www.summitpost.org/show/route_link.pl/route_id/4488/object_id/1396">Summit Traverse</a> route. <br>
+<br>
+<a name="chapter_3"></a><h2>Essential Gear</h2>
+<br>
+Sturdy boots and 10 Essentials.  Bring a lot of water for this route - it is hot most of the year and there is no water. Snowshoes are probably not needed for most of the winter.<br>
+<a name="chapter_4"></a><h2>Miscellaneous Info</h2>
+<br>
+If you have information about this route that doesn't pertain to any of the other sections, please add it here.<br>
+<a name="chapter_5"></a><h2>Images</h2>
+<div align="center"><table id="my_images"><tr>
+<td><a href="/december-19th-2004/82881/c-163336"><img alt="December 19th, 2004 -..." src="/images/square/82881.jpg"></a></td>
+<td><a href="/west-ridge-mt-olympus/413824/c-163336"><img alt="West Ridge, Mt. Olympus" src="/images/square/413824.jpg"></a></td>
+<td><a href="/coming-up-the-west-ridge-of-oly/565735/c-163336"><img alt="Coming up the West Ridge of Oly" src="/images/square/565735.jpg"></a></td>
+<td><a href="/december-19th-2004-the/82882/c-163336"><img alt="December 19th, 2004 - The..." src="/images/square/82882.jpg"></a></td>
+<td><a href="/on-the-west-ridge/565734/c-163336"><img alt=" On the west Ridge" src="/images/square/565734.jpg"></a></td>
+</tr></table></div>
+            </article> 
+date:  
+difficulty: Class 3 
+elevation:  
+grade:  
+id: 163336 
+latitude: 40.657 
+location: Utah, United States, North America 
+longitude: -111.77 
+my_route_quality:  
+name: West Ridge 
+number_of_pitches:  
+page_url: http://www.summitpost.org/west-ridge/163336 
+rock_difficulty:  
+route_quality: 0.6923076923076923 
+route_type: Scramble/Bushwack 
+seasons:  
+time_required: Most of a day 
+type: Route 
+

@@ -24,6 +24,7 @@ date:
 difficulty: Walk-up 
 elevation:  
 grade:  
+hits: 3207  
 id: 161606 
 latitude: 40.5809 
 location: Utah, United States, North America 
@@ -32,6 +33,9 @@ my_route_quality:
 name: Brighton Ridge Run (section) 
 number_of_pitches:  
 page_url: http://www.summitpost.org/brighton-ridge-run-section/161606 
+parent_code: 152853 
+parent_name: Pioneer Peak 
+parent_url: /pioneer-peak/152853 
 rock_difficulty:  
 route_quality: 0.8 
 route_type: Basic Snow Climb, Hike 

@@ -1,0 +1,85 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>
+<br>
+The standout on Chocolate Peak is its color.  <br>
+<br>
+For most, climbing Chocolate Peak is an entree or a dessert after climbing Cloudripper.  From the Bishop Pass trail or the Chocolate Lakes it will take 20 minutes tops to check off Chocolate Peak.  Climbing the peak seems to be somewhat popular from vestiges of use trails I came across while scrambling up it.  From the northwest side, it is a class 2 scramble and from the southeast side it is a class 2 scramble.  For the full chocolate experience, I would climb it from the northeast side off of Bishop Pass trail because that is the chocolate colored side.   You would be hard pressed to find anything more than class 2 on small peak.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=67829" rel="no_follow"><img src="/images/thumb/67829.JPG"></a></td>
+<td><a href="/view_object.php?object_id=67893" rel="no_follow"><img src="/images/thumb/67893.jpg"></a></td>
+<td><a href="/view_object.php?object_id=67828" rel="no_follow"><img src="/images/thumb/67828.JPG"></a></td>
+<td><a href="/view_object.php?object_id=121845" rel="no_follow"><img src="/images/thumb/121845.jpg"></a></td>
+</tr></table>
+<a name="chapter_2"></a><h2>Getting There</h2>
+<br>
+From 395 in the town of Bishop, head west on 168/West Line Street, one of the few stoplights in town. After approximately 15 miles up 168, turn left onto South Lake Road and proceed for 5.8 miles to South Lake and the trailhead for Bishop Pass. There is both day use and overnight parking, so park appropriately. <br>
+<br>
+Bishop Pass Trail climbs along the east side of South Lake. After a mile there is a junction with Treasure Lakes Trail, follow Bishop Pass Trail to the left. After another mile there is a junction with Bull Lake and Chocolate Lake, hang a left.  Chocolate Mtn is unmistakable.   The turnoff for the trail leading up to the Chocolate Lakes is 2.0 miles from the Bishop pass trailhead.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=67861" rel="no_follow"><img src="/images/thumb/67861.jpg"></a></td>
+<td><a href="/view_object.php?object_id=67862" rel="no_follow"><img src="/images/thumb/67862.jpg"></a></td>
+</tr></table>
+<a name="chapter_3"></a><h2>Red Tape</h2>
+<br>
+Nothing needed for a dayhike.<br>
+<a name="chapter_4"></a><h2>Camping</h2>
+<br>
+The whole area would be great for camping.  I noticed quite a few developed sites around the two of the upper Chocolate Lakes.<br>
+<a name="chapter_5"></a><h2>External Links</h2>
+<ul>
+<li>
+<a href="http://www.fs.fed.us/r5/inyo/">Inyo National Forest</a><br> Forest Service Website.<br>
+</li>
+<li>
+<a href="http://www.snwburd.com/bob/trip_reports/cloudripper_1.html">Cloudripper/Chocolate Peak - June 13, 2004</a><br> <br>
+</li>
+<li>
+<a href="http://bearcomp.com:81/tom/tstories/chocdog.html">Chocolate Peak while dog-sitting</a><br> <br>
+</li>
+</ul>
+<a name="chapter_6"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/cloudripper/493048/c-153021"><img alt="Cloudripper" src="/images/square/493048.jpg"></a></td>
+<td><a href="/this-pic-of-choclate-peak-and/67829/c-153021"><img alt="This pic of Choclate Peak and..." src="/images/square/67829.JPG"></a></td>
+<td><a href="/chocolate-peak-as-seen-from/67893/c-153021"><img alt="Chocolate Peak as seen from..." src="/images/square/67893.jpg"></a></td>
+<td><a href="/mount-goode/752985/c-153021"><img alt="Mount Goode" src="/images/square/752985.jpg"></a></td>
+<td><a href="/cloudripper-and-chocolate-peak/753213/c-153021"><img alt="Cloudripper and Chocolate Peak" src="/images/square/753213.jpg"></a></td>
+<td><a href="/picture-puzzle-from-long-lake/459921/c-153021"><img alt="Picture Puzzle from Long Lake" src="/images/square/459921.jpg"></a></td>
+<td><a href="/chocolate-peak-summit/753223/c-153021"><img alt="Chocolate Peak Summit" src="/images/square/753223.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/chocolate-peak-from-mount-goode-s-lower-slopes/644777/c-153021"><img alt="Chocolate Peak from Mount Goode\'s lower slopes" src="/images/square/644777.JPG"></a></td>
+<td><a href="/inconsolable-range-from-ski-mountaineers-peak/719912/c-153021"><img alt="Inconsolable Range from Ski Mountaineers Peak" src="/images/square/719912.jpg"></a></td>
+<td><a href="/mount-goode-and-long-lake/735533/c-153021"><img alt="Mount Goode and Long Lake" src="/images/square/735533.jpg"></a></td>
+<td><a href="/chocalate-peak-from-the-shoulder-of-hurd-peak-october-2010/667593/c-153021"><img alt="Chocalate Peak from the shoulder of Hurd Peak. October 2010" src="/images/square/667593.JPG"></a></td>
+<td><a href="/picture-puzzle-from-chocolate-peak/437431/c-153021"><img alt="Picture Puzzle from Chocolate Peak" src="/images/square/437431.jpg"></a></td>
+<td><a href="/first-view/299125/c-153021"><img alt="First view" src="/images/square/299125.jpg"></a></td>
+<td><a href="/on-chocolate-peak/701322/c-153021"><img alt="On Chocolate Peak" src="/images/square/701322.jpg"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/chocolate-peak/images/p-153021">View Gallery - 36 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty:  
+elevation: 11682 
+grade:  
+id: 153021 
+latitude: 37.14 
+location: California, United States, North America 
+longitude: -118.54 
+my_route_quality:  
+name: Chocolate Peak 
+number_of_pitches:  
+page_url: http://www.summitpost.org/chocolate-peak/153021 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons:  
+time_required:  
+type: Mountain-Rock 
+

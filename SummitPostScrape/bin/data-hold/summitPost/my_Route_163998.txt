@@ -35,6 +35,7 @@ date:
 difficulty: Class 3 
 elevation:  
 grade:  
+hits: 3015  
 id: 163998 
 latitude: 37.3057 
 location: California, United States, North America 
@@ -43,6 +44,9 @@ my_route_quality:
 name: East Ridge 
 number_of_pitches:  
 page_url: http://www.summitpost.org/east-ridge/163998 
+parent_code: 153695 
+parent_name: Four Gables 
+parent_url: /four-gables/153695 
 rock_difficulty:  
 route_quality: 0.8 
 route_type: Scramble 

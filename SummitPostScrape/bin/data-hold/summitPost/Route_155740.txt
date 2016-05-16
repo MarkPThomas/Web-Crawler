@@ -57,6 +57,7 @@ date:
 difficulty: Class 4 
 elevation:  
 grade:  
+hits: 7493  
 id: 155740 
 latitude: 37.6964 
 location: California, United States, North America 
@@ -65,6 +66,9 @@ my_route_quality:
 name: Northwest Arete 
 number_of_pitches:  
 page_url: http://www.summitpost.org/northwest-arete/155740 
+parent_code: 150527 
+parent_name: Mount Clark 
+parent_url: /mount-clark/150527 
 rock_difficulty:  
 route_quality: 1.0 
 route_type: Scramble 

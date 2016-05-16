@@ -90,6 +90,7 @@ date:
 difficulty: class 2 scrambling 
 elevation:  
 grade:  
+hits: 2958  
 id: 159092 
 latitude: 38.4394 
 location: Utah, United States, North America 
@@ -98,6 +99,9 @@ my_route_quality:
 name: Alternative Gold Basin Route 
 number_of_pitches:  
 page_url: http://www.summitpost.org/alternative-gold-basin-route/159092 
+parent_code: 150794 
+parent_name: Mount Tukuhnikivatz 
+parent_url: /mount-tukuhnikivatz/150794 
 rock_difficulty:  
 route_quality: 0.8 
 route_type: Hike/scramble 

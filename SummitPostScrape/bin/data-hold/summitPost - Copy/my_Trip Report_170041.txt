@@ -1,0 +1,188 @@
+activities:  
+content: <article>
+            <p></p>
+<noformat><table border="0" cellpadding="2" cellspacing="1">  <tr>
+<td width="40%">
+<font color="gray"><u><b>Stats</b></u></font>  <ul>  <li>
+<b>Routes:</b> <a href="http://www.summitpost.org/show/route_link.pl/route_id/1396/object_id/262">West Chute (U-Notch)</a>, <a href="http://www.summitpost.org/show/route_link.pl/route_id/101/object_id/262">Chimney Variation</a>, <a href="http://www.summitpost.org/show/route_link.pl/route_id/179/object_id/381">Pol from U-Notch</a>  </li>
+<li>
+<b>Elevation Gained:</b> 5,280'  </li>
+<li>
+<b>RT Distance:</b> TBD   </li>
+<li>
+<b>RT Time:</b> 2.5 days  </li>
+<li>
+<b>Trailhead:</b> South Lake  </li>
+<li>
+<b>TH Elevation:</b> 9,768'  </li>
+<li>
+<b>Summit Elevs.:</b> N. Pal - 14,242', Pol - 14,080'   </li>
+<li>
+<b>Rating:</b> III, 5.5  </li>
+<li>
+<b>Climbers:</b>  <a href="http://www.summitpost.org/mountains/user_link.pl?user_id=13451">Mark Thomas</a>, <a href="http://www.summitpost.org/mountains/user_link.pl/user_id/583">Dirk Summers</a>  </li>
+</ul>
+</td>  <td><center><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__72023__object_id__13451__type__user__mountain_id____route_id____user_id____order_by____limit__"><img src="http://www.summitpost.com/images/72023.jpg" height="230"></a></center></td>  </tr>
+</table>  <center><font color="gray"><b><u>Sections:</u></b></font></center>  <hr width="80%">  <center><table border="0" cellpadding="3" cellspacing="3">  <tr>  <td>
+<a href="#One">Change of Plans</a>  </td>
+<td>
+<a href="#Two">Alpine Start (almost)</a>   </td>
+<td>
+<a href="#Three">Moment of Truth on Polemonium</a>  </td>
+<td>
+<a href="#Four">Morning</a>  </td>
+<td>
+<a href="#Five">Postscript</a>    </td>
+</tr>  </table></center>  <hr width="80%">   <p><font color="WHITE">.</font>        </p>
+<table border="0" cellpadding="3" cellspacing="3">    <tr>  <td align="CENTER" valign="top" width="15%">    <p><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__74365__object_id__262__type__mountain__mountain_id__262__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.com/images/74365.thumb.jpg" height="100" border="2"></a>  </p>
+<p><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__74364__object_id__262__type__mountain__mountain_id__262__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.com/images/74364.thumb.jpg" height="100" border="2"></a>  </p>
+<p><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__74366__object_id__262__type__mountain__mountain_id__262__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.com/images/74366.thumb.jpg" height="100" border="2"></a>  </p>
+<p><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__74368__object_id__262__type__mountain__mountain_id__262__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.com/images/74368.thumb.jpg" height="100" border="2"></a>  </p>
+<p><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__72018__object_id__262__type__mountain__mountain_id__262__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.com/images/72018.thumb.jpg" height="100" border="2"></a>  </p>
+<p><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__72019__object_id__262__type__mountain__mountain_id__262__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.com/images/72019.thumb.jpg" height="100" border="2"></a>  </p>
+<p><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__72026__object_id__262__type__mountain__mountain_id__262__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.com/images/72026.thumb.jpg" height="100" border="2"></a>  </p>
+<p><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__72020__object_id__262__type__mountain__mountain_id__262__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.com/images/72020.thumb.jpg" height="100" border="2"></a>  </p>
+<p><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__72022__object_id__262__type__mountain__mountain_id__262__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.com/images/72022.thumb.jpg" height="100" border="2"></a>  </p>
+<p><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__74370__object_id__262__type__mountain__mountain_id__262__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.com/images/74370.thumb.jpg" height="100" border="2"></a>  </p>
+<p><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__72024__object_id__262__type__mountain__mountain_id__262__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.com/images/72024.thumb.jpg" height="55" border="2"></a>  </p>
+<p><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__72094__object_id__262__type__mountain__mountain_id__262__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.com/images/72094.thumb.jpg" height="100" border="2"></a>  </p>
+<p><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__72030__object_id__262__type__mountain__mountain_id__262__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.com/images/72030.thumb.jpg" height="100" border="2"></a>  </p>
+<p><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__72021__object_id__262__type__mountain__mountain_id__262__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.com/images/72021.thumb.jpg" height="100" border="2"></a>  </p>
+<p><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__72027__object_id__262__type__mountain__mountain_id__262__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.com/images/72027.thumb.jpg" height="55" border="2"></a>  </p>
+<p><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__72029__object_id__262__type__mountain__mountain_id__262__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.com/images/72029.thumb.jpg" height="100" border="2"></a>  </p>
+<p><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__72028__object_id__262__type__mountain__mountain_id__262__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.com/images/72028.thumb.jpg" height="100" border="2"></a>  </p>
+<p><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__72023__object_id__262__type__mountain__mountain_id__262__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.com/images/72023.thumb.jpg" height="100" border="2"></a>      </p>
+</td>  <td valign="top" width="85%">        
+
+<a name="One"></a><p>  <font color="gray"><b>Change of Plans</b></font>
+  It was a hot and dusty day in Bishop as Dirk and I ran around town to make some hasty changes to our climbing plans. We had driven over 8 hours from Oakland to bag two more California 14ers – my 5th for the year and Dirk’s last two in California. The plan had been to climb Polemonium Pk and North Palisade from the U-Notch after climbing the AI 2 U-Notch Couloir that rose 1,000 ft up from the Palisade Glacier. I was really excited for this climb, as North Palisade is widely considered to be the one of the grandest and most imposing of the Sierra peaks.  
+
+</p>
+<p>  Everything seemed to be going fine for us – we made good driving time and got permits for camping in Sam Mack Meadows for both nights that we would spend in the High Sierras. One cause for concern was that Dirk had accidentally left his helmet back in Oakland. Around this time Dirk realized that he had lost a glove, so we went to Wilson's East Side Sports to get some replacements. While we were there we inquired about the conditions of the couloir – 4 known parties had attempted it, and all of them turned back due to rotten ice and bad rock fall.  
+
+</p>
+<p>  While I consider myself adventurous, this would be my first time climbing alpine ice, and I wasn’t <i>that</i> adventurous! Dirk didn’t like the idea of getting brained by loose rock, so after some deliberation and soul searching we decided to do our duty as peakbaggers and summit by any means. Because our chances of success on this route looked slim, Dirk and I quickly decided to climb the peaks via the U-Notch, but from the West via Dusy Basin up a class 3-4 chute rather than the AI 2 chute rising from the Palisade Glacier. We rushed back to the forest service building to get new permits for Bishop Pass.  
+
+</p>
+<p>  Eerily similar to our last trip, we were only able to get a permit for the second of the two nights we’d need to spend up there.  
+</p>
+<p>  Screw it – its not like we’d get caught camping that far off the trail. So we headed off to South Lake to begin our approach.  
+</p>
+<p>  </p>
+<hr width="30%">  <p>    The South Lake trailhead would have to be one of the nicest trailheads that I’ve ever been to. It was well-shaded and as you parked you were treated to a wonderful vista of rugged snow-capped peaks rising high above a large pristine ‘lake’(labeled as a lake on USGS maps, but its really a reservoir. California seems to call most of their reservoirs lakes – kinda misleading, isn’t it?)  The approach to the west side of the Palisades was much better than the approach to the east side. Rather than hiking up a dusty, sandy trail under the blazing sun, the trail over Bishop Pass was clean and shaded. After some easy switchbacks we passed by Long Lake, where we stopped to take in the views and admire Picture Puzzle Peak peeking out behind Chocolate Peak. As we continued on we came across a couple backpacking out who had apparently gotten more than just a ‘natural’ high during their trip.  
+
+</p>
+<p>  By the time we neared Bishop Pass the sun was low in the sky, and as we gained the pass I took some wonderful photos of Mt Agassiz bathed in a splendid fiery orange from the sunset.  At the pass we dropped down a short ways as we left the trail to traverse south across a barren talus field before settling down for the night. We found a nice place among the boulders next to a gurgling stream. This would make a nice campsite because not only did it have access to running water, but also was partly protected in the shallow gully. We figured the site should be easy to find since there wouldn’t be many underground streams running through the talus.  
+
+</p>
+<p>  After refilling our water we were ready to turn in for the night. Dirk and I had brought some Bacardi 151 to enjoy at our 11,800 ft high camp, but that would wait for the celebration tomorrow night.  
+
+</p>
+<p>          <a name="Two"></a>
+</p>
+<p>  <font color="gray"><b>Alpine Start (almost)</b></font> - <small>5:55am</small>
+  We knew that we had a big day in store for ourselves, so we woke up a little earlier than on our last two climbs to get a head start on the route. It was still dark out, but a faint glow in the sky hinted at the sun’s impending arrival. After taking a note of the features around camp and taking an altimeter reading we began the long slog to the U-Notch.   
+
+</p>
+<p>  Dusy Basin was wide open, but filled with large granite slabs and many large blocks of talus ranging from the size of refrigerators to the size of houses. We had to do some class 3 scrambling just to navigate the boulders! After painfully giving up some elevation, we ascended to Thunderbolt  Pass just as the sun was peeking out behind Thunderbolt Pk. After referring to the route description and looking at the western buttresses of the Palisades, Dirk and I located the colored stain marking the correct chute.   
+</p>
+<p>  <b><small>8:45am</small></b>
+  The chute looked rather short, but this deception was soon noticed after we had gained 500 ft while climbing on loose rock and sand. 1,600 vertical feet of slogging later we finally reached the top of the bowling alley. The saddle was about 40 feet across and rather broad, making it a nice spot for a break.  Our relaxation was soon shattered as the sound of rock fall thundered up the U-Notch Couloir.  </p>
+<p>  We located the start of the Chimney Route up to North Palisade, which headed up a chimney with an awkward chock stone and continued up some easy 3rd class terrain to a flat spot to set up the second belay. From here the climbing was very steep but there were plenty of jugs, and we had a fun time making fast progress up the 5.3 chimney. At the top we unroped and scrambled along the broken ridge toward the summit.  </p>
+<p>  The ridge scramble was one of the most enjoyable parts of the route. The terrain was exposed, but the difficulty was class 3-4 and the holds were very solid. The smooth striated granite looked beautiful, and the granite peeled off of the ridgeline in thin slices, resembling fingers from some sort of fantasy world or horror movie.  
+
+</p>
+<p>  Finally we reached the summit block, and this is where Dirk and my preference for travel modes differed. We had reached a slot between the summit block and another block. To climb directly to the summit block, one had to climb the smaller rock and clear the gap. Dirk happily did this and leaped through the air, landing cleanly on the summit.  I didn’t have the stomach for such manliness and chose to take the wombat’s way out of this.  By following my burrowing instincts I discovered that if I took my pack off and did some fancy twisting moves with my torso and limbs, I could squeeze into a very narrow crack system. After some awkward scrambling through the crack (which was strangely nostalgic for my scrambling days in the southwest) I popped up in the middle of the summit block.  
+
+</p>
+<p>  <b><small>1:50pm</small></b>
+  I was amazed at the exposure looking down into Dusy Basin – the entire landscape fell away for over 1,000 feet in almost every direction! Next I located Starlight Peak’s milk-bottle summit, standing out prominently from the Palisade massif. I took a panorama and joined Dirk in our fruitless search for the summit register. Nowhere to be found! Dirk dropped a water bottle into one of the cracks, and I shimmied down into the summit block to retrieve it. There I found a motherload of lost gear – sweaters, garbage, mittens, etc. But no summit register. I explored the series of cracks in the summit block (taking note of how nice it would be to bivouac in them) but returned to the surface empty handed.  
+
+</p>
+<p>  <b><small>2:38pm</small></b>
+  After giving up on the summit register we hurried back along the ridge crest to bag Polemonium. The rappel was rather awkward and required some down climbing before the rope could be loaded, but Dirk showed me how to rap the rope around my thigh to keep it taught while I prepped myself. Dirk rapp’d first, and then I fumbled around with the rope technique as I tried to scramble below the rope anchor. Dirk cursed me from down below for sending some rocks his way – I guess I was flipping the rope around too much? Oops! Soon I had it figured out and was on my day down. Another short rappel put us back at the saddle.  
+
+</p>
+<p>          <a name="Three"></a></p>
+<p>  <font color="gray"><b>Moment of Truth on Polemonium</b></font> - <small>3:38pm</small>
+  Now I was getting nervous. I thought of how long the chute was that we scrambled up, and how long and rugged of an approach route we had to backtrack over Thunderbolt pass and back to camp. I also noted that the sun was setting earlier than in our previous climbs.   
+
+</p>
+<p>  I meekly suggested that perhaps we should get an early start back to avoid getting stranded in the dark again, but Dirk wasn’t going to take no for an answer. Polemonium was Dirk’s last CA 14er, and he didn’t want to sacrifice another entire weekend to come back here to climb the thing. While I moped around trying to decide if I wanted to go for it, Dirk took off and began climbing up the route.    
+
+</p>
+<p>  Now if Dirk made the summit, I couldn’t bring myself to head down and then come all the way back here to climb Polemonium on another trip! That would make me feel really dumb! That was all the convincing that I needed and I was soon chasing after him.  
+
+</p>
+<p>  “Hey, Dirk. Wait up! I think I’m up for it!” Dirk got out the climbing rope and began flaking it out like a madman. Soon I had him on belay and he continued on the wandering climb out of the notch. There was a 10 ft 5.5 crux that involved surmounting an awkward crack, but otherwise the scrambling was easy. About 40 ft from the summit Dirk unroped and scrambled up. I was rather uncomfortable free-soloing with this exposure, but with some morale support from Dirk, I took a deep breath and free-soloed the last 40 ft.  
+
+</p>
+<p>  Up on the summit Dirk strutted his stuff – the CA 14ers tick list was now completed. After signing the register and taking some celebratory photos, we noticed that the shadows on Mt Sill were looking awfully long. We definitely weren’t getting back to camp before nightfall!  We rapped down to the notch but then we were delayed in getting the rope down as the rappel route cause the rope to snag into a number of cracks. Once the rope was loose, we took off down the bowling alley.  
+
+</p>
+<p>  The sun set on us while we were about halfway down the chute, and our progress slowed considerably. The dust made it very hard to see, and there were some tricky sections that required care down climbing in the dark. Eventually we reached the bottom and began our long slog back to camp. Despite our attempts to ration water throughout the day, we had run out by this time, which would add to the difficulty of getting back to camp since we were very dehydrated.  
+
+</p>
+<p>  I was exhausted at this point – it had been a long and physically demanding day. Also, school had left me sleep-deprived before the trip yet again, and I was longing for a bed. My body slowed down and I stumbled along in a trance-like state. Every now and then I talked Dirk into taking a break, upon which I’d immediately shed my pack, lie down, and nearly fall asleep from exhaustion and dehydration. I was out of water and sorely thirsty.  
+
+</p>
+<p>  After what seemed like eternity, Dirk’s prodding me along got us up and over Thunderbolt Pass. Some lakes shimmered faintly below us, but apart from that, it was so dark that we couldn’t get any bearings apart from what Dirk could decipher from his altimeter.  
+
+</p>
+<p>  At one point we were thrilled when we heard the gurgle of running water beneath the talus. After some desperate searching we realized that the rocks blocked nearly all access to the water. I could barely splash some trickles into my water bottle, and then I gave in and tried to slurp some of the water out from a dirty hole.  That only increased my thirst and we quickly moved on.  
+
+</p>
+<p>  In the dark the large talus made travel very slow going, and on one of our breaks, Dirk accidentally dropped his new headlamp between some car-sized boulders. We couldn’t fish it out of the hole, so once again we were traveling with only one headlamp.  
+
+</p>
+<p>  As the night wore on I became more exhausted and at each break I had a harder time getting back up. Finally we could tell that we were nearing our camp. We determined this by matching up the faint lakes with what was on the topo to tell at what angle we were viewing them, and therefore, where we were along Dusy Basin’s upper slopes. Finally we reached a rushing stream beneath the talus and gratefully restocked our water rations.   
+
+</p>
+<p>  I was certain that this stream was the one that we had camped by, and soon I was following it up the slope. Dirk was skeptical – he didn’t remember the slopes around our campsite being so steep. Although his altimeter indicated that we were within 200 vertical feet of our camp’s elevation, it was nowhere to be seen. Since Dirk wasn’t convinced that this was the right place, I led the way, first up the stream to a lake that fed it (obviously too far) and then back down until we could tell that we were too close to the lakes.  </p>
+<p>  No sign of the campsite!     
+
+</p>
+<p>  Dirk thought that it might be just over the next rise or so, so we continued on. At this point he was tired and lingered behind. I had a second burst of energy with the thought of being near camp and led the way up onto the ridge. We headed toward Bishop Pass, up and down the slopes, but to no avail. The search was exhausting and seemed to take forever. After a full day of climbing, and then traveling 2 miles over rugged talus to get back to camp, we just didn’t have the energy to keep going. Every bit of searching uphill was arduous, and our resulting frustration from ‘realizing’ camp just wasn’t where we thought it should be weakened our morale.  </p>
+<p>  After another hour of fruitless searching (ca. 4am) we gave up – the Bacardi would have to wait for another night.  
+
+</p>
+<p>  With each passing trip that I have had with Dirk I brought more clothing with me, and by this trip I had my fleece jacket and hooded ski jacket. After finding a rock slab somewhat protected by the wind, I set up my pack as a wind break and laid down for bed. With all of these layers, I was reasonably comfortable for a night at 12,000 ft out in the wind. The tables had finally turned as this time Dirk was the colder of the two of us.  
+
+</p>
+<p>      <a name="Four"></a></p>
+<p>  <font color="gray"><b>Morning</b></font>
+  “Hey Mark! You’re not gonna believe this!”  </p>
+<p>  I reluctantly opened my eyes to see what Dirk was hollering about. He was standing near me, pointing south. About 200 ft away from us was our dome tent! We had spent a night out in the cold when our tent was merely a stone’s throw away! Needless to say, we felt like fools, but the humor of the situation didn’t escape us either.  Once again, the night that we DID have a camping permit we had to bivouac!  
+
+</p>
+<p>  In retrospect, we decided that either the tent was just barely out of my headlamp’s illumination when I was following the stream, or that its dome shape, with a yellow rain fly, had looked like a granite boulder when illuminated by my blue hued LED headlamp.  </p>
+<p>  Despite the fact that we had to hike out and drive back to Oakland in time to return our rental car that evening, we hopped into the tent for a few hours of napping and some hard core Bacardi.  
+
+</p>
+<p>    </p>
+<hr width="80%">    <a name="Five"></a>  <font color="gray"><b>Postscript: </b></font>
+  <blockquote><i>Since this last episode Dirk and I have had a much better track record for avoiding bivouacs. We have since had one more close call on <a href="http://www.summitpost.org/mountains/trip_report.pl?trip_report_id=1773&amp;mountain_id=352">Matterhorn Pk</a>, but due to good karma from having camping permits for our FULL stay and having <a href="http://www.summitpost.org/mountains/user_link.pl?user_id=462">Gorden Ye</a> along as a good luck charm (he has never had to bivouac), we managed to wander our way back to camp around midnight.</i></blockquote>    <hr width="80%">  <center>
+<i>Mark N' Dirk's Bivouac Trilogy:</i> <a href="http://www.summitpost.org/mountains/trip_report.pl?trip_report_id=1944&amp;mountain_id=335">Part 1: Mt Conness</a> - <a href="http://www.summitpost.org/cgi-bin/trip_report.pl?trip_report_id=1969">Part 2: Mt Sill</a>
+</center>        </td>
+</tr>      </table></noformat>                                          <a name="chapter_1"></a><h2>Images</h2>
+<div align="center"><table id="my_images"><tr><td><a href="/september-2003-mt-sill-and/40780/c-170041"><img alt="September 2003 - Mt Sill and..." src="/images/square/40780.jpg"></a></td></tr></table></div>
+            </article> 
+date: Sep 20, 2003 
+difficulty:  
+elevation:  
+grade:  
+id: 170041 
+latitude: 37.0939 
+location: California, United States, North America 
+longitude: -118.5219 
+my_route_quality:  
+name: Mark N’ Dirk’s Bivouac Trilogy - Part 3: North Palisade & Polemonium 
+number_of_pitches:  
+page_url: http://www.summitpost.org/mark-n-dirk-s-bivouac-trilogy-part-3-north-palisade-polemonium/170041 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons:  
+time_required:  
+type: Trip Report 
+

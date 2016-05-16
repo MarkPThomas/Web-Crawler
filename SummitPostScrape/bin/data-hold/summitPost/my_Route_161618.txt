@@ -34,6 +34,7 @@ date:
 difficulty: Class 1-2 Walk-up 
 elevation:  
 grade:  
+hits: 4338  
 id: 161618 
 latitude: 40.5998 
 location: Utah, United States, North America 
@@ -42,6 +43,9 @@ my_route_quality:
 name: Twin Lakes Pass 
 number_of_pitches:  
 page_url: http://www.summitpost.org/twin-lakes-pass/161618 
+parent_code: 152856 
+parent_name: Honeycomb Cliffs 
+parent_url: /honeycomb-cliffs/152856 
 rock_difficulty:  
 route_quality: 0.8 
 route_type: Hike/Basic Snow Climb 

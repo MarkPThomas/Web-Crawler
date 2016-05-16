@@ -1,0 +1,88 @@
+activities: Mountaineering, Trad Climbing 
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>Mount Edith (not to be confused with Edith Cavell) is one of the popular climbs in <b>Banff National Park</b>, one of four connecting national parks in the heart of the Canadian Rockies.  Edith is located in the Bow River Valley just northwest of the town of Banff.  It was first ascended in 1900 by Collie and Stephens.  <br>
+<br>
+Mount Edith is an uplift of the Devonian age Palliser limestone, a 500 meter thick formation of solid rock.  There are four alpine rock routes on Edith and one scramble that can be varied from one peak to a traverse of all <b>three of it's summits</b>, the highest being the northernmost.   It is a dogtooth mountain similar to <i>Mount Louis to the north (my favorite rock alpine climb in Banff NP)</i>. <br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=108008" rel="no_follow"><img src="/images/thumb/108008.jpg"></a></td>
+<td><a href="/view_object.php?object_id=108005" rel="no_follow"><img src="/images/thumb/108005.jpg"></a></td>
+<td><a href="/view_object.php?object_id=108007" rel="no_follow"><img src="/images/thumb/108007.jpg"></a></td>
+<td><a href="/view_object.php?object_id=108006" rel="no_follow"><img src="/images/thumb/108006.jpg"></a></td>
+</tr></table>
+<a name="chapter_2"></a><h2>Getting There</h2>
+<a target="_top" href="/mountains/photo_link.pl?photo_id=158353&amp;object_id=280&amp;type=mountain&amp;mountain_id=280&amp;route_id="><img src="http://www.summitpost.com/images/thumb/107927.jpg" alt="Tooltip for IE: Gamskofel" title="Tooltip for Mozilla: Gamskofel"></a> <br>
+The Trans-Canada Highway dissects Banff National Park east to west as you come in from Calgary.  Bypass the Banff town exits and take the Bow Valley Parkway exit.  Follow the parkway for .3 km west to a road on your right, turn right and proceed to the Fireside Picnic area at the end of the road.  <br>
+<a name="chapter_3"></a><h2>Red Tape</h2>You will be required to purchase a national park pass as you enter the park.  This pass is good for all four national parks.  If you plan many visits to Canadian National Parks within one year, you should purchase an annual pass.  There are no permit requirements to climb in Banff National Park, but all camping is regulated.  There is also a backcountry permit required if you plan on spending a night in the backcountry versus the town campsites.  This can be obtained via the parks website which is included in the camping section below.  Park headquarters are located in Banff and you will drive through the manned kiosks as you enter the park.<br>
+<br>
+This is active grizzly country, therefore, you should always have bear spray on your person.  We have had an increase in activity so far in 2005.<br>
+<br>
+<br>
+<a name="chapter_4"></a><h2>When To Climb</h2>It is best to climb Mount Edith from June through September.  There are no published or obvious backcountry ski routes on the mountain.  There are small ice routes located between Mount Cory and Edith.  <br>
+<br>
+<a name="chapter_5"></a><h2>Camping</h2>You can go on line at <a href="http://www.pc.gc.ca/pn-np/ab/banff/visit/visit4_e.asp">Banff National Park</a> to pick your camp site and obtain your camping permit.  The closest camping is back in the town site of Banff, or if you want to avoid the hustle and bustle, you can camp further down the Bow Valley Parkway at , <a href="http://www.johnstoncanyon.com/">Johnston Canyon Resort and Campground </a> .<br>
+<br>
+<a name="chapter_6"></a><h2>Mountain Conditions</h2>
+<a href="http://www.pc.gc.ca/pn-np/ab/banff/visit/visit4_e.asp">Banff National Park’s website</a>  has weather, wildlife reports, trail closures, etc.   Outside of the parks web site, <a href="http://www.avalanche.ca/">Canadian Avalanche Association</a> is also useful, particularly for winter travel.<br>
+<br>
+<a name="chapter_7"></a><h2>Routes</h2>
+<b>Scramble-</b>  North Peak Only<br>
+<b>Scramble-</b> Traverse of all Three Peaks <br>
+<b>South Ridge of the South Peak II 5.4</b>- One of the more frequently climbed alpine rock routes in Banff. <br>
+<b>East Face of the Central Peak III 5.10b</b>- This route takes the largest and steepest face on the central peak of Edith via a very prominent water-worn groove that runs right down the middle of the face. It is more of a big crag climb than an alpine style rock climb. <br>
+<b>North Face of the North Peak, Greenwood/Boles III 5.8</b>- Soloed in 1984. <br>
+<b>The Kafir Strikes Back III 5.10c</b>-  Takes the prominent corner line all the way up the centre of the face. This route is a sustained outing. <br>
+<br>
+<br>
+<a name="chapter_8"></a><h2>External Links</h2>
+<li><a href="http://www.summitpost.org/user_page.php?user_id=19503">100’s of Canadian Rockies multi-pitch rock climbs, ice climbs, alpine climbs and scrambles, just scroll down to routes</a></li>
+<li><a href="http://www.pc.gc.ca/pn-np/ab/banff/index.aspx">Banff National Park, Parks Canada</a></li>
+<li><a href="http://www.outdoorresearch.com/site/index.html">OR:  Best True Technical Clothing and Accessories in the Outdoor Industry</a></li>
+<li>
+<a href="http://www.scarpa.com/scarpa/control/LandingPage">Scarpa</a>, has surpassed La Sportiva in terms of quality, function, value</li>
+<li><a href="http://www.ospreypacks.com">Osprey Backpacks, Not a Second Choice</a></li>
+<li><a href="http://www.greatoutdoorsdepot.com">Great Outdoors Depot</a></li>
+<li><a href="http://www.montbell.us">Mont-Bell</a></li>
+<li><a href="http://cascadedesigns.com">Cascade Designs (MSR; Thermarest; Platypus)</a></li>                                                                                                        <a name="chapter_9"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/louis-gmoser-route-alpine/104190/c-154164"><img alt="Louis\' Gmoser Route (Alpine..." src="/images/square/104190.jpg"></a></td>
+<td><a href="/mount-louis-from-mount-edith/107927/c-154164"><img alt="Mount Louis from Mount Edith,..." src="/images/square/107927.jpg"></a></td>
+<td><a href="/mounts-louis-and-fifi-on-a/108050/c-154164"><img alt="Mounts Louis and Fifi on a..." src="/images/square/108050.jpg"></a></td>
+<td><a href="/mt-louis-and-40-mile-creek-from-mt-edith/471734/c-154164"><img alt="Mt Louis and 40-Mile Creek from Mt Edith" src="/images/square/471734.jpg"></a></td>
+<td><a href="/mount-edith-northeast-side/270081/c-154164"><img alt="Mount Edith - Northeast Side" src="/images/square/270081.jpg"></a></td>
+<td><a href="/mount-louis/524928/c-154164"><img alt="Mount Louis" src="/images/square/524928.jpg"></a></td>
+<td><a href="/the-summit-block-of-mt-edith/471738/c-154164"><img alt="The summit block of Mt Edith" src="/images/square/471738.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/the-view-back-north-on-the/108004/c-154164"><img alt="The View back North on the..." src="/images/square/108004.jpg"></a></td>
+<td><a href="/mount-edith/524922/c-154164"><img alt="Mount Edith " src="/images/square/524922.jpg"></a></td>
+<td><a href="/the-view-beyond-mt-cory-from/108005/c-154164"><img alt="The View Beyond Mt Cory from..." src="/images/square/108005.jpg"></a></td>
+<td><a href="/enroute-on-the-traverse-to/108008/c-154164"><img alt="Enroute on the Traverse to..." src="/images/square/108008.jpg"></a></td>
+<td><a href="/descending-cory-pass/270079/c-154164"><img alt="Descending Cory Pass" src="/images/square/270079.jpg"></a></td>
+<td><a href="/the-three-peaks-of-mt-edith/108007/c-154164"><img alt="The Three Peaks of Mt. Edith..." src="/images/square/108007.jpg"></a></td>
+<td><a href="/the-sundance-range/471743/c-154164"><img alt="The Sundance Range" src="/images/square/471743.jpg"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/mount-edith/images/p-154164">View Gallery - 14 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty:  
+elevation: 8379 
+grade:  
+id: 154164 
+latitude: 51.2069 
+location: Alberta, Canada, North America 
+longitude: -115.6681 
+my_route_quality:  
+name: Mount Edith 
+number_of_pitches:  
+page_url: http://www.summitpost.org/mount-edith/154164 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons: Summer 
+time_required:  
+type: Mountain-Rock 
+

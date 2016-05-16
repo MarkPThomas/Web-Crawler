@@ -2,20 +2,16 @@ require 'nokogiri'
 require_relative '../lib/MtnProjScrape'
 require_relative '../lib/LibFileReadWrite'
 
-# Testing methods:
-page1_data = read_route_page('http://www.mountainproject.com/v/cassin-ridge/105954372')
-page2_data = read_route_page('http://www.mountainproject.com/v/chrysler-crack/105887571')
-page3_data = read_route_page('http://www.mountainproject.com/v/centennial/105715670')
-page4_data = read_area_page('http://www.mountainproject.com/v/swan-slab/105841123')
-page5_data = read_area_page('http://www.mountainproject.com/v/california/105708959')
-page6_data = read_routes_todo('http://www.mountainproject.com/u/mark-p-thomas//106560803?action=todos&')
-
-# Running methods
 DATA_DIR = 'data-hold/mountainProject'
-FileUtils::mkdir_p(DATA_DIR) unless File.exists?(DATA_DIR)
 
 BASE_URL = 'http://www.mountainproject.com'
 PROFILE_URL = '/u/mark-p-thomas//106560803'
+
+TEST_DIR = '/test-data'
+test_data_dir = "#{DATA_DIR}#{TEST_DIR}"
+
+run_tests(BASE_URL, PROFILE_URL, test_data_dir)
+scrape_all(BASE_URL, PROFILE_URL, DATA_DIR)
 
 # Page 1 is used as a starting point for getting the pagination range
 TICKS_URL = '?action=ticks&&page='

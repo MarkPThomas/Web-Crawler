@@ -47,6 +47,7 @@ date:
 difficulty: Class 1, Moderate Snow 
 elevation:  
 grade:  
+hits: 4375  
 id: 163932 
 latitude: 40.49 
 location: Utah, United States, North America 
@@ -55,6 +56,9 @@ my_route_quality:
 name: South Slopes via Dry Creek 
 number_of_pitches:  
 page_url: http://www.summitpost.org/south-slopes-via-dry-creek/163932 
+parent_code: 151902 
+parent_name: Box Elder Peak 
+parent_url: /box-elder-peak/151902 
 rock_difficulty:  
 route_quality: 0.8923076923076924 
 route_type: Hike, Snow Climb, Ski Mountaineering 

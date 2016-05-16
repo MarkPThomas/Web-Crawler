@@ -1,0 +1,47 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Approach</h2>While most of the route is hiking to get to the ridge, the ridge itself is a knife edge that involves some scrambling. Usually this route is done from Porter/Bowman Fork or Butler Fork.<br>
+<br>
+<font color="blue"><u>Bowman Trail: </u></font><br>
+4 miles 1 way, <br>
+4,000 foot elevation gain. <br>
+Trail starts from the Terraces Picnic Area which is on the south, 4.7 miles up Mill Creek Canyon. Drive across the bridge (losed in the winter), take the right branch at the top of the hill, and park near the end of the road. Take off hiking along the Bowman Fork stream. Eventually the trail climbs out of the canyon and traverses over to Porter Fork, ending in a traverse across open slopes near the saddle. This is a great spot for skiing and a a prime location for avalanches. In the winter a trail compacted through the snow leads most of the way up. Overall, this this trail is very popular for backcountry skiing and snowshoeing in the winter.<br>
+<br>
+<font color="blue"><u>Butler Fork: </u></font><br>
+Park at the Butler Fork trailhead, which is just across the road from Reynolds Flats in Big Cottonwood Canyon. The trail is 4.1 miles and gains 3,041 feet<br>
+<br>
+<noformat>
+<table>
+<tr>
+<td><div align="center" class="image" style="width: 74px;">
+<a href="/mt-raymond-as-seen-from-the/31054"><img alt="Mt Raymond as seen from the..." height="100" width="68" src="/images/thumb/31054.jpg"></a><br><span class="caption"> </span>
+</div></td>
+</tr>
+</table>
+</noformat><a name="chapter_2"></a><h2>Route Description</h2>"At Baker Pass there is a 4-way intersection. The trail up Bowman Fork and Millcreek approaches from the north. To the east is the west ridge route to Gobbler's Knob. To the west is the route to Mount Raymond. And, from the south is the intersection with Desolation trail and it's connection with the Butler Fork approach." - <a href="http://www.summitpost.org/mountains/user_link.pl?user_id=2307"><i>rmjwinters</i></a><br>
+<br>
+From Butler Pass, turn west and head up a faint trial that sticks to the ridgeline. Eventually the trail fades and the route drops a little to the north side of the ridge. The top of the ridge is gained again shortly before the summit.<br>
+<a name="chapter_3"></a><h2>Essential Gear</h2>Winter: Ice axe, avalanche safety gear. Snowshoes or skiis.<br>
+                     <a name="chapter_4"></a><h2>Images</h2>
+<div align="center"><table id="my_images"><tr><td><a href="/mt-raymond-as-seen-from-the/31054/c-159112"><img alt="Mt Raymond as seen from the..." src="/images/square/31054.jpg"></a></td></tr></table></div>
+            </article> 
+date:  
+difficulty: Class 2-3 scrambling 
+elevation:  
+grade:  
+id: 159112 
+latitude: 40.658 
+location: Utah, United States, North America 
+longitude: -111.701 
+my_route_quality:  
+name: North East Ridge 
+number_of_pitches:  
+page_url: http://www.summitpost.org/north-east-ridge/159112 
+rock_difficulty:  
+route_quality: 1.0 
+route_type: hike/scramble 
+seasons:  
+time_required: Most of a day 
+type: Route 
+

@@ -28,6 +28,7 @@ date:
 difficulty: Easy 
 elevation:  
 grade:  
+hits: 3241  
 id: 165478 
 latitude: 51.4123 
 location: Alberta, Canada, North America 
@@ -36,6 +37,9 @@ my_route_quality:
 name: St. Piran Scramble 
 number_of_pitches:  
 page_url: http://www.summitpost.org/st-piran-scramble/165478 
+parent_code: 154219 
+parent_name: Mount St. Piran 
+parent_url: /mount-st-piran/154219 
 rock_difficulty:  
 route_quality: 0.8923076923076924 
 route_type: Scrambling 

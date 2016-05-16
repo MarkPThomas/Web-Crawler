@@ -54,6 +54,7 @@ date:
 difficulty: 5.6 - 5.13a 
 elevation:  
 grade:  
+hits: 4497  
 id: 165272 
 latitude: 40.6194 
 location: Utah, United States, North America 
@@ -62,6 +63,9 @@ my_route_quality:
 name: Dogwood Crag 
 number_of_pitches:  
 page_url: http://www.summitpost.org/dogwood-crag/165272 
+parent_code: 154148 
+parent_name: Big Cottonwood Canyon 
+parent_url: /big-cottonwood-canyon/154148 
 rock_difficulty:  
 route_quality: 0.8 
 route_type: Sport, Trad - Single Pitch 

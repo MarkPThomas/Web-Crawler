@@ -94,6 +94,7 @@ date:
 difficulty: Class3-4 
 elevation:  
 grade:  
+hits: 8183  
 id: 163144 
 latitude: 40.5435 
 location: Utah, United States, North America 
@@ -102,6 +103,9 @@ my_route_quality:
 name: Coalpit Gulch 
 number_of_pitches:  
 page_url: http://www.summitpost.org/coalpit-gulch/163144 
+parent_code: 153420 
+parent_name: North Thunder Mountain 
+parent_url: /north-thunder-mountain/153420 
 rock_difficulty:  
 route_quality: 1.0 
 route_type: Steep hike with routefinding and scrambling 

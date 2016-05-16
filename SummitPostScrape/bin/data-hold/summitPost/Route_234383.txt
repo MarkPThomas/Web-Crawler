@@ -22,6 +22,7 @@ date:
 difficulty:  
 elevation:  
 grade: II 
+hits: 1684  
 id: 234383 
 latitude:  
 location:  
@@ -30,6 +31,9 @@ my_route_quality:
 name: Aquaknobby 
 number_of_pitches: 3 
 page_url: http://www.summitpost.org/aquaknobby/234383 
+parent_code: 152754 
+parent_name: Pywiack Dome 
+parent_url: /pywiack-dome/152754 
 rock_difficulty: 5.9 (YDS) 
 route_quality: 0.8923076923076924 
 route_type: Trad Climbing 

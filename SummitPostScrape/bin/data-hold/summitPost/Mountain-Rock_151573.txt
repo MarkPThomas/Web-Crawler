@@ -119,6 +119,7 @@ date:
 difficulty:  
 elevation: 13494 
 grade:  
+hits: 22010  
 id: 151573 
 latitude: 37.143 
 location: California, United States, North America 
@@ -127,6 +128,9 @@ my_route_quality:
 name: Mount Thompson 
 number_of_pitches:  
 page_url: http://www.summitpost.org/mount-thompson/151573 
+parent_code: 171134 
+parent_name: Sequoia/Kings Canyon NP 
+parent_url: /sequoia-kings-canyon-np/171134 
 rock_difficulty:  
 route_quality:  
 route_type:  

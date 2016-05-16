@@ -71,6 +71,7 @@ date:
 difficulty: II AI1 (climbing); III D8 R2 (D-System ski descent) 
 elevation:  
 grade:  
+hits: 25209  
 id: 155574 
 latitude: 37.8997 
 location: California, United States, North America 
@@ -79,6 +80,9 @@ my_route_quality:
 name: Dana Couloir 
 number_of_pitches:  
 page_url: http://www.summitpost.org/dana-couloir/155574 
+parent_code: 150284 
+parent_name: Mount Dana 
+parent_url: /mount-dana/150284 
 rock_difficulty:  
 route_quality: 1.0 
 route_type: Snow Climb / Ski or Ice Climb 

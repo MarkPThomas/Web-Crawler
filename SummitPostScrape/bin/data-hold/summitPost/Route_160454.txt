@@ -92,6 +92,7 @@ date:
 difficulty: Class 2, Moderate Snow Steepness 
 elevation:  
 grade:  
+hits: 6005  
 id: 160454 
 latitude: 40.4878 
 location: California, United States, North America 
@@ -100,6 +101,9 @@ my_route_quality:
 name: North West Ridge 
 number_of_pitches:  
 page_url: http://www.summitpost.org/north-west-ridge/160454 
+parent_code: 150414 
+parent_name: Lassen Peak 
+parent_url: /lassen-peak/150414 
 rock_difficulty:  
 route_quality: 0.6923076923076923 
 route_type: Basic Snow Climb, scramble 

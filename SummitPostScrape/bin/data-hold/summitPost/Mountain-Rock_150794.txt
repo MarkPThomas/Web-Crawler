@@ -220,9 +220,9 @@ From downtown Moab drive 22 miles south on Route 191 to State Route 46. Turn eas
 <td><a href="/krishna-above-the-crux/110428/c-150794"><img alt="Krishna above the crux" src="/images/square/110428.jpg"></a></td>
 <td><a href="/mount-tukuhnikivatz/627171/c-150794"><img alt="Mount Tukuhnikivatz" src="/images/square/627171.JPG"></a></td>
 <td><a href="/photo-taken-03-july-2004/59657/c-150794"><img alt="Photo taken 03 July 2004...." src="/images/square/59657.jpg"></a></td>
-<td><a href="/mt-tuk-viewed-from-mt/21186/c-150794"><img alt="Mt. Tuk viewed from Mt...." src="/images/square/21186.jpg"></a></td>
 <td><a href="/skiing-tuk/398183/c-150794"><img alt="Skiing Tuk" src="/images/square/398183.jpg"></a></td>
 <td><a href="/mt-tukuhnikivatz-little-tuk/916641/c-150794"><img alt="Mt. Tukuhnikivatz &amp; Little Tuk" src="/images/square/916641.JPG"></a></td>
+<td><a href="/mt-tuk-viewed-from-mt/21186/c-150794"><img alt="Mt. Tuk viewed from Mt...." src="/images/square/21186.jpg"></a></td>
 </tr>
 <tr><td colspan="7" align="center">[ <a href="/mount-tukuhnikivatz/images/p-150794">View Gallery - 69 More Images</a> ]</td></tr>
 </table></div>
@@ -231,6 +231,7 @@ date:
 difficulty:  
 elevation: 12482 
 grade:  
+hits: 26860  
 id: 150794 
 latitude: 38.4394 
 location: Utah, United States, North America 
@@ -239,6 +240,9 @@ my_route_quality:
 name: Mount Tukuhnikivatz 
 number_of_pitches:  
 page_url: http://www.summitpost.org/mount-tukuhnikivatz/150794 
+parent_code: 190208 
+parent_name: La Sal Mountains 
+parent_url: /la-sal-mountains/190208 
 rock_difficulty:  
 route_quality:  
 route_type:  

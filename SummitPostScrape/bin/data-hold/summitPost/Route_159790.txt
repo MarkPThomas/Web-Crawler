@@ -167,6 +167,7 @@ date:
 difficulty: 5.2 - 5.12 
 elevation:  
 grade:  
+hits: 8738  
 id: 159790 
 latitude: 41.7381 
 location: New York, United States, North America 
@@ -175,6 +176,9 @@ my_route_quality:
 name: The Trapps 
 number_of_pitches:  
 page_url: http://www.summitpost.org/the-trapps/159790 
+parent_code: 152183 
+parent_name: Shawangunk "Gunks" 
+parent_url: /shawangunk-gunks/152183 
 rock_difficulty:  
 route_quality: 1.0 
 route_type: Technical Rock Climb 

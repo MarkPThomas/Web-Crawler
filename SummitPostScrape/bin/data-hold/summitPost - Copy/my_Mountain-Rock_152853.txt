@@ -1,0 +1,82 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>       Pioneer Peak is one of several peaks along the ridgeline that terminates Big Cottonwood Canyon. This peak, while small, is very picturesque, and the open slopes are great for skiing. This peak is also along the Brighton Ridge Run route. It is marked by a wide variety of colors from the mining tailings left over on the mountainside.<br>
+      During the summer, the peak can be climbed via some vague use trails that follow the ridgeline from Brighton's Crest Express lift to Sunrise Peak.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=61793" rel="no_follow"><img src="/images/thumb/61793.jpg"></a></td>
+<td><a href="/view_object.php?object_id=61790" rel="no_follow"><img src="/images/thumb/61790.jpg"></a></td>
+<td><a href="/view_object.php?object_id=61792" rel="no_follow"><img src="/images/thumb/61792.jpg"></a></td>
+<td><a href="/view_object.php?object_id=120088" rel="no_follow"><img src="/images/thumb/120088.jpg"></a></td>
+</tr></table>
+<a name="chapter_2"></a><h2>Getting There</h2>Driving time from downtown Salt Lake City is approximately 50 minutes.<br>
+From I-15 southbound near downtown Salt Lake City, follow these directions<br>
+I-15 S toward LAS VEGAS/CHEYENNE. 8.3 miles<br>
+Take the I-215 exit- exit number 302- toward BELT ROUTE. 0.2 miles <br>
+Merge onto I-215 E via the exit- on the left- toward SKI AREAS. 5.1 miles <br>
+Take the 6200 SO. exit- exit number 6- toward SKI AREAS/SOLITUDE / BRIGHTON/SNOWBIRD / ALTA. 0.2 miles  <br>
+Take the ramp toward SKI AREAS/SOLITUDE / BRIGHTON/SNOWBIRD / ALTA. 0.1 miles  <br>
+Turn RIGHT onto UT-190 E/E 6200 S. Continue to follow UT-190 E. 1.6 miles <br>
+Turn LEFT onto E BIG COTTONWOOD CANYON RD/UT-190. 14.0 miles<br>
+End at Brighton UT <br>
+<br>
+<br>
+Drive up Big Cottonwood Canyon to Brighton Ski Resort. Park in the ski resort parking lot and begin hiking from the main lodge.<br>
+<a name="chapter_3"></a><h2>Red Tape</h2>None.  Big Cottonwood Canyon occasionally closes due to avalanche dangers, but this is only during and immediately following some large snow storms.<br>
+<a name="chapter_4"></a><h2>When To Climb</h2>This peak is best climbed as a snowclimb or backcountry ski climb in late winter to early spring. It is best hiked in the fall once daytime temperatures are lower.<br>
+<a name="chapter_5"></a><h2>Camping</h2>There are many walk-in campgrounds in Big Cottonwood Canyon. Alternatively, free camping is permitted in the nearby Mt Olympus, Broads Fork Twin Peaks, or Lone Peak Wilderness areas as long as it is done at least 100 ft away from trails.<br>
+<a name="chapter_6"></a><h2>Mountain Conditions</h2>
+<a href="http://www.fs.fed.us/r4/wcnf/">Wasatch-Cache National Forest</a><br>
+<br>
+<a href="http://www.utah.com/ski/resorts/brighton.htm">Brighton Ski Resort</a><br>
+<br>
+<a href="http://www.avalanche.org/~uac/">Utah Avalanche Center</a><br>
+<br>
+<a href="http://www.csac.org/">The Avalanche Center</a><br>
+<br>
+<a href="http://www.xmission.com/~wmc/">Wasatch Mountain Club</a><br>
+<br>
+<br>
+<br>
+<a name="chapter_7"></a><h2>External Links</h2>
+<a href="http://www.wasatchhiker.com/wasatch-trails/silverlakebcc/">Silver Lake Trail</a>                    <a name="chapter_8"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/july-21-2004-pioneer-peak/61794/c-152853"><img alt="July 21, 2004 - Pioneer Peak..." src="/images/square/61794.jpg"></a></td>
+<td><a href="/july-21-2004-pioneer-peak/61793/c-152853"><img alt="July 21, 2004 - Pioneer Peak..." src="/images/square/61793.jpg"></a></td>
+<td><a href="/july-21-2004-wildflowers/61790/c-152853"><img alt="July 21, 2004 - Wildflowers..." src="/images/square/61790.jpg"></a></td>
+<td><a href="/pioneer-peak/257373/c-152853"><img alt="Pioneer Peak" src="/images/square/257373.jpg"></a></td>
+<td><a href="/july-21-2004-sunset-peak/61792/c-152853"><img alt="July 21, 2004 - Sunset Peak..." src="/images/square/61792.jpg"></a></td>
+<td><a href="/north-face-of-sunset-peak/347781/c-152853"><img alt="north face of Sunset Peak" src="/images/square/347781.JPG"></a></td>
+<td><a href="/pioneer-peak/534015/c-152853"><img alt="Pioneer Peak" src="/images/square/534015.JPG"></a></td>
+</tr>
+<tr>
+<td><a href="/pioneer-peak-from-west-side-of-sunset/210403/c-152853"><img alt="Pioneer Peak from West side of Sunset" src="/images/square/210403.jpg"></a></td>
+<td><a href="/lake-catherine-from-above/347777/c-152853"><img alt="Lake Catherine from above" src="/images/square/347777.JPG"></a></td>
+<td><a href="/sunrise-over-pioneer/867787/c-152853"><img alt="Sunrise over Pioneer" src="/images/square/867787.JPG"></a></td>
+<td><a href="/pioneer-peak-summit/257374/c-152853"><img alt="Pioneer Peak summit" src="/images/square/257374.jpg"></a></td>
+<td><a href="/pioneer-peak/257378/c-152853"><img alt="Pioneer Peak" src="/images/square/257378.jpg"></a></td>
+<td><a href="/pioneer-peak-from-the-summit/120088/c-152853"><img alt="Pioneer Peak from the summit..." src="/images/square/120088.jpg"></a></td>
+</tr>
+</table></div>
+            </article> 
+date:  
+difficulty:  
+elevation: 10450 
+grade:  
+id: 152853 
+latitude: 40.5809 
+location: Utah, United States, North America 
+longitude: -111.5894 
+my_route_quality:  
+name: Pioneer Peak 
+number_of_pitches:  
+page_url: http://www.summitpost.org/pioneer-peak/152853 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons:  
+time_required:  
+type: Mountain-Rock 
+

@@ -116,6 +116,7 @@ date:
 difficulty:  
 elevation: 11928 
 grade:  
+hits: 87531  
 id: 151301 
 latitude: 39.8108 
 location: Utah, United States, North America 
@@ -124,6 +125,9 @@ my_route_quality:
 name: Mount Nebo 
 number_of_pitches:  
 page_url: http://www.summitpost.org/mount-nebo/151301 
+parent_code: 171211 
+parent_name: Wasatch Range (South) 
+parent_url: /wasatch-range-south/171211 
 rock_difficulty:  
 route_quality:  
 route_type:  

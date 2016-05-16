@@ -28,6 +28,7 @@ date:
 difficulty: Class 2 
 elevation:  
 grade:  
+hits: 2778  
 id: 163992 
 latitude: 37.2914 
 location: California, United States, North America 
@@ -36,6 +37,9 @@ my_route_quality:
 name: Horton Lakes 
 number_of_pitches:  
 page_url: http://www.summitpost.org/horton-lakes/163992 
+parent_code: 153693 
+parent_name: South Basin Peak (pt. 13,240') 
+parent_url: /south-basin-peak-pt-13-240/153693 
 rock_difficulty:  
 route_quality: 0.0 
 route_type: Hike/Scramble 

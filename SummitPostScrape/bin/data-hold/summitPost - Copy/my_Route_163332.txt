@@ -1,0 +1,81 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Approach</h2>
+<br>
+Begin from the Mount Olympus Trail trailhead and head up the main trail. Pass Tolcat Canyon and Blister Hill. After the top of Blister Hill you begin to enter some groves of pine trees.   After passing through a couple of these, you will enter a brief clearing to your right as the trail switchbacks left. From here, head up the clearing - the arete should be easy to see from here (it is the near one). Just head to the base and pick a starting point!<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=82874" rel="no_follow"><img src="/images/thumb/82874.jpg"></a></td>
+<td><a href="/view_object.php?object_id=82878" rel="no_follow"><img src="/images/thumb/82878.jpg"></a></td>
+<td><a href="/view_object.php?object_id=82883" rel="no_follow"><img src="/images/thumb/82883.jpg"></a></td>
+</tr></table>
+<a name="chapter_2"></a><h2>Route Description</h2>
+<br>
+I discovered this route on one of my fores up Mt Olympus. Looking for something new, and to avoid the tedious final portion of the trail, I headed towards a rocky arete that led to the false summit just south of the trail.   <br>
+The route had sustained scrambling, solid rock, and excellent views - certainly one of the BEST class 3-4 routes in the Wasatch!<br>
+<br>
+Tour de Olympus:  Ascend the Mt Olympus Trail, then take the Forgotten Arete, finish off at the main summit. Then do the Summit Traverse and descend the West Ridge. Highly recommended!<br>
+_________________________________________________<br>
+<br>
+The route is roughly 700-800 vertical feet of sustained class 3 with some class 4 and low 5th class segments. The route can easily be abandoned by dropping into a chute to the south.<br>
+<br>
+From the bottom there are many starting points, but your best bet is to aim a little south of the arete in the beginning. Scramble back and forth up a series of class 2-3 ledges. Eventually, by heading up these ledges (or taking a ramp on the N end of the arete midway up this first part), the arete is gained.<br>
+<br>
+As you climb the arete, it is possible to stay on it religiously for almost the entire route. For the most part it is class 3-4 with two 5th class cruxes.<br>
+<br>
+The first crux is about 1/3 of the way up and consists of either an awkward chute w/ loose rock, or a mantle and friction traverse to the West to regain the direct ridge. I'd rate this 5.2 at the most.<br>
+<br>
+The second crux is a 15-20ft slab that I would also consider upper 4th to low 5th class. This is just below the top of the minor summit.<br>
+<br>
+Once you reach the minor summit, there is a short class 3 knife-edge ridge and some easy X-country for about 200 yards to reach the main trail at the saddle. <br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=82876" rel="no_follow"><img src="/images/thumb/82876.jpg"></a></td>
+<td><a href="/view_object.php?object_id=82877" rel="no_follow"><img src="/images/thumb/82877.jpg"></a></td>
+<td><a href="/view_object.php?object_id=82875" rel="no_follow"><img src="/images/thumb/82875.jpg"></a></td>
+</tr></table>
+<a name="chapter_3"></a><h2>Essential Gear</h2>
+<br>
+Good sturdy shoes and the 10 Essentials. There is very little loose rock on the route, and there are few places where you could knock a rock on someone unless they were right behind you, so a helmet probably isn't needed. <br>
+Also, the crux sections are short and there is a lot of potential for rope drag, so the route is best if free-soloed.<br>
+<a name="chapter_4"></a><h2>Miscellaneous Info</h2>
+<br>
+If you have information about this route that doesn't pertain to any of the other sections, please add it here.<br>
+<a name="chapter_5"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/december-19th-2004-the/82883/c-163332"><img alt="December 19th, 2004 - The..." src="/images/square/82883.jpg"></a></td>
+<td><a href="/december-19th-2004-looking/82878/c-163332"><img alt="December 19th, 2004 - Looking..." src="/images/square/82878.jpg"></a></td>
+<td><a href="/december-19th-2004/82874/c-163332"><img alt="December 19th, 2004 -..." src="/images/square/82874.jpg"></a></td>
+<td><a href="/feb-26-2006/176744/c-163332"><img alt="feb 26 2006" src="/images/square/176744.jpg"></a></td>
+<td><a href="/december-19th-2004/82876/c-163332"><img alt="December 19th, 2004 -..." src="/images/square/82876.jpg"></a></td>
+<td><a href="/december-19th-2004-looking/82875/c-163332"><img alt="December 19th, 2004 - Looking..." src="/images/square/82875.jpg"></a></td>
+<td><a href="/feb26-2006/176742/c-163332"><img alt="feb26 2006" src="/images/square/176742.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/december-19th-2004-looking/82877/c-163332"><img alt="December 19th, 2004 - Looking..." src="/images/square/82877.jpg"></a></td>
+<td><a href="/forgotten-arete/176740/c-163332"><img alt="Forgotten Arete" src="/images/square/176740.jpg"></a></td>
+<td><a href="/topping-out-arete/176745/c-163332"><img alt="topping out arete" src="/images/square/176745.jpg"></a></td>
+</tr>
+</table></div>
+            </article> 
+date:  
+difficulty: I 5.2 
+elevation:  
+grade:  
+id: 163332 
+latitude: 40.657 
+location: Utah, United States, North America 
+longitude: -111.77 
+my_route_quality:  
+name: Forgotten Arete 
+number_of_pitches:  
+page_url: http://www.summitpost.org/forgotten-arete/163332 
+rock_difficulty:  
+route_quality: 0.8923076923076924 
+route_type: Scramble 
+seasons:  
+time_required: Half a day 
+type: Route 
+

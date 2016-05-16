@@ -1,0 +1,126 @@
+activities: Trad Climbing, Sport Climbing, Toprope 
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Approach</h2>Park at a turnout on either side of the road 2.8 miles up the canyon from the neon sign and the Park N’ Ride. At the pullout on the north (left) side of the road there is a distinct trail that heads up a shaded wash. Follow this trail, and in about 100 yards you will reach the falls. Once they are in sight, keep an eye out for a fork in the trail. The feint right fork leads to a series of climbs under a large roof a ways right of the falls. The more prominent left fork passes by a large boulder (convenient for sitting, leaving gear, and roping up), cuts around the backside, and crosses the stream right beneath the falls to reach the base of the routes on the left of the falls.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr><td><a href="/view_object.php?object_id=113867" rel="no_follow"><img src="/images/thumb/113867.jpg"></a></td></tr></table>
+<a name="chapter_2"></a><h2>Route Description</h2>Lisa Falls is a great place to climb Spring through Fall, any time of day. The base is well shaded by trees and offers many flat places to belay, or just hang out and relax. The roaring waterfall gives the place a nice atmosphere, while the spray of water and its ensuing breeze also help keep the area cool.  The routes here climb granite polished smooth as snot, holdless friction faces, clean cracks, and juggy overhangs. Also, the views of Little Cottonwood Canyon and the lower slopes of North Thunder Mountain are wonderful.  <p>  If you climb above the falls there are more routes on the vertical granite walls of the gorge, called The Freedom Wall. If you keep climbing, you can climb the Broads Fork Twin Peaks via the <a href="http://www.summitpost.org/mountains/route_link.pl?route_id=2769&amp;object_id=390">Lisa Falls Direct</a>, a very nice mountaineering route up the peak.  </p>
+<p>  The slabs recline at such an angle that the routes look shorter than they really are, and they also look much easier than they really are, so be careful! One possible drawback to the area is that it is also popular among Salt Lake Residents for an afternoon hangout. Some climbers may be irritated by gawkers within such a short distance. Also, the occasional loiterer sometimes turns into a foolish free-soloer. I’ve had more than one occasion when visitors exploring the cliffs above knocked large rocks down, landing in the belay areas with absolutely no warning – keep an eye out for these sorts of people!  </p>
+<p>  </p>
+<table border="1" cellspacing="0"><tr><td>  <table border="0" cellspacing="2" cellpadding="2">    <tr bgcolor="#c0c0c0"><td colspan="5"><font style="font-weight:bold;">ROUTES OVERVIEW</font></td></tr>  <tr>  <td align="center"><font style="font-weight:bold;">Route</font></td>  <td align="center"><font style="font-weight:bold;">Difficulty</font></td>  <td align="center"><font style="font-weight:bold;">Rating</font></td>  <td align="center"><font style="font-weight:bold;">FA</font></td>  <td align="center"><font style="font-weight:bold;">Trad/Sport</font></td>    </tr>
+<tr bgcolor="#c0c0c0"><td colspan="5"><font style="font-weight:bold;">Lisa Falls – Lower Slab</font></td></tr>    <tr>  <td><a href="#Lisa+Falls+Left+-+5.8+R">Lisa Falls Left</a></td>  <td align="center">5.8 R</td>  <td align="center"><img src="http://www.summitpost.org/images/stara.gif"></td>  <td>Unknown</td>  <td align="center">Tr</td>
+</tr>    <tr>  <td bgcolor="#e0e0e0"><a href="#Sweet+Spot+-+5.8++R">Sweet Spot</a></td>  <td bgcolor="#e0e0e0" align="center">5.8+ R</td>  <td bgcolor="#e0e0e0" align="center"><img src="http://www.summitpost.org/images/stara.gif"></td>  <td bgcolor="#e0e0e0">Unknown</td>  <td bgcolor="#e0e0e0" align="center">Sp</td>
+</tr>    <tr>  <td><a href="#Sweep+Left+-+5.10b">Sweep Left</a></td>  <td align="center">5.10b</td>  <td align="center"><img src="http://www.summitpost.org/images/stara.gif"></td>  <td>1994, Tony Calderone &amp; James Preziosi</td>  <td align="center">Sp</td>
+</tr>    <tr>  <td bgcolor="#e0e0e0">End Run</td>  <td bgcolor="#e0e0e0" align="center">5.7</td>  <td bgcolor="#e0e0e0" align="center"></td>  <td bgcolor="#e0e0e0">Unknown</td>  <td bgcolor="#e0e0e0" align="center">Tr</td>
+</tr>    <tr>  <td><a href="#Flee+Flicker+-+5.7+">Flee Flicker</a></td>  <td align="center">5.7+</td>  <td align="center"><img src="http://www.summitpost.org/images/stara.gif"></td>  <td>Unknown</td>  <td align="center">Sp</td>
+</tr>    <tr>  <td bgcolor="#e0e0e0"><a href="#Fleeting+Glimpse+-+5.8+">Fleeting Glimpse</a></td>  <td bgcolor="#e0e0e0" align="center">5.8+</td>  <td bgcolor="#e0e0e0" align="center"><img src="http://www.summitpost.org/images/stara.gif"></td>  <td bgcolor="#e0e0e0">Unknown</td>  <td bgcolor="#e0e0e0" align="center">Sp</td>
+</tr>    <tr>  <td><a href="#Lisa+Falls+Right+-+5.5">Lisa Falls Right</a></td>  <td align="center">5.5</td>  <td align="center">
+<img src="http://www.summitpost.org/images/stara.gif"><img src="http://www.summitpost.org/images/stara.gif">
+</td>  <td>Unknown</td>  <td align="center">Tr</td>
+</tr>    <tr>  <td bgcolor="#e0e0e0"><a href="#Lefty+-+5.4">Lefty</a></td>  <td bgcolor="#e0e0e0" align="center">5.4</td>  <td bgcolor="#e0e0e0" align="center"></td>  <td bgcolor="#e0e0e0">Unknown</td>  <td bgcolor="#e0e0e0" align="center">Tr</td>
+</tr>    <tr>  <td><a href="#Hard+Knocks+-+5.9+">Hard Knocks</a></td>  <td align="center">5.9+</td>  <td align="center"><img src="http://www.summitpost.org/images/stara.gif"></td>  <td>Unknown</td>  <td align="center">Sp</td>
+</tr>    <tr>  <td bgcolor="#e0e0e0"><a href="#Neurotica+-+5.5">Neurotica</a></td>  <td bgcolor="#e0e0e0" align="center">5.5</td>  <td bgcolor="#e0e0e0" align="center"><img src="http://www.summitpost.org/images/stara.gif"></td>  <td bgcolor="#e0e0e0">Unknown</td>  <td bgcolor="#e0e0e0" align="center">Tr</td>
+</tr>    <tr>  <td><a href="#Safety+Blitz+-+5.7">Safety Blitz</a></td>  <td align="center">5.7</td>  <td align="center"></td>  <td>Unknown</td>  <td align="center">Tr</td>
+</tr>    <tr>  <td bgcolor="#e0e0e0">Rodan</td>  <td bgcolor="#e0e0e0" align="center">5.10d</td>  <td bgcolor="#e0e0e0" align="center"><img src="http://www.summitpost.org/images/stara.gif"></td>  <td bgcolor="#e0e0e0">1996, Jason Ball &amp; Doug Hunter</td>  <td bgcolor="#e0e0e0" align="center">Sp</td>
+</tr>    <tr>  <td>Under the Skirt and Clip the Bush</td>  <td align="center">5.10b</td>  <td align="center"><img src="http://www.summitpost.org/images/stara.gif"></td>  <td>1992, Tony Calderone &amp; Kevin Standifer</td>  <td align="center">Sp</td>
+</tr>    <tr>  <td bgcolor="#e0e0e0"><a href="#Drag+Queen+-+5.8+">Drag Queen</a></td>  <td bgcolor="#e0e0e0" align="center">5.8+</td>  <td bgcolor="#e0e0e0" align="center"><img src="http://www.summitpost.org/images/stara.gif"></td>  <td bgcolor="#e0e0e0">1992, Tony Calderone &amp; Kathy Lagerquist</td>  <td bgcolor="#e0e0e0" align="center">Tr</td>
+</tr>    <tr>  <td>Where’s Winky?</td>  <td align="center">5.8R</td>  <td align="center"></td>  <td>1994, Jay Knight &amp; Layne Oliver</td>  <td align="center">Tr</td>
+</tr>    <tr bgcolor="#c0c0c0"><td colspan="5"><font style="font-weight:bold;">Lisa Falls – The Freedom Wall</font></td></tr>    <tr>  <td>Land of the Free</td>  <td align="center">5.11a</td>  <td align="center">
+<img src="http://www.summitpost.org/images/stara.gif"><img src="http://www.summitpost.org/images/stara.gif">
+</td>  <td>1993, Tony Calderone</td>  <td align="center">Sp/Tr</td>
+</tr>    <tr>  <td bgcolor="#e0e0e0">Home of the Brave</td>  <td bgcolor="#e0e0e0" align="center">5.11d R</td>  <td bgcolor="#e0e0e0" align="center"></td>  <td bgcolor="#e0e0e0">Unknown</td>  <td bgcolor="#e0e0e0" align="center">Tr</td>
+</tr>    <tr>  <td>Free Tibet</td>  <td align="center">5.8+</td>  <td align="center"></td>  <td>1993, Tony Calderone &amp; Wendy Lagerquist</td>  <td align="center">Tr</td>
+</tr>    <tr>  <td bgcolor="#e0e0e0">Freedom Fighter</td>  <td bgcolor="#e0e0e0" align="center">5.10b</td>  <td bgcolor="#e0e0e0" align="center"><img src="http://www.summitpost.org/images/stara.gif"></td>  <td bgcolor="#e0e0e0">1993, Tony Calderone</td>  <td bgcolor="#e0e0e0" align="center">Sp</td>
+</tr>    <tr>  <td>De Oppresso Liber</td>  <td align="center">5.10d</td>  <td align="center">
+<img src="http://www.summitpost.org/images/stara.gif"><img src="http://www.summitpost.org/images/stara.gif">
+</td>  <td>1993, Tony Calderone</td>  <td align="center">Sp</td>
+</tr>    <tr>  <td bgcolor="#e0e0e0">Kiss Me Kate</td>  <td bgcolor="#e0e0e0" align="center">5.10b</td>  <td bgcolor="#e0e0e0" align="center">
+<img src="http://www.summitpost.org/images/stara.gif"><img src="http://www.summitpost.org/images/stara.gif">
+</td>  <td bgcolor="#e0e0e0">1993, Tony Calderone</td>  <td bgcolor="#e0e0e0" align="center">Sp</td>
+</tr>    <tr>  <td>On the Lip</td>  <td align="center">5.11b</td>  <td align="center"><img src="http://www.summitpost.org/images/stara.gif"></td>  <td>1993, Tony Calderone</td>  <td align="center">Sp</td>
+</tr>    <tr>  <td bgcolor="#e0e0e0">Fire for Affect</td>  <td bgcolor="#e0e0e0" align="center">5.8</td>  <td bgcolor="#e0e0e0" align="center"></td>  <td bgcolor="#e0e0e0">1992, Tony Calderone &amp; Kathy Lagerquist</td>  <td bgcolor="#e0e0e0" align="center">Tr</td>
+</tr>    <tr><td colspan="5"><small><i>Route overview information used from Stuart &amp; Bret Ruckman's <a href="http://www.amazon.com/exec/obidos/ASIN/0762727306/summitpost-20/103-3515982-7251006">Rock Climbing the Wasatch Range</a>. In depth information is from personal experience</i></small></td></tr>  </table>  </td></tr></table>  <br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=113856" rel="no_follow"><img src="/images/thumb/113856.jpg"></a></td>
+<td><a href="/view_object.php?object_id=113855" rel="no_follow"><img src="/images/thumb/113855.jpg"></a></td>
+<td><a href="/view_object.php?object_id=113865" rel="no_follow"><img src="/images/thumb/113865.jpg"></a></td>
+<td><a href="/view_object.php?object_id=113866" rel="no_follow"><img src="/images/thumb/113866.jpg"></a></td>
+</tr></table>
+<a name="chapter_3"></a><h2>Anchors and Descents</h2>There are four bolted anchors here. The bolted anchors on the far side of the falls can be used to top-rope Lisa Falls Left (5.8 R), Sweet Spot (5.8+ R), and Sweep Left (5.10b). These can be reached by scrambling up a vegetated gulley to the left of the routes.  The anchors may seem to be in a place with high rope drag, but they’re actually set to hold the rope above a bulge lower down and therefore do not generate much rope drag unless the anchor point is set too low – have faith and use normal runners on the anchor. Climbers can lower the 82’ to the bottom or walk off these climbs.  <p>  The next set of bolts are found to the right of the falls on a roof – <i>NOT AS SHOWN IN THE GUIDEBOOK!</i> This is used as an anchor for Flee Flicker (5.7), Fleeting Glimpse (5.8+), and Lisa Falls Right (5.5). It is in an awkward place for belaying a Second as the belayer is half-hanging on the anchor and must lap-coil the rope. It is also in a bad place to begin Hard Knocks (5.9+) and the continuation of Lisa Falls Right. To continue on these, one must belay the second pitch from an old set of bolts with rap rings (shown as the only anchor in the guidebook) about 15 feet down on a nicer ledge. I assume the current anchor with chains is the one in use because it introduces less rope drag for climbers top-roping the first pitch climbs. Climbers must lower or rap the 65’ from this anchor.   </p>
+<p>  Another set of bolts are found another 68’ above the anchor on the roof. From here, two rapps with a single rope (or one rap with a double) can be done, or with a little more climbing, the routes can be walked off to the south east.  </p>
+<p>  Finally, there are a set of bolts above a large roof around the corner from the falls at the base of a small tree. Descents are made by lowering or rapelling.  <br>
+</p>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=113859" rel="no_follow"><img src="/images/thumb/113859.jpg"></a></td>
+<td><a href="/view_object.php?object_id=113860" rel="no_follow"><img src="/images/thumb/113860.jpg"></a></td>
+<td><a href="/view_object.php?object_id=113861" rel="no_follow"><img src="/images/thumb/113861.jpg"></a></td>
+<td><a href="/view_object.php?object_id=113863" rel="no_follow"><img src="/images/thumb/113863.jpg"></a></td>
+</tr></table>
+<a name="chapter_4"></a><h2>Lisa Falls Left - 5.8 R</h2>This route follows a groove, which turns into a small crack higher up.  This route is mostly unprotected, so most people top-rope it.  <p>  See Photos <a href="http://www.summitpost.org/mountains/photo_link.pl?photo_id=166180&amp;object_id=5136&amp;type=mountain&amp;mountain_id=5136&amp;route_id=">(1)</a>, <a href="http://www.summitpost.org/mountains/photo_link.pl?photo_id=166181&amp;object_id=5136&amp;type=mountain&amp;mountain_id=5136&amp;route_id=">(2)</a>  <br>
+<a name="chapter_5"></a></p>
+<h2>Sweet Spot - 5.8+ R</h2>This route also has poor protection and slippery rock and is usually top-roped. Follow Lisa Falls Left and step right into a crescent-shaped ledge. There is a single bolt here that can be clipped for protection before launching up the finger-tip crack.  <p>  See Photos <a href="http://www.summitpost.org/mountains/photo_link.pl?photo_id=166180&amp;object_id=5136&amp;type=mountain&amp;mountain_id=5136&amp;route_id=">(1)</a>, <a href="http://www.summitpost.org/mountains/photo_link.pl?photo_id=166181&amp;object_id=5136&amp;type=mountain&amp;mountain_id=5136&amp;route_id=">(2)</a>    <br>
+<a name="chapter_6"></a></p>
+<h2>Sweep Left - 5.10b</h2>The crux of this route is below the first bolt, within 8 ft of the ground. The crux is a sheet extremely slick polished granite. I’ve climbed it once – it required reaching VERY far and high with the feet, with very careful, smooth, and slow standing. In frustration, I’ve gotten a running start from the ground and managed to run past the crux, only to fail to get a grip above it :-D . Beyond this crux, a fun roof is surmounted, and three more bolts are clipped as you climb out onto a friction face with micro-flakes for footholds. The fingerholds here consisted of shoving the fat into a hole or on a flake corner, and were only useful for steadying the upper body when standing.  <p>  See Photos <a href="http://www.summitpost.org/mountains/photo_link.pl?photo_id=166180&amp;object_id=5136&amp;type=mountain&amp;mountain_id=5136&amp;route_id=">(1)</a>, <a href="http://www.summitpost.org/mountains/photo_link.pl?photo_id=166181&amp;object_id=5136&amp;type=mountain&amp;mountain_id=5136&amp;route_id=">(2)</a>  <br>
+<a name="chapter_7"></a></p>
+<h2>Flee Flicker - 5.7+</h2>Climb three bolts to the right of the falls for this fun sport route. The rock is polished and the crux is around the first bolt. Higher up, the climbing is easer slightly to the left of the route on rougher rock. There really isn’t anything to grab with your hands on this route.  <p>  See Photos <a href="http://www.summitpost.org/mountains/photo_link.pl?photo_id=166185&amp;object_id=5136&amp;type=mountain&amp;mountain_id=5136&amp;route_id=">(1)</a>, <a href="http://www.summitpost.org/mountains/photo_link.pl?photo_id=166187&amp;object_id=5136&amp;type=mountain&amp;mountain_id=5136&amp;route_id=">(2)</a>, <a href="http://www.summitpost.org/mountains/photo_link.pl?photo_id=166189&amp;object_id=5136&amp;type=mountain&amp;mountain_id=5136&amp;route_id=">(3)</a>    <br>
+<a name="chapter_8"></a></p>
+<h2>Fleeting Glimpse - 5.8+</h2>The next line of three bolts to the right of Flee Flicker. The crux is lower down on a fingertip lieback and polished granite. Above this is a runout over a bulge to reach the second bolt.  <p>  See Photos <a href="http://www.summitpost.org/mountains/photo_link.pl?photo_id=166185&amp;object_id=5136&amp;type=mountain&amp;mountain_id=5136&amp;route_id=">(1)</a>, <a href="http://www.summitpost.org/mountains/photo_link.pl?photo_id=166187&amp;object_id=5136&amp;type=mountain&amp;mountain_id=5136&amp;route_id=">(2)</a>, <a href="http://www.summitpost.org/mountains/photo_link.pl?photo_id=166189&amp;object_id=5136&amp;type=mountain&amp;mountain_id=5136&amp;route_id=">(3)</a>  <br>
+<a name="chapter_9"></a></p>
+<h2>Lisa Falls Right - 5.5</h2>
+<b>Pitch 1:</b>  A fun two-pitch trad route. Follow a rounded crack to the right onto a ledge. From here an unprotected 5.5 mantle move is the crux, with easier climbing above. I reccoment stopping at the two bolts with rap rings and belaying from here, unless you’re planning on lowering down the first pitch.  <p>  <b>Pitch 2:</b>  Really fun. Do an ascending traverse to the right to gain a long crack to the right of a large rust-colored slab. The crack is a fun continuous lieback for 20-30 ft (5.4) before reaching the next bolt anchor. The crack is parallel and straight, so cams would be helpful here, although I managed to get a couple of hexes in with some finagling. Descend the route in two rapps or climb a little higher and walk off.  </p>
+<p>  See Photos <a href="http://www.summitpost.org/mountains/photo_link.pl?photo_id=166185&amp;object_id=5136&amp;type=mountain&amp;mountain_id=5136&amp;route_id=">(1)</a>, <a href="http://www.summitpost.org/mountains/photo_link.pl?photo_id=166189&amp;object_id=5136&amp;type=mountain&amp;mountain_id=5136&amp;route_id=">(2)</a>, <a href="http://www.summitpost.org/mountains/photo_link.pl?photo_id=166187&amp;object_id=5136&amp;type=mountain&amp;mountain_id=5136&amp;route_id=">(3)</a>, <a href="http://www.summitpost.org/mountains/photo_link.pl?photo_id=166186&amp;object_id=5136&amp;type=mountain&amp;mountain_id=5136&amp;route_id=">(4)</a>  <br>
+<a name="chapter_10"></a></p>
+<h2>Lefty - 5.4</h2>This route heads out left beneath the roof that the first set of chained anchors are on. There’s not much to note for this variation, except you can walk off from the top.  <p>  See Photos <a href="http://www.summitpost.org/mountains/photo_link.pl?photo_id=166185&amp;object_id=5136&amp;type=mountain&amp;mountain_id=5136&amp;route_id=">(1)</a>, <a href="http://www.summitpost.org/mountains/photo_link.pl?photo_id=166189&amp;object_id=5136&amp;type=mountain&amp;mountain_id=5136&amp;route_id=">(2)</a><br>
+<a name="chapter_11"></a></p>
+<h2>Hard Knocks - 5.9+</h2>Climb the face left of the dihedral on the second pitch of Lisa Falls Right. It is rust-colored and polished. It is protected with one bolt above a good ledge, but it can also be top roped from the bolted anchors above. There are some possibilites to place pro before reaching the bolt, but after that, you're on your own. Fun climb on thin holds on superslick rock over 60 ft off the deck!  <p>  See Photos <a href="http://www.summitpost.org/mountains/photo_link.pl?photo_id=166185&amp;object_id=5136&amp;type=mountain&amp;mountain_id=5136&amp;route_id=">(1)</a>, <a href="http://www.summitpost.org/mountains/photo_link.pl?photo_id=166189&amp;object_id=5136&amp;type=mountain&amp;mountain_id=5136&amp;route_id=">(2)</a><br>
+<a name="chapter_12"></a></p>
+<h2>Neurotica - 5.5</h2>This climb starts out in the same spot as Lisa Falls Right, but rather than cutting left, continue up to the right of a roof, climbing a fun finger-crack that dead-ends into a roof. There is currently a nut permanently lodged in the crack right before the roof, and right now it still looks good to use, although I protected the crack a little earlier as well. From here, climb over the roof (5.5). Protection above this was sketchy, and I could only find one shallow, somewhat flaring crack to place a Size 1 Metolius Cam (or a BD 0.3).   <p>  Above the roof is a runout along a seam, angling right before cutting left to reach the 5.4 dihedral via some friction face climbing.  Your next opportunity for placing pro after the roof is at the dihedral!  </p>
+<p>  Finally, climb up the 5.4 dihedral (cams work best here, but hexes can get you by) to reach the anchor bolts. The route is a full pitch, taking about 165' of rope.  </p>
+<p>  See Photos <a href="http://www.summitpost.org/mountains/photo_link.pl?photo_id=166185&amp;object_id=5136&amp;type=mountain&amp;mountain_id=5136&amp;route_id=">(1)</a>, <a href="http://www.summitpost.org/mountains/photo_link.pl?photo_id=166186&amp;object_id=5136&amp;type=mountain&amp;mountain_id=5136&amp;route_id=">(2)</a>  <br>
+<a name="chapter_13"></a></p>
+<h2>Safety Blitz - 5.7</h2>From the trail that heads to the roof area, follow the granite slab left. Start here and climb along the edge of a step and through a notch in the roof (5.7), which I personally think is more like a 5.6 move. From here, lower off of the chains, or continue along the flake, traversing over to a seam on the left, and passing under a roof to reach the set of bolts atop the second pitch of Lisa Falls Right (which is a full pitch of trad climbing).  <p>  See Photo <a href="http://www.summitpost.org/mountains/photo_link.pl?photo_id=166194&amp;object_id=5136&amp;type=mountain&amp;mountain_id=5136&amp;route_id=5825">(1)</a><br>
+<a name="chapter_14"></a></p>
+<h2>Drag Queen - 5.8+</h2>Climb up onto the first ledge, and then climb over the roof to the right of Under the Skirt via a right-leaning crack. You can clip the hidden bolt from Under the Skirt right before the crack.  There is a stuck nut in this crack, that is in solid and looks new.   <p>  If you top-rope this, be careful. You are enough to the side of the anchor that you could pendulum into the roof - wear a helmet or don't fall!  </p>
+<p>  See Photos <a href="http://www.summitpost.org/mountains/photo_link.pl?photo_id=166192&amp;object_id=5136&amp;type=mountain&amp;mountain_id=5136&amp;route_id=5825">(1)</a>, <a href="http://www.summitpost.org/mountains/photo_link.pl?photo_id=166194&amp;object_id=5136&amp;type=mountain&amp;mountain_id=5136&amp;route_id=5825">(2)</a>.<br>
+<a name="chapter_15"></a></p>
+<h2>Essential Gear</h2>Most of the routes here are either top-roped or are sport climbs, so some slings and a set of 5 or 6 quickdraws should be plenty. For the trad routes, bring a variety of nut sizes, as the cracks vary a lot in their size! Also, cams would be nice, but aren’t crucial, for climbing the 20 ft crack on Lisa Falls Right.<br>
+<a name="chapter_16"></a><h2>Other Info</h2>If you have additional info for routes described or have done a route not described in depth, please put the info here and I'll integrate it into the page!<br>
+                                          <a name="chapter_17"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/july-3rd-2005-in-the/113867/c-165762"><img alt="July 3rd, 2005 - In the..." src="/images/square/113867.jpg"></a></td>
+<td><a href="/lisa-falls/969501/c-165762"><img alt="Lisa Falls" src="/images/square/969501.JPG"></a></td>
+<td><a href="/july-3rd-2005-the-main/113859/c-165762"><img alt="July 3rd, 2005 - The main..." src="/images/square/113859.jpg"></a></td>
+<td><a href="/june-25th-2005-the-routes/113855/c-165762"><img alt="June 25th, 2005 - The routes..." src="/images/square/113855.jpg"></a></td>
+<td><a href="/july-3rd-2005-the-routes/113856/c-165762"><img alt="July 3rd, 2005 - The routes..." src="/images/square/113856.jpg"></a></td>
+<td><a href="/july-3rd-2005-the-main/113860/c-165762"><img alt="July 3rd, 2005 - The main..." src="/images/square/113860.jpg"></a></td>
+<td><a href="/july-3rd-2005-the-main/113861/c-165762"><img alt="July 3rd, 2005 - The main..." src="/images/square/113861.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/july-3rd-2005-the-main/113863/c-165762"><img alt="July 3rd, 2005 - The main..." src="/images/square/113863.jpg"></a></td>
+<td><a href="/july-3rd-2005-two-routes/113865/c-165762"><img alt="July 3rd, 2005 - Two routes..." src="/images/square/113865.jpg"></a></td>
+<td><a href="/july-3rd-2005-the-roofs/113866/c-165762"><img alt="July 3rd, 2005 - The roofs..." src="/images/square/113866.jpg"></a></td>
+</tr>
+</table></div>
+            </article> 
+date:  
+difficulty:  
+elevation: 6800 
+grade:  
+id: 165762 
+latitude: 40.5741 
+location: Utah, United States, North America 
+longitude: -111.7271 
+my_route_quality:  
+name: Lisa Falls 
+number_of_pitches:  
+page_url: http://www.summitpost.org/lisa-falls/165762 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons: Spring, Summer, Fall 
+time_required:  
+type: Mountain-Rock 
+

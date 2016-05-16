@@ -123,6 +123,7 @@ date:
 difficulty:  
 elevation:  
 grade: III 
+hits: 3149  
 id: 633899 
 latitude:  
 location: California, United States, North America 
@@ -131,6 +132,9 @@ my_route_quality:
 name: Rolling Stones 
 number_of_pitches:  
 page_url: http://www.summitpost.org/rolling-stones/633899 
+parent_code: 150921 
+parent_name: Mount Agassiz 
+parent_url: /mount-agassiz/150921 
 rock_difficulty: 5.8 (YDS) 
 route_quality: 0.2 
 route_type: Mountaineering, Trad Climbing 

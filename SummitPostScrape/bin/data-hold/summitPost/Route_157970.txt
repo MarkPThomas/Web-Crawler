@@ -93,6 +93,7 @@ date:
 difficulty: III, AI2 or WI3 
 elevation:  
 grade:  
+hits: 6292  
 id: 157970 
 latitude: 37.143 
 location: California, United States, North America 
@@ -101,6 +102,9 @@ my_route_quality:
 name: Harrington Couloir 
 number_of_pitches:  
 page_url: http://www.summitpost.org/harrington-couloir/157970 
+parent_code: 151573 
+parent_name: Mount Thompson 
+parent_url: /mount-thompson/151573 
 rock_difficulty:  
 route_quality: 1.0 
 route_type: Ice Climb 

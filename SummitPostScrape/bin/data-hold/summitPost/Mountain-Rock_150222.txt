@@ -266,6 +266,7 @@ date:
 difficulty:  
 elevation: 14003 
 grade:  
+hits: 58199  
 id: 150222 
 latitude: 37.0981 
 location: California, United States, North America 
@@ -274,6 +275,9 @@ my_route_quality:
 name: Thunderbolt Peak 
 number_of_pitches:  
 page_url: http://www.summitpost.org/thunderbolt-peak/150222 
+parent_code: 171074 
+parent_name: Palisades 
+parent_url: /palisades/171074 
 rock_difficulty:  
 route_quality:  
 route_type:  

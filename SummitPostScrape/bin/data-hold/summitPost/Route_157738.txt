@@ -147,6 +147,7 @@ date:
 difficulty: III, 5.4 
 elevation:  
 grade:  
+hits: 10705  
 id: 157738 
 latitude: 37.2706 
 location: California, United States, North America 
@@ -155,6 +156,9 @@ my_route_quality:
 name: East Arete 
 number_of_pitches:  
 page_url: http://www.summitpost.org/east-arete/157738 
+parent_code: 150440 
+parent_name: Mount Humphreys 
+parent_url: /mount-humphreys/150440 
 rock_difficulty:  
 route_quality: 1.0 
 route_type: rock climbing 

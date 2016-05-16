@@ -131,6 +131,7 @@ date:
 difficulty:  
 elevation: 12306 
 grade:  
+hits: 17706  
 id: 151824 
 latitude: 36.577 
 location: California, United States, North America 
@@ -139,6 +140,9 @@ my_route_quality:
 name: Thor Peak 
 number_of_pitches:  
 page_url: http://www.summitpost.org/thor-peak/151824 
+parent_code: 170988 
+parent_name: John Muir Wilderness 
+parent_url: /john-muir-wilderness/170988 
 rock_difficulty:  
 route_quality:  
 route_type:  

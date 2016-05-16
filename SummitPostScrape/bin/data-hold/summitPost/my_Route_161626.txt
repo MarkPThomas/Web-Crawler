@@ -35,6 +35,7 @@ date:
 difficulty: Class 2 Walk-up 
 elevation:  
 grade:  
+hits: 2500  
 id: 161626 
 latitude: 40.5851 
 location: Utah, United States, North America 
@@ -43,6 +44,9 @@ my_route_quality:
 name: via Mount Millicent 
 number_of_pitches:  
 page_url: http://www.summitpost.org/via-mount-millicent/161626 
+parent_code: 152858 
+parent_name: Mount Wolverine & Mount Tuscarora 
+parent_url: /mount-wolverine-mount-tuscarora/152858 
 rock_difficulty:  
 route_quality: 1.0 
 route_type: Scramble/Basic Snow 

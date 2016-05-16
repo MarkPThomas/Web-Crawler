@@ -1,0 +1,93 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>Junction Peak was named by ninetheenth century Sierra luminary Joseph LeConte in 1896 after its situation at the junction of the Sierra Crest and Kings-Kern Divide. It saw its first ascent three years later when E.B. Copeland and E.N. Anderson climbed it via the South Ridge on August 8, 1899. This is a highly worthwhile peak despite (or perhaps because of!) its relatively remote location. In Copeland's words, "the view cannot be rivaled by that from any neighboring mountain, including as it does the basins of the Kings and Kern, with the Inyo Valley, the picture of depth..."<p>    There are at least six known routes on the peak. It is third class by the easiest route, and a grade III 5.7 technical route has been established on the North Buttress by none other than Fred Beckey. Junction Peak makes for a very long day hike from either Symmes Creek or Onion Valley. Through hikers on the John Muir Trail can bag the summit via a third class scramble from Forester Pass. <br>
+</p>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=17866" rel="no_follow"><img src="/images/thumb/17866.jpg"></a></td>
+<td><a href="/view_object.php?object_id=17865" rel="no_follow"><img src="/images/thumb/17865.jpg"></a></td>
+<td><a href="/view_object.php?object_id=102817" rel="no_follow"><img src="/images/thumb/102817.JPG"></a></td>
+<td><a href="/view_object.php?object_id=118548" rel="no_follow"><img src="/images/thumb/118548.jpg"></a></td>
+</tr></table>
+<a name="chapter_2"></a><h2>Getting There</h2>Ah, getting there. Junction Peak involves a long approach no matter how you go about it. The peak is a short scramble from the John Muir Trail at Forester Pass, but unless you are prepared to spend several days on the JMT getting there, you will probably want to approach from the east.   <p>  The most direct approach is via the Shepard Pass trail. Detailed instructions on reaching the trailhead are to be found on the  <a href="http://www.summitpost.org/show/mountain_link.pl/mountain_id/4859">Eastern Sierra Logistics</a> page. After traveling approximately seven miles you will reach The Pothole. If you are interested in the East Couloir or North Buttress routes, then you will want to take the unmaintained trail towards Junction Pass. This is the original John Muir Trail, abandoned in 1932 when the JMT was relocated over Forester Pass. If you are aiming for any of the routes on the south or west, then continue on to Shepard Pass. The Southeast Ridge route starts here. Continue on cross-country to the Diamond Mesa to reach the South Ridge, or stop short of the Mesa and head north to reach the South Face.  </p>
+<p>  It is also possible to approach the peak from Onion Valley. There are basically two variants, both of which are longer than the above-described approach, but which have the advantage of passing through some very beautiful country. The first is the shortest, but involves rough cross-country travel. Take the trail to Robinson Lake from Onion Valley, and continue southward over University Pass into Center Basin. From there, either drop down to the JMT and follow it to Forester Pass, or pick up the unmaintained Center Basin trail to Junction Pass. This is a continuation of the same abandoned segment of the JMT described above. The second option is to take the Kearsage Pass trail over the pass until reaching the JMT just west of Bullfrog Lake. Follow the JMT many miles south and east to Forester Pass. <br>
+<a name="chapter_3"></a></p>
+<h2>Routes</h2>Route descriptions for the following may be found in R. J. Secor's <i>The High Sierra: Peaks, Passes, and Trails</i>.  <p>  </p>
+<table border="5" width="100%">    <th>Route</th>  <th>Difficulty</th>  <th>First Ascent</th>    <tr align="center">   <td>West Ridge</td>  <td>Class 3</td>  <td>1932 by Walter A. Starr, Jr.</td>  </tr>  <tr align="center">   <td><a href="http://www.summitpost.org/show/route_link.pl/route_id/6388/object_id/1750">South Face</a></td>  <td>Class 3</td>  <td>1982 by Nancy Gordon, Dave Dykeman, Ruth Armentrout, and David Lesikar</td>
+<td>  </td>
+</tr>
+<tr align="center">  <td>South Ridge</td>  <td>Class 3</td>  <td>1899 by E.B. Copeland and E.N. Henderson</td>  </tr>  <tr align="center">  <td>East Couloir</td>  <td>Class 3-4</td>  <td>1956 by Carl Heller, Kermit Ross, and Bob Stein</td>  </tr>  <tr align="center">  <td>Southeast Ridge</td>  <td>Class 4</td>  <td>1929 by Albert Ellingwood</td>  </tr>  <tr align="center">  <td>North Buttress</td>  <td>III, 5.7</td>  <td>1972 by John Rupley and Fred Beckey</td>  </tr>  </table>  <br>
+<a name="chapter_4"></a><h2>Red Tape</h2>The eponymous junction of the Sierra Crest and Kings-Kern Divide also coincides with the intersection of the boundaries of <a href="http://www.nps.gov/seki/%22">Sequoia National Park</a> to the south, <a href="http://www.nps.gov/seki/%22">Kings Canyon National Park</a> to the north, and the <a href="http://www.fs.fed.us/r5/inyo/index.shtml">Inyo National Forest</a> to the east. Which rules apply depends on which direction you approach from. JMT through hikers will already have their permits, so I will only provide detailed information on permits issued by the INF. Junction Peak lies on the border of the John Muir Wilderness within the Inyo National Forest. Wilderness permits are required for overnight camping from May1 through November 1, but not for day hikes. Both the Shepard's Pass trail and Kearsarge Pass trails are subject to quotas. In 2005 the limits for non-commercial parties were 15 and 60 entries per day, respectively, with 9 (Shepard's Pass) and 36 (Kearsarge) being reservable and the remainder available for walk-in. You can check permit availability on the <a href="http://www.fs.fed.us/r5/inyo/recreation/wild/quotas.shtml">web</a>. The info is usually at least close to up-to-date. In 2005 the Kearsarge Pass trail required bear canisters, Shepard's Pass did not.  <p>  Permit reservations may be obtained by calling (760) 873-2483, by FAX (call the previous # for the FAX number), or by writing to:  </p>
+<p>  Inyo National Forest<br>
+  351 Pacu Lane <br>
+  Suite 200<br>
+  Bishop, CA 93514  </p>
+<p>  Permits can be picked up in Lone Pine at the Mt. Whitney Ranger Station at:  </p>
+<p>  640 S. Main Street (US 395)<br>
+  P.O. Box 8<br>
+  Lone Pine, CA 93545<br>
+  760-876-6200  </p>
+<p>  or at the White Mountain Ranger Station in Bishop at:  </p>
+<p>  798 North Main Street<br>
+  Bishop, CA 93514<br>
+  760-873-2500<br>
+  760-873-2501 TDD<br>
+  Hours: 8:30 am to 4:30<br>
+  Open all year<br>
+  Monday-Friday in winter  </p>
+<p>  The usual backcountry rules apply: camp at least 100 feet from water, pack out your trash, no wood fires, etc.  The east side of the peak lies in the California Bighorn Sheep Zoological Area, which means that you can't bring your dog or pet sheep with you. No other special restrictions were in effect as of summer 2005.<br>
+<a name="chapter_5"></a></p>
+<h2>When To Climb</h2>The mountain can be and is climbed at all times of the year. While there is nothing to match the solitude, quiet, and incomparable beauty of the winter, avalanches are a reality. Be prepared for difficult conditions and to assess avalanche potential if you head up in the winter.   <p>  There are many resources available to find out current conditions in the area:  </p>
+<p>  Staff at the Mt. Whitney Ranger Station can provide <a href="http://www.fs.fed.us/r5/inyo/conditions/index.shtml">current conditions</a> during the summer months (though they may be a bit on the conservative side if asked about the need for foul weather gear, crampons, etc.) Information on current conditions can also be found on the web:  </p>
+<p>  <a href="http://www.srh.noaa.gov/data/forecasts/CAZ026.php?warncounty=CAC027&amp;city=Lone+Pine%22">Lone Pine weather</a><br>
+  <a href="http://cdec.water.ca.gov/snow/current/snow/">Snowpack conditions</a><br>
+  <a href="http://www.csac.org/Bulletins/Calif/esierra.php">Avalanche Hazard (winter only)</a>  </p>
+<p>  You might also want to check the message boards at:  </p>
+<p>  <a href="http://www.whitneyportalstore.com/">Whitney Portal Store</a><br>
+  <a href="http://www.mt-whitney.info/">Mt. Whitney, The Sierra Nevada &amp; Beyond... </a>  </p>
+<p>  Both sites run discussion boards where you can get almost any reasonable question about the area answered.<br>
+<a name="chapter_6"></a></p>
+<h2>Camping</h2>There are no restrictions on camping in the immediate vicinity of Junction Peak, other than the usual wilderness area admonishment to stay at least 100' from water. If you are approaching via the Shepard Pass trail, Anvil Camp (~10,000') is a common place to stop for the night.<br>
+                     <a name="chapter_7"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/junction-peak/210662/c-151509"><img alt="Junction Peak" src="/images/square/210662.JPG"></a></td>
+<td><a href="/the-tallest-pinnacle-along/120891/c-151509"><img alt="The tallest pinnacle along..." src="/images/square/120891.JPG"></a></td>
+<td><a href="/university-peak-from-mt-gould-south-slope/783961/c-151509"><img alt="University Peak from Mt. Gould south slope" src="/images/square/783961.jpg"></a></td>
+<td><a href="/mount-keith-center-peak-and-junction-peak-from-the-lower-slopes-of-university-peak/905678/c-151509"><img alt="Mount Keith, Center Peak and Junction Peak from the lower slopes of University Peak" src="/images/square/905678.JPG"></a></td>
+<td><a href="/the-egyptians-never-even-came/98240/c-151509"><img alt="The Egyptians never even came..." src="/images/square/98240.jpg"></a></td>
+<td><a href="/junction-peak-from-the-summit/60752/c-151509"><img alt="Junction peak from the summit..." src="/images/square/60752.jpg"></a></td>
+<td><a href="/junction-peak-from-the-summit/118548/c-151509"><img alt="Junction Peak from the summit..." src="/images/square/118548.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/southwest-from-mt-gould/783965/c-151509"><img alt="Southwest from Mt. Gould" src="/images/square/783965.jpg"></a></td>
+<td><a href="/miguel-forjan-traversing/120892/c-151509"><img alt=" Miguel Forjan traversing..." src="/images/square/120892.JPG"></a></td>
+<td><a href="/junction-peak-from-near/120890/c-151509"><img alt="Junction Peak from near..." src="/images/square/120890.JPG"></a></td>
+<td><a href="/taken-from-the-trail-down-to/125412/c-151509"><img alt="Taken from the trail down to..." src="/images/square/125412.jpg"></a></td>
+<td><a href="/sierratrekkin/209115/c-151509"><img alt="sierratrekkin" src="/images/square/209115.jpg"></a></td>
+<td><a href="/junction-peak-and-its/22444/c-151509"><img alt="Junction Peak and its..." src="/images/square/22444.jpg"></a></td>
+<td><a href="/the-ne-chute-that-leads-from/120893/c-151509"><img alt="The NE chute that leads from..." src="/images/square/120893.JPG"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/junction-peak/images/p-151509">View Gallery - 9 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty:  
+elevation: 13888 
+grade:  
+id: 151509 
+latitude: 36.6915 
+location: California, United States, North America 
+longitude: -118.3645 
+my_route_quality:  
+name: Junction Peak 
+number_of_pitches:  
+page_url: http://www.summitpost.org/junction-peak/151509 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons:  
+time_required:  
+type: Mountain-Rock 
+

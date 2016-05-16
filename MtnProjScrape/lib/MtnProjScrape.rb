@@ -1,13 +1,39 @@
 require 'rubygems'
 require 'nokogiri'
 require 'open-uri'
-require 'net/https'
+#require 'net/https'
 require 'fileutils'
-require_relative 'LibFileReadWrite'
+require_relative '../../lib/LibFileReadWrite'
 
 # See: http://ruby.bastardsbook.com/chapters/html-parsing/
 # See: http://ruby.bastardsbook.com/chapters/web-crawling/
 
+# MountainProject star ratings are on a scale of 0-4
+MAX_STAR_RATING = 4
+
+def search_route_reference(search_term)
+# TODO
+  {}
+end
+
+def scrape_new(existing_urls, base_url, username, password)
+# TODO
+end
+
+# ================================
+# Scraping all
+# ================================
+def scrape_all(base_url, profile_url, data_dir)
+  FileUtils::mkdir_p(data_dir) unless File.exists?(data_dir)
+
+
+
+  puts 'Website scrape complete.'
+end
+
+# ================================
+# Supporting Methods
+# ================================
 def read_route_ticks(url)
   page = Nokogiri::HTML(open(url))
   rows = page.css('table.objectList > tr')
@@ -425,3 +451,31 @@ def get_all_area_parents_pages(url_parents_parent, parents)
   parents
 end
 
+# ================================
+# Testing methods
+# ================================
+def run_tests(base_url, profile_url, data_dir)
+  puts 'Running tests'
+  home_page = base_url + profile_url
+
+#Clear and remake test data directory
+  FileUtils::rm_rf(data_dir) if File.exists?(data_dir)
+  sleep(0.2)
+  FileUtils::mkdir_p(data_dir) unless File.exists?(data_dir)
+
+# URLs really tough to group a priori based on website layout
+# Easiest to just get all URLs from the lists, then classify them when visiting their pages.
+  puts "Getting object URLs from profile page #{home_page}"
+  object_urls = get_object_urls_from_profile(home_page)
+  object_urls.keys.each { |url|  append_hash("#{data_dir}/object_urls.txt", object_urls[url])}
+
+
+  page1_data = read_route_page('http://www.mountainproject.com/v/cassin-ridge/105954372')
+  page2_data = read_route_page('http://www.mountainproject.com/v/chrysler-crack/105887571')
+  page3_data = read_route_page('http://www.mountainproject.com/v/centennial/105715670')
+  page4_data = read_area_page('http://www.mountainproject.com/v/swan-slab/105841123')
+  page5_data = read_area_page('http://www.mountainproject.com/v/california/105708959')
+  page6_data = read_routes_todo('http://www.mountainproject.com/u/mark-p-thomas//106560803?action=todos&')
+
+  puts 'Test scrapes complete.'
+end

@@ -56,6 +56,7 @@ date:
 difficulty: Class 1 
 elevation:  
 grade:  
+hits: 5497  
 id: 157984 
 latitude: 40.3031 
 location: Colorado, United States, North America 
@@ -64,6 +65,9 @@ my_route_quality:
 name: Standard Route 
 number_of_pitches:  
 page_url: http://www.summitpost.org/standard-route/157984 
+parent_code: 151577 
+parent_name: Hallett Peak 
+parent_url: /hallett-peak/151577 
 rock_difficulty:  
 route_quality: 0.8 
 route_type: Hike 

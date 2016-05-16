@@ -107,6 +107,7 @@ date:
 difficulty:  
 elevation: 14012 
 grade:  
+hits: 56629  
 id: 150495 
 latitude: 36.5639 
 location: California, United States, North America 
@@ -115,6 +116,9 @@ my_route_quality:
 name: Mount Muir 
 number_of_pitches:  
 page_url: http://www.summitpost.org/mount-muir/150495 
+parent_code: 171134 
+parent_name: Sequoia/Kings Canyon NP 
+parent_url: /sequoia-kings-canyon-np/171134 
 rock_difficulty:  
 route_quality:  
 route_type:  

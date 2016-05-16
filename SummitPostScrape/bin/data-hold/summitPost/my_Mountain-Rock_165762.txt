@@ -109,6 +109,7 @@ date:
 difficulty:  
 elevation: 6800 
 grade:  
+hits: 13621  
 id: 165762 
 latitude: 40.5741 
 location: Utah, United States, North America 
@@ -117,6 +118,9 @@ my_route_quality:
 name: Lisa Falls 
 number_of_pitches:  
 page_url: http://www.summitpost.org/lisa-falls/165762 
+parent_code: 154313 
+parent_name: Little Cottonwood Canyon 
+parent_url: /little-cottonwood-canyon/154313 
 rock_difficulty:  
 route_quality:  
 route_type:  

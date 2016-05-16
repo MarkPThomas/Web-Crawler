@@ -806,6 +806,7 @@ date:
 difficulty:  
 elevation: 20320 
 grade:  
+hits: 449947  
 id: 150199 
 latitude: 63.06909 
 location: Alaska, United States, North America 
@@ -814,6 +815,9 @@ my_route_quality:
 name: Denali 
 number_of_pitches:  
 page_url: http://www.summitpost.org/denali/150199 
+parent_code: 170857 
+parent_name: Alaska Range 
+parent_url: /alaska-range/170857 
 rock_difficulty:  
 route_quality:  
 route_type:  

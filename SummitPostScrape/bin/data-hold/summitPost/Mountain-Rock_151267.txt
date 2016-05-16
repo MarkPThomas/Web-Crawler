@@ -450,8 +450,8 @@ The trail shown is the path my GPS stored when I did this route.<br>
 <td><a href="/grizz-on-an-iffy-gendarm-bypass-attempt/376057/c-151267"><img alt="Grizz on an iffy gendarm bypass attempt" src="/images/square/376057.JPG"></a></td>
 <td><a href="/sunrise/263826/c-151267"><img alt="sunrise" src="/images/square/263826.jpg"></a></td>
 <td><a href="/summit-cliffs-of-lone-peak/376052/c-151267"><img alt="Summit Cliffs of Lone Peak" src="/images/square/376052.JPG"></a></td>
-<td><a href="/lone-peak/592671/c-151267"><img alt="Lone Peak" src="/images/square/592671.JPG"></a></td>
 <td><a href="/ammon-hatch-on-the-summit/399023/c-151267"><img alt="Ammon Hatch on the summit" src="/images/square/399023.JPG"></a></td>
+<td><a href="/lone-peak/592671/c-151267"><img alt="Lone Peak" src="/images/square/592671.JPG"></a></td>
 <td><a href="/on-the-summit-block-of-lone-peak/492371/c-151267"><img alt="On the summit block of Lone Peak" src="/images/square/492371.JPG"></a></td>
 </tr>
 <tr><td colspan="7" align="center">[ <a href="/lone-peak/images/p-151267">View Gallery - 359 More Images</a> ]</td></tr>
@@ -461,6 +461,7 @@ date:
 difficulty:  
 elevation: 11253 
 grade:  
+hits: 78019  
 id: 151267 
 latitude: 40.5267 
 location: Utah, United States, North America 
@@ -469,6 +470,9 @@ my_route_quality:
 name: Lone Peak 
 number_of_pitches:  
 page_url: http://www.summitpost.org/lone-peak/151267 
+parent_code: 171209 
+parent_name: Wasatch Range (Central) 
+parent_url: /wasatch-range-central/171209 
 rock_difficulty:  
 route_quality:  
 route_type:  

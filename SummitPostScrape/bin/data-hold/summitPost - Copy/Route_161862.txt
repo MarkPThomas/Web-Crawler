@@ -1,0 +1,40 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Approach</h2>The NE Face is most easily approached from the Pine Creek trailhead, a few miles north of Bishop.  Hike along the Pine Creek Pass trail approximately seven miles to the trail's namesake pass, and then head west cross-country for a little over a mile to the outlet of Lake 11,656.  The cross-country travel is pleasant here over tundra and easy slabs.<br>
+<br>
+Lake 11,656 can also be reached from the Italy Pass trail via Royce Pass (Pass 11,760ft+, located immediately NE of Lake 11,725).<br>
+<a name="chapter_2"></a><h2>Route Description</h2>From the outlet of Lake 11,656, you should see Merriam's NE Ridge in profile on your right, and the peak's NE Face directly in front of you.  The NE face is a confusing mixture of slabs, cracks, and blocks when viewed from below, and there are likely many ways to go.  The route described here is but one variation.<br>
+<br>
+Angle up and to your right over easy slabs to gain the base of the NE Ridge.  I encountered a short class 4 section at the base of the ridge, although this may be avoided by keeping left and climbing more slabs.  Above this, the ridge/face becomes very easy for a while, with the climbing consisting of class 2 blocks and ledges.<br>
+<br>
+After a while the ridge becomes more pronounced, a broad slabby chute below you to the left becomes more apparent than it was from below, and the climbing along the ridge eventually becomes more difficult (class 4-5 with many large, steep blocks).  Traverse down and left (exposed but easy) into the chute and follow this up.  Further up, the chute is split in two by a small buttress/rib; the left side eventually turns into class 5, but keeping to the right side is easier class 3.<br>
+<br>
+Eventually, the chute comes to a short, steep headwall.  This appears to be a fairly difficult obstacle, and I didn't find an easy scramble way past this.  The NE Ridge at this point is also difficult.  The headwall is bypassed by traversing left across the steep face (class 4) to the rib that delineates the south wall of the chute.  Follow the rib up to the summit ridge.  I encountered a couple of moves verging on 5.easy here, but it may also be possible to traverse left (south) into the adjoining east chute to keep the difficulty down.  Once you reach the summit ridge, the summit is just a short walk away.<br>
+<br>
+Note:  Secor's 2nd ed. claims that to climb Merriam's class 3 East Face, you should climb the chute immediately left of the NE Ridge.  Following these directions takes you to the aforementioned chute on the NE Face, which I don't believe is class 3 even by Sierra rating standards.  I believe he may have overlooked this shallow chute; the next chute to the south from this one is more prominent from below, appeared to be much easier from the summit, and is likely the class 3 East Face route.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr><td><a href="/view_object.php?object_id=65567" rel="no_follow"><img src="/images/thumb/65567.jpg"></a></td></tr></table>
+<a name="chapter_3"></a><h2>Essential Gear</h2>None required for the face itself, although sticky approach shoes/rock shoes could be useful in places.  However, if you opt to descend via the Merriam-Royce saddle, an ice axe and possibly crampons would be helpful, although not strictly necessary--the snow is fairly low-angle with a friendly runout.  The usual generic advice of axe/crampons being necessary for the chute itself in early season applies.<br>
+                      <a name="chapter_4"></a><h2>Images</h2>
+<div align="center"><table id="my_images"><tr><td><a href="/merriam-peak-from-the-outlet/65567/c-161862"><img alt="Merriam Peak from the outlet..." src="/images/square/65567.jpg"></a></td></tr></table></div>
+            </article> 
+date:  
+difficulty:  
+elevation:  
+grade:  
+id: 161862 
+latitude: 37.3093 
+location: California, United States, North America 
+longitude: -118.7644 
+my_route_quality:  
+name: Northeast Ridge/Face 
+number_of_pitches:  
+page_url: http://www.summitpost.org/northeast-ridge-face/161862 
+rock_difficulty: Class 4 
+route_quality: 1.0 
+route_type: Scrambling 
+seasons: Summer, Fall 
+time_required: A long day 
+type: Route 
+

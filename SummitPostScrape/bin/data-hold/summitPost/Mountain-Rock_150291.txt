@@ -694,6 +694,7 @@ date:
 difficulty:  
 elevation: 14411 
 grade:  
+hits: 563309  
 id: 150291 
 latitude: 46.8528 
 location: Washington, United States, North America 
@@ -702,6 +703,9 @@ my_route_quality:
 name: Mount Rainier 
 number_of_pitches:  
 page_url: http://www.summitpost.org/mount-rainier/150291 
+parent_code: 170905 
+parent_name: Cascade Volcanoes 
+parent_url: /cascade-volcanoes/170905 
 rock_difficulty:  
 route_quality:  
 route_type:  

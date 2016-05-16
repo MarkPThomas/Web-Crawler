@@ -72,6 +72,7 @@ date:
 difficulty:  
 elevation: 9450 
 grade:  
+hits: 22292  
 id: 151389 
 latitude: 37.88 
 location: California, United States, North America 
@@ -80,6 +81,9 @@ my_route_quality:
 name: Lembert Dome 
 number_of_pitches:  
 page_url: http://www.summitpost.org/lembert-dome/151389 
+parent_code: 171226 
+parent_name: Yosemite National Park 
+parent_url: /yosemite-national-park/171226 
 rock_difficulty:  
 route_quality:  
 route_type:  

@@ -193,6 +193,7 @@ date:
 difficulty:  
 elevation: 14018 
 grade:  
+hits: 67238  
 id: 150441 
 latitude: 36.6556 
 location: California, United States, North America 
@@ -201,6 +202,9 @@ my_route_quality:
 name: Mount Tyndall 
 number_of_pitches:  
 page_url: http://www.summitpost.org/mount-tyndall/150441 
+parent_code: 171134 
+parent_name: Sequoia/Kings Canyon NP 
+parent_url: /sequoia-kings-canyon-np/171134 
 rock_difficulty:  
 route_quality:  
 route_type:  

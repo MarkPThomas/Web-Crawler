@@ -1,0 +1,66 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2> <div align="center" class="image-left" style="width: 156px;">
+<a href="/great-white-icicle-p1/248609"><img alt="Great White Icicle - P1" height="200" width="150" src="/images/small/248609.JPG"></a><br><span class="caption">Pitch 1</span>
+</div>
+<br>
+The Great White Icicle is a very nice 4-pitch ice climb of approximately 650-feet in length, located a short distance up Utah's Little Cottonwood Canyon.  The climb's moderate difficulty, short easy approach, and proximity to Salt Lake City make this one of the more popular ice climbs to be found in the area.<a name="chapter_2"></a><h2>Getting There</h2>The Great White Icicle is located on the south side of Little Cottonwood Canyon, just south of the small powerplant approximately 2 miles from the mouth of the canyon.<br>
+<br>
+To get there, from the 6200 South exit (exit #6) off I-215 follow highway 190 south-east approximately 2 miles to the intersection with Big Cottonwood Canyon road. Continue straight through the stoplight and follow the road another 4 miles to the mouth of Little Cottonwood Canyon, where an electronic billboard on the right provides current road and/or weather conditions.<br>
+<br>
+From the electronic billboard drive 1.9 miles east up Little Cottonwood Canyon, to the powerplant located next to the stream on the south side of the road. A small parking is located directly to the west of the powerplant.<a name="chapter_3"></a><h2>Approach</h2> <div align="center" class="image-right" style="width: 156px;">
+<a href="/great-white-icicle-p3/248610"><img alt="Great White Icicle - P3" height="200" width="150" src="/images/small/248610.JPG"></a><br><span class="caption">Pitch 3</span>
+</div>
+<br>
+From the parking area cross the bridge over the stream and hike a short distance south to the main east-west trail which parallels the stream.  Head west a short distance, then look for a hiker's trail heading south towards the base of the climb.  This is a popular climb so an obvious track will usually be present, but if not, the climb is partially visible through the trees and is easy to locate.  Total distance from the parking area to the base of the climb is around 5-minutes.<a name="chapter_4"></a><h2>Route Description</h2> <div align="center" class="image-left" style="width: 156px;">
+<a href="/great-white-icicle-p3-belay/248611"><img alt="Great White Icicle - P3 Belay" height="200" width="150" src="/images/small/248611.JPG"></a><br><span class="caption">Top of P3</span>
+</div>
+<br>
+<b>Pitch 1</b> - From a good belay spot in the trees, move out onto a slab and climb ±30 feet on thin ice (probably not protectable), then move onto easier low angle terrain for a few dozen feet to a good belay spot at the base of pitch 2.  There may be bolts at this belay, but I didn't see them.<br>
+<br>
+<b>Pitch 2</b> - Pitch 2 ascends a long narrow gully of ±45°.  Near the top of the gully the angle decreases, then move towards the left (east) wall to a bolted belay.  This is a relatively long pitch; depending on rope length being used, the belayer may need to begin climbing before the leader reaches the belay at the top of P2.<br>
+<br>
+<b>Pitch 3</b> - Pitch 3 ascends the broad bulging face which reaches ±60° near the center.  The bulge may be climbed at any number of locations on the face.  The top of P3 is located on a small sloping ledge on the right (west) wall, which contains 2 sets of bolted anchors.<br>
+<br>
+<b>Pitch 4</b> - This is the crux pitch; from the belay at the top of P3 move upwards on easy terrain for a few dozen feet.  The angle increases near the top, approaching ±80° as it ascends the top of the headwall.  Depending on conditions there may be significant water flow through this section.  Above the headwall move up another 20-30 feet on easy terrain to a suitable belay.<br>
+<br>
+Note:  If desired P4 may be split into two pitches; to do so, look for a bolted belay in an alcove on the right (west) wall, approximately 80-feet above the P3 belay.<br>
+ <div align="center" class="image-right" style="width: 156px;">
+<a href="/great-white-icicle-in-summer/248613"><img alt="Great White Icicle in Summer" height="200" width="150" src="/images/small/248613.JPG"></a><br><span class="caption">Summer View</span>
+</div>
+<a name="chapter_5"></a><h2>Descent</h2>From the belay at the top of P4, scramble a short distance up and to the west, then traverse west ±100 feet into the prominent gulley immediately to the west of the climb.  An easy walk down the gully leads back to the base of the climb.<a name="chapter_6"></a><h2>Essential Gear</h2>Rope, 60m<br>
+Ice Screws, 4 or 5 (16cm)<br>
+Ice Tools<br>
+Crampons<br>
+Helmet<br>
+Harness, slings, etc.                                                                                                                                                                                                                                                                                                                                                                                                                                                        <a name="chapter_7"></a><h2>Images</h2>
+<div align="center"><table id="my_images"><tr>
+<td><a href="/great-white-icicle-p1/248609/c-248606"><img alt="Great White Icicle - P1" src="/images/square/248609.JPG"></a></td>
+<td><a href="/great-white-icicle/248607/c-248606"><img alt="Great White Icicle" src="/images/square/248607.JPG"></a></td>
+<td><a href="/great-white-icicle-p3/248610/c-248606"><img alt="Great White Icicle - P3" src="/images/square/248610.JPG"></a></td>
+<td><a href="/great-white-icicle-in-summer/248613/c-248606"><img alt="Great White Icicle in Summer" src="/images/square/248613.JPG"></a></td>
+<td><a href="/great-white-icicle-p3-belay/248611/c-248606"><img alt="Great White Icicle - P3 Belay" src="/images/square/248611.JPG"></a></td>
+<td><a href="/pitch-3/482696/c-248606"><img alt="Pitch 3" src="/images/square/482696.JPG"></a></td>
+<td><a href="/great-white-icicle/843516/c-248606"><img alt="Great White Icicle" src="/images/square/843516.jpg"></a></td>
+</tr></table></div>
+            </article> 
+date:  
+difficulty: WI3 
+elevation:  
+grade: II 
+id: 248606 
+latitude:  
+location: Utah, United States, North America 
+longitude:  
+my_route_quality:  
+name: The Great White Icicle 
+number_of_pitches: 4 
+page_url: http://www.summitpost.org/the-great-white-icicle/248606 
+rock_difficulty:  
+route_quality: 1.0 
+route_type: Ice Climbing 
+seasons: Winter 
+time_required: Half a day 
+type: Route 
+

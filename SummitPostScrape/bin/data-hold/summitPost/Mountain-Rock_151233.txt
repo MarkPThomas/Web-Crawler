@@ -117,6 +117,7 @@ date:
 difficulty:  
 elevation: 12955 
 grade:  
+hits: 8242  
 id: 151233 
 latitude: 37.14 
 location: California, United States, North America 
@@ -125,6 +126,9 @@ my_route_quality:
 name: Clyde Spires 
 number_of_pitches:  
 page_url: http://www.summitpost.org/clyde-spires/151233 
+parent_code: 171134 
+parent_name: Sequoia/Kings Canyon NP 
+parent_url: /sequoia-kings-canyon-np/171134 
 rock_difficulty:  
 route_quality:  
 route_type:  

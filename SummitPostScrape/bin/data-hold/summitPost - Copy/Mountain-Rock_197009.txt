@@ -1,0 +1,158 @@
+activities: Mountaineering 
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>Colosseum is on the Sierra Crest just north of Sawmill Pass and south of Armstrong Col. It has a beautiful view and it is an SPS list peak. It's easy class 2 from the southwest. The SPS calls it a class 1 peak - I suppose it's as 'class 1' as Mt. Langley is - pick you route, walk slowly, and you could keep your hands in your pockets the whole way.<br>
+<br>
+<a name="chapter_2"></a><h4>Which Summit?</h4> <div align="center" class="image-left" style="width: 167px;">
+<a href="/true-summit/830626"><img alt="True Summit" height="200" width="161" src="/images/small/830626.png"></a><br><span class="caption"><b>12473</b>, NOT 12450</span>
+</div>The <b>correct</b> summit is  the western one - it is 22 feet higher, and has the summit register, while the eastern summit shows a <i>vertical control point</i> (X) on the 7.5 minute USGS topo labeled <i>3794.9</i> (meters). I climbed the wrong summit first (because I had downloaded a waypoint placed there), and then the right one. Pictures I took of each summit from the other one indicate that the western summit is higher. I suppose that the eastern summit, having a better view of the Owens Valley, served the purposes of the surveyors better, so it got the vertical control point and the "X" on the map. The 2 summits are only about 10 minutes apart, so climb both!<br>
+<br>
+<a name="chapter_3"></a><h4>What Elevation?</h4>
+<br>
+The Elevation 12473 is shown on the <a href="http://langenbacher.org/Maps/USGS_GeoPDF/CA_Mt.%20Pinchot_298311_1953_62500_geo(15Minute).pdf">Mt. Pinchot USGS 15 minute quadrangle</a>. The <a href="http://angeles.sierraclub.org/sps/SPSPkXlsht.htm">SPS peaks list</a> and many other references show the elevation as 12,451 ft., or 3795 meters - obviously derived from the eastern summit elevation. The western summit is clearly higher when viewed from the eastern summit.<a name="chapter_4"></a><h2>Getting There</h2>Most quickly approached from the east via Sawmill Pass or Armstrong Canyon. Drive in on US 395 between Independence and Big Pine. For driving instructions to Sawmill Pass or Armstrong Canyon, see <a href="http://www.climber.org/DrivingDirections/sawmill.html">http://www.climber.org/DrivingDirections/sawmill.html</a><br>
+<br>
+From Sawmill or Armstrong, go to "Colosseum Col" west of the summit for a class 1 ascent up Colosseum's west ridge. There are several class 2-3 shortcuts up from the valleys north and south of Colosseum Col.<br>
+<br>
+The north ridge (from Armstrong Col) is variously described as class 3 by Secor, class 4 "generally chosen in error" by Voge-Smatko, class 4 by Roper, class 3-4 by Matthew, and "nasty" or "really nasty" by Nile. See Nile's detailed <a href="http://www.climber.org/TripReports/2007/1580.html">report at climber.org</a><br>
+<br>
+Sawmill Pass is one of the best kept secrets of the Eastern Sierra. We met a guy named Don camped at the beautiful Sawmill Meadow who said it was his 45th year in a row coming there(!!!) and he almost never saw anybody there in May. Sawmill Lake is a magnificent place to camp and fish. Then, just over the pass you can see the lovely Woods Lake. What keeps the secret so well is the first 4 miles of trail. It starts out going through dry brush and cactus at about 4500 ft. elevation. We had no trouble starting out at 1030 am on an unusually cold Memorial Day weekend, but Kathy says starting at 5 am in June was too late to avoid the heat and misery of going uphill on a sandy trail with no water for so long. After that, it's glorious ( at least it is in a wet spring season). Some places, grass is growing in the middle of the trail, which to me, is a rare and treasured sign of the peace and solitude to be found there. I hope it stays that way.<br>
+<a name="chapter_5"></a><h2>Red Tape</h2>A wilderness permit is required for overnight travel in this area.<br>
+There may be restrictions due to the Sierra Nevada Bighorn Sheep. Dogs are not allowed. Info on permits is given at <a href="http://www.fs.fed.us/r5/inyo/recreation/wild/otheravail.shtml"><br>
+http://www.fs.fed.us/r5/inyo/recreation/wild/otheravail.shtml</a>. Trail quota is 10 per day at Sawmill Pass Trail, see JOHN MUIR WILDERNESS at the <a href="http://www.fs.fed.us/r5/inyo/recreation/wild/quotas.shtml">Trailhead Quotas page</a>.<br>
+<br>
+Armstrong Canyon has <b>no quota</b> (and <i>no trail</i>), but you still need a permit for overnight trips starting there. If you take a large group, they might suddenly tell you there's a quota.<br>
+<br>
+Approved bear-resistant containers are required for camping in Kings Canyon National Park, but not in the National Forest in Sawmill Canyon or Armstrong Canyon, but you are still required to protect bears from access to your food, by counterbalancing it <b>or</b> using a bear-resistant container, etc. Check with the rangers in advance to get the current requirements.<a name="chapter_6"></a><h2>Car Camping Nearby</h2>They say it's nice to camp near Scotty Springs on the road between Sawmill pass trailhead and Armstrong Canyon - some info on the road to Armstrong Canyon and camping in the area is given at <a href="http://www.gbr.4wdtrips.net/4x4/division-armstrong.html">http://www.gbr.4wdtrips.net/4x4/division-armstrong.html<br>
+<br>
+</a>See <a href="http://www.fs.fed.us/r5/inyo/recreation/campgrounds.shtml"> http://www.fs.fed.us/r5/inyo/recreation/campgrounds.shtml</a> for car camping.<br>
+<br>
+There's a "Sawmill Creek Campground" shown on the USGS Topo where Tinemaha Road (old 395) crosses Sawmill Creek, but I don't recall seeing it as I drove by - I believe it's defunct. The Goodale Creek Campground is listed as the nearest campground by <a href="http://sierranevadawild.gov/modules/html/trailheads/sawmill_pass.htm">http://sierranevadawild.gov/modules/html/trailheads/sawmill_pass.htm</a><br>
+<a name="chapter_7"></a><h2>External Links</h2>Some of my pictures are in my <a href="http://community.webshots.com/myphotos?action=viewAllPhotos&amp;albumID=550943453&amp;security=SNEaju">Colosseum Mtn. 2006</a> album.<br>
+<br>
+See an artificial aerial view of Sawmill Pass and Colosseum Mtn., etc., at <a href="http://geogdata.csun.edu/sierraweb/sierra_nevada-Pages/Image84.html">http://geogdata.csun.edu/sierraweb/sierra_nevada-Pages/Image84.html</a>                    <br>
+<br>
+A little kit of information for my trip to Colosseum is at  <a href="http://www.langenbacher.org/Sawmill">http://www.langenbacher.org/Sawmill</a><br>
+<br>
+See also <a href="http://www.langenbacher.org/Armstrong">http://www.langenbacher.org/Armstrong</a> for stuff about the approach through Armstrong Canyon.<a name="chapter_8"></a><h2>California Bighorn Sheep</h2>
+<i><b>"The wild sheep ranks highest among the animal mountaineers... Their feeding grounds are among the most beautiful of the wild gardens, bright with wild daisies and gentians and mats of purple bryanthus.… Here they feast all summer, the happy wanderers, perhaps relishing the beauty as well as the taste of the lovely flora on which they feed."</b></i><br>
+<br>
+John Muir "The Wild Sheep" 1881<br>
+<br>
+Colosseum Mountain is in a "California Bighorn Sheep Zoological Area", as shown <a href="http://www.summitpost.org/images/original/506146.pdf">here</a>, but it is not in an area that is closed to hiking at any time.<br>
+<br>
+I have read that "Sierra Nevada Bighorn are rarer than the Florida Panther or the California Condor. They are clearly one of the most endangered mammals of North America."<br>
+<br>
+You can read something about them at <a href="http://www.dfg.ca.gov/ocal/archives/bighorn_sheep_jf04.pdf">http://www.dfg.ca.gov/ocal/archives/bighorn_sheep_jf04.pdf</a>, or at <a href="http://www.sierrabighorn.org/">http://www.sierrabighorn.org/</a> .<br>
+<br>
+The US Fish and Wildlife Service "Final Recovery Plan for the Sierra Nevada Bighorn Sheep" of Feb. 13, 2008, is <a href="http://ecos.fws.gov/docs/recovery_plan/080213.pdf">here</a>. They do consider the Bighorns to be seriously endangered, but they make these statements which would be of interest to mountain climbers:<br>
+<br>
+Actions to ameliorate the effects of human/recreational use were not given high priority in this plan because we do not currently consider recreational use, including the activities of dogs, a significant threat to Sierra Nevada bighorn. If information indicating recreational use is having an effect on recovery becomes available, appropriate actions will be recommended.<br>
+<br>
+Although we recognize the potential of recreation to impact bighorn sheep, these impacts seem to be minor. However, the recovery plan calls for continued monitoring of the compatibility between recreational use of bighorn sheep habitat and bighorn sheep recovery<br>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <div align="center">
+<a name="messages"></a><a name="chapter_9"></a><h2>Additions and Corrections</h2>[ <a href="/object_discussion.php?type=vote_comments&amp;object_id=197009&amp;is_addition=1#vote_form">Post an Addition or Correction</a> ]<table cellpadding="0" cellspacing="0" style="width: 775px;"><tr><td><table cellpadding="2" cellspacing="2" width="100%"><tr>
+<td align="left"><span class="pagertext">Viewing: <b>1</b>-<b>3</b> of <b>3</b></span></td>
+<td align="center"></td>
+<td align="right">    </td>
+</tr></table></td></tr></table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="136472"></a> <a class="dis_user_lnk" href="/users/matt-worster/24758">Matt Worster</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>minor quibble</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/matt-worster/24758"><img alt="Matt Worster" width="50" height="50" border="0" src="/images/avatars/193353.jpg"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">Right vs. wrong . . . or higher vs. lower?  :-)</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Jun 6, 2006 12:58 am</span></td></tr>
+</table>
+<table border="0" width="745" class="messages" style="margin-left: 30px;">
+<tr><td rowspan="4" valign="top"><img src="/styles/layout/reply_arrow.gif"></td></tr>
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="136559"></a> <a class="dis_user_lnk" href="/users/langenbacher/1860">Langenbacher</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Re: minor quibble</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/langenbacher/1860"><img alt="Langenbacher" width="50" height="50" border="0" src="/images/avatars/193732.jpg"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">The one with the register vs. the one without the register - that much I'm sure of. And, as the article shows, I'm attempting to determine the higher vs. lower and the named vs. un-named. The "X" on the topo with an elevation would usually make make me think it's the named, highest summit, but this time that doesn't seem to be the case.<br><br>
+<br><br>
+Regardless, most people want to sign the register so that's what I call the correct summit.</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Jun 6, 2006 6:07 pm</span></td></tr>
+</table>
+<table border="0" width="745" class="messages" style="margin-left: 30px;">
+<tr><td rowspan="4" valign="top"><img src="/styles/layout/reply_arrow.gif"></td></tr>
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="137981"></a> <a class="dis_user_lnk" href="/users/kathyw/15605">KathyW</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Re: minor quibble</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;"><p><span style="font-size: 9px; color: #888;">Voted 10/10</span></p></td>
+<td colspan="2" style="padding-top: 6px;">I was just up there and it seems to me that the bump with the register is the higher one. My guess is that it might be 100 feet higher.</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Jun 19, 2006 11:39 pm</span></td></tr>
+</table>
+<br><table border="0" width="775"><tr><td><table cellpadding="2" cellspacing="2" width="100%"><tr>
+<td align="left"><span class="pagertext">Viewing: <b>1</b>-<b>3</b> of <b>3</b></span></td>
+<td align="center"></td>
+<td align="right">    </td>
+</tr></table></td></tr></table>
+<br>
+</div>
+<a name="chapter_10"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/colosseum-mtn-routes-photo-topo/667433/c-197009"><img alt="Colosseum Mtn Routes (Photo Topo)" src="/images/square/667433.jpg"></a></td>
+<td><a href="/sawmill-pass-cedric-wright/115936/c-197009"><img alt="Sawmill Pass, Cedric Wright..." src="/images/square/115936.JPG"></a></td>
+<td><a href="/colosseum-mountain/197044/c-197009"><img alt="Colosseum Mountain" src="/images/square/197044.JPG"></a></td>
+<td><a href="/sawmill-lake/205496/c-197009"><img alt="Sawmill Lake" src="/images/square/205496.JPG"></a></td>
+<td><a href="/cedrick-wright-from-colosseum/197059/c-197009"><img alt="Cedrick Wright from Colosseum" src="/images/square/197059.jpg"></a></td>
+<td><a href="/colosseum-summit/207211/c-197009"><img alt="Colosseum Summit" src="/images/square/207211.gif"></a></td>
+<td><a href="/final-scree-slope/197062/c-197009"><img alt="Final Scree Slope" src="/images/square/197062.JPG"></a></td>
+</tr>
+<tr>
+<td><a href="/chute-to-upper-plateau/197064/c-197009"><img alt="Chute to Upper Plateau" src="/images/square/197064.JPG"></a></td>
+<td><a href="/colosseum-summit-register/197548/c-197009"><img alt="Colosseum Summit Register" src="/images/square/197548.JPG"></a></td>
+<td><a href="/shortcut-chute/198037/c-197009"><img alt="Shortcut Chute" src="/images/square/198037.JPG"></a></td>
+<td><a href="/the-sawmill-pass-trailhead/115935/c-197009"><img alt="The Sawmill Pass Trailhead,..." src="/images/square/115935.JPG"></a></td>
+<td><a href="/southwest-slope-map/205497/c-197009"><img alt="Southwest Slope Map" src="/images/square/205497.JPG"></a></td>
+<td><a href="/chockstone-chute-entrance/205498/c-197009"><img alt="Chockstone Chute entrance" src="/images/square/205498.JPG"></a></td>
+<td><a href="/chockstone-chute/205499/c-197009"><img alt="Chockstone Chute" src="/images/square/205499.JPG"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/colosseum-mountain/images/p-197009">View Gallery - 4 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty:  
+elevation: 12473 
+grade:  
+id: 197009 
+latitude: 36.90821 
+location: California, United States, North America 
+longitude: -118.37045 
+my_route_quality:  
+name: Colosseum Mountain 
+number_of_pitches:  
+page_url: http://www.summitpost.org/colosseum-mountain/197009 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons:  
+time_required:  
+type: Mountain-Rock 
+

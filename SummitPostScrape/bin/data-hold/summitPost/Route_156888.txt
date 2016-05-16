@@ -140,6 +140,7 @@ date:
 difficulty: 5.8 
 elevation:  
 grade:  
+hits: 12036  
 id: 156888 
 latitude: 37.0981 
 location: California, United States, North America 
@@ -148,6 +149,9 @@ my_route_quality:
 name: The Summit Block 
 number_of_pitches:  
 page_url: http://www.summitpost.org/the-summit-block/156888 
+parent_code: 150222 
+parent_name: Thunderbolt Peak 
+parent_url: /thunderbolt-peak/150222 
 rock_difficulty:  
 route_quality: 0.8923076923076924 
 route_type: Rock Climb 

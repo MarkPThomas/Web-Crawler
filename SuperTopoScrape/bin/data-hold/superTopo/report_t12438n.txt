@@ -1,0 +1,247 @@
+content: <div class="articletext">
+<div class="photonormal">
+<table valign="top" border="0" width="476" cellspacing="0" cellpadding="0" class="sdw_box">
+			<tr>
+			  <td><img src="/nav_img/top_left_sdw.gif" width="13" height="13"></td>
+			  <td class="sdw_top"></td>
+			  <td><img src="/nav_img/top_right_sdw.gif" width="13" height="13"></td>
+			</tr>
+			<tr>
+			  <td class="sdw_left"></td>
+			  <td class="sdw_body" width="450"><div>
+<a href="javascript:photoZoom('Oj81PzYkIysiLQ,,')" title="Click to enlarge"><img src="http://www.supertopo.com/photos/24/48/366336_17795_L.jpg" width="450" height="600" name="" alt="Twilight Pillar and the impressive east face of Norman Clyde Peak"></a><span class="small"><br>Twilight Pillar and the impressive east face of Norman Clyde Peak<br><div class="photo-credit">Credit: PellucidWombat</div></span>
+</div></td>
+			  <td class="sdw_right"></td>
+			</tr>
+			<tr>
+			  <td><img src="/nav_img/bottom_left_sdw.gif" width="13" height="13"></td>
+			  <td class="sdw_bottom"></td>
+			  <td><img src="/nav_img/bottom_right_sdw.gif" width="13" height="13"></td>
+			</tr>
+		  </table>
+</div>
+<br>
+<b><u>2013-06-21</u></b><br>
+<br>
+Steph and I got down early enough from <a href="http://www.supertopo.com/tr/Norman-Clyde-Peak-Firebird-Ridge/t12348n.html" target="_blank">Firebird Ridge the day before</a> that we were well rested and up early for round 2 on Norman Clyde Peak's classic Twilight Pillar Route. We had left our rack, rope, crampons and axes at the base on our descent the day before, so the approach was much more casual. <br>
+<br>
+<a href="https://lh3.googleusercontent.com/-UkmX19tdoTQ/U1QeWwrD_AI/AAAAAAADd_E/FK1f5RneKUc/s2000/2014-06-21%2520-%2520Map%2520Area.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-UkmX19tdoTQ/U1QeWwrD_AI/AAAAAAADd_E/FK1f5RneKUc/s800/2014-06-21%2520-%2520Map%2520Area.jpg"></a><br>
+<b><i>Day 3 we climbed Twilight Pillar on Norman Clyde Peak from a high camp.</i></b><br>
+<br>
+Surprisingly, I think the crux of the route was finding the start, as in the end I decided that the most prominent dihedral was NOT the way to start! I found a better start that steps into it higher up. The crux was tougher than I expected - harder and less secure than anything on Firebird Ridge, so I would call this route either 5.9, or Firebird Ridge should be downgraded to 5.8 or 5.8+. I liked Firebird slightly more, although this one had more sustained climbing and exposure, but was much shorter and had a lot more loose rock. Still, you've always got to appreciate a line that tops out directly on the summit!<br>
+ <br>
+<br>
+<br>
+<b><u>Approach</u></b><br>
+The approach went faster this day, naturally, as we were better acclimatized and knew the way more precisely. We did, however, find a way to make it to the col easier from our descent the day before, so we used that variation and saved some effort. That was by traversing closer towards Norman Clyde Peak to gain a narrow access ramp and then traverse back up and right. This replaced the first 100' of cl. 3 scrambling with a mostly cl. 2 stroll. Steph was feeling fresher than me this day, so she ran ahead. I caught up to her napping by where we had left our gear from our climb yesterday, at the start of the large snowfield.<br>
+<br>
+As imposing as the snowfield looked from a distance, it is actually fairly mild. I imagine it depends on snow cover, but it seemed to me that if you fell on it, you might not sail off the lower cliff band. Still, an ice axe is mandatory and crampons recommended.<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-dZh0ODtgb_g/UdRm57xoLII/AAAAAAACoa4/vbZ0YQ5AuCU/s1600/2013-06-21%252520-%25252002%252520-%252520Crossing%252520the%252520snowfield%252520to%252520Twilight%252520Pillar.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-dZh0ODtgb_g/UdRm57xoLII/AAAAAAACoa4/vbZ0YQ5AuCU/s800/2013-06-21%252520-%25252002%252520-%252520Crossing%252520the%252520snowfield%252520to%252520Twilight%252520Pillar.jpg"></a> <br>
+<b><i>Crossing the snowfield to Twilight Pillar</i></b><br>
+ <br>
+As we neared the end of the snowfield, we picked our way up to what looked like the best entry to the slabs approach scramble. From researching the route I gathered that this part was sketchy cl. 4 slab scrambling, and runout. I agree that there aren't many places for pro if you wanted to rope up, but the climbing wasn't too insecure, and had many rests and ways to go. So it is fairly casual if it is within your soloing comfort zone.<br>
+<br>
+<a href="https://lh6.googleusercontent.com/-ZT56HYCt424/UdRm7z4u59I/AAAAAAACobQ/PCszIgLQx3c/s1600/2013-06-21%252520-%25252004%252520-%252520Steph%252520nearing%252520the%252520slab%252520scramble%252520above%252520the%252520snowfield.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-ZT56HYCt424/UdRm7z4u59I/AAAAAAACobQ/PCszIgLQx3c/s800/2013-06-21%252520-%25252004%252520-%252520Steph%252520nearing%252520the%252520slab%252520scramble%252520above%252520the%252520snowfield.jpg"></a> <br>
+<b><i>Steph nearing the slab scramble above the snowfield</i></b><br>
+<br>
+The slabs require some careful routefinding, but in general, aim for the highpoint of the lower rock apron, just below the prominent series of dihedrals. You should reach the edge of the apron just at the base of the dihedrals. This edge drops off much more steeply on the backside, so the start really is more like beginning on an arete.<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-Hj06l4xUKE0/UdoQaspjk1I/AAAAAAACo0A/l0fSzcEP_tk/s1600/2013-06-21%252520-%25252006%252520-%252520Scrambling%252520up%252520slabs%252520to%252520Twilight%252520Pillar%252520-%252520annotated.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-Hj06l4xUKE0/UdoQaspjk1I/AAAAAAACo0A/l0fSzcEP_tk/s800/2013-06-21%252520-%25252006%252520-%252520Scrambling%252520up%252520slabs%252520to%252520Twilight%252520Pillar%252520-%252520annotated.jpg"></a> <br>
+<b><i>Scrambling up slabs to Twilight Pillar</i></b><br>
+<br>
+As Steph is more comfortable soloing than me, she sprinted ahead on the slabs, and I caught up to her at a roomy perch just beneath the dihedrals. <br>
+<br>
+<a href="https://lh5.googleusercontent.com/-gVG65jDSxv4/UdRm_6zx3gI/AAAAAAACocM/dIS27IutX84/s1600/2013-06-21%252520-%25252007%252520-%252520Steph%252520waiting%252520at%252520the%252520start%252520of%252520the%252520climb.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-gVG65jDSxv4/UdRm_6zx3gI/AAAAAAACocM/dIS27IutX84/s800/2013-06-21%252520-%25252007%252520-%252520Steph%252520waiting%252520at%252520the%252520start%252520of%252520the%252520climb.jpg"></a> <br>
+<b><i>Steph waiting at the start of the climb. She's so hard to keep up with!</i></b><br>
+ <br>
+<a href="https://lh4.googleusercontent.com/-fiSoIBZ13R8/UdRnCtXxF4I/AAAAAAACoc8/ip0rcXYuJzA/s1600/2013-06-21%252520-%25252008%252520-%252520Steph%252520belaying%252520P1.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-fiSoIBZ13R8/UdRnCtXxF4I/AAAAAAACoc8/ip0rcXYuJzA/s800/2013-06-21%252520-%25252008%252520-%252520Steph%252520belaying%252520P1.jpg"></a> <br>
+<b><i>Steph belaying P1</i></b><br>
+ <br>
+We lost a lot of time in the beginning, as the route descriptions I had found didn't describe the start too clearly. Most relied on mentioning a fixed cam in the starting dihedral, but I never found any fixed cam on the route. I started out ascending the largest dihedral, which seemed the most promising, but it turned out to be much harder than it looked! Steep, slick, and no cracks ... just a seam. I wasted a lot of time climbing partway up and down this, deciding not to commit to the questionable, unprotectable strech that looked harder than 5.8. I considered the wide crack on the right, which seemed stout for 5.8 but was at least protectable, but I couldn't tell if I could get back into the dihedrals from that crack higher up.<br>
+<br>
+<a href="https://lh5.googleusercontent.com/-KLM7Gz8JKuU/UdRnFGVoscI/AAAAAAACodk/gdOT8swZh1o/s1600/2013-06-21%252520-%25252009%252520-%252520Starting%252520P1.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-KLM7Gz8JKuU/UdRnFGVoscI/AAAAAAACodk/gdOT8swZh1o/s800/2013-06-21%252520-%25252009%252520-%252520Starting%252520P1.jpg"></a> <br>
+<b><i>Starting P1. I thought I was supposed to go up this largest corner. This didn't seem right, and in the end I found a better way up the smaller corner on the left, stepping back right into the big corner for the last half of the pitch.</i></b><br>
+ <br>
+<a href="https://lh4.googleusercontent.com/-RIqtvLl2X3M/UdRnGCOLWZI/AAAAAAACod8/ed9S2kmeHAQ/s1600/2013-06-21%252520-%25252010%252520-%252520P1%252520don%252527t%252520take%252520this%252520corner.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-RIqtvLl2X3M/UdRnGCOLWZI/AAAAAAACod8/ed9S2kmeHAQ/s800/2013-06-21%252520-%25252010%252520-%252520P1%252520don%252527t%252520take%252520this%252520corner.jpg"></a> <br>
+<b><i>P1 - don't take this corner.</i></b><br>
+ <br>
+After waffling for about 40 minutes, I finally committed to a shallower dihedral to the left. It didn't seem right from the route descriptions, but it worked out just fine, protected well enough, and seemed to be about 5.7-5.8. (It felt on the harder side, but I could tell this was due more to the nervousness of not knowing what I was climbing into rather than the actual technical difficulty).<br>
+<br>
+The shallow dihedral ended at a nice ledge that traversed back into the main corner system where, by now, a crack had appeared, making it protectable and easy to climb.<br>
+<br>
+<a href="https://lh5.googleusercontent.com/-bVoAyKbRwSQ/UdRnHAAoQ_I/AAAAAAACoeE/XQ-xxxYfJag/s1600/2013-06-21%252520-%25252011%252520-%252520P1%252520Stepping%252520into%252520the%252520corner%252520midway%252520up.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-bVoAyKbRwSQ/UdRnHAAoQ_I/AAAAAAACoeE/XQ-xxxYfJag/s800/2013-06-21%252520-%25252011%252520-%252520P1%252520Stepping%252520into%252520the%252520corner%252520midway%252520up.jpg"></a> <br>
+<b><i>P1 Stepping into the corner midway up, where it is a cruiser 5.7+.</i></b><br>
+ <br>
+The dihedral ends in an imposing slanting roof with an offwith, by you can climb a bit to the side of it before stepping left onto a small and airy belay ledge.<br>
+<br>
+<a href="https://lh5.googleusercontent.com/-y0PuFR7HnU0/UdRnH1wty8I/AAAAAAACoeY/ZpLPgZiUbrg/s1600/2013-06-21%252520-%25252012%252520-%252520P1%252520reaching%252520rood%252520%252526%252520step%252520left.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-y0PuFR7HnU0/UdRnH1wty8I/AAAAAAACoeY/ZpLPgZiUbrg/s800/2013-06-21%252520-%25252012%252520-%252520P1%252520reaching%252520rood%252520%252526%252520step%252520left.jpg"></a> <br>
+<b><i>P1 reaching the roof and step left to the belay ledge.</i></b><br>
+ <br>
+<a href="https://lh6.googleusercontent.com/-lQNKM5i8iHQ/UdRnKapQSXI/AAAAAAACoe8/IY6KpwCl3c4/s1600/2013-06-21%252520-%25252013%252520-%252520P2%252520face%252520%252526%252520crack%252520climbing%252520to%252520step%252520right.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-lQNKM5i8iHQ/UdRnKapQSXI/AAAAAAACoe8/IY6KpwCl3c4/s800/2013-06-21%252520-%25252013%252520-%252520P2%252520face%252520%252526%252520crack%252520climbing%252520to%252520step%252520right.jpg"></a><br>
+<b><i>P2 face and crack climbing to step right at a small ledge with a piton. This was the crux pitch, with somewhat insecure 5.9 stemming at the end. To me it seemed harder than the 5.9 crux on Firebird Ridge.</i></b><br>
+<br>
+Once again, on P2 there was some uncertainty on the way to go - at least lower down. The way left looked to be about 5.4, but there was no gear for the first 20' or so, and it was very exposed. I opted for the harder-looking corner that climbed straight up, as it had gear options. It felt to be about 5.6.<br>
+<br>
+<a href="https://lh6.googleusercontent.com/-V0hsR2W2qIE/UdRnJXu0F5I/AAAAAAACoek/01rPVn9IP1k/s1600/2013-06-21%252520-%25252012a%252520-%252520Leading%252520P2%252520-%252520Steph.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-V0hsR2W2qIE/UdRnJXu0F5I/AAAAAAACoek/01rPVn9IP1k/s800/2013-06-21%252520-%25252012a%252520-%252520Leading%252520P2%252520-%252520Steph.jpg"></a> <br>
+<b><i>Leading P2 (by Steph Abegg)</i></b><br>
+ <br>
+The 5.6 corner ended at a large flake, and from here the corner became much steeper. The crack was not longer very good for jamming and was mostly bottomed out, flaring, and rotten, but the corner had lots of crimpy holds and stemming options. It felt sustained at 5.8, then there was a stretch were you had to step on a narrow hanging corner (Steph's left foot is on it in the photo below) with very marginal hand holds and small gear. It felt about 5.9 after being tired from sustained 5.8 stemming.<br>
+<br>
+<a href="https://lh3.googleusercontent.com/-glEufxRtRbE/UdRnQ1FLIpI/AAAAAAACogE/3ssz1p2flhQ/s1600/2013-06-21%252520-%25252015%252520-%252520P2%252520Steph%252520finishing%252520crux.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-glEufxRtRbE/UdRnQ1FLIpI/AAAAAAACogE/3ssz1p2flhQ/s800/2013-06-21%252520-%25252015%252520-%252520P2%252520Steph%252520finishing%252520crux.jpg"></a><br>
+<b><i>Step finishing the P2 crux. Note her stemming that hanging corner. Interesting climbing here!</i></b><br>
+ <br>
+Even more abruptly than on P1, a small airy ledge appears to the side, but this time it is on the right, and is much flatter and smaller. There is a piton and a horizontal crack to take gear. The crack continues up here through a roof. Some people have gone this way and found it very hard. Others spoke of an improbably traverse to the right into easier corners. This was the ticket!<br>
+<br>
+It is improbably in that it doesn't appear to lead anywhere, and it is a bit thin. The leader should run it out to avoid horrendous rope drag as they ascend the next corner system.<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-Cl_57r3XCd4/UdRnTE9n8rI/AAAAAAACogk/E8ghAiITSBw/s1600/2013-06-21%252520-%25252016a%252520-%252520P3%252520Improbable%252520Step%252520Right%252520-%252520Steph.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-Cl_57r3XCd4/UdRnTE9n8rI/AAAAAAACogk/E8ghAiITSBw/s800/2013-06-21%252520-%25252016a%252520-%252520P3%252520Improbable%252520Step%252520Right%252520-%252520Steph.jpg"></a> <br>
+<b><i>Doing the improbable step right on P3. (by Steph Abegg)</i></b><br>
+ <br>
+One of the things I'd say that stuck out to me about Twilight Pillar is that the belays and climbing on the first couple of pitches felt far more exposed than anything else I have climbed in the Palisades. Even with the steepness of the first buttress on Dark Star, belays were usually at pretty good sized ledges. This route felt airy!<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-9qcpyHpFSso/UdRnWHqbAyI/AAAAAAACohI/rvkrDjEkmPU/s1600/2013-06-21%252520-%25252016c%252520-%252520Exposed%252520P3%252520belay%252520-%252520Steph.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-9qcpyHpFSso/UdRnWHqbAyI/AAAAAAACohI/rvkrDjEkmPU/s800/2013-06-21%252520-%25252016c%252520-%252520Exposed%252520P3%252520belay%252520-%252520Steph.jpg"></a> <br>
+<b><i>Looking down from the exposed P3 belay - a tiny but perfectly flat ledge. (by Steph Abegg)</i></b><br>
+ <br>
+<a href="https://lh3.googleusercontent.com/-PuMoOkBnPcU/UdRnU6bvHhI/AAAAAAACog8/LtgNS9QDouc/s1600/2013-06-21%252520-%25252016b%252520-%252520Billy%252520at%252520the%252520P3%252520belay%252520-%252520Steph.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-PuMoOkBnPcU/UdRnU6bvHhI/AAAAAAACog8/LtgNS9QDouc/s800/2013-06-21%252520-%25252016b%252520-%252520Billy%252520at%252520the%252520P3%252520belay%252520-%252520Steph.jpg"></a> <br>
+<b><i>Billy at the P3 belay. The piton is below that little roof. (by Steph Abegg)</i></b><br>
+ <br>
+<a href="https://lh3.googleusercontent.com/-8-xtJCPkW0o/UdRnR5h3xTI/AAAAAAACogU/X5Zfa-yZWWY/s1600/2013-06-21%252520-%25252016%252520-%252520P3%252520Improbable%252520Step%252520Right.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-8-xtJCPkW0o/UdRnR5h3xTI/AAAAAAACogU/X5Zfa-yZWWY/s800/2013-06-21%252520-%25252016%252520-%252520P3%252520Improbable%252520Step%252520Right.jpg"></a> <br>
+<b><i>Looking back on the improbable step right. A little higher and I'll dare place gear without death drag!</i></b><br>
+ <br>
+<a href="https://lh4.googleusercontent.com/-dAvSkVTbNEw/UdRnXoWJGeI/AAAAAAACohk/aaWN9XqFyqw/s1600/2013-06-21%252520-%25252017%252520-%252520P3%2525205_7%252520Plus%252520Corner.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-dAvSkVTbNEw/UdRnXoWJGeI/AAAAAAACohk/aaWN9XqFyqw/s800/2013-06-21%252520-%25252017%252520-%252520P3%2525205_7%252520Plus%252520Corner.jpg"></a> <br>
+<b><i>P3 5.7+ corner. Really fun hand jams and stemming, although the rock gets loose above as the terrain gets easier.</i></b><br>
+ <br>
+After racing up a fun lieback and jamcrack corner, the terrain eased up into a series of tiers. The easiest line seemed to traverse two dihedrals over, ascend a bit, then traverse back up to a belay ledge. Here and there the rocks were loose, but nothing too bad for alpine. I'd rank it as somewhat better than Temple Crag.<br>
+<br>
+<a href="https://lh6.googleusercontent.com/-jK373TpBmoY/UdRnYvWLXSI/AAAAAAACoh4/ep_XWRaa7DY/s1600/2013-06-21%252520-%25252018%252520-%252520P3%252520Triple%252520Dihedrals.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-jK373TpBmoY/UdRnYvWLXSI/AAAAAAACoh4/ep_XWRaa7DY/s800/2013-06-21%252520-%25252018%252520-%252520P3%252520Triple%252520Dihedrals.jpg"></a> <br>
+<b><i>Looking up the P3 'triple dihedrals'. I worked my way right, and eventually all the way back left, before finishing in the center. Mostly bouldery cl. 4 to low 5th, with the occasional 5.7 move, but with enough loose rocks to keep one wary.</i></b><br>
+ <br>
+<a href="https://lh6.googleusercontent.com/-5aZbOYWABiU/UdRnZtG3TUI/AAAAAAACoiQ/YSq_6VIxLyA/s1600/2013-06-21%252520-%25252019%252520-%252520P3%252520Looking%252520down%252520triple%252520dihedrals.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-5aZbOYWABiU/UdRnZtG3TUI/AAAAAAACoiQ/YSq_6VIxLyA/s800/2013-06-21%252520-%25252019%252520-%252520P3%252520Looking%252520down%252520triple%252520dihedrals.jpg"></a> <br>
+<b><i>Looking down the P3 'triple dihedrals' from the belay.</i></b><br>
+ <br>
+<a href="https://lh4.googleusercontent.com/-HjCvKqcqEL8/UdRnbGvnKBI/AAAAAAACoik/Q0x8i7hxEKg/s1600/2013-06-21%252520-%25252020%252520-%252520P3%252520Steph%252520following.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-HjCvKqcqEL8/UdRnbGvnKBI/AAAAAAACoik/Q0x8i7hxEKg/s800/2013-06-21%252520-%25252020%252520-%252520P3%252520Steph%252520following.jpg"></a> <br>
+<b><i>Steph following P3.</i></b><br>
+ <br>
+<a href="https://lh3.googleusercontent.com/-V4tiILKkdXM/UdRndRPlHMI/AAAAAAADTiY/MKBNkPCt5ck/s1600/2013-06-21%252520-%25252022%252520-%252520The%252520Thumb%25252C%252520Ed%252520Lane%252520Peak%25252C%252520Birch%252520Mtn%252520%252526%252520South%252520Fork%252520Pass.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-V4tiILKkdXM/UdRndRPlHMI/AAAAAAADTiY/MKBNkPCt5ck/s800/2013-06-21%252520-%25252022%252520-%252520The%252520Thumb%25252C%252520Ed%252520Lane%252520Peak%25252C%252520Birch%252520Mtn%252520%252526%252520South%252520Fork%252520Pass.jpg"></a> <br>
+<b><i>The Thumb, Ed Lane Peak, Birch Mtn and South Fork Pass</i></b><br>
+ <br>
+From here on the climbing was supposed to be easier and less interesting. The position still made it fun, though. Steph felt up for leading these sections, so she took off to lead P4. <br>
+<br>
+<a href="https://lh5.googleusercontent.com/-tDIShmF-h84/UdRnkDcAbXI/AAAAAAACok4/KwMEMCkvUR8/s1600/2013-06-21%252520-%25252027a%252520-%252520P4%252520Steph%252520leading%252520-%252520Steph.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-tDIShmF-h84/UdRnkDcAbXI/AAAAAAACok4/KwMEMCkvUR8/s800/2013-06-21%252520-%25252027a%252520-%252520P4%252520Steph%252520leading%252520-%252520Steph.jpg"></a> <br>
+<b><i>Me belaying Steph as she leads P4 (by Steph Abegg)</i></b><br>
+<br>
+It was a strange pitch as it enters a very wide slot, about the size of a city sidewalk. Normally you could just walk through it, but it was still filled with snow, so we did a combination of body-bridging and face climbing on one side. At the end the climb ascends broken corners and blocks up and left, back towards the prow of the pillar on easy terrain.<br>
+<br>
+<a href="https://lh3.googleusercontent.com/-VjnyIQ7n71E/UdRnlu4Q_kI/AAAAAAAColQ/2xaHGHQKC5g/s1600/2013-06-21%252520-%25252028%252520-%252520P4%252520following%252520through%252520the%252520passage.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-VjnyIQ7n71E/UdRnlu4Q_kI/AAAAAAAColQ/2xaHGHQKC5g/s800/2013-06-21%252520-%25252028%252520-%252520P4%252520following%252520through%252520the%252520passage.jpg"></a> <br>
+<b><i>Following through the passage on P4.</i></b><br>
+ <br>
+Steph was good to go on P5, but she had some issues, climbed slow, and stopped short. I didn't see a better way to go, so either this was it, or perhaps one should traverse more to one side or the other? Either way, going this was was still only about 5.8, but physical and awkward - especially if leading with a pack. Steph tied hers off to finish the step, then hauled the pack up once I got closer. From here it was a very easy walk and scramble around the summit block. Bruce Bindner had mentioned a 5.10a direct topout. I wonder if that ascended the OW behind the flake in the photo below?<br>
+<br>
+<a href="https://lh3.googleusercontent.com/-8SvkUSOhMUI/UdRnryNfjnI/AAAAAAAComo/hc3hd8CL-iI/s1600/2013-06-21%252520-%25252032%252520-%252520P5%252520Steph%252520atop%252520her%252520crux.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-8SvkUSOhMUI/UdRnryNfjnI/AAAAAAAComo/hc3hd8CL-iI/s800/2013-06-21%252520-%25252032%252520-%252520P5%252520Steph%252520atop%252520her%252520crux.jpg"></a> <br>
+<b><i>Steph led out on P5 and stopped short, as this crux was quite tough for her, and she left her pack for hauling. She belayed me up (it was a pretty awkward and strenuous 5.8+ corner), and then finished by traversing right on a very casual and short P6 that topped out directly on the summit.</i></b><br>
+ <br>
+The route wraps 90 degrees around the summit then shoots straight for the top, ending right at the register. I love routes that do that!<br>
+<br>
+<a href="https://lh6.googleusercontent.com/-ZMiacohMrsk/UdRntAUZeyI/AAAAAAAComw/VNose-GA-vM/s1600/2013-06-21%252520-%25252033%252520-%252520P6%252520Steph%252520atop%252520the%252520summit.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-ZMiacohMrsk/UdRntAUZeyI/AAAAAAAComw/VNose-GA-vM/s800/2013-06-21%252520-%25252033%252520-%252520P6%252520Steph%252520atop%252520the%252520summit.jpg"></a> <br>
+<b><i>Steph atop the summit of Norman Clyde Peak.</i></b><br>
+ <br>
+<a href="https://lh5.googleusercontent.com/-mjg3F0vmZaU/UdRnuhOGMRI/AAAAAAAConI/bK6cHwXFJ3g/s1600/2013-06-21%252520-%25252034%252520-%252520Middle%252520Palisade%252520from%252520Norman%252520Clyde%252520Peak.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-mjg3F0vmZaU/UdRnuhOGMRI/AAAAAAAConI/bK6cHwXFJ3g/s800/2013-06-21%252520-%25252034%252520-%252520Middle%252520Palisade%252520from%252520Norman%252520Clyde%252520Peak.jpg"></a> <br>
+<b><i>Middle Palisade seen from Norman Clyde Peak</i></b><br>
+ <br>
+The prior day we didn't climb to the summit as Firebird Ridge tops out a ways down the ridge, and we had wanted to make sure that we had enough time to figure out the descent with daylight. Today we lounged a bit on the summit for a snack, and I couldn't resist pressing Steph's patience to get moving as I rummaged through the summit register. The Norman Clyde Peak register goes back a ways and has a lot of interesting entries, including a number of surprises from people I know personally or through some of the online forums.<br>
+<br>
+<a href="https://lh3.googleusercontent.com/-S8bkKVviOsc/UdRn1WilOOI/AAAAAAACoog/pgnLDZi9_zg/s1600/2013-06-21%252520-%25252038%252520-%252520Summit%252520Register%252520-%252520Peter%252520Croft%252520x2.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-S8bkKVviOsc/UdRn1WilOOI/AAAAAAACoog/pgnLDZi9_zg/s800/2013-06-21%252520-%25252038%252520-%252520Summit%252520Register%252520-%252520Peter%252520Croft%252520x2.jpg"></a> <br>
+<b><i>Summit Register - Peter Croft x2</i></b><br>
+ <br>
+<a href="https://lh6.googleusercontent.com/-1j6TbEQL7WI/UdRn4nyvgtI/AAAAAAACopQ/vlbu9ovrfu0/s1600/2013-06-21%252520-%25252041%252520-%252520Summit%252520Register%252520-%252520Galen%252520Rowell%252520Winter%252520Ascent.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-1j6TbEQL7WI/UdRn4nyvgtI/AAAAAAACopQ/vlbu9ovrfu0/s800/2013-06-21%252520-%25252041%252520-%252520Summit%252520Register%252520-%252520Galen%252520Rowell%252520Winter%252520Ascent.jpg"></a> <br>
+<b><i>Summit Register - Galen Rowell Winter Ascent</i></b><br>
+ <br>
+<a href="https://lh5.googleusercontent.com/-GE5PuT4FFeA/UdRn5kqitMI/AAAAAAACopg/r8jhxaaaIV4/s1600/2013-06-21%252520-%25252042a%252520-%252520Summit%252520Register%252520-%252520Traverse%252520from%252520S%252520Fork.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-GE5PuT4FFeA/UdRn5kqitMI/AAAAAAACopg/r8jhxaaaIV4/s800/2013-06-21%252520-%25252042a%252520-%252520Summit%252520Register%252520-%252520Traverse%252520from%252520S%252520Fork.jpg"></a> <br>
+<b><i>Summit Register - Traverse from S Fork by John Fischer</i></b><br>
+ <br>
+<a href="https://lh4.googleusercontent.com/-diyekSZsgao/UdRn8QkWQ4I/AAAAAAACoqA/luuth7rE2cE/s1600/2013-06-21%252520-%25252042b%252520-%252520Summit%252520Register%252520-%252520Palisade%252520Traverse.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-diyekSZsgao/UdRn8QkWQ4I/AAAAAAACoqA/luuth7rE2cE/s800/2013-06-21%252520-%25252042b%252520-%252520Summit%252520Register%252520-%252520Palisade%252520Traverse.jpg"></a> <br>
+<b><i>Summit Register - Palisade Traverse - Norman Claude and Vern Clevenger</i></b><br>
+ <br>
+<a href="https://lh4.googleusercontent.com/-3QHSygjHfaI/UdRn8_QsKnI/AAAAAAACoqQ/mxNKYhPlPvs/s1600/2013-06-21%252520-%25252042c%252520-%252520Summit%252520Register%252520-%252520Palisades%252520Solo%252520Traverse.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-3QHSygjHfaI/UdRn8_QsKnI/AAAAAAACoqQ/mxNKYhPlPvs/s800/2013-06-21%252520-%25252042c%252520-%252520Summit%252520Register%252520-%252520Palisades%252520Solo%252520Traverse.jpg"></a> <br>
+<b><i>Summit Register - Palisades Solo Traverse - Sam Skrocke</i></b><br>
+ <br>
+<a href="https://lh5.googleusercontent.com/-oa0TV255vCo/UdRn_bmv3aI/AAAAAAACoq4/ygWI52YKRTM/s1600/2013-06-21%252520-%25252043a%252520-%252520Summit%252520Register%252520-%252520Bruce%252520Bindner.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-oa0TV255vCo/UdRn_bmv3aI/AAAAAAACoq4/ygWI52YKRTM/s800/2013-06-21%252520-%25252043a%252520-%252520Summit%252520Register%252520-%252520Bruce%252520Bindner.jpg"></a> <br>
+<b><i>Summit Register - Bruce Bindner</i></b><br>
+ <br>
+<a href="https://lh5.googleusercontent.com/-jczjivslk_Q/UdRoAsU25_I/AAAAAAACorM/Y2r35Z-t3UQ/s1600/2013-06-21%252520-%25252043b%252520-%252520Summit%252520Register%252520-%252520Bruce%252520Bindner.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-jczjivslk_Q/UdRoAsU25_I/AAAAAAACorM/Y2r35Z-t3UQ/s800/2013-06-21%252520-%25252043b%252520-%252520Summit%252520Register%252520-%252520Bruce%252520Bindner.jpg"></a> <br>
+<b><i>Summit Register - Bruce Bindner on Thunderbird Wall</i></b><br>
+ <br>
+<a href="https://lh3.googleusercontent.com/-4WGGbU_e4fk/UdRoBQIBKTI/AAAAAAACorY/lMBAEHd46S4/s1600/2013-06-21%252520-%25252044%252520-%252520Summit%252520Register%252520-%252520RJ%252520Secor.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-4WGGbU_e4fk/UdRoBQIBKTI/AAAAAAACorY/lMBAEHd46S4/s800/2013-06-21%252520-%25252044%252520-%252520Summit%252520Register%252520-%252520RJ%252520Secor.jpg"></a> <br>
+<b><i>Summit Register - RJ Secor</i></b><br>
+ <br>
+It took us about 20 minutes to traverse from the summit to the top of Firebird Ridge. This begins by first heading the other direction, towards Middle Palisade, and then wrapping 180 degrees around on ledges to some downclimbing, at cl. 4. From here there is an easy cl. 2-3 ledge system that traverses to below Firebird Ridge, then cl. 3 blocks ascending about 100' back up to the crest. (You might be able to traverse straight over staying higher on the crest, but this looked to be harder than cl. 3-4 to us!)<br>
+<br>
+<a href="https://lh6.googleusercontent.com/-LblpPgGnYso/UdRoWLB1ZtI/AAAAAAACow8/OrustBD2YYY/s1600/2013-06-21%252520-%25252057%252520-%252520Looking%252520over%252520to%252520Firebird%252520Ridge%252520%252526%252520the%252520NE%252520Face%252520descent.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-LblpPgGnYso/UdRoWLB1ZtI/AAAAAAACow8/OrustBD2YYY/s800/2013-06-21%252520-%25252057%252520-%252520Looking%252520over%252520to%252520Firebird%252520Ridge%252520%252526%252520the%252520NE%252520Face%252520descent.jpg"></a> <br>
+<b><i>Looking over to Firebird Ridge and the NE Face descent. Getting over there was quite the exposed scramble!</i></b><br>
+ <br>
+<a href="https://lh5.googleusercontent.com/-m3syMBmNyds/UdRoZCMwV9I/AAAAAAACoxc/a1sJLCUXurg/s1600/2013-06-21%252520-%25252058a%252520-%252520Crux%252520summit%252520downclimb%252520-%252520Steph.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-m3syMBmNyds/UdRoZCMwV9I/AAAAAAACoxc/a1sJLCUXurg/s800/2013-06-21%252520-%25252058a%252520-%252520Crux%252520summit%252520downclimb%252520-%252520Steph.jpg"></a> <br>
+<b><i>Finishing the crux summit downclimb. (by Steph Abegg)</i></b><br>
+ <br>
+<a href="https://lh5.googleusercontent.com/-1H5LUjfxFR4/UdRoabdb8tI/AAAAAAACoxs/nodaxTE1xHE/s1600/2013-06-21%252520-%25252059%252520-%252520Looking%252520back%252520to%252520the%252520summit.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-1H5LUjfxFR4/UdRoabdb8tI/AAAAAAACoxs/nodaxTE1xHE/s800/2013-06-21%252520-%25252059%252520-%252520Looking%252520back%252520to%252520the%252520summit.jpg"></a> <br>
+<b><i>Looking back to the summit as we ascended back up to the top of Firebird Ridge. You can see the leaning pillar that I was downclimbing by in the previous photo.</i></b><br>
+ <br>
+Once we reached the ridge crest we were on familiar ground again, as this was the topout to Firebird Ridge, and the NE Face starts/ends about 50 ft farther along the ridge crest.<br>
+<br>
+Naturally, having ropes and being lazy, we opted to rappel the upper section again.<br>
+<br>
+<a href="https://lh5.googleusercontent.com/-KohfgkcNrlk/UdRobZbLjBI/AAAAAAACox0/4sEtECEJgI8/s1600/2013-06-21%252520-%25252060%252520-%252520Steph%252520rigging%252520the%252520rappel.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-KohfgkcNrlk/UdRobZbLjBI/AAAAAAACox0/4sEtECEJgI8/s800/2013-06-21%252520-%25252060%252520-%252520Steph%252520rigging%252520the%252520rappel.jpg"></a> <br>
+<b><i>Steph rigging the rappel.</i></b><br>
+ <br>
+Since we were already familiar with the descent, we made it down much faster, making it from the first rappel to camp in about 3:45. We couldn't avoid opting for a second rappel partway down, even though this time we stayed farther skier's left, but this time the rappel was much easier, and the climbing overall was a bit easier.<br>
+<br>
+<a href="https://lh6.googleusercontent.com/-xZj1lHbH2-Q/UdRocbxonWI/AAAAAAACoyE/dlBJQ3oi6RU/s1600/2013-06-21%252520-%25252061%252520-%252520NE%252520Face%252520looking%252520up.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-xZj1lHbH2-Q/UdRocbxonWI/AAAAAAACoyE/dlBJQ3oi6RU/s800/2013-06-21%252520-%25252061%252520-%252520NE%252520Face%252520looking%252520up.jpg"></a> <br>
+<b><i>Looking back up the NE Face as we did the long downclimb again. This time we did it faster!</i></b><br>
+ <br>
+<a href="https://lh6.googleusercontent.com/-H734bAh1CKE/UdRofGTlFFI/AAAAAAACoyc/8cU7_JibkJM/s1600/2013-06-21%252520-%25252062%252520-%252520NE%252520Face%252520Steph%252520%252526%252520downclimbing.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-H734bAh1CKE/UdRofGTlFFI/AAAAAAACoyc/8cU7_JibkJM/s800/2013-06-21%252520-%25252062%252520-%252520NE%252520Face%252520Steph%252520%252526%252520downclimbing.jpg"></a> <br>
+<b><i>Steph downclimbing the NE Face.</i></b><br>
+ <br>
+<a href="https://lh4.googleusercontent.com/-ZeGu3wcDk6s/UdRognA5XgI/AAAAAAACoys/byskNqE1zno/s1600/2013-06-21%252520-%25252063%252520-%252520NE%252520Face%252520looking%252520up%252520near%252520the%252520bottom.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-ZeGu3wcDk6s/UdRognA5XgI/AAAAAAACoys/byskNqE1zno/s800/2013-06-21%252520-%25252063%252520-%252520NE%252520Face%252520looking%252520up%252520near%252520the%252520bottom.jpg"></a> <br>
+<b><i>Looking back up near the bottom of the NE Face.</i></b><br>
+ <br>
+<a href="https://lh6.googleusercontent.com/-B9JQIucagCk/UdRoiOj5xRI/AAAAAAACoy8/7XVgRvCObeo/s1600/2013-06-21%252520-%25252064%252520-%252520NE%252520Face%252520Steph%252520exiting%252520the%252520base.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-B9JQIucagCk/UdRoiOj5xRI/AAAAAAACoy8/7XVgRvCObeo/s800/2013-06-21%252520-%25252064%252520-%252520NE%252520Face%252520Steph%252520exiting%252520the%252520base.jpg"></a> <br>
+<b><i>Steph exiting the base of the NE Face.</i></b><br>
+ <br>
+The entire route took us 13:30 camp-to-camp from our high camp. While not a long route, between the approach, descent, and routefinding, it was  along day! <a href="http://www.supertopo.com/tripreport/tripreport.php?articleid=12340" target="_blank">The next day</a> would be more relaxed, as all we had in store was moving camp over the "Firebird Col" to the base of the Palisade Crest to continue our adventure.<br>
+<br>
+<a href="https://lh5.googleusercontent.com/-xyY72U_slRg/UdRoi1B1DVI/AAAAAAACozE/SWqKAP7xiAo/s1600/2013-06-21%252520-%25252065%252520-%252520Middle%252520Palisade%252520%252526%252520Norman%252520Clyde%252520Peak%252520under%252520full%252520moon.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-xyY72U_slRg/UdRoi1B1DVI/AAAAAAACozE/SWqKAP7xiAo/s800/2013-06-21%252520-%25252065%252520-%252520Middle%252520Palisade%252520%252526%252520Norman%252520Clyde%252520Peak%252520under%252520full%252520moon.jpg"></a> <br>
+<b><i>Middle Palisade and Norman Clyde Peak under full moon</i></b><br>
+<br>
+<div class="horizontalrule"><hr></div>
+<br>
+<b><u>Route Topo and Annotated Photos</u></b><br>
+<br>
+Below is my first completed drawn topo of a route. I decided Twilight Pillar could use one.  (BTW, in case you're wondering what I mean when I say 5.7+ or 5.8+, I mean that I feel it was pretty stout for 5.7/5.8, maybe very old school, but I didn't want to rate it the next number higher.)<br>
+<br>
+<a href="https://lh5.googleusercontent.com/-XrB1Qt75IKw/U1QZl3d15AI/AAAAAAADd-s/iFrCfG00RNI/s2000/Norman%2520Clyde%2520Peak%2520-%2520Twilight%2520Pillar.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-XrB1Qt75IKw/U1QZl3d15AI/AAAAAAADd-s/iFrCfG00RNI/s800/Norman%2520Clyde%2520Peak%2520-%2520Twilight%2520Pillar.jpg"></a> <br>
+<b><i>Climbing topo of Twilight Pillar on Norman Clyde Peak.</i></b><br>
+<br>
+<a href="https://lh6.googleusercontent.com/-0HU3ECbrKuI/UibLSGPr2II/AAAAAAACmOg/dflPwDjtwNA/s1600/2009-09-26%252520-%25252010%252520-%252520Norman%252520Clyde%252520Pk%252520-%252520annotated.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-0HU3ECbrKuI/UibLSGPr2II/AAAAAAACmOg/dflPwDjtwNA/s800/2009-09-26%252520-%25252010%252520-%252520Norman%252520Clyde%252520Pk%252520-%252520annotated.jpg"></a> <br>
+<b><i>Routes on Norman Clyde Peak. The lower pitches of Twilight Pillar are my best guess from looking at the rock and referencing Secor. Same with Thunderbird Wall and Eagle Face. I think Twilight Pillar's lower pitches might actually start farther right now ...</i></b><br>
+<br>
+<a href="https://lh6.googleusercontent.com/-ubkNEChSZzc/UibmP-zEmtI/AAAAAAACoOs/U4FSd-h5bXA/s1600/2013-06-20%252520-%25252012%252520-%252520Twilight%252520Pillar%252520from%252520ridge%252520-%252520annotated.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-ubkNEChSZzc/UibmP-zEmtI/AAAAAAACoOs/U4FSd-h5bXA/s800/2013-06-20%252520-%25252012%252520-%252520Twilight%252520Pillar%252520from%252520ridge%252520-%252520annotated.jpg"></a> <br>
+<b><i>Twilight Pillar route on Norman Clyde Peak.</i></b><br>
+ <br>
+<a href="https://lh3.googleusercontent.com/-yKUpDu9octM/Uibm6rv2FDI/AAAAAAACoTM/drxhoeXnfVQ/s1600/2013-06-22%252520-%25252002%252520-%252520Twilight%252520Pillar%252520-%252520annotated.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-yKUpDu9octM/Uibm6rv2FDI/AAAAAAACoTM/drxhoeXnfVQ/s800/2013-06-22%252520-%25252002%252520-%252520Twilight%252520Pillar%252520-%252520annotated.jpg"></a> <br>
+<b><i>Twilight Pillar route on Norman Clyde Peak.</i></b><br>
+ <br>
+<a href="https://lh5.googleusercontent.com/-BsEKAEZutQ4/UibmM7b_ItI/AAAAAAACoOU/TSqbnUsH3RA/s1600/2013-06-20%252520-%25252012%252520-%252520Twilight%252520Pillar%252520from%252520ridge%252520-%252520annotated%252520-%252520close.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-BsEKAEZutQ4/UibmM7b_ItI/AAAAAAACoOU/TSqbnUsH3RA/s800/2013-06-20%252520-%25252012%252520-%252520Twilight%252520Pillar%252520from%252520ridge%252520-%252520annotated%252520-%252520close.jpg"></a> <br>
+<b><i>Twilight Pillar route on Norman Clyde Peak.</i></b><br>
+ <br>
+<a href="https://lh5.googleusercontent.com/-XuKs0sk_2HI/Uibm2-xDCrI/AAAAAAACoS0/7kPiYAbz8OU/s1600/2013-06-22%252520-%25252002%252520-%252520Twilight%252520Pillar%252520-%252520annotated%252520close.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-XuKs0sk_2HI/Uibm2-xDCrI/AAAAAAACoS0/7kPiYAbz8OU/s800/2013-06-22%252520-%25252002%252520-%252520Twilight%252520Pillar%252520-%252520annotated%252520close.jpg"></a> <br>
+<b><i>Twilight Pillar route on Norman Clyde Peak.</i></b><br>
+ <br>
+<div class="horizontalrule"><hr></div>
+<div class="horizontalrule"><hr></div>
+<b><u>Links</u></b><br>
+<img src="/images/SqBullet.gif" width="8" height="8"> <a href="https://picasaweb.google.com/105894936663116565516/20130621NormanClydePeakTwilightPillarWithStephAbegg?authuser=0andfeat=directlink" target="_blank" rel="nofollow">2013-06-21 - Norman Clyde Peak Twilight Pillar with Steph Abegg</a>
+</div> 
+id: t12438n 
+name: Norman Clyde Pk (Twilight Pillar) 
+url: http://www.supertopo.com/tr/Norman-Clyde-Pk-Twilight-Pillar/t12438n.html 
+

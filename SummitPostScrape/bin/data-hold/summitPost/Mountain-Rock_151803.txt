@@ -165,6 +165,7 @@ date:
 difficulty:  
 elevation: 11527 
 grade:  
+hits: 44484  
 id: 151803 
 latitude: 40.698 
 location: Utah, United States, North America 
@@ -173,6 +174,9 @@ my_route_quality:
 name: Mount Watson 
 number_of_pitches:  
 page_url: http://www.summitpost.org/mount-watson/151803 
+parent_code: 171016 
+parent_name: Western Uinta / Lakes Roadless Area 
+parent_url: /western-uinta-lakes-roadless-area/171016 
 rock_difficulty:  
 route_quality:  
 route_type:  

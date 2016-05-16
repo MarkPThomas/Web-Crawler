@@ -1,0 +1,57 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Approach</h2>
+<br>
+From the JMT Trailhead in <a href="http://www.summitpost.com/show/mountain_link.pl/mountain_id/759">Tuolumne Meadows</a>, head south up Lyell Canyon. Turn right after two iles onto the Rafferty Creek Trail, and take this to Tuolumne Pass and Vogelsang HS Camp (8mi from TH). Then follow the trail to Vogelsang Pass that goes through the hanging valley between Fletcher and Vogelsang Peaks.<br>
+<a name="chapter_2"></a><h2>Route Description</h2>
+<br>
+There are many routes possible on the East Face of Vogelsang. Several are described here. Refer to the accompanying photo for locations of each route.<br>
+<br>
+<b>Central Face</b> <i>Class 2</i><br>
+This is probably the easiest route to the summit. From below, near the outlet of Vogelsang Lake, A wide opening in the jagged North Ridge appears to offer a direct route to the summit. The rib separating the East Face tops out at a false summit northeast of the true summit. Follow scree and sandy benches to the North Ridge on the right side of the rib, then follow the ridge up to the summit. The climbing is much easier than it appears from below.<br>
+<br>
+<b>Central Bypass</b> <i>Class 3</i><br>
+This is a variation on the Central Face. Aim for the rib on the left side, and pass over the center ridge at where the ridge is marked with orange-colored rock. Follow a left-leaning diagonal line marked with small shrubs up about 70 feet, then head directly up by any of numerous variations. The rock here is enjoyable class 3.<br>
+<br>
+<b>Left-side Gully</b> <i>Class 2</i><br>
+Just before reaching Vogelsang Pass, head west up a wide side canyon that heads towards the summit. At the end of the side canyon turn left and climb the gully heading up to the Southeast Ridge. The southwest side of the ridge is easy class 2 to the summit. Through early summer this gully is snow-filled and makes a great glissade. I use trail goes up the gully after the snow melts.<br>
+<br>
+<b>Central Direct</b> <i>Class 3 </i><br>
+Class 3 variations can be found along the steep portion of the East Face just left of the summit. From a point below the summit, angle up and left over solid class 3 rock. Aim for a point on the Southeast Ridge about 1/4 of the way from the summit towards the Left-side Gully. This route looks like an impossible scramble from below, but a good series of benches makes this an enjoyable rock scramble.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=23418" rel="no_follow"><img src="/images/thumb/23418.jpg"></a></td>
+<td><a href="/view_object.php?object_id=23463" rel="no_follow"><img src="/images/thumb/23463.jpg"></a></td>
+</tr></table>
+<a name="chapter_3"></a><h2>Essential Gear</h2>
+<br>
+Axe and crampons useful in early season, otherwise none needed from mid-summer through fall.<br>
+<a name="chapter_4"></a><h2>Miscellaneous Info</h2>
+<br>
+If you have information about this route that doesn't pertain to any of the other sections, please add it here.<br>
+<a name="chapter_5"></a><h2>Images</h2>
+<div align="center"><table id="my_images"><tr>
+<td><a href="/vogelsang-s-east-face-with/23418/c-158350"><img alt="Vogelsang\'s East Face with..." src="/images/square/23418.jpg"></a></td>
+<td><a href="/vogelsang-s-east-face-routes/23463/c-158350"><img alt="Vogelsang\'s East Face routes..." src="/images/square/23463.jpg"></a></td>
+</tr></table></div>
+            </article> 
+date:  
+difficulty: Class 2-3 
+elevation:  
+grade:  
+id: 158350 
+latitude: 37.7775 
+location: California, United States, North America 
+longitude: -119.3483 
+my_route_quality:  
+name: East Face 
+number_of_pitches:  
+page_url: http://www.summitpost.org/east-face/158350 
+rock_difficulty:  
+route_quality: 0.8923076923076924 
+route_type: Scramble 
+seasons:  
+time_required: Less than two hours 
+type: Route 
+

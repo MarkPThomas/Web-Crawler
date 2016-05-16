@@ -64,6 +64,7 @@ date:
 difficulty: Class 3 
 elevation:  
 grade:  
+hits: 12136  
 id: 156218 
 latitude: 38.6636 
 location: California, United States, North America 
@@ -72,6 +73,9 @@ my_route_quality:
 name: Crescent Moon Couloir 
 number_of_pitches:  
 page_url: http://www.summitpost.org/crescent-moon-couloir/156218 
+parent_code: 150503 
+parent_name: Round Top 
+parent_url: /round-top/150503 
 rock_difficulty:  
 route_quality: 1.0 
 route_type: Snow/ice climb 

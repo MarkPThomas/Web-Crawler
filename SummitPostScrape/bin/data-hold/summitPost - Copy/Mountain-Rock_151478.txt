@@ -1,0 +1,263 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2> <div align="center" class="image-left" style="width: 156px;">
+<a href="/rising-expectations-c1/337877"><img alt="Rising Expectations (C1)" height="200" width="150" src="/images/small/337877.JPG"></a><br><span class="caption">Rising Expectations</span>
+</div>
+<br>
+ <div align="center" class="image-left" style="width: 156px;">
+<a href="/monkey-space/282214"><img alt="Monkey Space" height="200" width="150" src="/images/small/282214.JPG"></a><br><span class="caption">Monkey Space</span>
+</div> <div align="center" class="image-right" style="width: 206px;">
+<a href="/monkey-face/562778"><img alt="Monkey Face" height="150" width="200" src="/images/small/562778.JPG"></a><br><span class="caption">Busy day!</span>
+</div>
+<br>
+Monkey Face is a 350 foot spire that is the centerpiece of Smith Rock State Park.  When viewed from the south, the top of the pillar resembles the face of a Monkey complete with a mouth, nose, and eyes.  The pillar is four-sided and bulges on all sides near the top making all routes to the summit quite challenging.  The first summit ascent was made in 1960 by a trio (D. Bohn, J. Fraser, and V Staender) whose names now grace various crags throughout Smith.  The easiest route to the summit is <a href="http://www.summitpost.org/show/route_link.pl/route_id/1407/object_id/1695">Pioneer Route</a> rated 5.7 A0 - it overcomes the crux overhung face portion by means of a <a href="http://www.summitpost.com/mountains/photo_link.pl/p/photo_id__37233__object_id__1695__type__mountain__mountain_id__1695__route_id____user_id____order_by____limit__">bolt ladder</a>.  Most other (summit) route options in this difficulty range on Monkey are mere variations of Pioneer Route and all funnel through the <a href="http://www.summitpost.com/mountains/photo_link.pl/p/photo_id__37233__object_id__1695__type__mountain__mountain_id__1695__route_id____user_id____order_by____limit__">bolt ladder</a> pitch.  Other free summit routes start in the 5.11b range.  The easiest free line to the summit is <a href="http://www.summitpost.org/show/route_link.pl/route_id/5067/object_id/1695">Monkey Space</a>, 5.11b.  Monkey Face is also the location of one of the toughest free routes in the world, Just Do It (5.14c) located on the bulging east face, was first climbed in 1992 by Jean-Baptiste Tribout.  If free climbing at the 5.11+ level is not within one's ability, an alternative to the <a href="http://www.summitpost.org/show/route_link.pl/route_id/1407/object_id/1695">Pioneer Route</a> is the <a href="http://www.summitpost.org/show/route_link.pl/route_id/6220/object_id/1695">West Face</a> route (not to be confused with <a href="http://www.summitpost.org/show/route_link.pl/route_id/2808/object_id/1695">West Face Variation</a> [to the Pioneer Route]) which can be aided from the ground to the summit in four long pitches via the West Side Cave (see <a href="http://www.englishengineering.com/dave/adventures/monkeywest/route.html">here</a> for a climb report on this route).  With the exception of the first pitch most of which is done on gear, the other pitches are all bolt ladders (note:  this climb has been rebolted, see <b>Route Updates</b> section below).<br>
+<br>
+The view from the summit is breathtaking - a beautiful line of the Cascade giants stretches from north to south and includes:  <a href="http://www.summitpost.com/mountains/mountain_link.pl/mountain_id/3">Mount Hood</a>, <a href="http://www.summitpost.com/mountains/mountain_link.pl/mountain_id/456">Mount Jefferson</a>, <a href="http://www.summitpost.com/mountains/mountain_link.pl/mountain_id/323">Three Fingered Jack</a>, <a href="http://www.summitpost.com/mountains/mountain_link.pl/mountain_id/450">Mount Washington</a>, <a href="http://www.summitpost.com/mountains/mountain_link.pl/mountain_id/401">North Sister</a>, <a href="http://www.summitpost.com/mountains/mountain_link.pl/mountain_id/309">Middle Sister</a>, <a href="http://www.summitpost.com/mountains/mountain_link.pl/mountain_id/317">South Sister</a>, <a href="http://www.summitpost.com/mountains/mountain_link.pl/mountain_id/454">Broken Top</a>, and <a href="http://www.summitpost.com/mountains/mountain_link.pl/mountain_id/334">Mount Bachelor</a>.<br>
+<br>
+Note that the present elevation is a "guesstimate" - to be corrected once better info. is available.  Also note that coordinates for Topozone Map have been provided by <a href="http://www.summitpost.com/mountains/user_link.pl?user_id=349">Brian Jenkins</a>.<br>
+<br>
+<div align="center" class="image" style="width: 506px;">
+<a href="/view-west-past-monkey-face/123632"><img alt="View west past Monkey Face;..." height="375" width="500" src="/images/medium/123632.jpg"></a><br><span class="caption"> </span>
+</div>
+<a name="chapter_2"></a><h2>Getting There</h2> <div align="center" class="image-left" style="width: 156px;">
+<a href="/an-intimidating-view-of/123631"><img alt="An intimidating view of..." height="200" width="150" src="/images/small/123631.jpg"></a><br><span class="caption">North Face</span>
+</div> <div align="center" class="image-right" style="width: 156px;">
+<a href="/monkey-face-sunset/401844"><img alt="Monkey face sunset" height="200" width="150" src="/images/small/401844.JPG"></a><br><span class="caption">East Face</span>
+</div> <div align="center" class="image-left" style="width: 156px;">
+<a href="/pioneer-route/67443"><img alt="Pioneer Route" height="200" width="150" src="/images/small/67443.JPG"></a><br><span class="caption">Pioneer Route</span>
+</div>
+<br>
+ <div align="center" class="image-left" style="width: 156px;">
+<a href="/monkey-cluster-f/347707"><img alt="Monkey Cluster F..." height="200" width="150" src="/images/small/347707.JPG"></a><br><span class="caption">South Face</span>
+</div>
+<br>
+Smith Rock State Park is located outside the town of Terrebonne, Oregon (approximately 30 miles north of Bend) off of US highway 97.  Those who wish to fly in usually do so via Portland, OR about 3 hours driving time (140 miles) northwest of Terrebonne.<br>
+<br>
+Take US 97 to the town of Terrebonne.  Turn east onto B Avenue which shortly becomes Smith Rock way (there are signs for Smith on US 97).  Follow the road past railroad tracks and down the hill to a signed intersection (approx. 0.75 miles from 97).  Make a left onto NE 1st Ave. which then becomes NE Wilcox Ave.  Follow it for about 1 mile to another signed junction with Crooked River Drive.  Turn left toward Smith.  Follow this road (passing the entrance into Smith Rock campground) until you see a roadside parking area on your left.  Pay the day use fee ($3 per car per day) at the vending machine (or at the self issue station located in the driveway to the campground) and don't forget to leave a copy on your dashboard.  The parking area has a public restroom and vending machines.  Stopping at the above-mentioned billboard in the driveway into the state campground (you can pay the day use fee there as well as camping fee if staying overnight at the campground) is generally a good idea since it will allow you to see if there are any pertinent route closures.  Follow the trail down hill toward the bridge over the Crooked River below.  Cross the bridge and you will see a pointer sign - at this point you have several options on how to reach Monkey Face which is essentially on the other side of the huge rock wall looming ahead of you (Picnic Lunch Wall):<br>
+<br>
+<b>1.</b>  <a href="http://www.summitpost.com/mountains/photo_link.pl/p/photo_id__39415__object_id__1757__type__mountain__mountain_id__1757__route_id____user_id____order_by____limit__">Misery Ridge</a> Trail (approx. 0.75 mile from bride).  This route is probably the most straight forward approach for north side routes on Monkey (incl. the Pioneer Route).  Past the bridge, follow the trail up switchbacks toward the Picnic Lunch Wall.  The trail turns right at the foot of the wall and skirts its bottom passing along some of the more famous Smith Rock moderates such as Super Slab and Moscow.  Follow the tail as it switchbacks to the top of Misery Ridge.  Atop, the trail levels off.  Stay on main trail and you'll soon see the top of Monkey Face on your right (the west side of Misery Ridge).  The rock outcrop closest (across the chasm from) Monkey Face is called The Springboard.  It offers a great vantage point for examining the upper pitches of Monkey and for taking some action photos of climbers.  Additionally, a tyrollean traverse from the Monkey's mouth cave can be rigged to the Springboard (heavy duty anchors for this exist on both the Springboard and inside the mouth cave).  After enjoying the view of Monkey from the Springboard, return to the main trail and descend the switchbacked trail toward the Monkey Face pillar.  This is probably the choice approach for the Pioneer route as it not only gives you a great preview of the upper pitches (from Springboard) but also the trail puts you on the correct side of the pillar (see route description).<br>
+<br>
+<b>2.</b>  <a href="http://www.summitpost.com/mountains/photo_link.pl?photo_id=37273&amp;order_by=&amp;limit=&amp;object_id=1695&amp;type=mountain&amp;mountain_name=Monkey+Face&amp;route_name=&amp;component_title=&amp;mountain_id=1695&amp;route_id=&amp;user_name=&amp;user_id=&amp;option=4&amp;x=24&amp;y=6">Asterisk Pass</a>.  This route offers the quickest approach option to routes located on the south and west sides of Monkey and is (stiff!) 4th class going over the pass - the required downclimb down the west side of the pass can give pause to some people.  After the bridge, make a left and follow the river-side trail past Ship Rock (chossy looking, dark color tower on your right) and the Morning Glory Wall.  When just before and below the Dihedrals on the river trail (you're looking for a latrine on your right), take a trail right and uphill toward the crags.  The trail reaches the base of the rock near a vertical wall with huge dissolution pockets (famous bolted routes start here incl. Five Gallon Buckets).  Follow the trail left here as it traverses below the rock face.  Your goal is the pass with what looks like a balanced boulder (it's the low point between the Main Smith Group and the Dihedrals visible from the parking lot).  Sky Ridge, a 5.8R Smith Classic starts at the pass.  Go over the pass and descend rightward.  Shortly after you should see the unmistakeable shape of the Monkey Face Pillar.<br>
+<br>
+<b>3.</b>  Final option is the longest but the most gentle in terms of elevation gain.  It is about 1.5 miles from the bridge.  Follow directions as for <a href="http://www.summitpost.com/mountains/photo_link.pl?photo_id=37273&amp;order_by=&amp;limit=&amp;object_id=1695&amp;type=mountain&amp;mountain_name=Monkey+Face&amp;route_name=&amp;component_title=&amp;mountain_id=1695&amp;route_id=&amp;user_name=&amp;user_id=&amp;option=4&amp;x=24&amp;y=6">Asterisk Pass</a> but instead of turning right and uphill away from the river, stay on the riverside trail as it rounds the large Smith Rock Group on the right.  At some point you will see Monkey Face.<a name="chapter_3"></a><h2>Red Tape</h2> <div align="center" class="image-left" style="width: 206px;">
+<a href="/looking-north-from-the-base/87954"><img alt="Looking north from the base..." height="150" width="200" src="/images/small/87954.JPG"></a><br><span class="caption"> </span>
+</div>
+<br>
+The park charges $3 per vehicle per day to park at the state parking lot.  The park is "open" from dawn to dusk (or about 10 pm in the summer).  The consequences of staying past "closing time" are unclear and some climbers do "moonlight climbing".  <br>
+<br>
+The park allows dogs but is very strict as to keeping them leashed (fine = $96) and requests that you clean up after them.<br>
+New regulation, as of March 1st, 2003:  Owners of unattended dogs left tied in at the base of climbs will be given a citation.<br>
+<a name="chapter_4"></a><h2>When To Climb</h2> <div align="center" class="image-right" style="width: 156px;">
+<a href="/monkey-face/67388"><img alt="Monkey Face" height="200" width="150" src="/images/small/67388.JPG"></a><br><span class="caption"> </span>
+</div> <div align="center" class="image-left" style="width: 206px;">
+<a href="/monkey-face-center-spire-in/131342"><img alt="Monkey Face (center) spire in..." height="150" width="200" src="/images/small/131342.JPG"></a><br><span class="caption"> </span>
+</div>
+<br>
+The park is officially open year round (though shower facilities at the campground are turned off in winter time).  Climbing can be uncomfortably hot in the summer and snow often blankets the rocks in the winter.  Spring and Fall are ideal as the temperatures are moderate and the east side of Oregon's Cascade Mountains is generally dry.  Monkey Face is generally a good choice for warm days as it receives the cooler breezes from the west (coming off of the Cascade mountains).<br>
+Check with the park (or by calling one of the climbing shops below) for seasonal route closures due to falcon nesting.  You will most likely be ticketed if you break the rules here as the locals often keep an active watch of the crags during closure periods.<a name="chapter_5"></a><h2>Camping</h2> <div align="center" class="image-left" style="width: 156px;">
+<a href="/dolf-s-dihedral-direct/281278"><img alt="Dolf s Dihedral (Direct)" height="200" width="150" src="/images/small/281278.JPG"></a><br><span class="caption">Dolf's Dihedral (direct start)</span>
+</div>
+<br>
+Smith Rock State Park operates a campground that overlooks the crags (see directions above under Getting There section).  The campground has bathrooms and shower facilities (showers available summertime only) as wells as some communal picnic tables.  Sleeping in cars is not permitted.  The campground charges $4 per person per night (this will also allow you to spend a day enjoying Smith without having to pay the additional $3 day use fee).<br>
+<br>
+In addition, there is a free campground (BLM operated?) approx. 7 miles from the main parking area for Smith.  Directions to this campground:   <a href="http://www.smithrock.com/localguide/campgrounds/sh_campground.html">Skull Hollow Campground</a>.  This information was provided by <a href="http://www.summitpost.com/mountains/user_link.pl?user_id=349">Brian Jenkins</a>.<br>
+<br>
+Want to spend your time at Smith in the lap of luxury?  This is especially nice during late/winter/early season outings when the days are short and nights are long.  The Hub Motel in Redmond offers clean rooms (shower, fridge, cable included!) for $35/night (double occupancy).  This price is most likely a "special" for climbers so be sure to smile at the nice folks in the main office and let them know the purpose of your visit.  The motel  (huge red neon sign) is located on the left hand side of US97 on the northern outskirts of Redmond, approximately 6 miles south of Terrebonne.<a name="chapter_6"></a><h2>Mountain Conditions</h2>Smith Rock is part of the Oregon state park system.  The official (though not very useful for climbers) website is <a href="http://www.oregonstateparks.org/park_51.php">here</a>.  A more useful Smith website is <a href="http://www.smithrock.com/">here</a>.<br>
+<br>
+<a href="http://www.goneawol.com/frameset.asp?url=http://www.goclimbing.com/redpoint/index.html">Redpoint Climbers Supply</a> store located on the corner of US 97 and B Avenue (the turnoff to Smith) offers not only a complete selection of climbing paraphenelia but is a great place to inquire about route conditions including details such as bolt conditions and route closures (800-923-6207 or 541-923-6207, hours vary with weather and season).  This is also the place to purchase the guidebook supplement (New Sh!tuff at Smith) mentioned below.<br>
+Rockhard store is another option for route beta and climbing supplies.  It is located about 100 yards before the campground driveway on Crooked River Drive.<br>
+<br>
+<a name="chapter_7"></a><h2>Guide Books</h2>
+<i>A Climber's Guide to Smith Rock</i> by Alan Watts (one of Smith's climbing legends) is the main reference for Smith Rock climbing.  The book offers a good selection of both route topos and route photographs including many for Monkey Face routes.  However, given the age of this latest edition (10 years) it does not necessarily contain all of Smith's routes and excludes even some of the currently very popular ones (ex. Five Gallon Buckets 5.8).  <br>
+<br>
+A short supplement entitled <i>New Sh!tuff at Smith</i> by Ryan Lawson containing the latest route editions can be purchased at the Redpoint Climbers Supply store in Terrebonne, Oregon for $5 per copy.  It too however does not necessarily cover all the new routes.  Note that all proceeds from sale of this booklet go to the American Safe Climbing Assoc. for bolt replacements at Smith.  <b>OUT OF PRINT</b><br>
+<br>
+<a name="chapter_8"></a><h2>A Note on Web Links</h2>I have included a substantial list of web pages offering either route photos or trip reports for Monkey Face (Pioneer Route in particular).  The location of Monkey allows for some excellent "action" climbing shots by those lucky enough to have a non-climbing friend take their photos from the Springboard.  <br>
+<a name="chapter_9"></a><h2>Single Pitch Routes</h2> <div align="center" class="image-left" style="width: 156px;">
+<a href="/perpetual-motion/281287"><img alt="Perpetual Motion" height="200" width="150" src="/images/small/281287.JPG"></a><br><span class="caption">Perpetual Motion</span>
+</div>
+<div align="center" class="image" style="width: 381px;">
+<a href="/monkey-space/282214"><img alt="Monkey Space" height="500" width="375" src="/images/medium/282214.JPG"></a><br><span class="caption">South Face</span>
+</div>
+<br>
+<b>Dolf's Dihedral (Direct)</b>:  5.10a, 70 feet.  This line is located on the far south face of Monkey Face complex (well right of West Face Variation start).  Look for a diamond shaped 20-foot flake hanging off the ground.  Direct start follows left side of flake at 10a (very good climbing).  Alternatively, you can start slightly uphill via easy choss and keep things 5.8.  Either way, reach the 25-foot hand crack (stellar but short) and climb to a fixed anchor.  <u>Gear:</u> single cams from #1 to #5 Camalot (no #4 used).  Extra #2 is nice.  No nuts.  If not doing the "direct" start, nothing above #3 is required but a #.5 &amp; #.75 may be nice.<br>
+<br>
+<b>Perpetual Motion</b>:  5.9, 100 feet.  This line is located on the far south face of Monkey Face complex (well right of West Face Variation start), just to the right/uphill of direct start to Dolf's.  Climb low 5th class choss up and left (same start as Dolf's regular start).  Move up and right via nice and easy crack/ramp heading for the obvious roof.  Surmount the roof via finger locks behind TV-sized chockstones.  Move up short chimney to an awkward finger crack ending at the anchor (which we provided; no bolts). Careful when lowering off - depending where your belayer is standing, a 60 meter rope barely makes it!  <u>Gear:</u> single cams from #0.5 to #3 Camalot.  Single Aliens green and yellow.  Extras in #0.5 to #2 Camalots.  Some nuts to back up the anchor if needed.<a name="chapter_10"></a><h2>Food</h2>Smith Rock Restaurant in Terrebonne (behind a hardware store) is a great choice for after-climbing "pig-outs".  The service is outstanding and food very good - both dinners and breakfasts.  Note that it's closed Sunday afternoons.<br>
+<br>
+Burger Works in downtown Madras (20 miles north of Terrebonne) is not to be missed for their top-notch marionberry milk shakes.  These are THE best milk shakes we've ever had - PERIOD.  The place is located on the east/south-bound side of US26/97 in Madras.  They also serve decent burgers and very good grilled hot dogs.<br>
+<a name="chapter_11"></a><h2>External Links</h2>
+<ul>
+<br>
+<li>
+<a href="http://cascadeclimbers.com/forum/ubbthreads.php/topics/868048/Re_TR_smiffistani_rawks_der_mo#Post868048">West Face Aid line TR</a><br> Another nice trip report with excellent photos of the route.  Suboptimal summit conditions to boot :)<br>
+<br>
+</li>
+<li>
+<a href="http://www.dingomt.com/SmithRock/MonkeyFace/monkey.htm">Pioneer Route Trip Report</a><br> Nice trip report with excellent photos of the route.<br>
+</li>
+<li>
+<a href="http://oregonstate.edu/groups/omc/SmithRock.html">Monkey Face Photos</a><br> Two good photos of Monkey Face and Pioneer Route.<br>
+</li>
+<li>
+<a href="http://www.cascadeclimbers.com/forum/ubbthreads.php/ubb/showflat/Number/739143/Main/55427/#Post739143">West Face Aid Line TR</a><br> with excellent overview photos!<br>
+</li>
+<li>
+<a href="http://www.geocities.com/Yosemite/9987/smith_rock.htm">Monkey Face Photos</a><br> Three nice Monkey Face phtos.<br>
+</li>
+<li>
+<a href="http://smithrock.com/bbs/index.sht">Smith Message Board</a><br> This is a good place to find out about as-yet unpublished routes - oftentimes directly from the people who put them up and/or do the first ascent.  Site is frequented by the Smith legend himself Alan Watts (original guidebook) as well as Ryan Lawson (guidebook supplement) who's the author of many soon-to-be classic sport lines at Smith.  Thanks to <a href="http://www.summitpost.com/mountains/user_link.pl/user_id/6282">jb</a> for pointing out this place.<br>
+</li>
+<li>
+<a href="http://www.englishengineering.com/dave/adventures/monkeywest/monkey.html">West Face Route Trip Report</a><br> This is a nice climb report for the West Face Aid line of Monkey Face.<br>
+</li>
+</ul>                                                                                                                                                   <a name="chapter_12"></a><h2>Monkey 360</h2>
+<div align="center" class="image" style="width: 494px;">
+<a href="/monkey-face-from-the/37059"><img alt="Monkey Face from the..." height="650" width="488" src="/images/original/37059.JPG"></a><br><span class="caption">West Face</span>
+</div>
+<div align="center" class="image" style="width: 494px;">
+<a href="/monkey-face-from-the/42042"><img alt="Monkey Face from the..." height="650" width="488" src="/images/original/42042.jpg"></a><br><span class="caption">East Face</span>
+</div>
+<br>
+<div align="center" class="image" style="width: 379px;">
+<a href="/monkey-face/217744"><img alt="Monkey Face" height="500" width="373" src="/images/medium/217744.jpg"></a><br><span class="caption">North Face</span>
+</div>[img:217744:aligncenter:medium:North Face]                                                                                                                                                                                                                                                                                                                                                <div align="center">
+<a name="messages"></a><a name="chapter_13"></a><h2>Additions and Corrections</h2>[ <a href="/object_discussion.php?type=vote_comments&amp;object_id=151478&amp;is_addition=1#vote_form">Post an Addition or Correction</a> ]<table cellpadding="0" cellspacing="0" style="width: 775px;"><tr><td><table cellpadding="2" cellspacing="2" width="100%"><tr>
+<td align="left"><span class="pagertext">Viewing: <b>1</b>-<b>5</b> of <b>5</b></span></td>
+<td align="center"></td>
+<td align="right">    </td>
+</tr></table></td></tr></table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="7117"></a> <a class="dis_user_lnk" href="/users/darinchadwick/1130">darinchadwick</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Untitled Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/darinchadwick/1130"><img alt="darinchadwick" width="50" height="50" border="0" src="/images/avatars/532157.JPG"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">Yes, Skull Hollow is Free!  Lots of climbers, so the scene is casual and friendly.  But sometimes, in the dead of night, cows straight from a Gary Larson 'Far Side' cartoon attack without mercy!<br><br><br><br><br><br>The situation is this: Verrrrryy close to Skull Hollow is a feedlot used to pen up formerly free ranging beef cattle before they are 'shipped to market'.  The doomed beasts seem to foresee their fate as future T-bones and groan about it ALL NIGHT LONG.<br><br><br><br><br><br>The trick is timing.  Most of the time the lot is empty.  But if it isn't, don't wait hoping they'll calm down, or try self medicating with whatever your favorite medication may be.  Just remember to go down a couple grades on tomorrow's redpoint attempts.<br><br><br><br><br><br>One more caveat about Skull Hollow, I personally know of two climbers who have bashed in cars from hitting deer, and I have a had close calls also.<br><br><br><br><br><br>Aaaaah, the untold perils of sport climbing at Smith!</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Feb 14, 2003 8:15 am</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="7118"></a> <a class="dis_user_lnk" href="/users/brian-jenkins/260">Brian Jenkins</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Untitled Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/brian-jenkins/260"><img alt="Brian Jenkins" width="50" height="50" border="0" src="/images/avatars/619462.jpg"></a></p>
+<p><span style="font-size: 9px; color: #888;">Voted 10/10</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">Hmmm, never noticed the cows before but usually I can't hear over the coyotes and drunk climbers.  And yeah, tons of deer.  It's the whole Smith experience!</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Feb 14, 2003 8:49 am</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="120022"></a> <a class="dis_user_lnk" href="/users/brian-jenkins/260">Brian Jenkins</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Untitled Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/brian-jenkins/260"><img alt="Brian Jenkins" width="50" height="50" border="0" src="/images/avatars/619462.jpg"></a></p>
+<p><span style="font-size: 9px; color: #888;">Voted 10/10</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">A bit east of Smith Rock is <a href="http://www.smithrock.com/localguide/campgrounds/sh_campground.html">Skull Hollow Campground</a> used mostly by climbers and it's free.  See website for directions.</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Feb 12, 2003 12:42 pm</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="120025"></a> <a class="dis_user_lnk" href="/users/darinchadwick/1130">darinchadwick</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Untitled Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/darinchadwick/1130"><img alt="darinchadwick" width="50" height="50" border="0" src="/images/avatars/532157.JPG"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">Yes, Skull Hollow is Free!  Lots of climbers, so the scene is casual and friendly.  But sometimes, in the dead of night, cows straight from a Gary Larson 'Far Side' cartoon attack without mercy!<br><br><br><br><br><br>The situation is this: Verrrrryy close to Skull Hollow is a feedlot used to pen up formerly free ranging beef cattle before they are 'shipped to market'.  The doomed beasts seem to foresee their fate as future T-bones and groan about it ALL NIGHT LONG.<br><br><br><br><br><br>The trick is timing.  Most of the time the lot is empty.  But if it isn't, don't wait hoping they'll calm down, or try self medicating with whatever your favorite medication may be.  Just remember to go down a couple grades on tomorrow's redpoint attempts.<br><br><br><br><br><br>One more caveat about Skull Hollow, I personally know of two climbers who have bashed in cars from hitting deer, and I have a had close calls also.<br><br><br><br><br><br>Aaaaah, the untold perils of sport climbing at Smith!</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Feb 14, 2003 8:15 am</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="120026"></a> <a class="dis_user_lnk" href="/users/brian-jenkins/260">Brian Jenkins</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Untitled Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/brian-jenkins/260"><img alt="Brian Jenkins" width="50" height="50" border="0" src="/images/avatars/619462.jpg"></a></p>
+<p><span style="font-size: 9px; color: #888;">Voted 10/10</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">Hmmm, never noticed the cows before but usually I can't hear over the coyotes and drunk climbers.  And yeah, tons of deer.  It's the whole Smith experience!</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Feb 14, 2003 8:49 am</span></td></tr>
+</table>
+<br><table border="0" width="775"><tr><td><table cellpadding="2" cellspacing="2" width="100%"><tr>
+<td align="left"><span class="pagertext">Viewing: <b>1</b>-<b>5</b> of <b>5</b></span></td>
+<td align="center"></td>
+<td align="right">    </td>
+</tr></table></td></tr></table>
+<br>
+</div>
+<a name="chapter_14"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/view-west-past-monkey-face/123632/c-151478"><img alt="View west past Monkey Face;..." src="/images/square/123632.jpg"></a></td>
+<td><a href="/monkey-face/179821/c-151478"><img alt="Monkey Face" src="/images/square/179821.jpg"></a></td>
+<td><a href="/monkey-face-from-the/37059/c-151478"><img alt="Monkey Face from the..." src="/images/square/37059.JPG"></a></td>
+<td><a href="/monkey-face/67388/c-151478"><img alt="Monkey Face" src="/images/square/67388.JPG"></a></td>
+<td><a href="/free-air/286440/c-151478"><img alt="Free Air" src="/images/square/286440.JPG"></a></td>
+<td><a href="/monkey-space/282214/c-151478"><img alt="Monkey Space" src="/images/square/282214.JPG"></a></td>
+<td><a href="/dolf-s-dihedral-direct/281281/c-151478"><img alt="Dolf\'s Dihedral (Direct)" src="/images/square/281281.JPG"></a></td>
+</tr>
+<tr>
+<td><a href="/dolf-s-dihedral-direct/281278/c-151478"><img alt="Dolf\'s Dihedral (Direct)" src="/images/square/281278.JPG"></a></td>
+<td><a href="/monkey-face/562778/c-151478"><img alt="Monkey Face" src="/images/square/562778.JPG"></a></td>
+<td><a href="/the-view-of-asterisk-pass/16999/c-151478"><img alt="The view of Asterisk Pass..." src="/images/square/16999.jpg"></a></td>
+<td><a href="/monkey-cluster-f/347707/c-151478"><img alt="Monkey Cluster F..." src="/images/square/347707.JPG"></a></td>
+<td><a href="/monkey-face/327656/c-151478"><img alt="Monkey Face" src="/images/square/327656.jpg"></a></td>
+<td><a href="/monkey-shadow/304738/c-151478"><img alt="Monkey Shadow" src="/images/square/304738.jpg"></a></td>
+<td><a href="/climber-getting-ready-to-rap/87085/c-151478"><img alt="Climber getting ready to rap..." src="/images/square/87085.jpg"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/smith-monkey-face/images/p-151478">View Gallery - 132 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty:  
+elevation: 3400 
+grade:  
+id: 151478 
+latitude: 44.3678 
+location: Oregon, United States, North America 
+longitude: -121.1455 
+my_route_quality:  
+name: Smith:  Monkey Face 
+number_of_pitches:  
+page_url: http://www.summitpost.org/smith-monkey-face/151478 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons:  
+time_required:  
+type: Mountain-Rock 
+

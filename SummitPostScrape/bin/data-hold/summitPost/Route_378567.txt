@@ -324,6 +324,7 @@ date:
 difficulty:  
 elevation:  
 grade: IV 
+hits: 22845  
 id: 378567 
 latitude: 37.0981 
 location:  
@@ -332,6 +333,9 @@ my_route_quality:
 name: Thunderbolt to Sill Traverse 
 number_of_pitches:  
 page_url: http://www.summitpost.org/thunderbolt-to-sill-traverse/378567 
+parent_code: 150222 
+parent_name: Thunderbolt Peak 
+parent_url: /thunderbolt-peak/150222 
 rock_difficulty: 5.8 (YDS) 
 route_quality: 1.0 
 route_type: Mountaineering 

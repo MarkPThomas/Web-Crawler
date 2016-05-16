@@ -345,6 +345,7 @@ date:
 difficulty:  
 elevation: 14017 
 grade:  
+hits: 46557  
 id: 150382 
 latitude: 37.8603 
 location: Colorado, United States, North America 
@@ -353,6 +354,9 @@ my_route_quality:
 name: Wilson Peak 
 number_of_pitches:  
 page_url: http://www.summitpost.org/wilson-peak/150382 
+parent_code: 171122 
+parent_name: San Juan Range 
+parent_url: /san-juan-range/171122 
 rock_difficulty:  
 route_quality:  
 route_type:  

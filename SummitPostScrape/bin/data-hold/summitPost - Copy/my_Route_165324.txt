@@ -1,0 +1,64 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Approach</h2>
+<br>
+Park 2.7 miles up the canyon from the neon sign. The correct pullout is the last small one on the right side of the road before another large pullout with a geology sign. Walk along an old dirt road to the right, past some boulders. The trail wanders through some trees, beneath some talus, and by some water pipes as it heads up Stairs Gulch.  <p>  About a quarter mile up you can see the Dead Snag wall. Follow a climbers trail right (west) down to the stream. Cross the stream and pick your way over to the wall.  </p>
+<p>  <b>Alternative Approach:</b> Some people park in the last pullout before the one mentioned above, and scramble up a small creekbed directly to the base of the wall.  </p>
+<p>  <b>Descents:</b> From the top of the routes, follow a ledge system south. At a grove of trees are rap anchors. You can descend from here via 2 80' and a 60' rapp, or continue along the class 3 ledge system to a single 60' rapp.<br>
+<a name="chapter_2"></a></p>
+<h2>Route Description</h2>
+<br>
+Topo photo coming soon to a route page near you . . .  <p>  Dead Snag is a large east facing wall of quartzite near the mouth of Stairs Gulch. It offers a variety of moderate grade trad multi-pitch routes, which ascend clean crack systems. Still, since the rock is quartzite, face climbing using square holds predominates.  </p>
+<p>  </p>
+<table border="1" cellspacing="0"><tr><td>  <table border="0" cellspacing="2" cellpadding="2">    <tr bgcolor="#c0c0c0"><td colspan="5"><font style="font-weight:bold;">ROUTES OVERVIEW</font></td></tr>  <tr>  <td align="center"><font style="font-weight:bold;">Route</font></td>  <td align="center"><font style="font-weight:bold;">Difficulty</font></td>  <td align="center"><font style="font-weight:bold;">Rating</font></td>  <td align="center"><font style="font-weight:bold;">FA</font></td>  <td align="center"><font style="font-weight:bold;">Trad/Sport</font></td>    </tr>
+<tr>  <td>Tiger's Den  </td>
+<td align="center">5.8?</td>  <td align="center"><img src="http://www.summitpost.org/images/stara.gif"></td>  <td>Unknown</td>  <td align="center">Tr</td>
+</tr>    <tr>  <td bgcolor="#e0e0e0">East Dihedrals</td>  <td bgcolor="#e0e0e0" align="center">5.6</td>  <td bgcolor="#e0e0e0" align="center">
+<img src="http://www.summitpost.org/images/stara.gif"><img src="http://www.summitpost.org/images/stara.gif">
+</td>  <td bgcolor="#e0e0e0">Unknown</td>  <td bgcolor="#e0e0e0" align="center">Tr</td>
+</tr>    <tr>  <td>Jig's Up</td>  <td align="center">5.6</td>  <td align="center">
+<img src="http://www.summitpost.org/images/stara.gif"><img src="http://www.summitpost.org/images/stara.gif">
+</td>  <td>1961, Ted Wilson &amp; Milt Hokanson</td>  <td align="center">Tr</td>
+</tr>    <tr>  <td bgcolor="#e0e0e0"><a href="#four">Steort's Ridge</a></td>  <td bgcolor="#e0e0e0" align="center">5.6</td>  <td bgcolor="#e0e0e0" align="center">
+<img src="http://www.summitpost.org/images/stara.gif"><img src="http://www.summitpost.org/images/stara.gif"><img src="http://www.summitpost.org/images/stara.gif">
+</td>  <td bgcolor="#e0e0e0">late 40s, Lee Steorts &amp; Harold Goodro</td>  <td bgcolor="#e0e0e0" align="center">Tr</td>
+</tr>    <tr>  <td>North Dihedrals</td>  <td align="center">5.6</td>  <td align="center"><img src="http://www.summitpost.org/images/stara.gif"></td>  <td>Unknown</td>  <td align="center">Tr</td>
+</tr>    <tr>  <td bgcolor="#e0e0e0">Ad Lib</td>  <td bgcolor="#e0e0e0" align="center">5.10a</td>  <td bgcolor="#e0e0e0" align="center"><img src="http://www.summitpost.org/images/stara.gif"></td>  <td bgcolor="#e0e0e0">1986, Stuart Ruckman &amp; Libby Ellis</td>  <td bgcolor="#e0e0e0" align="center">Tr</td>
+</tr>    <tr>  <td>North Ridge</td>  <td align="center">5.5</td>  <td align="center"></td>  <td>Unknown</td>  <td align="center">Tr</td>
+</tr>    <tr><td colspan="5"><small><i>Route overview information used from Stuart &amp; Bret Ruckman's <a href="http://www.amazon.com/exec/obidos/ASIN/0762727306/summitpost-20/103-3515982-7251006">Rock Climbing the Wasatch Range</a>. In depth information is from personal experience</i></small></td></tr>  </table>    </td></tr></table>    <p>  <a name="four"><br>
+</a><a name="chapter_3"></a></p>
+<h2>Steort's Ridge - 5.6</h2>
+<br>
+Start near the left edge of a broken, right facing corner, about 50 ft right from a dihedral. This is about 30 ft left from the point where the wall changes from east-facing to north-facing.  <p>  <b>Pitch #1:</b> Head up just left of the arete and climb over a roof (5.6). Stay near the arete and a belay ledge is reached beneath another roof. From here if you climb just right of the roof you are doing the Jig's Up Route (5.6)   </p>
+<p>  <b>Pitch #2:</b> To continue on Steort's Ridge, climb back over to the arete and climb just left of the arete. Another belay ledge directly on the arete is reached after bypassing a smooth slab to the left.  </p>
+<p>  <b>Pitch #3:</b> This last pitch climbs right on the arete straight to the top. Part of the pitch is runout, with a lone bolt in the middle of some smooth quartzite climbing for protection. At the top an anchor can be made on the trees.<br>
+<a name="chapter_4"></a></p>
+<h2>Essential Gear</h2>
+<br>
+For the trad routes, a full rack is useful.<br>
+<a name="chapter_5"></a><h2>Other Info</h2>
+<br>
+If you have additional info for routes described or have done a route not described in depth, please put the info here and I'll integrate it into the page!<br>
+<a name="chapter_6"></a><h2>Images</h2>
+<div align="center"><table id="my_images"><tr><td><a href="/jig-s-up/412687/c-165324"><img alt="Jig\'s Up" src="/images/square/412687.JPG"></a></td></tr></table></div>
+            </article> 
+date:  
+difficulty: 5.5-5.10a 
+elevation:  
+grade:  
+id: 165324 
+latitude: 40.6194 
+location: Utah, United States, North America 
+longitude: -111.7874 
+my_route_quality:  
+name: Dead Snag 
+number_of_pitches:  
+page_url: http://www.summitpost.org/dead-snag/165324 
+rock_difficulty:  
+route_quality: 0.8 
+route_type: Trad - Single/Multiptich 
+seasons:  
+time_required: Less than two hours 
+type: Route 
+

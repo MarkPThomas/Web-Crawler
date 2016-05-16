@@ -1,0 +1,90 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>Mount Wolverine is a peak that is often overlooked in the area. From the road, it is hidden behind Mount Millicent, and from Catherine Lake, it doesn't look like much more than a giant mound, but this peak has a lot to offer. Besides having nice views of upper Big and Little Cottonwood Canyons, this peak can provide a good workout and is easily accessible from either canyon for hiking, snow climbing in its rugged cirque, or backcountry skiing. Mt Tuscarora shares many of the same qualities and is only a short jaunt away along the ridgeline.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=61844" rel="no_follow"><img src="/images/thumb/61844.jpg"></a></td>
+<td><a href="/view_object.php?object_id=61847" rel="no_follow"><img src="/images/thumb/61847.jpg"></a></td>
+<td><a href="/view_object.php?object_id=61851" rel="no_follow"><img src="/images/thumb/61851.jpg"></a></td>
+<td><a href="/view_object.php?object_id=61853" rel="no_follow"><img src="/images/thumb/61853.jpg"></a></td>
+<td><a href="/view_object.php?object_id=61858" rel="no_follow"><img src="/images/thumb/61858.jpg"></a></td>
+</tr></table>
+<a name="chapter_2"></a><h2>Getting There</h2>Driving time from downtown Salt Lake City is approximately 50 minutes. <br>
+From I-15 southbound near downtown Salt Lake City, follow these directions <br>
+I-15 S toward LAS VEGAS/CHEYENNE. 8.3 miles <br>
+Take the I-215 exit- exit number 302- toward BELT ROUTE. 0.2 miles <br>
+Merge onto I-215 E via the exit- on the left- toward SKI AREAS. 5.1 miles <br>
+Take the 6200 SO. exit- exit number 6- toward SKI AREAS/SOLITUDE / BRIGHTON/SNOWBIRD / ALTA. 0.2 miles <br>
+Take the ramp toward SKI AREAS/SOLITUDE / BRIGHTON/SNOWBIRD / ALTA. 0.1 miles <br>
+Turn RIGHT onto UT-190 E/E 6200 S. Continue to follow UT-190 E. 1.6 miles <br>
+Turn LEFT onto E BIG COTTONWOOD CANYON RD/UT-190. 14.0 miles <br>
+End at Brighton UT <br>
+Alternatively, you can continue past the intersection with Big Cottonwood Canyon RD, and follow Wastach BLVD over to Little Cottonwood Canyon. Provided that you don't make any turns off of the main road, you will eventually drive up Little Cottonwood Canyon to Alta Ski Resort. To begin directly at the trailhead, one must drive past the resort and up to the hikers parking in Albion Basin (see Red Tape Section).<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=61849" rel="no_follow"><img src="/images/thumb/61849.jpg"></a></td>
+<td><a href="/view_object.php?object_id=61859" rel="no_follow"><img src="/images/thumb/61859.jpg"></a></td>
+<td><a href="/view_object.php?object_id=61862" rel="no_follow"><img src="/images/thumb/61862.jpg"></a></td>
+</tr></table>
+<a name="chapter_3"></a><h2>Red Tape</h2>None. Big Cottonwood Canyon and Little Cottonwood Canyon occasionally close due to avalanche dangers, but this is only during and immediately following some large snow storms. <br>
+If you are approaching from Little Cottonwood Canyon, you can park free in the Alta Ski lot, which is about 2 miles from the trailhead. If you want to start at the trailhead, you must continue up the road to Albion Basin. This road is closed in the winter, and a small fee of (TBA) is required to drive up it.<br>
+<a name="chapter_4"></a><h2>When To Climb</h2>This peak is best climbed as a snowclimb or backcountry ski climb in late winter to early spring. It is best hiked in the fall once daytime temperatures are lower. The Wolverine Cirqu could provide some interesting opportunities for some steep spring snowclimbs up the chutes that penetrate the cliffs.<br>
+<br>
+<a name="chapter_5"></a><h2>Camping</h2>There are many walk-in campgrounds in Big Cottonwood Canyon. Alternatively, free camping is permitted in the nearby Mt Olympus, Broads Fork Twin Peaks, or Lone Peak Wilderness areas as long as it is done at least 100 ft away from trails.<br>
+<a name="chapter_6"></a><h2>Mountain Conditions</h2>
+<a href="http://www.fs.fed.us/r4/wcnf/">Wasatch-Cache National Forest</a><br>
+<br>
+<a href="http://www.utah.com/ski/resorts/brighton.htm">Brighton Ski Resort</a><br>
+<br>
+<a href="http://www.avalanche.org/~uac/">Utah Avalanche Center</a><br>
+<br>
+<a href="http://www.csac.org/">The Avalanche Center</a><br>
+<br>
+<a href="http://www.xmission.com/~wmc/">Wasatch Mountain Club</a><br>
+<br>
+<br>
+<br>
+<a name="chapter_7"></a><h2>External Links</h2>
+<a href="http://www.wasatchhiker.com/wasatch-trails/silverlakebcc/">Silver Lake Trail</a>                    <a name="chapter_8"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/honeycomb-cliffs-north-summit/693718/c-152858"><img alt="Honeycomb Cliffs north summit. " src="/images/square/693718.JPG"></a></td>
+<td><a href="/sunrise-over-wolverine/482391/c-152858"><img alt="sunrise over Wolverine" src="/images/square/482391.jpg"></a></td>
+<td><a href="/sunrise-over-wolverine-and-albion-basin/482393/c-152858"><img alt="sunrise over Wolverine and Albion Basin" src="/images/square/482393.jpg"></a></td>
+<td><a href="/mt-wolverine-through-the-lupines/647147/c-152858"><img alt="Mt Wolverine through the Lupines" src="/images/square/647147.JPG"></a></td>
+<td><a href="/utah-moose/641087/c-152858"><img alt="Utah moose" src="/images/square/641087.jpg"></a></td>
+<td><a href="/first-leg-of-descent-to-lake/144093/c-152858"><img alt="First leg of descent to Lake..." src="/images/square/144093.JPG"></a></td>
+<td><a href="/catherine-lake-from/641091/c-152858"><img alt="Catherine Lake from " src="/images/square/641091.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/nearing-mt-wolverine/641092/c-152858"><img alt="Nearing Mt. Wolverine " src="/images/square/641092.jpg"></a></td>
+<td><a href="/two-fools/393178/c-152858"><img alt="Two Fools?" src="/images/square/393178.jpg"></a></td>
+<td><a href="/mt-wolverine-splattski-style-pic/641093/c-152858"><img alt="Mt Wolverine Splattski style pic" src="/images/square/641093.jpg"></a></td>
+<td><a href="/tuscarora-millicent-and-wolverine-summits/466798/c-152858"><img alt="Tuscarora, Millicent, and Wolverine Summits." src="/images/square/466798.jpg"></a></td>
+<td><a href="/wolverine-cirque/263058/c-152858"><img alt="Wolverine Cirque" src="/images/square/263058.JPG"></a></td>
+<td><a href="/sunset-peak-to-patsy-marley/510904/c-152858"><img alt="Sunset Peak to Patsy Marley" src="/images/square/510904.JPG"></a></td>
+<td><a href="/mt-wolverine-summit/257359/c-152858"><img alt="Mt. Wolverine summit" src="/images/square/257359.jpg"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/mount-wolverine-mount-tuscarora/images/p-152858">View Gallery - 79 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty:  
+elevation: 10795 
+grade:  
+id: 152858 
+latitude: 40.5851 
+location: Utah, United States, North America 
+longitude: -111.6011 
+my_route_quality:  
+name: Mount Wolverine & Mount Tuscarora 
+number_of_pitches:  
+page_url: http://www.summitpost.org/mount-wolverine-mount-tuscarora/152858 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons:  
+time_required:  
+type: Mountain-Rock 
+

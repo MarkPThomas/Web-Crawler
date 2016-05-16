@@ -1,0 +1,111 @@
+content: <div class="articletext">
+<div class="photonormal">
+<table valign="top" border="0" width="626" cellspacing="0" cellpadding="0" class="sdw_box">
+			<tr>
+			  <td><img src="/nav_img/top_left_sdw.gif" width="13" height="13"></td>
+			  <td class="sdw_top"></td>
+			  <td><img src="/nav_img/top_right_sdw.gif" width="13" height="13"></td>
+			</tr>
+			<tr>
+			  <td class="sdw_left"></td>
+			  <td class="sdw_body" width="600"><div>
+<a href="javascript:photoZoom('Oj89PjYjIyckJg,,')" title="Click to enlarge"><img src="http://www.supertopo.com/photos/22/32/344739_12931_L.jpg" width="600" height="450" name="" alt="The crux of my solo variation. These twin jamcracks were pretty fun! A..."></a><span class="small"><br>The crux of my solo variation. These twin jamcracks were pretty fun! Also exposed but very clean &amp; solid.<br><div class="photo-credit">Credit: PellucidWombat</div></span>
+</div></td>
+			  <td class="sdw_right"></td>
+			</tr>
+			<tr>
+			  <td><img src="/nav_img/bottom_left_sdw.gif" width="13" height="13"></td>
+			  <td class="sdw_bottom"></td>
+			  <td><img src="/nav_img/bottom_right_sdw.gif" width="13" height="13"></td>
+			</tr>
+		  </table>
+</div>
+<br>
+<b><u>2013-08-25 - Mt Emerson (SE Face) w Sean</u></b><br>
+<br>
+As Sean Hermany and I were making due with being smoked out of the Hulk from the Rim Fire, for our second day on the east side we climbed the classic SE Face of Mt Emerson (5.4). I had <a href="http://www.markpthomas.com/mountaineering/trip-reports/california/mt-emerson-se-couloir" target="_blank" rel="nofollow">backed off on soloing this during the 2005 Sierra Challenge</a>, and so this time I brought a rope and light rack as backup. It turns out that for me at this point the solo was all right, so all that gear did was handicap me! After the headwall the route gets boring (not bad, but just scenic cardio terrain, reminiscent of a more solid Laurel Mountain SE Face), until near the top where it turns into a cl. 3-4 knife edge before the summit. Both Sean and I took other ridge variations to the side lower down to make the route more interesting. <br>
+<br>
+Overall, the route is a nice scramble, but the descent is annoying enough that more traditional trad'sters might not consider the climb worth it. I'd rank it more as a 3/5 star route for the scrambler, 2/5 star for the trad'ster (about the same for Laurel Mtn). I felt it was a nice way to spend a half day, though. I'm not sure if I'd call it a good introductory alpine climb for a trad leader, though, as the crux really doesn't seem to protect well, and after the first rope length, the rope is barely needed, if at all, although the route can provide good opportunities to practice simul-climbing.<br>
+<br>
+<a href="https://lh3.googleusercontent.com/-_zLthm0EI58/UlQtuxCTQ0I/AAAAAAACzaM/Y5XQGmZ-H1c/s1600/2013-08-25%252520-%252520035%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2704%252520-%252520annotated.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-_zLthm0EI58/UlQtuxCTQ0I/AAAAAAACzaM/Y5XQGmZ-H1c/s800/2013-08-25%252520-%252520035%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2704%252520-%252520annotated.jpg"></a> <br>
+<b><i>The SE Face of Mt Emerson coming into view as we hiked back down the trail. Paiute Crags are on the right.</i></b> <br>
+<br>
+<a href="https://lh3.googleusercontent.com/-oU6dCOJWuy8/UlQt3yrjAeI/AAAAAAACzac/Ngglp3iX4iU/s1600/2013-08-25%252520-%252520037%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2706%252520-%252520annotated.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-oU6dCOJWuy8/UlQt3yrjAeI/AAAAAAACzac/Ngglp3iX4iU/s800/2013-08-25%252520-%252520037%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2706%252520-%252520annotated.jpg"></a> <br>
+<b><i>The SE Face of Mt Emerson seen from the trail on the descent. Climb 5.4 (usually wet) up the left dark streak, and generally follow the slot to a broader gully above that eventually pinches down to a knife edge ridge before the summit. Above the first main step, it is easiest to traverse right on cl. 3-4 slabs and back left to avoid tougher chimneying.</i></b> <br>
+<br>
+<a href="https://lh6.googleusercontent.com/-RoXz7zIF6UA/UjkUq-BpmXI/AAAAAAACv9g/jTpGckEeLx0/s1600/2013-08-25%252520-%252520001%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2671.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-RoXz7zIF6UA/UjkUq-BpmXI/AAAAAAACv9g/jTpGckEeLx0/s800/2013-08-25%252520-%252520001%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2671.jpg"></a> <br>
+<b><i>The Southeast Face of Mt Emerson seen from lower down on the trail. The hike in is very short, barely an hour.</i></b> <br>
+<br>
+<a href="https://lh5.googleusercontent.com/-eXu9_hGLOv0/UjkUzU-GFYI/AAAAAAACv-I/Z_YiYm596mM/s1600/2013-08-25%252520-%252520003%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2673.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-eXu9_hGLOv0/UjkUzU-GFYI/AAAAAAACv-I/Z_YiYm596mM/s800/2013-08-25%252520-%252520003%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2673.jpg"></a> <br>
+<b><i>At the base of the SE Face route on Mt Emerson. The 5.4 crux climbs the dark groove on the left. Even today it had a few wet spots.</i></b> <br>
+<br>
+<a href="https://lh3.googleusercontent.com/-HkvXrpqB8bE/UjkU21Ny2aI/AAAAAAACv-U/qdzZJ_xqSeQ/s1600/2013-08-25%252520-%252520004%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2674.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-HkvXrpqB8bE/UjkU21Ny2aI/AAAAAAACv-U/qdzZJ_xqSeQ/s800/2013-08-25%252520-%252520004%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2674.jpg"></a> <br>
+<b><i>Above the 5.4 crux, on easiy cl. 3 slab terrain. The chimney looked tricky up ahead so I switchbacked around on the right. Sean stayed truer to the fall line.</i></b> <br>
+<br>
+<a href="https://lh5.googleusercontent.com/-RqWVKqqVKK8/UjkU6kVBDJI/AAAAAAACv-c/pBc0Hr9sFnM/s1600/2013-08-25%252520-%252520005%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2675.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-RqWVKqqVKK8/UjkU6kVBDJI/AAAAAAACv-c/pBc0Hr9sFnM/s800/2013-08-25%252520-%252520005%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2675.jpg"></a> <br>
+<b><i>Traversing back into the gully system.</i></b> <br>
+<br>
+<a href="https://lh5.googleusercontent.com/-9mmd-dLyCTc/UjkU-U-imVI/AAAAAAACv-k/sOCc_E1ZgXE/s1600/2013-08-25%252520-%252520006%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2676.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-9mmd-dLyCTc/UjkU-U-imVI/AAAAAAACv-k/sOCc_E1ZgXE/s800/2013-08-25%252520-%252520006%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2676.jpg"></a> <br>
+<b><i>More cl. 2-3 slab scrambling. Where is this ridge we had heard about?</i></b> <br>
+<br>
+<a href="https://lh6.googleusercontent.com/-2JEzhe1N8Kw/UjkVCLn88II/AAAAAAACv-s/ihvBLy-NuQg/s1600/2013-08-25%252520-%252520007%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2677.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-2JEzhe1N8Kw/UjkVCLn88II/AAAAAAACv-s/ihvBLy-NuQg/s800/2013-08-25%252520-%252520007%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2677.jpg"></a> <br>
+<b><i>Looking down the SE Face of Mt Emerson. It kind of reminds me of looking down the NE Face of Laurel Mtn, only not nearly as loose.</i></b> <br>
+<br>
+<a href="https://lh4.googleusercontent.com/-ky67i_e6I5k/UjkVK6PzoqI/AAAAAAACv-8/Lfxkn1yh1d0/s1600/2013-08-25%252520-%252520009%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2679.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-ky67i_e6I5k/UjkVK6PzoqI/AAAAAAACv-8/Lfxkn1yh1d0/s800/2013-08-25%252520-%252520009%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2679.jpg"></a> <br>
+<b><i>Sean wasn't getting enough scrambling fun, so he left the chute to climb along the left ridge crest. I later took this spirit by wandering over on to the opposite ridge crest.</i></b> <br>
+<br>
+<a href="https://lh3.googleusercontent.com/-OZKVE0IcI7M/UjkVOwhmFVI/AAAAAAACv_I/cxpauq3Ahg0/s1600/2013-08-25%252520-%252520010%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2680.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-OZKVE0IcI7M/UjkVOwhmFVI/AAAAAAACv_I/cxpauq3Ahg0/s800/2013-08-25%252520-%252520010%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2680.jpg"></a> <br>
+<b><i>Scrambling gets more interesting, in the cl. 3-4 range. I veered right more than necessary to intersect the ridge on my right, which I figured I could solo on well enough until it merged with the upper ridge.</i></b> <br>
+<br>
+<a href="https://lh6.googleusercontent.com/-he5Fdmf-R0k/UjkVSUL3rzI/AAAAAAACv_Q/tcb07FouaDI/s1600/2013-08-25%252520-%252520011%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2681.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-he5Fdmf-R0k/UjkVSUL3rzI/AAAAAAACv_Q/tcb07FouaDI/s800/2013-08-25%252520-%252520011%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2681.jpg"></a> <br>
+<b><i>The crux of my solo variation. These twin jamcracks were pretty fun! Also exposed, but solid and low enough angle that it felt pretty secure.</i></b> <br>
+<br>
+<a href="https://lh4.googleusercontent.com/-hteniXuXQyg/UjkVWItet8I/AAAAAAACv_Y/3RWNq0Jnzno/s1600/2013-08-25%252520-%252520012%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2682.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-hteniXuXQyg/UjkVWItet8I/AAAAAAACv_Y/3RWNq0Jnzno/s800/2013-08-25%252520-%252520012%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2682.jpg"></a> <br>
+<b><i>Looking along the knife edge ridge. The rock was mostly good, and the ups and downs not too bad, normally looking worse than they turned out to be. I eventually merged back with the proper route at the large tower ahead.</i></b> <br>
+<br>
+<a href="https://lh4.googleusercontent.com/-fQAd_Z9DfRE/UjkVeJyWaJI/AAAAAAACv_s/AizwgIK2F4U/s1600/2013-08-25%252520-%252520014%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2684.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-fQAd_Z9DfRE/UjkVeJyWaJI/AAAAAAACv_s/AizwgIK2F4U/s800/2013-08-25%252520-%252520014%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2684.jpg"></a> <br>
+<b><i>Looking down my ridge variation on the SE Face of Mt Emerson. One of the Paiute Crags is behind.</i></b> <br>
+<br>
+<a href="https://lh6.googleusercontent.com/-R3jNEpYYIzk/UjkVhoFWlcI/AAAAAAACv_0/OqSmqxn_HqM/s1600/2013-08-25%252520-%252520015%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2685.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-R3jNEpYYIzk/UjkVhoFWlcI/AAAAAAACv_0/OqSmqxn_HqM/s800/2013-08-25%252520-%252520015%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2685.jpg"></a> <br>
+<b><i>More interesting ridge scrambling. The rock here is a little crumbly, but not too bad.</i></b> <br>
+<br>
+<a href="https://lh5.googleusercontent.com/-vMAvP6mpB90/UjkVlV-u7SI/AAAAAAACv_8/3rJN4HGqFLE/s1600/2013-08-25%252520-%252520016%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2686.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-vMAvP6mpB90/UjkVlV-u7SI/AAAAAAACv_8/3rJN4HGqFLE/s800/2013-08-25%252520-%252520016%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2686.jpg"></a> <br>
+<b><i>Nearing the large gendarme where I would intersect the route proper again. It is passed via easy cl. 2 ledges on the right side. Sean is waiting for me about a third of the way across it.</i></b><br>
+<br>
+<a href="https://lh6.googleusercontent.com/-vIeuBQAFtak/UjkVodiD9CI/AAAAAAACwAE/gK3YHBu8Z_I/s1600/2013-08-25%252520-%252520017%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2687.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-vIeuBQAFtak/UjkVodiD9CI/AAAAAAACwAE/gK3YHBu8Z_I/s800/2013-08-25%252520-%252520017%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2687.jpg"></a> <br>
+<b><i>Sean made better time on the easier terrain of the proper route, so he was already at the next tower.</i></b> <br>
+<br>
+<a href="https://lh3.googleusercontent.com/-gVW-ylkYdVo/UjkVstKvXzI/AAAAAAACwAM/Q7P2nbJC5U4/s1600/2013-08-25%252520-%252520018%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2688.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-gVW-ylkYdVo/UjkVstKvXzI/AAAAAAACwAM/Q7P2nbJC5U4/s800/2013-08-25%252520-%252520018%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2688.jpg"></a> <br>
+<b><i>Looking back down the ridge variation I took, which I actually thought was harder, more exposed, and longer than the ridge section of the 'proper' route. Some of the muddy red Paiute Crags are behind.</i></b> <br>
+<br>
+<a href="https://lh5.googleusercontent.com/-7IusiuO6NEI/UjkVyjtBFbI/AAAAAAACzZ8/-gKblj2o_98/s1600/2013-08-25%252520-%252520020%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2689a.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-7IusiuO6NEI/UjkVyjtBFbI/AAAAAAACzZ8/-gKblj2o_98/s800/2013-08-25%252520-%252520020%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2689a.jpg"></a> <br>
+<b><i>Mt Darwin behind, and Lamarck and its north couloir on the right. The couloir normally forms into a late season ice climb, but it is already melted out this year!</i></b> <br>
+<br>
+<a href="https://lh4.googleusercontent.com/-4HWZsDeBPFU/UjkV_WtZwRI/AAAAAAACwA8/ISXvxUEE35g/s1600/2013-08-25%252520-%252520024%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2693.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-4HWZsDeBPFU/UjkV_WtZwRI/AAAAAAACwA8/ISXvxUEE35g/s800/2013-08-25%252520-%252520024%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2693.jpg"></a> <br>
+<b><i>Sean jamming away on the SE Face of Mt Emerson.</i></b> <br>
+<br>
+<a href="https://lh5.googleusercontent.com/-TrP2aqrOHqs/UjkWOHqrNLI/AAAAAAACwBc/HRyBGLYi2vI/s1600/2013-08-25%252520-%252520028%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2696a.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-TrP2aqrOHqs/UjkWOHqrNLI/AAAAAAACwBc/HRyBGLYi2vI/s800/2013-08-25%252520-%252520028%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2696a.jpg"></a> <br>
+<b><i>Scrambling towards the summit of Mt Emerson. Fun and exposed class 3 on good rock.</i></b> <br>
+<br>
+<a href="https://lh4.googleusercontent.com/-Co1ardVhD1g/UjkWQry80kI/AAAAAAACwBk/3EtqAjhC8iM/s1600/2013-08-25%252520-%252520029%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2697.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-Co1ardVhD1g/UjkWQry80kI/AAAAAAACwBk/3EtqAjhC8iM/s800/2013-08-25%252520-%252520029%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2697.jpg"></a> <br>
+<b><i>Sean atop the summit block of Mt Emerson.</i></b> <br>
+<br>
+<a href="https://lh5.googleusercontent.com/-N8fdejWQml8/UjkWZYJCU8I/AAAAAAACwB4/GoXmnQNNflo/s1600/2013-08-25%252520-%252520032%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2701.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-N8fdejWQml8/UjkWZYJCU8I/AAAAAAACwB4/GoXmnQNNflo/s800/2013-08-25%252520-%252520032%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2701.jpg"></a> <br>
+<b><i>Looking back at the summit block as we continued scrambling west. The ridge stays at cl. 3-4 and exposed most of the way to the broad plateau. You can drop down any time to access the descent slopes. Accessing the descent slopes seems to be easier the farther west you go.</i></b> <br>
+<br>
+<a href="https://lh4.googleusercontent.com/-X0A9Ye3V1LQ/UjkWc5ibzWI/AAAAAAACwCg/z9DSFoD-UAM/s1600/2013-08-25%252520-%252520033%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2702.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-X0A9Ye3V1LQ/UjkWc5ibzWI/AAAAAAACwCg/z9DSFoD-UAM/s800/2013-08-25%252520-%252520033%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2702.jpg"></a> <br>
+<b><i>Scrambling west towards the easy plateau on Mt Emerson. About halfway there I dropped down onto the garbage slopes on the left.</i></b> <br>
+<br>
+<a href="https://lh4.googleusercontent.com/-1Sw2m4pKW1g/UjkWhOUCw0I/AAAAAAACwCE/Gq-_XWxSD1c/s1600/2013-08-25%252520-%252520034%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2703.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-1Sw2m4pKW1g/UjkWhOUCw0I/AAAAAAACwCE/Gq-_XWxSD1c/s800/2013-08-25%252520-%252520034%252520-%252520Mt%252520Emerson%252520SE%252520Face%252520-%252520IMG_2703.jpg"></a> <br>
+<b><i>Looking back up the descent route on Mt Emerson. Not that this slope was anything special, but it wasn't too fun either. Typical cl. 2 drudgery. The hike out from here is very fast and easy, about an hour.</i></b> <br>
+<br>
+<div class="horizontalrule"><hr></div>
+<div class="horizontalrule"><hr></div>
+<br>
+<b><u>Links:</u></b><br>
+<img src="/images/SqBullet.gif" width="8" height="8"> <a href="https://picasaweb.google.com/105894936663116565516/20130825MtEmersonSEFaceWSeanHermany02?authuser=0andfeat=directlink" target="_blank" rel="nofollow">Picasa Album</a>
+</div> 
+id: t12479n 
+name: Mt Emerson (SE Face) Scramble with Extra Ridge Variations 
+url: http://www.supertopo.com/tr/Mt-Emerson-SE-Face-Scramble-with-Extra-Ridge-Variations/t12479n.html 
+

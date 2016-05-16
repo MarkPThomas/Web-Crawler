@@ -126,6 +126,7 @@ date: Feb 19, 2005
 difficulty:  
 elevation:  
 grade:  
+hits: 15058  
 id: 169883 
 latitude: 39.8108 
 location: Utah, United States, North America 
@@ -134,6 +135,9 @@ my_route_quality:
 name: Surviving a 1,000 ft Fall on Mt Nebo 
 number_of_pitches:  
 page_url: http://www.summitpost.org/surviving-a-1-000-ft-fall-on-mt-nebo/169883 
+parent_code: 151301 
+parent_name: Mount Nebo 
+parent_url: /mount-nebo/151301 
 rock_difficulty:  
 route_quality:  
 route_type:  

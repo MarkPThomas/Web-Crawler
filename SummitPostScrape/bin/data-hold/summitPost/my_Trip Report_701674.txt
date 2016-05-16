@@ -443,6 +443,7 @@ date: Feb 13, 2011
 difficulty:  
 elevation:  
 grade:  
+hits: 7687  
 id: 701674 
 latitude:  
 location: California, United States, North America 
@@ -451,6 +452,9 @@ my_route_quality:
 name: Winter Ascent of the Full East Ridge of Mt Humphreys 
 number_of_pitches:  
 page_url: http://www.summitpost.org/winter-ascent-of-the-full-east-ridge-of-mt-humphreys/701674 
+parent_code: 150440 
+parent_name: Mount Humphreys 
+parent_url: /mount-humphreys/150440 
 rock_difficulty:  
 route_quality:  
 route_type:  

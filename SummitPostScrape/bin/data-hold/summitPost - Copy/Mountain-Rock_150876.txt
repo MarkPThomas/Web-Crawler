@@ -1,0 +1,97 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>
+<br>
+Castle Dome, located in California's Castle Crags Wilderness, is a <a href="http://www.summitpost.com/mountains/photo_link.pl?photo_id=9201&amp;object_id=832&amp;type=mountain&amp;mountain_id=832&amp;route_id=">spectacular granite rock formation</a> on the eastern end of <a href="http://www.summitpost.com/mountains/photo_link.pl/p/photo_id__9205__object_id__832__type__mountain__mountain_id__832__route_id____user_id____order_by____limit__">Castle Crags</a>. The crags are a granite formation that was formed over 170 million years ago and thrust into the Klamath Mountains geological province during the Jurassic era. These granite formations are in stark contrast to the volcanic and sedimentary nature of the Klamath Mountains province that includes nearby <a href="http://www.summitpost.com/mountains/mountain_link.pl/mountain_id/2">Mount Shasta</a>. Both Castle Dome and other rock formations offer striking views, however, exfoliation means that some of the rock is prone to peeling and crumbling making for a bad climb. This and the relatively remote nature of the crags wrt the SF Bay Area means that most rock climbers will travel to Yosemite, leaving visitors here with a sense of peace, tranquility, and striking views. Climbers and hikers will receive impressive views of the Crags and Mount Shasta as well as the heavily wooded valley in between. Winter allows you to travel over fields of snow while spring brings wildflowers such as indian rhubarb, tiger lily, pitcher plant, yellow monkey flower, cycladenia, yarrow, aster and eriogonum. The crags are also home to the Castle Crags hairbell (Campanula shetleri), unique to this area.  <p>  The easiest way to reach the summit is via the 2.7 mile YDS class 1 Castle Dome Trail (aka Crags Trail) which passes the Pacific Crest Trail (PCT) 0.5 miles from the trailhead (2,600 feet). In another 1.5 miles you will run into the 0.2 mile spur trail to Indian Springs, the only source of water on the route. On the way up you will catch glimpses of Shasta and the obvious Castle Dome, the prominent granite formation closest to Shasta. At 4300 feet the trail will switch back against some rock formations, passing Six Toe Rock, and begin a gentle ascent to the base of the crags passing Mount Hubris to the left and continue up the ridge northeast to the obvious base of Castle Dome (4,700 feet). From here the "<a href="http://www.summitpost.com/mountains/route_link.pl?route_id=507&amp;object_id=832">Regular Route</a>" starts up the south side and angles up to the east side of the dome for several pitches up to YDS class 4- crossing over "the dish" and climbing <a href="http://www.summitpost.com/mountains/photo_link.pl/p/photo_id__9206__object_id__832__type__mountain__mountain_id__832__route_id____user_id____order_by____limit__">a gully</a> before reaching the summit.  </p>
+<ul>  <table border="1" cellspacing="0"><tr><td><table border="0" cellspacing="2" cellpading="1">
+<tr bgcolor="#c0c0c0"><td colspan="7"><font style="font-weight: bold;">Routes Overview</font></td></tr>
+<tr bgcolor="#ffffff">
+<td align="center"><font style="font-weight: bold;">Route Name</font></td>  <td align="center"><font style="font-weight: bold;">Difficulty</font></td>
+</tr>  <tr bgcolor="#e0e0e0">  <td>"<a href="http://www.summitpost.com/mountains/route_link.pl?route_id=507&amp;object_id=832">Regular Route</a>"</td>  <td>Class 4-</td>
+</tr>  <tr>  <td>East Face (aka The Dike Route)</td>  <td>5.10d</td>
+</tr>  <tr bgcolor="#e0e0e0">  <td>The Good Book (on East Face)</td>  <td>5.10a</td>
+</tr>  <tr>  <td>North Face</td>  <td>5.10b</td>
+</tr>  <tr bgcolor="#e0e0e0">  <td>West Ridge</td>  <td>5.8</td>
+</tr>  </table></td></tr></table>  </ul>  <!--NOTE on Difficulty Rating for "Regular Route" (Ref: <a href="http://www.summitpost.com/mountains/user_link.pl?user_id=254">John</a>): For the official description of the "Regular Route" I've left the difficulty rating at YDS class 4 but many climbers, including myself, would probably rate this at YDS class 3. Falling is unlikely given dry conditions and adequate boot tread, but if you did fall the handholds are small enough that you probably would not be able to stop yourself in certain areas (probably why "conventional wisdom" rates this as class 4).  <p-->  NOTE on Books: The John R. Soares book really only has a description of how to get there (driving) and the approach hike. The Laird Davis book has descriptions of the technical 5th class routes. Neither book describes the "Regular Route."<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=5289" rel="no_follow"><img src="/images/thumb/5289.jpg"></a></td>
+<td><a href="/view_object.php?object_id=5290" rel="no_follow"><img src="/images/thumb/5290.jpg"></a></td>
+<td><a href="/view_object.php?object_id=21793" rel="no_follow"><img src="/images/thumb/21793.jpg"></a></td>
+<td><a href="/view_object.php?object_id=5292" rel="no_follow"><img src="/images/thumb/5292.jpg"></a></td>
+<td><a href="/view_object.php?object_id=5295" rel="no_follow"><img src="/images/thumb/5295.jpg"></a></td>
+</tr></table>
+<a name="chapter_2"></a><h2>Getting There</h2>
+<br>
+In Northern California, take I-5 to the Castella (also labelled Castle Crags if you are heading north) exit 48 miles north of Redding and 6 miles south of Dunsmuir (also south of Mount Shasta). Turn west once you get off I-5 following signs for Castle Crags State Park which will appear on your right shortly. Once you pay the entrace fee, take the road to the left of the entrace station up to and through the campgrounds to the trailhead. There's an outhouse and animal-resistant garbage can here. The trail is by where the road enters the parking lot, not at the end of the lot.  <p>  For public transportation, <a href="http://www.greyhound.com">Greyhound buses</a> will take you to Dunsmuir from where you will need to hitch a ride, hire a taxi, or walk.<br>
+<a name="chapter_3"></a></p>
+<h2>Red Tape</h2>
+<br>
+ENTRANCE / PARKING FEE: While the crags proper are in the Castle Crags Wilderness run by Shasta-Trinity National Forest, access is via California's Castle Crags State Park. There is a $6 / day per vehicle use parking fee to enter the state park. Additional fees may apply if you wish to camp (see Camping section).  <p>  WILDERNESS PERMIT: These are required to enter the wilderness area where the rock formations are, however, during the winter months, this isn't heavily enforced. Contact the Castle Crags State Park or Mount Shasta Ranger Station listed under the Mountain Conditions section for information on these permits.<br>
+<a name="chapter_4"></a></p>
+<h2>When To Climb</h2>
+<br>
+Year round and whenever you are in the vincinity to climb Shasta. During the winter, you'll have more solitude but consider bringing snowshoes for the approach.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr><td><a href="/view_object.php?object_id=5291" rel="no_follow"><img src="/images/thumb/5291.jpg"></a></td></tr></table>
+<a name="chapter_5"></a><h2>Camping and Accomodation</h2>
+<br>
+There are a number of car camping options in Castle Crags State Park, however, you may also be able to camp in the wilderness area under the crags. There appears to be one or two make-shift campsites, one with a fire ring as of February 2002.    A bit farther away, you can find many motels in nearby towns of Dunsmuir and Mount Shasta. You can also sleep in your car at the nearby I-5 rest areas.<br>
+<a name="chapter_6"></a><h2>Mountain Conditions</h2>
+<br>
+Use the following resources to check for conditions on Castle Crags Wilderness and State Park:  <p>  MOUNT SHASTA RANGER STATION<br>
+  204 W. Alma St.<br>
+  Mount Shasta, CA 96067<br>
+  Tel: (530) 926-4511<br>
+  URL: <a href="http://www.r5.fs.fed.us/shastatrinity/smmu/wilderness.htm">http://www.r5.fs.fed.us/shastatrinity/smmu/wilderness.htm</a>  </p>
+<p>  CASTLE CRAGS STATE PARK<br>
+  P.O. Box 80<br>
+  Castella, CA 96017-0080<br>
+  Tel #1: (530) 235-2684<br>
+  Tel #2: (530) 225-2065<br>
+  URL: <a href="http://www.parks.ca.gov/default.asp?page_id=454">http://www.parks.ca.gov/default.asp?page_id=454</a>  </p>
+<p>  Nearby Weather Report: <a href="http://www.weatherunderground.com/US/CA/Castella/KMHS.html">Mount Shasta Weather Underground page</a><br>
+<a name="chapter_7"></a></p>
+<h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/castle-dome-and-the/21793/c-150876"><img alt="Castle Dome and the..." src="/images/square/21793.jpg"></a></td>
+<td><a href="/castle-dome/200238/c-150876"><img alt="Castle Dome" src="/images/square/200238.jpg"></a></td>
+<td><a href="/striking-north-face-of-castle-dome/294644/c-150876"><img alt="Striking North Face of Castle Dome" src="/images/square/294644.JPG"></a></td>
+<td><a href="/castle-dome/457157/c-150876"><img alt="Castle Dome." src="/images/square/457157.JPG"></a></td>
+<td><a href="/castle-dome-and-mount-shasta/5290/c-150876"><img alt="Castle Dome and Mount Shasta..." src="/images/square/5290.jpg"></a></td>
+<td><a href="/mount-hubris-aka-the-ogre/5294/c-150876"><img alt="Mount Hubris (aka The Ogre)..." src="/images/square/5294.jpg"></a></td>
+<td><a href="/castle-dome-with-mt-shasta/749079/c-150876"><img alt="Castle Dome with Mt. Shasta" src="/images/square/749079.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/castle-crags/786354/c-150876"><img alt="Castle Crags" src="/images/square/786354.jpg"></a></td>
+<td><a href="/castle-crags-from-the-trail-to-castle-dome/294642/c-150876"><img alt="Castle Crags from the Trail to Castle Dome" src="/images/square/294642.JPG"></a></td>
+<td><a href="/castle-crags/712942/c-150876"><img alt="Castle Crags" src="/images/square/712942.jpg"></a></td>
+<td><a href="/castle-dome/457158/c-150876"><img alt="Castle Dome." src="/images/square/457158.JPG"></a></td>
+<td><a href="/castle-domes-half-dome-ish-north-face/749081/c-150876"><img alt="Castle Domes\' Half Dome-ish  north face" src="/images/square/749081.JPG"></a></td>
+<td><a href="/castle-dome-and-mt-shasta/749056/c-150876"><img alt="Castle Dome and Mt. Shasta" src="/images/square/749056.jpg"></a></td>
+<td><a href="/castle-dome-and-mount-shasta/5289/c-150876"><img alt="Castle Dome and Mount Shasta..." src="/images/square/5289.jpg"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/castle-dome/images/p-150876">View Gallery - 63 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty:  
+elevation: 4966 
+grade:  
+id: 150876 
+latitude: 41.175 
+location: California, United States, North America 
+longitude: -122.3256 
+my_route_quality:  
+name: Castle Dome 
+number_of_pitches:  
+page_url: http://www.summitpost.org/castle-dome/150876 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons:  
+time_required:  
+type: Mountain-Rock 
+

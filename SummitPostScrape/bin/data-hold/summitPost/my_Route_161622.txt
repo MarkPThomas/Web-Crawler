@@ -36,6 +36,7 @@ date:
 difficulty: Class 2 Walk-up 
 elevation:  
 grade:  
+hits: 6657  
 id: 161622 
 latitude: 40.5851 
 location: Utah, United States, North America 
@@ -44,6 +45,9 @@ my_route_quality:
 name: Catherine Pass 
 number_of_pitches:  
 page_url: http://www.summitpost.org/catherine-pass/161622 
+parent_code: 152858 
+parent_name: Mount Wolverine & Mount Tuscarora 
+parent_url: /mount-wolverine-mount-tuscarora/152858 
 rock_difficulty:  
 route_quality: 1.0 
 route_type: Hike/Basic Snow Climb 

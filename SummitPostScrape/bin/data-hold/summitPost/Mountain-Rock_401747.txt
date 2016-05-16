@@ -62,6 +62,7 @@ date:
 difficulty:  
 elevation: 10315 
 grade:  
+hits: 4731  
 id: 401747 
 latitude: 40.58208 
 location: Utah, United States, North America 
@@ -70,6 +71,9 @@ my_route_quality:
 name: Preston Peak 
 number_of_pitches:  
 page_url: http://www.summitpost.org/preston-peak/401747 
+parent_code: 171209 
+parent_name: Wasatch Range (Central) 
+parent_url: /wasatch-range-central/171209 
 rock_difficulty:  
 route_quality:  
 route_type:  

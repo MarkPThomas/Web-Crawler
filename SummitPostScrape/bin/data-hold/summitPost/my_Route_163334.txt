@@ -37,6 +37,7 @@ date:
 difficulty: Class 3-4 
 elevation:  
 grade:  
+hits: 3999  
 id: 163334 
 latitude: 40.657 
 location: Utah, United States, North America 
@@ -45,6 +46,9 @@ my_route_quality:
 name: North Summits Traverse (bypass) 
 number_of_pitches:  
 page_url: http://www.summitpost.org/north-summits-traverse-bypass/163334 
+parent_code: 151263 
+parent_name: Mount Olympus 
+parent_url: /mount-olympus/151263 
 rock_difficulty:  
 route_quality: 1.0 
 route_type: Scramble, Basic Snow Climb 

@@ -1,0 +1,89 @@
+activities: Hiking, Trad Climbing, Scrambling 
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>Lembert Dome is the monolithic dome that dominates the eastern end of Tuolumne Meadows in Yosemite National Park.  It's a justifiably popular ascent, particularly among day hikers in the area, with the summit offering magnificent views of Tuolumne Meadows to the west, the Cathedral Range to the south, and the Sierra crest to the east.<br>
+<br>
+The summit is most commonly reached by a short <a href="http://summitpost.com/mountains/route_link.pl/route_id/1240/object_id/1571">walk-up route on the east</a>.  Another popular option is a scramble up the low angle slabs of the <a href="http://summitpost.com/mountains/route_link.pl/route_id/1759/object_id/1571">south east face</a>, rated class 3.  The dome also offers a variety of technical routes; Roper's 1976 edition of <i>The Climber's Guide to the High Sierra</i> lists no less than sixteen.<br>
+<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=26065" rel="no_follow"><img src="/images/thumb/26065.jpg"></a></td>
+<td><a href="/view_object.php?object_id=29724" rel="no_follow"><img src="/images/thumb/29724.jpg"></a></td>
+<td><a href="/view_object.php?object_id=14890" rel="no_follow"><img src="/images/thumb/14890.JPG"></a></td>
+<td><a href="/view_object.php?object_id=28425" rel="no_follow"><img src="/images/thumb/28425.JPG"></a></td>
+<td><a href="/view_object.php?object_id=62920" rel="no_follow"><img src="/images/thumb/62920.JPG"></a></td>
+</tr></table>
+<a name="chapter_2"></a><h2>Getting There</h2>The dome is located directly off Tioga Road, immediately next to the Dog Lake/Young Lakes trailhead in <a href="http://summitpost.com/mountains/mountain_link.pl/mountain_id/759">Tuolumne Meadows</a>. A signed trail for the dome leads around the backside of the dome, eventually winding around to reach the summit.<br>
+<br>
+The dome can also be approached by a slightly shorter trail on the east, which is signed only for Dog Lake.  The trail is located half a mile east of the Young Lakes trailhead; there's space for roughly two cars to park off the side of the road.  This trailhead is easy to miss!<br>
+<a name="chapter_3"></a><h2>Red Tape</h2>Permits are not required for day hikes, but a wilderness permit is required for overnight visits. This can be obtained from any ranger station in the park. The nearest location is the permit building just east of the Tuolumne Meadows campground, located just off the road that leads to the Tuolumne Lodge, on the right hand side.<br>
+<br>
+Note that camping is technically illegal within a mile of Tioga Road, and within four miles of any trailhead. Because of the summit's close proximity both to the road and to the popular Tuolumne Meadows area, it is almost always climbed as a day hike.<br>
+<br>
+<p></p>
+<table class="inline_image_thumbs"><tr><td><a href="/view_object.php?object_id=27128" rel="no_follow"><img src="/images/thumb/27128.jpg"></a></td></tr></table>
+<a name="chapter_4"></a><h2>When To Climb</h2>Due to the winter closure of Tioga Road, Lembert Dome is most commonly climbed between May and November.<br>
+<br>
+<a name="chapter_5"></a><h2>Camping</h2>The closest legal camping can be found in the Tuolumne Meadows backpacker's campground, located a few hundred yards west of the dome, on the south side of Tioga Road.<br>
+<br>
+<a name="chapter_6"></a><h2>Mountain Conditions</h2>Current conditions can be found on the <a href="http://www.nps.gov/yose/">NPS page</a>.<br>
+<br>
+<a name="chapter_7"></a><h2>Etymology</h2>"The dome was named after John Baptist Lembert, a hermit who in the 1880s homesteaded a small parcel of land surrounding the soda springs west of the dome.  At this idyllic site Lembert raised angora goats until a severe winter depleted his stock; afterward, he collected butterflies and botanical specimens for museums.  In 1896 Lembert was murdered by a robber at his winter quarters below Yosemite Valley."<br>
+<b>- Steve Roper, <i>Sierra High Route:  Traversing Timberline Country</i></b><br>
+<br>
+"John Baptist Lembert settled in Tuolumne Meadows sometime before 1882; he was visited in that year by a member of the crew surveying the original Tioga Road.  Lembert was living in an eight-by-ten-foot cabin built directly atop one of the soda springs; water bubbled up in the center of the cabin. ('Surveying the Tioga Road,' <i>YNN</i> 27, no. 9: 109--112.)<br>
+<br>
+Lembert raised angora goats, until he lost them in a snowstorm in the winter of 1889-90.  Thereafter he made his living by collecting butterflies and botanical specimens, which he sold to museums. On June 28, 1895, he gained legal possession of the property when he homesteaded 160 acres:  the southwest quarter of sec. 5, T. 1 S., R. 24 E.  He was murdered at his cabin in the Merced Canyon, below Yosemite Valley, in the winter of 1896-97.  The Soda Springs property was sold to the McCauley brothers in 1898 by Lembert's brother.  J. J. McCauley sold it to the Sierra Club in 1912, which in turn sold it to the National Park Service in 1973.<br>
+<br>
+The dome was called 'Soda Spr. Dome' on the Wheeler Survey atlas sheet 56D, 1878-79.  John Muir called it 'Glacier Rock.' The name was misspelled 'Lambert' on many early maps and references.  It is spelled that way on the first five editions of the <i>Mt. Lyell</i> 30' map, 1901-22; corrected on the edition of 1927."<br>
+<b>- Peter Browning, <i>Place Names of the Sierra Nevada</i></b><br>
+<a name="chapter_8"></a><h2>External Links</h2>
+<ul>
+<li>
+<a href="http://climber.org/TripReports/ByPeakL.html#lembert">climber.org trip reports</a><br> <br>
+</li>
+<li>
+<a href="http://hiking.adampaul.com/lembert03.shtml">01 July 2003 - fun dome hike!</a><br> <br>
+</li>
+</ul>                     <a name="chapter_9"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/the-top/331010/c-151389"><img alt="The top" src="/images/square/331010.JPG"></a></td>
+<td><a href="/tuolumne-river/960673/c-151389"><img alt="Tuolumne River" src="/images/square/960673.jpg"></a></td>
+<td><a href="/fairview-dome-and-lembert-dome/777317/c-151389"><img alt="Fairview Dome and Lembert Dome" src="/images/square/777317.jpg"></a></td>
+<td><a href="/lembert-dome-s-south-slope/22416/c-151389"><img alt="Lembert Dome\'s South Slope ...." src="/images/square/22416.jpg"></a></td>
+<td><a href="/lembert-dome-25-july-2004/62920/c-151389"><img alt="Lembert Dome- 25 July, 2004" src="/images/square/62920.JPG"></a></td>
+<td><a href="/lembert-dome-view-west/539531/c-151389"><img alt="Lembert Dome View-West" src="/images/square/539531.jpg"></a></td>
+<td><a href="/take-a-hike-son-get-out-and-stay-out/634083/c-151389"><img alt="Take a hike son. Get out and stay out!" src="/images/square/634083.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/a-climber-on-truck-n-drive/62964/c-151389"><img alt="A climber on Truck N Drive,..." src="/images/square/62964.JPG"></a></td>
+<td><a href="/telephoto-7x-of-lembert/29724/c-151389"><img alt="Telephoto (7x) of Lembert..." src="/images/square/29724.jpg"></a></td>
+<td><a href="/gordon-about-to-get-to-the/87633/c-151389"><img alt="Gordon about to get to the..." src="/images/square/87633.JPG"></a></td>
+<td><a href="/northeast-pano-from-lembert-dome/634114/c-151389"><img alt="Northeast pano from Lembert Dome" src="/images/square/634114.JPG"></a></td>
+<td><a href="/lembert-dome-at-sunset-from/28425/c-151389"><img alt="Lembert Dome at sunset from..." src="/images/square/28425.JPG"></a></td>
+<td><a href="/lembert-dome/28427/c-151389"><img alt="Lembert Dome" src="/images/square/28427.JPG"></a></td>
+<td><a href="/resting-on-the-south-slope/22415/c-151389"><img alt="Resting on the South Slope ,..." src="/images/square/22415.jpg"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/lembert-dome/images/p-151389">View Gallery - 77 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty:  
+elevation: 9450 
+grade:  
+id: 151389 
+latitude: 37.88 
+location: California, United States, North America 
+longitude: -119.35 
+my_route_quality:  
+name: Lembert Dome 
+number_of_pitches:  
+page_url: http://www.summitpost.org/lembert-dome/151389 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons: Spring, Summer, Fall 
+time_required:  
+type: Mountain-Rock 
+

@@ -1,0 +1,89 @@
+content: <div dir="ltr">
+<h1>
+<a name="TOC-Sierra-Challenge-2010"></a>Sierra Challenge 2010</h1>
+<div><span style="border-collapse:collapse"><br>
+</span></div>
+<div>
+<span style="border-collapse:collapse"><br>
+</span>
+<div><span style="border-collapse:collapse"><span style="border-collapse:collapse"><br>
+</span>
+<div><span style="border-collapse:collapse">
+<div>
+<br>
+</div>
+<div>
+<div>
+<hr>
+<hr>
+<h2>
+<a name="TOC-Links"></a>Links</h2>
+<ul>
+<li><a href="http://www.snwburd.com/bob/challenge/2010/">Bob Burd's Sierra Challenge Stats</a></li>
+<li><a href="http://www.markpthomas.com/mountaineering/trip-reports/california/mt-cedric-wright-colosseum">Bob Burd's Sierra Challenge TR Day 9</a></li>
+<li><a href="http://www.snwburd.com/bob/trip_reports/morgenson_1.html">Bob Burd's Sierra Challenge TR Day 10</a></li>
+</ul>
+</div>
+<hr>
+<hr>
+<center>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20100814SierraChallengeCedricWrightColosseum?authuser=0&amp;feat=directlink">Day 9: Mt Cedric Wright &amp; Mt Colosseum</a><br>
+<br>
+<a href="http://www.markpthomas.com/mountaineering/trip-reports/california/mt-morgenson-mt-tunnabora-the-cleaver">Day 10: Mt Morgenson, Mt Tunnabora &amp; The Cleaver</a><br>
+</center>
+<center>
+<br>
+</center>
+<center>
+<br>
+</center>
+<center>
+<br>
+</center>
+<center>
+<br>
+</center>
+<h1>
+<a name="TOC-Sierra-Challenge-2011"></a>Sierra Challenge 2011</h1>
+<center>
+<div style="text-align:left">
+<br>
+</div>
+<div style="text-align:left">
+<br>
+</div>
+<div style="text-align:left">
+<br>
+</div>
+<div style="text-align:left">
+<div>
+<hr>
+<hr>
+<h2>
+<a name="TOC-Links1"></a>Links</h2>
+<ul>
+<li><a href="http://www.snwburd.com/bob/challenge/2011/">Bob Burd's Sierra Challenge Stats</a></li>
+<li><a href="http://www.snwburd.com/bob/trip_reports/thumb_n1_2.html">Bob Burd's Sierra Challenge TR</a></li>
+</ul>
+</div>
+<hr>
+<center>
+<br>
+<a href="http://www.markpthomas.com/mountaineering/trip-reports/california/the-thumb-ed-lane-pk">Day 9: The Thumb &amp; Ed Lane Pk</a><br>
+<br>
+<br>
+</center>
+</div>
+</center>
+</div>
+</span></div>
+</span></div>
+</div>
+</div> 
+page_id: 88 
+page_menu_name: Sierra Challenge (2010&11) 
+page_url: /mountaineering/trip-reports/california/sierra-challenge-2010 
+title: Sierra Challenge 2010 
+type: Trip_Report 
+

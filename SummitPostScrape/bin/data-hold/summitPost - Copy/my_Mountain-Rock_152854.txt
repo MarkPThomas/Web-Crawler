@@ -1,0 +1,102 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>
+<br>
+This peak goes by both names. On some maps it is labeled as Mount Majestic, in others as Clayton Peak. It is the large peak dominating the north side of Brighton Ski Resort. The the summit provides a birds-eye view of the area above Park City, the Heber Valley, Mt Timpanogos, and the upper Big Cottonwood Canyon and LittleCottonwood Canyon areas. No trails lead north or east from the summit, but there is opportunity for off-trail exploration. The land between here and Guardsman Pass is private, and to the east there is a mix of private and Wasatch Mountain State Park lands. <br>
+     Quite often hikers will include this peak in the Brighton Ridge Run Route, although that route officially begins at the Snake Creek Pass. The Wastach Mountain club has placed a mailbox register on the summit.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=61802" rel="no_follow"><img src="/images/thumb/61802.jpg"></a></td>
+<td><a href="/view_object.php?object_id=61803" rel="no_follow"><img src="/images/thumb/61803.jpg"></a></td>
+<td><a href="/view_object.php?object_id=61804" rel="no_follow"><img src="/images/thumb/61804.jpg"></a></td>
+<td><a href="/view_object.php?object_id=61801" rel="no_follow"><img src="/images/thumb/61801.jpg"></a></td>
+</tr></table>
+<a name="chapter_2"></a><h2>Getting There</h2>
+<br>
+Driving time from downtown Salt Lake City is approximately 50 minutes. <br>
+From I-15 southbound near downtown Salt Lake City, follow these directions <br>
+I-15 S toward LAS VEGAS/CHEYENNE. 8.3 miles <br>
+Take the I-215 exit- exit number 302- toward BELT ROUTE. 0.2 miles <br>
+Merge onto I-215 E via the exit- on the left- toward SKI AREAS. 5.1 miles <br>
+Take the 6200 SO. exit- exit number 6- toward SKI AREAS/SOLITUDE / BRIGHTON/SNOWBIRD / ALTA. 0.2 miles <br>
+Take the ramp toward SKI AREAS/SOLITUDE / BRIGHTON/SNOWBIRD / ALTA. 0.1 miles <br>
+Turn RIGHT onto UT-190 E/E 6200 S. Continue to follow UT-190 E. 1.6 miles <br>
+Turn LEFT onto E BIG COTTONWOOD CANYON RD/UT-190. 14.0 miles <br>
+End at Brighton UT <br>
+<br>
+<br>
+Drive up Big Cottonwood Canyon to Brighton Ski Resort. Park in the ski resort parking lot and begin hiking from the main lodge.<br>
+<br>
+Drive up Big Cottonwod Canyon to Brighton Ski Resort. Park in the ski resort parking lot and begin hiking from the main lodge.<br>
+<br>
+ <br>
+<br>
+<a name="chapter_3"></a><h2>Red Tape</h2>
+<br>
+None. Big Cottonwood Canyon occasionally closes due to avalanche dangers, but this is only during and immediately following some large snow storms<br>
+<a name="chapter_4"></a><h2>When To Climb</h2>
+<br>
+This peak is nice to climb year round. It is well shaded most of the way to the top. In the summer wildflowers make the hike enjoyable. Winter ascents may be less enjoyable since you would be climbing the peak with the knowledge that skiers are riding the Great Western ski lift nearly to the summit.<br>
+<a name="chapter_5"></a><h2>Camping</h2>
+<br>
+There are many walk-in campgrounds in Big Cottonwood Canyon. Alternatively, free camping is permitted in the nearby Mt Olympus, Broads Fork Twin Peaks, or Lone Peak Wilderness areas as long as it is done at least 100 ft away from trails.<br>
+<br>
+ <br>
+<br>
+<a name="chapter_6"></a><h2>Mountain Conditions</h2>
+<br>
+<a href="http://www.fs.fed.us/r4/wcnf/">Wasatch-Cache National Forest</a><br>
+<br>
+<a href="http://www.utah.com/ski/resorts/brighton.htm">Brighton Ski Resort</a><br>
+<br>
+<a href="http://www.avalanche.org/~uac/">Utah Avalanche Center</a><br>
+<br>
+<a href="http://www.csac.org/">The Avalanche Center</a><br>
+<br>
+<a href="http://www.xmission.com/~wmc/">Wasatch Mountain Club</a><br>
+<br>
+<br>
+<br>
+<a name="chapter_7"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/looking-north-from-the-summit/248049/c-152854"><img alt="Looking north from the summit" src="/images/square/248049.JPG"></a></td>
+<td><a href="/lackawaxen-lake/534868/c-152854"><img alt="Lackawaxen Lake" src="/images/square/534868.JPG"></a></td>
+<td><a href="/clayton-peak-from-francis/275822/c-152854"><img alt="Clayton Peak from Francis" src="/images/square/275822.JPG"></a></td>
+<td><a href="/july-21-2004-mt-majestic/61805/c-152854"><img alt="July 21, 2004 - Mt Majestic..." src="/images/square/61805.jpg"></a></td>
+<td><a href="/clayton-peak-from-deer-valley/353113/c-152854"><img alt="Clayton Peak from Deer Valley" src="/images/square/353113.JPG"></a></td>
+<td><a href="/july-21-2004-mt-timpanogos/61802/c-152854"><img alt="July 21, 2004 - Mt Timpanogos..." src="/images/square/61802.jpg"></a></td>
+<td><a href="/july-21-2004-mt-raymond/61803/c-152854"><img alt="July 21, 2004 - Mt Raymond..." src="/images/square/61803.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/clayton-bowl/416947/c-152854"><img alt="Clayton Bowl" src="/images/square/416947.jpg"></a></td>
+<td><a href="/july-21-2004-mt-majestic/61801/c-152854"><img alt="July 21, 2004 - Mt Majestic..." src="/images/square/61801.jpg"></a></td>
+<td><a href="/july-21-2004-mt-majestic/61804/c-152854"><img alt="July 21, 2004 - Mt Majestic..." src="/images/square/61804.jpg"></a></td>
+<td><a href="/clayton-peak/416951/c-152854"><img alt="Clayton Peak" src="/images/square/416951.jpg"></a></td>
+<td><a href="/mt-majestic/606198/c-152854"><img alt="Mt. Majestic. " src="/images/square/606198.jpg"></a></td>
+<td><a href="/clayton-mail-box/731789/c-152854"><img alt="Clayton Mail Box" src="/images/square/731789.JPG"></a></td>
+<td><a href="/clayton-peak-on-the-right/942125/c-152854"><img alt="Clayton Peak on the right" src="/images/square/942125.JPG"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/mount-majestic-clayton-peak/images/p-152854">View Gallery - 3 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty:  
+elevation: 10721 
+grade:  
+id: 152854 
+latitude: 40.5907 
+location: Utah, United States, North America 
+longitude: -111.5602 
+my_route_quality:  
+name: Mount Majestic (Clayton Peak) 
+number_of_pitches:  
+page_url: http://www.summitpost.org/mount-majestic-clayton-peak/152854 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons:  
+time_required:  
+type: Mountain-Rock 
+

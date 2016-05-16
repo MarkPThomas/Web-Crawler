@@ -28,6 +28,7 @@ date:
 difficulty: Class 3 
 elevation:  
 grade:  
+hits: 4228  
 id: 158576 
 latitude: 37.8286 
 location: California, United States, North America 
@@ -36,6 +37,9 @@ my_route_quality:
 name: SW Ridge 
 number_of_pitches:  
 page_url: http://www.summitpost.org/sw-ridge/158576 
+parent_code: 151779 
+parent_name: Tenaya Peak 
+parent_url: /tenaya-peak/151779 
 rock_difficulty:  
 route_quality: 0.8 
 route_type: Scramble 

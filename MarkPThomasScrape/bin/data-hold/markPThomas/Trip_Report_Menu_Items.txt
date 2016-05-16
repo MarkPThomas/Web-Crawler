@@ -1,0 +1,955 @@
+page_id: 1 
+page_menu_name: Alaska 
+page_url: /mountaineering/trip-reports/alaska 
+type: Trip_Report 
+
+page_id: 2 
+page_menu_name: Denali (W Buttress) 
+page_url: /mountaineering/trip-reports/alaska/denali-west-buttress 
+type: Trip_Report 
+
+page_id: 3 
+page_menu_name: Ruth Gorge (2006) 
+page_url: /mountaineering/trip-reports/alaska/ruth-gorge-2006 
+type: Trip_Report 
+
+page_id: 4 
+page_menu_name: California 
+page_url: /mountaineering/trip-reports/california 
+type: Trip_Report 
+
+page_id: 5 
+page_menu_name: California Rock Climbs 
+page_url: /mountaineering/trip-reports/california/california-rock-climbs 
+type: Trip_Report 
+
+page_id: 6 
+page_menu_name: Cardinal Pinnacle 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/cardinal-pinnacle 
+type: Trip_Report 
+
+page_id: 7 
+page_menu_name: Pine Creek 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/pine-creek 
+type: Trip_Report 
+
+page_id: 8 
+page_menu_name: Yosemite Valley] 
+page_url: /mountaineering/trip-reports/california/yosemite-np 
+type: Trip_Report 
+
+page_id: 9 
+page_menu_name: Central Pillar of Frenzy 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/central-pillar-of-frenzy 
+type: Trip_Report 
+
+page_id: 10 
+page_menu_name: Chockstone Chimney 
+page_url: /mountaineering/trip-reports/california/chockstone-chimney 
+type: Trip_Report 
+
+page_id: 11 
+page_menu_name: DEER Route 
+page_url: /mountaineering/trip-reports/california/deer-route 
+type: Trip_Report 
+
+page_id: 12 
+page_menu_name: Half Dome (Regular NW Face) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/half-dome-regular-nw-face 
+type: Trip_Report 
+
+page_id: 13 
+page_menu_name: Higher Cathedral Rock (NE Buttress) 
+page_url: /mountaineering/trip-reports/california/ne-butt-of-higher-cathedral 
+type: Trip_Report 
+
+page_id: 14 
+page_menu_name: The Iota Chimney 
+page_url: /mountaineering/trip-reports/california/the-iota-chimney 
+type: Trip_Report 
+
+page_id: 15 
+page_menu_name: Lost Arrow Spire (Tip) 
+page_url: /mountaineering/trip-reports/california/lost-arrow-spire-tip 
+type: Trip_Report 
+
+page_id: 16 
+page_menu_name: Middle Cathedral Rock (East Buttress) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/middle-cathedral-rock-east-buttress 
+type: Trip_Report 
+
+page_id: 17 
+page_menu_name: The RORP 
+page_url: /mountaineering/trip-reports/california/the-rorp 
+type: Trip_Report 
+
+page_id: 18 
+page_menu_name: Washington Column (S Face) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/washington-column-s-face 
+type: Trip_Report 
+
+page_id: 19 
+page_menu_name: Yosemite Point Buttress (Direct) 
+page_url: /mountaineering/trip-reports/california/yosemite-point-buttress-direct 
+type: Trip_Report 
+
+page_id: 20 
+page_menu_name: Tuolumne Meadows] 
+page_url: /mountaineering/trip-reports/california/-tuolumne-meadows 
+type: Trip_Report 
+
+page_id: 21 
+page_menu_name: Eichorn Pinnacle (West Pillar) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/-tuolumne-meadows/eichorn-pinnacle-west-pillar 
+type: Trip_Report 
+
+page_id: 22 
+page_menu_name: Eichorn Pinnacle (West Pillar, Direct) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/eichorn-pinnacle-west-pillar-direct 
+type: Trip_Report 
+
+page_id: 24 
+page_menu_name: Matthes Crest (Traverse, Full) 
+page_url: http://www.markpthomas.com/mountaineering/mountaineering/trip-reports/california/matthes-crest-traverse 
+type: Trip_Report 
+
+page_id: 25 
+page_menu_name: Third Pillar of Dana (RR) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/third-pillar-of-dana 
+type: Trip_Report 
+
+page_id: 26 
+page_menu_name: Alpine (Technical) 
+page_url: /mountaineering/trip-reports/california/alpine-technical 
+type: Trip_Report 
+
+page_id: 27 
+page_menu_name: Palisade Tangent Traverse 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/palisade-tangent-traverse 
+type: Trip_Report 
+
+page_id: 45 
+page_menu_name: Norman Clyde Pk (Firebird Ridge) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/norman-clyde-pk-firebird-ridge 
+type: Trip_Report 
+
+page_id: 46 
+page_menu_name: Norman Clyde Pk (Twilight Pillar) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/norman-clyde-pk-twilight-pillar 
+type: Trip_Report 
+
+page_id: 49 
+page_menu_name: Palisade Crest (N-S Traverse) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/palisade-crest-n-s-traverse 
+type: Trip_Report 
+
+page_id: 134 
+page_menu_name: Thunderbolt Pk (SW Chute #1) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/6th-time-s-the-charm-persistence-pays-off-on-thunderbolt-peak 
+type: Trip_Report 
+
+page_id: 32 
+page_menu_name: Bear Creek Spire (E Ridge) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/bear-creek-spire-e-ridge 
+type: Trip_Report 
+
+page_id: 33 
+page_menu_name: Mt Carl Heller (E Ridge) (Winter) 
+page_url: /mountaineering/trip-reports/california/2011-03-13-carlheller 
+type: Trip_Report 
+
+page_id: 34 
+page_menu_name: Charlotte Dome (S Face) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/south-face-of-charlotte-dome-iii-5-8 
+type: Trip_Report 
+
+page_id: 35 
+page_menu_name: Clyde Minaret (Direct SE Face) 
+page_url: /mountaineering/trip-reports/california/clyde-minaret-direct-se-face 
+type: Trip_Report 
+
+page_id: 120 
+page_menu_name: North Peak (NW Ridge) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/nw-ridge-of-n-pk-and-n-ridge-of-mt-conness 
+type: Trip_Report 
+
+page_id: 37 
+page_menu_name: Mt Conness (SW Face) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/mt-conness-sw-face 
+type: Trip_Report 
+
+page_id: 38 
+page_menu_name: Mt Conness (W Ridge) 
+page_url: /mountaineering/trip-reports/california/mark-n-dirk-s-bivouac-trilogy---part-1-mt-conness 
+type: Trip_Report 
+
+page_id: 39 
+page_menu_name: Mt Goode (N Buttress) 
+page_url: /mountaineering/trip-reports/california/mt-goode-n-buttress 
+type: Trip_Report 
+
+page_id: 40 
+page_menu_name: Mt Humphreys (E Ridge) (Winter) 
+page_url: /mountaineering/trip-reports/california/2011-02-13-humphreys 
+type: Trip_Report 
+
+page_id: 41 
+page_menu_name: Isosceles Pk (W Face) 
+page_url: /mountaineering/trip-reports/california/isosceles-pk-w-face 
+type: Trip_Report 
+
+page_id: 42 
+page_menu_name: Lone Pine Peak (Complete North Ridge) 
+page_url: /mountaineering/trip-reports/california/lone-pine-peak-complete-north-ridge 
+type: Trip_Report 
+
+page_id: 43 
+page_menu_name: Matterhorn Pk (N Arete) 
+page_url: /mountaineering/trip-reports/california/north-arete-of-matterhorn-peak 
+type: Trip_Report 
+
+page_id: 44 
+page_menu_name: Merriam Pk (N Buttress) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/merriam-peak-n-buttress 
+type: Trip_Report 
+
+page_id: 50 
+page_menu_name: Polemonium (U-Notch W) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/mark-n-dirk-s-bivouac-trilogy---part-3-north-palisade-polemonium 
+type: Trip_Report 
+
+page_id: 48 
+page_menu_name: North Peak (North Couloir) 
+page_url: /mountaineering/trip-reports/california/north-peak-north-couloir 
+type: Trip_Report 
+
+page_id: 127 
+page_menu_name: Ruby Peak (N Ridge) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/ruby-wall-1 
+type: Trip_Report 
+
+page_id: 54 
+page_menu_name: Mt Russell (Fishhook Arete) 
+page_url: /mountaineering/trip-reports/california/mt-russell-fishhook-arete 
+type: Trip_Report 
+
+page_id: 55 
+page_menu_name: Mt Russell (Mithral Dihedral) 
+page_url: /mountaineering/trip-reports/california/mt-russell-mithral-dihedral 
+type: Trip_Report 
+
+page_id: 56 
+page_menu_name: Mt Sill (Swiss Arete & N Couloir) 
+page_url: /mountaineering/trip-reports/california/mark-n-dirk-s-bivouac-trilogy---part-2-mt-sill 
+type: Trip_Report 
+
+page_id: 57 
+page_menu_name: Temple Crag (Dark Star) 
+page_url: /mountaineering/trip-reports/california/temple-crag-dark-star 
+type: Trip_Report 
+
+page_id: 58 
+page_menu_name: Temple Crag (Moon Goddess Arete) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/moon-goddess-arete 
+type: Trip_Report 
+
+page_id: 59 
+page_menu_name: Temple Crag (Sun Ribbon Arete) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/temple-crag-sun-ribbon-arete 
+type: Trip_Report 
+
+page_id: 60 
+page_menu_name: Temple Crag (Venusian Blind Arete) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/venusian-blind 
+type: Trip_Report 
+
+page_id: 63 
+page_menu_name: Mt Whitney (E Buttress) 
+page_url: /mountaineering/trip-reports/california/mt-whitney-e-buttress 
+type: Trip_Report 
+
+page_id: 64 
+page_menu_name: Mt Whitney (E Face) 
+page_url: /mountaineering/trip-reports/california/mt-whitney-e-face 
+type: Trip_Report 
+
+page_id: 65 
+page_menu_name: Alpine (Non-Technical) 
+page_url: /mountaineering/trip-reports/california/alpine-non-technical 
+type: Trip_Report 
+
+page_id: 66 
+page_menu_name: Sierra Challenge 
+page_url: /mountaineering/trip-reports/california/sierra-challenge 
+type: Trip_Report 
+
+page_id: 67 
+page_menu_name: Sierra Challenge (2004) 
+page_url: /mountaineering/trip-reports/california/my-first-sierra-challenge-2004 
+type: Trip_Report 
+
+page_id: 68 
+page_menu_name: Day 1: North Peak & Mt Conness 
+page_url: /mountaineering/trip-reports/california/nw-ridge-of-n-pk-and-n-ridge-of-mt-conness 
+type: Trip_Report 
+
+page_id: 69 
+page_menu_name: Day 2: Mt Lyell & Mt Maclure 
+page_url: /mountaineering/trip-reports/california/mt-lyell-mt-maclure 
+type: Trip_Report 
+
+page_id: 70 
+page_menu_name: Day 4: Basin Mtn - Four Gables Traverse 
+page_url: /mountaineering/trip-reports/california/basin-mtn-e-chute 
+type: Trip_Report 
+
+page_id: 71 
+page_menu_name: Day 5: Mt Haeckel & Mt Wallace 
+page_url: /mountaineering/trip-reports/california/mt-haeckel-mt-wallace 
+type: Trip_Report 
+
+page_id: 72 
+page_menu_name: Day 6: Mt Winchell 
+page_url: /mountaineering/trip-reports/california/mt-winchell-e-arete 
+type: Trip_Report 
+
+page_id: 73 
+page_menu_name: Day 7: Palisade Crest & Mt Jepson 
+page_url: /mountaineering/trip-reports/california/mt-jepson-palisade-crest 
+type: Trip_Report 
+
+page_id: 74 
+page_menu_name: Sierra Challenge (2005) 
+page_url: /mountaineering/trip-reports/california/sierra-challenge-2005 
+type: Trip_Report 
+
+page_id: 122 
+page_menu_name: Pipsqueak Spire (Cox Cool & Hourglass Couloir) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/mt-hilgard-pipsqueak-spire 
+type: Trip_Report 
+
+page_id: 117 
+page_menu_name: Merriam Pk (E Face, N Ridge) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/merriam-e-face 
+type: Trip_Report 
+
+page_id: 102 
+page_menu_name: Mt Emerson (SE Couloir, SW Slopes) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/mt-emerson-se-couloir 
+type: Trip_Report 
+
+page_id: 112 
+page_menu_name: Mt Lamarck (SE Ridge) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/mt-lamarck 
+type: Trip_Report 
+
+page_id: 98 
+page_menu_name: Clyde Spires (S Ridge) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/clyde-spires-s-ridge 
+type: Trip_Report 
+
+page_id: 108 
+page_menu_name: Isosceles Pk (SE Ridge) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/isosceles-pk-chocolate-pk 
+type: Trip_Report 
+
+page_id: 132 
+page_menu_name: Temple Crag (Contact Crack) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/temple-crag-contact-crack 
+type: Trip_Report 
+
+page_id: 92 
+page_menu_name: Balcony Pk (E Ridge) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/balcony-pk-e-ridge 
+type: Trip_Report 
+
+page_id: 111 
+page_menu_name: Kearsarge Pinnacles 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/kearsarge-pinnacles-1 
+type: Trip_Report 
+
+page_id: 110 
+page_menu_name: Junction Pk (SW Ridge & SE Couloir) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/junction-pk-sw-ridge-se-couloir 
+type: Trip_Report 
+
+page_id: 85 
+page_menu_name: Sierra Challenge (2006) 
+page_url: /mountaineering/trip-reports/california/sierra-challenge-2006 
+type: Trip_Report 
+
+page_id: 136 
+page_menu_name: Mt Vogelsang (E Face, E Ridge) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/mt-florence-vogelsang-simmons 
+type: Trip_Report 
+
+page_id: 123 
+page_menu_name: Pt Powell (NE Couloir) & Pt Wesley 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/pt-powell-pt-wesley-mt-powell 
+type: Trip_Report 
+
+page_id: 88 
+page_menu_name: Sierra Challenge (2010&11) 
+page_url: /mountaineering/trip-reports/california/sierra-challenge-2010 
+type: Trip_Report 
+
+page_id: 99 
+page_menu_name: Mt Colosseum (N Ridge & W Slopes) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/mt-cedric-wright-colosseum 
+type: Trip_Report 
+
+page_id: 135 
+page_menu_name: Mt Tunnabora (S Slopes) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/mt-morgenson-mt-tunnabora-the-cleaver 
+type: Trip_Report 
+
+page_id: 133 
+page_menu_name: The Thumb (S Face) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/the-thumb-ed-lane-pk 
+type: Trip_Report 
+
+page_id: 124 
+page_menu_name: Mt Ritter (N Face & SE Glacier) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/a-double-summit-delight-banner-pk-mt-ritter 
+type: Trip_Report 
+
+page_id: 131 
+page_menu_name: South Basin Pk (NE Ridge) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/basin-mtn-e-chute 
+type: Trip_Report 
+
+page_id: 114 
+page_menu_name: LeConte (NW Chute) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/corcoran-leconte-springtime-traverse 
+type: Trip_Report 
+
+page_id: 137 
+page_menu_name: Mt Wallace (N Ridge, SE Slope) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/mt-haeckel-mt-wallace 
+type: Trip_Report 
+
+page_id: 107 
+page_menu_name: Mt Humphreys (SW Couloir & NW Ridge) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/mt-humphreys-sw-couloir 
+type: Trip_Report 
+
+page_id: 121 
+page_menu_name: Palisade Crest (Gandalf Pk, N Ridge) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/mt-jepson-palisade-crest 
+type: Trip_Report 
+
+page_id: 113 
+page_menu_name: Laurel Mtn (NE Gully & E Ridge) 
+page_url: /mountaineering/trip-reports/california/laurel-mtn-ne-gully-e-ridge 
+type: Trip_Report 
+
+page_id: 116 
+page_menu_name: Mt Maclure (SE Ridge) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/mt-lyell-mt-maclure 
+type: Trip_Report 
+
+page_id: 138 
+page_menu_name: Mt Whitney (Mtneer's Rte & Trail) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/mt-whitney-muir-dayhike 
+type: Trip_Report 
+
+page_id: 125 
+page_menu_name: Round Top (Crescent Moon Couloir & W Ridge) 
+page_url: /mountaineering/trip-reports/california/a-well-rounded-summitpost-gathering 
+type: Trip_Report 
+
+page_id: 128 
+page_menu_name: Mt Shasta (Green Butte Ridge) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/green-butte-ridge 
+type: Trip_Report 
+
+page_id: 129 
+page_menu_name: Mt Shasta (Sargents Ridge) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/sargents-ridge 
+type: Trip_Report 
+
+page_id: 139 
+page_menu_name: Mt Winchell (E Arete) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/california/mt-winchell-e-arete 
+type: Trip_Report 
+
+page_id: 140 
+page_menu_name: Misc 
+page_url: /mountaineering/trip-reports/california/misc 
+type: Trip_Report 
+
+page_id: 141 
+page_menu_name: Playing Hooky from Work: A Solo Ascent of Geochronology Wall 
+page_url: /mountaineering/trip-reports/california/misc/playing-hooky-from-work-a-solo-ascent-of-geochronology-wall 
+type: Trip_Report 
+
+page_id: 142 
+page_menu_name: Urban Aid Climbing 
+page_url: /mountaineering/trip-reports/california/misc/urban-aid-climbing 
+type: Trip_Report 
+
+page_id: 143 
+page_menu_name: FA of Effervescent Glory 
+page_url: /mountaineering/trip-reports/california/misc/fa-of-effervescent-glory 
+type: Trip_Report 
+
+page_id: 144 
+page_menu_name: Canada 
+page_url: /mountaineering/trip-reports/canada 
+type: Trip_Report 
+
+page_id: 145 
+page_menu_name: Cycling and Scrambling from Calgary to Vancouver 
+page_url: /mountaineering/trip-reports/canada/cycling-and-scrambling-from-calgary-to-vancouver 
+type: Trip_Report 
+
+page_id: 146 
+page_menu_name: Part I - Calgary through the Canadian Rockies 
+page_url: /mountaineering/trip-reports/canada/cycling-and-scrambling-from-calgary-to-vancouver/part-i---calgary-through-the-canadian-rockies 
+type: Trip_Report 
+
+page_id: 147 
+page_menu_name: Part II - Lake Louise & Lake O'Hara Areas 
+page_url: /mountaineering/trip-reports/canada/cycling-and-scrambling-from-calgary-to-vancouver/part-ii---lake-louise-lake-o-hara-areas 
+type: Trip_Report 
+
+page_id: 148 
+page_menu_name: Part III - Mishaps in the Middle Ranges 
+page_url: /mountaineering/trip-reports/canada/cycling-and-scrambling-from-calgary-to-vancouver/part-iii---mishaps-in-the-middle-ranges 
+type: Trip_Report 
+
+page_id: 149 
+page_menu_name: Part IV - British Columbia's Desert?! 
+page_url: /mountaineering/trip-reports/canada/cycling-and-scrambling-from-calgary-to-vancouver/part-iv---british-columbia-s-desert 
+type: Trip_Report 
+
+page_id: 150 
+page_menu_name: Part V - Crossing the Coastal Range to Vancouver 
+page_url: /mountaineering/trip-reports/canada/cycling-and-scrambling-from-calgary-to-vancouver/part-v---crossing-the-coastal-range-to-vancouver 
+type: Trip_Report 
+
+page_id: 151 
+page_menu_name: Epilogue 
+page_url: /mountaineering/trip-reports/canada/cycling-and-scrambling-from-calgary-to-vancouver/epilogue 
+type: Trip_Report 
+
+page_id: 152 
+page_menu_name: British Columbia Interior ] 
+page_url: /mountaineering/trip-reports/canada/interior-british-columbia 
+type: Trip_Report 
+
+page_id: 153 
+page_menu_name: Gimli Pk (S Ridge) 
+page_url: /mountaineering/trip-reports/canada/gimli-pk-s-ridge 
+type: Trip_Report 
+
+page_id: 154 
+page_menu_name: The Bugaboos] 
+page_url: /mountaineering/trip-reports/canada/the-bugaboos 
+type: Trip_Report 
+
+page_id: 155 
+page_menu_name: Bugaboo Spire (NE Ridge) 
+page_url: /mountaineering/trip-reports/canada/bugaboo-spire-ne-ridge 
+type: Trip_Report 
+
+page_id: 156 
+page_menu_name: Crescent Tower (Lion's Way) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/canada/crescent-tower-lion-s-way 
+type: Trip_Report 
+
+page_id: 157 
+page_menu_name: Pigeon Spire (W Ridge) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/canada/pigeon-spire-w-ridge 
+type: Trip_Report 
+
+page_id: 158 
+page_menu_name: South Howser Tower (Beckey-Chouinard) 
+page_url: /mountaineering/trip-reports/canada/south-howser-tower-beckey-chouinard 
+type: Trip_Report 
+
+page_id: 159 
+page_menu_name: Rocky Mtns Area] 
+page_url: /mountaineering/trip-reports/canada/rocky-mtns-area 
+type: Trip_Report 
+
+page_id: 160 
+page_menu_name: Mt Cory (S Ridge) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/canada/cycling-and-scrambling-from-calgary-to-vancouver/part-i---calgary-through-the-canadian-rockies#MtCory 
+type: Trip_Report 
+
+page_id: 161 
+page_menu_name: Mt Edith (RR) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/canada/cycling-and-scrambling-from-calgary-to-vancouver/part-i---calgary-through-the-canadian-rockies#MtEdith 
+type: Trip_Report 
+
+page_id: 162 
+page_menu_name: Eiffel Pk (RR) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/canada/cycling-and-scrambling-from-calgary-to-vancouver/part-ii---lake-louise-lake-o-hara-areas#EiffelPk 
+type: Trip_Report 
+
+page_id: 163 
+page_menu_name: Mt Fairview (SE Slopes) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/canada/cycling-and-scrambling-from-calgary-to-vancouver/part-ii---lake-louise-lake-o-hara-areas#MtFairview 
+type: Trip_Report 
+
+page_id: 164 
+page_menu_name: Mt St Piran (S Slope, W Slope) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/canada/cycling-and-scrambling-from-calgary-to-vancouver/part-ii---lake-louise-lake-o-hara-areas#MtStPiran 
+type: Trip_Report 
+
+page_id: 165 
+page_menu_name: Mt Temple (SW Ridge) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/canada/cycling-and-scrambling-from-calgary-to-vancouver/part-ii---lake-louise-lake-o-hara-areas#TempleMtn 
+type: Trip_Report 
+
+page_id: 166 
+page_menu_name: Walter Feuz Pk (SE Ridge) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/canada/cycling-and-scrambling-from-calgary-to-vancouver/part-ii---lake-louise-lake-o-hara-areas#WalterFeuzPk 
+type: Trip_Report 
+
+page_id: 167 
+page_menu_name: Coastal Range Area] 
+page_url: /mountaineering/trip-reports/canada/coastal-range-area 
+type: Trip_Report 
+
+page_id: 168 
+page_menu_name: Flute Pk (Musical Bumps Traverse) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/canada/cycling-and-scrambling-from-calgary-to-vancouver/part-v---crossing-the-coastal-range-to-vancouver#FlutePk 
+type: Trip_Report 
+
+page_id: 169 
+page_menu_name: Piccolo Pk (Musical Bumps Traverse) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/canada/cycling-and-scrambling-from-calgary-to-vancouver/part-v---crossing-the-coastal-range-to-vancouver#PiccoloPk 
+type: Trip_Report 
+
+page_id: 170 
+page_menu_name: Whistler Mtn (Tram) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/canada/cycling-and-scrambling-from-calgary-to-vancouver/part-v---crossing-the-coastal-range-to-vancouver#WhistlerMtn 
+type: Trip_Report 
+
+page_id: 171 
+page_menu_name: Colorado 
+page_url: /mountaineering/trip-reports/colorado 
+type: Trip_Report 
+
+page_id: 172 
+page_menu_name: Colorado Rock Climbs 
+page_url: /mountaineering/trip-reports/colorado/colorado-rock-climbs 
+type: Trip_Report 
+
+page_id: 173 
+page_menu_name: Capitol Pk (NE Ridge) (Attempt) 
+page_url: /mountaineering/trip-reports/colorado/summit-or-plummet-an-sp-attempt-on-capitol-pk 
+type: Trip_Report 
+
+page_id: 174 
+page_menu_name: Mt Elbert (NE Ridge) 
+page_url: /mountaineering/trip-reports/colorado/mt-elbert-ne-ridge 
+type: Trip_Report 
+
+page_id: 175 
+page_menu_name: Handies Pk (S Ridge-Grouse Gulch) 
+page_url: /mountaineering/trip-reports/colorado/handies-pk-s-ridge-grouse-gulch 
+type: Trip_Report 
+
+page_id: 176 
+page_menu_name: Wilson Pk (NW Ridge)(Attempt) 
+page_url: /mountaineering/trip-reports/colorado/wilson-pk-nw-ridge-attempt 
+type: Trip_Report 
+
+page_id: 177 
+page_menu_name: Idaho 
+page_url: /mountaineering/trip-reports/idaho 
+type: Trip_Report 
+
+page_id: 178 
+page_menu_name: Borah Pk (Chicken-Out Ridge) 
+page_url: /mountaineering/trip-reports/idaho/borah-pk-chicken-out-ridge 
+type: Trip_Report 
+
+page_id: 179 
+page_menu_name: Nevada 
+page_url: /mountaineering/trip-reports/nevada 
+type: Trip_Report 
+
+page_id: 180 
+page_menu_name: Boundary Pk (NW Ridge & N Ridge) 
+page_url: /mountaineering/trip-reports/nevada/boundary-pk-nw-ridge-n-ridge 
+type: Trip_Report 
+
+page_id: 181 
+page_menu_name: New York 
+page_url: /mountaineering/trip-reports/new-york 
+type: Trip_Report 
+
+page_id: 182 
+page_menu_name: Gunks Climbing 
+page_url: /mountaineering/trip-reports/new-york/gunks-climbing 
+type: Trip_Report 
+
+page_id: 183 
+page_menu_name: Oregon 
+page_url: /mountaineering/trip-reports/oregon 
+type: Trip_Report 
+
+page_id: 184 
+page_menu_name: Monkey Face (Pioneer Rte.) 
+page_url: /mountaineering/trip-reports/oregon/-monkey-face-pioneer-rte 
+type: Trip_Report 
+
+page_id: 185 
+page_menu_name: North Sister (SW Ridge) 
+page_url: /mountaineering/trip-reports/oregon/-north-sister-sw-ridge 
+type: Trip_Report 
+
+page_id: 186 
+page_menu_name: Utah 
+page_url: /mountaineering/trip-reports/utah 
+type: Trip_Report 
+
+page_id: 187 
+page_menu_name: Desert Rock Climbs 
+page_url: /mountaineering/trip-reports/utah/desert-rock-climbs 
+type: Trip_Report 
+
+page_id: 188 
+page_menu_name: Indian Creek] 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/utah/indian-creek 
+type: Trip_Report 
+
+page_id: 189 
+page_menu_name: Ancient Art (Lost Chimney) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/utah/Ancient-Art-Lost-Chimney 
+type: Trip_Report 
+
+page_id: 190 
+page_menu_name: Castleton Tower (Kor-Ingalls) 
+page_url: /mountaineering/trip-reports/utah/desert-rock-climbs/castleton-tower-kor-ingalls 
+type: Trip_Report 
+
+page_id: 191 
+page_menu_name: Devil's Golf Ball (Happy Turk) 
+page_url: /mountaineering/trip-reports/utah/devil-s-golf-ball-happy-turk 
+type: Trip_Report 
+
+page_id: 192 
+page_menu_name: Dark Angel (W Face) 
+page_url: /mountaineering/trip-reports/utah/dark-angel 
+type: Trip_Report 
+
+page_id: 193 
+page_menu_name: Lizard Rock (Entrance Fee) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/utah/dark-angel 
+type: Trip_Report 
+
+page_id: 194 
+page_menu_name: Three Penguins (Right Chimney) 
+page_url: /mountaineering/trip-reports/utah/three-penguins-right-chimney 
+type: Trip_Report 
+
+page_id: 195 
+page_menu_name: Washer Woman (In Search of Suds) 
+page_url: /mountaineering/trip-reports/utah/desert-rock-climbs/washerwoman-in-search-of-suds 
+type: Trip_Report 
+
+page_id: 196 
+page_menu_name: Wasatch Rock Climbs 
+page_url: /mountaineering/trip-reports/utah/wasatch-rock-climbs 
+type: Trip_Report 
+
+page_id: 197 
+page_menu_name: Mt Timpanogos (Everest Ridge Attempt) (Winter) 
+page_url: /mountaineering/trip-reports/utah/a-failed-attempt-of-everest-ridge-on-mt-timpanogos 
+type: Trip_Report 
+
+page_id: 198 
+page_menu_name: Mt Timpanogos (Everest Ridge) (Winter) 
+page_url: /mountaineering/trip-reports/utah/climbing-everest-ridge-on-mt-timpanogos 
+type: Trip_Report 
+
+page_id: 199 
+page_menu_name: Storm Mtn (W Ridge) 
+page_url: /mountaineering/trip-reports/utah/geocache---hiking-storm-mountain 
+type: Trip_Report 
+
+page_id: 200 
+page_menu_name: Box Elder Pk (NE Ridge) 
+page_url: /mountaineering/trip-reports/utah/lady-bug-summit---hiking-box-elder-s-ne-ridge 
+type: Trip_Report 
+
+page_id: 201 
+page_menu_name: Mt Nebo (Cedar Ridge Attempt) (Winter) 
+page_url: /mountaineering/trip-reports/utah/surviving-a-1-000-ft-fall-on-mt-nebo 
+type: Trip_Report 
+
+page_id: 202 
+page_menu_name: Washington 
+page_url: /mountaineering/trip-reports/washington 
+type: Trip_Report 
+
+page_id: 203 
+page_menu_name: Mt Rainier (Curtis Ridge) (Attempt) 
+page_url: /mountaineering/trip-reports/washington/curtis-ridge-attempt 
+type: Trip_Report 
+
+page_id: 204 
+page_menu_name: Mt Rainier (DC Route) 
+page_url: /mountaineering/trip-reports/washington/mt-rainier-dc-route 
+type: Trip_Report 
+
+page_id: 205 
+page_menu_name: Mt Rainier (Liberty Ridge) 
+page_url: /mountaineering/trip-reports/washington/mt-rainier-liberty-ridge 
+type: Trip_Report 
+
+page_id: 206 
+page_menu_name: Mt Rainier (Ptarmigan Ridge) 
+page_url: /mountaineering/trip-reports/washington/mt-rainier-ptarmigan-ridge 
+type: Trip_Report 
+
+page_id: 207 
+page_menu_name: Early Washington Trips 
+page_url: /mountaineering/trip-reports/washington/-early-washington-trips 
+type: Trip_Report 
+
+page_id: 208 
+page_menu_name: Wyoming 
+page_url: /mountaineering/trip-reports/wyoming 
+type: Trip_Report 
+
+page_id: 209 
+page_menu_name: Teton Grand Slam 
+page_url: /mountaineering/trip-reports/wyoming/teton-grand-slam-8-classic-routes-and-some-traverses-done-over-a-9-day-climbing-marathon 
+type: Trip_Report 
+
+page_id: 210 
+page_menu_name: Day 1: Garnet Canyon Approach and the North Ridge of Middle Teton (II, 5.6) 
+page_url: /mountaineering/trip-reports/wyoming/teton-grand-slam-8-classic-routes-and-some-traverses-done-over-a-9-day-climbing-marathon/day-1-garnet-canyon-approach-and-the-north-ridge-of-middle-teton-ii-5-6 
+type: Trip_Report 
+
+page_id: 211 
+page_menu_name: Day 2: Complete Exum Ridge of the Grand Teton (III, 5.7) 
+page_url: /mountaineering/trip-reports/wyoming/teton-grand-slam-8-classic-routes-and-some-traverses-done-over-a-9-day-climbing-marathon/day-2-complete-exum-ridge-of-the-grand-teton-iii-5-7 
+type: Trip_Report 
+
+page_id: 212 
+page_menu_name: Day 3: The Valhalla Traverse (II, cl. 3-4) 
+page_url: /mountaineering/trip-reports/wyoming/teton-grand-slam-8-classic-routes-and-some-traverses-done-over-a-9-day-climbing-marathon/day-3-the-valhalla-traverse-ii-cl-3-4 
+type: Trip_Report 
+
+page_id: 213 
+page_menu_name: Day 4: Serendipity Arete of Mt Owen (IV, 5.9) 
+page_url: /mountaineering/trip-reports/wyoming/teton-grand-slam-8-classic-routes-and-some-traverses-done-over-a-9-day-climbing-marathon/day-4-serendipity-arete-of-mt-owen-iv-5-9 
+type: Trip_Report 
+
+page_id: 214 
+page_menu_name: Day 5: Owen-Grandstand Traverse (II, 5.7) 
+page_url: /mountaineering/trip-reports/wyoming/teton-grand-slam-8-classic-routes-and-some-traverses-done-over-a-9-day-climbing-marathon/day-5-owen-grandstand-traverse-ii-5-7 
+type: Trip_Report 
+
+page_id: 215 
+page_menu_name: Day 6: North Ridge of the Grand Teton (Italian Cracks Variation)(IV, 5.7) 
+page_url: /mountaineering/trip-reports/wyoming/teton-grand-slam-8-classic-routes-and-some-traverses-done-over-a-9-day-climbing-marathon/day-6-north-ridge-of-the-grand-teton-italian-cracks-variation-iv-5-7 
+type: Trip_Report 
+
+page_id: 216 
+page_menu_name: Day 7: Black Dike Traverse (II, cl. 3-4, moderate snow) and the Southwest Couloir of Mt Teewinot (II, cl. 4) 
+page_url: /mountaineering/trip-reports/wyoming/teton-grand-slam-8-classic-routes-and-some-traverses-done-over-a-9-day-climbing-marathon/day-7-black-dike-traverse-ii-cl-3-4-moderate-snow 
+type: Trip_Report 
+
+page_id: 217 
+page_menu_name: Day 8: Mt Teewinot via the Southwest Couloir (II, cl. 4) and East Face Descent (II, cl. 4) 
+page_url: /mountaineering/trip-reports/wyoming/teton-grand-slam-8-classic-routes-and-some-traverses-done-over-a-9-day-climbing-marathon/day-8-mt-teewinot-via-the-southwest-couloir-ii-cl-4-and-east-face-descent-ii-cl-4 
+type: Trip_Report 
+
+page_id: 218 
+page_menu_name: Day 9: Southwest Ridge of Symmetry Spire (II, 5.7) 
+page_url: /mountaineering/trip-reports/wyoming/teton-grand-slam-8-classic-routes-and-some-traverses-done-over-a-9-day-climbing-marathon/day-9-southwest-ridge-of-symmetry-spire-ii-5-7 
+type: Trip_Report 
+
+page_id: 219 
+page_menu_name: Devils Tower Climbs 
+page_url: /mountaineering/trip-reports/wyoming/devils-tower-climbs 
+type: Trip_Report 
+
+page_id: 220 
+page_menu_name: Cirque of the Towers] 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/wyoming/cirque-of-the-towers 
+type: Trip_Report 
+
+page_id: 221 
+page_menu_name: Pingora (NE Face) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/wyoming/pingora-ne-face 
+type: Trip_Report 
+
+page_id: 224 
+page_menu_name: Wolf's Head (E Ridge) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/wyoming/pingora-south-face-and-wolfs-head 
+type: Trip_Report 
+
+page_id: 223 
+page_menu_name: Warbonnet (NE Face, L) 
+page_url: /mountaineering/trip-reports/wyoming/war-bonnet-ne-face-l 
+type: Trip_Report 
+
+page_id: 225 
+page_menu_name: The Tetons] 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/wyoming/the-tetons 
+type: Trip_Report 
+
+page_id: 226 
+page_menu_name: Disappointment Peak (Irene's Arete) 
+page_url: /mountaineering/trip-reports/wyoming/disappointment-peak---irene-s-arete 
+type: Trip_Report 
+
+page_id: 227 
+page_menu_name: Grand Teton (Exum Ridge - Complete) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/wyoming/teton-grand-slam-8-classic-routes-and-some-traverses-done-over-a-9-day-climbing-marathon/day-2-complete-exum-ridge-of-the-grand-teton-iii-5-7 
+type: Trip_Report 
+
+page_id: 228 
+page_menu_name: Grand Teton (Exum Ridge - Upper) 
+page_url: /mountaineering/trip-reports/wyoming/a-windy-day-on-the-grand-teton 
+type: Trip_Report 
+
+page_id: 229 
+page_menu_name: Grand Teton (N Ridge)(Italian Cracks) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/wyoming/teton-grand-slam-8-classic-routes-and-some-traverses-done-over-a-9-day-climbing-marathon/day-6-north-ridge-of-the-grand-teton-italian-cracks-variation-iv-5-7 
+type: Trip_Report 
+
+page_id: 230 
+page_menu_name: Middle Teton (N Ridge) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/wyoming/teton-grand-slam-8-classic-routes-and-some-traverses-done-over-a-9-day-climbing-marathon/day-1-garnet-canyon-approach-and-the-north-ridge-of-middle-teton-ii-5-6 
+type: Trip_Report 
+
+page_id: 231 
+page_menu_name: Mt Owen (Serendipity Arete) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/wyoming/teton-grand-slam-8-classic-routes-and-some-traverses-done-over-a-9-day-climbing-marathon/day-4-serendipity-arete-of-mt-owen-iv-5-9 
+type: Trip_Report 
+
+page_id: 232 
+page_menu_name: Symmetry Spire (SW Ridge) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/wyoming/teton-grand-slam-8-classic-routes-and-some-traverses-done-over-a-9-day-climbing-marathon/day-9-southwest-ridge-of-symmetry-spire-ii-5-7 
+type: Trip_Report 
+
+page_id: 233 
+page_menu_name: Mt Teewinot (SW Couloir) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/wyoming/teton-grand-slam-8-classic-routes-and-some-traverses-done-over-a-9-day-climbing-marathon/day-7-black-dike-traverse-ii-cl-3-4-moderate-snow 
+type: Trip_Report 
+
+page_id: 234 
+page_menu_name: Mt Teewinot (E Face) 
+page_url: http://www.markpthomas.com/mountaineering/trip-reports/wyoming/teton-grand-slam-8-classic-routes-and-some-traverses-done-over-a-9-day-climbing-marathon/day-8-mt-teewinot-via-the-southwest-couloir-ii-cl-4-and-east-face-descent-ii-cl-4 
+type: Trip_Report 
+
+page_id: 235 
+page_menu_name: Gannett Peak (Pole Creek) 
+page_url: /mountaineering/trip-reports/wyoming/gannett-peak-the-hard-way-in-one-day 
+type: Trip_Report 
+
+page_id: 236 
+page_menu_name: Early Wyoming Trips 
+page_url: /mountaineering/trip-reports/wyoming/early-wyoming-trips 
+type: Trip_Report 
+

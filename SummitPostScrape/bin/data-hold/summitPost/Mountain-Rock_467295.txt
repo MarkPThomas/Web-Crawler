@@ -116,6 +116,7 @@ date:
 difficulty:  
 elevation: 8656 
 grade:  
+hits: 12002  
 id: 467295 
 latitude: 40.68243 
 location: Utah, United States, North America 
@@ -124,6 +125,9 @@ my_route_quality:
 name: Thayne Peak 
 number_of_pitches:  
 page_url: http://www.summitpost.org/thayne-peak/467295 
+parent_code: 171209 
+parent_name: Wasatch Range (Central) 
+parent_url: /wasatch-range-central/171209 
 rock_difficulty:  
 route_quality:  
 route_type:  

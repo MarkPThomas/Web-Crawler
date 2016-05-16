@@ -49,6 +49,7 @@ date:
 difficulty: WI3 
 elevation:  
 grade: II 
+hits: 11211  
 id: 248606 
 latitude:  
 location: Utah, United States, North America 
@@ -57,6 +58,9 @@ my_route_quality:
 name: The Great White Icicle 
 number_of_pitches: 4 
 page_url: http://www.summitpost.org/the-great-white-icicle/248606 
+parent_code: 695851 
+parent_name: Utah Ice Climbs 
+parent_url: /utah-ice-climbs/695851 
 rock_difficulty:  
 route_quality: 1.0 
 route_type: Ice Climbing 

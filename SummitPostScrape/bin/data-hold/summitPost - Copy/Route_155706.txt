@@ -1,0 +1,54 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Approach</h2>
+<br>
+The climb starts from the top of the U-Notch above the Palisade Glacier. You can find more information on <a href="http://www.summitpost.com/mountains/route_link.pl/route_id/101/object_id/262">getting to the U-Notch</a> on the North Palisade page.<br>
+<a name="chapter_2"></a><h2>Route Description</h2>
+<br>
+From the top of the U-Notch, climb up a wide crack to the right. If you need to use a rope here, you'll likely want one later, but if you are comfortable soloing this section, you can leave your rope behind. Secor rates it class 5.2, but I don't think it warrants more than a class 4 rating.<br>
+<br>
+Once above this first short section of about 20 feet, it flattens out a bit, and you can traverse around to the right over large rocks and a thin ledge that skirts the base of the west face (class 2-3 here), to the base of the SW ridge.<br>
+<br>
+There is another class 4 section here that goes up the easier rock on the right side of the west face, climbing up and diagonally to the right where it meets the SW ridge. Leave your rope on the ridge (if you brought it this far), and climb the ridge to the summit. There are some really large rocks to surrmount near the summit, and some interesting class 3 problems. There should be no need to climb more than easy class 4 here. <br>
+<br>
+Some individuals bypass the large summit blocks by traversing around the south side to the SE Ridge, but that doesn't seem to offer any real advantage.<br>
+<br>
+For those that choose to rap down, <a href="http://www.summitpost.com/mountains/user_link.pl?user_id=583">Diggler</a> offers this comment: <i>poorly placed rap stations (length of rappel fine, but rope runs over rock, and the possibility exists of the rope getting stuck (mine almost did twice!!).</i> Now that I think about it, my rope <i>did</i> get stuck on the upper class 4 section the first time I climbed it, and I ended up soloing back to the top of the section to free it.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr><td><a href="/view_object.php?object_id=1599" rel="no_follow"><img src="/images/thumb/1599.jpg"></a></td></tr></table>
+<a name="chapter_3"></a><h2>Essential Gear</h2>
+<br>
+Coming from the north side, you will likely need axe and crampons to climb the U-Notch (you can leave them at the top of the U-Notch). If you are comfortable climbing class 4 you can leave your rope at home. If not, bring a standard 50m rope to use for the three pitches along with some slings and a small assortment of gear. We brought only a set of odd-numbered nuts which proved more than sufficient.<br>
+<a name="chapter_4"></a><h2>Miscellaneous Info</h2>
+<br>
+If you have information about this route that doesn't pertain to any of the other sections, please add it here.<br>
+<a name="chapter_5"></a><h2>Images</h2>
+<div align="center"><table id="my_images"><tr>
+<td><a href="/partners-in-crime/326012/c-155706"><img alt="partners in crime" src="/images/square/326012.jpg"></a></td>
+<td><a href="/u-notch-route-to-polemonium/633482/c-155706"><img alt="U-Notch Route to Polemonium" src="/images/square/633482.jpg"></a></td>
+<td><a href="/climbing-polemonium-from-the/1599/c-155706"><img alt="Climbing Polemonium from the..." src="/images/square/1599.jpg"></a></td>
+<td><a href="/polemonium/630948/c-155706"><img alt="Polemonium" src="/images/square/630948.jpg"></a></td>
+<td><a href="/in-the-notch/630942/c-155706"><img alt="in the notch" src="/images/square/630942.jpg"></a></td>
+<td><a href="/bird-s-eye-view-of-polemonium/529476/c-155706"><img alt="Bird\'s eye view of Polemonium" src="/images/square/529476.jpg"></a></td>
+</tr></table></div>
+            </article> 
+date:  
+difficulty: Class 4 
+elevation:  
+grade:  
+id: 155706 
+latitude: 37.0936 
+location: California, United States, North America 
+longitude: -118.5111 
+my_route_quality:  
+name: From the U-Notch 
+number_of_pitches:  
+page_url: http://www.summitpost.org/from-the-u-notch/155706 
+rock_difficulty:  
+route_quality: 0.8923076923076924 
+route_type: Scramble/Technical Rock Climb 
+seasons:  
+time_required: Less than two hours 
+type: Route 
+

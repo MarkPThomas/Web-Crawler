@@ -102,6 +102,7 @@ date:
 difficulty: II, 5.7 R (class 3, technical 20' crux) 
 elevation:  
 grade:  
+hits: 9040  
 id: 160008 
 latitude: 40.5939 
 location: Utah, United States, North America 
@@ -110,6 +111,9 @@ my_route_quality:
 name: Lisa Falls Direct 
 number_of_pitches:  
 page_url: http://www.summitpost.org/lisa-falls-direct/160008 
+parent_code: 150522 
+parent_name: Broads Fork Twin Peaks 
+parent_url: /broads-fork-twin-peaks/150522 
 rock_difficulty:  
 route_quality: 0.8 
 route_type: scramble 

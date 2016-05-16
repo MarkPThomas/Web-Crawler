@@ -28,6 +28,7 @@ date:
 difficulty: Class 1-2 
 elevation:  
 grade:  
+hits: 3811  
 id: 161610 
 latitude: 40.5907 
 location: Utah, United States, North America 
@@ -36,6 +37,9 @@ my_route_quality:
 name: Snake Creek Pass Trails 
 number_of_pitches:  
 page_url: http://www.summitpost.org/snake-creek-pass-trails/161610 
+parent_code: 152854 
+parent_name: Mount Majestic (Clayton Peak) 
+parent_url: /mount-majestic-clayton-peak/152854 
 rock_difficulty:  
 route_quality: 0.8 
 route_type: Hike 

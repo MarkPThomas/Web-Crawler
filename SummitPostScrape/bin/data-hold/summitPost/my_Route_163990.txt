@@ -37,6 +37,7 @@ date:
 difficulty: Class 4 
 elevation:  
 grade:  
+hits: 1862  
 id: 163990 
 latitude: 37.2914 
 location: California, United States, North America 
@@ -45,6 +46,9 @@ my_route_quality:
 name: Northeast Ridge 
 number_of_pitches:  
 page_url: http://www.summitpost.org/northeast-ridge/163990 
+parent_code: 153693 
+parent_name: South Basin Peak (pt. 13,240') 
+parent_url: /south-basin-peak-pt-13-240/153693 
 rock_difficulty:  
 route_quality: 1.0 
 route_type: Scramble 

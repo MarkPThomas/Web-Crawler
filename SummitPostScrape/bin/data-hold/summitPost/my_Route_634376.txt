@@ -107,6 +107,7 @@ date:
 difficulty:  
 elevation:  
 grade:  
+hits: 6306  
 id: 634376 
 latitude:  
 location: California, United States, North America 
@@ -115,6 +116,9 @@ my_route_quality:
 name: East Arete 
 number_of_pitches:  
 page_url: http://www.summitpost.org/east-arete/634376 
+parent_code: 151010 
+parent_name: Mount Winchell 
+parent_url: /mount-winchell/151010 
 rock_difficulty: Class 3 
 route_quality: 1.0 
 route_type: Scrambling 

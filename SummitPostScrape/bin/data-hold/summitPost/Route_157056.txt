@@ -54,6 +54,7 @@ date:
 difficulty: II, 5.4 
 elevation:  
 grade:  
+hits: 7865  
 id: 157056 
 latitude: 37.242 
 location: California, United States, North America 
@@ -62,6 +63,9 @@ my_route_quality:
 name: Southeast Face 
 number_of_pitches:  
 page_url: http://www.summitpost.org/southeast-face/157056 
+parent_code: 151241 
+parent_name: Mount Emerson 
+parent_url: /mount-emerson/151241 
 rock_difficulty:  
 route_quality: 1.0 
 route_type: Technical rock 

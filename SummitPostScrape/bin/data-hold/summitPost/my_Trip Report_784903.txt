@@ -372,6 +372,7 @@ date: Oct 23, 2011
 difficulty:  
 elevation:  
 grade:  
+hits: 2923  
 id: 784903 
 latitude:  
 location: California, United States, North America 
@@ -380,6 +381,9 @@ my_route_quality:
 name: CNRoLPP - My First (Accidental) Grade V Climb 
 number_of_pitches:  
 page_url: http://www.summitpost.org/cnrolpp-my-first-accidental-grade-v-climb/784903 
+parent_code: 150606 
+parent_name: Lone Pine Peak 
+parent_url: /lone-pine-peak/150606 
 rock_difficulty:  
 route_quality:  
 route_type:  

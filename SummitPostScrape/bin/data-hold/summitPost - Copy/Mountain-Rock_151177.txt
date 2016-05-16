@@ -1,0 +1,113 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>
+<br>
+The Pfeifferhorn is a majestic peak, which is located east of Salt Lake City, Utah in the Wasatch mountain range. It's easy access, proximity to alpine lakes and short trail make it a popular hike year-round. The easiest route involves moderately steep hiking and a short 3rd class section. Since only a few mountains in the Wasatch are higher than Pfeifferhorn, the rewards are breathtaking views of the Salt Lake valley and surrounding mountains. Also, mountain goats can be frequently seen above upper Red Pine lake.<br>
+<br>
+The Pfeifferhorn is recorded as "Little Matterhorn" on USGS maps. The mountain is known as the Pfeifferhorn, in honor of Chuck Pfeiffer, a local climber who was the leader of the Wasatch Club.<br>
+<p></p>
+<table class="inline_image_thumbs"><tbody><tr>
+<td><a href="/view_object.php?object_id=11160" rel="no_follow"><img src="/images/thumb/11160.JPG"></a></td>
+<td><a href="/view_object.php?object_id=12651" rel="no_follow"><img src="/images/thumb/12651.jpg"></a></td>
+<td><a href="/view_object.php?object_id=19693" rel="no_follow"><img style="" src="/images/thumb/19693.jpg"></a></td>
+<td><a href="/view_object.php?object_id=12650" rel="no_follow"><img src="/images/thumb/12650.jpg"></a></td>
+<td><a href="/view_object.php?object_id=116879" rel="no_follow"><img src="/images/thumb/116879.JPG"></a></td>
+</tr></tbody></table>
+<p></p>
+<a name="chapter_2"></a><h2>Getting There</h2>
+<br>
+From the 6200 South exit of I-215, head East and South on 190 for about 2 miles to the intersection with Big Cottonwood Canyon, continue straight on 210 through the light (South) for about 4 miles to the mouth of Little Cottonwood, continue straight and East for about 5.5 miles to White Pine Trail head on the right. There is enough parking for about 50 cars. Toilet facilities are at the trailhead. <br>
+<br>
+The easiest and most popular route is the <a href="http://www.summitpost.org/show/route_link.pl/route_id/1593/object_id/1236">East Ridge</a> via Red Pine Lake trail up Little Cottonwood Canyon. The trail is approximately 3 miles to lower Red Pine lake and roughly 1/2 mile to the upper Red Pine Lake.  From here proceed southwest up the steep talus slope to the top of the 'false summit'.  A well-defined trail should be visible here in the absence of snow.   Continue west along the ridge through a series of large boulders to a second steep slope.  You can either wrap around this slope to the south and switch-back up to the summit (easier) or just continue west 'til you reach the summit (steep).<br>
+<br>
+Another way to climb Pfeifferhorn is to hike in through Maybird Gulch. A small foot bridge breaks off to the right from the Red Pine Lake trail and will take you into Maybird. You will pass 3 small lakes nestled under the Hogum Divide with the Pfeifferhorn rising straight ahead. Once past the uppermost lake you will find yourself in a large boulder field (granite talus) which is difficult and slow to cross. At the other side, a steep scramble will take you to the summit base. You can make a loop trip starting at Maybird Gulch, climbing to the peak, then down by way of upper/lower Red Pine lakes or vise-visa. <br>
+<br>
+<p></p>
+<table class="inline_image_thumbs"><tbody><tr>
+<td><a href="/view_object.php?object_id=125032" rel="no_follow"><img src="/images/thumb/125032.JPG"></a></td>
+<td><a href="/view_object.php?object_id=94693" rel="no_follow"><img src="/images/thumb/94693.jpg"></a></td>
+<td><a href="/view_object.php?object_id=94695" rel="no_follow"><img style="" src="/images/thumb/94695.jpg"></a></td>
+<td><a href="/view_object.php?object_id=114581" rel="no_follow"><img src="/images/thumb/114581.JPG"></a></td>
+</tr></tbody></table>
+<p></p>
+<a name="chapter_3"></a><h2>Red Tape</h2>
+<br>
+No permits are required and there are no fees. The Pfeifferhorn sits in the <a href="http://www.fs.fed.us/r4/wcnf/unit/slrd/wilderness/lone_peak_wilderness.shtml">Lone Peak Wilderness area</a>. Please practice <a href="http://www.lnt.org">"Leave No Trace"</a> principles,<br>
+<br>
+<u>The following acts are prohibited:</u><br>
+ - Group sizes exceeding 10 persons.<br>
+ - Camping within 200 feet of lakes, trails, or other sources of water.<br>
+ - Camping for more than 3 days at one site.<br>
+ - Short cutting a trail switchback.<br>
+ - Disposing of garbage, debris, or other waste.<br>
+ - Open fires in the Red Pine Fork and Maybird Gulch drainages.<br>
+<a name="chapter_4"></a><h2>When To Climb</h2>
+<br>
+Typically climbed in the spring, summer and fall months, but also in winter as a ski/mountaineering outing.  If you want to try doing this in the winter I strongly recommend taking a beacon, probe, and snow shovel for everyone in your party.<br>
+<a name="chapter_5"></a><h2>Camping</h2>
+<br>
+Backcountry camping is allowed as long as you're at least 200 feet away from any running water or lake. The most common area is Red Pine Lakes. Maybird gulch would be a good place as well.<br>
+<a name="chapter_6"></a><h2>Mountain Conditions</h2>
+<br>
+For current conditions please check <a href="http://www.wrh.noaa.gov/slc/snow/mtn.php">Northern Utah Mountain Weather Forecast</a> and <a href="http://www.avalanche.org/%7Euac/advisory_w_glossary.htm">Wasatch Avalanche Advisory</a>.<br>
+<a name="chapter_7"></a><h2>External Links</h2>
+<ul>
+<li>
+<a href="http://www.sltrib.com/sltrib/news/56405838-78/wasatch-geographic-names-peak.html.csp">"Pfeifferhorn" is now the peak's official name</a><br>
+</li>
+<li>
+<a href="http://www.topozone.com/map.asp?lat=40.5271&amp;lon=-111.7018&amp;s=50&amp;size=l&amp;symshow=n&amp;datum=nad83&amp;layer=DRG25">Topo</a><br>
+ The Pfeifferhorn is referred to Little Matterhorn on the Topo<br>
+</li>
+<li>
+<a href="http://mtncommunity.org/dcforum/DCForumID1/1583.html">mtncommunity.org</a><br>
+ Trip Report of a winter ascent of the North Ridge<br>
+</li>
+<li>
+<a href="http://fritzrips.com/v-web/bulletin/bb/viewtopic.php?t=105&amp;sid=ca1b65ecc84033edbdd3be61d6e12daa">NW Couloir of the Pfeiff 3-9-05</a><br>
+ <br>
+</li>
+</ul>
+<a name="chapter_8"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/the-pfeifferhorn/507626/c-151177"><img alt="The Pfeifferhorn" src="/images/square/507626.JPG"></a></td>
+<td><a href="/alpine-ridge-viewed-from-twin-lakes-pass/453964/c-151177"><img alt="Alpine Ridge viewed from Twin Lakes Pass." src="/images/square/453964.jpg"></a></td>
+<td><a href="/march-12-2005-the/94826/c-151177"><img alt="March 12, 2005 - The..." src="/images/square/94826.jpg"></a></td>
+<td><a href="/pfeifferhorn/461607/c-151177"><img alt="Pfeifferhorn" src="/images/square/461607.jpg"></a></td>
+<td><a href="/pheifferhorn/580854/c-151177"><img alt="Pheifferhorn" src="/images/square/580854.JPG"></a></td>
+<td><a href="/pfeifferhorn/844094/c-151177"><img alt="Pfeifferhorn" src="/images/square/844094.jpg"></a></td>
+<td><a href="/pfeifferhorn-over-maybird-lakes/470692/c-151177"><img alt="Pfeifferhorn over Maybird lakes" src="/images/square/470692.JPG"></a></td>
+</tr>
+<tr>
+<td><a href="/looking-back-at-red-pine-lake/141407/c-151177"><img alt="Looking back at Red Pine Lake..." src="/images/square/141407.jpg"></a></td>
+<td><a href="/alpine-ridge-pfeiffhorn-to-south-thunder-mtn/235176/c-151177"><img alt="Alpine Ridge (Pfeiffhorn to South Thunder Mtn)" src="/images/square/235176.jpg"></a></td>
+<td><a href="/north-ridge/250281/c-151177"><img alt="North Ridge" src="/images/square/250281.JPG"></a></td>
+<td><a href="/pfeifferhorn/234976/c-151177"><img alt="Pfeifferhorn" src="/images/square/234976.jpg"></a></td>
+<td><a href="/reflection-of-the-destination/419134/c-151177"><img alt="Reflection of the Destination" src="/images/square/419134.JPG"></a></td>
+<td><a href="/silver-creek-from-sub-pfeiff/204581/c-151177"><img alt="Silver Creek from Sub-Pfeiff" src="/images/square/204581.jpg"></a></td>
+<td><a href="/red-pine-lakes/510961/c-151177"><img alt="Red Pine Lakes" src="/images/square/510961.jpg"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/pfeifferhorn/images/p-151177">View Gallery - 320 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty:  
+elevation: 11326 
+grade:  
+id: 151177 
+latitude: 40.5337 
+location: Utah, United States, North America 
+longitude: -111.7052 
+my_route_quality:  
+name: Pfeifferhorn 
+number_of_pitches:  
+page_url: http://www.summitpost.org/pfeifferhorn/151177 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons:  
+time_required:  
+type: Mountain-Rock 
+

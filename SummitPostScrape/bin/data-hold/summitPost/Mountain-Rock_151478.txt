@@ -246,6 +246,7 @@ date:
 difficulty:  
 elevation: 3400 
 grade:  
+hits: 35315  
 id: 151478 
 latitude: 44.3678 
 location: Oregon, United States, North America 
@@ -254,6 +255,9 @@ my_route_quality:
 name: Smith:  Monkey Face 
 number_of_pitches:  
 page_url: http://www.summitpost.org/smith-monkey-face/151478 
+parent_code: 184038 
+parent_name: Smith Rock Crags 
+parent_url: /smith-rock-crags/184038 
 rock_difficulty:  
 route_quality:  
 route_type:  

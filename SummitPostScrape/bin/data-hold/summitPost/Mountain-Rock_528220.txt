@@ -31,6 +31,7 @@ date:
 difficulty:  
 elevation: 13927 
 grade:  
+hits: 7826  
 id: 528220 
 latitude: 36.5916 
 location: California, United States, North America 
@@ -39,6 +40,9 @@ my_route_quality:
 name: “Mount Morgenson” (0.5 mi W of Mt. Russell) 
 number_of_pitches:  
 page_url: http://www.summitpost.org/mount-morgenson-0-5-mi-w-of-mt-russell/528220 
+parent_code: 171134 
+parent_name: Sequoia/Kings Canyon NP 
+parent_url: /sequoia-kings-canyon-np/171134 
 rock_difficulty:  
 route_quality:  
 route_type:  

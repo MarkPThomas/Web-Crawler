@@ -1,0 +1,47 @@
+content: <div dir="ltr">
+<h1>
+<a name="TOC-Sierra-Challenge-2005-"></a>Sierra Challenge (2005)</h1>
+<hr>
+<hr>
+<h2>
+<a name="TOC-Links"></a>Links</h2>
+<ul><li><a href="http://www.snwburd.com/bob/challenge/2005/">Bob Burd's Sierra Challenge TR &amp; Photos</a></li></ul>
+<hr>
+<center>
+<br>
+<br>
+<a href="http://www.markpthomas.com/mountaineering/trip-reports/california/mt-hilgard-pipsqueak-spire">Day 1: Mt Hilgard &amp; Pipsqueak Spire</a><br>
+<br>
+<a href="http://www.markpthomas.com/mountaineering/trip-reports/california/merriam-e-face">Day 2: Merriam Pk (NE Face, NW Ridge)</a><br>
+<br>
+<a href="http://www.markpthomas.com/mountaineering/trip-reports/california/mt-emerson-se-couloir">Day 3: Mt Emerson SE Couloir</a><br>
+<br>
+<a href="http://www.markpthomas.com/mountaineering/trip-reports/california/mt-lamarck">Day 4: Lamarck</a><br>
+<br>
+<a href="http://www.markpthomas.com/mountaineering/trip-reports/california/clyde-spires-s-ridge">Day 5: Clyde Spires</a><br>
+<br>
+<a href="http://www.markpthomas.com/mountaineering/trip-reports/california/isosceles-pk-chocolate-pk">Day 6: Isosceles Pk &amp; Chocolate Pk</a>
+</center>
+<center>
+<br>
+</center>
+<center><a href="http://www.markpthomas.com/mountaineering/trip-reports/california/temple-crag-contact-crack">Day 7: Temple Crag via Contact Crack</a></center>
+<center>
+<br>
+</center>
+<center><a href="http://www.markpthomas.com/mountaineering/trip-reports/california/balcony-pk-e-ridge">Day 8: Balcony Pk</a></center>
+<center>
+<br>
+</center>
+<center><a href="http://www.markpthomas.com/mountaineering/trip-reports/california/kearsarge-pinnacles-1">Day 9: Kearsarge Pinnacles</a></center>
+<center>
+<br>
+</center>
+<center><a href="http://www.markpthomas.com/mountaineering/trip-reports/california/junction-pk-sw-ridge-se-couloir">Day 10: Junction Pk</a></center>
+</div> 
+page_id: 74 
+page_menu_name: Sierra Challenge (2005) 
+page_url: /mountaineering/trip-reports/california/sierra-challenge-2005 
+title: Sierra Challenge (2005) 
+type: Trip_Report 
+

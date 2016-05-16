@@ -1281,6 +1281,7 @@ date: Mar 27, 2010
 difficulty:  
 elevation:  
 grade:  
+hits: 27025  
 id: 626323 
 latitude: 41.41 
 location: California, United States, North America 
@@ -1289,6 +1290,9 @@ my_route_quality:
 name: Against All Hope: Life, Partnership, and Loss on Mt. Shasta 
 number_of_pitches:  
 page_url: http://www.summitpost.org/against-all-hope-life-partnership-and-loss-on-mt-shasta/626323 
+parent_code: 150188 
+parent_name: Mount Shasta 
+parent_url: /mount-shasta/150188 
 rock_difficulty:  
 route_quality:  
 route_type:  

@@ -173,6 +173,7 @@ date:
 difficulty:  
 elevation: 13804 
 grade:  
+hits: 173629  
 id: 150362 
 latitude: 43.1844 
 location: Wyoming, United States, North America 
@@ -181,6 +182,9 @@ my_route_quality:
 name: Gannett Peak 
 number_of_pitches:  
 page_url: http://www.summitpost.org/gannett-peak/150362 
+parent_code: 171223 
+parent_name: Wind River Range 
+parent_url: /wind-river-range/171223 
 rock_difficulty:  
 route_quality:  
 route_type:  

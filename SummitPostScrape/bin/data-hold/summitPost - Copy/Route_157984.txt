@@ -1,0 +1,73 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Approach</h2>
+<br>
+Begin at Bear Lake. Walk a short distance around the lake, to the right, until you see the marker  for the Flattop Mountain trail.<br>
+<br>
+This trail is well worn and easy to follow. You will wind your way through dense forested slopes. After a few sets of long switchbacks, you will come to the Dream Lake overlook. This is a beautiful spot to take a load off, snap some pictures and take a few sips of water. Continue on through some more switchback until you arrive at the Emerald Lake overlook. Another great spot to refresh.<br>
+<br>
+You will soon be above treeline, facing a long, broad, slope towards Flattops summit. <br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=19810" rel="no_follow"><img src="/images/thumb/19810.jpg"></a></td>
+<td><a href="/view_object.php?object_id=19811" rel="no_follow"><img src="/images/thumb/19811.jpg"></a></td>
+<td><a href="/view_object.php?object_id=44869" rel="no_follow"><img src="/images/thumb/44869.JPG"></a></td>
+<td><a href="/view_object.php?object_id=44868" rel="no_follow"><img src="/images/thumb/44868.JPG"></a></td>
+</tr></table>
+<a name="chapter_2"></a><h2>Route Description</h2>
+<br>
+Once you reach the summit of Flattop Mountain, take a left (South) on the well worn social trail that leads up Hallett Peak. Try to step on rocks as much as possible, sparing the fragile tundra grasses.<br>
+<br>
+Soon, you will be standing on top of a wonderful mountain. There are plenty of wind blocks on top, so find a good spot to enjoy your lunch before heading back down.<br>
+<br>
+Follow the same trail all the way back to Bear Lake.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr><td><a href="/view_object.php?object_id=44874" rel="no_follow"><img src="/images/thumb/44874.JPG"></a></td></tr></table>
+<a name="chapter_3"></a><h2>Essential Gear</h2>
+<br>
+Basic hiking essentials. (plenty of water, food, rain gear, layers, first aid, etc...)<br>
+<br>
+Don't forget the camera!!<br>
+<br>
+USGS "McHenry's Peak" Quad.<br>
+<a name="chapter_4"></a><h2>Miscellaneous Info</h2>
+<br>
+If you have information about this route that doesn't pertain to any of the other sections, please add it here.<br>
+<a name="chapter_5"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/the-summit-pyramid-of-hallett/44874/c-157984"><img alt="The summit pyramid of Hallett..." src="/images/square/44874.JPG"></a></td>
+<td><a href="/katie-approaching-the-summit/44869/c-157984"><img alt="Katie approaching the summit..." src="/images/square/44869.JPG"></a></td>
+<td><a href="/hallett-peak-s-summit-from/44868/c-157984"><img alt="Hallett Peak\'s summit from..." src="/images/square/44868.JPG"></a></td>
+<td><a href="/rocky-mountain-forget-me-nots/524638/c-157984"><img alt="Rocky Mountain Forget-Me-Nots" src="/images/square/524638.JPG"></a></td>
+<td><a href="/on-top-18-june-2002/19811/c-157984"><img alt="On top!!!&lt;br /&gt; &lt;br /&gt; 18 June, 2002" src="/images/square/19811.jpg"></a></td>
+<td><a href="/looking-up-the-summit-cone/522534/c-157984"><img alt="Looking up the summit cone" src="/images/square/522534.JPG"></a></td>
+<td><a href="/cornice-on-flattop-mtn/524634/c-157984"><img alt="Cornice on Flattop Mtn." src="/images/square/524634.JPG"></a></td>
+</tr>
+<tr>
+<td><a href="/ptarmigan/524639/c-157984"><img alt="Ptarmigan" src="/images/square/524639.JPG"></a></td>
+<td><a href="/hallett-peak-right-and/19810/c-157984"><img alt="Hallett Peak (right) and..." src="/images/square/19810.jpg"></a></td>
+<td><a href="/hallett-peak/316451/c-157984"><img alt="Hallett Peak" src="/images/square/316451.jpg"></a></td>
+</tr>
+</table></div>
+            </article> 
+date:  
+difficulty: Class 1 
+elevation:  
+grade:  
+id: 157984 
+latitude: 40.3031 
+location: Colorado, United States, North America 
+longitude: -105.686 
+my_route_quality:  
+name: Standard Route 
+number_of_pitches:  
+page_url: http://www.summitpost.org/standard-route/157984 
+rock_difficulty:  
+route_quality: 0.8 
+route_type: Hike 
+seasons:  
+time_required: Most of a day 
+type: Route 
+

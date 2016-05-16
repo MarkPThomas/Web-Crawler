@@ -1,0 +1,179 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>Mount Florence is a remote and isolated peak deep in the Yosemite backcountry, and ranks as the <a href="http://www.summitpost.org/yosemite-s-highest-peaks/742800">tenth highest in the national park</a>.  Trips generally involve at least 3 miles of cross-country travel each way, and a roundtrip outing requires a minimum of 26 miles from the closest trailhead and 6,000 feet total elevation gain.  The journey promises incredible scenery throughout all approaches and includes excellent destinations even if not heading for the top.  The trailhead is one of the most popular in Yosemite National Park, but as you pass Vogelsang or exit Lyell Canyon you are likely to find vast areas of complete seclusion even on a busy summer weekend.  In addition to the scenic approaches, the views from the summit are also outstanding.  <br>
+<br>
+Nearby peaks that are visible and sometimes climbed with Mount Florence include <a href="http://www.summitpost.org/mountain/rock/154592/parsons-peak.html">Parsons Peak</a>, <a href="http://www.summitpost.org/mountain/rock/151893/simmons-peak.html">Simmons Peak</a>, <a href="http://www.summitpost.org/mountain/rock/151700/vogelsang-peak.html">Vogelsang Peak</a>, and <a href="http://www.summitpost.org/mountain/rock/151703/fletcher-peak.html">Fletcher Peak</a>.  The summit vista also includes a direct view of Mount Lyell and Mount Maclure, the Clark Range, and the east side of Half Dome rising over Yosemite Valley.<br>
+<br>
+<center><div class="thumb"><div style="width:742px;">
+<a href="/view_object.php?object_id=650428"><img width="740" src="/images/large/650428.jpg"></a><div class="thumbcaption">
+<div class="magnify" style="float: right;"><a href="/view_object.php?object_id=%20650428" title="Enlarge"><img src="/images/layout/abby/magnify.gif" alt="Enlarge"></a></div>Mount Florence Summit Vista (click to view labeled peaks)</div>
+</div></div></center>
+<a name="chapter_2"></a><h2>Getting There</h2> <div align="center" class="image-right" style="width: 206px;">
+<a href="/lewis-creek-basin/650413"><img alt="Lewis Creek Basin" height="150" width="200" src="/images/small/650413.JPG"></a><br><span class="caption">Lewis Creek Basin</span>
+</div>  <div align="center" class="image-left" style="width: 121px;">
+<a href="/mount-florence-and-simmons-peak-route-map/650411"><img alt="Mount Florence and Simmons Peak Route Map" height="200" width="115" src="/images/small/650411.jpg"></a><br><span class="caption">Route Map</span>
+</div>
+<br>
+The shortest and usual route options for Mount Florence all begin at the southbound John Muir Trail Trailhead near Tuolumne Meadows in Yosemite National Park.  Depending on your selection, your path will either continue through Lyell Canyon or follow Rafferty Creek towards Vogelsang.<br>
+<br>
+<b>Lyell Canyon/Rafferty Creek</b> (37.87790° N, 119.33873° W)<br>
+From either the east or the west, follow Highway 120 into Yosemite National Park until reaching Tuolumne Meadows Lodge Road near Lembert Dome (6 miles west of Tioga Pass and 0.5 miles east of Tuolumne Meadows Campground).  Signs here mark the location of the wilderness permit ranger station.  You can either park at the ranger station, or continue down the road another 0.4 miles to the large trailhead parking area on the left.<br clear="ALL"><a name="chapter_3"></a><h2>Approaches</h2>The approaches listed here follow the John Muir Trail south from Tuolumne Meadows, turning south at Rafferty Creek or continuing through Lyell Canyon to Ireland Creek.  Since each option involves the same trailhead, a loop trip is easily possible.  Other approaches can be done from many other trailheads, including Tenaya Lake, Yosemite Valley, and Glacier Point among others.  These alternate approaches generally involve 30-50% more distance and elevation gain.<br>
+<br>
+<table align="center" border="1" bordercolor="#FFFFFF" bgcolor="#DDDDDD" cellpadding="5" cellspacing="0" width="90%">
+<tr bgcolor="#444444">
+<th><font color="#FFFFFF">Route</font></th>
+<th><font color="#FFFFFF">Distance</font></th>
+<th><font color="#FFFFFF">Gain</font></th>
+<th><font color="#FFFFFF">Description</font></th>
+</tr>
+<tr>
+<td><b>Florence Creek via Vogelsang Pass</b></td>
+<td>13.2 miles one-way</td>
+<td>5,050 feet<br>
+<i>+1,200 feet on return</i>
+</td>
+<td>This is perhaps the quickest and easiest approach.  Follow the John Muir Trail south from the parking area 1.5 miles to the Rafferty Creek Trail junction and turn south (right) towards Vogelsang.  The trail gains elevation gradually to Tuolumne Pass, past Vogelsang High Sierra Camp (the cause of the copious quantities of horse manure covering the path), and over Vogelsang Pass before dropping to Lewis Creek.  Shortly after the Bernice Lake Trail junction, 10 miles from the trailhead, leave the trail and head cross-country over easy terrain towards the basin north of Mount Florence as indicated on the map.  Upon entering the basin the first imposing views of the peak become visible.  Cross the basin to Lake 10541, wrapping around the south shore to the northwest chute. </td>
+</tr>
+<tr>
+<td><b>Lewis Creek via Vogelsang Pass</b></td>
+<td>14.2 miles one-way</td>
+<td>5,400 feet<br>
+<i>+1,550 feet on return</i>
+</td>
+<td>Lewis Creek Basin is very scenic and a good option if also climbing nearby Simmons Peak.  Follow the description above to Vogelsang Pass, but leave the trail approximately one mile earlier, about 400 feet below south side of the pass (as soon as a traverse towards Gallison Lake and Lewis Creek becomes feasible).  Gallison Lake has excellent camping options and views of Simmons Peak.  Continue cross-country to the head of the basin, turning south past Simmons Peak and drop down into the basin east of Mount Florence.  From here, traverse to the south ridge.</td>
+</tr>
+<tr>
+<td><b>Lewis Creek via Ireland Lake</b></td>
+<td>15.5 miles one-way</td>
+<td>5,600 feet<br>
+<i>+1,750 feet on return</i>
+</td>
+<td>An approach via Ireland Lake is a good option if climbing nearby Parsons Peak, Amelia Earhart Peak, or Simmons Peak.  Instead of turning south towards Vogelsang at the Rafferty Creek Trail junction, continue straight through Lyell Canyon until reaching the Ireland Lake junction 6 miles from the trailhead.  Follow the trail another 4 miles to Ireland Lake, a fantastic grassy area with excellent views of the surrounding peaks.  Head south around the lake’s east shore towards the pass southeast of Parsons Peak, then into Lewis Creek Basin and joining the Lewis Creek route described above.</td>
+</tr>
+</table>
+<a name="chapter_4"></a><h2>Summit Routes</h2>
+<table align="center" border="0" cellpadding="3">
+<tr>
+<td><a href="http://www.summitpost.org/view_object.php?object_id=650415"><img src="http://c0278592.cdn.cloudfiles.rackspacecloud.com/thumb/650415.JPG"></a></td>
+<td>
+<b>West Ridge – Class 2</b><br>
+Follow the south shoreline of Lake 10541 near the head of Florence Creek until reaching the lake’s midpoint, directly below the saddle between Mount Florence and Point 11361.  It is easiest to keep at lake level until reaching this location, rather than traversing upwards immediately.  From the lake head south over class 2 talus and boulders to the saddle.  Most of the ridge is sandy with plenty of rocks scattered between until near the false summit, where larger boulders are encountered.</td>
+</tr>
+<tr>
+<td><a href="http://www.summitpost.org/view_object.php?object_id=650414"><img src="http://c0278592.cdn.cloudfiles.rackspacecloud.com/thumb/650414.JPG"></a></td>
+<td>
+<b>South Ridge – Class 3</b><br>
+Secor suggests climbing the ridge from the south rather than heading directly up the east slope if you are above Hutchings Creek.  The east slope is suggested to be loose class 3, and looks very doable from a distance, but my experience indicated that a lot of routefinding and backtracking might be necessary and, as suggested, the south ridge a better option (especially if descending).  Simply climb to the saddle between Mount Florence and Point 11647 and head up the car and bus size boulders to the summit.  There is no exposure, but numerous class 3 moves are needed just to navigate through the rocks to the top.</td>
+</tr>
+</table>
+<a name="chapter_5"></a><h2>Red Tape</h2> <div align="center" class="image-right" style="width: 506px;">
+<a href="/mount-florence-east-ridge/650427"><img alt="Mount Florence East Ridge" height="375" width="500" src="/images/medium/650427.JPG"></a><br><span class="caption">Mount Florence from the East</span>
+</div>
+<br>
+<b>Entrance Fees:</b><br>
+Access to Mount Florence lies in Yosemite National Park and an entrance fee is required.  The <a href="http://www.nps.gov/yose/planyourvisit/feesandreservations.htm">Yosemite fee page</a> has full details.<br>
+<br>
+<b>Wilderness Permits:</b><br>
+Permits are required for overnight trips, but be aware that Yosemite has perhaps the worst permit pickup process in all of California.  After hours pickup is not available, and if arriving in the morning expect to wait in line 1 ½ to 2 hours even with a reservation.  Permits can be picked up at the Tuolumne Meadows Wilderness Center near the trailhead during open hours.  This is one of the most popular trailheads in Yosemite, and subject to <a href="http://www.nps.gov/yose/planyourvisit/trailheads.htm">quotas</a>, so if seeking a permit reservations far in advance are highly recommended.    Check the <a href="http://www.nps.gov/yose/planyourvisit/wildpermits.htm">Yosemite permit page</a> for full details on hours, the reservation process, and reservation availability.<br>
+<br>
+<b>Food Storage:</b><br>
+Bear canisters are required throughout Yosemite National Park.<br>
+<br>
+<b>Campfires:</b><br>
+Fires are prohibited above 9,600 feet.<br>
+<br>
+<b>Yosemite National Park Wilderness Permit Office</b><br>
+PO Box 545<br>
+Yosemite, CA 95389<br>
+Phone: (209) 372-0740 <br>
+Fax: (209) 372-0739<br clear="ALL"><a name="chapter_6"></a><h2>Current Conditions</h2>
+<a href="http://forecast.weather.gov/MapClick.php?lat=37.740584788858285&amp;lon=-119.31838989257812">Current NOAA / National Weather Service Forecast</a><br>
+<br>
+<table border="1" cellpadding="0"><tr><td><a href="http://www.wunderground.com/cgi-bin/findweather/getForecast?query=zmw:95389.3.99999&amp;bannertypeclick=wu_clean2day"><img src="http://weathersticker.wunderground.com/weathersticker/cgi-bin/banner/ban/wxBanner?bannertype=wu_clean2day_cond&amp;airportcode=KMMH&amp;ForcedCity=Tuolumne%20Meadows&amp;ForcedState=CA&amp;zipcode=95389&amp;language=EN" alt="Click for Tuolumne Meadows, California Forecast" height="100" width="300"></a></td></tr></table>
+<br clear="ALL"><br>
+<a name="chapter_7"></a><h2>When to Climb</h2>Tioga pass is not plowed in the winter, and overnight parking is not permitted after October 15.  As a result, spring through fall is the most realistic time for a visit.  In early season expect snow at the higher elevations.<br>
+<br>
+<noformat> <table class="inline_image_thumbs"> <tr>
+<td>
+                      <a href="/view_object.php?object_id=650412" rel="nofollow">
+                      <img src="/images/thumb/650412.JPG"></a>
+</td>
+<td>
+                      <a href="/view_object.php?object_id=650414" rel="nofollow">
+                      <img src="/images/thumb/650414.JPG"></a>
+</td>
+<td>
+                      <a href="/view_object.php?object_id=650418" rel="nofollow">
+                      <img src="/images/thumb/650418.JPG"></a>
+</td>
+<td>
+                      <a href="/view_object.php?object_id=650432" rel="nofollow">
+                      <img src="/images/thumb/650432.JPG"></a>
+</td>
+<td>
+                      <a href="/view_object.php?object_id=650416" rel="nofollow">
+                      <img src="/images/thumb/650416.JPG"></a>
+</td>
+<td>
+                      <a href="/view_object.php?object_id=650430" rel="nofollow">
+                      <img src="/images/thumb/650430.JPG"></a>
+</td>
+</tr>
+</table></noformat><a name="chapter_8"></a><h2>Camping</h2> <div align="center" class="image-left" style="width: 506px;">
+<a href="/lewis-creek-camp/650431"><img alt="Lewis Creek Camp" height="375" width="500" src="/images/medium/650431.JPG"></a><br><span class="caption">Camp in Upper Lewis Creek Basin</span>
+</div>
+<br>
+Backcountry camping options are abundant at the many lakes or streams encountered almost constantly on any route to the summit.  Excellent options include Lewis Creek Basin, Florence Creek Basin, and Ireland Lake among many others.<br>
+<br>
+Roadside camping is not permitted in Yosemite.  Established <a href="http://www.nps.gov/yose/planyourvisit/tmcamp.htm">Tuolumne Meadows Campground</a> in Yosemite has just over 300 sites and is within walking distance of the trailhead.  Reservations are recommended, though half of the sites are first-come, first-serve.  There is also a walk-in backpackers’ camping area within the campground.<br>
+<br>
+Inyo National Forest hosts a few first-come, first-serve campgrounds just east of the park near Tioga pass, and more numerous sites in Lee Vining Canyon.  Those near Tioga pass tend to fill up quickly.  The <a href="http://fs.usda.gov/wps/portal/fsinternet/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gDfxMDT8MwRydLA1cj72BTJw8jAwjQL8h2VAQAzHJMsQ!!/?ss=110504&amp;navtype=BROWSEBYSUBJECT&amp;cid=FSE_003705&amp;navid=110130000000000&amp;pnavid=110000000000000&amp;position=BROWSEBYSUBJECT&amp;recid=20256&amp;actid=29&amp;ttype=recarea&amp;pname=Inyo%20National%20Forest%20-%20Lee%20Vining/%20Mono%20Lake">Inyo National Forest Lee Vining/Mono Lake Camping page</a> has further details. <a name="chapter_9"></a><h2>Etymology</h2>“Named for Florence Hutchings, daughter of James M. Hutchings. She was the first white child born in Yosemite Valley, where she was born August 23, 1864. She died in Yosemite Valley September 26, 1881. <br>
+<br>
+‘Mr. B. F. Taylor, in his charmingly sunny book, ‘Between the Gates,’ page 238, makes the following suggestion: ‘Let us give the girl, for her own and her father’s sake, some graceful mountain height, and, let it be called “Mount Florence"!’ This complimentary suggestion through the kindness of friends, has been carried out; as one of the formerly unnamed peaks of the High Sierra now bears the name of ‘Mount Florence.’ ’ (Hutchings: <i>In the Heart of the Sierras</i>, 1886, p. 147.)” <b>– Francis P. Farquhar, <i>Place Names of the High Sierra</i> (1926)</b><br>
+<br>
+<center><div class="thumb"><div style="width:742px;">
+<a href="/view_object.php?object_id=650429"><img width="740" src="/images/large/650429.jpg"></a><div class="thumbcaption">
+<div class="magnify" style="float: right;"><a href="/view_object.php?object_id=%20650429" title="Enlarge"><img src="/images/layout/abby/magnify.gif" alt="Enlarge"></a></div>Lewis Creek Basin and Mount Florence</div>
+</div></div></center>                                                                                                                                                                                                                                                                                <a name="chapter_10"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/lewis-creek-camp/650431/c-650446"><img alt="Lewis Creek Camp" src="/images/square/650431.JPG"></a></td>
+<td><a href="/eastern-panorama-from-mount-florence/650428/c-650446"><img alt="Eastern Panorama from Mount Florence" src="/images/square/650428.jpg"></a></td>
+<td><a href="/mt-florence/653106/c-650446"><img alt="Mt Florence" src="/images/square/653106.jpg"></a></td>
+<td><a href="/sunrise-on-mount-florence/650432/c-650446"><img alt="Sunrise on Mount Florence" src="/images/square/650432.JPG"></a></td>
+<td><a href="/mount-florence-east-ridge/650427/c-650446"><img alt="Mount Florence East Ridge" src="/images/square/650427.JPG"></a></td>
+<td><a href="/lewis-creek-basin-panorama/650429/c-650446"><img alt="Lewis Creek Basin Panorama" src="/images/square/650429.jpg"></a></td>
+<td><a href="/storm-clouds-over-mount-florence/650430/c-650446"><img alt="Storm clouds over Mount Florence" src="/images/square/650430.JPG"></a></td>
+</tr>
+<tr>
+<td><a href="/panorama-west-from-mount-florence/650410/c-650446"><img alt="Panorama West from Mount Florence" src="/images/square/650410.jpg"></a></td>
+<td><a href="/mount-florence-east-slope/650414/c-650446"><img alt="Mount Florence East Slope" src="/images/square/650414.JPG"></a></td>
+<td><a href="/yosemite-high-sierra-from-yosemite-point/709325/c-650446"><img alt="Yosemite  High Sierra from Yosemite Point" src="/images/square/709325.JPG"></a></td>
+<td><a href="/lewis-creek-basin/650413/c-650446"><img alt="Lewis Creek Basin" src="/images/square/650413.JPG"></a></td>
+<td><a href="/florence-lake/650416/c-650446"><img alt="Florence Lake" src="/images/square/650416.JPG"></a></td>
+<td><a href="/vogelsang-lake/650412/c-650446"><img alt="Vogelsang Lake" src="/images/square/650412.JPG"></a></td>
+<td><a href="/mount-florence-west-ridge/650415/c-650446"><img alt="Mount Florence West Ridge" src="/images/square/650415.JPG"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/mount-florence/images/p-650446">View Gallery - 7 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty:  
+elevation: 12561 
+grade:  
+id: 650446 
+latitude: 37.73978 
+location: California, United States, North America 
+longitude: -119.31603 
+my_route_quality:  
+name: Mount Florence 
+number_of_pitches:  
+page_url: http://www.summitpost.org/mount-florence/650446 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons: Spring, Summer, Fall 
+time_required:  
+type: Mountain-Rock 
+

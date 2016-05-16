@@ -165,6 +165,7 @@ date:
 difficulty:  
 elevation: 13417 
 grade:  
+hits: 19291  
 id: 151232 
 latitude: 37.195 
 location: California, United States, North America 
@@ -173,6 +174,9 @@ my_route_quality:
 name: Mount Lamarck 
 number_of_pitches:  
 page_url: http://www.summitpost.org/mount-lamarck/151232 
+parent_code: 171134 
+parent_name: Sequoia/Kings Canyon NP 
+parent_url: /sequoia-kings-canyon-np/171134 
 rock_difficulty:  
 route_quality:  
 route_type:  

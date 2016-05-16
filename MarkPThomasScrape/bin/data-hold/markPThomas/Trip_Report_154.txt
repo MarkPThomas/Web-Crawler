@@ -1,0 +1,29 @@
+content: <div dir="ltr">
+<h1>
+<a name="TOC-The-Bugaboos"></a>The Bugaboos</h1>
+<span style="border-collapse:collapse">
+<div>
+<br>
+</div>
+<div><span style="border-collapse:collapse"><a href="https://maps.google.com/maps?saddr=Golden,+British+Columbia,+Canada&amp;daddr=Unknown+road&amp;hl=en&amp;ll=50.764259,-116.257324&amp;spn=1.886624,5.410767&amp;sll=50.777721,-116.672058&amp;sspn=0.117881,0.338173&amp;geocode=FXe3DgMdv0gH-SlpTrFjnL95UzFBRLYzySoEGg%3BFVJSBgMdb-UK-Q&amp;mra=dme&amp;mrsp=1&amp;sz=12&amp;t=m&amp;z=8" target="_blank">Driving Directions from Golden</a></span></div>
+<div><span style="border-collapse:collapse"><br>
+</span></div>
+Trailhead to Conrad Kain Hut - +2,550' -100', 2.6 mi, 1:30 hrs hiking</span>
+<div><span style="border-collapse:collapse"><br>
+</span></div>
+<div><span style="border-collapse:collapse">Conrad Kain Hut to Applebee Camp - ', mi, 30-45 min hiking &Acirc;&nbsp;</span></div>
+<div><span style="border-collapse:collapse"><br>
+</span></div>
+<div>
+<span style="border-collapse:collapse">Applebee Camp to Bugaboo-Snowpatch Col</span><span style="line-height:1.25;font-size:10pt">&Acirc;&nbsp;</span><span style="line-height:1.25;font-size:10pt">- ', mi, 1 hr travel&Acirc;&nbsp;</span>
+</div>
+<div><span style="border-collapse:collapse"><br>
+</span></div>
+<div><span style="border-collapse:collapse">Applebee Camp to W Ridge of Pigeon Spire - ', mi, 2 hr travel&Acirc;&nbsp;</span></div>
+</div> 
+page_id: 154 
+page_menu_name: The Bugaboos] 
+page_url: /mountaineering/trip-reports/canada/the-bugaboos 
+title: The Bugaboos 
+type: Trip_Report 
+

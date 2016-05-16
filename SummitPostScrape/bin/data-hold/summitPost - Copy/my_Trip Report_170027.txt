@@ -1,0 +1,248 @@
+activities: Hiking, Mountaineering, Trad Climbing, Scrambling 
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Stats</h2>
+<table border="0" cellpadding="2" cellspacing="1">  <tr>
+<td width="40%">
+<font color="gray"><u><b>Stats</b></u></font>  <ul>  <li>
+<b>Route:</b> <a href="http://www.summitpost.org/show/route_link.pl/route_id/670/object_id/267">Swiss Arête</a>, <a href="http://www.summitpost.org/show/route_link.pl/route_id/2708/object_id/267">North Couloir</a>  </li>
+<li>
+<b>Elevation Gained:</b> 6,433 ft  </li>
+<li>
+<b>RT Distance:</b> TBD   </li>
+<li>
+<b>RT Time:</b> 2.5 days  </li>
+<li>
+<b>Trailhead:</b> Big Pine  </li>
+<li>
+<b>TH Elevation:</b> 7,720’  </li>
+<li>
+<b>Summit Elev.:</b> 14,153’  </li>
+<li>
+<b>Rating:</b> IV, 5.7-8  </li>
+<li>
+<b>Climbers:</b>  <a href="http://www.summitpost.org/mountains/user_link.pl?user_id=13451">Mark Thomas</a>, <a target="0" href="http://www.summitpost.org/mountains/user_link.pl/user_id/583">Dirk Summers</a>, Joel Wilson  </li>
+</ul>
+</td>  <td><center><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__74383__object_id__13451__type__user__mountain_id____route_id____user_id____order_by____limit__"><img src="http://www.summitpost.com/images/74383.jpg" height="200"></a></center></td>  </tr>
+</table>      <br>
+  <br>
+  <br>
+<br>
+<br>
+                    <a name="chapter_2"></a><h2>Messing Around at Camp</h2>Joel had hand-jammed several feet up the crack by the time I got my camera out. I looked down toward him, focused, and . . .    <p>Click.    </p>
+<p>Now that should make a fun photo!  Next stop, Adobe Photoshop, to superimpose another background behind Joel so that it appears that he's free-soloing a crack hundreds of feet off the deck, rather than 15 feet. What fun!     <br>
+<br>
+Dirk, Joel, and I were messing around on a large boulder next to our campsite in Sam Mac Meadows. The Meadows is a hanging valley, dramatically cut out of the surrounding granite cliffs – while vertical rock walls surrounded the meadow, the meadow itself was extremely flat and very lush. The campsites here are great, but sadly, all of the spots were taken by the time we had finished backpacking in from the Big Pine trailhead. This probably had to do with the fact that we had only managed to get a permit for the following night but headed up anyways. After some scouting across the stream, we had found a flat spot amid the jumble of trees and large boulders to pitch a tent, and now we were making the best of our cramped quarters.    <br>
+<br>
+This was my second trip with Dirk, and our aim was to climb the Swiss Arête on Mt Sill, a classic Sierra route. Joel was a graduate student at Berkeley who had joined me on some earlier climbs, and I invited him along for some more company. He would solo the North Couloir while Dirk and I were on the arête.     <br>
+<br>
+As we were settling in for the night, I noticed that I couldn’t find my headlamp. Crap! I must have lost it when we slept out at Tioga Pass! Ah well, the route wasn’t nearly as long as the West Ridge of Mt Conness and the approach was much shorter. Besides, what were the chances of Dirk and me getting caught out in the dark two trips in a row! Still, I had preferred to wake up a little earlier just in case, but ultimately our plan was to be out of camp at daybreak. <br>
+<br>
+<noformat>
+<center>
+<table>
+<tr>
+<td><div align="center" class="image" style="width: 206px;">
+<a href="/august-2003-a-view-of-the/42662"><img alt="August 2003 - A view of the..." height="70" width="200" src="/images/small/42662.jpg"></a><br><span class="caption">Palisades from the Owens Valley</span>
+</div></td>
+<td><div align="center" class="image" style="width: 206px;">
+<a href="/sam-mack-meadows-beautiful/26832"><img alt="Sam Mack Meadows- beautiful..." height="129" width="200" src="/images/small/26832.jpg"></a><br><span class="caption">Sam Mack Meadows</span>
+</div></td>
+</tr>
+</table>
+</center>
+</noformat><a name="chapter_3"></a></p>
+<h2>Morning</h2> <div align="center" class="image-right" style="width: 458px;">
+<a href="/mt-sill-at-dawn-taken-from/26831"><img alt="Mt. Sill at dawn, taken from..." height="650" width="452" src="/images/original/26831.jpg"></a><br><span class="caption">Mt Sill Seen from the Palisade Glacier Moraine</span>
+</div>
+<br>
+We were up a little after 6am, and the alpenglow illuminated the large granite cliffs around us as we broke camp. Joe, Dirk, and I were on our way up the remainder of the trail by 7am.     <br>
+<br>
+The trail switch-backed steeply up the rugged hillside before traversing back out onto the eastern flanks.  It was difficult to see our progress as boulders often obstructed our line-of-sight - the slope was covered with hundreds of large rocks that had probably fallen down from the glacial moraine above.  Just as we reached the end of the trail, we stumbled upon another camp. There was no water here, and the site was rocky and exposed to wind, but it was flat and was much closer to the Palisade Glacier.  The campers were part of a Mountain Search and Rescue Team that had come up to practice some rescue drills around the glacier. As we said our hellos I joked that it was nice that they were around in case we get in trouble. Little did I know that our struggle to come would provide them with some night time entertainment as they watched us descend in the dark from the warmth of their campsite.    <br>
+<br>
+Above the MSAR camp we followed ducks across a long series of granite slabs. Eventually the solid rock gave way to the Palisade glacial moraine, and our pace really slowed down. The rock was very loose, and many of the boulders were large enough to require some class 3 scrambling or some careful leaping (trusting that the boulder you’re landing on won’t roll, of course).    <br>
+<br>
+As we passed beneath Mt Gayley we finally had to begin walking on the glacier to gain the chute we needed to climb to reach the Glacier Notch. Just as our sources in Bishop had warned, the glacier was nothing but bullet-proof ice. Walking on the ice was very odd since you’d step up on your crampon spikes, and there’d be a half-second delay before the ice popped and the teeth dug in. The delay between these little drops as the crampons bit in was unnerving, and I made sure to wait for the pop’n drop on each step before moving up. Sometimes the surface would crack like a spider web as the ice popped.   <br>
+<br>
+I had been foolish enough to leave my ice axe at home on this trip. Although you couldn’t get enough purchase with the spike for a self-belay, it would have been nice to have for balance. Oh well, nothing to do but walk up and practice on my footwork! As I lamely chased Dirk and Joel up the slopes, Dirk would occasionally offer support and some suggestions on how to place my feet.    <br>
+<br>
+“Try to walk in the bottoms of the snow cups!”    <p>Nice – its almost like walking on stairs now!  As I hurried up the black ice I stumbled across an energy gel pack frozen into the ice.     <br>
+<br>
+Free food!    <br>
+<br>
+The wrapper was intact, so I freed this treat from the freezer and stuffed it in a pocket for later.   <br>
+<br>
+Soon we were at the chute, which was nothing more than a steep class 2-3 pile of loose rubble.  After some careful climbing we reached the Glacier Notch. With Mt Gayley to our left, the monolithic block of Mt Sill jutting up to our right, and the gorgeous Palisade Glacier lined by a vertical granite wall over 1,000 ft high, I felt exhilarated. This was some awesome mountain country! <br>
+<br>
+<noformat>
+<center>
+<table>
+<tr>
+<td> <div align="center" class="image-left" style="width: 206px;">
+<a href="/the-palisade-glacier/40783"><img alt="The Palisade Glacier" height="138" width="200" src="/images/small/40783.jpg"></a><br><span class="caption">Palisade Glacier</span>
+</div>
+</td>
+<td> <div align="center" class="image-left" style="width: 206px;">
+<a href="/august-2003-north-palisade/42665"><img alt="August 2003 - North Palisade,..." height="150" width="200" src="/images/small/42665.jpg"></a><br><span class="caption">Palisades Seen from Glacier Notch</span>
+</div>
+</td>
+</tr>
+</table>
+</center>
+</noformat><a name="chapter_4"></a></p>
+<h2>The Swiss Arête</h2>At this point we parted ways and Joel took off up the North Couloir while Dirk and I donned our climbing gear. We started climbing at 12:02 – a late start. The approach had taken much longer than expected! The first two pitches were easy class 4, and Dirk quickly led the way. This first part of the climb, although very fun, also seemed very lame. Perhaps it was having the North Couloir right next to us, or perhaps it was Joel racing up the thing beside and then past us as we belayed the rock. Soon Joel was up and out of site and Dirk and I had reached the spine of the Arête.     <br>
+<br>
+<noformat>
+<center>
+<table>
+<tr>
+<td><div align="center" class="image" style="width: 206px;">
+<a href="/august-2003-the-swiss-arete/42669"><img alt="August 2003 - The Swiss Arete..." height="150" width="200" src="/images/small/42669.jpg"></a><br><span class="caption">The Swiss Arete of Mt Sill</span>
+</div></td>
+<td><div align="center" class="image" style="width: 156px;">
+<a href="/mt-sill-s-north-couloir/39817"><img alt="Mt. Sill s North Couloir..." height="200" width="150" src="/images/small/39817.jpg"></a><br><span class="caption">The North Couloir of Mt Sill</span>
+</div></td>
+</tr>
+</table>
+</center>
+</noformat><br>
+<br>
+The exposure was stimulating and the climbing was sustained and moderate. It was also very clean and solid, which left us with few worries on the route.  As we climbed higher I watched a lone figure climbing Gayley. This fellow had topped out on the Glacier Notch just after us, climbing with some strange trekking poles that had little ice axes on the handles. I was surprised to see that as we climbed higher on the route, this figure summitted, descended, and then began free-soloing the rocky bulge lining the north side of the North Couloir. Joel later reported that the guy had summitted Mt Sill and beat him down the mountain.    <br>
+<br>
+Although the exposure was exciting, it also had me stressed. I’ve always been a wuss when it comes to exposed heights, but through climbing I’ve been beating back this fear. Still, it is always somewhat psychologically draining to be in a confined position on a cliff face for most of a day, and as we neared the final pitches of the route I was beginning to look forward to some reprieve.    <br>
+<br>
+<noformat>
+<center>
+<table>
+<tr>
+<td><div align="center" class="image" style="width: 206px;">
+<a href="/august-2003-looking-down-mt/42672"><img alt="August 2003 - Looking down Mt..." height="150" width="200" src="/images/small/42672.jpg"></a><br><span class="caption">Joel Climbing the North Couloir, Seen from the Swiss Arete.</span>
+</div></td>
+<td><div align="center" class="image" style="width: 206px;">
+<a href="/august-2003-diggler-dirk/42661"><img alt="August 2003 - Diggler (Dirk)..." height="150" width="200" src="/images/small/42661.jpg"></a><br><span class="caption">Dirk Getting Ready to Lead the Next Pitch</span>
+</div></td>
+</tr>
+</table>
+</center>
+</noformat><br>
+<br>
+I knew that the next pitch would be trouble when Dirk began climbing very slowly, and some loud grunts and groans could be heard over the wind. We had been looking out for the reach-around move for a while and had yet to come across it. Perhaps this was the crux?  Once it was my turn, I quickly climbed up the rock and came to a narrow ledge on the south side of the arête, just below a chimney. The chimney was steep, and slightly overhanging on the first 5 feet. It angled a bit to the left for another 10 feet before shooting strait up the rock.  “Hmmm . . . this doesn’t look right,” I thought to myself. I also realized that while I have climbed plenty of cracks on sandstone in the southwest, none of it required entire reliance on hand and foot-jamming.  I looked at the 1,000 foot drop off below the ledge, back to the chimney, and back to the drop off again.    <br>
+<br>
+Crap.    <br>
+<br>
+I racked the first piece of pro and started up the crack. Then I began flailing about like some deranged lunatic. This crack climbing had me very sketched – I couldn’t tell if I could trust my hand jams, so I was afraid to pull up much in the crack. After climbing all afternoon with a large 30lb pack, a large pack that was now trying to pull me backward into the void and upside down, my arms burned out after struggling about 4 feet up the crack.    <br>
+<br>
+“Take!” I shouted, and the rope went tight. I hung on the end for a rest and tried again. I began popping out of the crack. After wasting some more time trying to climb the thing, Dirk and I communicated that I would try to haul myself up the rope just a little bit get past this short section. I tried to pull on the rope for aid, but that didn’t work very well. Next I pulled out a cordalette and tied a prussick. I couldn’t find a second cordalette, so I tried climbing up the rope with one prussick. I got about 2 feet further, cursing all the way. Just as Dirk was beginning to shout out directions for a Texas Prussick, I found another cordalette, tied a second prussick to stand up in, and I was off, up cliff face and over the headwall. After dispensing with the dignity of climbing the full pitch, I dispensed with the prussicks and quickly climbed the easy remainder of the crack.  <b><i>NOTE TO SELF: Next time I’m at the gym, I must learn crack climbing!</i></b>    <br>
+<br>
+<div align="center" class="image" style="width: 506px;">
+<a href="/august-2003-norman-clyde/42670"><img alt="August 2003 - Norman Clyde..." height="375" width="500" src="/images/medium/42670.jpg"></a><br><span class="caption">Norman Clyde Pk Seen from the Swiss Arete.</span>
+</div>
+<br>
+<br>
+By the time I reached Dirk’s belay the sky was beginning to darken. That last pitch wasted a ton of time, and it was definitely harder than 5.6! Dirk was concerned about our dwindling daylight and was off like a rocket up the next pitch. One more easy pitch and a few photos later and we were standing on top of the summit. It was 7:11 pm. We signed the register and then began reviewing the description of the route down. It was obvious that we would have to descend the unfamiliar route in the dark. More problematic was the fact that I was sans headlamp.<a name="chapter_5"></a><h2>2 Climbers, 1 Headlamp</h2>Resigned to our fate, we watched the sun set over the Palisades from the summit of Mt Sill before heading down to the North Couloir traverse. There were large boulders that made the scrambling difficult, and it was difficult to follow the ducks. Finally we reached a spot that we thought was the turnoff, and with no real certainty, began picking our way down the cliffs toward the Palisade Glacier.    <br>
+<br>
+<noformat>
+<center>
+<table>
+<tr>
+<td><div align="center" class="image" style="width: 156px;">
+<a href="/august-2003-looking-down-mt/42671"><img alt="August 2003 - Looking down Mt..." height="200" width="150" src="/images/small/42671.jpg"></a><br><span class="caption">The Swiss Arete in Fading Light</span>
+</div></td>
+<td><div align="center" class="image" style="width: 206px;">
+<a href="/august-2003-it-was-at-this/42668"><img alt="August 2003 - It was at this..." height="94" width="200" src="/images/small/42668.jpg"></a><br><span class="caption">Sunset from the Summit of Mt Sill</span>
+</div></td>
+</tr>
+</table>
+</center>
+</noformat><br>
+<br>
+The climbing was very slow going. I would climb under the diffused lighting of the headlamp as best as I could, and whenever we reached a steeper part, I’d wait for Dirk to climb down and shine the light back up for me to follow.  At one point we weren’t sure if we were heading the right way, or when to traverse the cliffs back to the east. The terrain was getting steeper, which was a concern, so Dirk climbed off to scout out a route while I sat alone in the dark.    <br>
+<br>
+After what seemed like an eternity sitting in the wind, Dirk reappeared. He had found a way out! It required some tricky down climbing with one headlamp, and some occasional verglass on some of the narrower traverses to spice things up. Finally we reached the notch between Mt Sill and its subpeak. All that we had left was to descend the straightforward North Couloir to Glacier Notch, and down to the Glacier, and we’d be home free!    <br>
+<br>
+WRONG!  <br>
+<br>
+The chute was complete and utter crap. Every step resulted in a miniature landslide of talus, scree, sand, and climber. So much dust was kicked up that visibility with the headlamp became difficult.  Progress was painfully slow, and after descending about halfway down the chute, we stopped for a break.    <br>
+<br>
+Here I decided to make use of the energy gel pack that I had found frozen in the Palisade Glacier. I had never had one before and wondered how it would taste - TERRIBLE! From then on I've stuck with Cliff Bars to avoid a repeat of the experience.   <br>
+<br>
+<noformat>
+<center>
+<table>
+<tr>
+<td><div align="center" class="image" style="width: 156px;">
+<a href="/two-options-are-shown-for-the/39820"><img alt="Two options are shown for the..." height="200" width="150" src="/images/small/39820.jpg"></a><br><span class="caption">Cl. 4 Descent from Mt Sill that We Did in the Dark</span>
+</div></td>
+<td><div align="center" class="image" style="width: 206px;">
+<a href="/this-shows-the-section-of-the/39818"><img alt="This shows the section of the..." height="150" width="200" src="/images/small/39818.jpg"></a><br><span class="caption"> </span>
+</div></td>
+</tr>
+</table>
+</center>
+</noformat><br>
+ <br>
+<br>
+After a snack and finishing off my water, I was really sleepy and needed to lie down for a bit. Also, although I had learned from our last epic and brought more clothes, I didn’t have a windbreaker and the wind was blowing right through my clothing, whisking away any heat that they might have held. I found a 2-in-1 solution for this by climbing up into the rock on the side of the couloir. There was an angled slab, steep enough to slide off of, that made a nice bed and offered some protection from the wind. After wedging my thigh in a space between the slab and some other rock to hold me in place, I laid down for a nap.    <br>
+<br>
+All too soon Dirk had us rallied and we continued down the poop-chute. Finally we reached a point where we couldn’t help but walk on the icy neve. Luckily someone had placed some slings in the solid rock, providing us with a good anchor to rapp off. Dirk set up the rope and I was the first down, walking down the icy slope while hanging on the rope for control.    <br>
+<br>
+Yes! We were at the Glacier Notch! Now the rest of the way back was familiar and we’d certainly make it down!    <br>
+<br>
+WRONG!  <br>
+<br>
+We looked over the cliffs that dropped down to the glacier, looking for the right chute. We had some idea as to which chute it might be, but there was still a LOT of uncertainty. Dirk wanted to just climb down one, and if it ended, rappel the rest if the way. I wasn’t keen on rappelling a route we didn’t know, in the dark, with one headlamp, so I kept trying to narrow down our options. By this time it was almost 2am, and we gave up. The sun would be rising in a few hours – I pointed out that we might as well bivouac for those few hours and descend once we could see where we were going.    <br>
+<br>
+Although we were cold, tired, and hungry, we were still enjoying the experience at some twisted level. High above us in the sky Mars was making the closest transit to Earth that it had for thousands of years, and with the thin night air, it looked like a giant glowing orb in the sky.  The rugged silhouettes of Mt Gayley and Mt Sill towered above, framing a starry night sky. After watching a few shooting stars, we each climbed into whatever shelter we could find from the wind. I found a small cave in the interstices between the large talus blocks, and quickly climbed down and inside. Dirk was nice enough to let me borrow his wind breaker for a little while to regain some heat while he did pushups to keep warm. I was so exhausted from our climb that I couldn’t imagine doing something like that to <i>ease</i> my discomfort. I watched in disbelief and then we went to sleep.      <br>
+  <br>
+<div align="center" class="image" style="width: 506px;">
+<a href="/mark-aka-pellucid-wombat/47023"><img alt="Mark (aka Pellucid Wombat)..." height="317" width="500" src="/images/medium/47023.jpg"></a><br><span class="caption">The Wombat Bivy Hole</span>
+</div>
+<br>
+<a name="chapter_6"></a><h2>Glorious Alpenglow</h2>  A few hours later the sky lit up behind Mt Gayley - the night was over! Now we can get down!  With the sun rising, we quickly found the right chute and began climbing down. On our way down we were treated to a wonderful alpenglow that illuminated North Palisade, changing it from a dark black to a fiery orange. It was one of the best alpenglow sunrises I have ever witnessed in the Sierra.    <br>
+<br>
+<div align="center" class="image" style="width: 506px;">
+<a href="/august-2003-mt-gayley-seen/42664"><img alt="August 2003 - Mt Gayley seen..." height="375" width="500" src="/images/medium/42664.jpg"></a><br><span class="caption">Mt Gayley at sunrise</span>
+</div>
+<br>
+<br>
+Down the chute, over the moraine, back to camp we go! We hurried as fast as we could, since Joel would be waking soon and would certainly notice our absence.  As we reached the trail we came across a welcome site – Joel was huffing it up the trail, carrying a pack with food and water!  He had noticed that we never came back and had woken early in order to head back up to Mt Sill to search for us. He had asked MSAR about us, and they reported watching our headlamp slowly make its way down Mt Sill throughout the night, so he knew that we were all right.    <br>
+<br>
+<noformat>
+<center>
+<table>
+<tr>
+<td><div align="center" class="image" style="width: 206px;">
+<a href="/august-2003-the-palisades/42666"><img alt="August 2003 - The Palisades..." height="150" width="200" src="/images/small/42666.jpg"></a><br><span class="caption">Alpenglow on the Palisades</span>
+</div></td>
+<td><div align="center" class="image" style="width: 206px;">
+<a href="/august-2003-a-huge/42667"><img alt="August 2003 - A huge..." height="150" width="200" src="/images/small/42667.jpg"></a><br><span class="caption">Rock avalanche on Mt Alice</span>
+</div></td>
+</tr>
+</table>
+</center>
+</noformat><br>
+<br>
+After refueling, we hiked back down the trail to pack up our tent and head back to civilization.  On the hike out, we noticed the irony that we had camped at Sam Mack Meadows the night that we didn’t have a permit, and the night we did have a permit to camp in the backcountry, Dirk and I had to bivvy! Perhaps our little illegal camping had brought on some bad karma? Next time we’d have to make sure to get a permit for camping, just in case.    <br>
+<br>
+<hr width="80%">  <center>
+<i>Mark N' Dirk's Bivouac Trilogy:</i> <a href="http://www.summitpost.org/mountains/trip_report.pl?trip_report_id=1944&amp;mountain_id=335">Part 1: Mt Conness</a> -  <a href="http://www.summitpost.org/cgi-bin/trip_report.pl?trip_report_id=1985&amp;mountain_id=262">Part 3: N Palisade &amp; Polemonium</a>
+</center>      </article> 
+date: Aug 23, 2003 
+difficulty:  
+elevation:  
+grade:  
+id: 170027 
+latitude: 37.0944 
+location: California, United States, North America 
+longitude: -118.5019 
+my_route_quality:  
+name: Mark N’ Dirk’s Bivouac Trilogy - Part 2: Mt Sill 
+number_of_pitches:  
+page_url: http://www.summitpost.org/mark-n-dirk-s-bivouac-trilogy-part-2-mt-sill/170027 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons:  
+time_required:  
+type: Trip Report 
+

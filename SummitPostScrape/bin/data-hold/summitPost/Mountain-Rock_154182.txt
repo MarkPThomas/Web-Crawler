@@ -63,6 +63,7 @@ date:
 difficulty:  
 elevation: 9192 
 grade:  
+hits: 9381  
 id: 154182 
 latitude: 51.2014 
 location: Alberta, Canada, North America 
@@ -71,6 +72,9 @@ my_route_quality:
 name: Mount Cory 
 number_of_pitches:  
 page_url: http://www.summitpost.org/mount-cory/154182 
+parent_code: 647912 
+parent_name: Banff Rock Climbs 
+parent_url: /banff-rock-climbs/647912 
 rock_difficulty:  
 route_quality:  
 route_type:  

@@ -47,6 +47,7 @@ date:
 difficulty: 5.2 
 elevation:  
 grade:  
+hits: 8197  
 id: 165874 
 latitude: 37.1097 
 location: California, United States, North America 
@@ -55,6 +56,9 @@ my_route_quality:
 name: Contact Pass 
 number_of_pitches:  
 page_url: http://www.summitpost.org/contact-pass/165874 
+parent_code: 150844 
+parent_name: Temple Crag 
+parent_url: /temple-crag/150844 
 rock_difficulty:  
 route_quality: 0.8 
 route_type: Rock scramble 

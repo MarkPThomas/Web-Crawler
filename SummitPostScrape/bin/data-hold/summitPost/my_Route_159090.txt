@@ -45,6 +45,7 @@ date:
 difficulty: Class 2-3 
 elevation:  
 grade:  
+hits: 3442  
 id: 159090 
 latitude: 38.4633 
 location: Utah, United States, North America 
@@ -53,6 +54,9 @@ my_route_quality:
 name: Middle La Sal Traverse 
 number_of_pitches:  
 page_url: http://www.summitpost.org/middle-la-sal-traverse/159090 
+parent_code: 151952 
+parent_name: Mount Mellenthin 
+parent_url: /mount-mellenthin/151952 
 rock_difficulty:  
 route_quality: 0.8 
 route_type: Hiking, Scrambling 

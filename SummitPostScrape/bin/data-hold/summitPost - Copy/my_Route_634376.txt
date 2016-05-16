@@ -1,0 +1,124 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>This is the easiest and most common route by which Mt. Winchell is climbed. The East Arete is a nice class 3 scramble with mostly solid rock and some nice exposure near the top. Routefinding is straightforward, making for a great scramble! On the Sierra Challenge we climbed the peak in 9 hours car-to-car via this route. For more casual outings, people often camp at Sam Mack Meadows.<br>
+<br>
+<div align="center" class="image" style="width: 506px;">
+<a href="/mt-winchell-east-arete-map/636970"><img alt="Mt Winchell: East Arete Map" height="472" width="500" src="/images/medium/636970.jpg"></a><br><span class="caption">A topographic map showing the East Arete route on Mt Winchell from the common approach via Sam Mack Meadows.</span>
+</div>
+<br>
+<br>
+<noformat>
+<center>
+<table border="1" cellspacing="0">
+<tr>
+<td> <table border="0" cellspacing="2" cellpadding="2"> 
+<tr bgcolor="#c0c0c0">
+<td colspan="6">
+<font style="font-weight:bold;"> </font><center>Mt Winchell - East Arete: Route Stats</center>
+</td>
+</tr>  
+<tr>
+<td></td> 
+<td align="center"><font style="font-weight:bold;">RT Total</font></td>
+<td align="center"><font style="font-weight:bold;">Total to Summit</font></td>   
+<td align="center"><i>TH to Sam Mack Meadows</i></td>  
+<td align="center"><i>Sam Mack to Route</i></td>  
+<td align="center"><i>Route</i></td>    
+</tr>
+<tr>
+<td>
+<b>Distance (miles)</b> 
+</td>
+<td align="center">17.78</td> 
+<td align="center">8.89</td>   
+<td align="center"><i>6.93</i></td>
+<td align="center"><i>1.7</i></td>  
+<td align="center"><i>0.26</i></td>    
+</tr>    
+<tr bgcolor="#e0e0e0">  
+<td>
+<b>Elevation Gain (ft)</b> 
+</td>
+<td align="center">6,450</td>
+<td align="center">6,175</td>    
+<td align="center"><i>3,565</i></td>
+<td align="center"><i>1,765</i></td>  
+<td align="center"><i>845</i></td>    
+</tr>    
+<tr>
+<td>
+<b>Elevation Loss (ft)</b> 
+</td>
+<td align="center">6,450</td>
+<td align="center">275</td>    
+<td align="center"><i>242</i></td>
+<td align="center"><i>33</i></td>  
+<td align="center"><i>0</i></td>    
+</tr>  
+<tr>
+<td colspan="6"><small><i>Estimates from Topo!, which tends to slightly overestimate elevation, underestimate mileage, and ignores small-scale additions to mileage and elevation changes.</i></small></td>
+</tr>  
+</table>  
+</td>
+</tr>
+</table>
+</center>  
+</noformat><br>
+<a name="chapter_2"></a><h2>Getting There</h2>Approach via North Fork of Big Pine from the Glacier Lodge trailhead. Take the trail to Sam Mack Meadows and climb the right-hand chute (cl. 2-3), bypassing a large boulder on the right. This section can have a lot of water and some ice buildup in later season, and sometimes the easier variations involve climbing through spaces in the rocks. Next, follow the series of slabs in the drainage as you make your way to the Thunderbolt Glacier. When you reach the first lake at 11,790', follow a series of ledges on the left side of the lake to get across the cliffs.<br>
+<br>
+Once you reach the terminal moraine of the Thunderbolt Glacier, the rest of the way to Mt. Winchell should be apparent. Just boulder-hop along the right (north) lateral moraine of the glacier until you reach the base of the route.<a name="chapter_3"></a><h2>Route Description</h2>Viewed from the Thunderbolt Glacier, climb the righthand chute. It is entered most easily by the far right side and then traversing back into the center. As you ascend higher the rock becomes less loose and scrambling is straightforward class 3 on slabs and ledges.<br>
+<br>
+<div align="center" class="image" style="width: 206px;">
+<a href="/looking-down-the-e-arete-of-mt-winchell/90633"><img alt="Looking down the E Arete of Mt Winchell" height="150" width="200" src="/images/small/90633.jpg"></a><br><span class="caption">Looking down the East Arete near the top.</span>
+</div>
+<br>
+<br>
+As you ascend higher in the chute, ascend to the right to intersect the crest of the East Arete. The arete is knife-edged with some fun exposure. As the arete becomes very thin and exposed, escape back into a chute to the left and ascend the chute, wrapping slightly around to the south side of the peak.<br>
+<br>
+The views from the summit are spectacular.<br>
+<br>
+<div align="center" class="image" style="width: 444px;">
+<a href="/routes-on-the-se-side-of-mt-winchell/634371"><img alt="Routes on the SE Side of Mt Winchell" height="500" width="438" src="/images/medium/634371.jpg"></a><br><span class="caption">The East Arete route seen from Temple Crag.</span>
+</div>
+<br>
+<br>
+<div align="center" class="image" style="width: 506px;">
+<a href="/routes-on-the-se-side-of-mt-winchell/634374"><img alt="Routes on the SE Side of Mt Winchell" height="270" width="500" src="/images/medium/634374.jpg"></a><br><span class="caption">The East Arete route seen from the North Couloir of Thunderbolt Pk.</span>
+</div>
+<br>
+<br>
+<div align="center" class="image" style="width: 506px;">
+<a href="/routes-on-the-se-side-of-mt-winchell/634373"><img alt="Routes on the SE Side of Mt Winchell" height="332" width="500" src="/images/medium/634373.jpg"></a><br><span class="caption">The East Arete route seen from the Thunderbolt Glacier.</span>
+</div>
+<br>
+<a name="chapter_4"></a><h2>Essential Gear</h2>A helmet is recommended. In early season crampons and an ice axe may be necessary to safely exit Sam Mack Meadows and climb sections of the route.                                                                                                                                                                                                                                                                                                                                                                                                                <a name="chapter_5"></a><h2>Images</h2>
+<div align="center"><table id="my_images"><tr>
+<td><a href="/looking-down-the-e-arete-of-mt-winchell/90633/c-634376"><img alt="Looking down the E Arete of Mt Winchell" src="/images/square/90633.jpg"></a></td>
+<td><a href="/august-5th-2004-mt-winchell/90630/c-634376"><img alt="August 5th, 2004 - Mt. Winchell" src="/images/square/90630.jpg"></a></td>
+<td><a href="/august-5th-2004-the-north/90635/c-634376"><img alt="August 5th, 2004 - The North..." src="/images/square/90635.jpg"></a></td>
+<td><a href="/routes-on-the-se-side-of-mt-winchell/634373/c-634376"><img alt="Routes on the SE Side of Mt Winchell" src="/images/square/634373.jpg"></a></td>
+<td><a href="/routes-on-the-se-side-of-mt-winchell/634374/c-634376"><img alt="Routes on the SE Side of Mt Winchell" src="/images/square/634374.jpg"></a></td>
+<td><a href="/routes-on-the-se-side-of-mt-winchell/634371/c-634376"><img alt="Routes on the SE Side of Mt Winchell" src="/images/square/634371.jpg"></a></td>
+<td><a href="/mt-winchell-east-arete-map/636970/c-634376"><img alt="Mt Winchell: East Arete Map" src="/images/square/636970.jpg"></a></td>
+</tr></table></div>
+            </article> 
+date:  
+difficulty:  
+elevation:  
+grade:  
+id: 634376 
+latitude:  
+location: California, United States, North America 
+longitude:  
+my_route_quality:  
+name: East Arete 
+number_of_pitches:  
+page_url: http://www.summitpost.org/east-arete/634376 
+rock_difficulty: Class 3 
+route_quality: 1.0 
+route_type: Scrambling 
+seasons: Summer, Fall 
+time_required: Most of a day 
+type: Route 
+

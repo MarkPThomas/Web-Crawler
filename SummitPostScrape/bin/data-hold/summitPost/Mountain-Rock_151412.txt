@@ -217,6 +217,7 @@ date:
 difficulty:  
 elevation: 12605 
 grade:  
+hits: 56699  
 id: 151412 
 latitude: 43.835 
 location: Wyoming, United States, North America 
@@ -225,6 +226,9 @@ my_route_quality:
 name: Mount Moran 
 number_of_pitches:  
 page_url: http://www.summitpost.org/mount-moran/151412 
+parent_code: 171178 
+parent_name: Teton Range 
+parent_url: /teton-range/171178 
 rock_difficulty:  
 route_quality:  
 route_type:  

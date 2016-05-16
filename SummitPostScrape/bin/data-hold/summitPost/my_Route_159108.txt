@@ -25,6 +25,7 @@ date:
 difficulty: Walk up 
 elevation:  
 grade:  
+hits: 3156  
 id: 159108 
 latitude: 40.658 
 location: Utah, United States, North America 
@@ -33,6 +34,9 @@ my_route_quality:
 name: South West Slope 
 number_of_pitches:  
 page_url: http://www.summitpost.org/south-west-slope/159108 
+parent_code: 151974 
+parent_name: Mount Raymond 
+parent_url: /mount-raymond/151974 
 rock_difficulty:  
 route_quality: 0.8 
 route_type: hike 

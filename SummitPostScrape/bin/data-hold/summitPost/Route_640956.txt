@@ -222,6 +222,7 @@ date:
 difficulty: cl. 3 to easy cl. 4 
 elevation:  
 grade:  
+hits: 2156  
 id: 640956 
 latitude:  
 location: California, United States, North America 
@@ -230,6 +231,9 @@ my_route_quality:
 name: West Ridge 
 number_of_pitches:  
 page_url: http://www.summitpost.org/west-ridge/640956 
+parent_code: 154659 
+parent_name: Mount Robinson 
+parent_url: /mount-robinson/154659 
 rock_difficulty:  
 route_quality: 1.0 
 route_type: Mountaineering, Scrambling 

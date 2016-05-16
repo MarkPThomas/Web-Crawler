@@ -22,6 +22,7 @@ date:
 difficulty: Class 3+ to class 4 
 elevation:  
 grade:  
+hits: 2396  
 id: 163776 
 latitude: 37.88 
 location: California, United States, North America 
@@ -30,6 +31,9 @@ my_route_quality:
 name: North Cleft 
 number_of_pitches:  
 page_url: http://www.summitpost.org/north-cleft/163776 
+parent_code: 151389 
+parent_name: Lembert Dome 
+parent_url: /lembert-dome/151389 
 rock_difficulty:  
 route_quality: 0.8 
 route_type: Scramble 

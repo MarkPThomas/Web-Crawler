@@ -55,6 +55,7 @@ date:
 difficulty: Possible steep snow or ice and/or 3rd class rock 
 elevation:  
 grade:  
+hits: 23885  
 id: 155536 
 latitude: 43.1844 
 location: Wyoming, United States, North America 
@@ -63,6 +64,9 @@ my_route_quality:
 name: Pole Creek Trail/Seneca Lake Trail/India 
 number_of_pitches:  
 page_url: http://www.summitpost.org/pole-creek-trail-seneca-lake-trail-india/155536 
+parent_code: 150362 
+parent_name: Gannett Peak 
+parent_url: /gannett-peak/150362 
 rock_difficulty:  
 route_quality: 1.0 
 route_type: Glacier and scramble 

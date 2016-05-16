@@ -1,0 +1,410 @@
+content: <div class="articletext">
+<div class="photonormal">
+<table valign="top" border="0" width="626" cellspacing="0" cellpadding="0" class="sdw_box">
+			<tr>
+			  <td><img src="/nav_img/top_left_sdw.gif" width="13" height="13"></td>
+			  <td class="sdw_top"></td>
+			  <td><img src="/nav_img/top_right_sdw.gif" width="13" height="13"></td>
+			</tr>
+			<tr>
+			  <td class="sdw_left"></td>
+			  <td class="sdw_body" width="600"><div>
+<a href="javascript:photoZoom('Oj85ODsjJCsmJw,,')" title="Click to enlarge"><img src="http://www.supertopo.com/photos/23/53/356870_4007_L.jpg" width="600" height="374" name="" alt="September 2, 2011 - Palisade Crest at sunset from the Temple Crag plat..."></a><span class="small"><br>September 2, 2011 - Palisade Crest at sunset from the Temple Crag plateau.<br><div class="photo-credit">Credit: PellucidWombat</div></span>
+</div></td>
+			  <td class="sdw_right"></td>
+			</tr>
+			<tr>
+			  <td><img src="/nav_img/bottom_left_sdw.gif" width="13" height="13"></td>
+			  <td class="sdw_bottom"></td>
+			  <td><img src="/nav_img/bottom_right_sdw.gif" width="13" height="13"></td>
+			</tr>
+		  </table>
+</div>
+<br>
+Similar to  <a href="http://www.markpthomas.com/mountaineering/trip-reports/california/2011-03-13-carlheller" target="_blank" rel="nofollow">Carl Heller</a>, this is a semi-obscure climb that, while not on any major lists, is definitely one of my all time favorite routes in the High Sierra. Frankly, after traversing this ridge, I think the Thunderbolt-Sill traverse pales in comparison. This crest is far more varied, and it is far more sustained in difficulty, exposure, and commitment. I would say that the rock is also comparable if not better. <br>
+<br>
+One thing that makes the crest fun is how rarely it is traversed. When I first attempted a traverse in 2010, as far as register entries indicated, no one else had visited the summit for several years. Dating back to the beginning of the original register, the southern summit seemed to only see climbers once every 3-5 years, and few were attempting a traverse of the crest, and of those, most were attempting the full Palisade Traverse.  I'm not too worried about highlighting this climb making it crowded. Since 2010, it has seen more traffic, but more like one signed ascent a year. It is tough enough of an approach compared to the other sexier peaks in the Palisades that I doubt it will ever be nearly as crowded unless access were dramatically improved. Not that it is all that hard to access, but just hard enough, and probably mostly spared a lot of traffic due to that phenomena of 90% of climbers crowding onto 10 % of the routes (see Temple Crag, Mt Sill, N Pal, etc.).<br>
+<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-2n2-juWhB4A/UMzfeD1DTPI/AAAAAAABlCM/JyujDxquACI/s2000/PalisadeCrest-Aug6th-05-14GandalfPkLongShot2.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-2n2-juWhB4A/UMzfeD1DTPI/AAAAAAABlCM/JyujDxquACI/s400/PalisadeCrest-Aug6th-05-14GandalfPkLongShot2.jpg"></a><br>
+<b><i>Michael Graupe climbing along the class 3 portion of the Palisade Crest. Gandalf Pk lies beyond.</i></b><br>
+<br>
+I first saw the Palisade Crest on a <a href="http://www.markpthomas.com/mountaineering/trip-reports/california/mt-jepson-palisade-crest" target="_blank" rel="nofollow">Sierra Challenge outing to climb Gandalf Peak in 2004</a>. However, I was too timid to cross the gap to reach the cl. 4 slab leading to the summit, so I turned around and bagged Jepson as a consolation prize. I figured if I were roped I'd be OK, so that was a perfect excuse to come back and do the full traverse, where a rope is more required anyways. From this earlier outing I had seen that the crest was amazing, and I had gotten familiar with the standard approach, which is via a convoluted cross-country approach up the South Fork of Big Pine to Scimitar Pass, one of the most unlikely passes in the Sierra.<br>
+<br>
+Lastly, I want to point out that one of the things that made this climb so great was knowing so little about it, and the joy we experienced in working out the route, seeing it unfold, with the drama of uncertainty as to if we could find out way. We definitely had moments of doubt. So I was a bit torn as to whether I should deprive others of that experience by posting beta. However, I think the annotated images are so convoluted that if you merely browse them in a casual reading, you'll still be just as lost as we were up there, but plenty psyched to check it out! So don't worry about ruining a great mystery climb by reading this report. And for those who really want to follow every detail, they can take what they want with them and enjoy the route in a less mysterious way, but still plenty awesome.<br>
+<br>
+One mystery that still remains is the name of the summits. The northermost one is named Gandalf Peak after the wizard character in J.R. Tolkien's 'The Hobbit', and the remaining 11 summits are supposed to be named after other characters from the novel. However, no specifics are given in any source, and Don Jenson, who first named these pinnacles, appears to have left no record either. I'll discuss this more at the end of the report. (Note: There are more than 12 summits, really. But for whatever reason, some were chosen as summits, and others not. At times we had trouble telling on the traverse whether or not a summit was one of the 12).<br>
+<br>
+<a href="https://lh3.googleusercontent.com/-GlrNLKeyLBY/Tm-q5W8yPTI/AAAAAAAB0f4/hsYTP08UWcw/s1600/2010-08-09%252520-%25252003%252520-%252520Palisade%252520Crest%252520from%252520Elinore%252520Lake.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-GlrNLKeyLBY/Tm-q5W8yPTI/AAAAAAAB0f4/hsYTP08UWcw/s800/2010-08-09%252520-%25252003%252520-%252520Palisade%252520Crest%252520from%252520Elinore%252520Lake.jpg"></a><br>
+<b><i>Palisade Crest and Scimitar Pass</i></b><br>
+<br>
+<br>
+First, a rant. Whenever I would speak of the Palisade Crest to others, trying to convince them that we should check it out, they would think that I meant the Thunderbolt-to-Sill Traverse, which the erroneously called the 'Palisade Traverse'. When I would correct them, often the response is that the Palisade Traverse and Thunderbolt-To-Sill traverse are pretty much the same thing, and 'what is this Palisade Crest, then?' Such misnaming has even become common in online resources. So please see my corrections below!<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-DXqijP8dD6c/U1Qgo1_oMoI/AAAAAAADd8M/ZxZlkMGOPrg/s2000/Palisade%2520Crest%2520Google%2520Search.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-DXqijP8dD6c/U1Qgo1_oMoI/AAAAAAADd8M/ZxZlkMGOPrg/s800/Palisade%2520Crest%2520Google%2520Search.jpg"></a> <br>
+<b><i>A sign of how common the mislabeling of the Palisade Crest is, even Google brings up incorrect photos for the ridge!</i></b><br>
+<br>
+<a href="https://lh6.googleusercontent.com/-KCp7zyJ69s8/U1QgsoPDE4I/AAAAAAADd8k/qqLLP1rTddk/s2000/Palisade%2520Traverse%2520Diagram%2520-%2520Close.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-KCp7zyJ69s8/U1QgsoPDE4I/AAAAAAADd8k/qqLLP1rTddk/s800/Palisade%2520Traverse%2520Diagram%2520-%2520Close.jpg"></a> <br>
+<b><i>Palisade Traverse(s) and the path Steph and I took through the range. Hopefully this clears up why confusing the Palisade Traverse with the Thunderbolt-Sill Traverse is not a small difference!</i></b><br>
+<br>
+<div class="horizontalrule"><hr></div>
+<div class="horizontalrule"><hr></div>
+<br>
+<b><u>Round 1</u></b><br>
+<b><u>2010-08-07to09 - Attempt with Dirk Summers</u></b><br>
+In 2010 I first attempted the traverse with Dirk Summers, heading south-to-north, which is the standard direction as most people who traverse the crest are doing the Palisade Traverse, which is also typically done that direction. We ascended the II 5.8 Southeastern Pinnacles Route and made it to the second of the 12 spires before we decided that we should bail due to clouds accumulating to the NW. And not a moment too soon! Next time I'll wear socks in my climbing shoes if snow and graupel/hail are a possibility. (Secor calls the route II, 5.7, but the way we found felt more like a stout, bouldery 5.8).<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-oSOW8Qk8uPQ/Tm-p4WSzhdI/AAAAAAAB0aU/hM2BOvfQqE4/s1600/2010-08-07%252520-%25252004%252520-%252520Dirk%252520loving%252520the%252520approach%252520and%252520mosquitos.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-oSOW8Qk8uPQ/Tm-p4WSzhdI/AAAAAAAB0aU/hM2BOvfQqE4/s800/2010-08-07%252520-%25252004%252520-%252520Dirk%252520loving%252520the%252520approach%252520and%252520mosquitos.jpg"></a> <br>
+<b><i>Dirk enjoying the mosquitoes on the x-country approach.</i></b><br>
+<br>
+We chose to camp at Elinore Lake and wake before sunrise to finish the remaining 1,200 ft or so approach before sunrise. So on the first day we hiked the trail to the low point after the first big headwall, then cut across a mosquito-infested swamp and up an endless talus streambed heading towards Temple Crag and Contact Pass. Although we left the swamp, we did not lose the mosquitos. A ways up this northern fork of the South Fork, the route takes a 180 degree turn as it twists around and up to picturesque Elinore Lake.<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-ny50kjijTfI/Tm-p5kxm66I/AAAAAAAB0ac/Kyu80AQUOOk/s1600/2010-08-07%252520-%25252006%252520-%252520Dirk%252520loving%252520more%252520of%252520the%252520approach.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-ny50kjijTfI/Tm-p5kxm66I/AAAAAAAB0ac/Kyu80AQUOOk/s800/2010-08-07%252520-%25252006%252520-%252520Dirk%252520loving%252520more%252520of%252520the%252520approach.jpg"></a> <br>
+<b><i>Dirk enjoying the mosquitoes on the x-country approach near Elinore Lake.</i></b><br>
+<br>
+<a href="https://lh4.googleusercontent.com/-4BqQrvbyZCA/UibOudIwJUI/AAAAAAACmck/NQNWvxL2380/s1600/2010-08-07%252520-%25252010%252520-%252520Elinore%252520Lake%252520Panorama%252520-%252520annotated.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-4BqQrvbyZCA/UibOudIwJUI/AAAAAAACmck/NQNWvxL2380/s800/2010-08-07%252520-%25252010%252520-%252520Elinore%252520Lake%252520Panorama%252520-%252520annotated.jpg"></a> <br>
+<b><i>View from camp at Elinore Lake.</i></b><br>
+ <br>
+Despite a very early start, we still got to the route later than expected, as there is still significant terrain to cover above Elinore Lake. This left us behind schedule and tired for the climb. This left me more convinced that next time I should camp higher, at the pocket glacier beneath the Crest.<br>
+<br>
+We reached the crest at a perfect time to see the alpenglow illuminate it.<br>
+<br>
+<a href="https://lh5.googleusercontent.com/-q0OjpPvsHD0/Tm-p9gofAcI/AAAAAAAB0a4/b76iAKgGPl0/s1600/2010-08-08%252520-%25252001%252520-%252520Palisade%252520Crest%252520Alpenglow.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-q0OjpPvsHD0/Tm-p9gofAcI/AAAAAAAB0a4/b76iAKgGPl0/s800/2010-08-08%252520-%25252001%252520-%252520Palisade%252520Crest%252520Alpenglow.jpg"></a> <br>
+<b><i>Alpenglow on the Palisade Crest</i></b><br>
+ <br>
+<a href="https://lh3.googleusercontent.com/-S9C7BfruF4Y/Tm-qBT8yL5I/AAAAAAAB0bQ/1uC7Dn7WMCM/s1600/2010-08-08%252520-%25252006%252520-%252520Palisade%252520Crest%252520Alpenglow%252520Panorama.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-S9C7BfruF4Y/Tm-qBT8yL5I/AAAAAAAB0bQ/1uC7Dn7WMCM/s800/2010-08-08%252520-%25252006%252520-%252520Palisade%252520Crest%252520Alpenglow%252520Panorama.jpg"></a> <br>
+<b><i>Alpenglow on the Palisade Crest. The cl. 4 NE Face rises above for over 500 ft!</i></b><br>
+<br>
+<a href="https://lh5.googleusercontent.com/-IMY8GMpcZ1Y/Tm-qCwta55I/AAAAAAAB0bU/V9JyPMSBiYU/s1600/2010-08-08%252520-%25252007%252520-%2525201st%252520Part%252520of%252520Traverse%252520in%252520Alpenglow.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-IMY8GMpcZ1Y/Tm-qCwta55I/AAAAAAAB0bU/V9JyPMSBiYU/s800/2010-08-08%252520-%25252007%252520-%2525201st%252520Part%252520of%252520Traverse%252520in%252520Alpenglow.jpg"></a> <br>
+<b><i>Alpenglow on the Palisade Crest. On our N-S traverse, we climbed the prominent shaded dihedral to the left of what looks like the face of Optimus Prime.</i></b><br>
+<br>
+<a href="https://lh6.googleusercontent.com/-wKPcLb3uRlQ/Tm-qDcQ9otI/AAAAAAAB0bY/MJYnHksBC-4/s1600/2010-08-08%252520-%25252008%252520-%252520Optimus%252520Prime%252520Peak.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-wKPcLb3uRlQ/Tm-qDcQ9otI/AAAAAAAB0bY/MJYnHksBC-4/s800/2010-08-08%252520-%25252008%252520-%252520Optimus%252520Prime%252520Peak.jpg"></a> <br>
+<b><i>Alpenglow on the Palisade Crest and 'Optimus Prime' Peak :-)</i></b><br>
+ <br>
+From below the crest, we then traversed south alongside 2/3 of it to get to the start of the route. This traverse is awkward as the snow is steeply sloped and heavily suncupped. At the end of the traverse, you must climb a steep snow chute and then figure out how to ascend the rock beneath and over a massive chockstone.<br>
+<br>
+<a href="https://lh5.googleusercontent.com/-bpQ1nRrQLOM/Tm-qRokvZJI/AAAAAAAB0cQ/dtgCgBDU_nQ/s1600/2010-08-08%252520-%25252017a%252520-%252520Mark%252520reaching%252520the%252520Notch%252520-%252520Dirk.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-bpQ1nRrQLOM/Tm-qRokvZJI/AAAAAAAB0cQ/dtgCgBDU_nQ/s800/2010-08-08%252520-%25252017a%252520-%252520Mark%252520reaching%252520the%252520Notch%252520-%252520Dirk.jpg"></a> <br>
+<b><i>I expected the top to be steep, and I wasn't let down! (Photo by Dirk Summers)</i></b><br>
+ <br>
+Some dirty, unprotectable climbing took us up and left off of the top of the snow chute, and then we traversed back right, beneath the chockstone, to an exposed, thin 5.7-5.8 finger crack that nicely took us up and around the chockstone to the notch on the ridge crest. From here we hoped to simul-clim as much of the SE pillar as possible to get some mileage in. As I was still fairly new to technical climbing, I went first on the simul-climb.<br>
+<br>
+<a href="https://lh5.googleusercontent.com/-0Yk7QTwj-D4/Tm-qUpeHN0I/AAAAAAAB0cg/mYghbDDcdr4/s1600/2010-08-08%252520-%25252019b%252520-%252520Mark%252520leading%252520the%252520simul-climb%252520-%252520Dirk.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-0Yk7QTwj-D4/Tm-qUpeHN0I/AAAAAAAB0cg/mYghbDDcdr4/s800/2010-08-08%252520-%25252019b%252520-%252520Mark%252520leading%252520the%252520simul-climb%252520-%252520Dirk.jpg"></a> <br>
+<b><i>Leading the simul-climb, trying to keep it easy! (Photo by Dirk Summers)</i></b><br>
+ <br>
+The rock on the SE Pinnacle route was a bit loose, and the route convoluted. Overall, I'd give it about 2/5 stars, with the main drawback being the tricky and dirty first pitch getting to the notch. About halfway up the terrain got hard enough that we pitched it out the rest of the way to the summit. And what a summit it was! The original summit register was on the peak, and this register stated that the peak was named Gimley. (WAS being the key word. It is gone now).<br>
+<br>
+<a href="https://lh3.googleusercontent.com/-Y84CWU6mZ6M/Tm-qcPyvY0I/AAAAAAAB0dM/vLWfjdJQzQI/s1600/2010-08-08%252520-%25252025%252520-%252520Dirk%252520on%252520the%252520summit%252520of%252520Gimley.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-Y84CWU6mZ6M/Tm-qcPyvY0I/AAAAAAAB0dM/vLWfjdJQzQI/s800/2010-08-08%252520-%25252025%252520-%252520Dirk%252520on%252520the%252520summit%252520of%252520Gimley.jpg"></a> <br>
+<b><i>Summit of Gimley Peak! ca. 13,400'</i></b><br>
+ <br>
+We resumed simul-climbing on great rock on a knife-edge over to the next summit. This had a newer register in it, placed by Jason Lackey, stating that the peak was named Master Samwise (I am less trusting of this source, now). <br>
+<br>
+<a href="https://lh5.googleusercontent.com/-NOceZSuh3Zs/Tm-qoHXRjLI/AAAAAAAB0eQ/7gWIVVvoR9k/s1600/2010-08-08%252520-%25252041%252520-%252520Dirk%252520%252526%252520Master%252520Samwise.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-NOceZSuh3Zs/Tm-qoHXRjLI/AAAAAAAB0eQ/7gWIVVvoR9k/s800/2010-08-08%252520-%25252041%252520-%252520Dirk%252520%252526%252520Master%252520Samwise.jpg"></a> <br>
+<b><i>Dirk belaying just short of Master Samwise Peak to protect an exposed and tricky downclimb.</i></b><br>
+<br>
+<a href="https://lh4.googleusercontent.com/-06ljbtmaUmk/Tm-qo7Z9EpI/AAAAAAAB0eU/jRwD58d1M0A/s1600/2010-08-08%252520-%25252041a%252520-%252520Mark%252520following%252520near%252520Master%252520Samwise%252520-%252520Dirk.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-06ljbtmaUmk/Tm-qo7Z9EpI/AAAAAAAB0eU/jRwD58d1M0A/s800/2010-08-08%252520-%25252041a%252520-%252520Mark%252520following%252520near%252520Master%252520Samwise%252520-%252520Dirk.jpg"></a> <br>
+<b><i>This is why I practice crack climbing, downclimbing, and climbing with a pack on in the gym . . . (Photo by Dirk Summers)</i></b><br>
+ <br>
+Things were starting to get fun! Still, I was wary that it was not very early in the day, and the ridge ahead looked long and a lot more difficult. Secor rated the ridge 5.6, with rappels, but looking ahead, it looked like it would be very difficult to keep the climbing at  5.6. Also, clouds were beginning to build to the NW and there had been a 30% chance of showers forecast for the day. The summit dropped away in a way that made it seem likely we would need to rappel, and be committed. We made the call to turn around.<br>
+<br>
+<a href="https://lh6.googleusercontent.com/-uCRReZs2ES8/Tm-qtE22c2I/AAAAAAAB0es/RvY2ZuCc7Hw/s1600/2010-08-08%252520-%25252042%252520-%252520Dirk%252520looking%252520ahead.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-uCRReZs2ES8/Tm-qtE22c2I/AAAAAAAB0es/RvY2ZuCc7Hw/s800/2010-08-08%252520-%25252042%252520-%252520Dirk%252520looking%252520ahead.jpg"></a> <br>
+<b><i>Dirk looking at the exposed rappel ahead as we consider turning around.</i></b><br>
+ <br>
+Although it seemed like we turned around early, it took us a lot of time to reverse the ridge. As we neared the top of the SE Pinnacle route, the storm broke. Hail started falling, and we both started feeling an unnerving tickling of our hair vibrating up and down our arms and legs. Then ice axes started humming! There was a brief debate about whether to rappel off a side into the unknown and hopefully that would make us safer from a lightning strike. We decided this had enough downsides to racing to the beginning of our known rappel line that we should just go for it. The next decision was what was riskier: climbing as fast as possible to reach the rappels and get down before the imminent lightning strike, or recognize that the rock was exposed and getting slick from the hail, and hurrying would likely lead to a fatal fall (which would also occur if we were too slow and got struck by lightning.)<br>
+<br>
+<a href="https://lh5.googleusercontent.com/-0c_tYC5nHM8/Tm-qvkXDDCI/AAAAAAAB0e4/Idukz7RQkSs/s1600/2010-08-08%252520-%25252045%252520-%252520Dirk%252520Retreating.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-0c_tYC5nHM8/Tm-qvkXDDCI/AAAAAAAB0e4/Idukz7RQkSs/s800/2010-08-08%252520-%25252045%252520-%252520Dirk%252520Retreating.jpg"></a> <br>
+<b><i>Run away!</i></b><br>
+ <br>
+We unroped and Dirk chose to run, and I chose to take my chances climbing carefully. We met at the top of the rappels and down we went! The humming went away, but the wind and hail picked up. Hands burned, feet went numb (we had bare feet in our climbing shoes), and we had been in such a rush that we hand't donned any shells, so we were soaked and frigid.<br>
+<br>
+<a href="https://lh5.googleusercontent.com/-sTqVKEqUnKM/Tm-qxQAk-GI/AAAAAAAB0fE/Jm7vzbwHeLI/s1600/2010-08-08%252520-%25252047a%252520-%252520Bailing%252520-%252520Dirk.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-sTqVKEqUnKM/Tm-qxQAk-GI/AAAAAAAB0fE/Jm7vzbwHeLI/s800/2010-08-08%252520-%25252047a%252520-%252520Bailing%252520-%252520Dirk.jpg"></a> <br>
+<b><i>These ledges were dry when we started climbing, but then the graupel storm began (Photo by Dirk Summers)</i></b><br>
+ <br>
+<a href="https://lh4.googleusercontent.com/-MzhJcpxQPlI/Tm-qyuXqyaI/AAAAAAAB0fM/q-GjgshMXok/s1600/2010-08-08%252520-%25252047c%252520-%252520Mark%252520Rappelling%252520%252526%252520Cursing%252520-%252520Dirk.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-MzhJcpxQPlI/Tm-qyuXqyaI/AAAAAAAB0fM/q-GjgshMXok/s800/2010-08-08%252520-%25252047c%252520-%252520Mark%252520Rappelling%252520%252526%252520Cursing%252520-%252520Dirk.jpg"></a> <br>
+<b><i>Rappelling in the COLD graupel storm (Photo by Dirk Summers)</i></b><br>
+ <br>
+Naturally, the rope got stuck on one of the rappels. Dirk, being more brave than I, freed it while I attempted to rewarm my hands. We then made a gear anchor and did one last long rappel straight down to the snow.<br>
+<br>
+<a href="https://lh5.googleusercontent.com/-1G9IBxNxOrA/Tm-q1tvrkFI/AAAAAAAB0gk/XX1I5Xfzeuo/s1600/2010-08-08%252520-%25252048a%252520-%252520Dirkules%252520Freeing%252520Stuck%252520Rope.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-1G9IBxNxOrA/Tm-q1tvrkFI/AAAAAAAB0gk/XX1I5Xfzeuo/s800/2010-08-08%252520-%25252048a%252520-%252520Dirkules%252520Freeing%252520Stuck%252520Rope.jpg"></a> <br>
+<b><i>Dirkules saving the day retrieving the stuck rope.</i></b><br>
+ <br>
+<a href="https://lh5.googleusercontent.com/-Q8640MbqvIo/Tm-q3Hj1ydI/AAAAAAAB0fo/g1bn9IkcEfU/s1600/2010-08-08%252520-%25252048e%252520-%252520Mark%252520on%252520last%252520rappel%252520-%252520Dirk.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-Q8640MbqvIo/Tm-q3Hj1ydI/AAAAAAAB0fo/g1bn9IkcEfU/s800/2010-08-08%252520-%25252048e%252520-%252520Mark%252520on%252520last%252520rappel%252520-%252520Dirk.jpg"></a> <br>
+<b><i>Last rappel. Notice how clear and blue the sky is now :-P  (Photo by Dirk Summers)</i></b><br>
+ <br>
+Just as we reached the snow, the storm dissipated. We had clear skies the rest of the day, but alas, it was too late to go back up. Still, this was probably for the best. After returning and climbing the crest when I was faster, more confident, and starting earlier, I can say that we definitely would have bivvied if we had continued.<br>
+<br>
+<a href="https://lh5.googleusercontent.com/-ok8FBLPvM3s/Tm-q53LqitI/AAAAAAAB0f8/jTzHMAn7dik/s1600/2010-08-09%252520-%25252004%252520-%252520Palisade%252520Crest%252520from%252520Elinore%252520Lake.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-ok8FBLPvM3s/Tm-q53LqitI/AAAAAAAB0f8/jTzHMAn7dik/s800/2010-08-09%252520-%25252004%252520-%252520Palisade%252520Crest%252520from%252520Elinore%252520Lake.jpg"></a> <br>
+<b><i>Palisade Crest seen from Elinore Lake.</i></b><br>
+<br>
+<div class="horizontalrule"><hr></div>
+<div class="horizontalrule"><hr></div>
+<br>
+<b><u>Round 2</u></b><br>
+<b><u>2013-06-23 - Day 5 of my Palisade Tangent Traverse with Steph Abegg</u></b><br>
+Dirk wasn't as captivated by the crest as I was, and was mostly turned off by the mosquitoes and arduous approach, so I searched around for other adventurers who I could lure into traversing the crest with me. Three years later the stars aligned for me and Steph Abegg to climb it together, albeit in some different ways.  We did a different approach to make it part of an <a href="http://www.supertopo.com/tr/Palisade-Tangent-Traverse/t12340n.html" target="_blank">extended backcountry linkup trip</a>, and we chose to attempt the crest N-to-S after I read about some PullHarder guys doing the Palisade Crest that direction. They said that they did some rappels, but that they were able to climb the crest that way at about 5.7-5.8 and though it one of the most enjoyable and tricky parts of the entire traverse. We decided to try this option as getting onto the Crest from Scimitar Pass would be much easier, with rappelling the SE Pinnacles route serving as our descent.<br>
+<br>
+<a href="https://lh3.googleusercontent.com/-__HrsNsqAqw/U1QecaEtxcI/AAAAAAADd_U/xcLedkitWXU/s2000/2014-06-23%2520-%2520Map%2520Area.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-__HrsNsqAqw/U1QecaEtxcI/AAAAAAADd_U/xcLedkitWXU/s800/2014-06-23%2520-%2520Map%2520Area.jpg"></a> <br>
+<b><i>Day 5, we spent a long day traversing the Palisade Crest.</i></b><br>
+<br>
+This is one of the most interesting routes I have ever done. Steph Abegg and I traversed the Palisade Crest North to South while managing to avoid doing any rappels, apart from the 5 to descend the SE Ridge in the dark to get off the Crest. It was a 20 hour day, with sustained and complex route finding, and while seemingly improbable, usually a passage could be found at cl. 4 to 5.6, with a couple of 5.7 to 5.8 cruxes, the most interesting of which was what we dubbed 'The Ivory Way', a white dike ledge that passed through very exposed terrain. For most of the day we were blasted by frigid wind, from the west, which was from an incoming snowstorm and added to the alpine flavor of the route. For the most part the rock on the route was fantastic.<br>
+ <br>
+<a href="https://lh3.googleusercontent.com/-nQjKR5uA9PE/UdSWopFkw-I/AAAAAAACrOE/USmYIKji0h0/s1600/2013-06-23%252520-%25252000%252520-%252520Morning%252520stroll%252520in%252520sun%252520cups%252520-%252520Steph.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-nQjKR5uA9PE/UdSWopFkw-I/AAAAAAACrOE/USmYIKji0h0/s800/2013-06-23%252520-%25252000%252520-%252520Morning%252520stroll%252520in%252520sun%252520cups%252520-%252520Steph.jpg"></a> <br>
+<b><i>Morning stroll in sun cups. (by Steph Abegg)</i></b><br>
+ <br>
+<a href="https://lh5.googleusercontent.com/-_w1SrwEF_FE/UdSWpVc7ZfI/AAAAAAACrOM/7wfL6PsMowM/s1600/2013-06-23%252520-%25252000a%252520-%252520Morning%252520stroll%252520in%252520sun%252520cups%252520-%252520Steph.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-_w1SrwEF_FE/UdSWpVc7ZfI/AAAAAAACrOM/7wfL6PsMowM/s800/2013-06-23%252520-%25252000a%252520-%252520Morning%252520stroll%252520in%252520sun%252520cups%252520-%252520Steph.jpg"></a> <br>
+<b><i>Morning stroll in sun cups, heading towards Scimitar Pass. (by Steph Abegg)</i></b><br>
+ <br>
+<a href="https://lh4.googleusercontent.com/-FA6o0I46dsI/UdSXfY5WZ2I/AAAAAAACrOc/HnYe7B7bhLw/s1600/2013-06-23%252520-%25252002%252520-%252520Norman%252520Clyde%252520Peak%252520in%252520morning%252520alpenglow.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-FA6o0I46dsI/UdSXfY5WZ2I/AAAAAAACrOc/HnYe7B7bhLw/s800/2013-06-23%252520-%25252002%252520-%252520Norman%252520Clyde%252520Peak%252520in%252520morning%252520alpenglow.jpg"></a> <br>
+<b><i>Norman Clyde Peak in morning alpenglow</i></b><br>
+ <br>
+<a href="https://lh3.googleusercontent.com/-WtFYmx6ob1o/UdSXh0ofISI/AAAAAAACrO0/LC5QRpD4nt8/s1600/2013-06-23%252520-%25252003a%252520-%252520Cl%2525203%252520scrambling%252520on%252520the%252520Palisade%252520Crest%252520-%252520Steph.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-WtFYmx6ob1o/UdSXh0ofISI/AAAAAAACrO0/LC5QRpD4nt8/s800/2013-06-23%252520-%25252003a%252520-%252520Cl%2525203%252520scrambling%252520on%252520the%252520Palisade%252520Crest%252520-%252520Steph.jpg"></a> <br>
+<b><i>Me doing some class 3 scrambling on the Palisade Crest. (by Steph Abegg)</i></b><br>
+ <br>
+When we reached Scimitar Pass, a frigid, strong wind blasted us. The skies were clear, but this wind would stay with us all day, and turn into a snowstorm that night.<br>
+<br>
+<a href="https://lh6.googleusercontent.com/-Nd-HHlRUFs4/UdSXjZBoEZI/AAAAAAACrPE/MfPne_X_XNs/s1600/2013-06-23%252520-%25252004a%252520-%252520Cl%2525203%252520scrambling%252520on%252520the%252520Palisade%252520Crest%252520-%252520Steph.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-Nd-HHlRUFs4/UdSXjZBoEZI/AAAAAAACrPE/MfPne_X_XNs/s800/2013-06-23%252520-%25252004a%252520-%252520Cl%2525203%252520scrambling%252520on%252520the%252520Palisade%252520Crest%252520-%252520Steph.jpg"></a> <br>
+<b><i>Me class 3 scrambling on the Palisade Crest, with Gandalf Peak beyond. (by Steph Abegg)</i></b><br>
+ <br>
+Fortunately we were on the crest shortly after sunrise, and scrambling through cl. 3 terrain we were soon atop Palisade Crest Peak. This is the long hump north of Gandalf Peak and is not one of the 12 summits, but it is part of the crest, and cannot be avoided on any traverse. From here the terrain got exposed, so we roped up and began simul-climbing. Apart from a couple of sections just south of Gandalf Peak, the route stayed sustained enough that we never unroped for the rest of the climb, although we only stopped to belay a few pitches.<br>
+<br>
+<a href="https://lh5.googleusercontent.com/-guIB3ziytEc/UdSXktrGOUI/AAAAAAACrPM/NG0t0OASUPc/s1600/2013-06-23%252520-%25252005%252520-%252520Steph%252520atop%252520Palisade%252520Crest%252520Peak.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-guIB3ziytEc/UdSXktrGOUI/AAAAAAACrPM/NG0t0OASUPc/s800/2013-06-23%252520-%25252005%252520-%252520Steph%252520atop%252520Palisade%252520Crest%252520Peak.jpg"></a> <br>
+<b><i>Steph atop Palisade Crest Peak, with Gandalf Peak beyond.</i></b><br>
+ <br>
+<a href="https://lh6.googleusercontent.com/--n5QI54YkV8/UdSXozAGeFI/AAAAAAACrP0/jnV1dN_-kW4/s1600/2013-06-23%252520-%25252009%252520-%252520Palisade%252520Crest%252520Peak%252520Register.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/--n5QI54YkV8/UdSXozAGeFI/AAAAAAACrP0/jnV1dN_-kW4/s800/2013-06-23%252520-%25252009%252520-%252520Palisade%252520Crest%252520Peak%252520Register.jpg"></a> <br>
+<b><i>Palisade Crest Peak register</i></b><br>
+ <br>
+<a href="https://lh6.googleusercontent.com/-DqGBJBdwpqI/UhbomPGbVVI/AAAAAAACdwE/R2s6VniYcRE/s1600/2013-06-23%252520-%25252010%252520-%252520Gandalf%252520Peak%252520-%252520annotated-2.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-DqGBJBdwpqI/UhbomPGbVVI/AAAAAAACdwE/R2s6VniYcRE/s800/2013-06-23%252520-%25252010%252520-%252520Gandalf%252520Peak%252520-%252520annotated-2.jpg"></a> <br>
+<b><i>Gandalf Peak</i></b><br>
+<br>
+<a href="https://lh3.googleusercontent.com/-isjKzZpJxJo/UdSXtfz1_II/AAAAAAACrQU/HOBq2mtnFvA/s1600/2013-06-23%252520-%25252012%252520-%252520Steph%252520downclimbing%252520to%252520the%252520notch.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-isjKzZpJxJo/UdSXtfz1_II/AAAAAAACrQU/HOBq2mtnFvA/s800/2013-06-23%252520-%25252012%252520-%252520Steph%252520downclimbing%252520to%252520the%252520notch.jpg"></a> <br>
+<b><i>Steph downclimbing to the notch</i></b><br>
+<br>
+<a href="https://lh5.googleusercontent.com/-7dApvppAzPE/UdSXvIGQM9I/AAAAAAACrQk/27qvcuHHZpI/s1600/2013-06-23%252520-%25252014%252520-%252520Cl%2525204%252520slab%252520leading%252520to%252520Gandalf%252520Pk.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-7dApvppAzPE/UdSXvIGQM9I/AAAAAAACrQk/27qvcuHHZpI/s800/2013-06-23%252520-%25252014%252520-%252520Cl%2525204%252520slab%252520leading%252520to%252520Gandalf%252520Pk.jpg"></a> <br>
+<b><i>Class 4 slab leading to Gandalf Pk</i></b><br>
+<br>
+The cl. 4 slab wasn't too hard, but it sure would be heady to solo - especially on the mandatory downclimb if you are only climbing Gandalf Peak. The climbing was pretty fun and clean.<br>
+<br>
+<a href="https://lh3.googleusercontent.com/-n_XtBtlx3h0/UhboqflnKcI/AAAAAAACdwU/QHJBj3R4CVY/s1600/2013-06-23%252520-%25252016a%252520-%252520Steph%252520following%252520the%252520cl%2525204%252520slab%252520-%252520annotated-2.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-n_XtBtlx3h0/UhboqflnKcI/AAAAAAACdwU/QHJBj3R4CVY/s800/2013-06-23%252520-%25252016a%252520-%252520Steph%252520following%252520the%252520cl%2525204%252520slab%252520-%252520annotated-2.jpg"></a> <br>
+<b><i>Steph following the class 4 slab. Mt Gayley (left) and Temple Crag (right) are in the distance.</i></b><br>
+ <br>
+<a href="https://lh4.googleusercontent.com/-lW4hXMIUZGY/UdSX0p-dApI/AAAAAAACrRE/-r9JCfKWVog/s1600/2013-06-23%252520-%25252017%252520-%252520Final%252520scramble%252520up%252520Gandalf%252520Pk.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-lW4hXMIUZGY/UdSX0p-dApI/AAAAAAACrRE/-r9JCfKWVog/s800/2013-06-23%252520-%25252017%252520-%252520Final%252520scramble%252520up%252520Gandalf%252520Pk.jpg"></a> <br>
+<b><i>Final scramble up Gandalf Pk</i></b><br>
+ <br>
+<a href="https://lh5.googleusercontent.com/-kCuymr10Aq4/UdSX4qnaOtI/AAAAAAACrRk/DjZwYWJF5mg/s1600/2013-06-23%252520-%25252021%252520-%252520Looking%252520S%252520on%252520the%252520Palisade%252520Crest.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-kCuymr10Aq4/UdSX4qnaOtI/AAAAAAACrRk/DjZwYWJF5mg/s800/2013-06-23%252520-%25252021%252520-%252520Looking%252520S%252520on%252520the%252520Palisade%252520Crest.jpg"></a> <br>
+<b><i>Looking south along the Palisade Crest from atop Gandalf Peak.</i></b><br>
+ <br>
+One summit down, 11 to go! The crest doesn't look any shorter from this end than it did from Gimley Peak. A long day awaits!<br>
+<br>
+After summitting Gandalf Peak, which has an active summit register as it is frequented by peakbaggers (maybe a dozen or so each year), we continued south. For the next while the terrain was mostly cl. 2 ledges and some blocky cl. 3 ledges. We were tempted to unrope, but the ridge got difficult again soon enough. This section is the only easy part of the ridge, and perhaps one of the few good places to bivy on it.<br>
+<br>
+<a href="https://lh5.googleusercontent.com/-Y2uPcgAF_Sc/UdSYARkrSlI/AAAAAAACrSk/7k-qtPRDXHo/s1600/2013-06-23%252520-%25252029%252520-%252520Looking%252520back%252520at%252520Gandalf%252520Peak.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-Y2uPcgAF_Sc/UdSYARkrSlI/AAAAAAACrSk/7k-qtPRDXHo/s800/2013-06-23%252520-%25252029%252520-%252520Looking%252520back%252520at%252520Gandalf%252520Peak.jpg"></a> <br>
+<b><i>Looking back at Gandalf Peak</i></b><br>
+ <br>
+<a href="https://lh6.googleusercontent.com/-HZRS9bbGh_Q/UdSYBMsR5tI/AAAAAAACrSs/Xzg1A8eR0jY/s1600/2013-06-23%252520-%25252030%252520-%252520Heading%252520South.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-HZRS9bbGh_Q/UdSYBMsR5tI/AAAAAAACrSs/Xzg1A8eR0jY/s800/2013-06-23%252520-%25252030%252520-%252520Heading%252520South.jpg"></a> <br>
+<b><i>Heading south on the easy part of the ridge.</i></b><br>
+ <br>
+Up and down, all around. One repeating theme of the climb was that perspective often made the way ahead appear more difficult than it was. Usually we would climb towards an impasse to find that the scale was smaller than we though, or that a knife-edged headwall actually had enough slope to it to make it easy to simul-climb. Although the terrain stayed sustained at cl. 4 to low 5th class, it was good for simul-climbing, and the route was usually obvious, or there would be several fun ones to choose from. We made good time knocking off summit ticks along this section.<br>
+<br>
+<a href="https://lh3.googleusercontent.com/-2ey5zQl1bz0/UdSYFrKACKI/AAAAAAACrTM/p06Hly0WWD0/s1600/2013-06-23%252520-%25252033%252520-%252520Climbing%252520the%252520next%252520summit.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-2ey5zQl1bz0/UdSYFrKACKI/AAAAAAACrTM/p06Hly0WWD0/s800/2013-06-23%252520-%25252033%252520-%252520Climbing%252520the%252520next%252520summit.jpg"></a> <br>
+<b><i>Climbing the next summit</i></b><br>
+<br>
+<a href="https://lh4.googleusercontent.com/-Zg2NO9shafQ/UdSYG0Qs9qI/AAAAAAACrTU/deqTTdeUwh0/s1600/2013-06-23%252520-%25252034%252520-%252520Climbing%252520another%252520summit.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-Zg2NO9shafQ/UdSYG0Qs9qI/AAAAAAACrTU/deqTTdeUwh0/s800/2013-06-23%252520-%25252034%252520-%252520Climbing%252520another%252520summit.jpg"></a> <br>
+<b><i>Climbing another summit</i></b><br>
+<br>
+<a href="https://lh3.googleusercontent.com/-uiOlOcxBanY/UdSYHoeA-3I/AAAAAAACrTc/VZA8f2hx3R8/s1600/2013-06-23%252520-%25252035%252520-%252520Gimli%252520Peak.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-uiOlOcxBanY/UdSYHoeA-3I/AAAAAAACrTc/VZA8f2hx3R8/s800/2013-06-23%252520-%25252035%252520-%252520Gimli%252520Peak.jpg"></a> <br>
+<b><i>"Gimli" Peak (according to Jason Lakey)</i></b><br>
+ <br>
+We were still mostly finding summit registers on every obvious summit, collecting names as we went. Learning the peak names would be like a treasure hunt! Unfortunately, we encountered another Gimley peak, but spelled Gimli. As all of the registers we had found had been put up by one climber, we wondered about his sources, as this name was already bestowed upon the southernmost summit, according to the summit register dating back to the 1970s. I would be really curious to hear if Jason had a source, or if he just decided to name them himself as he placed the registers ... oh well, it was still fun writing down names and looking for registers!<br>
+<br>
+<a href="https://lh6.googleusercontent.com/-Rl2ItTwqK6o/UdSYJmnHPqI/AAAAAAACrTs/U5z47QHz7Hs/s1600/2013-06-23%252520-%25252037%252520-%252520Steph%252520Atop%252520Gimli%252520Peak%252520seen%252520from%252520The%252520Orc.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-Rl2ItTwqK6o/UdSYJmnHPqI/AAAAAAACrTs/U5z47QHz7Hs/s800/2013-06-23%252520-%25252037%252520-%252520Steph%252520Atop%252520Gimli%252520Peak%252520seen%252520from%252520The%252520Orc.jpg"></a> <br>
+<b><i>Steph atop "Gimli Peak", seen from "The Orc"</i></b><br>
+ <br>
+<a href="https://lh5.googleusercontent.com/-982hiPwLUOc/UdSZrTcD-oI/AAAAAAACrUE/no_7je7GPGs/s1600/2013-06-23%252520-%25252040%252520-%252520Continuing%252520Along.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-982hiPwLUOc/UdSZrTcD-oI/AAAAAAACrUE/no_7je7GPGs/s800/2013-06-23%252520-%25252040%252520-%252520Continuing%252520Along.jpg"></a> <br>
+<b><i>Continuing along beyond the Orc.</i></b><br>
+ <br>
+<a href="https://lh6.googleusercontent.com/-xw7NXVjGyls/UdSZvzXGwMI/AAAAAAACrUk/u4XWY-vXBbI/s1600/2013-06-23%252520-%25252044%252520-%252520Steph%252520atop%252520The%252520Orc%252520seen%252520from%252520atop%252520Strider.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-xw7NXVjGyls/UdSZvzXGwMI/AAAAAAACrUk/u4XWY-vXBbI/s800/2013-06-23%252520-%25252044%252520-%252520Steph%252520atop%252520The%252520Orc%252520seen%252520from%252520atop%252520Strider.jpg"></a> <br>
+<b><i>Steph atop "The Orc" seen from atop "Strider"</i></b><br>
+ <br>
+<a href="https://lh6.googleusercontent.com/-isIXcWg0mgc/UdSZx7tuKlI/AAAAAAACrU0/D4NXoLHz52A/s1600/2013-06-23%252520-%25252044b%252520-%252520On%252520the%252520Palisade%252520Crest%252520-%252520Steph.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-isIXcWg0mgc/UdSZx7tuKlI/AAAAAAACrU0/D4NXoLHz52A/s800/2013-06-23%252520-%25252044b%252520-%252520On%252520the%252520Palisade%252520Crest%252520-%252520Steph.jpg"></a> <br>
+<b><i>On the Palisade Crest. (by Steph Abegg)</i></b><br>
+ <br>
+The terrain was passing by fast. At this rate it seemed like we'd be done and down at a comfortable hour, confirming the Grade III status of the route. However, I was suspicious, since Secor's III, 5.6 w/ rappels rating also said that the FA party spent 2 days climbing the ridge . . .<br>
+<br>
+We enjoyed a nice lunch break on a roomy summit, mercifully providing some wind breaks from the westerly winds that had been increasing throughout the day. Then on we went! from here on out, we saw no more registers, and the terrain got a lot more difficult, and routefinding a lot more convoluted. Our nice pace was about to slow down dramatically.<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-PYlGwIgnxEY/UdSZ0gjZKZI/AAAAAAACrVE/ZrTiAhwFT-0/s1600/2013-06-23%252520-%25252044d%252520-%252520Lunch%252520on%252520the%252520Palisade%252520Crest%252520-%252520Steph.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-PYlGwIgnxEY/UdSZ0gjZKZI/AAAAAAACrVE/ZrTiAhwFT-0/s800/2013-06-23%252520-%25252044d%252520-%252520Lunch%252520on%252520the%252520Palisade%252520Crest%252520-%252520Steph.jpg"></a> <br>
+<b><i>Lunch on the Palisade Crest, hiding behind a wind shelter as the western breezes picked up. (by Steph Abegg)</i></b><br>
+<br>
+<a href="https://lh3.googleusercontent.com/-ubycDFaracc/UhbosL0UNSI/AAAAAAACdwc/BQLCg3eP-T4/s1600/2013-06-23%252520-%25252045%252520-%252520Notch%252520to%252520Sky%252520Panorama%252520-%252520annotated.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-ubycDFaracc/UhbosL0UNSI/AAAAAAACdwc/BQLCg3eP-T4/s800/2013-06-23%252520-%25252045%252520-%252520Notch%252520to%252520Sky%252520Panorama%252520-%252520annotated.jpg"></a> <br>
+<b><i>Notch to Sky Panorama, looking south.</i></b><br>
+<br>
+One detail that made the next part difficult was that overall we lost elevation. Picking our way on downclimbs of a knife-edge ridge turned out to be a lot more difficult than seeing a route climbing up one. Often we would have to downclimb towards what appeared to be a dead end, and either a route presented itself, or it was truly a dead end and we would have to traverse around and over to the other side of the crest. Also, from this point on along the crest, the summits each had much more prominent notches separating them, requiring lots of climbing up and down.<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-8yy66DjvALU/UdSZ5GC3i9I/AAAAAAACrVg/W0oEQmy7syA/s1600/2013-06-23%252520-%25252047%252520-%252520Steph%252520following%252520a%252520downclimb.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-8yy66DjvALU/UdSZ5GC3i9I/AAAAAAACrVg/W0oEQmy7syA/s800/2013-06-23%252520-%25252047%252520-%252520Steph%252520following%252520a%252520downclimb.jpg"></a> <br>
+<b><i>Steph following one of the many downclimbs on the ridge.</i></b><br>
+<br>
+<a href="https://lh5.googleusercontent.com/-yMmJcHtvEco/UdSZ6CFArtI/AAAAAAACrVo/vDipEb_OCQU/s1600/2013-06-23%252520-%25252048%252520-%252520More%252520downclimbing.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-yMmJcHtvEco/UdSZ6CFArtI/AAAAAAACrVo/vDipEb_OCQU/s800/2013-06-23%252520-%25252048%252520-%252520More%252520downclimbing.jpg"></a> <br>
+<b><i>More downclimbing, after a very wide step across.</i></b><br>
+ <br>
+Along the way we did find a few fresh rappel slings, most likely left behind by the Pullharder Crew. However, in each circumstance, we looked around a bit and found a way to downclimb instead of rappel. This was fun to piece together!<br>
+<br>
+At the route crux, the ridge ends in a sheer step, and I was forced to downclimb about 100 ft or so into some chutes on the east side. As I dropped lower from the crest, the rock quality deteriorated, getting worse as I got lower. Although it looked like I could traverse around the next spire on the east side, the rock was rotten, and the way was so far below the crest that it seemed against the spirit of the traverse. Also, it wasn't clear if it was a dead end or were we could next climb back up to the crest. So I trudged up a cl. 3 scree chute to a notch. The climbing looked stout ascending out of the notch, so I belayed Steph in and she put me on belay.<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-gcbNjWT5Ocw/UhbouJthU8I/AAAAAAACdwk/mcV6xBePxnE/s1600/2013-06-23%252520-%25252049%252520-%252520Looking%252520ahead%252520to%252520the%252520next%252520summit%252520-%252520annotated.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-gcbNjWT5Ocw/UhbouJthU8I/AAAAAAACdwk/mcV6xBePxnE/s800/2013-06-23%252520-%25252049%252520-%252520Looking%252520ahead%252520to%252520the%252520next%252520summit%252520-%252520annotated.jpg"></a> <br>
+<b><i>Looking ahead to the next summit as we climbed through the crux section of the Palisade Crest.</i></b><br>
+ <br>
+From the notch it was sustained 5.7 crack climbing up to another headwall. The obvious way from there was to climb into an OW, bit it looked tricky. Fortunately there was a crack beside it  . . . which turned out to be behind one of the larger and thinner flakes I have encountered. There would be no gear for the stout OW as any gear in the vibrating flake would clearly blow it apart, and a bad ledge fall waited 15 ft below. This didn't seem right. <br>
+<br>
+I saw an exposed midget ledge leading out right to a corner ending in space. Perhaps there was a way around that corner? I awkwardly shuffled and hand-traversed over, but halfway along I encountered a 2'x2' block that seemed precariously perched. It would be difficult to climb past without risking a bad fall (I still had no gear in above the ledge) and I would likely dislodge it in the process. Or the rope might just knock it off after I climbed past. I knew that Steph was in a notch behind the last step, about 80 ft below, and the rock would clearly fall into chutes to the West, so there was no way it would strike her. Still, it seemed pretty large.<br>
+<br>
+I called down to Steph and explained the situation. <br>
+<br>
+"Do you mind if I trundle this block?" I asked.<br>
+<br>
+"Sure! Go ahead!" Steph responded. So without too much effort I peeled the block off of the ledge and it fell free for about half a second before first impact, at which point it ricocheted down the chute, exploding many other chunks of rock and sending up a plume of gritty dust. The mortar impact was a lot larger and more impressive than I had expected! It also first impacted close to Steph's height, but around the corner. Still, she experienced enough of the blowback that she called out:<br>
+<br>
+"OK, that one was OK, but don't send down any more!"<br>
+<br>
+I had used up my trundling allowance for the day.<br>
+<br>
+<a href="https://lh6.googleusercontent.com/-7sHMu557N6Q/UhbowNffE8I/AAAAAAACdws/Vu933RfcFZQ/s1600/2013-06-23%252520-%25252050%252520-%252520Looking%252520ahead%252520to%252520the%252520next%252520summit%252520-%252520annotated.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-7sHMu557N6Q/UhbowNffE8I/AAAAAAACdws/Vu933RfcFZQ/s800/2013-06-23%252520-%25252050%252520-%252520Looking%252520ahead%252520to%252520the%252520next%252520summit%252520-%252520annotated.jpg"></a> <br>
+<b><i>Looking ahead to the next summit as we climbed through the crux section of the Palisade Crest.</i></b><br>
+ <br>
+I made an awkward blind reach around the corner and found a hand crack. I swung around into a wide stem in a stem box that ended as a roof just beneath my feet. From here it was pretty wild stemming and jamming up the exposed slot. Rope drag became a beast, and I barely made it to the top, where I belayed Steph up. From here the climbing got slightly more straightforward again, but this was definitely the crux of the route. It felt about 5.8 and should be less heady now that the loose block is gone.<br>
+<br>
+<a href="https://lh3.googleusercontent.com/-uK8D0D21ptw/UdSZ_IIaovI/AAAAAAACrWA/aTCu7HPHKp0/s1600/2013-06-23%252520-%25252051%252520-%252520Looking%252520ahead%252520to%252520the%252520next%252520summit.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-uK8D0D21ptw/UdSZ_IIaovI/AAAAAAACrWA/aTCu7HPHKp0/s800/2013-06-23%252520-%25252051%252520-%252520Looking%252520ahead%252520to%252520the%252520next%252520summit.jpg"></a> <br>
+<b><i>Looking back after the crux section of the Palisade Crest at spires (8?) and (9?).</i></b><br>
+ <br>
+<a href="https://lh3.googleusercontent.com/-lpkDypOio5Q/UdSaAD_KG8I/AAAAAAACrWI/sGdL5Sx7VrA/s1600/2013-06-23%252520-%25252052%252520-%252520Another%252520spire.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-lpkDypOio5Q/UdSaAD_KG8I/AAAAAAACrWI/sGdL5Sx7VrA/s800/2013-06-23%252520-%25252052%252520-%252520Another%252520spire.jpg"></a> <br>
+<b><i>Looking up the first spire (7?) after the trickiest crux.</i></b><br>
+ <br>
+<a href="https://lh4.googleusercontent.com/-DpdZ8FVaYfA/UdSaBJxTegI/AAAAAAACrWQ/iZBTK3-kUsU/s1600/2013-06-23%252520-%25252053%252520-%252520Conituing%252520along%252520the%252520ridge.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-DpdZ8FVaYfA/UdSaBJxTegI/AAAAAAACrWQ/iZBTK3-kUsU/s800/2013-06-23%252520-%25252053%252520-%252520Conituing%252520along%252520the%252520ridge.jpg"></a> <br>
+<b><i>Continuing south along the ridge.</i></b><br>
+<br>
+<a href="https://lh4.googleusercontent.com/-RFhF-5rIgy8/UdSaB0XYuGI/AAAAAAACrWY/ZQ-4e4ef4t8/s1600/2013-06-23%252520-%25252054%252520-%252520Another%252520spire.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-RFhF-5rIgy8/UdSaB0XYuGI/AAAAAAACrWY/ZQ-4e4ef4t8/s800/2013-06-23%252520-%25252054%252520-%252520Another%252520spire.jpg"></a> <br>
+<b><i>Passing yet another spire.</i></b><br>
+<br>
+<a href="https://lh3.googleusercontent.com/-RlTq5e7wcKc/UdSaID3C8dI/AAAAAAACrXA/jrbd6ekBGpE/s1600/2013-06-23%252520-%25252058a%252520-%252520Downclimbing%252520beyond%252520rapp%252520slings.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-RlTq5e7wcKc/UdSaID3C8dI/AAAAAAACrXA/jrbd6ekBGpE/s800/2013-06-23%252520-%25252058a%252520-%252520Downclimbing%252520beyond%252520rapp%252520slings.jpg"></a> <br>
+<b><i>Downclimbing beyond the rappel slings on spire (5?), looking back at (left to right) spires (8?), (9?), (7?), (6?) and (5?).</i></b><br>
+ <br>
+<a href="https://lh4.googleusercontent.com/-jmYn_fqc5AA/UdSaEVR2l1I/AAAAAAACrWo/12RIhQeRQjA/s1600/2013-06-23%252520-%25252056%252520-%252520Another%252520big%252520drop.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-jmYn_fqc5AA/UdSaEVR2l1I/AAAAAAACrWo/12RIhQeRQjA/s800/2013-06-23%252520-%25252056%252520-%252520Another%252520big%252520drop.jpg"></a> <br>
+<b><i>Looking south at spires 4, 3 and 1 (left).</i></b><br>
+<br>
+<a href="https://lh3.googleusercontent.com/-KGIybjN5fAs/UdSaGH7W4OI/AAAAAAACrWw/MWekjRpXUzw/s1600/2013-06-23%252520-%25252057%252520-%252520Unnecesary%252520rappel%252520sling.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-KGIybjN5fAs/UdSaGH7W4OI/AAAAAAACrWw/MWekjRpXUzw/s800/2013-06-23%252520-%25252057%252520-%252520Unnecesary%252520rappel%252520sling.jpg"></a> <br>
+<b><i>Unnecessary rappel sling. Routefinding was a tad tricky, but plenty fun and much better than rappelling.</i></b><br>
+ <br>
+<a href="https://lh5.googleusercontent.com/-TdD7vyQ0KLE/UdSaKhFuujI/AAAAAAACrXQ/igspPbGrUIk/s1600/2013-06-23%252520-%25252060%252520-%252520Looking%252520back%252520up%252520the%252520downclimb.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-TdD7vyQ0KLE/UdSaKhFuujI/AAAAAAACrXQ/igspPbGrUIk/s800/2013-06-23%252520-%25252060%252520-%252520Looking%252520back%252520up%252520the%252520downclimb.jpg"></a> <br>
+<b><i>After the rappel slings, I turned a hard 180 and found this slightly loose gully to downclimb as I wrapped back around to facing south.</i></b><br>
+ <br>
+<a href="https://lh4.googleusercontent.com/-yi8ZfOeRjJM/UdSaMHZDe5I/AAAAAAACrXY/ClcwkxOVVuI/s1600/2013-06-23%252520-%25252061%252520-%252520Face%252520downclimbing.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-yi8ZfOeRjJM/UdSaMHZDe5I/AAAAAAACrXY/ClcwkxOVVuI/s800/2013-06-23%252520-%25252061%252520-%252520Face%252520downclimbing.jpg"></a> <br>
+<b><i>Downclimbing the face on the right. This looks to go somewhere . . .</i></b><br>
+ <br>
+<a href="https://lh6.googleusercontent.com/-eRJk3YGXD7k/UhboxlLxbSI/AAAAAAADYo8/kTdLwhDY5Y4/s1600/2013-06-23%252520-%25252065%252520-%252520Steph%252520downclimbing%252520face%252520-%252520annotated.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-eRJk3YGXD7k/UhboxlLxbSI/AAAAAAADYo8/kTdLwhDY5Y4/s800/2013-06-23%252520-%25252065%252520-%252520Steph%252520downclimbing%252520face%252520-%252520annotated.jpg"></a> <br>
+<b><i>Steph downclimbing the face section that bypasses the rappel. Spire (5?). Note how the rope is bowing from the wind!</i></b><br>
+ <br>
+<a href="https://lh5.googleusercontent.com/-qgJjyl3jjLI/UdSaS31hikI/AAAAAAACrYI/JbMt5i4FY-Y/s2000/2013-06-23%2520-%252065a%2520-%2520Narrow%2520Palisade%2520Crest%2520-%2520Steph.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-qgJjyl3jjLI/UdSaS31hikI/AAAAAAACrYI/JbMt5i4FY-Y/s800/2013-06-23%2520-%252065a%2520-%2520Narrow%2520Palisade%2520Crest%2520-%2520Steph.jpg"></a> <br>
+<b><i>Standing atop spire (4.5?) on the narrow Palisade Crest. (by Steph Abegg)</i></b><br>
+<br>
+After traversing a summit section threading serrated rock fingers, we found another impasse. I saw good, clean rock leading down into what rolled into a dropoff. Rather than trusting the iffy rapp sling that dropped off onto the steeper, shady East side I downclimbed to the West and found a nice traverse back over to the crest just above the dropoff along some white dike bands. After this there was some more back and forth running pro around various gendarmes. This was getting fun again!<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-AdR1FaC5gUU/UdSaOVcafCI/AAAAAAACrXo/A6agSEgBim4/s1600/2013-06-23%252520-%25252063%252520-%252520More%252520spires.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-AdR1FaC5gUU/UdSaOVcafCI/AAAAAAACrXo/A6agSEgBim4/s800/2013-06-23%252520-%25252063%252520-%252520More%252520spires.jpg"></a> <br>
+<b><i>More spires along the crest. This one looked good to stand on top of! (Spire 4.5?)</i></b><br>
+<br>
+<a href="https://lh5.googleusercontent.com/-ER9a_oSKVBU/UdSaVf679rI/AAAAAAACrYY/TrRR_4Wv9jQ/s1600/2013-06-23%252520-%25252066%252520-%252520At%252520the%252520next%252520big%252520impasse.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-ER9a_oSKVBU/UdSaVf679rI/AAAAAAACrYY/TrRR_4Wv9jQ/s800/2013-06-23%252520-%25252066%252520-%252520At%252520the%252520next%252520big%252520impasse.jpg"></a> <br>
+<b><i>Looking back up at the downclimb after I reached the next big impasse. We actually came from the left side of the tower, headed back to the right side, and downclimbed over there.</i></b><br>
+<br>
+We were picking up the pace again, and only had four more summits left. Then we were stopped by the most definitive impasse yet. A large notch, and there was clearly no way to downclimb the crest, or anywhere near it. I saw perhaps some ledges to traverse on lower down, so I downclimbed about 100' on the East side of the crest. This seemed fair, as it only dropped me down as low as the notch we had to climb past anyways. Now to find a way over to it ...<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-6db8DiCX7eA/UdSaWQICFDI/AAAAAAACrYg/SUf6vad56YA/s1600/2013-06-23%252520-%25252067%252520-%252520Looking%252520across%252520the%252520crux%252520notch.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-6db8DiCX7eA/UdSaWQICFDI/AAAAAAACrYg/SUf6vad56YA/s800/2013-06-23%252520-%25252067%252520-%252520Looking%252520across%252520the%252520crux%252520notch.jpg"></a> <br>
+<b><i>Looking across the 'Ivory Way' crux notch to spire (4?).</i></b><br>
+ <br>
+<a href="https://lh4.googleusercontent.com/-SyDKwQwcUto/UdSaZj-p0YI/AAAAAAACrYw/HJa_Fi_Vndo/s1600/2013-06-23%252520-%25252068%252520-%252520Lots%252520of%252520downclimbing.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-SyDKwQwcUto/UdSaZj-p0YI/AAAAAAACrYw/HJa_Fi_Vndo/s800/2013-06-23%252520-%25252068%252520-%252520Lots%252520of%252520downclimbing.jpg"></a> <br>
+<b><i>I traversed back north on a thin ledge on the east side of the crest, and then downclimbed a full 100 ft off of the crest, where I found the perfect passage past the deep, knife-edged notch.</i></b><br>
+ <br>
+Finding our way to the notch provided the biggest surprise of the day, and one of the funnest discoveries that I have had rock climbing. The terrain was improbably steep and smooth and nowhere close to 5.6 unless one dropped down much farther, but I happened across a delightful smooth white dike that protruded from the cliff face anywhere from 12-24". It was continuous and appeared to traverse over as far as I could see, and appeared to pass just beneath the notch, providing a possible crossing. Near the notch it seemed to recede into the wall, but I couldn't be sure. After that little corner, I could see the dike continuing along on the other side of the notch. Would this way work? Only one way to find out!<br>
+<br>
+<a href="https://lh5.googleusercontent.com/-vR_awi3z_Zs/UdSaa9yFaAI/AAAAAAACrY4/xkgWjIh1CyQ/s1600/2013-06-23%252520-%25252069%252520-%252520Traversing%252520along%252520the%252520Ivory%252520Way.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-vR_awi3z_Zs/UdSaa9yFaAI/AAAAAAACrY4/xkgWjIh1CyQ/s800/2013-06-23%252520-%25252069%252520-%252520Traversing%252520along%252520the%252520Ivory%252520Way.jpg"></a> <br>
+<b><i>There was this continuous white dike that traversed from spire (4?) to spire (5?), just below the notch. The rock was slick and smooth, with few cracks, but the dike projected a bit, leaving a perfect ledge to shuffle along! We whimsically dubbed this 'The Ivory Way'.</i></b><br>
+ <br>
+Steph belayed me as I mantled the dike and shuffled for a long ways to the south. There wasn't much gear, but the ledge was wonderfully secure as long as you didn't lose your balance and fall backward.<br>
+<br>
+<a href="https://lh6.googleusercontent.com/-fIHYkm_dvLY/UdSacVkUWII/AAAAAAACrZA/KLf8kkb951Y/s1600/2013-06-23%252520-%25252070%252520-%252520Looking%252520back%252520at%252520Steph%252520on%252520the%252520Ivory%252520Way.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-fIHYkm_dvLY/UdSacVkUWII/AAAAAAACrZA/KLf8kkb951Y/s800/2013-06-23%252520-%25252070%252520-%252520Looking%252520back%252520at%252520Steph%252520on%252520the%252520Ivory%252520Way.jpg"></a> <br>
+<b><i>Looking back at Steph on the 'Ivory Way'.</i></b><br>
+<br>
+<a href="https://lh5.googleusercontent.com/-NE_vG4b63Vo/UdSad10Z8yI/AAAAAAACrZI/ejCJvwph6mo/s1600/2013-06-23%252520-%25252071%252520-%252520Ivory%252520Way%252520Crux.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-NE_vG4b63Vo/UdSad10Z8yI/AAAAAAACrZI/ejCJvwph6mo/s800/2013-06-23%252520-%25252071%252520-%252520Ivory%252520Way%252520Crux.jpg"></a> <br>
+<b><i>The ledge system tucked back in at one point, so I couldn't tell if we could traverse all the way across. It turned out you barely could, as one of the 3 cruxes of the Palisade Crest traverse.</i></b><br>
+<br>
+<a href="https://lh3.googleusercontent.com/-H6gnyJeR4ck/UdSafaMlvnI/AAAAAAACrZQ/_bfdkxb0pgQ/s1600/2013-06-23%252520-%25252072%252520-%252520Looking%252520back%252520along%252520the%252520Ivory%252520Way%252520crux.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-H6gnyJeR4ck/UdSafaMlvnI/AAAAAAACrZQ/_bfdkxb0pgQ/s800/2013-06-23%252520-%25252072%252520-%252520Looking%252520back%252520along%252520the%252520Ivory%252520Way%252520crux.jpg"></a> <br>
+<b><i>Looking back along the 'Ivory Way' crux, which was about a 5.8 stem.</i></b><br>
+ <br>
+Where the dike appeared to recede into the wall, at a corner, it turned out there was an exposed but reasonable step across. It felt similar in difficult and style to the 5.8 step across on Selaginella, but with far more exposure and on far prettier rock. <br>
+<br>
+<a href="https://lh5.googleusercontent.com/-BKyhQ6Kcnog/UdSag2dhSTI/AAAAAAACrZY/3Yw4eBvM0I0/s1600/2013-06-23%252520-%25252073%252520-%252520Steph%252520following%252520the%252520Ivory%252520Way.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-BKyhQ6Kcnog/UdSag2dhSTI/AAAAAAACrZY/3Yw4eBvM0I0/s800/2013-06-23%252520-%25252073%252520-%252520Steph%252520following%252520the%252520Ivory%252520Way.jpg"></a> <br>
+<b><i>Steph following the 'Ivory Way'. The ledge traverses for more than 100' like this.</i></b><br>
+ <br>
+The dike was so long that I ran out of rope (115' out) just after the step across, so I belayed Steph over, then traversed along the dike for another 50 ft or so. This was an amazingly long and continuous secret passed through the cliff face! We were so struck by this feature that we decided that it needed to be named. 'Ivory Way' sounded good to us.<br>
+<br>
+<div class="youtube"><iframe width="560" height="340" src="http://www.youtube.com/embed/2Fry-HT789Y" frameborder="0"></iframe></div>
+<br>
+<b><i>Steph following on 'The Ivory Way'</i></b><br>
+<br>
+<a href="https://lh4.googleusercontent.com/-UFaget4sMpc/UdSajcly_4I/AAAAAAACrZo/_RMNkT3hN-8/s1600/2013-06-23%252520-%25252074%252520-%252520Looking%252520back%252520at%252520Steph%252520as%252520I%252520do%252520P2%252520of%252520Ivory%252520Way.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-UFaget4sMpc/UdSajcly_4I/AAAAAAACrZo/_RMNkT3hN-8/s800/2013-06-23%252520-%25252074%252520-%252520Looking%252520back%252520at%252520Steph%252520as%252520I%252520do%252520P2%252520of%252520Ivory%252520Way.jpg"></a> <br>
+<b><i>Looking back at Steph as I do P2 of the 'Ivory Way'. The thick band of the white dike behind her to the right is what we had traversed over on. We had passed the highest spire in this photo on the left side from this view, and shortly beyond, on the second step on the skyline, downclimbed to the dike in the corner where it tucks back.</i></b><br>
+<br>
+At the end of the 'Ivory Way' the rock turned steep and blocky. Big mantles and bouldery moves. Still, mostly easier than it looked, about mid 5th class, if you choose the right line. I had to zig-zag some, and there was an occasional loose rock to mind.<br>
+<br>
+<a href="https://lh6.googleusercontent.com/-qkfQnbd79xY/UdSal2hmlnI/AAAAAAACrZ4/AsKkVeGRrew/s1600/2013-06-23%252520-%25252076%252520-%252520Cl%2525204%252520climbing%252520back%252520up.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-qkfQnbd79xY/UdSal2hmlnI/AAAAAAACrZ4/AsKkVeGRrew/s800/2013-06-23%252520-%25252076%252520-%252520Cl%2525204%252520climbing%252520back%252520up.jpg"></a> <br>
+<b><i>Cl 4 climbing back up spire (4?), up the arete, and crossing over to the west side.</i></b><br>
+ <br>
+We did a 180 and climbed back north as we gained elevation, reaching the crest about 50 ft above the big notch. I stayed on the crest a short bit, traversed to the East, then straight up and over the crest to some ramps and corners on the West side.<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-w_E3Z1O9BuM/Uhbozv0vkzI/AAAAAAACdw8/nqT7I62gJv8/s1600/2013-06-23%252520-%25252077%252520-%252520Looking%252520back%252520across%252520the%252520crux%252520notch%252520-%252520annotated.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-w_E3Z1O9BuM/Uhbozv0vkzI/AAAAAAACdw8/nqT7I62gJv8/s800/2013-06-23%252520-%25252077%252520-%252520Looking%252520back%252520across%252520the%252520crux%252520notch%252520-%252520annotated.jpg"></a> <br>
+<b><i>Looking back across the crux notch and 'Ivory Way'.</i></b><br>
+ <br>
+<a href="https://lh6.googleusercontent.com/-WUfff2lcCZY/UdSapckw7iI/AAAAAAACraQ/lBIcaxeBaPA/s1600/2013-06-23%252520-%25252078%252520-%252520The%252520next%252520tower.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-WUfff2lcCZY/UdSapckw7iI/AAAAAAACraQ/lBIcaxeBaPA/s800/2013-06-23%252520-%25252078%252520-%252520The%252520next%252520tower.jpg"></a> <br>
+<b><i>Nearing the top of spire (4?).</i></b><br>
+ <br>
+<a href="https://lh5.googleusercontent.com/-KzrJ1upC1e4/UdSarT-H-OI/AAAAAAACrag/Zt0e1lCAxPk/s1600/2013-06-23%252520-%25252080%252520-%252520Steph%252520following%252520in%252520high%252520winds.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-KzrJ1upC1e4/UdSarT-H-OI/AAAAAAACrag/Zt0e1lCAxPk/s800/2013-06-23%252520-%25252080%252520-%252520Steph%252520following%252520in%252520high%252520winds.jpg"></a> <br>
+<b><i>Strong wind blowing the ropes as Steph follows from spire (4?) to (3?). The wind had been blowing hard and cold since midday and was the front of a snow storm moving into the area.</i></b><br>
+ <br>
+Now we only had two summits remaining! Still, there was one last uncertainty that I was wary about. The next peak was 'Master Samwise' and as I recalled from when I was atop it with Dirk,  it dropped off very steeply on the side we were approaching from, and there were rappel slings at that step. Looking at photos of the peak taken from below, the summit had a prominent corner on the West Side, but it looked steep and the crack in the back looked like an offwidth. I was curious how we would surmount this peak.<br>
+<br>
+<a href="https://lh3.googleusercontent.com/-CR4rB4ZbusY/Uhbo1oPCZnI/AAAAAAACdxE/CT62zieyX_s/s1600/2013-06-23%252520-%25252081%252520-%252520Master%252520Samwise%252520%252526%252520The%252520Nazgul%252520-%252520annotated.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-CR4rB4ZbusY/Uhbo1oPCZnI/AAAAAAACdxE/CT62zieyX_s/s800/2013-06-23%252520-%25252081%252520-%252520Master%252520Samwise%252520%252526%252520The%252520Nazgul%252520-%252520annotated.jpg"></a> <br>
+<b><i>Master Samwise and The Nazgul, seen as we downclimbed from spire (3) into the final notch. This flared corner was the final crux of the traverse.</i></b><br>
+<br>
+Another big downclimb into a notch and another big climb out of the notch led me to the corner. Fortunately, it was like many other parts of the route and was easier up close than it appeared from a distance. <br>
+<br>
+<a href="https://lh5.googleusercontent.com/-vRkPu_-9-_M/UdSau1l5i2I/AAAAAAACra4/GZ_bmLQFs-g/s1600/2013-06-23%252520-%25252082%252520-%252520Master%252520Samwise%252520seen%252520as%252520we%252520downclimbed%252520to%252520the%252520notch.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-vRkPu_-9-_M/UdSau1l5i2I/AAAAAAACra4/GZ_bmLQFs-g/s800/2013-06-23%252520-%25252082%252520-%252520Master%252520Samwise%252520seen%252520as%252520we%252520downclimbed%252520to%252520the%252520notch.jpg"></a> <br>
+<b><i>Master Samwise seen as we downclimbed from spire (3) into the final notch. This flared corner was the final crux of the traverse.</i></b><br>
+ <br>
+The corner ascended a slick corner (maybe due to stepping in the snow at the base?) with nice hand jams, at just shallow enough of an angle to make it easy. The corner flared just enough to require a bit of thrashing, though. It ended at a small roof and required a delicate traverse left around it, the crux of the pitch.<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-F8OsWsymbjU/UdSawZA2aUI/AAAAAAACrbA/569xkFvmVhQ/s1600/2013-06-23%252520-%25252083%252520-%2525205_7to5_8%252520corner%252520on%252520Master%252520Samwise.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-F8OsWsymbjU/UdSawZA2aUI/AAAAAAACrbA/569xkFvmVhQ/s800/2013-06-23%252520-%25252083%252520-%2525205_7to5_8%252520corner%252520on%252520Master%252520Samwise.jpg"></a> <br>
+<b><i>5.7 to 5.8 corner on Master Samwise. One of the cruxes is traversing left beneath the roof.</i></b><br>
+<br>
+<a href="https://lh6.googleusercontent.com/-k0SfBxUGTYg/UdSa1IPZeGI/AAAAAAACrbg/maREOrKf9bI/s1600/2013-06-23%252520-%25252087%252520-%252520Climbing%252520towards%252520The%252520Nazgul.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-k0SfBxUGTYg/UdSa1IPZeGI/AAAAAAACrbg/maREOrKf9bI/s800/2013-06-23%252520-%25252087%252520-%252520Climbing%252520towards%252520The%252520Nazgul.jpg"></a> <br>
+<b><i>Climbing towards The Nazgul.</i></b><br>
+ <br>
+At last I was back on familiar terrain! We still had a bit of a ways to go, but at this point all uncertainty was gone and I new the way. I also looked forward to the fun climbing that I knew lay ahead.<br>
+<br>
+<a href="https://lh5.googleusercontent.com/-7PfNVY-FYcw/UibmyRDxZrI/AAAAAAACoSU/kHiNi_pN59Q/s1600/2013-06-20%252520-%25252053%252520-%252520Palisade%252520Crest%252520South%252520Ridge%252520atop%252520Firebird%252520Ridge%252520-%252520annotated.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-7PfNVY-FYcw/UibmyRDxZrI/AAAAAAACoSU/kHiNi_pN59Q/s800/2013-06-20%252520-%25252053%252520-%252520Palisade%252520Crest%252520South%252520Ridge%252520atop%252520Firebird%252520Ridge%252520-%252520annotated.jpg"></a> <br>
+  <b><i>2013-06-20 - The Palisade Crest seen from high on Firebird Ridge on Norman Clyde Peak.</i></b><br>
+<br>
+The winds had picked up considerably over the last couple of summits. <br>
+<br>
+<a href="https://lh5.googleusercontent.com/-NvEzwMKty-I/UdSa2-TZ5LI/AAAAAAACrbw/Z0UPPJhqDLE/s1600/2013-06-23%252520-%25252089%252520-%252520Steph%252520following%252520down%252520Master%252520Samwise.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-NvEzwMKty-I/UdSa2-TZ5LI/AAAAAAACrbw/Z0UPPJhqDLE/s800/2013-06-23%252520-%25252089%252520-%252520Steph%252520following%252520down%252520Master%252520Samwise.jpg"></a> <br>
+<b><i>Steph following down 'Master Samwise'.</i></b><br>
+<br>
+<a href="https://lh3.googleusercontent.com/-azaq-Vg_wUw/UdSa4wUD9YI/AAAAAAACrcA/oUwFI5ZjJVo/s1600/2013-06-23%252520-%25252090a%252520-%252520Heading%252520towards%252520the%252520Nazgul%252520-%252520Steph.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-azaq-Vg_wUw/UdSa4wUD9YI/AAAAAAACrcA/oUwFI5ZjJVo/s800/2013-06-23%252520-%25252090a%252520-%252520Heading%252520towards%252520the%252520Nazgul%252520-%252520Steph.jpg"></a> <br>
+<b><i>Heading towards the 'Nazgul,' the last spire at the end of a long day. (by Steph Abegg)</i></b><br>
+ <br>
+The drag from the wind and fatigue from the long day really slowed us down. We spent some time struggling with a stuck rope that had become entwined in the blocks as the wind whipped it around and I picked by way through the best line. After some fiddling, we cleaned up our mess and were atop the final summit!<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-B9JoGj52tGQ/UdSa8GcPU5I/AAAAAAACrcg/8sXUoRhGsco/s1600/2013-06-23%252520-%25252093a%252520-%252520Sun%252520setting%252520on%252520the%252520Palisade%252520Crest%252520-%252520Steph.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-B9JoGj52tGQ/UdSa8GcPU5I/AAAAAAACrcg/8sXUoRhGsco/s800/2013-06-23%252520-%25252093a%252520-%252520Sun%252520setting%252520on%252520the%252520Palisade%252520Crest%252520-%252520Steph.jpg"></a> <br>
+<b><i>Sun setting on the Palisade Crest (by Steph Abegg)</i></b><br>
+ <br>
+(Looks like SuperTopo TR have length limits! :-P Report is continued below.)
+</div> 
+id: t12463n 
+name: Palisade Crest N-S Traverse (IV, 5.8) 
+url: http://www.supertopo.com/tr/Palisade-Crest-N-S-Traverse-IV-5-8/t12463n.html 
+

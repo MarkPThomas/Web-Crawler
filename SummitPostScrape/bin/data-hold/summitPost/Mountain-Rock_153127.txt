@@ -79,6 +79,7 @@ date:
 difficulty:  
 elevation: 8760 
 grade:  
+hits: 10819  
 id: 153127 
 latitude: 37.88 
 location: California, United States, North America 
@@ -87,6 +88,9 @@ my_route_quality:
 name: Pothole Dome 
 number_of_pitches:  
 page_url: http://www.summitpost.org/pothole-dome/153127 
+parent_code: 171226 
+parent_name: Yosemite National Park 
+parent_url: /yosemite-national-park/171226 
 rock_difficulty:  
 route_quality:  
 route_type:  

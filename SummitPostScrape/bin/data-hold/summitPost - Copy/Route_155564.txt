@@ -1,0 +1,60 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Approach</h2>Hike the North Fork of Big Pine Creek from Glacier Lodge. Set up camp at or above Sam Mack Meadow. The approach hike is about 7 miles to the end of the trail. From there traverse the Palisade Glacier to the base of the U-Notch, which is the obvious gap in the Palisade Crest.<a name="chapter_2"></a><h2>Route Description</h2>Climb the U-Notch Couloir (snow in spring and early summer, becoming progressively icier as the season progresses). If the bergschrund is open, climb the easy class 5 rock to the right of it. Ascend the gully (40 degree snow/ice) till you come to some rocks and go to the left of those. You are soon at the notch. <br>
+<br>
+On the right (west) side of the notch there is a steep wall with a crack/chimney system. Opinions differ on the difficulty of this section. Estimates range from Class 4 (old school) to 5.6 (grade inflation?). One thing is for sure, it will feel harder in mountaineering boots, and even harder if wet. Plan accordingly.<br>
+<br>
+Traverse the ridge above the crack/chimney system, staying below the crest on the south side. Drop into a bowl and then climb the opposite side up large boulders till you reach the summit. The last few moves are exposed, but the entire traverse from the top of the chimney is class 3/4. Snow can complicate the traverse. <br>
+<br>
+A large cornice often forms at the top of the gully that feeds into the U-notch from the left about halfway up. If present, it is a good idea to be off the route before the sun has a chance to warm it up. It has been known to collapse.<br>
+<br>
+There is an easier alternative to the crack/chimney system above the notch. Descend the couloir on the south side from the notch about 100' until it is possible to traverse climber's left (west) around a rib on ledges. This will lead to a gully and Class 3/4 scrambling up to the ridge, where it rejoins the normal route.<br>
+<a name="chapter_3"></a><h2>Essential Gear</h2>The climb is often soloed by experienced climbers. If you're not comfortable with that, a 50m rope is plenty for the ascent, but you'll want at least a 6om single to rap the route. Doubles or a 70m would enable you to avoid downclimbing. A few nuts and/or cams plus slings will suffice for the rock portion. <br>
+<br>
+Crampons and ice axe are minimum equipment for the couloir under most conditions and for most climbers. If there is significant ice, a second tool or two technical tools would come in handy. The couloir can be protected with rock anchors, but bringing a few ice screws would give you more options. In the spring time don't forget your skis for the descent.                                                                <br>
+<br>
+A helmet is a good idea in the U-Notch. That prominent dark streak didn't come from marmot poop! <br>
+<br>
+                                          <a name="chapter_4"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/skiing-the-u-notch-couloir/21236/c-155564"><img alt=" Skiing the U-Notch Couloir,..." src="/images/square/21236.jpg"></a></td>
+<td><a href="/u-notch-in-may-07/331291/c-155564"><img alt="U-notch in May \'07" src="/images/square/331291.jpg"></a></td>
+<td><a href="/u-notch-palisades/272831/c-155564"><img alt="U-Notch, Palisades" src="/images/square/272831.BMP"></a></td>
+<td><a href="/u-notch-couloir/267875/c-155564"><img alt="U-Notch Couloir" src="/images/square/267875.jpg"></a></td>
+<td><a href="/u-notch-couloir-conditions-as/128111/c-155564"><img alt="U-notch couloir conditions as..." src="/images/square/128111.jpg"></a></td>
+<td><a href="/looking-up-at-the/67807/c-155564"><img alt="Looking up at the..." src="/images/square/67807.jpg"></a></td>
+<td><a href="/palisades/663732/c-155564"><img alt="Palisades" src="/images/square/663732.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/this-is-the-view-looking-down/14306/c-155564"><img alt="This is the view looking down..." src="/images/square/14306.jpg"></a></td>
+<td><a href="/tom-hartger-leading-pitch-5/67804/c-155564"><img alt="Tom Hartger leading pitch 5..." src="/images/square/67804.jpg"></a></td>
+<td><a href="/north-palisade-as-seen-from/67803/c-155564"><img alt="North Palisade as seen from..." src="/images/square/67803.jpg"></a></td>
+<td><a href="/sierras-palisade-glacier-seen-while-climbing-the-u-notch/368817/c-155564"><img alt="Sierras - Palisade Glacier seen while climbing the U-notch" src="/images/square/368817.jpg"></a></td>
+<td><a href="/rappeling-the-u-notch/662977/c-155564"><img alt="rappeling the U-Notch" src="/images/square/662977.JPG"></a></td>
+<td><a href="/the-approach/234801/c-155564"><img alt="The Approach" src="/images/square/234801.JPG"></a></td>
+<td><a href="/the-unotch-from-palisade/18069/c-155564"><img alt="The Unotch from Palisade..." src="/images/square/18069.jpg"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/u-notch-chimney-variation/images/p-155564">View Gallery - 11 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty: 5.2-6 AI2 
+elevation:  
+grade: III 
+id: 155564 
+latitude: 37.0939 
+location: California, United States, North America 
+longitude: -118.5219 
+my_route_quality:  
+name: U-Notch + Chimney Variation 
+number_of_pitches:  
+page_url: http://www.summitpost.org/u-notch-chimney-variation/155564 
+rock_difficulty:  
+route_quality: 1.0 
+route_type: Mountaineering 
+seasons: Spring, Summer, Fall, Winter 
+time_required: Most of a day 
+type: Route 
+

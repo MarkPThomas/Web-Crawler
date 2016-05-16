@@ -186,6 +186,7 @@ date:
 difficulty:  
 elevation: 10457 
 grade:  
+hits: 94657  
 id: 150414 
 latitude: 40.4878 
 location: California, United States, North America 
@@ -194,6 +195,9 @@ my_route_quality:
 name: Lassen Peak 
 number_of_pitches:  
 page_url: http://www.summitpost.org/lassen-peak/150414 
+parent_code: 334003 
+parent_name: California Cascades 
+parent_url: /california-cascades/334003 
 rock_difficulty:  
 route_quality:  
 route_type:  

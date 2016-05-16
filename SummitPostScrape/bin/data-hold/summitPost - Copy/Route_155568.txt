@@ -1,0 +1,61 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Approach</h2>
+<br>
+(From Paul Ritchins, <a href="http://pweb.jps.net/~prichins/ca14000.htm">Paul Ritchin's Fourteener Page</a>)<br>
+"For the west side approaches for these three peaks, drive to the town of Bishop (Highway 395) and turn west up the paved South Lake/Sabrina Lake Road (Highway 168). Drive to South Lake (about 21 miles from Bishop) and park at the Bishop Pass trailhead. Take the Bishop Pass trail along the left shore of South Lake, past a series of beautiful lakes and to the top of Bishop Pass. At this point, leave the trail and traverse to your left (southeast) cross country past the large, unnamed lake at 12,000 feet, under Mount Agassiz and Mount Winchell to the obvious notch below Thunderbolt Peak, Thunderbolt Pass (12,400 feet). This is the quickest way to get into Palisades Basin from the Bishop Pass Trail, although the traverse can be slow and tedious as you will need to maneuver over and around car-sized boulders as you approach Thunderbolt Pass. "<br>
+<br>
+<br>
+<a name="chapter_2"></a><h2>Route Description</h2>
+<br>
+(From Paul Ritchins, <a href="http://pweb.jps.net/~prichins/ca14000.htm">Paul Ritchin's Fourteener Page</a>)<br>
+From Thunderbolt Pass, drop down to near 12,000 feet to running water and grassy benches for a superb camp site. This, seldom visited, site makes an ideal base camp to climb Thunderbolt, North Palisade and Mount Sill.<br>
+<br>
+The climb of Thunderbolt Peak from this camp site is straightforward. Climb back up to Thunderbolt Pass and ascend the Southwest Chute #1. This is the chute immediately to the right (southwest) of Thunderbolt Pass. Part way up a chockstone blocks your progress. Take a Class 3 ledge on the right that bypasses the obstacle. At the top of the Southwest Chute, Thunderbolt Peak is directly to your right. Climb up a short, half-pitch (easy Class 5) to the summit block. Exposed Class 5.9 climbing is required for the top 30 feet or lasso the summit and jumar up to the summit register. Alternatively, from the top to the southwest chute, traverse east and south on exposed Class 3 ledges, on the backside of the peak, to the crest of the ridge southeast of Thunderbolt. Climb back to the Class 5.9 summit block a short distance away. <br>
+<br>
+Correction by RW: Once at the notch, the half pitch of rock rising directly to the right is class 4, not class 5. The summit block is at most 15 feet, not 30. There is an outstanding view of the Palisade Glacier and surrounding peaks from the notch separating the North and South summits of Thunderbolt.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr><td><a href="/view_object.php?object_id=1793" rel="no_follow"><img src="/images/thumb/1793.jpg"></a></td></tr></table>
+<a name="chapter_3"></a><h2>Essential Gear</h2>
+<br>
+A set of stoppers and hexes may be useful. Not much gear is needed (we did not bring cams). A rope and protection equipment is needed mostly for the summit block only.<br>
+<a name="chapter_4"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/sw-chute-1-seen-from-the-top/641647/c-155568"><img alt="SW Chute #1 seen from the top" src="/images/square/641647.jpg"></a></td>
+<td><a href="/westside-chutes/857913/c-155568"><img alt="Westside chutes" src="/images/square/857913.jpg"></a></td>
+<td><a href="/sunrise-at-thunderbolt-pass/641642/c-155568"><img alt="Sunrise at Thunderbolt Pass" src="/images/square/641642.jpg"></a></td>
+<td><a href="/upper-sw-chute-1/870097/c-155568"><img alt="Upper SW Chute #1" src="/images/square/870097.JPG"></a></td>
+<td><a href="/southwest-chute-1-from-the/1793/c-155568"><img alt="Southwest Chute # 1 from the..." src="/images/square/1793.jpg"></a></td>
+<td><a href="/thunderbolt-sw-chute-1-third-class-ledge-system/870096/c-155568"><img alt="Thunderbolt SW Chute 1 Third Class Ledge system" src="/images/square/870096.JPG"></a></td>
+<td><a href="/4th-5th-section-above-notch/551934/c-155568"><img alt="4th/5th Section Above Notch " src="/images/square/551934.JPG"></a></td>
+</tr>
+<tr>
+<td><a href="/the-chockstone-at-about-13-000/551959/c-155568"><img alt="The Chockstone at about 13,000\'" src="/images/square/551959.jpg"></a></td>
+<td><a href="/the-lower-chute/551961/c-155568"><img alt="The Lower Chute" src="/images/square/551961.jpg"></a></td>
+<td><a href="/the-upper-chute/551962/c-155568"><img alt="The Upper Chute" src="/images/square/551962.jpg"></a></td>
+<td><a href="/3rd-class-ledges-near-13-000-used-to-bypass-chockstone/554171/c-155568"><img alt="3rd class ledges near 13,000’ used to bypass Chockstone " src="/images/square/554171.JPG"></a></td>
+<td><a href="/looking-down-the-chute-just-pass-the-3rd-class-bypass/641644/c-155568"><img alt="Looking down the chute just pass the 3rd class bypass" src="/images/square/641644.jpg"></a></td>
+</tr>
+</table></div>
+            </article> 
+date:  
+difficulty: Class 3+5.9 
+elevation:  
+grade:  
+id: 155568 
+latitude: 37.0981 
+location: California, United States, North America 
+longitude: -118.5167 
+my_route_quality:  
+name: Southwest Chute number 1 
+number_of_pitches:  
+page_url: http://www.summitpost.org/southwest-chute-number-1/155568 
+rock_difficulty:  
+route_quality: 0.8 
+route_type: Technical Rock Climb 
+seasons:  
+time_required: A long day 
+type: Route 
+

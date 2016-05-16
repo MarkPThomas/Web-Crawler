@@ -1,0 +1,298 @@
+activities: Mountaineering, Scrambling 
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Stats</h2>
+<table border="0" cellpadding="2" cellspacing="1">  <br>
+<tr>
+<br>
+<td width="40%">
+<br>
+<font color="gray"><u><b>Stats</b></u></font>  <br>
+<ul>  <br>
+<li>
+<b>Routes:</b> <a href="http://www.summitpost.org/show/route_link.pl/route_id/197/object_id/398">Northeast Ridge</a> via <a href="http://www.summitpost.org/show/route_link.pl/route_id/1630/object_id/398">Capitol Creek</a>  <br>
+</li>
+<li>
+<b>Elevation Gained:</b> ca. 3,550'  <br>
+</li>
+<li>
+<b>RT Distance:</b> ca. 15 miles  <br>
+</li>
+<li>
+<b>RT Time:</b> 2 days  <br>
+</li>
+<li>
+<b>Trailhead:</b> Capitol Creek  <br>
+</li>
+<li>
+<b>TH Elevation:</b> 9,420'  <br>
+</li>
+<li>
+<b>Max Elevation Reached:</b> 12,900'  <br>
+</li>
+<li>
+<b>Rating:</b> II, cl.4, steep snow  <br>
+</li>
+<li>
+<b>Climbers:</b>  <a href="http://www.summitpost.org/mountains/user_link.pl?user_id=13451">Mark Thomas</a>, <a href="http://www.summitpost.org/mountains/user_link.pl/user_name/Scott%20Patterson">Scott Patterson</a>, <a href="http://www.summitpost.org/mountains/user_link.pl/user_name/km_donovan">Kevin Donovan</a>, <a href="http://www.summitpost.org/mountains/user_link.pl/user_name/bc44caesar">Casey McCoy</a>, <a href="http://www.summitpost.org/mountains/user_link.pl/user_name/photo61guy">Joel Schenk</a>, <a href="http://www.summitpost.org/mountains/user_link.pl/user_name/Brad%20Snider">Brad Snider</a>.  <br>
+</li>
+</ul>
+<br>
+</td>  <br>
+<br>
+<td>
+<center>
+<a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__158201__object_id__398__type__mountain__mountain_id__398__route_id____user_id____order_by____limit__"><img src="http://www.summitpost.com/images/158201.jpg" height="230"></a><br>
+</center>
+<br>
+</td>  <br>
+</tr>
+</table>
+<br>
+ <a name="chapter_2"></a><h2>Approach</h2>
+<b>Saturday, May 28th</b><br>
+<br>
+With anticipation I kept opening my eyes open to peek at my watch – 5:45am – almost time for the alarm! I pulled my small fleece blanket a little higher on me and readjusted my head on the reclined drivers seat. I had made an 8hr trek from Salt Lake City, UT to Aspen, CO by myself in order to meet up with some other SPers from across the intermountain west to climb Capitol Peak, reportedly one of Colorado’s most difficult 14ers based on the class 4 rating of its knife-edge ridge. The current snow cover would probably make the route even more difficult.  <br>
+<br>
+<div align="center" class="image" style="width: 506px;">
+<a href="/27-may-2005-alpenglow-on/107561"><img alt="27 May 2005 - Alpenglow on..." height="374" width="500" src="/images/medium/107561.jpg"></a><br><span class="caption">Capitol Pk seen from the trailhead.</span>
+</div>
+<br>
+<br>
+I had first heard of this peak when climbing the East Ridge of Mt Russell with Joel Wilson. Having just come from Boulder, Colorado, he had told me how similar the two ridges were.  When I saw Scott Patterson’s call for partners, I jumped at the chance to climb the peak. The message board thread had received a lot of interest, and ultimately, we had a posse composed of yours truly from Salt Lake City, UT, Scott Patterson from Craig, CO, Brad Snider from Aurora, CO, Casey McCoy from Albuquerque, NM, Joel Schenk from Minnesota, and Kevin Donovan from Fort Worth, TX – truly a diverse group from all over the intermountain west.  <br>
+<br>
+I had arrived in Aspen the night before and failed to make contact with Joel and Casey, with whom I had hoped to share a campsite, so I drove around for a while before wandering my way out to the trailhead and going to sleep ca. 3am. Someone else was already camping at the trailhead, and I assumed that the person in the tent must be someone from our group. Finally my watch alarm went off at 6am – time to get up and head into town to meet the others. But this mysterious tent wasn’t stirring, and I was curious as to who it could be. I went back to sleep, waiting for them to get up first.  <br>
+<br>
+Finally I saw some signs of life and walked over to check it out – it was Casey. Apparently he had the same idea I did for free camping. We admired the gorgeous view we had of Capitol Peak, far up the canyon, and headed down to Old Snowmass to meet the others.  <br>
+<br>
+<noformat>
+<center>
+<table>
+<tr>
+<td><div align="center" class="image" style="width: 206px;">
+<a href="/27-may-2005-the-view-of/107560"><img alt="27 May 2005 - The view of..." height="150" width="200" src="/images/small/107560.jpg"></a><br><span class="caption">Capitol Pk seen from the trailhead.</span>
+</div></td>
+<td><div align="center" class="image" style="width: 206px;">
+<a href="/may-28-2005-the-mother-of/107820"><img alt="May 28, 2005 - The mother of..." height="150" width="200" src="/images/small/107820.jpg"></a><br><span class="caption">The mother of all cornices</span>
+</div></td>
+<td><div align="center" class="image" style="width: 206px;">
+<a href="/may-28-2005-pt-12-754/107821"><img alt="May 28, 2005 - Pt 12,754..." height="150" width="200" src="/images/small/107821.jpg"></a><br><span class="caption">Pt. 12754'</span>
+</div></td>
+</tr>
+</table>
+</center>
+</noformat><br>
+<br>
+Shortly after 7am we pulled up to Harleywood Café. We were the last to arrive, and after some brief introductions and breakfast, I offered to lead the others to the trailhead. Joel was riding a motorcycle and said he would head up before us, and then hitch a ride where the road got rough. After the convoy finally got moving, I noticed that Joel had been a bit slower to get out, and was actually bringing up the rear! After several horribly dusty miles we reached a pullout where he left his ride.  <br>
+<br>
+We headed out from the trailhead following the irrigation ditch approach variation. Granted its longer, but the other way lost 400 ft. Although it was shown as mostly a cross-country route in Gerry Roach’s “Colorado’s Fourteeners” guidebook, this way actually had a fairly distinct trail that took us high on the bench overlooking Capitol Creek.  The pace of the group was slow and easy, as we had all day to reach camp at Capitol Lake. Still, my hyperactive urgings wouldn’t go away, and as soon as Kevin suggested I bring up the lead, I was off. I kept trying to slow down, and stopped often, but I was still often far ahead of the group. Finally, I began to feel guilty about my anti-social behavior, and insisted on following someone else for the remainder of the approach as a method of restraint.  <br>
+<br>
+<noformat>
+<center>
+<table>
+<tr>
+<td><div align="center" class="image" style="width: 206px;">
+<a href="/may-28-2005-capitol-pk/107823"><img alt="May 28, 2005 - Capitol Pk..." height="150" width="200" src="/images/small/107823.jpg"></a><br><span class="caption">Capitol Pk &amp; Pt. 12,754'</span>
+</div></td>
+<td><div align="center" class="image" style="width: 206px;">
+<a href="/approaching-capitol/107420"><img alt="Approaching Capitol" height="150" width="200" src="/images/small/107420.jpg"></a><br><span class="caption">Approaching Capitol Pk</span>
+</div></td>
+<td><div align="center" class="image" style="width: 206px;">
+<a href="/5-28-05-k2-and-capitol-peak/107430"><img alt="5/28/05: K2 and Capitol Peak,..." height="150" width="200" src="/images/small/107430.jpg"></a><br><span class="caption">K2 &amp; Capitol Pk</span>
+</div></td>
+</tr>
+</table>
+</center>
+</noformat><br>
+<br>
+Finally the trail dropped down to a meadow to rejoin the main trail. After a precarious but non-eventful log crossing over the overflowing stream, we continued on our way. At about 9,300 ft there was enough snow that we donned our snowshoes and picked our way through the open forest. By this time Brad was mostly leading, and as he hiked faster than everyone else, I ended up hiking ahead with him. Pulling out my pocket topo map for reference, I kept us along the edge of the tree line below Mt Daley to avoid any unnecessary elevation loss. Occasionally we had glimpses of the 13er above, and the craggy spires on its lower slopes made for some interesting scenery.  <br>
+<br>
+<div align="center" class="image" style="width: 506px;">
+<a href="/may-28-2005-the/107822"><img alt="May 28, 2005 - The..." height="375" width="500" src="/images/medium/107822.jpg"></a><br><span class="caption">The looooong NE Ridge of Capitol Pk.</span>
+</div>
+<br>
+<br>
+At one point we reached a large clearing that allowed us to see Capitol Pk and the craggy summits on the west side of the canyon – they were incredible! While we had suffered some rain and snow earlier, blue sky was coming out again, so while the others hiked ahead, Joel and I got out our cameras. One feature that got everyone’s attention was a massive cornice spanning the col between pt. 12,878 and another rise – from our distance the thing was just enormous! It must have been some quarter-mile long and over 40 feet thick.  <br>
+<br>
+<noformat>
+<center>
+<table>
+<tr>
+<td><div align="center" class="image" style="width: 206px;">
+<a href="/may-28-2005-13-290-ft-mt/107824"><img alt="May 28, 2005 - 13,290 ft Mt..." height="150" width="200" src="/images/small/107824.jpg"></a><br><span class="caption">Approaching below Mt Daly</span>
+</div></td>
+<td><div align="center" class="image" style="width: 206px;">
+<a href="/may-28th-2005-kevin/107825"><img alt="May 28th, 2005 - Kevin..." height="150" width="200" src="/images/small/107825.jpg"></a><br><span class="caption">The team at camp.</span>
+</div></td>
+<td><div align="center" class="image" style="width: 206px;">
+<a href="/camp/107642"><img alt="Camp." height="150" width="200" src="/images/small/107642.jpg"></a><br><span class="caption">The team at camp.</span>
+</div></td>
+</tr>
+</table>
+</center>
+</noformat><br>
+<br>
+As we neared the first main headwall, we crossed a huge avalanche debris field. The blocks of snow were so large that it was like scrambling over talus – the scene almost appearing like our party was crossing a miniature icefall. Beyond this was a steep 200 ft wall of snow that we had to climb. By the time I reached it Kevin and Casey were halfway up, but had stopped. Once I caught up to them I discovered that they had lost the lower part of a pole in the snow. After waiting a few minutes, I kick-stepped around them and finished breaking trail to the top.   <br>
+<br>
+<noformat>
+<center>
+<table>
+<tr>
+<td><div align="center" class="image" style="width: 206px;">
+<a href="/may-28th-2005-the/107827"><img alt="May 28th, 2005 - The..." height="164" width="200" src="/images/small/107827.jpg"></a><br><span class="caption">Various routes on Capitol Peak</span>
+</div></td>
+<td><div align="center" class="image" style="width: 206px;">
+<a href="/may-28th-2005-high-above/107826"><img alt="May 28th, 2005 - High above..." height="150" width="200" src="/images/small/107826.jpg"></a><br><span class="caption">K2 &amp; the East Ridge (cl.4)</span>
+</div></td>
+<td><div align="center" class="image" style="width: 206px;">
+<a href="/may-28th-2005-pt-12-754/107829"><img alt="May 28th, 2005 - Pt 12,754..." height="150" width="200" src="/images/small/107829.jpg"></a><br><span class="caption">Pt. 12,754' seen from camp</span>
+</div></td>
+</tr>
+</table>
+</center>
+</noformat><br>
+<br>
+The snow was steep, perhaps reaching 45<sup>o</sup> near the top, and it was just solid enough that an ice axe would have been nice, but the distance was short and soon I was on top.   After another break we continued across another picturesque clearing, up another easier headwall to the left of a rounded knoll, and soon we were at Capitol Lake. Scott picked out a spot to bivi out in the open on some bare boulders while the rest of us dug out our tent platforms. The ancient moraine holding back Capitol Lake provided a nice windbreak for the camp, while still allowing us a front-seat view of the massive north face of Capitol Peak as the sun set – truly one of the best campsites I’ve had in the mountains.  <br>
+<br>
+That night I realized that I hadn’t brought enough fuel, and my stove kicked out early. As the lake was still frozen over, this left us with a possible fuel shortage for melting enough water to comfortable stay here until Monday, so we began discussing heading out the next day after summitting.  <br>
+<br>
+<div align="center" class="image" style="width: 506px;">
+<a href="/may-28th-2005-capitol-pk/107828"><img alt="May 28th, 2005 - Capitol Pk..." height="375" width="500" src="/images/medium/107828.jpg"></a><br><span class="caption"> </span>
+</div>
+<br>
+<a name="chapter_3"></a><h2>Alpine Start</h2>
+<b>Sunday, May 29th</b><br>
+<br>
+At 4am I was out of my bivi sack and rearing to get moving. Headlamps on, packs on, crampons on – we were ready to go. The temperatures had gotten below freezing the night before, so the snow was just hard enough for some quality cramponing.   <br>
+<div align="center" class="image" style="width: 506px;">
+<a href="/may-29th-2005-sunrise-on/107837"><img alt="May 29th, 2005 - Sunrise on..." height="375" width="500" src="/images/medium/107837.jpg"></a><br><span class="caption">Sunrise on K2's East Ridge</span>
+</div>
+<br>
+<br>
+The game plan was to head up the 900 ft east-facing slope above camp to the K2-Daley saddle, reaching it just at sunrise, ca. 5:30am. From there we would drop down toward Moon Lake and meet up with the Snowmass approach route, which would put us on to K2, a high point at the end of Capitol’s NE ridge, by circling around to the east. From there we would climb the NE ridge, and possibly set up a fixed line over the knife-edge if things looked too dicey with the snow cover.  <br>
+<br>
+As expected, the slope was nice and hard, and we made fast progress. I worked on my pacing, and managed to hike non-stop until the top (apart from a quick stop for a photo). There I found a nice windbreak in the rocks and enjoyed the sunrise as the others caught up, Casey about 5 minutes behind and the others another 15 minutes later.  <br>
+ <div align="center" class="image-right" style="width: 156px;">
+<a href="/joel-aka-photo61guy-on-the/108595"><img alt="Joel aka. photo61guy on the..." height="200" width="150" src="/images/small/108595.jpg"></a><br><span class="caption">Joel climbing above camp</span>
+</div> <div align="center" class="image-left" style="width: 156px;">
+<a href="/may-29th-2005-the-sp-crew/107830"><img alt="May 29th, 2005 - The SP crew..." height="200" width="150" src="/images/small/107830.jpg"></a><br><span class="caption">The SP crew traversing the slopes below K2</span>
+</div>
+<br>
+From the saddle we could look up the class 4 approach variation, which heads up the north ridge of K2. I had wanted to climb up via this variation and then descend the easier one, but so far the others were dubious about taking a more difficult variation to the top. From the saddle it looked slower than the easier traverse, so off we went.  <br>
+<br>
+The snow was steep where we traversed around. While the normal route follows a trail down into the cirque before re-ascending, Scott didn't want to lose the elevation, so we were traversing high. I was concerned about this as we would be more likely to be cliffed out by following so close to the base of the cliffs composing K2’s north ridge. Also, the terrain was steeper, and traversing steep slopes is a pain. As I continued to break trail, the slope got steeper (perhaps around 35<sup>o</sup>), and over the next rise I could see some rocks. From this distance I couldn’t tell if we could make it through them, but things didn’t look good.  <br>
+<br>
+Looking up the slope I saw a break in the rocks – an easy way to gain the class 4 ridge? I shouted my concerns to the others, and mentioned that the class 4 ridge looked pretty doable from where I was. I didn’t want to lead everyone up there without some discussion, and after Scott and Casey agreed to check it out, I started up.     <a name="chapter_4"></a><h2>Wombat Direct</h2>A body-width moat had formed around the base of the rocks, so I crossed on a snow bridge and kick-stepped up the slope. The incline increased to about 45<sup>o</sup>-50<sup>o</sup>, and the snow still had a good hard layer on top, although at first I accidentally kicked through this to more unstable snow. Once I reached the rocks I could see that although the scrambling would be steep, it would be up a series of reasonably large ledges.  I hooked a rock with my axe, carefully stepped across snow by the rock, and started scrambling.  The others seemed to be enjoying the excitement of this detour as well, and Kevin declared this route the ‘Wombat Direct’.  <br>
+<br>
+<noformat>
+<center>
+<table>
+<tr>
+<td><div align="center" class="image" style="width: 206px;">
+<a href="/may-29th-2005-looking-down/107831"><img alt="May 29th, 2005 - Looking down..." height="150" width="200" src="/images/small/107831.jpg"></a><br><span class="caption">Looking down the 'Wombat Direct'</span>
+</div></td>
+<td><div align="center" class="image" style="width: 206px;">
+<a href="/may-29th-2005-looking-at/107832"><img alt="May 29th, 2005 - Looking at..." height="139" width="200" src="/images/small/107832.jpg"></a><br><span class="caption">Mt Daly</span>
+</div></td>
+<td><div align="center" class="image" style="width: 206px;">
+<a href="/may-29th-2005-casey/107833"><img alt="May 29th, 2005 - Casey..." height="150" width="200" src="/images/small/107833.jpg"></a><br><span class="caption">On the ridge</span>
+</div></td>
+<td><div align="center" class="image" style="width: 206px;">
+<a href="/may-29th-2005-the-final/107834"><img alt="May 29th, 2005 - The final..." height="150" width="200" src="/images/small/107834.jpg"></a><br><span class="caption">The final headwall</span>
+</div></td>
+</tr>
+</table>
+</center>
+</noformat><br>
+<br>
+While the axe and crampons made things a little awkward, the climbing was still plenty easy, although I began to find the occasional loose rock. I warned the others and led the way to the ridge crest, where I stowed my crampons and axe. As I enjoyed a snack break, Casey and Kevin scouted a little further ahead and shouted back that the route wasn’t doable. All they could see was 5th class terrain with lethal exposure along a pinnacle-lined ridge. I was rather surprised as I knew that we were on route according to Roach’s guide, and my impression was that CO 4th class tended to be easier than the CA 4th class to which I was accustomed.  <br>
+<br>
+I scrambled up the ridge to have a look, and it didn’t look good. The ridge narrowed, dropped off, and arose as several pinnacles. Rocky ribs stuck out from the ridge, and it looked like they might drop off on the backside. The limit of my view was blocked by a large headwall that looked quite formidable. This just didn’t seem right, so while Casey scrambled a little further along the ridge to make his final evaluation, I looked around for an easier way – bingo. There was a break in the rock rib, so I walked along some class 2 talus, that just happened to be leveled about the width of a sidewalk. At the opening I could see down a moderate class 3 chimney that was some 7 feet high, and then a large class 2 bowl that could be used to easily bypass the pinnacles. This was definitely the way. Still, I wasn’t sure about the next headwall. I could pick out possible routes, but the steepness of the rock would dictate whether it was class 4 or 5. I would need to get closer. <br>
+<br>
+Further reconnaissance would take more time, and we had already spent a good deal of time getting up the ridge, so I shouted my discoveries back to the others to see what they thought. It was a no go. They didn’t feel comfortable with the loose rock and exposure, and were worried about the extra time it could take. Kevin was a little P.O’d about why we had come up this way, as it was obviously not the main route (oops! I guess I hadn’t expressed my intentions clearly enough when leading!).  Since not everyone was used to loose rock, or scrambling with such exposure, I agreed that it would be safest to just reverse course and continue with our earlier traversing.   <br>
+<br>
+By the time we made it back to the snow we had spent almost 2 hrs on the ridge. Clearly this group was too large and inexperienced for the conditions of the ridge, so in retrospect Kevin’s desire to backtrack was a good idea – even though I found a doable route, we would have continued to climb slower than I would have expected, and we might have come to another impasse where someone would have felt too uncomfortable to continue on.    <br>
+<a name="chapter_5"></a><h2>Turning Back</h2>I continued to break trail, but by now the snow had noticeably softened. I was now sinking up to my ankles in wet snow. A few minutes later I heard that Casey and Joel had turned around.  This was unfortunate, but I still felt like we could make the summit – it was still only about 8am. About 5 minutes later Kevin shouted out misgivings about our pressing on, so we stopped to discuss the situation.  <br>
+<br>
+<div align="center" class="image" style="width: 506px;">
+<a href="/5-29-05-on-capitol-s-ne/107432"><img alt="5/29/05: On Capitol s NE..." height="375" width="500" src="/images/medium/107432.jpg"></a><br><span class="caption">At our high point before turning back</span>
+</div>
+<br>
+<br>
+Kevin had several concerns. One was that we had lost a lot of time on the K2 ridge. Another was that the snow had softened much more than expected. This meant that if we pressed on, then by the time we came back this way, the snow would be so soft that walking would be miserable (the others were already having a hard time with footing in the loose snow, although I hadn’t). I said that I was more than ready to suffer through this to reach the summit, as long as others were still willing to do the same, but I didn’t want to pressure anyone into continuing on if they didn’t want to.   <br>
+<br>
+Kevin also pointed out that since the snow was getting softer than expected, the snow stability could lessen enough to be dangerous. We looked at the headwall ahead of us that we had planned to climb in order to shortcut the normal route, which circumvented the buttress &amp; plateau ahead. This headwall to gain the plateau was probably about 50<sup>o</sup>o steep and had a large crack at the base of the convex slope at the top. Considering how much the snow had softened over the last 2 hours, would we really want to be descending that slope during the afternoon? <br>
+<br>
+This argument had me convinced that it could be foolish to push on ahead, so I threw in my vote to turn back and we all turned around. Any misgivings that we may have had about turning around vanished once Scott saw part of a cornice we had passed earlier calve off and start a small wet sluff. We climbed straight up to the ridge to finish the traverse above the cornices, and beat Casey and Joel back to the saddle. <br>
+<br>
+<noformat>
+<center>
+<table>
+<tr>
+<td><div align="center" class="image" style="width: 143px;">
+<a href="/may-29th-2005-an/107835"><img alt="May 29th, 2005 - An..." height="200" width="137" src="/images/small/107835.jpg"></a><br><span class="caption">Beam of light</span>
+</div></td>
+<td><div align="center" class="image" style="width: 206px;">
+<a href="/may-29th-2005-13-360-ft-mt/107836"><img alt="May 29th, 2005 - 13,360 ft Mt..." height="150" width="200" src="/images/small/107836.jpg"></a><br><span class="caption">Mt Clark</span>
+</div></td>
+<td><div align="center" class="image" style="width: 156px;">
+<a href="/29-may-2005-joel/107564"><img alt="29 May 2005 - Joel..." height="200" width="150" src="/images/small/107564.jpg"></a><br><span class="caption">Joel retreating from the soft snow</span>
+</div></td>
+<td><div align="center" class="image" style="width: 156px;">
+<a href="/29-may-2005-kevin/107565"><img alt="29 May 2005 - Kevin..." height="200" width="150" src="/images/small/107565.jpg"></a><br><span class="caption">Kevin burning a hole through his pants on glissade</span>
+</div></td>
+</tr>
+</table>
+</center>
+</noformat><br>
+<br>
+From the saddle we had a fun glissade back to camp. Kevin tore his pants, I rode further than everyone ahead of me by rowing with my ice axe as I slowed down (cheater! they all yelled), but Scott won the contest for longest distance – if he hadn’t braked, he would have hit the rocks! Joel walked down behind us after declaring that he didn’t know how to self arrest (?!). Then we packed up camp and hurried down the canyon, eager for a late lunch at a Nepalese restaurant that Scott highly recommended.  <br>
+<br>
+The hike down was relaxed and non-eventful (apart from a few lessons of the don’ts in glissading, resulting in some ‘snow rash’ on climbers who shall go unnamed <img src="/message_board/images/laugh.gif" width="15" height="15">). As we hiked out, Kevin entertained us by sharing with us an experience of his on a mountaineering course he took on Mt Adams. He was climbing as part of a 3-man roped team, and the other client in the group, a Floridian, was having trouble with the altitude. Kevin jokingly prodded the climber on, and after the climber complained, Kevin retorted: <br>
+<br>
+<big><b>“Summit or Plummet!”</b></big>  <br>
+<br>
+The guide laughed so hard that he almost fell over on the steep slope! We all had a good laugh - this was a nice story to lighten the ‘blah’ mood of our defeat that day. Luckily, while we didn’t summit, we also didn’t plummet. We had had a safe trip and had seen some gorgeous scenery, and I would say that this trip certainly ranks as one of my more enjoyable outings in the mountains. <br>
+<br>
+Thanks again everyone, for helping to make this such a great trip!                      <a name="chapter_6"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/approaching-capitol/107420/c-170130"><img alt="Approaching Capitol" src="/images/square/107420.jpg"></a></td>
+<td><a href="/may-28th-2005-pt-12-754/107829/c-170130"><img alt="May 28th, 2005 - Pt 12,754..." src="/images/square/107829.jpg"></a></td>
+<td><a href="/may-28th-2005-the/107827/c-170130"><img alt="May 28th, 2005 - The..." src="/images/square/107827.jpg"></a></td>
+<td><a href="/may-28th-2005-kevin/107825/c-170130"><img alt="May 28th, 2005 - Kevin..." src="/images/square/107825.jpg"></a></td>
+<td><a href="/27-may-2005-the-view-of/107560/c-170130"><img alt="27 May 2005 - The view of..." src="/images/square/107560.jpg"></a></td>
+<td><a href="/may-28-2005-capitol-pk/107823/c-170130"><img alt="May 28, 2005 - Capitol Pk..." src="/images/square/107823.jpg"></a></td>
+<td><a href="/may-28-2005-the-mother-of/107820/c-170130"><img alt="May 28, 2005 - The mother of..." src="/images/square/107820.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/may-29th-2005-looking-at/107832/c-170130"><img alt="May 29th, 2005 - Looking at..." src="/images/square/107832.jpg"></a></td>
+<td><a href="/may-29th-2005-sunrise-on/107837/c-170130"><img alt="May 29th, 2005 - Sunrise on..." src="/images/square/107837.jpg"></a></td>
+<td><a href="/may-28th-2005-capitol-pk/107828/c-170130"><img alt="May 28th, 2005 - Capitol Pk..." src="/images/square/107828.jpg"></a></td>
+<td><a href="/may-29th-2005-casey/107833/c-170130"><img alt="May 29th, 2005 - Casey..." src="/images/square/107833.jpg"></a></td>
+<td><a href="/may-29th-2005-the-sp-crew/107830/c-170130"><img alt="May 29th, 2005 - The SP crew..." src="/images/square/107830.jpg"></a></td>
+<td><a href="/may-28-2005-the/107822/c-170130"><img alt="May 28, 2005 - The..." src="/images/square/107822.jpg"></a></td>
+<td><a href="/may-29th-2005-the-final/107834/c-170130"><img alt="May 29th, 2005 - The final..." src="/images/square/107834.jpg"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/summit-or-plummet-an-sp-attempt-on-capitol-pk/images/p-170130">View Gallery - 13 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date: May 29, 2005 
+difficulty:  
+elevation:  
+grade:  
+id: 170130 
+latitude: 39.1503 
+location: Colorado, United States, North America 
+longitude: -107.0825 
+my_route_quality:  
+name: Summit or Plummet! An SP Attempt on Capitol Pk 
+number_of_pitches:  
+page_url: http://www.summitpost.org/summit-or-plummet-an-sp-attempt-on-capitol-pk/170130 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons: Spring 
+time_required:  
+type: Trip Report 
+

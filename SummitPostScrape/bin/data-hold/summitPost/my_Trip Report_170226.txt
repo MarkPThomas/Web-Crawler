@@ -95,6 +95,7 @@ date: Jul 16, 2005
 difficulty:  
 elevation:  
 grade:  
+hits: 9339  
 id: 170226 
 latitude: 43.7411 
 location: Wyoming, United States, North America 
@@ -103,6 +104,9 @@ my_route_quality:
 name: A Windy Day on the Grand Teton 
 number_of_pitches:  
 page_url: http://www.summitpost.org/a-windy-day-on-the-grand-teton/170226 
+parent_code: 150312 
+parent_name: Grand Teton 
+parent_url: /grand-teton/150312 
 rock_difficulty:  
 route_quality:  
 route_type:  

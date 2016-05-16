@@ -53,6 +53,7 @@ date:
 difficulty:  
 elevation: 13253 
 grade:  
+hits: 12677  
 id: 151712 
 latitude: 37.3189 
 location: California, United States, North America 
@@ -61,6 +62,9 @@ my_route_quality:
 name: Royce Peak 
 number_of_pitches:  
 page_url: http://www.summitpost.org/royce-peak/151712 
+parent_code: 170988 
+parent_name: John Muir Wilderness 
+parent_url: /john-muir-wilderness/170988 
 rock_difficulty:  
 route_quality:  
 route_type:  

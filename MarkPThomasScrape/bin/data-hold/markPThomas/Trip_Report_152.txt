@@ -1,0 +1,13 @@
+content: <div dir="ltr">
+<h1>
+<a name="TOC-British-Columbia-Interior"></a>British Columbia Interior</h1>
+<div><span style="border-collapse:collapse"><br>
+</span></div>
+<div><span style="border-collapse:collapse">This includes all ranges in British Columbia outside of the Coastal Range, such as the Valhallas and Rogers Pass area.</span></div>
+</div> 
+page_id: 152 
+page_menu_name: British Columbia Interior ] 
+page_url: /mountaineering/trip-reports/canada/interior-british-columbia 
+title: British Columbia Interior 
+type: Trip_Report 
+

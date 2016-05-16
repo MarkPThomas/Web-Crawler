@@ -34,6 +34,7 @@ date:
 difficulty: Moderate Snow 
 elevation:  
 grade:  
+hits: 2496  
 id: 163756 
 latitude: 40.658 
 location: Utah, United States, North America 
@@ -42,6 +43,9 @@ my_route_quality:
 name: East Face Chutes 
 number_of_pitches:  
 page_url: http://www.summitpost.org/east-face-chutes/163756 
+parent_code: 151974 
+parent_name: Mount Raymond 
+parent_url: /mount-raymond/151974 
 rock_difficulty:  
 route_quality: 1.0 
 route_type: Basic Snow Climb, Ski descent 

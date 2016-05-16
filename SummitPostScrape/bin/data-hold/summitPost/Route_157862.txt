@@ -170,6 +170,7 @@ date:
 difficulty: III 5.5 
 elevation:  
 grade: III 
+hits: 19088  
 id: 157862 
 latitude: 40.657 
 location: Utah, United States, North America 
@@ -178,6 +179,9 @@ my_route_quality:
 name: West Slabs Route 
 number_of_pitches:  
 page_url: http://www.summitpost.org/west-slabs-route/157862 
+parent_code: 151263 
+parent_name: Mount Olympus 
+parent_url: /mount-olympus/151263 
 rock_difficulty:  
 route_quality: 1.0 
 route_type: Technical Rock Climb 

@@ -1,0 +1,96 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Approach</h2>
+<br>
+Start from Moraine Lake.  Get on the Larch Valley/Sentinel Pass Trail that starts just past the canoe docks on the north side of the lake.<br>
+Follow the great trail all the way up to Sentinel Pass (2-3 hours)<br>
+<p></p>
+<table class="inline_image_thumbs"><tr><td><a href="/view_object.php?object_id=1087" rel="no_follow"><img src="/images/thumb/1087.jpg"></a></td></tr></table>
+<a name="chapter_2"></a><h2>Route Description</h2>
+<br>
+From the pass hike right up the ridge, maybe slightly on the right side of it.  Follow a faint, crumbly trail up the 1st gulley to the right of the ridge.  Follow it to the top, when the gulley hits a steep wall.   Hike below the wall to the right into short gulley.  Go up this onto a scree slope.  Keep going up, going past another wall to the right.  Either climb right up onto the ridge or stay slightly below it on the right and continue going up and finally onto a sloping ridge crest.  Follow this up and onto the sumit. <br>
+<p></p>
+<table class="inline_image_thumbs"><tr><td><a href="/view_object.php?object_id=31023" rel="no_follow"><img src="/images/thumb/31023.jpg"></a></td></tr></table>
+<a name="chapter_3"></a><h2>Essential Gear</h2>
+<br>
+Good, waterproof hiking boots<br>
+Gaitors<br>
+Hiking Pole<br>
+Ice Axe<br>
+Appropriate clothing<br>
+<a name="chapter_4"></a><h2>Miscellaneous Info</h2>
+<br>
+If you have information about this route that doesn't pertain to any of the other sections, please add it here.<br>
+<div align="center">
+<a name="messages"></a><a name="chapter_5"></a><h2>Additions and Corrections</h2>[ <a href="/object_discussion.php?type=vote_comments&amp;object_id=155566&amp;is_addition=1#vote_form">Post an Addition or Correction</a> ]<table cellpadding="0" cellspacing="0" style="width: 775px;"><tr><td><table cellpadding="2" cellspacing="2" width="100%"><tr>
+<td align="left"><span class="pagertext">Viewing: <b>1</b>-<b>1</b> of <b>1</b></span></td>
+<td align="center"></td>
+<td align="right">    </td>
+</tr></table></td></tr></table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="299439"></a> <a class="dis_user_lnk" href="/users/pellucidwombat/12893">PellucidWombat</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Scramble rating</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/pellucidwombat/12893"><img alt="PellucidWombat" width="50" height="50" border="0" src="/images/avatars/833128.jpg"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">Just for the sake of standardization, could you put the YDS rating on the difficulty rating on this page? I'd call it class 3 to 4-.</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Dec 13, 2008 5:19 pm</span></td></tr>
+</table>
+<br><table border="0" width="775"><tr><td><table cellpadding="2" cellspacing="2" width="100%"><tr>
+<td align="left"><span class="pagertext">Viewing: <b>1</b>-<b>1</b> of <b>1</b></span></td>
+<td align="center"></td>
+<td align="right">    </td>
+</tr></table></td></tr></table>
+<br>
+</div>
+<a name="chapter_6"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/the-top-section-of-the/31023/c-155566"><img alt="The top section of the..." src="/images/square/31023.jpg"></a></td>
+<td><a href="/once-you-have-finished-the-25/1087/c-155566"><img alt="Once you have finished the 25..." src="/images/square/1087.jpg"></a></td>
+<td><a href="/pinnacle-mountain/766165/c-155566"><img alt="Pinnacle Mountain" src="/images/square/766165.jpg"></a></td>
+<td><a href="/sw-face-ridge/362116/c-155566"><img alt="SW Face-Ridge" src="/images/square/362116.JPG"></a></td>
+<td><a href="/grey-band-crux/766216/c-155566"><img alt="Grey Band Crux" src="/images/square/766216.jpg"></a></td>
+<td><a href="/first-cliff-band/766179/c-155566"><img alt="First Cliff Band" src="/images/square/766179.jpg"></a></td>
+<td><a href="/restricted-access/766217/c-155566"><img alt="Restricted Access" src="/images/square/766217.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/above-the-grey-band/766181/c-155566"><img alt="Above The Grey Band" src="/images/square/766181.jpg"></a></td>
+<td><a href="/exposure-on-mount-temple/766183/c-155566"><img alt="Exposure On Mount Temple" src="/images/square/766183.jpg"></a></td>
+<td><a href="/11-000-feet/766186/c-155566"><img alt="11,000 Feet" src="/images/square/766186.jpg"></a></td>
+<td><a href="/the-summit-ridge/766187/c-155566"><img alt="The Summit Ridge" src="/images/square/766187.jpg"></a></td>
+<td><a href="/climbing-the-gold-band/766192/c-155566"><img alt="Climbing The Gold Band" src="/images/square/766192.jpg"></a></td>
+<td><a href="/loose-rock-on-temple/766180/c-155566"><img alt="Loose Rock On Temple" src="/images/square/766180.jpg"></a></td>
+<td><a href="/minor-cornices/766188/c-155566"><img alt="Minor Cornices" src="/images/square/766188.jpg"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/sw-ridge/images/p-155566">View Gallery - 4 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty: Moderate 
+elevation:  
+grade:  
+id: 155566 
+latitude: 51.3528 
+location: Alberta, Canada, North America 
+longitude: -116.2006 
+my_route_quality:  
+name: SW Ridge 
+number_of_pitches:  
+page_url: http://www.summitpost.org/sw-ridge/155566 
+rock_difficulty:  
+route_quality: 0.8923076923076924 
+route_type: Scramble 
+seasons:  
+time_required: Most of a day 
+type: Route 
+

@@ -142,6 +142,7 @@ date:
 difficulty: Cl. 2 (south variation), and Cl. 3 (north variation) 
 elevation:  
 grade:  
+hits: 15941  
 id: 157966 
 latitude: 40.5939 
 location: Utah, United States, North America 
@@ -150,6 +151,9 @@ my_route_quality:
 name: Deaf Smith Canyon 
 number_of_pitches:  
 page_url: http://www.summitpost.org/deaf-smith-canyon/157966 
+parent_code: 150522 
+parent_name: Broads Fork Twin Peaks 
+parent_url: /broads-fork-twin-peaks/150522 
 rock_difficulty:  
 route_quality: 1.0 
 route_type: scramble 

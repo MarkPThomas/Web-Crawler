@@ -163,6 +163,7 @@ date:
 difficulty:  
 elevation: 11947 
 grade:  
+hits: 20913  
 id: 151805 
 latitude: 40.699 
 location: Utah, United States, North America 
@@ -171,6 +172,9 @@ my_route_quality:
 name: Bald Mountain 
 number_of_pitches:  
 page_url: http://www.summitpost.org/bald-mountain/151805 
+parent_code: 171016 
+parent_name: Western Uinta / Lakes Roadless Area 
+parent_url: /western-uinta-lakes-roadless-area/171016 
 rock_difficulty:  
 route_quality:  
 route_type:  

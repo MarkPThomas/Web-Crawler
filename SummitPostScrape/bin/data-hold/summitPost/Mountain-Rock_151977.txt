@@ -75,6 +75,7 @@ date:
 difficulty:  
 elevation: 13565 
 grade:  
+hits: 11820  
 id: 151977 
 latitude: 36.6051 
 location: California, United States, North America 
@@ -83,6 +84,9 @@ my_route_quality:
 name: Tunnabora Peak 
 number_of_pitches:  
 page_url: http://www.summitpost.org/tunnabora-peak/151977 
+parent_code: 170988 
+parent_name: John Muir Wilderness 
+parent_url: /john-muir-wilderness/170988 
 rock_difficulty:  
 route_quality:  
 route_type:  

@@ -26,6 +26,7 @@ date:
 difficulty: Easy 
 elevation:  
 grade:  
+hits: 2882  
 id: 165606 
 latitude:  
 location: Alberta, Canada, North America 
@@ -34,6 +35,9 @@ my_route_quality:
 name: SE Slopes 
 number_of_pitches:  
 page_url: http://www.summitpost.org/se-slopes/165606 
+parent_code: 151994 
+parent_name: Mount Fairview 
+parent_url: /mount-fairview/151994 
 rock_difficulty:  
 route_quality: 0.6923076923076923 
 route_type: Scramble 

@@ -276,6 +276,7 @@ date: Jul 17, 2011
 difficulty:  
 elevation:  
 grade:  
+hits: 7708  
 id: 783262 
 latitude:  
 location: Washington, United States, North America 
@@ -284,6 +285,9 @@ my_route_quality:
 name: Liberty Cap Beating #1: Liberty Ridge 
 number_of_pitches:  
 page_url: http://www.summitpost.org/liberty-cap-beating-1-liberty-ridge/783262 
+parent_code: 150291 
+parent_name: Mount Rainier 
+parent_url: /mount-rainier/150291 
 rock_difficulty:  
 route_quality:  
 route_type:  

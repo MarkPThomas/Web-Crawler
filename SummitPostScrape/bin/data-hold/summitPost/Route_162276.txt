@@ -73,6 +73,7 @@ date:
 difficulty: 5.1 - 5.10a 
 elevation:  
 grade:  
+hits: 2358  
 id: 162276 
 latitude: 37.88 
 location: California, United States, North America 
@@ -81,6 +82,9 @@ my_route_quality:
 name: Right Side Topropes 
 number_of_pitches:  
 page_url: http://www.summitpost.org/right-side-topropes/162276 
+parent_code: 153127 
+parent_name: Pothole Dome 
+parent_url: /pothole-dome/153127 
 rock_difficulty:  
 route_quality: 1.0 
 route_type: Rock Climbs 

@@ -790,6 +790,7 @@ date: Jul 31, 2004
 difficulty:  
 elevation:  
 grade:  
+hits: 6406  
 id: 169860 
 latitude: 37.9672 
 location: California, United States, North America 
@@ -798,6 +799,9 @@ my_route_quality:
 name: My First Sierra Challenge (2004) 
 number_of_pitches:  
 page_url: http://www.summitpost.org/my-first-sierra-challenge-2004/169860 
+parent_code: 150473 
+parent_name: Mount Conness 
+parent_url: /mount-conness/150473 
 rock_difficulty:  
 route_quality:  
 route_type:  

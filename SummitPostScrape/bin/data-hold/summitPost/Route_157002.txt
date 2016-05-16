@@ -111,6 +111,7 @@ date:
 difficulty: III, 5.6, AI2 or WI3 
 elevation:  
 grade:  
+hits: 5693  
 id: 157002 
 latitude: 37.137 
 location: California, United States, North America 
@@ -119,6 +120,9 @@ my_route_quality:
 name: North Couloir 
 number_of_pitches:  
 page_url: http://www.summitpost.org/north-couloir/157002 
+parent_code: 151224 
+parent_name: Mount Gilbert 
+parent_url: /mount-gilbert/151224 
 rock_difficulty:  
 route_quality: 0.8 
 route_type: Technical ice and rock 

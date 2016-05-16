@@ -211,6 +211,7 @@ date:
 difficulty: LONG Walk Up, class 3 scrambling 
 elevation:  
 grade:  
+hits: 13776  
 id: 160560 
 latitude: 37.6344 
 location: California, United States, North America 
@@ -219,6 +220,9 @@ my_route_quality:
 name: West Ridge 
 number_of_pitches:  
 page_url: http://www.summitpost.org/west-ridge/160560 
+parent_code: 150221 
+parent_name: White Mountain Peak 
+parent_url: /white-mountain-peak/150221 
 rock_difficulty:  
 route_quality: 0.8923076923076924 
 route_type: Scramble/hike 

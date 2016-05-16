@@ -47,6 +47,7 @@ date:
 difficulty: Class 4-5 ice 
 elevation:  
 grade: II 
+hits: 14713  
 id: 155838 
 latitude: 37.9825 
 location: California, United States, North America 
@@ -55,6 +56,9 @@ my_route_quality:
 name: North Couloir 
 number_of_pitches:  
 page_url: http://www.summitpost.org/north-couloir/155838 
+parent_code: 150613 
+parent_name: North Peak 
+parent_url: /north-peak/150613 
 rock_difficulty:  
 route_quality: 1.0 
 route_type: Snow/Ice climb 

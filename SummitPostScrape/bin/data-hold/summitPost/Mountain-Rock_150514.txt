@@ -165,6 +165,7 @@ date:
 difficulty:  
 elevation: 14012 
 grade:  
+hits: 67399  
 id: 150514 
 latitude: 37.07 
 location: California, United States, North America 
@@ -173,6 +174,9 @@ my_route_quality:
 name: Middle Palisade 
 number_of_pitches:  
 page_url: http://www.summitpost.org/middle-palisade/150514 
+parent_code: 171074 
+parent_name: Palisades 
+parent_url: /palisades/171074 
 rock_difficulty:  
 route_quality:  
 route_type:  

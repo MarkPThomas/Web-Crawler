@@ -542,6 +542,7 @@ date: Feb 15, 2010
 difficulty:  
 elevation:  
 grade:  
+hits: 10369  
 id: 601331 
 latitude: 41.4094 
 location: California, United States, North America 
@@ -550,6 +551,9 @@ my_route_quality:
 name: If at First You Don't Succeed . . . 
 number_of_pitches:  
 page_url: http://www.summitpost.org/if-at-first-you-don-t-succeed/601331 
+parent_code: 150188 
+parent_name: Mount Shasta 
+parent_url: /mount-shasta/150188 
 rock_difficulty:  
 route_quality:  
 route_type:  

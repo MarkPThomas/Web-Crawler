@@ -89,6 +89,7 @@ date:
 difficulty: Class 2-3 
 elevation:  
 grade:  
+hits: 7771  
 id: 159004 
 latitude: 37.1117 
 location: California, United States, North America 
@@ -97,6 +98,9 @@ my_route_quality:
 name: Southeast Side via  Agassiz Col 
 number_of_pitches:  
 page_url: http://www.summitpost.org/southeast-side-via-agassiz-col/159004 
+parent_code: 150921 
+parent_name: Mount Agassiz 
+parent_url: /mount-agassiz/150921 
 rock_difficulty:  
 route_quality: 1.0 
 route_type: Scramble/Bouldering 

@@ -52,6 +52,7 @@ date:
 difficulty: 5.5 
 elevation:  
 grade:  
+hits: 9121  
 id: 158564 
 latitude: 37.8286 
 location: California, United States, North America 
@@ -60,6 +61,9 @@ my_route_quality:
 name: NW Buttress 
 number_of_pitches:  
 page_url: http://www.summitpost.org/nw-buttress/158564 
+parent_code: 151779 
+parent_name: Tenaya Peak 
+parent_url: /tenaya-peak/151779 
 rock_difficulty:  
 route_quality: 1.0 
 route_type: Technical Rock Climb 

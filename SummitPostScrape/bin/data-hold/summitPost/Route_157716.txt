@@ -191,6 +191,7 @@ date:
 difficulty: III 5.7 A0 
 elevation:  
 grade: III 
+hits: 13197  
 id: 157716 
 latitude: 44.3678 
 location: Oregon, United States, North America 
@@ -199,6 +200,9 @@ my_route_quality:
 name: Pioneer Route 
 number_of_pitches:  
 page_url: http://www.summitpost.org/pioneer-route/157716 
+parent_code: 151478 
+parent_name: Smith:  Monkey Face 
+parent_url: /smith-monkey-face/151478 
 rock_difficulty: 5.7 (YDS) 
 route_quality: 0.8923076923076924 
 route_type: Trad Climbing, Sport Climbing, Aid Climbing 

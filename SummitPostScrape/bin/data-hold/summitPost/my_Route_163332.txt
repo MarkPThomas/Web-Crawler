@@ -64,6 +64,7 @@ date:
 difficulty: I 5.2 
 elevation:  
 grade:  
+hits: 6289  
 id: 163332 
 latitude: 40.657 
 location: Utah, United States, North America 
@@ -72,6 +73,9 @@ my_route_quality:
 name: Forgotten Arete 
 number_of_pitches:  
 page_url: http://www.summitpost.org/forgotten-arete/163332 
+parent_code: 151263 
+parent_name: Mount Olympus 
+parent_url: /mount-olympus/151263 
 rock_difficulty:  
 route_quality: 0.8923076923076924 
 route_type: Scramble 

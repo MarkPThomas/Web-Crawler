@@ -55,6 +55,7 @@ date:
 difficulty: easy but a little runout 
 elevation:  
 grade:  
+hits: 5062  
 id: 342608 
 latitude: 37.7342 
 location: California, United States, North America 
@@ -63,6 +64,9 @@ my_route_quality:
 name: Pine Line 
 number_of_pitches: 1 
 page_url: http://www.summitpost.org/pine-line/342608 
+parent_code: 150993 
+parent_name: El Capitan 
+parent_url: /el-capitan/150993 
 rock_difficulty: 5.7 (YDS) 
 route_quality: 0.8 
 route_type: Trad Climbing 

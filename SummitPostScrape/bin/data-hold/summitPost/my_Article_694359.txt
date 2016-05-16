@@ -381,6 +381,7 @@ date:
 difficulty:  
 elevation:  
 grade:  
+hits: 56387  
 id: 694359 
 latitude:  
 location:  
@@ -389,6 +390,9 @@ my_route_quality:
 name: Size Matters: A Gear Comparison 
 number_of_pitches:  
 page_url: http://www.summitpost.org/size-matters-a-gear-comparison/694359 
+parent_code:  
+parent_name:  
+parent_url:  
 rock_difficulty:  
 route_quality:  
 route_type:  

@@ -59,6 +59,7 @@ date:
 difficulty: Hike/Scramble 
 elevation:  
 grade:  
+hits: 3341  
 id: 163022 
 latitude:  
 location: Alberta, Canada, North America 
@@ -67,6 +68,9 @@ my_route_quality:
 name: Normal Route 
 number_of_pitches:  
 page_url: http://www.summitpost.org/normal-route/163022 
+parent_code: 151866 
+parent_name: Eiffel Peak 
+parent_url: /eiffel-peak/151866 
 rock_difficulty:  
 route_quality: 1.0 
 route_type: Scramble 

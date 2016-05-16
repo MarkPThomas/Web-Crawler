@@ -1,0 +1,70 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Approach</h2>
+<font color="blue"><b>White Pine TH</b></font><br>
+<b>Total Distance:</b> 3.46 mi <br>
+<b>Total Elevation Gain:</b> 3530'<br>
+<br>
+<br>
+The route begins at the White Pine trailhead, which is about 2/3 of the way up Little Cottonwood Canyon, about 30 min from Salt Lake City. There are signs marking the turnoff on the south side of the road.<br>
+<br>
+<noformat>
+<table>
+<tr>
+<td><div align="center" class="image" style="width: 106px;">
+<a href="/october-2003-red-baldy-seen/41344"><img alt="October 2003 - Red Baldy seen..." height="75" width="100" src="/images/thumb/41344.jpg"></a><br><span class="caption"> </span>
+</div></td>
+<td><div align="center" class="image" style="width: 106px;">
+<a href="/topo-showing-route-up-red/31095"><img alt="Topo showing route up Red..." height="78" width="100" src="/images/thumb/31095.jpg"></a><br><span class="caption"> </span>
+</div></td>
+</tr>
+</table>
+</noformat><a name="chapter_2"></a><h2>Route Description</h2>Hike up the main trail leading out of the White Pine Trailhead. This is actually an old mining road converted to a trail that terminates at White Pine Lake, about 5.1 miles from the trailhead. From the lake, scramble up the large class 2 boulders angling left and towards the ridgeline. Eventually the white granite rock begins to change into a red quartzite, and finally one gains the twin summits.<br>
+The route gains 3,467 ft from the trailhead.<br>
+<br>
+<noformat>
+<table>
+<tr>
+<td><div align="center" class="image" style="width: 106px;">
+<a href="/looking-east-along-the-summit/54870"><img alt="Looking east along the summit..." height="75" width="100" src="/images/thumb/54870.jpg"></a><br><span class="caption"> </span>
+</div></td>
+<td><div align="center" class="image" style="width: 106px;">
+<a href="/west-ridge-of-red-baldy/54869"><img alt="West ridge of Red Baldy,..." height="75" width="100" src="/images/thumb/54869.jpg"></a><br><span class="caption"> </span>
+</div></td>
+<td><div align="center" class="image" style="width: 106px;">
+<a href="/view-to-the-west-from-the/54871"><img alt="View to the west from the..." height="75" width="100" src="/images/thumb/54871.jpg"></a><br><span class="caption"> </span>
+</div></td>
+</tr>
+</table>
+</noformat><a name="chapter_3"></a><h2>Essential Gear</h2>Summer:Good Hiking boots and plenty of water<br>
+Winter: Skis/Snowshoes/crampons/iceaxe depending on snow conditions.  Avalanche beacons and rescue gear are a must.<br>
+<a name="chapter_4"></a><h2>Miscellaneous Info</h2>If you have information about this route that doesn't pertain to any of the other sections, please add it here.<br>
+                                          <a name="chapter_5"></a><h2>Images</h2>
+<div align="center"><table id="my_images"><tr>
+<td><a href="/october-2003-red-baldy-seen/41344/c-159102"><img alt="October 2003 - Red Baldy seen..." src="/images/square/41344.jpg"></a></td>
+<td><a href="/looking-east-along-the-summit/54870/c-159102"><img alt="Looking east along the summit..." src="/images/square/54870.jpg"></a></td>
+<td><a href="/view-to-the-west-from-the/54871/c-159102"><img alt="View to the west from the..." src="/images/square/54871.jpg"></a></td>
+<td><a href="/west-ridge-of-red-baldy/54869/c-159102"><img alt="West ridge of Red Baldy,..." src="/images/square/54869.jpg"></a></td>
+<td><a href="/topo-showing-route-up-red/31095/c-159102"><img alt="Topo showing route up Red..." src="/images/square/31095.jpg"></a></td>
+</tr></table></div>
+            </article> 
+date:  
+difficulty: Walk up, class 2 
+elevation:  
+grade:  
+id: 159102 
+latitude: 40.5395 
+location: Utah, United States, North America 
+longitude: -111.6681 
+my_route_quality:  
+name: Northwest Slopes 
+number_of_pitches:  
+page_url: http://www.summitpost.org/northwest-slopes/159102 
+rock_difficulty:  
+route_quality: 0.8 
+route_type: Hike/Scramble 
+seasons:  
+time_required: Half a day 
+type: Route 
+

@@ -1,143 +1,143 @@
 require 'rubygems'
+require 'mechanize'
 require 'nokogiri'
 require 'open-uri'
-require 'net/https'
-require 'net/http'
+#require 'net/https'
+#require 'net/http'
 require 'fileutils'
-require 'restclient'
-require_relative 'Profile'
+#require 'restclient'
+require_relative '../../lib/LibFileReadWrite'
 
 # See: http://ruby.bastardsbook.com/chapters/html-parsing/
 # See: http://ruby.bastardsbook.com/chapters/web-crawling/
+# See: http://ruby.bastardsbook.com/chapters/mechanize/
 
-DATA_DIR = "data-hold/superTopo"
-FileUtils::mkdir_p(DATA_DIR) unless File.exists?(DATA_DIR)
+def search_route_reference(search_term)
+# TODO
+  {}
+end
 
-# Works
-#BASE_URL = "http://www.supertopo.com/"
-#LIST_URL = "#{BASE_URL}/tr/Bear-Creek-Spire-E-Ridge-An-Overlooked-Sierra-Classic/t12258n.html" # Works
+def scrape_new(existing_urls, base_url, username, password)
+# TODO
+end
 
-#page = Nokogiri::HTML(open(LIST_URL,  :ssl_verify_mode => OpenSSL::SSL::VERIFY_NONE))
-#rows = page.css('table.objectList tr')
+def scrape_all(base_url, username, password, data_dir)
+  FileUtils::mkdir_p(data_dir) unless File.exists?(data_dir)
 
-# Below has been failing, as you need to be signed in in order to view the pages.
+  report_summaries = get_profile_trip_reports(base_url, username, password)
+  report_summaries.keys.each { |report_summary|
+    append_hash("#{data_dir}/reports_summaries.txt", report_summaries[report_summary])
+  }
 
-# post_signin.php
-REQUEST_URL = "http://www.supertopo.com/inc/view_tripreports.php?dcid=Pj44PTU-OSI,"
+  report_urls = []
+  report_summaries.keys.each { |report_summary|
+    report_urls[report_urls.count] = report_summaries[report_summary][:report_url]
+  }
 
-# uses post_signin.php
-# See inpect page> network, recording while signing in to get the submitted post recorded
-# Loads the "Your Trip Reports" tab. Other postgotopage codes load other tabs
-post_goto_page = 'A0RATB9HW1ZDakJFUUlIXkxSTEszbzIrNHoiJCEtdxsmeXofBAR_HAcceg,,'
-email_term = USERNAME
-password_term = PASSWORD
+  read_write_report_pages(base_url, report_urls, data_dir)
+  puts 'Website scrape complete.'
+end
 
-redirected_url = nil
-result = RestClient.get(REQUEST_URL, {'postgotopage'=>post_goto_page,
-                                      'email'=>email_term,
-                                      'passwd'=>password_term,
-                                      'Submit'=>'Sign+In'}){ |response, request, result, &block|
-  if [301, 302, 307].include? response.code
-    response.follow_redirection(request, result, &block)
-  else
-    redirected_url = request.url
-    response.return!(request, result, &block)
+def get_profile_trip_reports(base_url, username, password)
+  puts "Getting trip report summaries for #{username}"
+  report_row_data = nil
+
+  a = Mechanize.new { |agent|
+    # SuperTopo redirects after login
+    agent.follow_meta_refresh = true
+  }
+
+  a.get(base_url) do |home_page|
+    puts "Signing in to #{base_url}"
+    signin_page = a.click(home_page.link_with(:text => /Sign In/))
+
+    my_page = signin_page.form_with(:name => 'editform') do |form|
+      form.email  = username
+      form.passwd = password
+    end.submit
+
+    # Click the profile page link
+    puts 'Going to the profile page'
+    profile_page = a.click(my_page.link_with(:text => /My Settings/))
+    puts 'Going to the Trip Reports tab'
+    trip_reports_page = a.click(profile_page.link_with(:text => /Your Trip Reports/))
+
+    report_row_data = get_report_rows_values(trip_reports_page)
   end
-}
+  report_row_data
+end
 
-npage = Nokogiri::HTML(redirected_url)
+def get_report_rows_values(page)
+  puts 'Reading Trip Report summary row data'
+  report_row_data = {}
 
-npage = Nokogiri::HTML(REQUEST_URL)
+  # Light Rows
+  rows = page.parser.css('table.graybox tr.lightrow')
+  rows.each { |row|
+    report_row_data_value = get_report_row_values(row)
+    report_row_data[report_row_data_value[:report_url]] = report_row_data_value
+  }
 
-titles = npage.css('h1')
+  # Dark Rows
+  rows = page.parser.css('table.graybox tr.darkrow')
+  rows.each { |row|
+    report_row_data_value = get_report_row_values(row)
+    report_row_data[report_row_data_value[:report_url]] = report_row_data_value
+  }
 
-RestClient.post(REQUEST_URL, {'postgotopage'=>post_goto_page,
-                              'email'=>email_term,
-                              'passwd'=>password_term,
-                              'Submit'=>'Sign+In'}) do |response, request, result, &block|
-  if [301, 302, 307].include? response.code
-    redirected_url = response.headers[:location]
+  report_row_data
+end
+
+def get_report_row_values(row)
+  puts 'Reading Trip Report summary'
+  report_element = row.css('td > a')
+  if report_element.nil?
+    report_element = row.css('td a')[1]
   else
-    response.return!(request, result, &block)
+    report_element = report_element[0]
   end
+
+  report_name = report_element.text
+  report_url = report_element['href']
+  id = get_report_id(report_url)
+  hits = row.css('> td')[1].text
+  messages = row.css('> td')[3].text
+
+  {report_url:report_url,
+   report_name: report_name,
+   id: id,
+   hits: hits,
+   messages: messages}
 end
 
-npage = Nokogiri::HTML(redirected_url)
-
-titles = npage.css('h1')
-
-
-if pagePost = RestClient.post(REQUEST_URL, {'postgotopage'=>post_goto_page,
-                                            'email'=>email_term,
-                                            'passwd'=>password_term,
-                                            'Submit'=>'Sign+In'})
-  npage = Nokogiri::HTML(pagePost)
-
-  titles = npage.css('h1')
-
+def read_write_report_pages(base_url, urls, data_dir)
+  max_num = urls.count
+  count = 1
+  urls.each { |url|
+    puts "Reading page #{count} of #{max_num}"
+    report = read_report_page(base_url + url)
+    id = report[:id]
+    append_hash("#{data_dir}/report_#{id}.txt", report)
+    count += 1
+  }
 end
 
+def read_report_page(url)
+  puts "Reading Trip Report Page #{url}"
+  page = Nokogiri::HTML(open(url))
 
-# LIST_URL = "#{BASE_URL}/inc/view_tripreports.php?dcid=Pj44PTU-OSI,"
-# LIST_URL = "#{BASE_URL}/inc/signin.php?postgotopage=A0RATB9HW1ZDakJFUUlIXkxSTEszbzIrNHoiJCEtdxsmeXofBAR_HAcceg,,"
-#LIST_URL = "#{BASE_URL}"  #/inc/signin.php"
+  name = page.css('span.articleTitle').text
+  id = get_report_id(url)
+  content = page.css('div.articletext')
 
-# This is the URL for the POST request:
-CGI_URL = 'http://query.nictusa.com/cgi-bin/fecgifpdf/'
-
-# base_url + f_id = the URL for the form page with the button
-base_url = 'http://www.supertopo.com/inc/post_signin.php?'
-#f_id = 'postgotopage=P3h8cDtmf3B2cHQ1bHVu'
-f_id = 'dcid=Pj44PTU-OSI,'
-
-## 1 & 2: Retrieve the page with PDF generate button
-form_page = Nokogiri::HTML(RestClient.get(base_url + f_id))
-button = form_page.css('input[type="hidden"]')[0]
-
-
-
-if pagePost = RestClient.post(REQUEST_URL, {button['name']=>button['value'], 'submit'=>'Sign+In'})
-  npage = Nokogiri::HTML(pagePost)
-
-  titles = npage.css('h1')
-
+  {url: url,
+   name: name,
+   id: id,
+   content: content}
 end
 
+def get_report_id(url)
+  id = url.split('/').last
+  id.sub!('.html','')
+end
 
-
-button = form_page.css('input[name="Submit" type="submit"]')[0]
-
-
-
-#HEADERS_HASH = {"User-Agent" => "Ruby/#{RUBY_VERSION}"}
-
-page = Nokogiri::HTML(open(LIST_URL))
-rows = page.css('table.objectList tr')
-
-rows[1..-2].each do |row|
-
-  hrefs = row.css("td a").map{ |a|
-    a['href'] if a['href'] =~ /^\/v\//
-  }.compact.uniq
-
-  hrefs.each do |href|
-    remote_url = BASE_URL + href
-    local_fname = "#{DATA_DIR}/#{File.basename(href)}.html"
-    unless File.exists?(local_fname)
-      puts "Fetching #{remote_url}..."
-      begin
-        #wiki_content = open(remote_url, HEADERS_HASH).read
-        page_content = open(remote_url,  :ssl_verify_mode => OpenSSL::SSL::VERIFY_NONE).read
-      rescue Exception=>e
-        puts "Error: #{e}"
-        sleep 5
-      else
-        File.open(local_fname, 'w'){|file| file.write(page_content)}
-        puts "\t...Success, saved to #{local_fname}"
-      ensure
-        sleep 1.0 + rand
-      end  # done: begin/rescue
-    end # done: unless File.exists?
-
-  end # done: hrefs.each
-end # done: rows.each

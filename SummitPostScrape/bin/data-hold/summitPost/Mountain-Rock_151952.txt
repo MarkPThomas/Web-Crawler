@@ -54,6 +54,7 @@ date:
 difficulty:  
 elevation: 12645 
 grade:  
+hits: 12517  
 id: 151952 
 latitude: 38.4633 
 location: Utah, United States, North America 
@@ -62,6 +63,9 @@ my_route_quality:
 name: Mount Mellenthin 
 number_of_pitches:  
 page_url: http://www.summitpost.org/mount-mellenthin/151952 
+parent_code: 190208 
+parent_name: La Sal Mountains 
+parent_url: /la-sal-mountains/190208 
 rock_difficulty:  
 route_quality:  
 route_type:  

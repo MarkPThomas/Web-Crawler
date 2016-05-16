@@ -218,6 +218,7 @@ date: May 31, 2006
 difficulty:  
 elevation:  
 grade:  
+hits: 7386  
 id: 475480 
 latitude: 62.9665 
 location: Alaska, United States, North America 
@@ -226,6 +227,9 @@ my_route_quality:
 name: 101 Ways to Pass Time at Camp (On the Ruth Glacier) 
 number_of_pitches:  
 page_url: http://www.summitpost.org/101-ways-to-pass-time-at-camp-on-the-ruth-glacier/475480 
+parent_code: 170857 
+parent_name: Alaska Range 
+parent_url: /alaska-range/170857 
 rock_difficulty:  
 route_quality:  
 route_type:  

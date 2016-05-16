@@ -64,6 +64,7 @@ date:
 difficulty:  
 elevation: 12750 
 grade:  
+hits: 6522  
 id: 154383 
 latitude: 37.3825 
 location: California, United States, North America 
@@ -72,6 +73,9 @@ my_route_quality:
 name: Rosy Finch Peak 
 number_of_pitches:  
 page_url: http://www.summitpost.org/rosy-finch-peak/154383 
+parent_code: 170988 
+parent_name: John Muir Wilderness 
+parent_url: /john-muir-wilderness/170988 
 rock_difficulty:  
 route_quality:  
 route_type:  

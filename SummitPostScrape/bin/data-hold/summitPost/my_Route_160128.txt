@@ -88,6 +88,7 @@ date:
 difficulty: Walk up 
 elevation:  
 grade:  
+hits: 15205  
 id: 160128 
 latitude: 41.4094 
 location: California, United States, North America 
@@ -96,6 +97,9 @@ my_route_quality:
 name: Wintun Ridge 
 number_of_pitches:  
 page_url: http://www.summitpost.org/wintun-ridge/160128 
+parent_code: 150188 
+parent_name: Mount Shasta 
+parent_url: /mount-shasta/150188 
 rock_difficulty:  
 route_quality: 1.0 
 route_type: Hike/Basic Snow Climb 

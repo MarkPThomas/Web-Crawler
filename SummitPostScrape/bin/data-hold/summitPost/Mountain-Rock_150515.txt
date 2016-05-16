@@ -179,6 +179,7 @@ date:
 difficulty:  
 elevation: 14088 
 grade:  
+hits: 110894  
 id: 150515 
 latitude: 36.5908 
 location: California, United States, North America 
@@ -187,6 +188,9 @@ my_route_quality:
 name: Mount Russell 
 number_of_pitches:  
 page_url: http://www.summitpost.org/mount-russell/150515 
+parent_code: 171134 
+parent_name: Sequoia/Kings Canyon NP 
+parent_url: /sequoia-kings-canyon-np/171134 
 rock_difficulty:  
 route_quality:  
 route_type:  

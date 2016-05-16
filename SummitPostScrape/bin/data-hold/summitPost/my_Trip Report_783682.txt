@@ -405,6 +405,7 @@ date: Jul 24, 2011
 difficulty:  
 elevation:  
 grade:  
+hits: 6978  
 id: 783682 
 latitude: 46.8528 
 location: Washington, United States, North America 
@@ -413,6 +414,9 @@ my_route_quality:
 name: Liberty Cap Beating #2: Ptarmigan Ridge 
 number_of_pitches:  
 page_url: http://www.summitpost.org/liberty-cap-beating-2-ptarmigan-ridge/783682 
+parent_code: 150291 
+parent_name: Mount Rainier 
+parent_url: /mount-rainier/150291 
 rock_difficulty:  
 route_quality:  
 route_type:  

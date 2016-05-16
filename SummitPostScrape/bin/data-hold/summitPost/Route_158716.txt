@@ -35,6 +35,7 @@ date:
 difficulty: Class 2 
 elevation:  
 grade:  
+hits: 3183  
 id: 158716 
 latitude: 37.3189 
 location: California, United States, North America 
@@ -43,6 +44,9 @@ my_route_quality:
 name: South slope via Royce/Merriam saddle 
 number_of_pitches:  
 page_url: http://www.summitpost.org/south-slope-via-royce-merriam-saddle/158716 
+parent_code: 151712 
+parent_name: Royce Peak 
+parent_url: /royce-peak/151712 
 rock_difficulty:  
 route_quality: 0.6923076923076923 
 route_type: Scramble 

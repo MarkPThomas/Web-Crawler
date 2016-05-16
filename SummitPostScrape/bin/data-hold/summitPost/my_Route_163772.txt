@@ -33,6 +33,7 @@ date:
 difficulty: Walk-up 
 elevation:  
 grade:  
+hits: 3017  
 id: 163772 
 latitude: 40.6708 
 location: Utah, United States, North America 
@@ -41,6 +42,9 @@ my_route_quality:
 name: Circle-All Pk - N & SE Ridges 
 number_of_pitches:  
 page_url: http://www.summitpost.org/circle-all-pk-n-se-ridges/163772 
+parent_code: 419369 
+parent_name: Circle All Peak 
+parent_url: /circle-all-peak/419369 
 rock_difficulty:  
 route_quality: 1.0 
 route_type: Snow Climb, Hike 

@@ -74,6 +74,7 @@ date:
 difficulty: Walk-up 
 elevation:  
 grade:  
+hits: 16979  
 id: 161320 
 latitude: 40.609 
 location: Utah, United States, North America 
@@ -82,6 +83,9 @@ my_route_quality:
 name: Ferguson Canyon 
 number_of_pitches:  
 page_url: http://www.summitpost.org/ferguson-canyon/161320 
+parent_code: 152752 
+parent_name: Storm Mountain 
+parent_url: /storm-mountain/152752 
 rock_difficulty:  
 route_quality: 0.8923076923076924 
 route_type: Class 2-3 scramble 

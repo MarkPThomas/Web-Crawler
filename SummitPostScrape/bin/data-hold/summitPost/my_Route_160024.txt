@@ -90,6 +90,7 @@ date:
 difficulty: Class 3-4 
 elevation:  
 grade:  
+hits: 8614  
 id: 160024 
 latitude: 40.6 
 location: Utah, United States, North America 
@@ -98,6 +99,9 @@ my_route_quality:
 name: Triple Traverse 
 number_of_pitches:  
 page_url: http://www.summitpost.org/triple-traverse/160024 
+parent_code: 150269 
+parent_name: Mt. Dromedary 
+parent_url: /mt-dromedary/150269 
 rock_difficulty:  
 route_quality: 1.0 
 route_type: scramble 

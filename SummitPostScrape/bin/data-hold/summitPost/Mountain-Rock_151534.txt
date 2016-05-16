@@ -87,6 +87,7 @@ date:
 difficulty:  
 elevation: 761 
 grade:  
+hits: 11405  
 id: 151534 
 latitude: 21.2598 
 location: Hawaii, United States, North America 
@@ -95,6 +96,9 @@ my_route_quality:
 name: Diamond Head (Le' Ahi Mountain) 
 number_of_pitches:  
 page_url: http://www.summitpost.org/diamond-head-le-ahi-mountain/151534 
+parent_code: 570101 
+parent_name: Hawaii - Oahu 
+parent_url: /hawaii-oahu/570101 
 rock_difficulty:  
 route_quality:  
 route_type:  

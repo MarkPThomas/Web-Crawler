@@ -50,6 +50,7 @@ date:
 difficulty:  
 elevation: 13553 
 grade:  
+hits: 17366  
 id: 153354 
 latitude: 37.0816 
 location: California, United States, North America 
@@ -58,6 +59,9 @@ my_route_quality:
 name: Palisade Crest 
 number_of_pitches:  
 page_url: http://www.summitpost.org/palisade-crest/153354 
+parent_code: 171074 
+parent_name: Palisades 
+parent_url: /palisades/171074 
 rock_difficulty:  
 route_quality:  
 route_type:  

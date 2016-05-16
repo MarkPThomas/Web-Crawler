@@ -402,6 +402,7 @@ date:
 difficulty:  
 elevation: 9735 
 grade:  
+hits: 98164  
 id: 150430 
 latitude: 38.9061 
 location: California, United States, North America 
@@ -410,6 +411,9 @@ my_route_quality:
 name: Mount Tallac 
 number_of_pitches:  
 page_url: http://www.summitpost.org/mount-tallac/150430 
+parent_code: 171175 
+parent_name: Lake Tahoe Basin 
+parent_url: /lake-tahoe-basin/171175 
 rock_difficulty:  
 route_quality:  
 route_type:  

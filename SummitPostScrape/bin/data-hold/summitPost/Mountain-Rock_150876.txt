@@ -80,6 +80,7 @@ date:
 difficulty:  
 elevation: 4966 
 grade:  
+hits: 19861  
 id: 150876 
 latitude: 41.175 
 location: California, United States, North America 
@@ -88,6 +89,9 @@ my_route_quality:
 name: Castle Dome 
 number_of_pitches:  
 page_url: http://www.summitpost.org/castle-dome/150876 
+parent_code: 479974 
+parent_name: Castle Crags Wilderness 
+parent_url: /castle-crags-wilderness/479974 
 rock_difficulty:  
 route_quality:  
 route_type:  

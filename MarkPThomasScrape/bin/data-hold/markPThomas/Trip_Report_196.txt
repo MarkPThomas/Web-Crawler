@@ -1,0 +1,17 @@
+content: <div dir="ltr">
+<h1>
+<a name="TOC-Wasatch-Rock-Climbs"></a>Wasatch Rock Climbs</h1>
+<div>
+<ul><li>
+<h3 align="left" dir="ltr" style="background-color:rgb(27,27,27)">
+<a name="TOC-Little-Cottonwood-Canyon-2011-06-20"></a><span><a href="http://www.markpthomas.com/mountaineering/trip-reports/utah/little-cottonwood-canyon-2011-06-20">Little Cottonwood Canyon 2011-06-20</a></span>
+</h3>
+</li></ul>
+</div>
+</div> 
+page_id: 196 
+page_menu_name: Wasatch Rock Climbs 
+page_url: /mountaineering/trip-reports/utah/wasatch-rock-climbs 
+title: Wasatch Rock Climbs 
+type: Trip_Report 
+

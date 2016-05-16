@@ -41,6 +41,7 @@ date:
 difficulty: II 5.8 
 elevation:  
 grade: II 
+hits: 4566  
 id: 283772 
 latitude: 37.74 
 location: California, United States, North America 
@@ -49,6 +50,9 @@ my_route_quality:
 name: Selaginella 
 number_of_pitches: 4 
 page_url: http://www.summitpost.org/selaginella/283772 
+parent_code: 150992 
+parent_name: Yosemite Valley - Logistical Center 
+parent_url: /yosemite-valley-logistical-center/150992 
 rock_difficulty: 5.8 (YDS) 
 route_quality: 0.8 
 route_type: Trad Climbing 

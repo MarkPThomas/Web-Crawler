@@ -1,0 +1,209 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>Mt Aire is one of the smaller peaks in the Wasatch, but still a great one to climb nonetheless.  It has excellent panoramic summit views, and it provides some good steep snowshoeing in the winter without worry of avalanche danger. Since the trail is on a shady south slope, it is also a good trail to do in the summer.<br>
+<br>
+The trail from Elbow Fork is 1.75 miles one way from the road with 1,991 feet of elevation gain. In the winter the canyon road is closed at the Maple Cove Picnic Ground, and from there the route is about 3.5  miles long and gains about 2,600 feet.<br>
+     <br>
+The peaks along the Millcreek Ridge are a nice set to do for an easy ridge run and the bushwacking isn't too bad along the ridgeline compared to the rest of the Wasatch backcountry.<br>
+<br>
+For the advanced hiker, these three summits can be bagged while hiking the <a href="http://www.summitpost.org/show/route_link.pl/route_id/4600/object_id/2099">Millcreek Ridge</a> route, which runs from the Salt Lake Valley, over Grandeur Peak, all the way to Murdock Peak.<br>
+<br>
+<div align="center" class="image" style="width: 381px;">
+<a href="/summit-view-of-mt-aire/531230"><img alt="Summit view of Mt Aire" height="500" width="375" src="/images/medium/531230.JPG"></a><br><span class="caption">Looking off the summit of Mount Aire.</span>
+</div>
+<br>
+<br>
+<a name="chapter_2"></a><h2>Getting There</h2>Drive, bike, or walk up East Millcreek Canyon (begins as 3760 South off of Wasatch Boulevard in the valley) to the Elbow Fork Trailhead. This is on the north side of the road 5.7 miles past the entrance station.<br>
+<br>
+In the wintertime the road is closed at the Maple Cove Picnic Ground about 4.2 miles up the canyon from the entrance station.<br>
+<br>
+<div align="center" class="image" style="width: 506px;">
+<a href="/mt-aire-routes-overview-map/114928"><img alt=" Mt Aire Routes Overview Map..." height="421" width="500" src="/images/medium/114928.JPG"></a><br><span class="caption">Click for larger size.</span>
+</div>
+<br>
+<a name="chapter_3"></a><h2>Red Tape</h2>None, apart from the canyon fee, which is only a few dollars and only applies to motorized vehicles.<br>
+<br>
+<div align="center" class="image" style="width: 506px;">
+<a href="/mt-aire-view-from-north-east/469191"><img alt="Mt Aire View from North East" height="375" width="500" src="/images/medium/469191.JPG"></a><br><span class="caption">Mount Aire from the Northeast.  There isn't much red tape here.</span>
+</div>
+<br>
+<a name="chapter_4"></a><h2>When To Climb</h2>Any time of the year is great. Summer is popular, but some of the climb might be a little warm, so an early start is best.   <br>
+<br>
+This is a fairly easy and safe climb in winter, but often in the winter there is trailbreaking to be done in order to reach the summit.   Usually there isn't much avalanche danger on the route.   <br>
+<br>
+Fall is very beautiful on the mountain and colors usually peak in late September or early October.  <br>
+<br>
+<div align="center" class="image" style="width: 463px;">
+<a href="/climbing-up-mount-aire/521232"><img alt="Climbing up Mount Aire" height="500" width="457" src="/images/medium/521232.JPG"></a><br><span class="caption">Climbing up Mount Aire in the Fall.</span>
+</div>
+<a name="chapter_5"></a><h2>Camping</h2>Camping is allowed in the Wasatch National Forest anywhere more than 200 ft from any trail and 1/4 mile from any road.  Please use Leave No Trace methods.<br>
+<br>
+There aren't many campsites on the mountain because of the steep slopes.   There are some reasonable campsites near the saddle at the head of Elbow Fork, but unless there is some snow around, you have to carry water to that location.   <br>
+<a name="chapter_6"></a><h2>Mountain Conditions</h2>There are no known avalanche paths that cross the route, although the route does pass above 2 starting zones near the summit, but these are easily avoided.<br>
+<br>
+<a href="http://forecast.weather.gov/MapClick.php?lon=-111.65158&amp;lat=40.69740#.VMl03WjF-gY"><b>CLICK HERE FOR WEATHER FORECAST</b></a><br>
+<br>
+Below is the National Weather Service Climate Summary of the old Park City Summit House.   The data is from 1969-1977.    The old Park City Summit House was at 9280 feet elevation, so expect the temperatures and weather averages on Mount Aire to be quite similar.<br>
+<br>
+<table border="1">
+<br>
+<tr>
+<td><b>MONTH</b></td>
+<td><b>AVE HIGH</b></td>
+<td><b>AVE LOW</b></td>
+<td><b>REC HIGH</b></td>
+<td><b>REC LOW</b></td>
+<td><b>AVE PRECIP (in)</b></td>
+<td><b>AVE SNOW (in)</b></td>
+</tr>
+<tr>
+<td>JAN</td>
+<td>24</td>
+<td>12</td>
+<td>46</td>
+<td>-17</td>
+<td>3.51</td>
+<td>48.7</td>
+</tr>
+<tr>
+<td>FEB</td>
+<td>28</td>
+<td>14</td>
+<td>44</td>
+<td>-10</td>
+<td>2.99</td>
+<td>48.8</td>
+</tr>
+<tr>
+<td>MAR</td>
+<td>30</td>
+<td>14</td>
+<td>51</td>
+<td>-9</td>
+<td>3.05</td>
+<td>47.0</td>
+</tr>
+<tr>
+<td>APR</td>
+<td>39</td>
+<td>21</td>
+<td>61</td>
+<td>1</td>
+<td>2.81</td>
+<td>39.8</td>
+</tr>
+<tr>
+<td>MAY</td>
+<td>50</td>
+<td>32</td>
+<td>67</td>
+<td>10</td>
+<td>1.67</td>
+<td>10.3</td>
+</tr>
+<tr>
+<td>JUN</td>
+<td>61</td>
+<td>43</td>
+<td>80</td>
+<td>20</td>
+<td>1.13</td>
+<td>3.1</td>
+</tr>
+<tr>
+<td>JUL</td>
+<td>69</td>
+<td>51</td>
+<td>79</td>
+<td>36</td>
+<td>1.10</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>AUG</td>
+<td>68</td>
+<td>50</td>
+<td>79</td>
+<td>30</td>
+<td>1.10</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>SEP</td>
+<td>57</td>
+<td>39</td>
+<td>75</td>
+<td>13</td>
+<td>1.15</td>
+<td>1.5</td>
+</tr>
+<tr>
+<td>OCT</td>
+<td>42</td>
+<td>28</td>
+<td>64</td>
+<td>-2</td>
+<td>2.83</td>
+<td>24.5</td>
+</tr>
+<tr>
+<td>NOV</td>
+<td>32</td>
+<td>20</td>
+<td>54</td>
+<td>-14</td>
+<td>2.83</td>
+<td>38.1</td>
+</tr>
+<tr>
+<td>DEC</td>
+<td>26</td>
+<td>13</td>
+<td>45</td>
+<td>-12</td>
+<td>3.49</td>
+<td>54.5</td>
+</tr>
+</table>                                                                                                                                                                                                                                                                                                                              <a name="chapter_7"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/climbing-up-mount-aire/521232/c-152296"><img alt="Climbing up Mount Aire" src="/images/square/521232.JPG"></a></td>
+<td><a href="/summit-view-of-mt-aire/531230/c-152296"><img alt="Summit view of Mt Aire" src="/images/square/531230.JPG"></a></td>
+<td><a href="/dark-cloud-above-mt-aire/531239/c-152296"><img alt="Dark cloud above Mt Aire" src="/images/square/531239.JPG"></a></td>
+<td><a href="/skiing-up-mt-aire/469193/c-152296"><img alt="Skiing up Mt Aire" src="/images/square/469193.JPG"></a></td>
+<td><a href="/snow-and-icey-summit-of-mt-aire/40755/c-152296"><img alt="Snow and Icey Summit of Mt Aire" src="/images/square/40755.jpg"></a></td>
+<td><a href="/hoar-on-moose-hair-substrate/40758/c-152296"><img alt="Hoar on Moose Hair Substrate" src="/images/square/40758.jpg"></a></td>
+<td><a href="/superman-me/279558/c-152296"><img alt="Superman &amp; Me" src="/images/square/279558.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/mt-aire/617768/c-152296"><img alt="Mt. Aire" src="/images/square/617768.jpg"></a></td>
+<td><a href="/january-2004-peter-on-the/40759/c-152296"><img alt="January 2004 - Peter on the..." src="/images/square/40759.jpg"></a></td>
+<td><a href="/grandeur-s-north-ridge/545749/c-152296"><img alt="Grandeur\'s North Ridge" src="/images/square/545749.JPG"></a></td>
+<td><a href="/january-2004-me-trudging-up/40757/c-152296"><img alt="January 2004 - Me trudging up..." src="/images/square/40757.jpg"></a></td>
+<td><a href="/mt-aire-view-from-north-east/469191/c-152296"><img alt="Mt Aire View from North East" src="/images/square/469191.JPG"></a></td>
+<td><a href="/the-fresh-toad-of-mount-aire/659978/c-152296"><img alt="The Fresh Toad of Mount Aire" src="/images/square/659978.JPG"></a></td>
+<td><a href="/upper-mountain-dell-reservoir/268704/c-152296"><img alt="Upper Mountain Dell Reservoir" src="/images/square/268704.jpg"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/mount-aire/images/p-152296">View Gallery - 18 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty:  
+elevation: 8621 
+grade:  
+id: 152296 
+latitude: 40.72 
+location: Utah, United States, North America 
+longitude: -111.6954 
+my_route_quality:  
+name: Mount Aire 
+number_of_pitches:  
+page_url: http://www.summitpost.org/mount-aire/152296 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons:  
+time_required:  
+type: Mountain-Rock 
+

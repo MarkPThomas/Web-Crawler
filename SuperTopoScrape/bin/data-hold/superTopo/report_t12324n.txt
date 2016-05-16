@@ -1,0 +1,108 @@
+content: <div class="articletext">
+<div class="photonormal">
+<table valign="top" border="0" width="626" cellspacing="0" cellpadding="0" class="sdw_box">
+			<tr>
+			  <td><img src="/nav_img/top_left_sdw.gif" width="13" height="13"></td>
+			  <td class="sdw_top"></td>
+			  <td><img src="/nav_img/top_right_sdw.gif" width="13" height="13"></td>
+			</tr>
+			<tr>
+			  <td class="sdw_left"></td>
+			  <td class="sdw_body" width="600"><div>
+<a href="javascript:photoZoom('Oj8-ODYiIiYiIw,,')" title="Click to enlarge"><img src="http://www.supertopo.com/photos/23/28/354334_21831_L.jpg" width="600" height="298" name="" alt="Interactive Half Dome Map"></a><span class="small"><br>Interactive Half Dome Map<br><div class="photo-credit">Credit: PellucidWombat</div></span>
+</div></td>
+			  <td class="sdw_right"></td>
+			</tr>
+			<tr>
+			  <td><img src="/nav_img/bottom_left_sdw.gif" width="13" height="13"></td>
+			  <td class="sdw_bottom"></td>
+			  <td><img src="/nav_img/bottom_right_sdw.gif" width="13" height="13"></td>
+			</tr>
+		  </table>
+</div>
+<div class="horizontalrule"><hr></div>
+<b><a href="http://038dbbc.netsolhost.com/maps-gis/half-dome-map/" target="_blank" rel="nofollow">Interactive Half Dome Map App</a></b><br>
+<div class="horizontalrule"><hr></div>
+<i>(Make sure to go full screen for the best experience. Zoom in, pan around, turn layers on and off, click photo icons to see image thumbnails in popups, click the thumbnails to see the images enlarged. Most items have mouseover tooltips, and what you see changes upon zoom level.)</i><br>
+<br>
+Last Fall I had an idea for making a unique style of trip report that provides an interactive first-person POV experience, merged with the birds-eye view of the route traveled. I had already climbed the route with my friend Nic Risser, sleeping atop Big Sandy for my 30th BDay in August, so I also had photo documentation of the route.<br>
+<br>
+I had no idea how I would do this, apart from knowing that I needed photo material to work with and would have to learn JavaScript to implement it. So on my last weekend out before my first of 3 knee surgeries, I hiked to the summit of North Dome with my camera and took a lot of closeup shots of Half Dome, and during my down time this winter, I figured out how to make this idea a reality.<br>
+<br>
+The project is still very much unfinished (and yes, Justin, I still need to add photos from your climb!), but it is working, and really fun as-is, and I see myself waiting too long before sharing it if I wait until it is 'finished'. So click below! <br>
+<br>
+<div class="horizontalrule"><hr></div>
+<b><a href="http://038dbbc.netsolhost.com/maps-gis/half-dome-map/" target="_blank" rel="nofollow">Interactive Half Dome Map App</a></b><br>
+<div class="horizontalrule"><hr></div>
+<br>
+<b><u>Process</u></b><br>
+<br>
+I created the image with photos taken using a 7-year-old Nikon D40 DLSR, with a Nikkor kit lens. (55-200mm zoom). I merged the image together in Adobe Photoshop, but not without some trial and error for such a big project.<br>
+<br>
+<a href="https://lh5.googleusercontent.com/-zUrB5HbC7LU/UmdJU1LeBTI/AAAAAAADblc/Kdet1XewOnM/s2000/2013-10-20%2520-%2520043%2520-%2520Solo%2520TR%2520%2526%2520North%2520Dome%2520-%2520ObamaCareToHalfDome.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-zUrB5HbC7LU/UmdJU1LeBTI/AAAAAAADblc/Kdet1XewOnM/s800/2013-10-20%2520-%2520043%2520-%2520Solo%2520TR%2520%2526%2520North%2520Dome%2520-%2520ObamaCareToHalfDome.jpg"></a><br>
+<b><i>Result of attempting to blend all of the photos at once in Adobe Photoshop.</i></b><br>
+<br>
+However, with some experimentation, I found a way to get the merging to work correctly.<br>
+<br>
+<a href="https://lh3.googleusercontent.com/-YR35dlwmxf0/U1MSGTFSuCI/AAAAAAADdsc/O_YHAv-Uzn0/s2000/2013-10-20%2520-%2520046%2520-%2520Solo%2520TR%2520%2526%2520North%2520Dome%2520-%2520IMG_3387%2520-%2520process.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-YR35dlwmxf0/U1MSGTFSuCI/AAAAAAADdsc/O_YHAv-Uzn0/s800/2013-10-20%2520-%2520046%2520-%2520Solo%2520TR%2520%2526%2520North%2520Dome%2520-%2520IMG_3387%2520-%2520process.jpg"></a><br>
+<b><i>NW Face of Half Dome, roughly as I had divided it up into close up photographs taken with a  200mm zoom lens.</i></b><br>
+<br>
+Once the image was assembled, I had the problem that the image was 75MB, which took far too long to load on a web browser to be a feasible way for a user to quickly view the image. There are a number of JavaScript methods &amp; plugins for  photo enlarging, but most did not allow some form of interactivity on the map that would scale and pan with the image.<br>
+<br>
+I spent some time trying out one that could handle keeping image maps scaled and aligned with the image, but it was appearing to be a dead end.<br>
+<br>
+So I tried tiling, which handles the size and sizing issues. Using this system also allowed for using various interactive elements (icons, polylines, shapes), positioned by latitude  longitude coordinates, as this system is normally used for maps. Since my project was a flat image and not a curved 3D surface on Earth, I had to write some 'unproject' methods in my scripts, but otherwise everything worked together smoothly.<br>
+<br>
+<a href="https://lh3.googleusercontent.com/-OUfSmeGBKPs/U1MSJcBaZ4I/AAAAAAADd68/qHD2JIWWXiA/s2000/Tiling%2520Concept.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-OUfSmeGBKPs/U1MSJcBaZ4I/AAAAAAADd68/qHD2JIWWXiA/s800/Tiling%2520Concept.jpg"></a><br>
+<b><i>I used Tiling to make to make the high resolution Half Dome image feasible for web viewing, with panning and zoom navigation. This is the same technique that Google Maps uses.</i></b><br>
+<br>
+The tiling was done using a free Ruby script that automates the process, taking a few seconds to size, crop, and save the files in a format &amp; folder structure that can be read by code for automatically re-assembling the portions of the image that are in view of your screen. There are various Ruby and Python scripts available to do such things, although figuring out how to get them to work is tedious (I really don't know either programming language).<br>
+<br>
+<div class="horizontalrule"><hr></div>And now, for those who just want to see some pretty pics . . .<br>
+<br>
+<b><u>2013-10-20 - Solo Top Rope and North Dome Hike</u></b><br>
+This was my last weekend to get out in the mountains before I would have the first of several knee surgeries that would keep me away from rigorous outdoor fun for the next year. As no one was game for getting out with me this weekend, I threw together my own last-minute plans for a Sunday daytrip: First, work out a system for solo top-roping at Knob Hill. Then hike to Indian Rock and Arch, and then to North Dome, for researching an approach and getting some project shots of surrounding features - especially the N Face of Half Dome. I hung out with a book and beer atop North Dome to catch the sunset before hiking back in the dark.<br>
+<br>
+<a href="https://lh5.googleusercontent.com/-OzJr2afQ_Io/UmdItNctTGI/AAAAAAADbf0/0IJqCA38rps/s1600/2013-10-20%252520-%252520017%252520-%252520Solo%252520TR%252520%252526%252520North%252520Dome%252520-%252520IMG_3360.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-OzJr2afQ_Io/UmdItNctTGI/AAAAAAADbf0/0IJqCA38rps/s800/2013-10-20%252520-%252520017%252520-%252520Solo%252520TR%252520%252526%252520North%252520Dome%252520-%252520IMG_3360.jpg"></a> <br>
+<b><i>Arch near Indian Rock.</i></b><br>
+<br>
+<br>
+<a href="https://lh5.googleusercontent.com/-W4iIJddA4lQ/UmdIuzZuyOI/AAAAAAADbf8/CgVSdteOuxs/s1600/2013-10-20%252520-%252520018%252520-%252520Solo%252520TR%252520%252526%252520North%252520Dome%252520-%252520IMG_3362.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-W4iIJddA4lQ/UmdIuzZuyOI/AAAAAAADbf8/CgVSdteOuxs/s800/2013-10-20%252520-%252520018%252520-%252520Solo%252520TR%252520%252526%252520North%252520Dome%252520-%252520IMG_3362.jpg"></a> <br>
+<b><i>Half Dome and Starr King seen through the arch near Indian Rock.</i></b><br>
+<br>
+<a href="https://lh4.googleusercontent.com/-GgTXO5QedJg/UmdJKLaMgZI/AAAAAAADbhU/zEG_F63tFR4/s1600/2013-10-20%252520-%252520033%252520-%252520Solo%252520TR%252520%252526%252520North%252520Dome%252520-%252520DSC_0162.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-GgTXO5QedJg/UmdJKLaMgZI/AAAAAAADbhU/zEG_F63tFR4/s800/2013-10-20%252520-%252520033%252520-%252520Solo%252520TR%252520%252526%252520North%252520Dome%252520-%252520DSC_0162.jpg"></a> <br>
+<b><i>Cloud's Rest and Quarter Dome (right, low) above the rugged Tenaya Canyon.</i></b><br>
+<br>
+<a href="https://lh5.googleusercontent.com/-HaidwYw44BA/UmdJLZu07aI/AAAAAAADbhc/x3Po2pTX99s/s1600/2013-10-20%252520-%252520035%252520-%252520Solo%252520TR%252520%252526%252520North%252520Dome%252520-%252520IMG_3373.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-HaidwYw44BA/UmdJLZu07aI/AAAAAAADbhc/x3Po2pTX99s/s900/2013-10-20%252520-%252520035%252520-%252520Solo%252520TR%252520%252526%252520North%252520Dome%252520-%252520IMG_3373.jpg"></a> <br>
+<b><i>Tenaya Canyon, with Basket Dome (left), Mt Watkins (left, back), Cloud's Rest (center) and Half Dome (right).</i></b><br>
+<br>
+<a href="https://lh5.googleusercontent.com/-qwBZ35c3-uc/UmdI1aFEoCI/AAAAAAADbgU/J0x2kPJldTk/s1600/2013-10-20%252520-%252520021%252520-%252520Solo%252520TR%252520%252526%252520North%252520Dome%252520-%252520DSC_0127.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-qwBZ35c3-uc/UmdI1aFEoCI/AAAAAAADbgU/J0x2kPJldTk/s800/2013-10-20%252520-%252520021%252520-%252520Solo%252520TR%252520%252526%252520North%252520Dome%252520-%252520DSC_0127.jpg"></a><br>
+<b><i>Climbers finishing Thank God Ledge on Half Dome, seen from North Dome.</i></b><br>
+<br>
+<a href="https://lh3.googleusercontent.com/-m9VFdsds9fI/UmdJP6jcESI/AAAAAAADbh0/K_MDD8at2r0/s1600/2013-10-20%252520-%252520040%252520-%252520Solo%252520TR%252520%252526%252520North%252520Dome%252520-%252520DSC_0181a.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-m9VFdsds9fI/UmdJP6jcESI/AAAAAAADbh0/K_MDD8at2r0/s800/2013-10-20%252520-%252520040%252520-%252520Solo%252520TR%252520%252526%252520North%252520Dome%252520-%252520DSC_0181a.jpg"></a> <br>
+<b><i>Climbers on the second to last pitch of the NWRR of Half Dome.</i></b><br>
+ <br>
+<a href="https://lh5.googleusercontent.com/-TDe7Re2gYLM/UmdJkZ4EJQI/AAAAAAADbjE/r4GZxHyBZjI/s1600/2013-10-20%252520-%252520049%252520-%252520Solo%252520TR%252520%252526%252520North%252520Dome%252520-%252520DSC_0289.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-TDe7Re2gYLM/UmdJkZ4EJQI/AAAAAAADbjE/r4GZxHyBZjI/s800/2013-10-20%252520-%252520049%252520-%252520Solo%252520TR%252520%252526%252520North%252520Dome%252520-%252520DSC_0289.jpg"></a> <br>
+<b><i>Watkins Pinnacles.</i></b><br>
+<br>
+<a href="https://lh4.googleusercontent.com/-A1AkoGm5a08/UmdJvgDqyEI/AAAAAAADbjU/yo90SwZWvDU/s1600/2013-10-20%252520-%252520066%252520-%252520Solo%252520TR%252520%252526%252520North%252520Dome%252520-%252520IMG_3390.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-A1AkoGm5a08/UmdJvgDqyEI/AAAAAAADbjU/yo90SwZWvDU/s900/2013-10-20%252520-%252520066%252520-%252520Solo%252520TR%252520%252526%252520North%252520Dome%252520-%252520IMG_3390.jpg"></a> <br>
+<b><i>Panorama of Tenaya Canyon. Mt Watkins (left, low), Cloud's Rest, Quarter Dome, Half Dome, and Mt Starr King (right, horizon).</i></b><br>
+ <br>
+<a href="https://lh4.googleusercontent.com/-kz1n-RM7zCU/UmdJ3TBn7WI/AAAAAAADbj8/-Bo_Ckiay7I/s1600/2013-10-20%252520-%252520073%252520-%252520Solo%252520TR%252520%252526%252520North%252520Dome%252520-%252520IMG_3409.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-kz1n-RM7zCU/UmdJ3TBn7WI/AAAAAAADbj8/-Bo_Ckiay7I/s800/2013-10-20%252520-%252520073%252520-%252520Solo%252520TR%252520%252526%252520North%252520Dome%252520-%252520IMG_3409.jpg"></a> <br>
+<b><i>Half Dome's NW Face at sunset.</i></b><br>
+<br>
+<a href="https://lh5.googleusercontent.com/-cLDMrBvmZHw/UmdJ4XwA_nI/AAAAAAADbkE/VL0X2RzkWtI/s1600/2013-10-20%252520-%252520074%252520-%252520Solo%252520TR%252520%252526%252520North%252520Dome%252520-%252520IMG_3399.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-cLDMrBvmZHw/UmdJ4XwA_nI/AAAAAAADbkE/VL0X2RzkWtI/s800/2013-10-20%252520-%252520074%252520-%252520Solo%252520TR%252520%252526%252520North%252520Dome%252520-%252520IMG_3399.jpg"></a> <br>
+<b><i>Sunset over El Cap from atop North Dome.</i></b><br>
+ <br>
+<a href="https://lh6.googleusercontent.com/-YCEATcIZmtQ/UmdJ-BP2Z7I/AAAAAAADbks/LBHFSTnuDt8/s1600/2013-10-20%252520-%252520090%252520-%252520Solo%252520TR%252520%252526%252520North%252520Dome%252520-%252520IMG_3420.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-YCEATcIZmtQ/UmdJ-BP2Z7I/AAAAAAADbks/LBHFSTnuDt8/s800/2013-10-20%252520-%252520090%252520-%252520Solo%252520TR%252520%252526%252520North%252520Dome%252520-%252520IMG_3420.jpg"></a> <br>
+<b><i>Afterglow lighting on dike ripples as I hiked out above North Dome to my car, parked on Highway 120.</i></b><br>
+ <br>
+<br>
+<b><u>Links</u></b><br>
+<img src="/images/SqBullet.gif" width="8" height="8"> <a href="https://picasaweb.google.com/105894936663116565516/20131020SoloTRNorthDome?authuser=0andfeat=directlink" target="_blank" rel="nofollow">Picasa Album (N Dome Hike)</a><br>
+<img src="/images/SqBullet.gif" width="8" height="8"> <a href="https://picasaweb.google.com/105894936663116565516/20130810to12HalfDomeNWRRWithNicRisser?authuser=0&amp;feat=directlink" target="_blank" rel="nofollow">Half Dome NWRR</a>
+</div> 
+id: t12324n 
+name: Half Dome Like You're Never Seen it Before 
+url: http://www.supertopo.com/tr/Half-Dome-Like-Youre-Never-Seen-it-Before/t12324n.html 
+

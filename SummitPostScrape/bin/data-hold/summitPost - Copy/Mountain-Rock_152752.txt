@@ -1,0 +1,112 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>
+<br>
+   Storm Mountain is an often overlooked peak that lies on the western end of the Cottonwood Ridge. Rising nearly 5,000 feet directly out of the valley, any approach requires significant elevation gain, and the blocky summit provides some interesting scrambling opportunities.  <p>  The NE Face is an impressive wall of granite, composed of many large extruded blocks, leaving the occasional large ledge, but beyond that it is mostly face climbing and cracks. It is often overlooked as it is hidden within Stairs Gulch and hard to see from most angles.</p>    <p>    </p>
+<table border="1" cellspacing="0"><tr><td>
+<table border="0" cellspacing="2" cellpadding="1">    <tr bgcolor="#c0c0c0"><td colspan="5"><font style="font-weight:bold;">ROUTES OVERVIEW</font></td></tr>  <tr>  <td align="center"><font style="font-weight:bold;">Route Name</font></td>  <td align="center"><font style="font-weight:bold;">Difficulty</font></td>  <td align="center"><font style="font-weight:bold;">Elevation Gain</font></td>  <td align="center"><font style="font-weight:bold;">Photos</font></td>  <td align="center"><font style="font-weight:bold;">Notes</font></td>  </tr>    <tr>
+<td bgcolor="#e0e0e0">
+<a href="http://www.summitpost.org/show/route_link.pl/route_id/3440/object_id/3238">Ferguson Canyon</a>  </td>
+<td bgcolor="#e0e0e0" align="center">cl. 2-3</td>  <td bgcolor="#e0e0e0" align="center">TBA</td>  <td bgcolor="#e0e0e0" align="center"></td>  <td bgcolor="#e0e0e0">This is the easiest route up the peak and is mostly on trail.</td>
+</tr>    <tr>
+<td><a href="http://www.summitpost.org/show/route_link.pl/route_id/3913/object_id/390">Storm Mountain/BF Twins Traverse</a></td>  <td align="center">cl. 3</td>  <td align="center">TBA</td>  <td align="center">
+<a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__93536__object_id__3238__type__mountain__mountain_id__3238__route_id____user_id____order_by____limit__">(1)</a>, <a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__151959__object_id__390__type__mountain__mountain_id__390__route_id____user_id____order_by____limit__">(2)</a>  </td>  <td>This route begins at either summit</td>
+</tr>    <tr>
+<td bgcolor="#e0e0e0">North Ridge</td>  <td bgcolor="#e0e0e0" align="center">cl. 4</td>  <td bgcolor="#e0e0e0" align="center">TBA</td>  <td bgcolor="#e0e0e0" align="center"><a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__156546__object_id__3238__type__mountain__mountain_id__3238__route_id____user_id____order_by____limit__">(1)</a></td>  <td bgcolor="#e0e0e0">This route begins just before the Storm Mountain Picnic Ground and is composed of many blocky ledges</td>
+</tr>    <tr>
+<td><a href="http://www.summitpost.org/show/route_link.pl/route_id/5670/object_id/390">Stairs Gulch</a></td>  <td align="center">cl. 3, Steep Snow</td>  <td align="center">TBA</td>  <td align="center">
+<a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__156560__object_id__390__type__mountain__mountain_id__390__route_id____user_id____order_by____limit__">(1)</a>, <a href="http://www.summitpost.org/mountains/photo_link.pl?photo_id=156548&amp;object_id=3238&amp;type=mountain&amp;mountain_id=3238&amp;route_id=">(2)</a>, <a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__156559__object_id__390__type__mountain__mountain_id__390__route_id____user_id____order_by____limit__">(3)</a>
+</td>  <td>A very steep route &amp; also very dangerous - approach only when snow conditions are optimal. Helmets recommended for any time of year.</td>
+</tr>    <tr>
+<td bgcolor="#e0e0e0">NE Face</td>  <td bgcolor="#e0e0e0" align="center">5.6? AI2-3? III-IV?</td>  <td bgcolor="#e0e0e0" align="center">TBA</td>  <td bgcolor="#e0e0e0" align="center">
+<a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__156545__object_id__3238__type__mountain__mountain_id__3238__route_id____user_id____order_by____limit__">(1)</a>, <a href="http://www.summitpost.org/mountains/photo_link.pl?photo_id=156542&amp;object_id=3238&amp;type=mountain&amp;mountain_id=3238&amp;route_id=">(2)</a>
+</td>  <td bgcolor="#e0e0e0">A +2,000 ft mixed climb that rarely has enough snow to form, but still a classic.</td>
+</tr>    <tr>
+<td>NW Face</td>  <td align="center">??</td>  <td align="center">TBA</td>  <td align="center">
+<a href="http://www.summitpost.org/mountains/photo_link.pl/p/photo_id__156546__object_id__3238__type__mountain__mountain_id__3238__route_id____user_id____order_by____limit__">(1)</a>  </td>  <td>No known beta, but looks interesting. Perhaps a route linking many couloirs, broken up w/ short cliffs</td>
+</tr>    <tr>
+<td bgcolor="#e0e0e0">Birches Canyon</td>  <td bgcolor="#e0e0e0" align="center">cl. 2-3?</td>  <td bgcolor="#e0e0e0" align="center">TBA</td>  <td bgcolor="#e0e0e0" align="center"></td>  <td bgcolor="#e0e0e0">Leaves from the Dogwood Picnic Area, all X-country</td>
+</tr>    </table>  <i><small>The NE Face appears to have some good routes, but I have never found any info in possible lines (although this isn't uncommon for alpine routes in the Wasatch!). This is the same reason for the difficulty uncertainty for some of the routes that I do know the lines for but haven't climbed</small></i>  </td></tr></table>    <p><br>
+</p>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=58086" rel="no_follow"><img src="/images/thumb/58086.jpg"></a></td>
+<td><a href="/view_object.php?object_id=106581" rel="no_follow"><img src="/images/thumb/106581.jpg"></a></td>
+<td><a href="/view_object.php?object_id=106585" rel="no_follow"><img src="/images/thumb/106585.jpg"></a></td>
+<td><a href="/view_object.php?object_id=106584" rel="no_follow"><img src="/images/thumb/106584.jpg"></a></td>
+<td><a href="/view_object.php?object_id=106583" rel="no_follow"><img src="/images/thumb/106583.jpg"></a></td>
+</tr></table>
+<a name="chapter_2"></a><h2>Getting There</h2>
+<br>
+There are two main ways that this peak is climbed:  <p>  Ferguson Canyon Trailhead: From Wasatch Boulevard, turn left at the 4-way intersection with Bengal Boulevard. Turn left on 3775 E (first left on the road), and then turn right on Timberline Circle. The trailhead begins at a dirt road. There are some signs for the trailhead that are easy to see. Park anywhere along the residential streets.</p>  <p>  Stairs Gulch Trailhead: Drive up Big Cottonwood Canyon. Soon after two sharp curves in the road about 2 miles up the canyon, there will be a pull off on the right side of the road. This pull off is the second to last one before the road cuts through some rocks on the south side of the small reservoir that is next to the Storm Mountain picnic ground.</p>  <p><br>
+</p>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=58084" rel="no_follow"><img src="/images/thumb/58084.jpg"></a></td>
+<td><a href="/view_object.php?object_id=58085" rel="no_follow"><img src="/images/thumb/58085.jpg"></a></td>
+<td><a href="/view_object.php?object_id=115700" rel="no_follow"><img src="/images/thumb/115700.JPG"></a></td>
+</tr></table>
+<a name="chapter_3"></a><h2>Red Tape</h2>
+<br>
+Ferguson Canyon and Stairs Gulch lie in the Broad Fork Twin Peaks Wilderness area, so limit party sizes to 10 people or less and practice Leave No Trace ethics. No permits or fees are required to reach either trailhead or the summit.  <p><br>
+<a name="chapter_4"></a></p>
+<h2>When To Climb</h2>
+<br>
+May through October are the best months. Ferguson canyon has lots of underbrush that may be difficult to navigate in snow conditions, and Stairs Gulch is the most avalanche prone canyon in the entire Wasatch Range.  <p><br>
+</p>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=95396" rel="no_follow"><img src="/images/thumb/95396.JPG"></a></td>
+<td><a href="/view_object.php?object_id=95395" rel="no_follow"><img src="/images/thumb/95395.JPG"></a></td>
+</tr></table>
+<a name="chapter_5"></a><h2>Camping</h2>
+<br>
+Camping is allowed if done at least 100 ft away from trails, lakes, and streams and as long as Leave No Trace ethics are praticed.<p><br>
+<a name="chapter_6"></a></p>
+<h2>Mountain Conditions</h2>
+<br>
+<a href="http://www.fs.fed.us/r4/wcnf/">Wasatch-Cache National Forest</a>  <p>  <a href="http://www.avalanche.org/~uac/">Utah Avalanche Center</a></p>  <p>  <a href="http://www.csac.org/">The Avalanche Center</a></p>  <p>  <a href="http://www.xmission.com/~wmc/">Wasatch Mountain Club</a></p>  <p>  <br>
+<a name="chapter_7"></a></p>
+<h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/wild-blue-flax-linum-lewisii/412364/c-152752"><img alt="Wild Blue Flax (Linum lewisii)" src="/images/square/412364.JPG"></a></td>
+<td><a href="/climbing-around-near-the-base/95395/c-152752"><img alt="Climbing around near the base..." src="/images/square/95395.JPG"></a></td>
+<td><a href="/western-gromwell/411854/c-152752"><img alt="Western Gromwell" src="/images/square/411854.JPG"></a></td>
+<td><a href="/storm-mountain-from-mule-hollow/516554/c-152752"><img alt="Storm Mountain from Mule Hollow" src="/images/square/516554.jpg"></a></td>
+<td><a href="/twin-peaks-storm-mountain-pfeifferhorn/296336/c-152752"><img alt="Twin Peaks, Storm Mountain, &amp; Pfeifferhorn" src="/images/square/296336.JPG"></a></td>
+<td><a href="/he-seems-a-bit-embarrassed/95396/c-152752"><img alt="He seems a bit embarrassed..." src="/images/square/95396.JPG"></a></td>
+<td><a href="/june-6th-2004-the-ridgeline/58086/c-152752"><img alt="June 6th 2004 - The ridgeline..." src="/images/square/58086.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/storm-peak-from-main-canyon-road/418689/c-152752"><img alt="Storm Peak from main canyon road" src="/images/square/418689.JPG"></a></td>
+<td><a href="/june-2004-one-of-the/58083/c-152752"><img alt="June 2004 - One of the..." src="/images/square/58083.jpg"></a></td>
+<td><a href="/stairs-gulch-from-mule-hollow/724843/c-152752"><img alt="Stairs Gulch from Mule Hollow" src="/images/square/724843.JPG"></a></td>
+<td><a href="/june-2004-storm-mountain/58082/c-152752"><img alt="June 2004 - Storm Mountain..." src="/images/square/58082.jpg"></a></td>
+<td><a href="/ne-face-january-31-2009/484894/c-152752"><img alt="NE Face: January 31, 2009" src="/images/square/484894.JPG"></a></td>
+<td><a href="/stairs-gulch/641913/c-152752"><img alt="Stairs Gulch" src="/images/square/641913.JPG"></a></td>
+<td><a href="/northern-flank-of-storm-mtn/275840/c-152752"><img alt="Northern Flank of Storm Mtn" src="/images/square/275840.JPG"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/storm-mountain/images/p-152752">View Gallery - 19 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty:  
+elevation: 9524 
+grade:  
+id: 152752 
+latitude: 40.609 
+location: Utah, United States, North America 
+longitude: -111.741 
+my_route_quality:  
+name: Storm Mountain 
+number_of_pitches:  
+page_url: http://www.summitpost.org/storm-mountain/152752 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons:  
+time_required:  
+type: Mountain-Rock 
+

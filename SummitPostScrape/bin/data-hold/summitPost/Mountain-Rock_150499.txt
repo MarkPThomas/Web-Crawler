@@ -106,6 +106,7 @@ date:
 difficulty:  
 elevation: 13143 
 grade:  
+hits: 80636  
 id: 150499 
 latitude: 37.6894 
 location: California, United States, North America 
@@ -114,6 +115,9 @@ my_route_quality:
 name: Mount Ritter 
 number_of_pitches:  
 page_url: http://www.summitpost.org/mount-ritter/150499 
+parent_code: 170866 
+parent_name: Ansel Adams Wilderness 
+parent_url: /ansel-adams-wilderness/170866 
 rock_difficulty:  
 route_quality:  
 route_type:  

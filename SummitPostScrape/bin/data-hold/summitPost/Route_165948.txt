@@ -25,6 +25,7 @@ date:
 difficulty:  
 elevation:  
 grade: II 
+hits: 1978  
 id: 165948 
 latitude: 37.3777 
 location: California, United States, North America 
@@ -33,6 +34,9 @@ my_route_quality:
 name: North Ridge 
 number_of_pitches:  
 page_url: http://www.summitpost.org/north-ridge/165948 
+parent_code: 154383 
+parent_name: Rosy Finch Peak 
+parent_url: /rosy-finch-peak/154383 
 rock_difficulty: Class 4 
 route_quality: 0.8 
 route_type: Scrambling 

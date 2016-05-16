@@ -346,6 +346,7 @@ date:
 difficulty:  
 elevation: 3849 
 grade:  
+hits: 61861  
 id: 150863 
 latitude: 37.882 
 location: California, United States, North America 
@@ -354,6 +355,9 @@ my_route_quality:
 name: Mount Diablo 
 number_of_pitches:  
 page_url: http://www.summitpost.org/mount-diablo/150863 
+parent_code: 183758 
+parent_name: Diablo Range 
+parent_url: /diablo-range/183758 
 rock_difficulty:  
 route_quality:  
 route_type:  

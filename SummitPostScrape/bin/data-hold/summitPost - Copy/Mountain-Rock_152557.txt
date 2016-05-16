@@ -1,0 +1,130 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>Basin Mountain is a huge peak that dominates the Eastern Sierra landscape above Bishop. It is clearly visible from Owens Valley, and is surrounded by such fine mountains as Mount Humphreys on the southwest, Four Gables on the west and Mount Tom on the north. It is infrequently climbed and is arguably more popular among backcountry skiers than climbers due to its enormous East Couloir that is snow covered until early summer. Not surprisingly, it was first climbed by the legendary Sierra pioneer Norman Clyde. As of today, there are two known routes to the summit:  <p>  </p>
+<div align="left">    <table border="1" cellspacing="0" width="52%" height="28">      <tr>        <td width="16%" align="center" height="24"><b>Name</b></td>        <td width="12%" align="center" height="24"><b>Difficulty</b></td>        <td width="47%" align="center" height="24"><b>First Ascent Party and Year</b></td>      </tr>      <tr>        <td width="16%" bgcolor="#C0C0C0" align="center" height="24"> </td>        <td width="12%" bgcolor="#C0C0C0" align="center" height="24"> </td>        <td width="47%" bgcolor="#C0C0C0" align="center" height="24"> </td>      </tr>      <tr>        <td width="16%" align="center" height="24">North Slope</td>        <td width="12%" align="center" height="24">Class 2</td>        <td width="47%" align="center" height="24">Norman Clyde, 1930</td>      </tr>      <tr>        <td width="16%" align="center" height="25">East Couloir</td>        <td width="12%" align="center" height="25">Class 4</td>        <td width="47%" align="center" height="25">Dick Beach and Dave King, 1974</td>      </tr>    </table>  </div>  <p><br>
+</p>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=50715" rel="no_follow"><img src="/images/thumb/50715.jpg"></a></td>
+<td><a href="/view_object.php?object_id=108044" rel="no_follow"><img src="/images/thumb/108044.jpg"></a></td>
+<td><a href="/view_object.php?object_id=50698" rel="no_follow"><img src="/images/thumb/50698.jpg"></a></td>
+<td><a href="/view_object.php?object_id=50700" rel="no_follow"><img src="/images/thumb/50700.jpg"></a></td>
+<td><a href="/view_object.php?object_id=50714" rel="no_follow"><img src="/images/thumb/50714.jpg"></a></td>
+</tr></table>
+<a name="chapter_2"></a><h2>Getting There</h2>The most common approach to both established routes on the mountain is from the east. Take HWY 168 west from the center of Bishop. Proceed approximately 7 1/2 miles and turn right onto Buttermilk Road. At this point, the asphalt on the road is replaced by dirt, although still passable by a 2wd low-clearance vehicle. Stay on Buttermilk Road as it takes you through beautiful Buttermilk Country and famous Buttermilk boulders. The road quality will worsen as you approach the base of the Sierra. If you intend to make it all the way to the trailhead by vehicle, you will want to bring a sturdy high-clearance 4wd. Continue on Buttermilk Road past several forks and turn-outs. When in doubt, take a more traveled right fork. At some point, you will reach the marked intersection of Buttermilk Road and the Horton Lakes trailhead road. Turn right here and follow it for another mile until it reaches a small dead tree forest. If it was challenging for your vehicle to get to this point, you may want to leave it here and hike the final half a mile to the Horton Lakes trailhead. If you are confident in your 4wd beast, continue driving on the rapidly deteriorating road for a little longer until you reach the locked gate. From here you can either walk west towards the base of East Couloir, or follow the jeep road / trail to Horton Lakes to reach the North Slope route.  <p>  If you are hoping to climb this fine peak during heavy snow months, be prepared to leave your vehicle along Buttermilk Road and hike for a couple of miles to the trailhead. The road is not plowed, and can be impassable if conditions are bad.  <br>
+</p>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=50734" rel="no_follow"><img src="/images/thumb/50734.jpg"></a></td>
+<td><a href="/view_object.php?object_id=50795" rel="no_follow"><img src="/images/thumb/50795.jpg"></a></td>
+<td><a href="/view_object.php?object_id=94788" rel="no_follow"><img src="/images/thumb/94788.jpg"></a></td>
+</tr></table>
+<a name="chapter_3"></a><h2>Red Tape</h2>No permits are required if you climb the mountain from the east side. The Horton Lakes trail does have a quota.         From <a href="http://www.summitpost.org/mountains/user_link.pl/user_id/2866">davidkiene</a> and <a href="http://www.summitpost.org/mountains/user_link.pl/user_id/13451">PellucidWombat</a>:    "A wilderness permit is required for all overnight stays in the Horton Creek drainage from May 1 through November 1, and there is a quota. To find out more about getting a permit, check the <a href="http://www.fs.fed.us/r5/inyo/recreation/wild/permitsres.shtml">Inyo National Forest</a> website." <br>
+<a name="chapter_4"></a><h2>When To Climb</h2>Basin Mountain can be climbed year-round. During the winter months, East Couloir would be a preferred way due to its shorter approach and wonderful skiing possibilities. During the summer months, one may opt for the non-technical and less steep North Slope route. If you choose to climb this mountain in winter conditions, watch out for the many avalanche-prone slopes and gullies.<br>
+<a name="chapter_5"></a><h2>Camping</h2>Some basic camping is available near the Horton Lakes trailhead. If you are planning to climb the mountain over multiple days, you can either camp at Horton Lakes (North Slope) or in the abandoned mine tunnel at the base of East Couloir. The mentioned mine tunnel is a fantastic bivy spot, located at approximately 10,500'. It has enough space to fit 9-10 people with comfort, and even has a small backcountry kitchen area. If you are climbing East Couloir and planning to spend a night in the mine tunnel, leave your tent at home - it won't be needed!<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=50697" rel="no_follow"><img src="/images/thumb/50697.jpg"></a></td>
+<td><a href="/view_object.php?object_id=50733" rel="no_follow"><img src="/images/thumb/50733.jpg"></a></td>
+<td><a href="/view_object.php?object_id=104441" rel="no_follow"><img src="/images/thumb/104441.JPG"></a></td>
+</tr></table>
+<a name="chapter_6"></a><h2>Mountain Conditions</h2>Check out the <a href="http://www.buhs.k12.ca.us/webcam/index_small.html">Bishop Broncos webcam</a> for a fine view of Basin Mountain and Mount Tom!  <p>  <b>Current Weather Conditions:</b>  </p>
+<p>  <a href="http://www.wunderground.com/US/CA/Bishop.html">  <img src="http://banners.wunderground.com/banner/infobox_both/language/www/US/CA/Bishop.gif" alt="Click for Bishop, California Forecast" height="108" width="144"></a><br>
+</p>
+<p></p>
+<table class="inline_image_thumbs"><tr><td><a href="/view_object.php?object_id=115969" rel="no_follow"><img src="/images/thumb/115969.jpg"></a></td></tr></table>
+<a name="chapter_7"></a><h2>External Links</h2>
+<ul> <br>
+<li>
+<a href="http://www.geocities.com/spow49/Basin.html">Basin; E Couloir Attempt</a><br> <br>
+</li>
+<li>
+<a href="http://www.climber.org/TripReports/2005/1389.html">Basin Mountain East Couloir</a><br> <br>
+</li>
+</ul>                     <div align="center">
+<a name="messages"></a><a name="chapter_8"></a><h2>Additions and Corrections</h2>[ <a href="/object_discussion.php?type=vote_comments&amp;object_id=152557&amp;is_addition=1#vote_form">Post an Addition or Correction</a> ]<table cellpadding="0" cellspacing="0" style="width: 775px;"><tr><td><table cellpadding="2" cellspacing="2" width="100%"><tr>
+<td align="left"><span class="pagertext">Viewing: <b>1</b>-<b>2</b> of <b>2</b></span></td>
+<td align="center"></td>
+<td align="right">    </td>
+</tr></table></td></tr></table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="121807"></a> <a class="dis_user_lnk" href="/users/andy-hyslop/2474">Andy Hyslop</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>Untitled Comment</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;">
+<p class="disc_avatar"><a href="/users/andy-hyslop/2474"><img alt="Andy Hyslop" width="50" height="50" border="0" src="/images/avatars/10627.jpg"></a></p>
+<p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p>
+</td>
+<td colspan="2" style="padding-top: 6px;">Did a great run around these peaks in 2003. There is a free PDF topo available here. http://www.rockfax.com/publications/miniguides/item.php?id=54</td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Nov 29, 2005 5:45 pm</span></td></tr>
+</table>
+<table border="0" width="775" class="messages">
+<tr>
+<td width="110" align="left" valign="top" style="padding-top: 6px;">
+<a name="484386"></a> <a class="dis_user_lnk" href="/users/becky/120714">becky</a>
+</td>
+<td valign="top" style="padding-top: 6px;"><b>basin mountain from horton lakes</b></td>
+<td align="right" valign="top" nowrap style="font-size: 10px;"></td>
+</tr>
+<tr>
+<td valign="top" rowspan="2" align="left" style="padding-top: 6px;"><p><span style="font-size: 9px; color: #888;">Hasn't voted</span></p></td>
+<td colspan="2" style="padding-top: 6px;">what a great hike! Worth it and a must do. It is a grind up from the last little lake but the flowers and views make it fabulous! a couple of snow crossings up high, but kick step through it no problem. </td>
+</tr>
+<tr><td valign="bottom" style="padding-top: 6px;" colspan="2"><span style="font-size: 9px; color: #888;">Posted Jul 7, 2014 3:17 pm</span></td></tr>
+</table>
+<br><table border="0" width="775"><tr><td><table cellpadding="2" cellspacing="2" width="100%"><tr>
+<td align="left"><span class="pagertext">Viewing: <b>1</b>-<b>2</b> of <b>2</b></span></td>
+<td align="center"></td>
+<td align="right">    </td>
+</tr></table></td></tr></table>
+<br>
+</div>
+<a name="chapter_9"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/sierra-wave-above-the-slopes/108044/c-152557"><img alt="Sierra Wave above the slopes..." src="/images/square/108044.jpg"></a></td>
+<td><a href="/mt-humphreys-and-basin-mtn-from-grouse-mtn/495830/c-152557"><img alt="Mt. Humphreys and Basin Mtn. from Grouse Mtn." src="/images/square/495830.JPG"></a></td>
+<td><a href="/sierra-nevada/493046/c-152557"><img alt="Sierra Nevada" src="/images/square/493046.jpg"></a></td>
+<td><a href="/sierra-wave-above-the-eastern/108036/c-152557"><img alt="Sierra Wave above the eastern..." src="/images/square/108036.jpg"></a></td>
+<td><a href="/mike-is-admiring-the-sunrise/50715/c-152557"><img alt="Mike is admiring the sunrise..." src="/images/square/50715.jpg"></a></td>
+<td><a href="/mt-humphreys-and-basin-mtn-from-buttermilk-country/472933/c-152557"><img alt="Mt. Humphreys and Basin Mtn. from Buttermilk Country" src="/images/square/472933.jpg"></a></td>
+<td><a href="/basin-mountain-left-and/50698/c-152557"><img alt="Basin Mountain (left) and..." src="/images/square/50698.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/etsuko-and-samantha-are-on/51275/c-152557"><img alt="Etsuko and Samantha are on..." src="/images/square/51275.jpg"></a></td>
+<td><a href="/the-southeast-shoulder-of/50700/c-152557"><img alt="The southeast shoulder of..." src="/images/square/50700.jpg"></a></td>
+<td><a href="/north-couloirs/970892/c-152557"><img alt="North Couloirs" src="/images/square/970892.jpg"></a></td>
+<td><a href="/half-way-up-east-couloir-of/51279/c-152557"><img alt="Half way up East Couloir of..." src="/images/square/51279.jpg"></a></td>
+<td><a href="/sam-mills-is-about-to-climb/51276/c-152557"><img alt="Sam Mills is about to climb..." src="/images/square/51276.jpg"></a></td>
+<td><a href="/clearing-storm-bishop-high-sierra/825120/c-152557"><img alt="Clearing storm, Bishop High Sierra" src="/images/square/825120.jpg"></a></td>
+<td><a href="/sierra-from-buttermilk-hill/681614/c-152557"><img alt="Sierra from Buttermilk Hill" src="/images/square/681614.jpg"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/basin-mountain/images/p-152557">View Gallery - 103 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty:  
+elevation: 13240 
+grade:  
+id: 152557 
+latitude: 37.297 
+location: California, United States, North America 
+longitude: -118.658 
+my_route_quality:  
+name: Basin Mountain 
+number_of_pitches:  
+page_url: http://www.summitpost.org/basin-mountain/152557 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons:  
+time_required:  
+type: Mountain-Rock 
+

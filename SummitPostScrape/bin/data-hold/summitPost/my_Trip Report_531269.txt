@@ -2530,6 +2530,7 @@ date: Aug 10, 2008
 difficulty:  
 elevation:  
 grade:  
+hits: 23718  
 id: 531269 
 latitude: 51.40772 
 location: Alberta/British Columbia, Canada, North America 
@@ -2538,6 +2539,9 @@ my_route_quality:
 name: Cycling and Scrambling from Calgary to Vancouver 
 number_of_pitches:  
 page_url: http://www.summitpost.org/cycling-and-scrambling-from-calgary-to-vancouver/531269 
+parent_code: 215361 
+parent_name: Canadian Rocky Mountains 
+parent_url: /canadian-rocky-mountains/215361 
 rock_difficulty:  
 route_quality:  
 route_type:  

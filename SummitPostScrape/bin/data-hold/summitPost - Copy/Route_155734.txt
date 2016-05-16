@@ -1,0 +1,87 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Approach</h2>
+<br>
+This is one of the more popular rock climb in the Tuolumne Meadows area. First climbed in 1945 by Charles Wilts and Spencer Austin, this clean route on superb granite has earned its place among the classic rock climbs of the Sierra. <br>
+<br>
+From the Cathedral Lakes Trailhead, follow the John Muir Trail for about 1/2 mile until you come to a use trail on the right side of Budd Creek. The use trail is several hundred yards right of the creek, so don't turn off too early or you'll have to cross-country without the benefit of the nice trail (until you run into it eventually). The trail stays on the right side of the creek the whole way, and ends just east of the SE Buttress. Scramble west though the trees up to the skirt of Cathedral Peak.<br>
+<br>
+The starting point is not obvious, nor is there a single "correct" starting point. If you start too far left you will have more climbing to do (not necessarily a bad thing), but if you start too far to the right you will find yourself on on rock considerably tougher than 5.6. <br>
+<br>
+You can also reach the start by taking the John Muir Trail to Cathedral Lakes, then heading east over Budd Creek Pass. This is a good deal longer and harder, even though you have a fine maintained trail for 3 miles.<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=2312" rel="no_follow"><img src="/images/thumb/2312.jpg"></a></td>
+<td><a href="/view_object.php?object_id=17972" rel="no_follow"><img src="/images/thumb/17972.jpg"></a></td>
+</tr></table>
+<a name="chapter_2"></a><h2>Route Description</h2>
+<br>
+From the base, the first pitch goes up the lower granite skirt of Cathedral, along any of a half dozen crack systems. A small tree is often used as the first belay point, but there are others that can be used as well. Continue climbing up ever-steepening slopes, directly towards the summit. Enjoy the views while you are belaying - they are first rate! The third pitch brings you to a chimney (the crux) which can be climbed directly or bypassed a short ways to the left with some face climbing with good chickenheads for holds. If climbing the chimney, it is easier if the leader climb without a pack and then haul it up. It's a bit tight with a pack on.<a href="http://www.summitpost.org/mountains/user_link.pl?user_id=23916"> ASteele</a> adds: <i>The chimney can also be avoided by climbing unprotected 5.6 knobs on the face directly to its right. If you want protection, you can climb a somewhat wide and awkward 5.7 crack (protected with a #3 Camalot or larger, hexes will work too) around the corner to the right. Supertopo lists a "5.7 Bulges" variation with fixed pitons to the right of the crack, but it didn't seem like the obvious thing to do, in my eyes.</i><br>
+<br>
+The entire route can be done in 4-10 pitches, depending on where you start, the route you take, and your skill level. It took us ten pitches the first time we climbed, five the second. <br>
+<br>
+There are a number of "bomber" belay seats, you'll know it when you're in one. They are spaced out nicely for a 50m rope, so if you get to one consider using it to belay from, even if you have more rope left. It'll line you up better for the next pitch.<br>
+<br>
+The last pitch is difficult to protect as it consists of large granite blocks. They have good holds and are class 3-4. There are two ways to reach the summit from the top of this route. An airy step across will land you just under the summit, or alternatively you can climb down to the start of the class 4 crack that goes 15 feet to the summit.<br>
+<br>
+Most parties descend via the Mountaineers Route which goes down the west side a short ways before heading over the north ridge and down the east side. Because there are likely other parties behind you, trying to descend the SE Buttress is dangerous and considered rude. Don't miss the opportunity to rappel directly off the northwest side of the summit block - it's 40 feet or so, and much fun! [<i>Dec, 2001</i> Note: Alas, when the bolts were cut from the summit block last summer (possibly by YOSAR), this is no longer an option. It seems likely that someone will re-establish bolts on the summit in the future - and similarly likely that someone else will cut them down...]<br>
+<br>
+An alternative descent route is the South Face. Go directly to the saddle between <a href="http://www.summitpost.com/mountains/mountain_link.pl/mountain_id/1064">Eichorn Pinnacle</a> and Cathedral Peak's summit. The easiest descent on the South Face is about 30-40 feet east of the saddle. It is mostly class 2-3 ledges that zig-zag down the face, with a few class 4 sections, notable at the top and the exit at the bottom. The whole route is only about a 100 feet. If you don't rope up it is faster than the Mountaineers Route to return to Bud Creek and the trailhead. If you are unsure of your skills over class 4 terrain, rope up or rappel the route (but then it will take much longer than the Mountaineers Route).<br>
+<br>
+<p></p>
+<table class="inline_image_thumbs"><tr>
+<td><a href="/view_object.php?object_id=1669" rel="no_follow"><img src="/images/thumb/1669.jpg"></a></td>
+<td><a href="/view_object.php?object_id=29484" rel="no_follow"><img src="/images/thumb/29484.jpg"></a></td>
+<td><a href="/view_object.php?object_id=57161" rel="no_follow"><img src="/images/thumb/57161.jpg"></a></td>
+<td><a href="/view_object.php?object_id=17973" rel="no_follow"><img src="/images/thumb/17973.jpg"></a></td>
+<td><a href="/view_object.php?object_id=2314" rel="no_follow"><img src="/images/thumb/2314.jpg"></a></td>
+</tr></table>
+<a name="chapter_3"></a><h2>Essential Gear</h2>
+<br>
+A full set of nuts (particularly large ones) and some cams (small to medium are best), and a whole mess of slings. Depending on how many anchor points you build, you may need lots of slings to connect them, as the anchor cracks are plenty but spread apart.<br>
+<a name="chapter_4"></a><h2>Miscellaneous Info</h2>
+<br>
+If you have information about this route that doesn't pertain to any of the other sections, please add it here.<br>
+<a name="chapter_5"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/walking-on-air/431720/c-155734"><img alt="walking on air" src="/images/square/431720.jpg"></a></td>
+<td><a href="/looking-up-the-4th-class/57157/c-155734"><img alt="Looking up the 4th class..." src="/images/square/57157.jpg"></a></td>
+<td><a href="/looking-up-from-the-base/264361/c-155734"><img alt="Looking up from the base." src="/images/square/264361.jpg"></a></td>
+<td><a href="/a-climber-on-the-summit-pitch/57161/c-155734"><img alt="A climber on the summit pitch..." src="/images/square/57161.jpg"></a></td>
+<td><a href="/climbers-waiting-for-their/57156/c-155734"><img alt="Climbers waiting for their..." src="/images/square/57156.jpg"></a></td>
+<td><a href="/climbers-right-of-the-chimney/247979/c-155734"><img alt="climbers right of the chimney" src="/images/square/247979.jpg"></a></td>
+<td><a href="/lower-portion-of-se-buttress/264360/c-155734"><img alt="Lower portion of SE Buttress" src="/images/square/264360.jpg"></a></td>
+</tr>
+<tr>
+<td><a href="/almost-there/431721/c-155734"><img alt="almost there" src="/images/square/431721.jpg"></a></td>
+<td><a href="/looking-towards-echo-peaks/57151/c-155734"><img alt="Looking towards Echo Peaks..." src="/images/square/57151.jpg"></a></td>
+<td><a href="/the-famous-or-infamous/57154/c-155734"><img alt="The famous (or infamous)..." src="/images/square/57154.jpg"></a></td>
+<td><a href="/view-from-the-summit/247729/c-155734"><img alt="View from the summit." src="/images/square/247729.jpg"></a></td>
+<td><a href="/looking-towards-tenaya-peak/57159/c-155734"><img alt="Looking towards Tenaya Peak..." src="/images/square/57159.jpg"></a></td>
+<td><a href="/alex-starting-p3-of-se-buttress/277302/c-155734"><img alt="Alex Starting P3 of SE Buttress" src="/images/square/277302.jpg"></a></td>
+<td><a href="/steven-sauter-pausing-for-a/72973/c-155734"><img alt="Steven Sauter pausing for a..." src="/images/square/72973.jpg"></a></td>
+</tr>
+<tr><td colspan="7" align="center">[ <a href="/se-buttress/images/p-155734">View Gallery - 50 More Images</a> ]</td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty: 5.6 
+elevation:  
+grade:  
+id: 155734 
+latitude: 37.8478 
+location: California, United States, North America 
+longitude: -119.4047 
+my_route_quality:  
+name: SE Buttress 
+number_of_pitches:  
+page_url: http://www.summitpost.org/se-buttress/155734 
+rock_difficulty:  
+route_quality: 1.0 
+route_type: Technical Climb 
+seasons:  
+time_required: Most of a day 
+type: Route 
+

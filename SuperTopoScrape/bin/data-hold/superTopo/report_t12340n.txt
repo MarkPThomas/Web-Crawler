@@ -1,0 +1,387 @@
+content: <div class="articletext">
+<div class="photonormal">
+<table valign="top" border="0" width="626" cellspacing="0" cellpadding="0" class="sdw_box">
+			<tr>
+			  <td><img src="/nav_img/top_left_sdw.gif" width="13" height="13"></td>
+			  <td class="sdw_top"></td>
+			  <td><img src="/nav_img/top_right_sdw.gif" width="13" height="13"></td>
+			</tr>
+			<tr>
+			  <td class="sdw_left"></td>
+			  <td class="sdw_body" width="600"><div>
+<a href="javascript:photoZoom('Oj85PD0hKCohLQ,,')" title="Click to enlarge"><img src="http://www.supertopo.com/photos/23/42/355746_31_L.jpg" width="600" height="450" name="" alt="Norman Clyde Peak at sunset from out camp beneath the Palisade Crest."></a><span class="small"><br>Norman Clyde Peak at sunset from out camp beneath the Palisade Crest.<br><div class="photo-credit">Credit: PellucidWombat</div></span>
+</div></td>
+			  <td class="sdw_right"></td>
+			</tr>
+			<tr>
+			  <td><img src="/nav_img/bottom_left_sdw.gif" width="13" height="13"></td>
+			  <td class="sdw_bottom"></td>
+			  <td><img src="/nav_img/bottom_right_sdw.gif" width="13" height="13"></td>
+			</tr>
+		  </table>
+</div>
+<b><u>June 19 to June 25, 2013</u></b><br>
+While most of my Sierra outings are car-to-car affairs, typically done over a normal-to-long weekend, every now and then it is nice to do a local trip more in the style of how I would do a larger trip farther afield. In the summer of 2013 Steph Abegg and I had been planning on an ambitious extending climbing extravaganza. As she was coming down from Seattle, this style of trip suited her fine since it wasn't as local. We planned to do a number of classic, yet less famous, Sierra climbs, as well as a number of traverses. <br>
+<br>
+Rather than doing lots of hiking in and out, to add more fun to the adventure, we decided to do the entire trip as one long 10 day outing, doing climbs out from base camps that we would move as we went. Near the end of the trip, as our packs would be lighter, we would even do a carryover for part of the trip! Unfortunately bad weather got us to pull the plug sooner than expected, causing is to skip most of our northern objectives, but it was still a great outing, with many classic climbs, and an unusual way of camping and traveling across the Palisade Range.<br>
+<br>
+In planning, we dubbed out outing the 'Palisade Tangent Traverse' because we would basically follow the line of the Palisade Traverse, parallel to the ridge, with climbs that would often take us up to and along the ridge for various sections.<br>
+<br>
+Steph wrote an excellent trip report that is far more brief: <b><a href="http://www.stephabegg.com/home/tripreports/california/palisadetraverse2" target="_blank" rel="nofollow">Steph's TR</a></b><br>
+<br>
+<br>
+<a href="https://lh6.googleusercontent.com/-0eY94QNe2SQ/UdSZw4eCl4I/AAAAAAACrUs/0nKteyZyMz0/s1600/2013-06-23%252520-%25252044a%252520-%252520Steph%252520atop%252520The%252520Orc%252520seen%252520from%252520atop%252520Strider.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-0eY94QNe2SQ/UdSZw4eCl4I/AAAAAAACrUs/0nKteyZyMz0/s800/2013-06-23%252520-%25252044a%252520-%252520Steph%252520atop%252520The%252520Orc%252520seen%252520from%252520atop%252520Strider.jpg"></a> <br>
+<b><i>Steph atop "The Orc" seen from atop "Strider"</i></b><br>
+<br>
+As is my style, I took my time to write one, and I decided to indulge and share the experience in more detail. This first report is just an outline of the climbs, focusing mostly on the interesting days in between, moving camp. Links to individual climbs will come later. <br>
+Climbs we did were as follows:<br>
+<br>
+<img src="/images/SqBullet.gif" width="8" height="8"> Norman Clyde Peak, Firebird Ridge (IV, 5.9)<br>
+<img src="/images/SqBullet.gif" width="8" height="8"> Norman Clyde Peak, Twilight Pillar (III, 5.8+)<br>
+<img src="/images/SqBullet.gif" width="8" height="8"> Palisade Crest, N-S Traverse (IV, 5.8)<br>
+<br>
+Ratings move around a bit in the photos and report, as I am torn between reporting original ratings, or being more accurate in how climbs actually compared (e.g. the crux on Twilight Pillar was harder than Firebird, and the climbs were about the same length). <br>
+<br>
+<div class="horizontalrule"><hr></div>
+<div class="horizontalrule"><hr></div>
+<b><u>Day 1: Norman Clyde Camp Approach (cl. 2)</u></b><br>
+<i><u>June 19</u></i><br>
+<br>
+<img src="/images/SqBullet.gif" width="8" height="8"> Picasa Album: <b><a href="https://picasaweb.google.com/105894936663116565516/20130619NormanClydePeakApproachWithStephAbegg?authuser=0andfeat=directlink" target="_blank" rel="nofollow">2013-06-19 - Norman Clyde Peak Approach with Steph Abegg</a></b><br>
+<br>
+<br>
+<a href="https://lh5.googleusercontent.com/-7isuYNEu8ok/U1QeGUhL1dI/AAAAAAADd7E/HETOzF19Vgk/s2000/2014-06-19%2520-%2520Map%2520Approach.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-7isuYNEu8ok/U1QeGUhL1dI/AAAAAAADd7E/HETOzF19Vgk/s800/2014-06-19%2520-%2520Map%2520Approach.jpg"></a> <br>
+<b><i>A map showing the first two of three main traveling days on our traverse through the Palisades.</i></b><br>
+<br>
+<br>
+<a href="https://lh6.googleusercontent.com/-e2SduqDkFBk/U1QeNVlATZI/AAAAAAADd_s/OkxgGMrlE5k/s2000/2014-06-19%2520-%2520Map%2520Area.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-e2SduqDkFBk/U1QeNVlATZI/AAAAAAADd_s/OkxgGMrlE5k/s800/2014-06-19%2520-%2520Map%2520Area.jpg"></a> <br>
+<b><i>Close up map of the area that Steph and I did most of our climbing in from base camps situated in the Palisades.</i></b><br>
+<br>
+The first day, Nick Holt was nice enough to help us set up our car shuttle, so we left my Subaru at South Lake TH, where we intended to exit. We got our packs ready, went into town to get our permits, and then Nick drove us to the Big Pine TH. He joined us on the hike to our high camp, and we had tentatively planned to climb the cl. 3 NE Face of Middle Palisade, but the heavy packs, late start (logistics took longer than expected), and early morning the next day had me and Steph decide against going beyond the high camp, so we just enjoyed the scenery, and Nick headed out after some nice relaxation.<br>
+ <br>
+<a href="https://lh3.googleusercontent.com/-_SafTUXebcc/UdQ8A7e3Z9I/AAAAAAACZuQ/FPYUtKZFkac/s1600/2013-06-17%252520-%25252001%252520-%252520Food%252520Prep.JPG" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-_SafTUXebcc/UdQ8A7e3Z9I/AAAAAAACZuQ/FPYUtKZFkac/s800/2013-06-17%252520-%25252001%252520-%252520Food%252520Prep.jpg"></a> <br>
+<b><i>Food Prep - 2 people for 10 days, at 2,700 calories per day. I should have planned to starve more!</i></b><br>
+<br>
+As Steph and I don't mind lugging heavy packs, we ended up packing a lot, between the trad gear, snow/ice gear, camera and GPS equipment, and food! I normally find myself eating less on climbing outings than at home, so I these days I usually pack less and plan to lose a little weight. However, as we would be out for so long, I decided I'd best keep up with my calorie deficit. Steph normally eats 3,000 or so calories a day on climbs, so the food we brought was light in this respect. However, for me, in the end, I still carried much of it out. Too bad, since it was by far the largest contributor to bulk and weight, despite trying to be efficient!<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-3fTkNR8WvLc/UdQ8Dtbt1uI/AAAAAAACZug/dhD0QHy1Tmw/s1600/2013-06-19%252520-%25252000a%252520-%252520Steph%252520weighing%252520her%252520pack.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-3fTkNR8WvLc/UdQ8Dtbt1uI/AAAAAAACZug/dhD0QHy1Tmw/s800/2013-06-19%252520-%25252000a%252520-%252520Steph%252520weighing%252520her%252520pack.jpg"></a> <br>
+<b><i>Steph weighing her pack. A little heavy! Mine was 82 lbs, hers averaged about 72lb.</i></b><br>
+<br>
+<a href="https://lh6.googleusercontent.com/-7enc4xU1o_4/UdQ8F8BqO5I/AAAAAAACZuw/sm_uTlLWqj4/s1600/2013-06-19%252520-%25252001%252520-%252520The%252520Trio%252520at%252520the%252520Trailhead.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-7enc4xU1o_4/UdQ8F8BqO5I/AAAAAAACZuw/sm_uTlLWqj4/s800/2013-06-19%252520-%25252001%252520-%252520The%252520Trio%252520at%252520the%252520Trailhead.jpg"></a> <br>
+<b><i>The Trio at the Big Pine trailhead (Steph Abegg, me, Nick Holt)</i></b><br>
+<br>
+<a href="https://lh3.googleusercontent.com/-aT03uNSFIXo/UdQ8HkCQCsI/AAAAAAACZu4/-_glglCVGa8/s1600/2013-06-19%252520-%25252001a%252520-%252520Time%252520to%252520choose%252520-%252520Steph.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-aT03uNSFIXo/UdQ8HkCQCsI/AAAAAAACZu4/-_glglCVGa8/s800/2013-06-19%252520-%25252001a%252520-%252520Time%252520to%252520choose%252520-%252520Steph.jpg"></a> <br>
+<b><i>Time to choose. Last time Steph and I went up the North Fork of Big Pine (2011). Time for the South Fork! (by Steph Abegg)</i></b><br>
+ <br>
+I was worried that we would bake on the switchbacks up the headwall, as we were carrying such large packs, and leaving so late in the day (nearly 11:30 am). However, this familiar section of trail passed quickly, and before I knew it, we were in shadier ground, high up in the North Fork of Big Pine.<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-C6eDgG83nL8/UdQ8JURmkiI/AAAAAAACZvA/P3znTn79ufg/s1600/2013-06-19%252520-%25252001b%252520-%252520Me%252520%252526%252520Nic%252520huffing%252520up%252520the%252520switchbacks%252520-%252520Steph.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-C6eDgG83nL8/UdQ8JURmkiI/AAAAAAACZvA/P3znTn79ufg/s800/2013-06-19%252520-%25252001b%252520-%252520Me%252520%252526%252520Nic%252520huffing%252520up%252520the%252520switchbacks%252520-%252520Steph.jpg"></a> <br>
+<b><i>Me and Nick huffing up the switchbacks (by Steph Abegg)</i></b><br>
+<br>
+Nick was enjoying our slower pace, as he was only carrying a small daypack, but in the end he couldn't resist seeing what an 80 lb pack felt like, so for part of the cross country section below Finger Lake, he toted my pack along, giving me a break. To keep things fair, he tried to also offer to carry Steph's pack, but she sped away so quickly we could never quite meet up to make the switch!<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-OyDvwlCGv-8/UdQ9JppJ5_I/AAAAAAACZvQ/cXOTWtCEU08/s1600/2013-06-19%252520-%25252002%252520-%252520Outlet%252520of%252520Finger%252520Lake.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-OyDvwlCGv-8/UdQ9JppJ5_I/AAAAAAACZvQ/cXOTWtCEU08/s800/2013-06-19%252520-%25252002%252520-%252520Outlet%252520of%252520Finger%252520Lake.jpg"></a> <br>
+<b><i>Outlet of Finger Lake</i></b><br>
+ <br>
+<img src="https://lh5.googleusercontent.com/-08RgVE__TFc/UdQ9WLHsvtI/AAAAAAACcoo/XszdIJx2d4w/s800/2013-06-19%252520-%25252007%252520-%252520Steph%252520and%252520the%252520monster%252520pack.jpg"><br>
+<b><i>Steph and the monster pack. Hopefully with enough eating we can bring the weight and bulk down a bit . . .</i></b><br>
+ <br>
+Despite carrying such big loads, the cl. 2-3 cross country scrambling wasn't that bad . . . I just moved at a moderately slower pace and never really enjoyed using momentum for the boulder hopping. Although we got to camp just barely too late to go for Middle Palisade and still allow for a relaxed evening (about 3:30  pm), the 5 mile, 2,780' gain approach still only took us about 4 hrs, so still not too bad for our warm-up day!<br>
+<br>
+Steph and I lounged around camp, read, enjoyed the views, and turned in early for a pre-dawn start to climb Firebird Ridge on Norman Clyde Peak.<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-aZxJejIAc1I/UdQ9Yg4JtcI/AAAAAAACZwQ/_6z8cj5ee2E/s1600/2013-06-19%252520-%25252008%252520-%252520Steph%252520reading%252520at%252520Norman%252520Clyde%252520Camp.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-aZxJejIAc1I/UdQ9Yg4JtcI/AAAAAAACZwQ/_6z8cj5ee2E/s800/2013-06-19%252520-%25252008%252520-%252520Steph%252520reading%252520at%252520Norman%252520Clyde%252520Camp.jpg"></a> <br>
+<b><i>Steph reading and relaxing at our Norman Clyde Camp. Its getting cold in the shade, but we still have a lot of day left! And an early start the next morning . . .</i></b><br>
+ <br>
+<div class="horizontalrule"><hr></div>
+<div class="horizontalrule"><hr></div>
+<b><u>Day 2: Firebird Ridge (IV, 5.9)</u></b><br>
+<i><u>June 20</u></i><br>
+<br>
+<img src="/images/SqBullet.gif" width="8" height="8"> <a href="http://www.supertopo.com/tripreport/tripreport.php?articleid=12348" target="_blank"><b>Full Trip Report</b></a><br>
+<img src="/images/SqBullet.gif" width="8" height="8"> Picasa Album: <b><a href="https://picasaweb.google.com/105894936663116565516/20130620NormanClydePeakFirebirdRidgeWithStephAbegg?authuser=0andfeat=directlink" target="_blank" rel="nofollow">2013-06-20 - Norman Clyde Peak Firebird Ridge with Steph Abegg</a></b><br>
+<br>
+<a href="https://lh5.googleusercontent.com/-3Cfj3oHNNr4/U1QeQg2agsI/AAAAAAADd-8/XgdxJmAQapQ/s2000/2014-06-20%2520-%2520Map%2520Area.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-3Cfj3oHNNr4/U1QeQg2agsI/AAAAAAADd-8/XgdxJmAQapQ/s800/2014-06-20%2520-%2520Map%2520Area.jpg"></a> <br>
+<b><i>Day 2, we climbed Firebird Ridge on Norman Clyde Peak from a high camp.</i></b><br>
+<br>
+After a tiring approach the day before, Steph and I had recovered well enough to wake up early and climb the first route on our agenda, the classic Firebird Ridge on Norman Clyde Peak (IV, 5.9). There was very little information on the route, which made it more of an adventure, and in the end I think we were pretty much on route. <br>
+<br>
+It is a fun climb, and the rock is quite solid for alpine climbing. Basically just stay on the crest, passing most difficulties slightly to the right. The crux, however, requires an exposed, unprotected, off-balance step left into a great 5.9 fingers corner. The route wasn't too sustained, and was more of a Grade III climb than Grade IV.<br>
+<br>
+<a href="https://lh3.googleusercontent.com/-DARk8HiQJ30/UdRo9wcfIwI/AAAAAAACo00/DYqW4b-Aaf8/s1600/2013-06-20%252520-%25252003%252520-%252520Alpenglow%252520Panorama%252520on%252520Middle%252520Pal%252520%252526%252520Norman%252520Clyde.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-DARk8HiQJ30/UdRo9wcfIwI/AAAAAAACo00/DYqW4b-Aaf8/s800/2013-06-20%252520-%25252003%252520-%252520Alpenglow%252520Panorama%252520on%252520Middle%252520Pal%252520%252526%252520Norman%252520Clyde.jpg"></a> <br>
+<b><i>Alpenglow Panorama on Middle Pal and Norman Clyde</i></b><br>
+ <br>
+<a href="https://lh5.googleusercontent.com/-7rENg1rTmDo/UdRpPtEStZI/AAAAAAACo5Q/ec39T6oBPn0/s1600/2013-06-20%252520-%25252014%252520-%252520Firebird%252520Ridge%252520from%252520ridge.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-7rENg1rTmDo/UdRpPtEStZI/AAAAAAACo5Q/ec39T6oBPn0/s800/2013-06-20%252520-%25252014%252520-%252520Firebird%252520Ridge%252520from%252520ridge.jpg"></a> <br>
+<b><i>Firebird Ridge from the ridge crest.</i></b><br>
+<br>
+<a href="https://lh6.googleusercontent.com/-_9PfyWbsNz4/UibmTuKVWeI/AAAAAAADYok/Xr9J063dZEM/s1600/2013-06-20%252520-%25252013%252520-%252520Twighlight%252520Pillar%252520%252526%252520Firebird%252520Ridge%252520from%252520ridge%252520-%252520annotated.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-_9PfyWbsNz4/UibmTuKVWeI/AAAAAAADYok/Xr9J063dZEM/s800/2013-06-20%252520-%25252013%252520-%252520Twighlight%252520Pillar%252520%252526%252520Firebird%252520Ridge%252520from%252520ridge%252520-%252520annotated.jpg"></a> <br>
+<b><i>Twilight Pillar (left) and Firebird Ridge (right) on Norman Clyde Peak seen from the ridge crest.</i></b><br>
+ <br>
+<div class="horizontalrule"><hr></div>
+<div class="horizontalrule"><hr></div>
+<b><u>Day 3: Twilight Pillar (III, 5.8+)</u></b><br>
+<i><u>June 21</u></i><br>
+<img src="/images/SqBullet.gif" width="8" height="8"> <a href="http://www.supertopo.com/tr/Norman-Clyde-Pk-Twilight-Pillar/t12438n.html" target="_blank"><b>Full Trip Report</b></a><br>
+<img src="/images/SqBullet.gif" width="8" height="8"> Picasa Album: <b><a href="https://picasaweb.google.com/105894936663116565516/20130621NormanClydePeakTwilightPillarWithStephAbegg?authuser=0andfeat=directlink" target="_blank" rel="nofollow">2013-06-21 - Norman Clyde Peak Twilight Pillar with Steph Abegg</a></b><br>
+<br>
+<a href="https://lh3.googleusercontent.com/-UkmX19tdoTQ/U1QeWwrD_AI/AAAAAAADd_E/FK1f5RneKUc/s2000/2014-06-21%2520-%2520Map%2520Area.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-UkmX19tdoTQ/U1QeWwrD_AI/AAAAAAADd_E/FK1f5RneKUc/s800/2014-06-21%2520-%2520Map%2520Area.jpg"></a> <br>
+<b><i>Day 3 we climbed Twilight Pillar on Norman Clyde Peak from a high camp.</i></b><br>
+<br>
+Steph and I got down early enough from Firebird Ridge the day before that we were well rested and up early for round 2 on Norman Clyde Peak's classic Twilight Pillar Route. We had left our rack, rope, crampons and axes at the base on our descent the day before, so the approach was much more casual. <br>
+<br>
+Surprisingly, I think the crux of the route was finding the start, as in the end I decided that the most prominent dihedral was NOT the way to start! I found a better start that steps into it higher up. The crux was tougher than I expected - harder and less secure than anything on Firebird Ridge, so I would call this route either 5.9, or Firebird Ridge should be downgraded to 5.8 or 5.8+. <br>
+<br>
+I liked Firebird slightly more, although this one had more sustained climbing and exposure, but was much shorter and had a lot more loose rock. Still, you've always got to appreciate a line that tops out directly on the summit!<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-dZh0ODtgb_g/UdRm57xoLII/AAAAAAACoa4/vbZ0YQ5AuCU/s1600/2013-06-21%252520-%25252002%252520-%252520Crossing%252520the%252520snowfield%252520to%252520Twilight%252520Pillar.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-dZh0ODtgb_g/UdRm57xoLII/AAAAAAACoa4/vbZ0YQ5AuCU/s800/2013-06-21%252520-%25252002%252520-%252520Crossing%252520the%252520snowfield%252520to%252520Twilight%252520Pillar.jpg"></a> <br>
+<b><i>Crossing the snowfield to Twilight Pillar</i></b><br>
+ <br>
+<a href="https://lh3.googleusercontent.com/-glEufxRtRbE/UdRnQ1FLIpI/AAAAAAACogE/3ssz1p2flhQ/s1600/2013-06-21%252520-%25252015%252520-%252520P2%252520Steph%252520finishing%252520crux.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-glEufxRtRbE/UdRnQ1FLIpI/AAAAAAACogE/3ssz1p2flhQ/s800/2013-06-21%252520-%25252015%252520-%252520P2%252520Steph%252520finishing%252520crux.jpg"></a> <br>
+<b><i>Step finishing the P2 crux. Note her stemming that hanging corner. Interesting climbing here!</i></b><br>
+ <br>
+<a href="https://lh4.googleusercontent.com/-Cl_57r3XCd4/UdRnTE9n8rI/AAAAAAACogk/E8ghAiITSBw/s1600/2013-06-21%252520-%25252016a%252520-%252520P3%252520Improbable%252520Step%252520Right%252520-%252520Steph.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-Cl_57r3XCd4/UdRnTE9n8rI/AAAAAAACogk/E8ghAiITSBw/s800/2013-06-21%252520-%25252016a%252520-%252520P3%252520Improbable%252520Step%252520Right%252520-%252520Steph.jpg"></a> <br>
+<b><i>Doing the improbable step right on P3. (by Steph Abegg)</i></b><br>
+<br>
+<div class="horizontalrule"><hr></div>
+<div class="horizontalrule"><hr></div>
+<b><u>Day 4: Moving Camp from Norman Clyde Peak to the Palisade Crest. (cl. 3, 35 deg snow, 1 rappel)</u></b><br>
+<i><u>June 22</u></i><br>
+<img src="/images/SqBullet.gif" width="8" height="8"> Picasa Album: <b><a href="https://picasaweb.google.com/105894936663116565516/20130622CampMoveToPalisadeCrestWithStephAbegg?authuser=0andfeat=directlink" target="_blank" rel="nofollow">2013-06-22 - Camp move to Palisade Crest with Steph Abegg</a></b><br>
+<br>
+<a href="https://lh5.googleusercontent.com/-5zSqjt4caDA/U1QeZhEeqDI/AAAAAAADd_M/5tq4qH2BNg0/s2000/2014-06-22%2520-%2520Map%2520Area.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-5zSqjt4caDA/U1QeZhEeqDI/AAAAAAADd_M/5tq4qH2BNg0/s800/2014-06-22%2520-%2520Map%2520Area.jpg"></a><br>
+<b><i>Day 4, we moved our base camp into position for traversing the Palisade Crest.</i></b><br>
+<br>
+Our 4th day, we moved camp from the lakes beneath Norman Clyde Peak over to a promontory diving the Norman Clyde Glacier beneath the Palisade Crest, to be poised for our traverse of the crest the following day. Normally one would approach Scimitar Pass via a tedious but straightforward crosscountry bushwack passing by Elinore Lake, but when I looked at the stats for how much mileage and elevation we would have to do to drop down and head back up, I looked into a higher traverse option! Also, traveling this way, alongside the crest and staying above treeline, seemed like more fun.<br>
+<br>
+I only had a few pixelated images taken to look at, but in general it looked possible to drop down the west side of Firebird Ridge. Based on winter photographs, there appeared to be a ledge system within a single rappel distance from the crest, that merged with the glacier. This proved to be the case.<br>
+<br>
+The day wasn't too long, but was plenty tiring! Our packs were still quite heavy, and we had 1,500 ft of gain with some class 3 scrambling, a tricky pack lower and rappel, loose rock ledge, snow downclimbing and long snow traverse and climb to drop down and reascend to camp. Still, it was faster and easier than descending the trail and coming back up by Elinore Lake!<br>
+  <br>
+<a href="https://lh4.googleusercontent.com/-eJgFej_PYSg/UdQ-5zbQpHI/AAAAAAADcJo/Rhx4fMAUttk/s1600/2013-06-22%252520-%25252000a%252520-%252520Cl%2525203%252520with%252520the%252520packs%252520-%252520Steph.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-eJgFej_PYSg/UdQ-5zbQpHI/AAAAAAADcJo/Rhx4fMAUttk/s800/2013-06-22%252520-%25252000a%252520-%252520Cl%2525203%252520with%252520the%252520packs%252520-%252520Steph.jpg"></a> <br>
+<b><i>Scrambling up class 3 with the heavy packs. Good thing we left a lot of the weight (food, climbing gear) at the top already! (by Steph Abegg)</i></b><br>
+ <br>
+<a href="https://lh4.googleusercontent.com/-CA1bl----ls/UdRczj7RpgI/AAAAAAADcKQ/sH9Cnvxe4jg/s1600/2013-06-22%252520-%25252003%252520-%252520Kid%252520Mountain%252520to%252520the%252520Thumb%252520Panorama.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-CA1bl----ls/UdRczj7RpgI/AAAAAAADcKQ/sH9Cnvxe4jg/s800/2013-06-22%252520-%25252003%252520-%252520Kid%252520Mountain%252520to%252520the%252520Thumb%252520Panorama.jpg"></a><br>
+<b><i>Kid Mountain to the Thumb panorama, seen from where I was lowering our packs.</i></b><br>
+<br>
+From scouting the ridgeline the day before, we knew that a downclimb was likely not in the cl. 3-4 range, and not too feasible with our packs. We did locate a likely rappel point, so we got set up here. <br>
+<br>
+One unexpected detail was that our packs were heavy enough that it seemed like rappeling with them on would be a bad idea, as they would flip us over. So we had to lower them.<br>
+<br>
+Another unexpected issue was that the only rappel anchor that we could find that would take webbing required an exposed cl. 4 downclimb, and the best point to lower the packs, was above and beside this station. This point could be used with gear that I would clean and take with me on the rappel.<br>
+<br>
+Finally, we unthinkingly packed one of our double ropes in a pack, and were too lazy to get it out. This second rope would have greatly simplified lowering 2 packs from a different location than the rappel station. Instead, we worked out an interesting arrangement that worked out in the end.<br>
+<br>
+<div class="youtube"><iframe width="560" height="340" src="http://www.youtube.com/embed/qvtq6-2wAUo" frameborder="0"></iframe></div>
+<br>
+<br>
+<a href="https://lh3.googleusercontent.com/-p92PdbpDZeo/UdQ-8fhdYXI/AAAAAAADcJ4/ZHSStbi61vI/s1600/2013-06-22%252520-%25252002a%252520-%252520The%252520rappel%252520%252526%252520pack%252520lower%252520-%252520Steph.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-p92PdbpDZeo/UdQ-8fhdYXI/AAAAAAADcJ4/ZHSStbi61vI/s800/2013-06-22%252520-%25252002a%252520-%252520The%252520rappel%252520%252526%252520pack%252520lower%252520-%252520Steph.jpg"></a> <br>
+<b><i>The rappel and pack lower. This would have been easier with two separate ropes but we had packed one away. (by Steph Abegg)</i></b><br>
+<br>
+<a href="https://lh6.googleusercontent.com/-rKMmg8LYc-I/UdRA4JZBsII/AAAAAAADcKA/Kdfe3eIPdQI/s1600/2013-06-22%252520-%25252002b%252520-%252520The%252520rappel%252520%252526%252520pack%252520lower%252520-%252520Steph.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-rKMmg8LYc-I/UdRA4JZBsII/AAAAAAADcKA/Kdfe3eIPdQI/s800/2013-06-22%252520-%25252002b%252520-%252520The%252520rappel%252520%252526%252520pack%252520lower%252520-%252520Steph.jpg"></a> <br>
+<b><i>Steph at the rappel, waiting to assist as I lowered the packs, using my leg as a rope brake. (by Steph Abegg)</i></b><br>
+<br>
+<a href="https://lh6.googleusercontent.com/-p_uv5WaP0VE/UdRA5O5BxRI/AAAAAAADcKI/UAa-fa3izyA/s1600/2013-06-22%252520-%25252002c%252520-%252520The%252520rappel%252520%252526%252520pack%252520lower%252520-%252520Steph.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-p_uv5WaP0VE/UdRA5O5BxRI/AAAAAAADcKI/UAa-fa3izyA/s800/2013-06-22%252520-%25252002c%252520-%252520The%252520rappel%252520%252526%252520pack%252520lower%252520-%252520Steph.jpg"></a> <br>
+<b><i>Lowering the first heavy pack. (by Steph Abegg)</i></b><br>
+<br>
+<a href="https://lh4.googleusercontent.com/-Z9VOTbylK0U/UdRc1Kzf2uI/AAAAAAADcKY/ofA7-7xeUUk/s1600/2013-06-22%252520-%25252002d%252520-%252520The%252520rappel%252520%252526%252520pack%252520lower%252520-%252520Steph.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-Z9VOTbylK0U/UdRc1Kzf2uI/AAAAAAADcKY/ofA7-7xeUUk/s800/2013-06-22%252520-%25252002d%252520-%252520The%252520rappel%252520%252526%252520pack%252520lower%252520-%252520Steph.jpg"></a> <br>
+<b><i>Lowering the second heavy pack. (by Steph Abegg)</i></b><br>
+<br>
+One rappel got us far enough down to do some cl. 3 downclimbed for the remaining distance to the ledge system. The ledge system was terribly loose, but reasonable, and it merged nicely with the Norman Clyde Glacier.<br>
+<br>
+<a href="https://lh3.googleusercontent.com/-QVLbHW4iQPg/Uibm-C-YY8I/AAAAAAACoTk/nLvmUmv5X6A/s1600/2013-06-22%252520-%25252005%252520-%252520Norman%252520Clyde%252520glacier%252520%252526%252520route%252520to%252520camp%252520-%252520annotated.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-QVLbHW4iQPg/Uibm-C-YY8I/AAAAAAACoTk/nLvmUmv5X6A/s800/2013-06-22%252520-%25252005%252520-%252520Norman%252520Clyde%252520glacier%252520%252526%252520route%252520to%252520camp%252520-%252520annotated.jpg"></a> <br>
+<b><i>Norman Clyde glacier and route to camp. Steph on the Clyde Glacier access ledge. Lots of loose junk, but manageable enough with the heavy packs.</i></b><br>
+<br>
+<a href="https://lh3.googleusercontent.com/-SujGDvrO0Lo/UdRc7LX-_MI/AAAAAAADcLE/_sEavGDWt1g/s1600/2013-06-22%252520-%25252007%252520-%252520Steph%252520downclimbing.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-SujGDvrO0Lo/UdRc7LX-_MI/AAAAAAADcLE/_sEavGDWt1g/s800/2013-06-22%252520-%25252007%252520-%252520Steph%252520downclimbing.jpg"></a> <br>
+<b><i>Steph downclimbing the Norman Clyde Glacier before the big traverse.</i></b><br>
+ <br>
+<a href="https://lh4.googleusercontent.com/-oAQZYuFRV3A/UdRc8rQBa_I/AAAAAAADcLU/ZreqXff5SCQ/s1600/2013-06-22%252520-%25252009%252520-%252520Random%252520solo%252520skier.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-oAQZYuFRV3A/UdRc8rQBa_I/AAAAAAADcLU/ZreqXff5SCQ/s800/2013-06-22%252520-%25252009%252520-%252520Random%252520solo%252520skier.jpg"></a> <br>
+<b><i>Random solo skier climbing up the North Couloir of Mt Williams.</i></b><br>
+ <br>
+The skier who came directly up the lower drainage was quite a surprise to see. Although we were as unusual of a site in the drainage as he was, neither party exchanged greetings.<br>
+<br>
+<br>
+<a href="https://lh5.googleusercontent.com/-y_E0BU0YvJw/UdRdAS47F6I/AAAAAAADcL0/mN9uhSSX3Yg/s1600/2013-06-22%252520-%25252012a%252520-%252520Random%252520solo%252520skier.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-y_E0BU0YvJw/UdRdAS47F6I/AAAAAAADcL0/mN9uhSSX3Yg/s800/2013-06-22%252520-%25252012a%252520-%252520Random%252520solo%252520skier.jpg"></a> <br>
+<b><i>Random solo skier climbing up the North Couloir of Mt Williams.</i></b><br>
+ <br>
+Later on, from our Palisade Crest Camp, I was able to watch this guy ski down the couloir, jumping the schrund, and continuing down the glacier. Considering how badly the snow slope was suncupped, this was a really impressive sight, as he made it look smooth and natural.<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-K_Qe8-R9wrE/UdRdBRAG3sI/AAAAAAADcL8/88qczM05SN4/s1600/2013-06-22%252520-%25252013%252520-%252520Steph%252520on%252520rock%252520break%252520as%252520we%252520near%252520camp.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-K_Qe8-R9wrE/UdRdBRAG3sI/AAAAAAADcL8/88qczM05SN4/s800/2013-06-22%252520-%25252013%252520-%252520Steph%252520on%252520rock%252520break%252520as%252520we%252520near%252520camp.jpg"></a> <br>
+<b><i>Steph on a rock break as we near camp. The Palisade Crest rises above.</i></b><br>
+ <br>
+<a href="https://lh6.googleusercontent.com/-5gAPM3WtSuo/UdRg1nxvPmI/AAAAAAADcMU/vDsQGnv6FtU/s1600/2013-06-22%252520-%25252015a%252520-%252520Steph%252520following%252520up%252520towards%252520camp.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-5gAPM3WtSuo/UdRg1nxvPmI/AAAAAAADcMU/vDsQGnv6FtU/s800/2013-06-22%252520-%25252015a%252520-%252520Steph%252520following%252520up%252520towards%252520camp.jpg"></a> <br>
+<b><i>Steph following up towards camp.</i></b><br>
+ <br>
+<a href="https://lh5.googleusercontent.com/-wDTs-j0ovX8/UdRg3eyfIEI/AAAAAAADcMc/T88mxreXvKo/s1600/2013-06-22%252520-%25252016%252520-%252520Looking%252520up%252520entry%252520to%252520the%252520S%252520Ridge.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-wDTs-j0ovX8/UdRg3eyfIEI/AAAAAAADcMc/T88mxreXvKo/s800/2013-06-22%252520-%25252016%252520-%252520Looking%252520up%252520entry%252520to%252520the%252520S%252520Ridge.jpg"></a> <br>
+<b><i>Looking up the entry to the SE Pinnacles Route. Dirk Summers and I climbed this in 2010 and were chased off the Crest by lightning. Steph and I planned to rappel the route and downclimb this, so we brought moderately stiff boots, crampons, and axes for the descent. The gear came in handy! We had to be very careful about the shallow, icy snow near the rock slab as we descended around it in the dark.</i></b><br>
+<br>
+<a href="https://lh4.googleusercontent.com/-4YFl4FZh4dY/UdRg5arWYsI/AAAAAAADcMs/Ck5VR5oOj9A/s1600/2013-06-22%252520-%25252018%252520-%252520Nieve%252520Penitentes.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-4YFl4FZh4dY/UdRg5arWYsI/AAAAAAADcMs/Ck5VR5oOj9A/s800/2013-06-22%252520-%25252018%252520-%252520Nieve%252520Penitentes.jpg"></a> <br>
+<b><i>Nieve Penitentes, which are a product of how the sun melts the snow at extremely high altitudes. For some reason the Norman Clyde Glacier seems to develop these and sun cups much more than the other Palisade glaciers.</i></b><br>
+<br>
+<a href="https://lh5.googleusercontent.com/-0X2_UWZBLwQ/UdRg88QlCTI/AAAAAAADcNM/Prk4U3KBoR4/s1600/2013-06-22%252520-%25252021%252520-%252520Steph%252520Action%252520Pose.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-0X2_UWZBLwQ/UdRg88QlCTI/AAAAAAADcNM/Prk4U3KBoR4/s800/2013-06-22%252520-%25252021%252520-%252520Steph%252520Action%252520Pose.jpg"></a> <br>
+<b><i>Steph's backpacker action pose, complete with ice ax karate chop.</i></b><br>
+<br>
+<a href="https://lh6.googleusercontent.com/-gftXdBqpNb8/UibnBqn9-vI/AAAAAAACoT8/jfvKX2-cqQc/s1600/2013-06-22%252520-%25252022%252520-%252520Looking%252520back%252520on%252520the%252520traverse%252520-%252520annotated.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-gftXdBqpNb8/UibnBqn9-vI/AAAAAAACoT8/jfvKX2-cqQc/s800/2013-06-22%252520-%25252022%252520-%252520Looking%252520back%252520on%252520the%252520traverse%252520-%252520annotated.jpg"></a> <br>
+<b><i>Looking back on the traverse from the rappel. We ascended about 1,500' from camp on the backside first. This still was only about a half day outing, but a tiring one!</i></b><br>
+ <br>
+Our new campsite did not disappoint. We had fantastic panoramic views, and readily accessible snow for water. This site has got to be one of my favorite campsites in the Sierra! <br>
+<br>
+<i>Note: We were silly and had brought a bear canister with us as per the requirements for camping in the High Sierra (especially for later as we planned to camp in Dusy Basin). At this campsite, we put the transparent container to work by filling it with snow and melting it in the sunshine (we did the same with other bottles as well). Still, with the snow melting all day, and more melting the rest of the next day, we only got a few liters of water from this, and still had to use the stove to melt most of our water.</i><br>
+<br>
+<a href="https://lh4.googleusercontent.com/-A200_ugdaYM/UdRg_qex9rI/AAAAAAADcNk/Ut1KcHIoqgE/s1600/2013-06-22%252520-%25252023%252520-%252520Firebird%252520Ridge%252520%252526%252520Notch.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-A200_ugdaYM/UdRg_qex9rI/AAAAAAADcNk/Ut1KcHIoqgE/s800/2013-06-22%252520-%25252023%252520-%252520Firebird%252520Ridge%252520%252526%252520Notch.jpg"></a> <br>
+<b><i>Firebird Ridge and the notch we rappelled from (on the left). The Thumb is rising behind.</i></b><br>
+ <br>
+<a href="https://lh4.googleusercontent.com/-YPALnUd--3o/UdRhAQnaryI/AAAAAAADcNs/2oJbaA9_V3M/s1600/2013-06-22%252520-%25252024%252520-%252520Tempe-Gayley%252520Traverse.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-YPALnUd--3o/UdRhAQnaryI/AAAAAAADcNs/2oJbaA9_V3M/s800/2013-06-22%252520-%25252024%252520-%252520Tempe-Gayley%252520Traverse.jpg"></a> <br>
+<b><i>Temple-Gayley traverse seen from our Palisade Crest camp.</i></b><br>
+ <br>
+<a href="https://lh3.googleusercontent.com/-mWtHJWFKXa8/UdRhDsHosZI/AAAAAAADcOE/lIuzKSPWMlY/s1600/2013-06-22%252520-%25252026%252520-%252520Steph%252520the%252520photographer%252520on%252520the%252520prowl.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-mWtHJWFKXa8/UdRhDsHosZI/AAAAAAADcOE/lIuzKSPWMlY/s800/2013-06-22%252520-%25252026%252520-%252520Steph%252520the%252520photographer%252520on%252520the%252520prowl.jpg"></a> <br>
+<b><i>Steph the photographer on the prowl.</i></b><br>
+ <br>
+<a href="https://lh5.googleusercontent.com/-dynu2i1JE-4/UdRhGsFGJkI/AAAAAAADcRk/oIxddLVpYWs/s1600/2013-06-22%252520-%25252028a%252520-%252520Nieve%252520Penitentes.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-dynu2i1JE-4/UdRhGsFGJkI/AAAAAAADcRk/oIxddLVpYWs/s800/2013-06-22%252520-%25252028a%252520-%252520Nieve%252520Penitentes.jpg"></a> <br>
+<b><i>Nieve Penitentes, which are a product of how the sun melts the snow at extremely high altitudes. For some reason the Norman Clyde Glacier seems to develop these and sun cups much more than the other Palisade glaciers.</i></b><br>
+<br>
+<a href="https://lh6.googleusercontent.com/-n83q6UqhjY8/UdRhHxQKrxI/AAAAAAADcR0/fNom51_6sv8/s1600/2013-06-22%252520-%25252029a%252520-%252520Nieve%252520Penitentes.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-n83q6UqhjY8/UdRhHxQKrxI/AAAAAAADcR0/fNom51_6sv8/s800/2013-06-22%252520-%25252029a%252520-%252520Nieve%252520Penitentes.jpg"></a> <br>
+<b><i>Nieve Penitentes, which are a product of how the sun melts the snow at extremely high altitudes. For some reason the Norman Clyde Glacier seems to develop these and sun cups much more than the other Palisade glaciers.</i></b><br>
+ <br>
+<a href="https://lh6.googleusercontent.com/-iuDN8Wz0348/UdRhLX104_I/AAAAAAADcPc/ZWPo7e0U2o8/s1600/2013-06-22%252520-%25252031a%252520-%252520Steph%252520doing%252520the%252520barefoot%252520snow%252520dance.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-iuDN8Wz0348/UdRhLX104_I/AAAAAAADcPc/ZWPo7e0U2o8/s800/2013-06-22%252520-%25252031a%252520-%252520Steph%252520doing%252520the%252520barefoot%252520snow%252520dance.jpg"></a> <br>
+<b><i>Steph doing the barefoot snow dance. She wanted close up photos of the snow as the lighting improved, but she was too rushed to put on her shoes!</i></b><br>
+ <br>
+<div class="youtube"><iframe width="560" height="340" src="http://www.youtube.com/embed/oCHDX8oysJE" frameborder="0"></iframe></div>
+<br>
+<b><i>Steph doing the barefoot snow dance. She wanted close up photos of the snow as the lighting improved, but she was too rushed to put on her shoes!</i></b><br>
+<br>
+The day was not without some drama, though. At one point while getting lunch ready on a large sunny boulder, I dropped the ziplock filled with the entire trip's supply of coffee, hot chocolate, and Cytomax. This slipped right into a moat that went deep down beneath the boulder. However, with time and energy to spare, I was not deterred.<br>
+<br>
+<div class="youtube"><iframe width="560" height="340" src="http://www.youtube.com/embed/H-OGnru8j4k" frameborder="0"></iframe></div>
+<br>
+<b><i>Trying to get my hot chocolate (by Steph Abegg)</i></b><br>
+ <br>
+<a href="https://lh6.googleusercontent.com/-2INKutil1n0/UdRmm5GOHJI/AAAAAAADcP0/UXy8qiVRuqQ/s1600/2013-06-22%252520-%25252035%252520-%252520Palisade%252520Crest%252520Camp%252520Panorama.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-2INKutil1n0/UdRmm5GOHJI/AAAAAAADcP0/UXy8qiVRuqQ/s800/2013-06-22%252520-%25252035%252520-%252520Palisade%252520Crest%252520Camp%252520Panorama.jpg"></a> <br>
+<b><i>Palisade Crest Camp panorama, with Steph boiling water for dinner.</i></b><br>
+<br>
+<a href="https://lh4.googleusercontent.com/-q7zJXmOedTQ/UdRmry6sHQI/AAAAAAADcQk/demszXDTdEE/s1600/2013-06-22%252520-%25252042%252520-%252520Firebird%252520Ridge%252520at%252520sunset.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-q7zJXmOedTQ/UdRmry6sHQI/AAAAAAADcQk/demszXDTdEE/s800/2013-06-22%252520-%25252042%252520-%252520Firebird%252520Ridge%252520at%252520sunset.jpg"></a> <br>
+<b><i>Firebird Ridge on Norman Clyde Peak at sunset.</i></b><br>
+<br>
+<a href="https://lh4.googleusercontent.com/-asOIHltqJHU/UdRmtFcfhII/AAAAAAADcQ0/39mh2NZ_k9g/s1600/2013-06-22%252520-%25252040a%252520-%252520Thumb%252520positive%252520negative%252520space.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-asOIHltqJHU/UdRmtFcfhII/AAAAAAADcQ0/39mh2NZ_k9g/s800/2013-06-22%252520-%25252040a%252520-%252520Thumb%252520positive%252520negative%252520space.jpg"></a> <br>
+<b><i>Thumb positive negative space at sunset.</i></b><br>
+ <br>
+<div class="horizontalrule"><hr></div>
+<div class="horizontalrule"><hr></div>
+<b><u>Day 5: Palisade Crest Traverse (N-S) (IV, 5.8)</u></b><br>
+<i><u>June 23</u></i><br>
+<img src="/images/SqBullet.gif" width="8" height="8"> <b><a href="http://www.supertopo.com/tr/Palisade-Crest-N-S-Traverse-IV-5-8/t12463n.html" target="_blank">Full Trip Report</a></b><br>
+<img src="/images/SqBullet.gif" width="8" height="8"> Picasa Album: <b><a href="https://picasaweb.google.com/105894936663116565516/20130623PalisadeCrestWithStephAbegg?authuser=0andfeat=directlink" target="_blank" rel="nofollow">2013-06-23 - Palisade Crest with Steph Abegg</a></b><br>
+<br>
+<a href="https://lh3.googleusercontent.com/-__HrsNsqAqw/U1QecaEtxcI/AAAAAAADd_U/xcLedkitWXU/s2000/2014-06-23%2520-%2520Map%2520Area.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-__HrsNsqAqw/U1QecaEtxcI/AAAAAAADd_U/xcLedkitWXU/s800/2014-06-23%2520-%2520Map%2520Area.jpg"></a> <br>
+<b><i>Day 5, we spent a long day traversing the Palisade Crest.</i></b><br>
+<br>
+This is one of the most interesting routes I have ever done. <br>
+<br>
+Steph Abegg and I traversed the Palisade Crest North to South while managing to avoid doing any rappels, apart from the 5 to descend the SE Ridge in the dark to get off the Crest. It was a 20 hour day, with sustained and complex routefinding, and while seemingly improbable, usually a passage could be found at cl. 4 to 5.6, with a couple of 5.7 to 5.8 cruxes, the most interesting of which was what we dubbed 'The Ivory Way' -  a white dike ledge that passed through very exposed terrain. <br>
+<br>
+For most of the day we were blasted by frigid wind, from the west, which was from an incoming snowstorm and added to the alpine flavor of the route. For the most part the rock on the route was fantastic.<br>
+ <br>
+<a href="https://lh4.googleusercontent.com/-t6SsdI1T2T8/UdSXlruhA1I/AAAAAAACrPU/GQ-CSFC6C_4/s1600/2013-06-23%252520-%25252006%252520-%252520Steph%252520atop%252520Palisade%252520Crest%252520Peak.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-t6SsdI1T2T8/UdSXlruhA1I/AAAAAAACrPU/GQ-CSFC6C_4/s800/2013-06-23%252520-%25252006%252520-%252520Steph%252520atop%252520Palisade%252520Crest%252520Peak.jpg"></a> <br>
+<b><i>Steph atop Palisade Crest Peak, with Gandalf Peak beyond.</i></b><br>
+<br>
+<a href="https://lh6.googleusercontent.com/-8ftZ_6rktmo/UdSaUcsgBLI/AAAAAAACrYQ/BH425CUlJ48/s1600/2013-06-23%252520-%25252065b%252520-%252520Narrow%252520Palisade%252520Crest%252520-%252520Steph.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-8ftZ_6rktmo/UdSaUcsgBLI/AAAAAAACrYQ/BH425CUlJ48/s800/2013-06-23%252520-%25252065b%252520-%252520Narrow%252520Palisade%252520Crest%252520-%252520Steph.jpg"></a> <br>
+<b><i>Standing atop spire (4.5?) on the narrow Palisade Crest. (by Steph Abegg)</i></b><br>
+ <br>
+<div class="horizontalrule"><hr></div>
+<div class="horizontalrule"><hr></div>
+<b><u>Day 6-7: Stormy Hike Out (cl. 3)</u></b><br>
+<i><u>June 24-25</u></i><br>
+<img src="/images/SqBullet.gif" width="8" height="8"> Picasa Album: <b><a href="https://picasaweb.google.com/105894936663116565516/20130624to25BadWeatherAndHikeOutToSouthLakeWithStephAbegg?authuser=0andfeat=directlink" target="_blank" rel="nofollow">2013-06-24to25 - Bad weather and hike out to South Lake with Steph Abegg</a></b><br>
+<br>
+<a href="https://lh6.googleusercontent.com/-cdEEdssOJBw/U1QehxnGyPI/AAAAAAADd_c/NK7WAmXB3rQ/s2000/2014-06-25%2520-%2520Map%2520Area.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-cdEEdssOJBw/U1QehxnGyPI/AAAAAAADd_c/NK7WAmXB3rQ/s800/2014-06-25%2520-%2520Map%2520Area.jpg"></a> <br>
+<b><i>Day 7 - After a solid day of storms, we decided to cut our trip short and just get to our car shuttle by skirting the rest of the Palisades on the west side.</i></b><br>
+<br>
+<a href="https://lh6.googleusercontent.com/-GBiBwhv94Xw/U1QekBKNbVI/AAAAAAADd_k/KfC-8h5EVVg/s2000/2014-06-25%2520-%2520Map%2520Deproach.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-GBiBwhv94Xw/U1QekBKNbVI/AAAAAAADd_k/KfC-8h5EVVg/s800/2014-06-25%2520-%2520Map%2520Deproach.jpg"></a> <br>
+<b><i>Day 7 - After a solid day of storms, we decided to cut our trip short and just get to our car shuttle by skirting the rest of the Palisades on the west side.</i></b><br>
+<br>
+<a href="https://lh3.googleusercontent.com/-h35wueeDmeU/UsY7BB4MxVI/AAAAAAADYo0/71EpgBNIFSU/s1600/2013-06-23%252520-%25252007%252520-%252520Glacier%252520Gulch%252520%252526%252520Potluck%252520Pass%252520-%252520Annotated-2.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-h35wueeDmeU/UsY7BB4MxVI/AAAAAAADYo0/71EpgBNIFSU/s800/2013-06-23%252520-%25252007%252520-%252520Glacier%252520Gulch%252520%252526%252520Potluck%252520Pass%252520-%252520Annotated-2.jpg"></a> <br>
+<b><i>2013-06-23 - Glacier Gulch and Potluck Pass seen from the Palisade Crest.</i></b><br>
+ <br>
+After getting down after midnight from the Palisade Crest, a snow and rain storm brewed up that trapped me and Steph in our tent for the rest of the following day. As this was nowhere in the forecast, we were concerned about how the weather had changed, so on the following day, as it appeared to have cleared enough to navigate Dusy Basin, we skipped the remaining climbs and hiked back out to the car at South Lake via Scimitar Pass, Potluck Pass, Thunderbolt Pass, and Bishop Pass. It was more eventful than expected, but also became more pleasant and beautiful as the day wore on. While we couldn't climb, the cloud show on the west side sure was impressive!<br>
+ <br>
+<a href="https://lh3.googleusercontent.com/-hDY_iSrXWDE/UdRQyyeTkYI/AAAAAAACanI/WqqL3PafJSQ/s1600/2013-06-25%252520-%25252002%252520-%252520Stormy%252520moon%252520set.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-hDY_iSrXWDE/UdRQyyeTkYI/AAAAAAACanI/WqqL3PafJSQ/s800/2013-06-25%252520-%25252002%252520-%252520Stormy%252520moon%252520set.jpg"></a> <br>
+<b><i>Stormy moon set over the Palisade Crest. After a solid day of snow and rain, I looked out of the tent at about 1am to catch this view. It looks like we'll be able to get moving today!</i></b><br>
+ <br>
+<a href="https://lh3.googleusercontent.com/--9UWmcHIGFo/UdRUVHku9ZI/AAAAAAAC1Zg/PqA2ddj5HgM/s1600/2013-06-25%252520-%25252004%252520-%252520Sunrise%252520storm%252520clearing%252520panorama.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/--9UWmcHIGFo/UdRUVHku9ZI/AAAAAAAC1Zg/PqA2ddj5HgM/s800/2013-06-25%252520-%25252004%252520-%252520Sunrise%252520storm%252520clearing%252520panorama.jpg"></a> <br>
+<b><i>Surreal sunrise from camp over the Palisade Crest as the storm began to clear.</i></b><br>
+<br>
+<a href="https://lh5.googleusercontent.com/-GXM_t-yLI-8/UdRUW9l5cUI/AAAAAAACanw/Jr13aQCRJPA/s1600/2013-06-25%252520-%25252006%252520-%252520Alpenglow%252520on%252520the%252520Palisade%252520Crest%252520as%252520we%252520climbed%252520Scimitar%252520Pass.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-GXM_t-yLI-8/UdRUW9l5cUI/AAAAAAACanw/Jr13aQCRJPA/s800/2013-06-25%252520-%25252006%252520-%252520Alpenglow%252520on%252520the%252520Palisade%252520Crest%252520as%252520we%252520climbed%252520Scimitar%252520Pass.jpg"></a> <br>
+<b><i>Alpenglow on the Palisade Crest as we climbed Scimitar Pass</i></b><br>
+<br>
+<a href="https://lh6.googleusercontent.com/-Ve8s05l9ss8/UdRUZv5zfrI/AAAAAAACaoI/zbj2z0byX1o/s1600/2013-06-25%252520-%25252007%252520-%252520Alpgenlow%252520over%252520the%252520Palisade%252520Crest%252520Glacier.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-Ve8s05l9ss8/UdRUZv5zfrI/AAAAAAACaoI/zbj2z0byX1o/s800/2013-06-25%252520-%25252007%252520-%252520Alpgenlow%252520over%252520the%252520Palisade%252520Crest%252520Glacier.jpg"></a> <br>
+<b><i>Alpenglow over the Palisade Crest Glacier seen as we climbed over Scimitar Pass.</i></b><br>
+ <br>
+Crossing over Scimitar Pass was a very interesting experience. The temperature was substantially colder, the terrain much cloudier as much of the weather still had yet to cleat the western side of the crest. The biggest surprise, though was that all of the boulders were completely covered in verglass and rime. You could not step on a boulder and not slide!<br>
+<br>
+As our packs were still heavy, and my knee was not in great condition for pounding and twisting, I found myself descending most of the way from the pass into the upper bowl sitting on my butt. The boulders were so icy that this was not too hard, as I just slid down like a slip'n'slide. I just had to be careful about gaining speed or hitting my tailbone.<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-9-ndwq_CGgw/UdRUbSey6aI/AAAAAAADEqM/M2nVUP1MZ18/s1600/2013-06-25%252520-%25252009%252520-%252520Rime%252520on%252520talus.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-9-ndwq_CGgw/UdRUbSey6aI/AAAAAAADEqM/M2nVUP1MZ18/s800/2013-06-25%252520-%25252009%252520-%252520Rime%252520on%252520talus.jpg"></a> <br>
+<b><i>Wind, moist clouds, and cold air trapped on the windward side of the crest left the talus beyond the pass covered with rime and verglass. It was a horrible thing to descend with heavy packs while trying to protect our knees and ankles!</i></b><br>
+ <br>
+As we lost enough altitude to reach terrain where the temperature had stayed higher, the ice mercifully abated, and we could walk again. We had to take care in the low visibility to choose the correct path on a cl. 3 downclimb to exit the upper bowl and enter the main Glacier Creek drainage, but it all fell together smoothly.<br>
+<br>
+<a href="https://lh5.googleusercontent.com/-TrbyM2GnDUE/UdRUhIt831I/AAAAAAACapI/49vsV8NcfJA/s1600/2013-06-25%252520-%25252009b%252520-%252520Descending%252520into%252520Glacier%252520Creek%252520-%252520Steph.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-TrbyM2GnDUE/UdRUhIt831I/AAAAAAACapI/49vsV8NcfJA/s800/2013-06-25%252520-%25252009b%252520-%252520Descending%252520into%252520Glacier%252520Creek%252520-%252520Steph.jpg"></a> <br>
+<b><i>Well this looks strange . . . descending into Glacier Creek, capped by clouds. We're aiming for Potluck Pass, on the right. Fortunately the clouds stayed clear enough that we could navigate all right. (by Steph Abegg)</i></b><br>
+<br>
+Potluck Pass has some class 3 to navigate, and one must make a large switchback to gain this improbable-looking pass in such easy terrain. By this point the clouds had lifted enough that we could piece this together as we went. While the weather was not great, the off and on rain was never too strong to really be a problem.<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-yXswOMi4UtU/UdRUhw2Mb1I/AAAAAAACapQ/9n8X3OIVJ-E/s1600/2013-06-25%252520-%25252013%252520-%252520Steph%252520following%252520through%252520Potluck%252520Pass.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-yXswOMi4UtU/UdRUhw2Mb1I/AAAAAAACapQ/9n8X3OIVJ-E/s800/2013-06-25%252520-%25252013%252520-%252520Steph%252520following%252520through%252520Potluck%252520Pass.jpg"></a> <br>
+<b><i>Steph following through Potluck Pass.</i></b><br>
+<br>
+On our hike out I lamented that Steph, who had never been to this part of the Sierra, would miss the spectacular views from Palisade and Dusy Basins, as it was still very cloudy. The views from this side are of a very different nature than those from Big Pine, and I really hoped that she could see this different aspect.<br>
+<br>
+Luck was on our side this day, as once we were about halfway across Palisade Basin, the clouds began to lift enough to see the crest. Not entirely, I think the manner in which the crest was visible was every bit as impressive, but more unique, than the way most people see this 2,000 palisade.<br>
+<br>
+<a href="https://lh3.googleusercontent.com/-Iu2mArQ7Yec/UdRZwq7UV0I/AAAAAAACapo/kvV3uEH3q7Q/s1600/2013-06-25%252520-%25252016%252520-%252520Clouds%252520over%252520the%252520North%252520Palisade%252520Massif.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-Iu2mArQ7Yec/UdRZwq7UV0I/AAAAAAACapo/kvV3uEH3q7Q/s800/2013-06-25%252520-%25252016%252520-%252520Clouds%252520over%252520the%252520North%252520Palisade%252520Massif.jpg"></a> <br>
+<b><i>Clouds over the North Palisade Massif</i></b><br>
+ <br>
+<a href="https://lh6.googleusercontent.com/-jVeGDMlS08Q/UdRZzX_0e8I/AAAAAAADEqU/Z49sba_UwiU/s1600/2013-06-25%252520-%25252020%252520-%252520Rime%252520ice%252520on%252520the%252520North%252520Palisade%252520Massif.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-jVeGDMlS08Q/UdRZzX_0e8I/AAAAAAADEqU/Z49sba_UwiU/s800/2013-06-25%252520-%25252020%252520-%252520Rime%252520ice%252520on%252520the%252520North%252520Palisade%252520Massif.jpg"></a> <br>
+<b><i>Rime ice on the North Palisade Massif</i></b><br>
+ <br>
+<a href="https://lh3.googleusercontent.com/-Ld-7Jh6poJo/UdRZ0EL65HI/AAAAAAACaqQ/VjbNUb5cvJ0/s1600/2013-06-25%252520-%25252021%252520-%252520Clouds%252520over%252520the%252520North%252520Palisade%252520Massif.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-Ld-7Jh6poJo/UdRZ0EL65HI/AAAAAAACaqQ/VjbNUb5cvJ0/s800/2013-06-25%252520-%25252021%252520-%252520Clouds%252520over%252520the%252520North%252520Palisade%252520Massif.jpg"></a> <br>
+<b><i>Clouds over the North Palisade Massif</i></b><br>
+ <br>
+<a href="https://lh5.googleusercontent.com/-x6bHA7hsDek/UdRZ1nKSLoI/AAAAAAACaqg/zwLJ0TMCvJs/s1600/2013-06-25%252520-%25252023%252520-%252520Clouds%252520over%252520the%252520North%252520Palisade%252520Massif.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-x6bHA7hsDek/UdRZ1nKSLoI/AAAAAAACaqg/zwLJ0TMCvJs/s800/2013-06-25%252520-%25252023%252520-%252520Clouds%252520over%252520the%252520North%252520Palisade%252520Massif.jpg"></a> <br>
+<b><i>Clouds over the North Palisade Massif</i></b><br>
+ <br>
+<a href="https://lh6.googleusercontent.com/-xJKlV6ZdqQI/UdRZ2q-nLMI/AAAAAAACaqw/9MA8mLP5E1s/s1600/2013-06-25%252520-%25252025%252520-%252520Clouds%252520over%252520the%252520North%252520Palisade%252520Massif.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-xJKlV6ZdqQI/UdRZ2q-nLMI/AAAAAAACaqw/9MA8mLP5E1s/s800/2013-06-25%252520-%25252025%252520-%252520Clouds%252520over%252520the%252520North%252520Palisade%252520Massif.jpg"></a> <br>
+<b><i>Clouds over the North Palisade Massif</i></b><br>
+ <br>
+<a href="https://lh3.googleusercontent.com/-GrVJ-3iVRMA/UdRZ35ITKgI/AAAAAAACaq4/tNULo90EaJo/s1600/2013-06-25%252520-%25252025a%252520-%252520Cloaked%252520Rider.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-GrVJ-3iVRMA/UdRZ35ITKgI/AAAAAAACaq4/tNULo90EaJo/s800/2013-06-25%252520-%25252025a%252520-%252520Cloaked%252520Rider.jpg"></a> <br>
+<b><i>Cloaked Rider</i></b><br>
+<br>
+<div class="youtube"><iframe width="560" height="340" src="http://www.youtube.com/embed/YjPv-PsRxOE" frameborder="0"></iframe></div>
+<br>
+<br>
+The weather improved dramatically as we entered Dusy Basin, and Steph got to enjoy the wide, spacious views of this huge complex of high altitude meadow and slab.<br>
+<br>
+<a href="https://lh4.googleusercontent.com/-jqoF0Tmr4Sw/UdRaFFZTy0I/AAAAAAACasg/iN6DC3F_ujc/s1600/2013-06-25%252520-%25252032b%252520-%252520Descending%252520into%252520Dusy%252520Basin%252520-%252520Steph.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-jqoF0Tmr4Sw/UdRaFFZTy0I/AAAAAAACasg/iN6DC3F_ujc/s800/2013-06-25%252520-%25252032b%252520-%252520Descending%252520into%252520Dusy%252520Basin%252520-%252520Steph.jpg"></a> <br>
+<b><i>Descending into Dusy Basin. Iscosceles Peak is beyond to the left. (by Steph Abegg)</i></b><br>
+<br>
+<a href="https://lh5.googleusercontent.com/-A4dPhpeueWA/UdRaBTCbGuI/AAAAAAACasI/ZPuUj1NWSng/s1600/2013-06-25%252520-%25252033%252520-%252520Mt%252520Winchell%252520W%252520Arete%252520Clouds.jpg" target="_blank" rel="nofollow"><img src="https://lh5.googleusercontent.com/-A4dPhpeueWA/UdRaBTCbGuI/AAAAAAACasI/ZPuUj1NWSng/s800/2013-06-25%252520-%25252033%252520-%252520Mt%252520Winchell%252520W%252520Arete%252520Clouds.jpg"></a> <br>
+<b><i>Mt Winchell W Arete in the clouds.</i></b><br>
+ <br>
+By the time we reached Bishop Pass, there was little sign of the terrible weather that we had experienced over the past 2 days. Still, some hikers reported that more potential for snow was on the way within the next couple of days, so perhaps it was good that we bailed on the rest of our plans to recover in Bishop and switch gears towards doing some car-to-car climbs (Third Pillar of Dana, and the full Cathedral Traverse).<br>
+<br>
+<a href="https://lh3.googleusercontent.com/-7tn1tQMFJJc/UdRaKj30LwI/AAAAAAADTbQ/iGBUG6SuFd8/s1600/2013-06-25%252520-%25252039%252520-%252520Bishop%252520Pass%25252C%252520Picture%252520Puzzle%252520%252526%252520Mt%252520Agassiz.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-7tn1tQMFJJc/UdRaKj30LwI/AAAAAAADTbQ/iGBUG6SuFd8/s800/2013-06-25%252520-%25252039%252520-%252520Bishop%252520Pass%25252C%252520Picture%252520Puzzle%252520%252526%252520Mt%252520Agassiz.jpg"></a> <br>
+<b><i>Bishop Pass, Picture Puzzle and Mt Agassiz panorama.</i></b><br>
+<br>
+<a href="https://lh4.googleusercontent.com/-knOhyABYY24/UdRaM2r0zFI/AAAAAAACatY/i-4JLp1GYNE/s1600/2013-06-25%252520-%25252039a%252520-%252520Descending%252520from%252520Bishop%252520Pass%252520-%252520Steph.jpg" target="_blank" rel="nofollow"><img src="https://lh4.googleusercontent.com/-knOhyABYY24/UdRaM2r0zFI/AAAAAAACatY/i-4JLp1GYNE/s800/2013-06-25%252520-%25252039a%252520-%252520Descending%252520from%252520Bishop%252520Pass%252520-%252520Steph.jpg"></a> <br>
+<b><i>Descending from Bishop Pass (by Steph Abegg)</i></b><br>
+<br>
+Descending into South Lake and Bishop was very bizarre, though. After being so cold and wet for so long, it was dry, bright, and sunny here. To have it snowing on us in the morning, slipping on ice, but end up in the desert in over 100 F degree temperatures was quite the experience!<br>
+<br>
+<a href="https://lh6.googleusercontent.com/-0gXzdMOCawk/UdRcwmR_-0I/AAAAAAADTbo/6sJOvnpz0yE/s1600/2013-06-25%252520-%25252041%252520-%252520Dry%252520South%252520Lake.jpg" target="_blank" rel="nofollow"><img src="https://lh6.googleusercontent.com/-0gXzdMOCawk/UdRcwmR_-0I/AAAAAAADTbo/6sJOvnpz0yE/s800/2013-06-25%252520-%25252041%252520-%252520Dry%252520South%252520Lake.jpg"></a> <br>
+<b><i>Dry South Lake. Can you see the person who is walking out to the 'island'?</i></b><br>
+ <br>
+<a href="https://lh3.googleusercontent.com/-yR7Sfqac0bM/UdRcxWid9jI/AAAAAAADTbw/lNFESA_2mTg/s1600/2013-06-25%252520-%25252042%252520-%252520Dry%252520South%252520Lake%252520Panorama.jpg" target="_blank" rel="nofollow"><img src="https://lh3.googleusercontent.com/-yR7Sfqac0bM/UdRcxWid9jI/AAAAAAADTbw/lNFESA_2mTg/s800/2013-06-25%252520-%25252042%252520-%252520Dry%252520South%252520Lake%252520Panorama.jpg"></a> <br>
+<b><i>Dry South Lake high-res panorama.</i></b>
+</div> 
+id: t12340n 
+name: Palisade 'Tangent Traverse' 
+url: http://www.supertopo.com/tr/Palisade-Tangent-Traverse/t12340n.html 
+

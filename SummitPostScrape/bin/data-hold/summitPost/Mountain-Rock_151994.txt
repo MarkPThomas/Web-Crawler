@@ -57,6 +57,7 @@ date:
 difficulty:  
 elevation: 9002 
 grade:  
+hits: 20389  
 id: 151994 
 latitude: 51.40931 
 location: Alberta, Canada, North America 
@@ -65,6 +66,9 @@ my_route_quality:
 name: Mount Fairview 
 number_of_pitches:  
 page_url: http://www.summitpost.org/mount-fairview/151994 
+parent_code: 170874 
+parent_name: Banff Nat´l Park 
+parent_url: /banff-nat-l-park/170874 
 rock_difficulty:  
 route_quality:  
 route_type:  

@@ -91,6 +91,7 @@ date:
 difficulty:  
 elevation: 13930 
 grade:  
+hits: 32088  
 id: 151452 
 latitude: 36.5416 
 location: California, United States, North America 
@@ -99,6 +100,9 @@ my_route_quality:
 name: Mount LeConte 
 number_of_pitches:  
 page_url: http://www.summitpost.org/mount-leconte/151452 
+parent_code: 171134 
+parent_name: Sequoia/Kings Canyon NP 
+parent_url: /sequoia-kings-canyon-np/171134 
 rock_difficulty:  
 route_quality:  
 route_type:  

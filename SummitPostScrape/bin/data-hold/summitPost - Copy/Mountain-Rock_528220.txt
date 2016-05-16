@@ -1,0 +1,48 @@
+activities: Mountaineering, Scrambling 
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Overview</h2>“Mt. Morgenson” is a peak 0.5 miles west of <a href="http://www.summitpost.org/mountain/rock/150515/mount-russell.html">Mt. Russell</a>. The name was suggested to honor veteran Kings Canyon National Park Ranger Randy Morgenson, who disappeared while on duty in 1996. Rather than look up the details concerning this mystery online, I instead recommend that you read Eric Blehm’s excellent book, <a href="http://www.amazon.com/gp/product/0060583010?ie=UTF8&amp;tag=schmedcentral&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0060583010">The Last Season</a>.<br>
+<br>
+Based on Digital Elevation Model data, “Mt. Morgenson” apparently meets the 300' prominence criterion for inclusion in the <a href="http://www.summitpost.org/list/509575/california-thirteeners.html">California Thirteeners</a> by only two feet (i.e., really too close to call).<br>
+<br>
+<b>NOTE:</b> “Mt. Morgenson” should be distinguished from the West Peak of Mt. Russell (the higher of Russell’s twin summits, which are separated by only 0.1 miles).<a name="chapter_2"></a><h2>Getting There</h2>You may be tempted to climb “Mt. Morgenson” as a class 3 traverse from <a href="http://www.summitpost.org/mountain/rock/150515/mount-russell.html">Mt. Russell</a>. Climbing Mt. Russell via its east ridge (class 3) from Upper Boy Scout Lake is a fine route (though I enjoyed the South Face, Right Side route even more). The traverse from Russell to Mortgenson, however, was far from enjoyable. I would certainly recommend ascending the NE Slopes instead:<br>
+<br>
+Take 395 to Lone Pine, then turn west on the Whitney Portal Road and continue for 12.1 miles to Whitney Portal and the Mount Whitney Trailhead overnight parking area. The trail begins 0.2 miles further at the end of the road (8268'+). Merge carefully into the thick column of <a href="http://www.summitpost.org/mountain/rock/150227/mount-whitney.html">Mt. Whitney</a> hikers and continue for a mile, then signal and exit right just before the trail crosses Lone Pine Creek. From here, try to find and follow the “official” cross-country route up the North Fork of Lone Pine Creek to 11,950'+ Clyde Meadow (see R. J. Secor’s <a href="http://www.amazon.com/exec/obidos/ASIN/0898869714/schmedcentral">The High Sierra - Peaks, Passes, Trails</a> for an excellent description, but you’ll probably still get lost trying to find the Ebersbacher Ledges.) Go over “Russell-Carillon Pass” (class 2-3), skirt the south side of Tulainyo Lake and continue west to the northeast slopes of “Mt. Morgenson”.<br>
+<br>
+I highly recommend R. J. Secor’s <a href="http://www.amazon.com/exec/obidos/ASIN/0898869714/schmedcentral">The High Sierra, Peaks Passes &amp; Trails</a> (now in its third edition). This is the definitive climbing guide to the Sierra and was the source for many of the details on my SummitPost pages.<br>
+<br>
+<a name="chapter_3"></a><h2>Red Tape</h2>Like most places in the Sierra, you need a Wilderness Permit for overnight camping in the summer. The extremely high use of the Mt. Whitney Trail has resulted in a quota and lottery even for <a href="http://www.summitpost.org/mountain/rock/150227/mount-whitney.html">Mt. Whitney</a> day hikers. This has forced more and more alpinists to use the Mountaineer’s Route from Iceberg Lake, which shares the same Lone Pine Creek entry described above. Accordingly, you’ll want to reserve your permit early. I also recommend beginning all ranger conversations with, “We’re not climbing Mt. Whitney, but ...”<br>
+<br>
+Detailed information on permits, regulations and trailhead access can be found on Matthew Holliman’s excellent <a href="http://www.summitpost.org/logistical%20center/154084/eastern-sierra.html">Eastern Sierra logistics page</a>.<a name="chapter_4"></a><h2>Camping</h2>Upper Boy Scout Lake provides a nice campsite with access to the “Russell-Carillon Pass”. From here, you can easily climb <a href="http://www.summitpost.org/mountain/rock/150515/mount-russell.html">Mt. Russell</a> and “Mt. Morgenson” as well as <a href="http://www.summitpost.org/mountain/rock/151455/mount-carillon.html">Mt. Carillon</a> and <a href="http://www.summitpost.org/mountain/rock/418993/the-cleaver.html">“The Cleaver”</a>. You can also climb the Mountaineer’s Route on <a href="http://www.summitpost.org/mountain/rock/150227/mount-whitney.html">Mt. Whitney</a> from here, but I’d suggest moving camp to Iceberg Lake before doing so, as that has better views.                                                                                                                               <a name="chapter_5"></a><h2>Images</h2>
+<div align="center"><table id="my_images">
+<tr>
+<td><a href="/mt-russell-from-lone-pine-peak/491456/c-528220"><img alt="Mt. Russell from Lone Pine Peak" src="/images/square/491456.jpg"></a></td>
+<td><a href="/mount-morgenson/747497/c-528220"><img alt="Mount Morgenson" src="/images/square/747497.jpg"></a></td>
+<td><a href="/mt-russell-from-lone-pine-peak/454263/c-528220"><img alt="Mt. Russell from Lone Pine Peak" src="/images/square/454263.jpg"></a></td>
+<td><a href="/mt-morgenson-routes-photo-topo/667436/c-528220"><img alt="Mt Morgenson Routes (Photo Topo)" src="/images/square/667436.jpg"></a></td>
+<td><a href="/mt-morgenson-from-mt-russell/528366/c-528220"><img alt='"Mt. Morgenson" from Mt. Russell' src="/images/square/528366.jpg"></a></td>
+<td><a href="/mt-morgenson-and-mt-russell-from-whitney/528362/c-528220"><img alt="“Mt. Morgenson” and Mt. Russell from Whitney" src="/images/square/528362.jpg"></a></td>
+<td><a href="/mt-morgenson-from-below-whitney-russell-pass/528364/c-528220"><img alt="“Mt. Morgenson” from below Whitney/Russell Pass" src="/images/square/528364.jpg"></a></td>
+</tr>
+<tr><td><a href="/mt-morgenson-from-the-east/528367/c-528220"><img alt="“Mt. Morgenson” from the east" src="/images/square/528367.jpg"></a></td></tr>
+</table></div>
+            </article> 
+date:  
+difficulty:  
+elevation: 13927 
+grade:  
+id: 528220 
+latitude: 36.5916 
+location: California, United States, North America 
+longitude: -118.2998 
+my_route_quality:  
+name: “Mount Morgenson” (0.5 mi W of Mt. Russell) 
+number_of_pitches:  
+page_url: http://www.summitpost.org/mount-morgenson-0-5-mi-w-of-mt-russell/528220 
+rock_difficulty:  
+route_quality:  
+route_type:  
+seasons:  
+time_required:  
+type: Mountain-Rock 
+

@@ -66,6 +66,7 @@ date:
 difficulty: Class 3 
 elevation:  
 grade:  
+hits: 24711  
 id: 155708 
 latitude: 37.07 
 location: California, United States, North America 
@@ -74,6 +75,9 @@ my_route_quality:
 name: Northeast Face 
 number_of_pitches:  
 page_url: http://www.summitpost.org/northeast-face/155708 
+parent_code: 150514 
+parent_name: Middle Palisade 
+parent_url: /middle-palisade/150514 
 rock_difficulty:  
 route_quality: 0.8923076923076924 
 route_type: Scramble 

@@ -1,0 +1,23 @@
+content: <div dir="ltr"><span style="border-collapse:collapse"><h1>
+<a name="TOC-North-Sister-SW-Ridge-"></a>North Sister (SW Ridge)</h1>
+<hr>
+<hr>
+<h2>
+<a name="TOC-September-4-2005"></a>September 4, 2005</h2>
+<div><div class="sites-embed-align-center-wrapping-off"><div class="sites-embed-border-off sites-embed" style="width:800px;"><div class="sites-embed-content sites-embed-type-picasa"><embed type="application/x-shockwave-flash" src="//picasaweb.google.com/s/c/bin/slideshow.swf" width="800" height="533" wmode="transparent" pluginspage="//www.macromedia.com/go/getflashplayer" flashvars="host=picasaweb.google.com&amp;captions=1&amp;RGB=0x000000&amp;feed=http%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F105894936663116565516%2Falbum%2F20050904NorthSister%3Fkind%3Dphoto%26alt%3Drss%26"></embed></div></div></div></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<hr>
+<hr>
+<h2>
+<a name="TOC-Links"></a>Links</h2>
+<ul><li>
+<a href="https://picasaweb.google.com/105894936663116565516/20060521MtRainierDisappointmentCleaver?authuser=0&amp;feat=directlink"></a><a href="https://picasaweb.google.com/105894936663116565516/20050904NorthSister?authuser=0&amp;feat=directlink">Picasa Album</a>
+</li></ul></span></div> 
+page_id: 185 
+page_menu_name: North Sister (SW Ridge) 
+page_url: /mountaineering/trip-reports/oregon/-north-sister-sw-ridge 
+title: North Sister (SW Ridge) 
+type: Trip_Report 
+

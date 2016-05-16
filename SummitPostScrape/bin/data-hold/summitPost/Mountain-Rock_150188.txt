@@ -699,6 +699,7 @@ date:
 difficulty:  
 elevation: 14179 
 grade:  
+hits: 497409  
 id: 150188 
 latitude: 41.41 
 location: California, United States, North America 
@@ -707,6 +708,9 @@ my_route_quality:
 name: Mount Shasta 
 number_of_pitches:  
 page_url: http://www.summitpost.org/mount-shasta/150188 
+parent_code: 334003 
+parent_name: California Cascades 
+parent_url: /california-cascades/334003 
 rock_difficulty:  
 route_quality:  
 route_type:  

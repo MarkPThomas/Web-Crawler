@@ -78,6 +78,7 @@ date:
 difficulty: Class 4 scramble in Summer, Can be steep snow/ice in winter 
 elevation:  
 grade:  
+hits: 12334  
 id: 155800 
 latitude: 44.1664 
 location: Oregon, United States, North America 
@@ -86,6 +87,9 @@ my_route_quality:
 name: Southwest Ridge via Collier Glacier 
 number_of_pitches:  
 page_url: http://www.summitpost.org/southwest-ridge-via-collier-glacier/155800 
+parent_code: 150530 
+parent_name: North Sister 
+parent_url: /north-sister/150530 
 rock_difficulty:  
 route_quality: 0.8923076923076924 
 route_type: Hike, Basic Snow/Glacier Climb and Scramble 

@@ -281,6 +281,7 @@ date: May 29, 2005
 difficulty:  
 elevation:  
 grade:  
+hits: 6238  
 id: 170130 
 latitude: 39.1503 
 location: Colorado, United States, North America 
@@ -289,6 +290,9 @@ my_route_quality:
 name: Summit or Plummet! An SP Attempt on Capitol Pk 
 number_of_pitches:  
 page_url: http://www.summitpost.org/summit-or-plummet-an-sp-attempt-on-capitol-pk/170130 
+parent_code: 150528 
+parent_name: Capitol Peak 
+parent_url: /capitol-peak/150528 
 rock_difficulty:  
 route_quality:  
 route_type:  

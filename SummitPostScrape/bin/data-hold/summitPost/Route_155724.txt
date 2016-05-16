@@ -94,6 +94,7 @@ date:
 difficulty: 5.6 
 elevation:  
 grade:  
+hits: 9615  
 id: 155724 
 latitude: 37.8233 
 location: California, United States, North America 
@@ -102,6 +103,9 @@ my_route_quality:
 name: South to North Traverse 
 number_of_pitches:  
 page_url: http://www.summitpost.org/south-to-north-traverse/155724 
+parent_code: 150516 
+parent_name: Matthes Crest 
+parent_url: /matthes-crest/150516 
 rock_difficulty:  
 route_quality: 1.0 
 route_type: Technical Climb/Scramble 

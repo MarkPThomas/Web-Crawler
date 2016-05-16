@@ -1,0 +1,356 @@
+content: <div class="articletext">
+<div class="photonormal">
+<table valign="top" border="0" width="626" cellspacing="0" cellpadding="0" class="sdw_box">
+			<tr>
+			  <td><img src="/nav_img/top_left_sdw.gif" width="13" height="13"></td>
+			  <td class="sdw_top"></td>
+			  <td><img src="/nav_img/top_right_sdw.gif" width="13" height="13"></td>
+			</tr>
+			<tr>
+			  <td class="sdw_left"></td>
+			  <td class="sdw_body" width="600"><div>
+<a href="javascript:photoZoom('Mz49Oz85KSUk')" title="Click to enlarge"><img src="http://www.supertopo.com/photos/13/1/251613_11491_L.jpg" width="600" height="570" name="" alt="The SE Face of Clyde Minaret seen on the approach. Pitches correspond ..."></a><span class="small"><br>The SE Face of Clyde Minaret seen on the approach. Pitches correspond as best as I can tell to Peter Croft's topo and not to how we did the climb, as we linked and stretched a few pitches.<br><div class="photo-credit">Credit: PellucidWombat</div></span>
+</div></td>
+			  <td class="sdw_right"></td>
+			</tr>
+			<tr>
+			  <td><img src="/nav_img/bottom_left_sdw.gif" width="13" height="13"></td>
+			  <td class="sdw_bottom"></td>
+			  <td><img src="/nav_img/bottom_right_sdw.gif" width="13" height="13"></td>
+			</tr>
+		  </table>
+</div>
+<br>
+After a multi-month streak of getting out climbing every weekend, I was feeling a bit tired and pressured to take a weekend off. Since I was not having much luck finding a partner for one of the objectives I was really burning to do, I had resigned myself to stay in town. Then I got a text from my friend Japhy Dunghana.<br>
+<br>
+<div class="blogQuote">Hey mark - awesome climbing photos bro . . . What are u up to this wkend? I'm looking for someone to climb with</div>
+<br>
+I didn't even know he was back in the country! Since he lives in LA and spends most of the year out of the country guiding and teaching for an outdoor group called The Dragons, I have rarely had a chance to climb with him, so I jumped at the opportunity. Japhy was fully on board for climbing the classic Direct Southeast Face of Clyde Minaret (IV, 5.9+, 12P), so before I knew it, I had a car rented, time off from work confirmed, and was hurtling across Tioga pass on a bright, moonlit Friday night to meet him in Mammoth.<br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5751351006027892994" target="_blank" rel="nofollow"><img src="http://lh5.ggpht.com/-mtb6fb049Gw/T9DnRJzgyQI/AAAAAAABH6U/23hBbQaBm64/s912/2012-06-02%252520-%25252003%252520-%252520Minarets%252520Far%252520-%252520annotated.jpg"></a><br>
+<i>The Minarets. All 16 named summits can be seen. I'd love to do the traverse someday! (VI, 5.9).</i> <br>
+<br>
+<div class="horizontalrule"><hr></div>
+<br>
+<u><b>Saturday, June 2</b></u><br>
+<b>The Long(er) Approach</b><br>
+<br>
+The Mammoth area had experienced a large blowdown this past winter, so despite low snow levels, the road from Mammoth is still closed. Because of all of the heavy machinery sent down the road to take out all of the cut up trees, the road was also closed to hikers. So I had planned a detour, taking the ridge north of the Minarets lookout before dropping off the ridge and meeting up with the trail near the mouth of the side canyon leading to Lake Ediza. <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5751350993586012594" target="_blank" rel="nofollow"><img src="http://lh6.ggpht.com/-ipLPxCW7-IY/T9DnQbdIwbI/AAAAAAABH6M/UueFNq_tGYw/s800/2012-06-02%252520-%25252002a%252520-%252520Minarets%252520-%252520annotated.jpg"></a><br>
+<i>The Minarets. Michael Minaret is poking out from behind to the left.</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947054221579698" target="_blank" rel="nofollow"><img src="http://lh4.ggpht.com/-tKFL0YTZUlU/T8934ED01bI/AAAAAAABHwk/tIYx3o9Hhp4/s912/2012-06-02%252520-%25252004%252520-%252520Minarets%252520Panorama%252520from%252520Minaret%252520Viewpoint.jpg"></a><br>
+<i>The Minarets, Mt Ritter, and Banner Pk.</i> <br>
+<br>
+This gave us an approach of about 12 miles one way to get into the Ritter Range. We would have the range all to ourselves!<br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947083611391570" target="_blank" rel="nofollow"><img src="http://lh4.ggpht.com/-Ety279CLRJA/T8935xi5xlI/AAAAAAABHws/T6zCMrRdmjM/s800/2012-06-02%252520-%25252006%252520-%252520Banner%252520Peak%252520from%252520Deadman%252520Pass.jpg"></a><br>
+<i>Banner Pk seen from Deadman Pass.</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947100372232626" target="_blank" rel="nofollow"><img src="http://lh5.ggpht.com/-eq1gmoB9kdw/T8936v-_6bI/AAAAAAABHww/9515HzwmIdA/s800/2012-06-02%252520-%25252007%252520-%252520Mt%252520Ritter%252520from%252520Deadman%252520Pass.jpg"></a><br>
+<i>Mt Ritter, the N Face &amp; the S-SW Ridge seen from Deadman Pass.</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947115997951490" target="_blank" rel="nofollow"><img src="http://lh3.ggpht.com/-nub0TIs930w/T8937qMddgI/AAAAAAABHw0/B2Y4s76sV-k/s800/2012-06-02%252520-%25252008%252520-%252520Pt%2525203557%252520from%252520Deadman%252520Pass.jpg"></a><br>
+<i>Waller Minaret (Pt 3557) seen from Deadman Pass. This is between the Minarets and Mt Ritter.</i> <br>
+<br>
+For the most part the cross-country was pretty easy, although there were a few sections of loose scree and manzanita that we did not look forward to climbing back up as we dropped off the ridge from Deadman Pass.<br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947144634584882" target="_blank" rel="nofollow"><img src="http://lh6.ggpht.com/-8MAF2zFiTn4/T8939U39zzI/AAAAAAABHw8/N88syVwNju8/s800/2012-06-02%252520-%25252010%252520-%252520Japhy%252520on%252520the%252520detour%252520approach.jpg"></a><br>
+<i>X-Country detour since the road into Agnew Meadows was closed to pedestrians as well as cars.</i> <br>
+<br>
+Coming up to Lake Ediza, there was a lot more snow than I had expected based on the last few weekends spent in other parts of the Sierra. We got in some good postholing action while the slopes provided a heat-reflector effect.<br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947176747528194" target="_blank" rel="nofollow"><img src="http://lh6.ggpht.com/-JncmbwgCVvw/T893_MgScAI/AAAAAAABHxE/-mPpasoJPkI/s800/2012-06-02%252520-%25252012%252520-%252520Minarets%252520from%252520Iceberg%252520lake.jpg"></a><br>
+<i>The Minarets seen from Iceberg Lake.</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947214862777778" target="_blank" rel="nofollow"><img src="http://lh3.ggpht.com/-L8mnieepSqk/T894Bafq_bI/AAAAAAABHxQ/Wcsu6tSRrB8/s800/2012-06-02%252520-%25252014%252520-%252520Volcanic%252520Ridge%252520from%252520Cecile%252520Lake.jpg"></a><br>
+<i>Volcanic Ridge seen from camp beside Cecile Lake.</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947219501363762" target="_blank" rel="nofollow"><img src="http://lh4.ggpht.com/-6JcmHT9Y7EU/T894BrxmMjI/AAAAAAABHxU/3oERTEmJGQQ/s800/2012-06-02%252520-%25252015%252520-%252520Ritter%252520%252526%252520Banner%252520from%252520Cecile%252520Lake.jpg"></a><br>
+<i>Mt Ritter &amp; Banner Pk seen from camp beside Cecile Lake.</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947235574051026" target="_blank" rel="nofollow"><img src="http://lh5.ggpht.com/-XJlkP0yrNp0/T894Cnpn8NI/AAAAAAABHxc/xEbdnK9R3gw/s800/2012-06-02%252520-%25252017%252520-%252520Minaret%252520Lake.jpg"></a><br>
+<i>Minaret Lake and Riegelhuth Minaret seen from camp beside Cecile Lake.</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947296686716370" target="_blank" rel="nofollow"><img src="http://lh5.ggpht.com/-WfYBFlDucWI/T894GLUBNdI/AAAAAAABHxw/D5eD-Z8dEJo/s800/2012-06-02%252520-%25252022%252520-%252520Ritter%252520%252526%252520Banner%252520from%252520Cecile%252520Lake%252520at%252520Sunset.jpg"></a><br>
+<i>Sunset over Mt Ritter, Banner Pk &amp; Cecile Lake.</i> <br>
+<br>
+It was a solid day hiking in, but what a camp! We found the perfect bivy platform and got settled for the next day. Naturally, I stayed up and took some night photos.<br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947322903819266" target="_blank" rel="nofollow"><img src="http://lh4.ggpht.com/-9JZKV-Yaa6Y/T894Hs-qdAI/AAAAAAABHx8/3LHbS8T4BdU/s800/2012-06-02%252520-%25252025%252520-%252520Clyde%252520Minaret%252520%252526%252520Cecile%252520Lake%252520at%252520Night.jpg"></a><br>
+<i>Clyde Minaret &amp; Cecile Lake at night.</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947350730297730" target="_blank" rel="nofollow"><img src="http://lh5.ggpht.com/-gM8nIxMguHM/T894JUpA0YI/AAAAAAABHyI/nRrec3DtQMs/s800/2012-06-02%252520-%25252028%252520-%252520Clyde%252520Minaret%252520%252526%252520Other%252520Minarets%252520at%252520Night.jpg"></a><br>
+<i>Clyde Minaret at night.</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947361828220546" target="_blank" rel="nofollow"><img src="http://lh4.ggpht.com/-sn1uIBFc1QM/T894J9-9roI/AAAAAAABHyM/TRpmN7C_dWo/s800/2012-06-02%252520-%25252029%252520-%252520Clyde%252520Minaret%252520%252526%252520Other%252520Minarets%252520at%252520Night.JPG"></a><br>
+<i>Clyde Minaret at night under 30 min exposure.</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947368934132674" target="_blank" rel="nofollow"><img src="http://lh6.ggpht.com/-jgR0_5RNudk/T894KYdJS8I/AAAAAAABHyQ/5nNYGploV18/s800/2012-06-02%252520-%25252030%252520-%252520Ritter%25252C%252520Banner%252520%252526%252520Cecile%252520Lake%252520at%252520Night.jpg"></a><br>
+<i>Mt Ritter, Banner Pk, and Cecile Lake at night.</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947422524702194" target="_blank" rel="nofollow"><img src="http://lh6.ggpht.com/-kHAujXYK33M/T894NgGIffI/AAAAAAABHyY/7SMOEXSk48c/s912/2012-06-02%252520-%25252031a%252520-%252520Ritter%25252C%252520Banner%252520%252526%252520Cecile%252520Lake%252520at%252520Night.jpg"></a><br>
+<i>Mt Ritter, Banner Pk, and Cecile Lake at night under a 30 min exposure. I think the slight color near the horizon is due to light pollution from either June Lake or Lee Vining</i> <br>
+<br>
+<div class="horizontalrule"><hr></div>
+<br>
+<u><b>Sunday, June 3</b></u><br>
+<b>Clyde Minaret</b><br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5751351021556950738" target="_blank" rel="nofollow"><img src="http://lh4.ggpht.com/-fliDOF054Bo/T9DnSDp7ZtI/AAAAAAABH6k/UExemPTSREQ/s800/2012-06-03%252520-%25252006%252520-%252520Clyde%252520Minaret%252520at%252520sunrise%252520-%252520annotated.jpg"></a><br>
+<i>Clyde Minaret, Ken Minaret &amp; descent route. I suspect that taking the other notch a little further left might be easier. Our way required 1 short rappel off of a fixed anchor to reach the snow.</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5751351009205860962" target="_blank" rel="nofollow"><img src="http://lh6.ggpht.com/-uNDbUsMoH0E/T9DnRVpMumI/AAAAAAABH6c/FEBtdi4hAZI/s800/2012-06-03%252520-%25252002a%252520-%252520Clyde%252520Minaret%252520Alpenglow%252520-%252520annotated.jpg"></a><br>
+<i>Clyde Minaret SE Face in morning alpenglow.</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947434813202018" target="_blank" rel="nofollow"><img src="http://lh4.ggpht.com/-M-lT9LHkeUs/T894ON38HmI/AAAAAAABHyc/0qq3zQ2Jfxw/s800/2012-06-03%252520-%25252001%252520-%252520Ritter%252520%252526%252520Banner%252520at%252520sunrise.jpg"></a><br>
+<i>Sunrise on Mt Ritter &amp; Banner Pk</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947443601634066" target="_blank" rel="nofollow"><img src="http://lh6.ggpht.com/-csrcjx2AQXw/T894OunQ8xI/AAAAAAABHyg/oEzCJIuB7pU/s800/2012-06-03%252520-%25252002%252520-%252520Clyde%252520Minaret%252520Alpenglow.jpg"></a><br>
+<i>Clyde Minaret in morning alpenglow.</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947460832732034" target="_blank" rel="nofollow"><img src="http://lh4.ggpht.com/-zUKW9EtcvgA/T894Puzeo4I/AAAAAAABHyo/RfbvwtUpbfg/s800/2012-06-03%252520-%25252003%252520-%252520Bivy%252520Sack%252520Sunrise%252520View.jpg"></a><br>
+<i>Clyde Minaret in morning alpenglow from my sleeping bag. Time to get up for breakfast?</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5752245798669301986" target="_blank" rel="nofollow"><img src="http://lh6.ggpht.com/-QPDLV-EYa7I/T9QVE8JquOI/AAAAAAABILk/taTvU74IhjY/s800/2012-06-03%252520-%25252003a%252520-%252520Sunrise%252520View%252520at%252520camp%252520-%252520by%252520Japhy.jpg"></a><br>
+<i>Enjoying alpenglow on Clyde from camp. (by Japhy Dhungana)</i> <br>
+<br>
+We took our time and enjoyed the sunrise on Clyde Minaret as we ate breakfast and gathered our things. <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947465464032146" target="_blank" rel="nofollow"><img src="http://lh6.ggpht.com/-N3dIYi-3u8s/T894QADqq5I/AAAAAAABHys/3Yps5IU4Ba8/s800/2012-06-03%252520-%25252004%252520-%252520Ritter%252520%252526%252520Banner%252520at%252520sunrise.jpg"></a><br>
+<i>Mt Ritter and Banner Pk at sunrise.</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947480575004162" target="_blank" rel="nofollow"><img src="http://lh4.ggpht.com/-zJ__YnG_Gtg/T894Q4WZzgI/AAAAAAABHyw/CPyGJ-nPyjI/s800/2012-06-03%252520-%25252005%252520-%252520Banner%252520Pk%252520at%252520sunrise.jpg"></a><br>
+<i>Banner Pk at sunrise.</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947498627337170" target="_blank" rel="nofollow"><img src="http://lh5.ggpht.com/-5Jv82eGgjWg/T894R7mai9I/AAAAAAABHy4/SUHMTdFbYkU/s800/2012-06-03%252520-%25252007%252520-%252520Clyde%252520Minaret%252520at%252520sunrise.jpg"></a><br>
+<i>Clyde Minaret SE Face</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947566161917090" target="_blank" rel="nofollow"><img src="http://lh5.ggpht.com/-K3j-ShkQhbM/T894V3L6dKI/AAAAAAABHzI/8FJh_QuKv7k/s800/2012-06-03%252520-%25252011%252520-%252520Japhy%252520%252526%252520Clyde%252520Minaret%252520on%252520approach.jpg"></a><br>
+<i>Japhy on the 0.5 mile 650' gain approach to the direct variation of the SE Face.</i> <br>
+<br>
+45 minutes and 650 ft of ascending later and we were making the awkward transition from snow onto the first pitch of the direct start of the route.<br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947579544059522" target="_blank" rel="nofollow"><img src="http://lh3.ggpht.com/-5JJnfodzUN0/T894WpCdvoI/AAAAAAABHzM/X5QbPkSDmrs/s800/2012-06-03%252520-%25252012%252520-%252520P1%252520Direct%252520Var%252520Start.jpg"></a><br>
+<i>Looking up P1 of the Direct Variation (5.9+). The second pitch ends at the small tower seen high above.</i> <br>
+<br>
+The direct variation was awesome. Steep, fairly sustained, slick rock brought us up nice corners with some interesting moves here and there. The rock was completely clean. <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947592843221810" target="_blank" rel="nofollow"><img src="http://lh3.ggpht.com/-KgIpdHBymAQ/T894XalO2zI/AAAAAAABHzQ/0eP-4R2CFjc/s800/2012-06-03%252520-%25252013%252520-%252520Japhy%252520leading%252520P1%252520Direct%252520Var.jpg"></a><br>
+<i>Japhy leading P1 (5.9+).</i> <br>
+<br>
+I started off a bit awkward and slow, since I'm more used to crack jamming and am less used to face climbing. While there was the occasional hand jam and finger jam on this route, the nature of the rock was steep slick faces with small crimpers for the harder sections, and juggy ledges for the easier sections, requiring lot of hybrid techniques of jamming, stemming, liebacking, and manteling.<br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947605583116578" target="_blank" rel="nofollow"><img src="http://lh6.ggpht.com/-CbMi_IkeQuU/T894YKCqOSI/AAAAAAABHzU/4lgkrkz7Q80/s800/2012-06-03%252520-%25252014%252520-%252520Following%252520P1%252520Direct%252520Var.jpg"></a><br>
+<i>Following the P1 crux (5.9+).</i> <br>
+<br>
+Climbing such steep terrain with a pack, however, was not terribly fun. Throughout the climb both Japhy and I were eager to lead, not only for the fun of leading, but to get away from climbing with the pack! <i>(We did, however, enjoy the food, water, rapp anchor supplies, headlamps, sneakers &amp; warm layers we hauled up with us. Trekking poles were mildly helpful, and the single axe and pair of crampons totally useless).</i><br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5752249926458315474" target="_blank" rel="nofollow"><img src="http://lh5.ggpht.com/-sS9ZNbcN9ZY/T9QY1NXQktI/AAAAAAABILw/yEiW0NecXnY/s800/2012-06-03%252520-%25252014b%252520-%252520Following%252520P1%252520Direct%252520Var%252520-%252520by%252520Japhy.jpg"></a><br>
+<i>Following P1 (5.9+). This pack was a pain to climb with here! (by Japhy Dhungana)</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5752253812982410514" target="_blank" rel="nofollow"><img src="http://lh5.ggpht.com/-1x32MGMc1Ng/T9QcXbyz7RI/AAAAAAABIMw/brGXq2J4ReY/s800/2012-06-03%252520-%25252014d%252520-%252520Following%252520P1%252520Direct%252520Var%252520-%252520by%252520Japhy.jpg"></a><br>
+<i>Following P1 (5.9+). This pack was a pain to climb with here! (by Japhy Dhungana)</i> <br>
+<br>
+I linked the second pitch with the third as one long 200' pitch. <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947617329756066" target="_blank" rel="nofollow"><img src="http://lh4.ggpht.com/-EV5lplLKYQ0/T894Y1zRt6I/AAAAAAABHzY/zKMjJI_1M_U/s800/2012-06-03%252520-%25252015%252520-%252520Leading%252520P2%252520of%252520Direct%252520Var.jpg"></a><br>
+<i>Leading P2 of the direct variation (5.9+ or 5.10a)</i> <br>
+<br>
+Peter Croft's guidebook rates the first pitch as 5.9+ and this pitch 5.10a while Moynier &amp; Fiddler rate both pitches as 5.9+. I'd say both pitches were mostly 5.8 with a few solid 5.9+ moves.<br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947628661051842" target="_blank" rel="nofollow"><img src="http://lh5.ggpht.com/-02QI3qbOxDA/T894ZgA3kcI/AAAAAAABHzc/M8dSBTryioM/s800/2012-06-03%252520-%25252016%252520-%252520Leading%252520P2%252520of%252520Direct%252520Var.jpg"></a><br>
+<i>Sweet corner of P2 Direct Variation (5.9+ or 5.10a)</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947639992981154" target="_blank" rel="nofollow"><img src="http://lh3.ggpht.com/-KSV8PG6eGXQ/T894aKOnFqI/AAAAAAABHzg/cvAN_NS30oo/s800/2012-06-03%252520-%25252017%252520-%252520Leading%252520P2%252520of%252520Direct%252520Var.jpg"></a><br>
+<i>Upper section of P2 (5.9+ or 5.10a)</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947646097403234" target="_blank" rel="nofollow"><img src="http://lh3.ggpht.com/-3xByaqorCT4/T894ag-BLWI/AAAAAAABHzk/yswr2nm6G7U/s800/2012-06-03%252520-%25252018%252520-%252520Japhy%252520Following%252520P3%252520traverse.jpg"></a><br>
+<i>Japhy following the P3 traverse, which I linked with P2.</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947668675104162" target="_blank" rel="nofollow"><img src="http://lh4.ggpht.com/-XEOc0tqcwcI/T894b1E9jaI/AAAAAAABHzs/2keuekRY2eU/s912/2012-06-03%252520-%25252020%252520-%252520Looking%252520Up%252520from%252520P3.jpg"></a><br>
+<i>Looking up the steep SE face from the base of P4 (5.7). We'd better choose the right route!</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947686938954306" target="_blank" rel="nofollow"><img src="http://lh4.ggpht.com/-yyFQ9thQsb4/T894c5HZykI/AAAAAAABHzw/LjLjD8Q5xIY/s800/2012-06-03%252520-%25252021%252520-%252520Japhy%252520Leading%252520into%252520P4.jpg"></a><br>
+<i>Japhy leading out on P4 (Our P3)(5.7), rounding the corner to enter the wide crack.</i> <br>
+<br>
+Japhy made short work of the wide 5.7 crack on the next pitch.<br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947698636070434" target="_blank" rel="nofollow"><img src="http://lh3.ggpht.com/--0fqM1Te2Qg/T894dksNniI/AAAAAAABHz0/U5uPvUFmhO4/s800/2012-06-03%252520-%25252022%252520-%252520P4%252520Wide%2525205_7%252520crack.jpg"></a><br>
+<i>P4 wide 5.7 crack.</i> <br>
+<br>
+Japhy did some heel-toeing and chickenwinging on this. I found plenty of features inside and outside the crack to keep it easier, with only an occasional light arm bar needed for balance or cleaning gear. So OW-o-phobes, don't despair!<br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947713982293602" target="_blank" rel="nofollow"><img src="http://lh3.ggpht.com/-Zmw_K6uohR0/T894ed3CZmI/AAAAAAABHz4/RF8JDvmVMHc/s800/2012-06-03%252520-%25252023%252520-%252520Nearing%252520End%252520of%252520P4.jpg"></a><br>
+<i>Nearing the end of P4 (our P3).</i> <br>
+<br>
+Then I linked the next 2 pitches, with a bit of simul-climbing, to make a 260' pitch that ended at the start of the improbable 5.8 traverse. <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947720383128354" target="_blank" rel="nofollow"><img src="http://lh6.ggpht.com/-vdBGSGV88kc/T894e1tHYyI/AAAAAAABHz8/zzWXgjKdOp0/s800/2012-06-03%252520-%25252024%252520-%252520Starting%252520P5%2525266%252520Lead%252520-%252520Our%252520P4.jpg"></a><br>
+<i>Starting out on the linked P5 &amp; P6 lead (5.7, 5.8), which was our P4.</i> <br>
+<br>
+Unfortunately I got off route near the end and found myself wriggling up an awkward and insecure offwidth but eventually got back on route (my bad). Fortunately Japhy had good alpine sense and quickly rigged a way to haul the pack with slack I gave him on one of the ropes for this part and then face climbed around my shameful routefinding choice.<br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5752251224585438562" target="_blank" rel="nofollow"><img src="http://lh4.ggpht.com/-oqPQcpU8Od4/T9QaAxQ4hWI/AAAAAAABIMA/gMRMnRv_i5Q/s800/2012-06-03%252520-%25252024a%252520-%252520Starting%252520P5%2525266%252520Lead%252520-%252520Our%252520P4%252520-%252520by%252520Japhy.jpg"></a><br>
+<i>Leading the beginning of P5 (according to the topo). (by Japhy Dhungana)</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947736468547602" target="_blank" rel="nofollow"><img src="http://lh6.ggpht.com/-tbsKxbN1xmk/T894fxoLaBI/AAAAAAABH0A/pSbVFQiRmVo/s800/2012-06-03%252520-%25252025%252520-%252520Looking%252520up%252520the%252520SE%252520Face.jpg"></a><br>
+<i>Leading P6 as our P4 (5.8), gradually working our way to the corners on the right.</i> <br>
+<br>
+For the record, the ledge before the traverse is very large and an ideal spot to bask in the sun and enjoy a mid-route lunch break.<br>
+<br>
+Japhy had to do a bit of searching, but eventually found the correct way down and over on the traverse. It really isn't that hard or exposed, but the way is not obvious and the corner you reach is very steep and exposed. He stopped short on this pitch due to drag and set up an anchor on a good ledge. <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947763889088722" target="_blank" rel="nofollow"><img src="http://lh4.ggpht.com/-bbU0oYZrzqA/T894hXxvqNI/AAAAAAABH0I/269yr6JAkds/s800/2012-06-03%252520-%25252027%252520-%252520Following%252520Japhy%252520on%252520P7%252520Traverse%252520-%252520Our%252520P5.jpg"></a><br>
+<i>Japhy at the end of the P7 traverse (our P5)(5.8). Rope drag was so bad he stopped at the first good ledge up the corner.</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947786148594914" target="_blank" rel="nofollow"><img src="http://lh6.ggpht.com/-PsziqxbEe84/T894iqs0xOI/AAAAAAABH0M/ZL-1o0HlVmc/s800/2012-06-03%252520-%25252028%252520-%252520Corner%252520after%252520P7%252520Traverse%252520-%252520Our%252520P5.jpg"></a><br>
+<i>Climbing up the steep corner after the P7 (our P5) traverse (5.8).</i> <br>
+<br>
+Japhy led out the next pitch on fairly clean and sustained 5.7 to 5.8 climbing for about 140' before setting up an anchor at the White Scar. Here, as in most of the route, there are frequent good ledges, so in most cases you really can stretch out the rope and make an anchor at the most strategic spot instead of worrying too much about where the pitch technically ends.<br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947809157399346" target="_blank" rel="nofollow"><img src="http://lh3.ggpht.com/-GqlsXza68QY/T894kAajQzI/AAAAAAABH0Q/nRHy8NJkJig/s800/2012-06-03%252520-%25252029%252520-%252520Following%252520Japhy%252520on%252520P8%252520in%252520dihedral%252520-%252520Our%252520P6.jpg"></a><br>
+<i>Following the long P8 (our P6) in the big lower dihedral (5.8). Japhy stopped just beside the white scar.</i> <br>
+<br>
+Japhy led one of the most enjoyable pitches of the climb, and then I got to lead an even better, more sustained pitch that was only slightly easier than the first two pitches of the climb.<br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5752251768176305762" target="_blank" rel="nofollow"><img src="http://lh4.ggpht.com/-TjYY1JVRprA/T9QagaTC5mI/AAAAAAABIMI/BGtjdZWo0cw/s800/2012-06-03%252520-%25252030a%252520-%252520Leading%252520P8%252526P9%252520Crux%252520off%252520the%252520belay%252520-%252520Our%252520P7%252520-%252520by%252520Japhy.jpg"></a><br>
+<i>Just past the technical crux of the climb for us, right off of the belay! Starting our P7, P8 &amp; P9 according to the topo. (by Japhy Dhungana)</i> <br>
+<br>
+The opening moves were very hard, but I placed a temporary piece above, committed to an iffy smear and swung up into a "thank god" hand jam in a solid fist crack.<br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947834464873314" target="_blank" rel="nofollow"><img src="http://lh5.ggpht.com/-msb1LXruIBU/T894lesUq2I/AAAAAAABH0Y/IHBxnzJB9g8/s800/2012-06-03%252520-%25252031%252520-%252520Leading%252520Long%252520Corner%252520of%252520P8%252526P9%252520-%252520Our%252520P7.jpg"></a><br>
+<i>The long corner of P8 &amp; P9 that I linked (our P7), 230' of fairly sustained 5.7-5.8 climbing before I ran out of rope, just 20' short of the nice sunny notch.</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947845647695698" target="_blank" rel="nofollow"><img src="http://lh4.ggpht.com/-uNbFj6WNpeE/T894mIWg_1I/AAAAAAABH0c/LFnMY5ZMrfE/s800/2012-06-03%252520-%25252032%252520-%252520Leading%252520P9%252520-%252520Nearing%252520End%252520of%252520Our%252520P7.jpg"></a><br>
+<i>The upper section of P9 (our P7)(5.8). There is one more corner above this one before the notch.</i> <br>
+<br>
+It was cold in the shade, and the notch seemed like it would be a great belay. I got so close to it! But alas, the rope went taught, and I didn't dare attempt to simul this time as I knew what Japhy would have to climb through off the belay. <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947852543036930" target="_blank" rel="nofollow"><img src="http://lh5.ggpht.com/-yHdDwCDsebE/T894miCfjgI/AAAAAAABH0g/yByTK3B7AMg/s800/2012-06-03%252520-%25252033%252520-%252520Belay%252520just%252520short%252520of%252520the%252520notch.jpg"></a><br>
+<i>Cold, tight belay just 20 ft short of the sunny notch. I linked P8 &amp; P9 into our P7, and ran out of rope just short of the end.</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947883832302594" target="_blank" rel="nofollow"><img src="http://lh4.ggpht.com/-v-TaDGDwE_I/T894oWmb3AI/AAAAAAABH0s/4NRvbwkRdDw/s800/2012-06-03%252520-%25252036%252520-%252520Japhy%252520atop%252520P10.jpg"></a><br>
+<i>Japhy atop P10 (our P8) on the ridge (fun 5.7)</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947892900849522" target="_blank" rel="nofollow"><img src="http://lh5.ggpht.com/-oOgWzsJYXIY/T894o4Yi53I/AAAAAAABH0w/TneBmHKCqGM/s800/2012-06-03%252520-%25252037%252520-%252520Japhy%252520atop%252520P10.jpg"></a><br>
+<i>Japhy atop P10 (our P8) on the ridge (fun 5.7)</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5752252458588841666" target="_blank" rel="nofollow"><img src="http://lh5.ggpht.com/-maCutYpKzOI/T9QbImSOJsI/AAAAAAABIMQ/ft3q2wzAqCQ/s800/2012-06-03%252520-%25252037a%252520-%252520Finsihing%252520P10%252520-%252520by%252520Japhy.jpg"></a><br>
+<i>Looking my best on Cyde Minaret - being blinded by the sun as I attempt to find my way along the upper ridge. (by Japhy Dhungana)</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947900398673042" target="_blank" rel="nofollow"><img src="http://lh3.ggpht.com/-w2-qE2bfKls/T894pUUKnJI/AAAAAAABH00/d0JUgdBp4Dg/s800/2012-06-03%252520-%25252038%252520-%252520Ritter%252520%252526%252520Banner%252520%252526%252520SW%252520Ridge.jpg"></a><br>
+<i>Mt Ritter (left) and its SW Ridge (VI 5.9) &amp; S Ridge (VI 5.9), and Banner Peak (right).</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947923737095954" target="_blank" rel="nofollow"><img src="http://lh4.ggpht.com/-uX3dDLz1NzU/T894qrQerxI/AAAAAAABH08/u8chW8T2h7Y/s800/2012-06-03%252520-%25252040%252520-%252520P11%252520on%252520NE%252520Face.jpg"></a><br>
+<i>Looking back on the extremely wandering line of P11 on the NE Face.</i> <br>
+<br>
+We had hoped to unrope or simul for the last two pitches, but the terrain stayed very steep and sustained, and while not too hard, it was just insecure enough, pro sparse enough, and the rock wet and snowy enough that we pitched it out. Even with doubles, I couldn't avoid getting bad rope drag.<br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5752253046233571314" target="_blank" rel="nofollow"><img src="http://lh5.ggpht.com/-fw6Gu53VtLU/T9QbqzbpH_I/AAAAAAABIMY/sF-ELaXKO_A/s800/2012-06-03%252520-%25252040a%252520-%252520P11%252520on%252520NE%252520Face%252520-%252520by%252520Japhy.jpg"></a><br>
+<i>Nearing the end of P11. Japhy needed to make a very exposed step face traverse after the last piece of pro, and then downclimb a chimney before he could get up to me. (by Japhy Dhungana)</i> <br>
+<br>
+From the start of the dihedral covered in green lichen behind me it is straightforward and clean cl. 4 scrambling to the summit.<br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750947942453602050" target="_blank" rel="nofollow"><img src="http://lh4.ggpht.com/-0RhqXleOESo/T894rw-15wI/AAAAAAABH1A/GPcJyic4TUg/s800/2012-06-03%252520-%25252041%252520-%252520Japhy%252520Following%252520up%252520final%252520ridge.jpg"></a><br>
+<i>Japhy following up the final ridge of P12 (our P10).</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5752253824890779090" target="_blank" rel="nofollow"><img src="http://lh4.ggpht.com/-qBNVIPWVtcE/T9QcYIJ_NdI/AAAAAAABIM8/IlX-lZhq30s/s800/2012-06-03%252520-%25252041b%252520-%252520Celebrating%252520on%252520the%252520summit%252520-%252520by%252520Japhy.jpg"></a><br>
+<i>Happy on the summit. (by Japhy Dhungana)</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750948016618897778" target="_blank" rel="nofollow"><img src="http://lh6.ggpht.com/-V71P3Gv5LP4/T894wFROgXI/AAAAAAABH1Y/7dlUzvfuVzk/s800/2012-06-03%252520-%25252047%252520-%252520Me%252520%252526%252520Japhy%252520on%252520the%252520Summit.jpg"></a><br>
+<i>Me &amp; Japhy on the summit. The beast of burden is in the foreground.</i> <br>
+<br>
+We did the usual summit celebrations and toasts, then booked it down, since the descent is not easy and the information vague.<br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750948055162706450" target="_blank" rel="nofollow"><img src="http://lh3.ggpht.com/-Ss7aR_30IYY/T894yU2yWhI/AAAAAAABH1o/hxUosKHS69M/s912/2012-06-03%252520-%25252050a%252520-%252520Michael%252520Minaret%252520Banner.jpg"></a><br>
+<i>Michael Minaret.</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750948069510002898" target="_blank" rel="nofollow"><img src="http://lh4.ggpht.com/-sXu19qnP078/T894zKTcuNI/AAAAAAABH1w/2zejJYMBWgI/s800/2012-06-03%252520-%25252052%252520-%252520Michael%252520Minaret.jpg"></a><br>
+<i>Michael Minaret. The notch bridged by a chockstone is called "The Portal"</i> <br>
+<br>
+After some exposed downclimbing, a rappel off a good anchor, more downclimbing, and another rappel off an anchor we built, we were on to straightforward but loose class 2-3 slopes. Downclimbing, we made it to the snow just as it got dark. The temperature plummeted and the wind picked up, but we stayed nice and comfy in the puffies that we had painstaking hauled up the route. A full moon added to the nice ambiance as we picked our way around Ken Minaret and scrambled up to the wrong descent notch (doh!).<br>
+<br>
+A brief look at the map showed we were close and a bit more scrambling took us to a reasonable notch with a rappel anchor, an old fixed line and very loose rock at the top. After this last obstacle we had clear sailing down to camp, where we enjoyed the views of Clyde Minaret illuminated by a full moon a we ate dinner. It had been a full and grand day in the Minarets!<br>
+<br>
+<br>
+<u><b>Monday, June 4</b></u><br>
+<b>Lucky Times</b><br>
+We slept in and took our time heading out. Japhy and I had hoped to spend another day in the Minarets and climb Michael Minaret, or maybe a route on Banner Peak, but the weather had forecast a 40% chance of precipitation on Monday with a large drop in temperature.<br>
+<br>
+Japhy did not like the idea of slogging back up to Deadman Pass and had talked me into hiking down to Devil's Postpile and back up the road. We could take a trail that cut the switchback in the road. And who knows? Maybe we could bum a ride? Even if we got in trouble being on the road, we had not entered from that side, so we figured at most we'd be shooed into the forest or allowed to walk out since we had technically not reached the road unlawfully.<br>
+<br>
+We enjoyed the clear, sunny morning, but by the time we left camp the winds had picked up and clouds had gathered around the Minarets. It was a shame they hid Clyde, as I was hoping to scope out the views of Clyde above Minaret Lake for some nigh photography ideas on my next visit.<br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750948096422497250" target="_blank" rel="nofollow"><img src="http://lh6.ggpht.com/-TwBo0DzRCls/T8940uj4y-I/AAAAAAABH18/SnsSy-Lacks/s800/2012-06-04%252520-%25252003%252520-%252520Minarets%252520in%252520the%252520clouds%252520from%252520Minaret%252520Lake.jpg"></a><br>
+<i>The Minarets in the morning clouds above Minaret Lake as we departed.</i> <br>
+<br>
+Deeper down in the forest we ran into a couple of hikers passing through on the John Muir trail - the only people we saw the three days we were back there. As we reached the last 2 miles of trail, large trees were blown down everywhere, forcing us to do a lot of climbing over and detouring around trees. We probably spent more time walking around trees than down the trail.<br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750948140544461186" target="_blank" rel="nofollow"><img src="http://lh5.ggpht.com/-S9l9f9IG5D8/T8943S7YiYI/AAAAAAABH2I/cbSvGKstkfI/s800/2012-06-04%252520-%25252006%252520-%252520Deadfall%252520on%252520trail.jpg"></a><br>
+<i>Lots of deadfall on the trail. We had a couple of miles of this where we were constantly end running and climbing over large trees!</i> <br>
+<br>
+Once at Devil's Postpile we couldn't resist the temptation to swing by the formation, especially since we had it all to ourselves.<br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750948221993266530" target="_blank" rel="nofollow"><img src="http://lh6.ggpht.com/-eHuN3KXVtiI/T8948CWSrWI/AAAAAAABH2Y/Z8I2SWy9Qjw/s800/2012-06-04%252520-%25252010%252520-%252520Devils%252520Postpile%252520denial.jpg"></a><br>
+<i>Japhy despairing at the dashing of our FA plans.</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750948249559413362" target="_blank" rel="nofollow"><img src="http://lh6.ggpht.com/-RqkUDpmY35k/T8949pCksnI/AAAAAAABH2g/sgWsCqZtfiA/s800/2012-06-04%252520-%25252012%252520-%252520Devils%252520Postpile%252520denial.jpg"></a><br>
+<i>We've gotta climb something!</i> <br>
+<br>
+After this nice side trip, we started walking up the road. We had barely walked 10 minutes when a fuel truck started up from the end of the road. The driver had just made his annual delivery and was driving out. As the truck approached us, Japhy, ever the sweet talker, waved to the trucker, and got us a ride out! As we drove up the road, we could see that the steep, loose hillside and the vast number of huge trees blown over would have made it an epic hiking out on our intended trail. Just as we were let off at the Minaret summit, the rain started pouring and quickly changed to a mixture of rain and hail. Talk about perfect timing! We definitely would have gotten caught in that weather had we not gotten that ride, but instead, we were enjoying beer &amp; burgers in Mammoth as we watched the deluge, and then caught refuge for the evening at the Mammoth hot springs.<br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750948366469540898" target="_blank" rel="nofollow"><img src="http://lh4.ggpht.com/-x1CQOMMWBZE/T895EckHrCI/AAAAAAABH3E/70LbexHIYQQ/s912/2012-06-04%252520-%25252020a%252520-%252520Storming%252520clouds%252520from%252520the%252520hot%252520springs%252520Banner.jpg"></a><br>
+<i>Stormy clouds over the Sierra, seen from the hot springs.</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750948403878219938" target="_blank" rel="nofollow"><img src="http://lh4.ggpht.com/-kr-VeXBsMT0/T895Gn7C0KI/AAAAAAABH3M/0JbIBfvwyQo/s800/2012-06-05%252520-%25252001a%252520-%252520Laurel%252520Mtn%252520from%252520the%252520hot%252520springs.jpg"></a><br>
+<i>Laurel Mtn NE Gully (III, 5.2)</i> <br>
+<br>
+<a href="https://picasaweb.google.com/105894936663116565516/20120602to04SEFaceOfClydeMinaretWJaphyD#5750948408086115426" target="_blank" rel="nofollow"><img src="http://lh5.ggpht.com/-RCuAIqgs45Q/T895G3mSNGI/AAAAAAABH3Q/SmSA06on36Y/s800/2012-06-05%252520-%25252002%252520-%252520Sawtooth%252520Range%252520from%252520Bridgeport.jpg"></a><br>
+<i>Sawtooth Range under a fresh dumping of snow. All of the passes had closed due to the storm, so I had to drive home via Tahoe.</i><br>
+<br>
+<u><b>Route Thoughts &amp; Notes (from a Wombat)</b></u><br>
+<b>Rack:</b><br>
+For a rack we brought 1 set of nuts and a few tricams, one set of of BD Camalots to #3, 1/2 set of Metolius (alternate sizes to the equivalent of a #2 Camalot), and a full set of C3 Camalots. We only placed nuts for the anchor to save cams, and even there we mostly used pink, red and black tricams instead. We found having extras in small cams including the narrower and smaller C3s down do a #0 to be very helpful, especially for the first two pitches. If you are solid on 5.8 leading and climbing with a 60m rope, you could get by with closer to a single set of cams, since our rack worked well for 70m pitches.<br>
+<br>
+According to Roper &amp; Steck's "50 Classic Climbs of North America":<br>
+<br>
+<div class="blogQuote">Although the climb is usually done clean, it is advisable to carry five pitons in addition to a standard selection of twenty chocks</div>
+<br>
+This is no longer advisable. ;-)<br>
+<br>
+<b>Descent:</b><br>
+From the summit, unrope and scramble north. About 200 ft later you will encounter a steep step (cl. 4). This is the crux of the Rock Route (IMHO one of the best cl. 4 scrambles in the Sierra) and here you have two options:<br>
+<br>
+1. Continue on to downclimb the Rock Route. This is similar in nature and length to the East Face of Middle Palisade, but a bit harder and more exposed, so only do this if you have time and energy for lots of sustained downclimbing!<br>
+<br>
+2. Turn left and switchback on some exposed but solid ledges to reach a rappel anchor. A single rope rappel trending climber's left brings you into a chute. From here cross the chute to a rib and downclimb the ridge about 100 ft to find our pimpin' rapp station. One more single rope rappel (or possibly some downclimbing) places you into a good chute for downclimbing. Basically, a single 60m rope and some downclimbing should easily get you down. From there, downclimb to Amphitheater Lake and traverse around Ken Minaret to South Notch where one more short rappel places you onto easy snow slopes for the remainder of the walk back to Cecile Lake.<br>
+<br>
+The descent takes a while and would not be fun in the dark, especially if you haven't done it before, as it is exposed and would be hard to make sense of by headlamp. So make sure you aim to finish the route with at least enough daylight to get through the first two rappels. Otherwise you are in for an epic night descent or a likely summit bivy.<br>
+<br>
+<b>Bailing:</b><br>
+The route has a number of fixed pieces and bail gear everywhere. Nearly every pitch had some rappel setup, so with two ropes you can rappel the route, although be prepared to make some new rapp stations or leave a bit of gear.<br>
+<br>
+<b>Route Topo:</b><br>
+I brought copies of three different topos and have this to say:<br>
+<br>
+1. The topo on Mtn Project was utter junk. We rarely were on anything like that topo.<br>
+<br>
+2. The topo from Moynier &amp; Fiddler is pretty good, but a little vague and misleading at some critical junctions.<br>
+<br>
+3. We had no trouble finding our way following the route description on SummitPost and using Peter Croft's topo in "The Good, the Great, and the Awesome". Bring these along!<br>
+<br>
+<b>Miscellany:</b><br>
+For the most part, all of the pitches were very long and sustained, though there were many rest along the way. We only were able to link some pitches with a minumum of simul-climbing and not too much drag because we climbed with 70m doubles, so we trimmed the route to 10 pitches and could have trimmed it to 9 if I had set up the belay before the 5.8 traverse at a better spot to reduce drag. Be prepared to do the route as 12 pitches if you bring a 60m or a single rope!<br>
+<br>
+Also, the route is long and fairly sustained, and some of the moves higher up are arguably as hard as any on the direct start. So if you think you climb hard and fast enough to do the route, you certainly can handle the 5.9+ start and absolutely should do it this way for two of the best pitches on the route! I have heard this route (without the direct start) described as a good 5.8 route for the solid 5.9 leader, and I'd agree.<br>
+<br>
+The route sucks up gear, and nearly all of the moves can be well protected. <br>
+<br>
+The face looks butt ugly and dirty in the shade, but in the sun it looks glorious. Apart from the occasional friable rock and some loose bits on the ledges in the middle pitches, the rock was very solid. The route was far cleaner and more solid than any of the aretes Temple Crag, at least!
+</div> 
+id: t11498n 
+name: Direct SE Face of Clyde Minaret (IV, 5.9+) 
+url: http://www.supertopo.com/tr/Direct-SE-Face-of-Clyde-Minaret-IV-5-9/t11498n.html 
+

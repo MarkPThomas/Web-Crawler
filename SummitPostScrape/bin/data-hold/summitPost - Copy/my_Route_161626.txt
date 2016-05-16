@@ -1,0 +1,52 @@
+activities:  
+content: <article>
+            <p></p>
+<a name="chapter_1"></a><h2 id="first_h2">Approach</h2>
+<br>
+Park at the near end (i.e. west end) of the Brighton ski resort parking lot. From here, follow the dirt road that begins underneath one of the ski lifts - of course if its winter and you're lazy, you can always ride the Millicent ski lift for a shortcut :-o<br>
+<a name="chapter_2"></a><h2>Route Description</h2>
+<br>
+<font color="blue"><b>Twin Lakes TH</b></font><br>
+<b>Total Distance:</b> 2.5 mi<br>
+<b>Total Elevation Gain:</b> 2065'<br>
+<br>
+Follow the dirt road as it switchbacks up the hill towards the Twin Lakes Reservoir. Follow a road that winds to the left of the dam. This road switchbacks up the left side of the reservoir until the highest ski lift exit is reached. From here the route is straightforward - just start scrambling up the ridge! It is a boulder-hop on fairly stable large talus blocks.<br>
+From the summit of Mt Millicent, continue SE along the ridgeline. Initially you will be scrambling on the right side of the ridge. As the route steepens, scramble to the left side of the ridge to avoid vegetation and steeper talus. Once you reach the saddle, simply take the path of least resistance across the rocky meadows to the summit of Mount Wolverine, keeping in mind that it is to the right.<br>
+<br>
+ <br>
+<br>
+<p></p>
+<table class="inline_image_thumbs"><tr><td><a href="/view_object.php?object_id=80844" rel="no_follow"><img src="/images/thumb/80844.jpg"></a></td></tr></table>
+<a name="chapter_3"></a><h2>Essential Gear</h2>
+<br>
+Bring the 10 Essentials. For winter climbs, bring an avy beacon and snowshoes or skis. An ice axe may be desireable for spring snow conditions.<br>
+<a name="chapter_4"></a><h2>Miscellaneous Info</h2>
+<br>
+If you have information about this route that doesn't pertain to any of the other sections, please add it here.<br>
+<a name="chapter_5"></a><h2>Images</h2>
+<div align="center"><table id="my_images"><tr>
+<td><a href="/honeycomb-cliffs/300194/c-161626"><img alt="Honeycomb Cliffs" src="/images/square/300194.JPG"></a></td>
+<td><a href="/sunrise-over-scott-hill/300192/c-161626"><img alt="Sunrise over Scott Hill" src="/images/square/300192.JPG"></a></td>
+<td><a href="/mount-tuscarora-left-and/80844/c-161626"><img alt="Mount Tuscarora (left) and..." src="/images/square/80844.jpg"></a></td>
+<td><a href="/the-ridge-connecting-millicent-with-wolverine/300193/c-161626"><img alt="The ridge connecting Millicent with Wolverine" src="/images/square/300193.JPG"></a></td>
+</tr></table></div>
+            </article> 
+date:  
+difficulty: Class 2 Walk-up 
+elevation:  
+grade:  
+id: 161626 
+latitude: 40.5851 
+location: Utah, United States, North America 
+longitude: -111.6011 
+my_route_quality:  
+name: via Mount Millicent 
+number_of_pitches:  
+page_url: http://www.summitpost.org/via-mount-millicent/161626 
+rock_difficulty:  
+route_quality: 1.0 
+route_type: Scramble/Basic Snow 
+seasons:  
+time_required: Half a day 
+type: Route 
+
