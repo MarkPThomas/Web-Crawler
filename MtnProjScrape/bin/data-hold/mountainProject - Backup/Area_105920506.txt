@@ -1,0 +1,10 @@
+area_name: The Pickle Rock Climbing  
+area_url: /v/the-pickle/105920506 
+description: The pickle is the small tower perched above the road on your right immediately after you turn off of 191 into Arches NP. (before you go through the toll booth).   It was first climbed by Cameron Burns, Benny Bach, and Mr. Ethan Putterman himself. Well, that's not entirely true. The story goes that Putterman had a problem with his jumars and couldn't continue.  Burns and Bach continued to the top and carried one of Putterman's shoes with them for a symbolic summit. In any event, this was the beginning of the era of the Putternan names that we now see all over the desert. 
+getting_there: SEE ACCESS NOTE ABOVE. 
+id: 105920506 
+latitude:  
+longitude:  
+parent_name: Arches National Park 
+parent_url: /v/arches-national-park/105716757 
+

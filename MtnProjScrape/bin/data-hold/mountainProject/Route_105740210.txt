@@ -1,0 +1,11 @@
+id: 105740210 
+parent_name: Narcolepsy Area 
+parent_url: /v/narcolepsy-area/105739449 
+route_description: This climbs the right crack in the chimney on the cliffs just below Narcolepsy.  Don't chimney, also don't fall too far backwards.  A good climb with a few nice jams.   
+route_name: Don't Jump Back Crack  
+route_quality: 0.5 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9+ 
+route_type: Trad, TR, 1 pitch, 50' 
+route_url: /v/dont-jump-back-crack/105740210 
+

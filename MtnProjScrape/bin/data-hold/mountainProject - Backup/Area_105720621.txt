@@ -1,0 +1,10 @@
+area_name: Quail Springs Area Rock Climbing  
+area_url: /v/quail-springs-area/105720621 
+description: The Quail Springs Day Use Area is the first major landmark on your right if you are driving in from the West Entrance of the Park (i.e., the town of Joshua Tree).  There is a paved parking area, restroom, etc.  The main attraction here is Trashcan Rock, which hosts a high concentration of easier routes (5.0 - 5.6), a few moderates (5.7 - 5.9), and a few harder routes (5.10 - 5.11).  Several routes warrant an 'R' or 'X' rating, and as such there are usually quite a few topropes.  Not many of the climbs are all that great, but it is popular nonetheless.  In addition to Trashcan Rock, use the parking area to access Baskerville Rock, Hound Rock, and the White Cliffs of Dover.  Be sure to check out Right Baskerville Crack (5.10a) on Baskerville Rock as well as Popular Mechanics (5.9) and Ace of Spades (5.9) on White Cliffs of Dover.   
+getting_there: The Quail Springs Day Use Area is the first major landmark on your right if you are driving in from the West Entrance of the Park (i.e., the town of Joshua Tree).  It is about 6 miles from the West Entrance kiosk and is signed.   
+id: 105720621 
+latitude: 34.0402 
+longitude:  -116.1976  
+parent_name: Joshua Tree National Park 
+parent_url: /v/joshua-tree-national-park/105720495 
+

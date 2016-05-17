@@ -1,0 +1,10 @@
+area_name: The Priest Rock Climbing  
+area_url: /v/the-priest/105716853 
+description: The Priest is the free standing tower next to the Rectory on the side opposite from Castleton.  From many perspectives, its odd geometry certainly looks like a priest, and you may wish you have one present if you aren't solid on offwidths.  This is my favorite tower in Castle Valley, and the summit is absolutely spectacular.  Honeymoon Chimney is the route to do, and a great alternative if Castleton is crowded.  The bottom part stays in the shade, so make sure you do this on a warm day. 
+getting_there: Hike up the Castleton trail, but instead of going up traverse along the very cool narrow ridge to the base of the Rectory.  Walk along the base of the Rectory on its left side to the base of the Priest. 
+id: 105716853 
+latitude: 38.6588 
+longitude:  -109.3691  
+parent_name: Castle Valley 
+parent_url: /v/castle-valley/105716784 
+

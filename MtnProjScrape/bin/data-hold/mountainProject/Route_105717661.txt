@@ -1,0 +1,11 @@
+id: 105717661 
+parent_name: Donnelly Canyon 
+parent_url: /v/donnelly-canyon/105716880 
+route_description: This route is just right of Chocolate Corner.  Go up a widening and sometimes awkward crack to ledge with anchors, about 70 feet.  Save a few small cams for the end. I think there are upper pitches too, but I didn't do them. 
+route_name: Elephant Man  
+route_quality: 0.6 
+route_rating:  YDS: 5.10- 
+route_rating_original: YDS: 5.10- 
+route_type: Trad, 1 pitch, 80' 
+route_url: /v/elephant-man/105717661 
+

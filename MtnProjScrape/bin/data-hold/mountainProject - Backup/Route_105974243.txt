@@ -1,0 +1,11 @@
+id: 105974243 
+parent_name: 22 - Five and Dime Cliff 
+parent_url: /v/22---five-and-dime-cliff/105870687 
+route_description: This is an exceptional moderate route located on the five and dime cliff.  This is the 3rd bolted route once you turn the corner coming down the hill.  Once you clip the 5th bolt you have to turn to your left and come over a small bulge to get the 6th bolt.  I felt that after the second bolt the climbing was pretty consistent difficulty wise and the climb was just pure fun.  I did not expect to find such a well bolted fun moderate sport route in the valley, kudos to the FA party on this gem.   
+route_name: Mockery  
+route_quality: 0.725 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Sport, 1 pitch, 70' 
+route_url: /v/mockery/105974243 
+

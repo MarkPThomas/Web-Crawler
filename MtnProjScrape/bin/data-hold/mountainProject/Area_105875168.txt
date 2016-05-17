@@ -1,0 +1,10 @@
+area_name: Northwest Face Rock Climbing  
+area_url: /v/northwest-face/105875168 
+description: This is the big face on the Northwest side. Crying Time Again, "Big Boys Don't Cry" and "Direct Northwest" Face are a few of the good routes here. 
+getting_there: From the parking lot, go up slabs then left along the base. For complete information, get "Rock Climbing Tuolumne Meadows" by Don Reid and Chris Falkenstein 
+id: 105875168 
+latitude: 37.88205 
+longitude:  -119.35019  
+parent_name: Lembert Dome 
+parent_url: /v/lembert-dome/105875159 
+

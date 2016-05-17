@@ -1,0 +1,10 @@
+area_name: Big Cottonwood Canyon Rock Climbing  
+area_url: /v/big-cottonwood-canyon/105739280 
+description: Of the two Cottonwood canyons, BCC is the lesser-known, despite its amazing climbing. There are hundreds of routes on dozens of crags scattered throughout the length and on either side of the canyon.  Climbing is primarily on quartzite, which tends to be slippery and hard; however, the quartzite also offers numerous holds jutting out at all angles. Because protection may be more difficult in quartzite than in the granite of LCC, BCC has more sport routes than LCC, but the majority of BCC routes are trad climbs.  Some of the picnic areas have entrance fees. 
+getting_there: Big Cottonwood Canyon climbs east out of Salt Lake City at about 7200 South.  From the north, take the I-215 loop to Exit 6, the 6200 South exit.  Head east on Hwy 190, following signs to the ski areas of BCC (Solitude and Brighton). Turn left on Fort Union Blvd, which heads up into the canyon.  From the west, 7200 South becomes Fort Union.  From the south, follow Wasatch Blvd and turn right on Fort Union. 
+id: 105739280 
+latitude: 40.6193 
+longitude:  -111.789  
+parent_name: Wasatch Range 
+parent_url: /v/wasatch-range/105739213 
+

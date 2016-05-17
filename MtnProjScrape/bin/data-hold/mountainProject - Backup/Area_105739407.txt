@@ -1,0 +1,10 @@
+area_name: The Dead Snag Rock Climbing  
+area_url: /v/the-dead-snag/105739407 
+description: With a short approach, long routes, and good rock this is a great area for beginning trad climbers, or a great place to just get out and cruise on a lazy day. 
+getting_there: Driving up Big Cottonwood Canyon you will come to the Storm Mountain Picnic Area (about 2.8 miles up canyon).  Parking is up to your personal preference, along the road, a pullout a bit further, the picnic area itself.  Either way, the formation is across the road from the Storm Mountain Picnic Area (on the south side of the canyon.)  Locate the Storm Mountain Trail, follow the trail southward, after 5 minutes of walking (approx.)you will see the Dead Snag crag to the west, drop down to the right, cross the creek and make your way to the base.  Total approach time is about 15 minutes tops.  Alternately, Park on the right across from Storm Mountain Picnic Area. Walk back down the canyon 100 yards or so until you pass a rocky gully/stream on your left (there is a culvert under the road). Just past the stream, scramble up the steep rock steps into the woods to a trail. Follow the trail for about 10 minutes (ignore side trails) until you reach the cliff base. Parallel the cliff (going climbers left/uphill) past a small clearing with signs of camp fires until you get to the base of the arete where Sterots' Ridge begins. 
+id: 105739407 
+latitude: 40.62082 
+longitude:  -111.74466  
+parent_name: Big Cottonwood Canyon 
+parent_url: /v/big-cottonwood-canyon/105739280 
+

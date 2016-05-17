@@ -1,0 +1,10 @@
+area_name: Ancient Art Rock Climbing  
+area_url: /v/ancient-art/105716859 
+description: This is definitely the most popular tower in the Fishers, and Stolen Chimney on the corkscrew summit is one of the most popular routes in the desert.  Rarely enough for the serious and scary Fishers, Stolen Chimney is a cruise that protects very well.  Ancient Art is a complicated formation with several major summits.  The corkscrew summit is the one reached 99% of the time, but the others appear to be good outings as well.  This is a great tower for the moderately experienced trad climber looking to experience what the Fisher Towers have to offer.  
+getting_there: Ancient Art is the multi-summited tower below the Kingfisher.  Walk along the good trail from the parking lot for about a mile until just past the tower.  Turn left onto a very good climber's trail that heads up the gully between Ancient Art and Cottontail Tower.  The trail is excellent all the way to the base of the tower-look sharp for cairns. 
+id: 105716859 
+latitude: 38.72161 
+longitude:  -109.30434  
+parent_name: Fisher Towers 
+parent_url: /v/fisher-towers/105716787 
+

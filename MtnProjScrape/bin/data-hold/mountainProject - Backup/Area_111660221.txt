@@ -1,0 +1,10 @@
+area_name: Audubon Buttress Rock Climbing  
+area_url: /v/audubon-buttress/111660221 
+description: A great winter climbing destination.  Dries quickly, because it gets direct sun all day.  Similar exposure to Reed's.  Very secluded and un-developed.  As said on Supertopo by The Warbler, "No bolts, no folks." 
+getting_there: The approach is around 1 1/2 hours.  It is quite pleasant hiking along the Old Big Oak Flat Road.  Park at the woodlot after El Cap meadow.  Follow the directions for Little Wing and then continue until you come to a large rock slide. (About 45 minutes) This is where the road used to switch-back to gain elevation.  You will not see the road, but look up the rock slide where you will see an old retaining wall.  Scramble up the boulders, until you are at the base of the wall.  Next traverse to the trees, where you will regain the road.  From here hike to Rainbow Point. There is an old railing and USGS plaque here. From Rainbow Point hike for about 7 minutes and then head straight up into the woods.  You can't see the cliff, because you are in the trees.  Head up steep slope for less than 5 minutes and you will begin to see the cliff. This will take you to the base of Duncan Imperial.  Head uphill to the left to reach Wild Turkey.   	  	              	      	  	    Rock slide where you traverse to re-gain road.    	   	  	              	      	  	    Robin and Erick at Rainbow Point   	 
+id: 111660221 
+latitude: 37.72564 
+longitude:  -119.66694  
+parent_name: Ribbon Falls Area 
+parent_url: /v/ribbon-falls-area/105875227 
+

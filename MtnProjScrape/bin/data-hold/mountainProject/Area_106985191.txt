@@ -1,0 +1,10 @@
+area_name: Mount Robson Provincial Park Rock Climbing  
+area_url: /v/mount-robson-provincial-park/106985191 
+description:  
+getting_there:  
+id: 106985191 
+latitude: 53.111 
+longitude:  -119.1495  
+parent_name: BC's Canadian Rockies 
+parent_url: /v/bcs-canadian-rockies/106984138 
+

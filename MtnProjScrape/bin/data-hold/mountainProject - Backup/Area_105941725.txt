@@ -1,0 +1,10 @@
+area_name: Jasper National Park Rock Climbing  
+area_url: /v/jasper-national-park/105941725 
+description: Jasper National Park is the largest National Park in the Canadaian Rockies.  Within its boundary lies most of the Columbia Icefields and many of the highest peaks in the Canadian Rockies, such as Columbia, Forbes, North and South Twin, and Alberta.  Mt Robson, the highest peak in the Canadian Rockies, is just off Jasper National Park toward the NW end (it is so important it is in its own Provincial Park).  In the summer huge campgrounds fill to capacity with everyone from RV cruisers to hikers, climbers, and bikers.  The town of Jasper is the hub of this region---it is quite a bit smaller and more remote feeling than Banff.  In the winter the place feels much more remote although still connected to Banff and Calgary by the Icefields Parkway.  In the winter the place is relatively empty aside for the lucky residents and the occasional visiting ice climbers. 
+getting_there: Driving or riding north from Banff along the Icefields Parkway is by far the most common way to reach Jasper National Park.  A National Park pass is relatively expensive, but gives you entrance into both Banff and Jasper National Parks.  If you are visiting during the summer for a week in a car this pass will cost you over $100. 
+id: 105941725 
+latitude: 52.8716 
+longitude:  -118.0811  
+parent_name: Alberta 
+parent_url: /v/alberta/105946432 
+

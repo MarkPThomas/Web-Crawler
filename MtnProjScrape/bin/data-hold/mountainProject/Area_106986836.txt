@@ -1,0 +1,10 @@
+area_name: Purcell Mountains Rock Climbing  
+area_url: /v/purcell-mountains/106986836 
+description:  
+getting_there:  
+id: 106986836 
+latitude: 50.1782 
+longitude:  -116.56316  
+parent_name: Columbia Mountains  
+parent_url: /v/columbia-mountains-/106984217 
+

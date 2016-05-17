@@ -1,0 +1,10 @@
+area_name: Howser Towers Rock Climbing  
+area_url: /v/howser-towers/105871722 
+description: The tallest of all the Bugaboo Spires the Howser Towers boast the biggest and some of the hardest climbs in the park.  The east and northeast faces contain more alpine mountaineering routes than pure rock routes and see little action.  The west face on the other hand challenges climbers with routes up to 3000' tall and as hard as 5.12, and or A4.  These towers can be a much more serious undertaking due to their longer approach, the size of the routes, elevation, exposure and bergshrunds.    For those planning to climb a few routes on the Howsers, the East Creek Basin Bivy site is a good option.  It is located just to the southwest of South Howser Tower giving close access to the South and Central Towers.    
+getting_there: There are three different approaches to the Howser Towers depending on where your trying to get to.  For the east and northeast faces approach via the Upper Vowel Glacier.  To get to the west face of the North Tower take the North Shoulder Col.  And for the west face of South and Central Towers use the East Creek approach. 
+id: 105871722 
+latitude: 50.73834 
+longitude:  -116.82624  
+parent_name: The Bugaboos 
+parent_url: /v/the-bugaboos/105868061 
+

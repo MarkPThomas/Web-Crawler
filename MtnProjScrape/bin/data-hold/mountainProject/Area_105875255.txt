@@ -1,0 +1,10 @@
+area_name: Cascade Falls - Left Rock Climbing  
+area_url: /v/cascade-falls---left/105875255 
+description: This area is on the west side of Cascade Creek. 
+getting_there: Park at the parking area at Cascade Bridge. Approaches are obvious. 
+id: 105875255 
+latitude:  
+longitude:  
+parent_name: 14 - Cascade Area 
+parent_url: /v/14---cascade-area/105875250 
+

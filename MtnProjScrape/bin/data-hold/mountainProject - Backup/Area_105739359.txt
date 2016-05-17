@@ -1,0 +1,10 @@
+area_name: Dogwood Crag Rock Climbing  
+area_url: /v/dogwood-crag/105739359 
+description: Great area for the beginners (5.5 to 5.9-) with a few challenging routes on the eastern wall (5.11a to 5.13a). Almost all if not all can be top roped.  There are 5 bolted routes on the western end of the wall; 5.8 being the easiest and getting harder as you go left or east. Also on this end there are 2 or 3 sets of chains to set up top ropes, the climbing is probably about 5.5 to 5.7.  There are some trees you can use as well for anchors, bring long runners.  The harder climbing is located about 200-300 yards upstream or east. The hardest of the bunch, a 5.13a, is the only bolted route on this end.  The crag stays in the shade most of the morning in the summer.  Oblique, aerial photo here. 
+getting_there: Drive about 1 mile up the canyon and you sill see the Dogwood picnic area on your right. You can either park in here for $5 dollars a car or if the stream is low enough you can drive another .15 up the canyon and park on the side of the road and just hop across the stream.   
+id: 105739359 
+latitude: 40.6238 
+longitude:  -111.7671  
+parent_name: Big Cottonwood Canyon 
+parent_url: /v/big-cottonwood-canyon/105739280 
+

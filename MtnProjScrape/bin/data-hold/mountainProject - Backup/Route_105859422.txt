@@ -1,0 +1,11 @@
+id: 105859422 
+parent_name: Daff Dome West Face 
+parent_url: /v/daff-dome-west-face/105859369 
+route_description: About 100 feet left of "Crescent Arch" is a this beautiful crack that extends almost unbroken for 400 feet. The crux is about 20 feet off the ground, protected by a bolt. The route is obvious.  Follow cairns to the back of the dome where you can descend via two bolted rap anchors. Single 50 meter rope gets you to the ground. If you leave packs at the base of the climb, hang them from a tree as marmots frequent the area. 
+route_name: West Crack  
+route_quality: 0.9 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 5 pitches 
+route_url: /v/west-crack/105859422 
+

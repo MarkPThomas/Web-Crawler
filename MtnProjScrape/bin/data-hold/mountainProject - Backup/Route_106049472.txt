@@ -1,0 +1,11 @@
+id: 106049472 
+parent_name: Camp 4 - Misc Problems 
+parent_url: /v/camp-4---misc-problems/109091256 
+route_description: This 11' OW roof crack to squeeze has lots of helper holds that make it much easier than it appears. The crux is probably the squeeze exit. Big folks will have problems here. Start 11' back under the roof at a blocky pod, get the feet over your head and move to a big, sharp, positive flake  type feature at the edge of the crack. Work out to the lip and squeeze through. The landing has been leveled and the one drawback is how close to the ground the crack is. 
+route_name: Manual Labor  
+route_quality: 0.5 
+route_rating:  Hueco: V0+ 
+route_rating_original: Hueco: V0+ 
+route_type: Boulder, 150' 
+route_url: /v/manual-labor/106049472 
+

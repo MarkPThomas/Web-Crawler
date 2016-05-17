@@ -1,0 +1,11 @@
+id: 105867008 
+parent_name: Five Open Books 
+parent_url: /v/five-open-books/105865908 
+route_description: This very popular route lies in the farthest left book.   The Reid guide shows it as three pitches, but it's great to do it in two with a 60 meter rope. There are three trees on the route. Climb to the third tree, make a hard left, 10' to the corner. There's a nice little ledge there where you can sit and belay. Another long pitch goes to the top.  Descend by walking off a long ways to the left. 
+route_name: Munginella  
+route_quality: 0.675 
+route_rating:  YDS: 5.6 
+route_rating_original: YDS: 5.6 
+route_type: Trad, 3 pitches, 300' 
+route_url: /v/munginella/105867008 
+

@@ -1,0 +1,11 @@
+id: 106007654 
+parent_name:  Warrior 1 
+parent_url: /v/-warrior-1/105879449 
+route_description: This is a bit of an adventure climb, I will describe it as best I recall, but we certainly followed our noses a bit.  Once in the Warrior I basin (a bit to the north/left of the peak), we scrambled up the grassy ledges rightward. Eventually, we were cliffed out and roped up:  P1 & P2: Follow chossy ramp system angling up and right (5.5ish maybe). We did this in 2 pitches, with a bit of simulclimbing, to a large ledge.  P3: The wall becomes more imposing and the route is not obvious here. The route is supposed to "use thin holds for 30 ft, then cross a slab to the left and climb a crack..." I climbed straight up into a dirty unprotected flake system (scary 10 and my second ripped off a nub and fell here), then traversed right on decent holds . There seemed to be other variations, either left or right of that line, presumably they are safer and a lot easier. There is an obvious niche about 120 ft up, that I did find without trouble.  P4. Out of the niche there are two obvious cracks, we went for the right of them, which wound up being wide and strenuous (9+). At the top, there was a good belay.  P5. The next pitch went up corner crack of a large block, to a nice landing area, which is tempting to belay on - but better to push on and extend the pitch, gaining the summit of the smaller pillar.  P6. The "solitary crack in the headwall" - this is the pitch you can fight over. 100 ft of 2 - 3" crack to a slab, at the top of which you can belay.   P7. We exited right, which was an awkward escape from the slab followed by a short step down, then 25 ft of ow/chimney. Then to the summit...  Descent was straight-forward, rapping down (2 ropes) to the climbers-left of the route.  
+route_name: Northeast Face of Warrior I  
+route_quality: 0.65 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, Alpine, 7 pitches, 1200',  Grade IV 
+route_url: /v/northeast-face-of-warrior-i/106007654 
+

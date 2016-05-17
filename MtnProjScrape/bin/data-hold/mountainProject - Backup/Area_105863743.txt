@@ -1,0 +1,10 @@
+area_name: 10 - The Cookie Cliff Rock Climbing  
+area_url: /v/10---the-cookie-cliff/105863743 
+description: The Cookie is a classic Yosemite crack area. It contains some of the world's best crack climbs. "Outer Limits", "Meat Grinder", "Red Zinger", "Butterfingers", "Wheat Thin", "Waverly Wafer" and "Crack-A-Go-Go" are a few of the classics found in this area. 
+getting_there: This cliff is about 1/2 mile down the canyon from the Cascade Creek bridge. Park in a pullout on the river side of the road. The approach is obvious. 
+id: 105863743 
+latitude: 37.7184 
+longitude:  -119.7187  
+parent_name: Lower Merced River Canyon 
+parent_url: /v/lower-merced-river-canyon/110464982 
+

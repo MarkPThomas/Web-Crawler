@@ -1,0 +1,10 @@
+area_name: Stuart-Enchantments Rock Climbing  
+area_url: /v/stuart-enchantments/110928184 
+description: This is the high-country area around Mt. Stuart and the Enchantment-Lakes region. The rock is granite, the setting alpine. 
+getting_there: Several approaches are possible. One follows Icicle Creek road to the Stuart Lake trailhead. Another way is by hiking the trail to Snow Creek Wall, and continuing up past Snow Lakes. Finally, one can approach from Cle Elum. 
+id: 110928184 
+latitude: 47.48743 
+longitude:  -120.85814  
+parent_name: Central-East Cascades, Wenatchee, & Leavenworth 
+parent_url: /v/central-east-cascades-wenatchee--leavenworth/108471397 
+

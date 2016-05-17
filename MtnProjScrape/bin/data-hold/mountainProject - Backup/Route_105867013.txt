@@ -1,0 +1,11 @@
+id: 105867013 
+parent_name: Five Open Books 
+parent_url: /v/five-open-books/105865908 
+route_description: This climb is in the next book right of "Munginella". Either climb a curving corner or a crack to the right to a belay. Climb unprotected face to the corner and continue to a tree. Continue up to a roof, traverse under it to it's end and follow the corner to the top. Descend to the left. be careful not to knock rocks off, onto climbers below. 
+route_name: Commitment  
+route_quality: 0.825 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 3 pitches 
+route_url: /v/commitment/105867013 
+

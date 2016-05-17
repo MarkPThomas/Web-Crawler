@@ -1,0 +1,11 @@
+id: 106971164 
+parent_name: Snowpatch Spire 
+parent_url: /v/snowpatch-spire/105868064 
+route_description: INTRODUCTION  I met Ted Davies in Yosemite in 1975. He had just climbed the Salathe Wall on El Cap.  His report was very positive about the quality of this line.  If he and his buds thought it was similar to the Steck-Salalthe, we can believe it. Ted Davies Pat Derouin, and Ian Rowe were among the top alpine climbers in British Colombia during the early seventies.    
+route_name: Bugaboo Corner  
+route_quality: 0.875 
+route_rating:  YDS: 5.9 C1 
+route_rating_original: YDS: 5.9 C1 
+route_type: Trad, Aid, Alpine, 17 pitches, 2000',  Grade V 
+route_url: /v/bugaboo-corner/106971164 
+

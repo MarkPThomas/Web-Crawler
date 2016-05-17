@@ -1,0 +1,11 @@
+id: 105717367 
+parent_name: Supercrack Buttress 
+parent_url: /v/supercrack-buttress/105716946 
+route_description: Route starts at the top of the trail from the parking lot to Supercrack Buttress.  Follows the obvious chalked hand crack in a corner through a large overhang.  Lieback up the corner to the roof.  Jam out the roof with perfect hands (crux) to a great rest at the end (#3 Camalot).  Finish up the corner to a bolt anchor at 95 feet.  It really is incredible!  Get there early because lines will form on the weekends. 
+route_name: Incredible Hand Crack  
+route_quality: 0.95 
+route_rating:  YDS: 5.10 
+route_rating_original: YDS: 5.10c 
+route_type: Trad, 1 pitch, 100' 
+route_url: /v/incredible-hand-crack/105717367 
+

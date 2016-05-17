@@ -1,0 +1,11 @@
+id: 105903295 
+parent_name: Medlicott Dome, Left 
+parent_url: /v/medlicott-dome-left/105903292 
+route_description: Find the HUGE chimney/corner. The second pitch holds the crux offwidth/weirdness. 3rd pitch (5.7) hands! If you have huge hands!  
+route_name: The Yawn  
+route_quality: 0.85 
+route_rating:  YDS: 5.9+ 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 4 pitches, 400' 
+route_url: /v/the-yawn/105903295 
+

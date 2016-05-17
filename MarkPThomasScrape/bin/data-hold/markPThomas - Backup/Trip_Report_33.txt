@@ -1,0 +1,2258 @@
+content: <div dir="ltr">
+<h1>
+<a name="TOC-Partying-Like-a-G6-on-the-East-Ridge-of-Carl-Heller-In-Winter-Style-"></a>Partying Like a G6 on the East Ridge of Carl Heller (In Winter Style)</h1>
+<h2>
+<a name="TOC-March-11-13-2011"></a>March 11-13, 2011</h2>
+<hr>
+<hr>
+<center>
+<table border="0" cellpadding="2" cellspacing="1">
+<tbody>
+<tr>
+<td width="40%">
+<ul>
+<li>
+<b><i>Route:</i></b> East Ridge (Ascent), SW Face (Descent)
+</li>
+<li>
+<b><i>Rating:</i></b> IV, 5.6 <i>(Our winter rating)</i> or Russian I, 4.11b
+</li>
+<li>
+<b><i>RT Totals:</i></b> 3 days (March 11-13), 12.53 mi, 8360 ft gained/lost
+<ul>
+<li>Day 1: 4.41 mi, 5140 ft gain, 8 hrs climbing w/ +50 lb packs
+</li>
+<li>Day 2: 1.17 mi, 2050 ft gain, 5.6, 60<sup>o</sup> snow, 16-17 hrs climbing, bivy @ ca. 13,100&acirc;&#128;&#153; 
+</li>
+<li>Day 3: 6.95 mi, 1170 ft gain, 8270 ft loss, 5.5, 45<sup>o</sup> snow, ca. 16 hrs climbing, +10 hrs driving :-()~#
+</li>
+</ul>
+</li>
+<li>
+<b><i>Trailhead:</i></b> George Creek
+</li>
+<li>
+<b><i>TH Elevation:</i></b> 6,360&acirc;&#128;&#153;
+</li>
+<li>
+<b><i>Summit Elev.:</i></b> 13,211&acirc;&#128;&#153;
+</li>
+<li>
+<b><i>Climbers:</i></b> <a href="http://www.summitpost.org/mountains/user_link.pl?user_id=13451">Mark Thomas</a>, <a href="http://www.summitpost.org/users/vitaliy-m/62684">Vitaliy Musiyenko</a>, Max Belyakov, <a href="http://www.summitpost.org/users/shane-r/59854">Shane Rathbun</a>, <a href="http://www.summitpost.org/users/kevin-trieu/22442">Kevin Trieu</a>
+</li>
+</ul>
+</td>
+<td>
+<center><a href="https://lh3.googleusercontent.com/-uPj_lutCM5Q/Tm-pHJq7GII/AAAAAAACSR4/qXzdu3ylDfg/s2000/2011-03-11%2520-%252021%2520-%2520Carl%2520Heller%2520at%2520Night.jpg"><img src="https://lh3.googleusercontent.com/-uPj_lutCM5Q/Tm-pHJq7GII/AAAAAAACSR4/qXzdu3ylDfg/s500/2011-03-11%2520-%252021%2520-%2520Carl%2520Heller%2520at%2520Night.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<hr>
+<hr>
+<h2>
+<a name="TOC-The-Finest-Scramble-in-the-Sierra"></a>The Finest Scramble in the Sierra</h2>
+<div class="sites-embed-align-center-wrapping-off"><div class="sites-embed-border-on sites-embed" style="width:800px;">
+<h4 class="sites-embed-title">Embedded KML Viewer</h4>
+<div class="sites-embed-content sites-embed-type-ggs-gadget"><iframe title="Embedded KML Viewer" width="800" height="600" scrolling="no" frameborder="0" id="2086748641" name="2086748641" allowtransparency="true" class="igm" src="//uuat453sa8i0kar27icosfsii7ium7mg-a-sites-opensocial.googleusercontent.com/gadgets/ifr?url=http://code.google.com/apis/kml/embed/embedkmlgadget.xml&amp;container=enterprise&amp;view=default&amp;lang=en&amp;country=ALL&amp;sanitize=0&amp;v=a472d3058e69c7a8&amp;libs=core&amp;mid=138&amp;parent=http://www.markpthomas.com/mountaineering/trip-reports/california/2011-03-13-carlheller#up_earth_show_terrain=true&amp;up_kml_url=https://docs.google.com/uc?id%3D0B2cQbm09AyrwNjAzOTM4ZDYtM2VkNS00Y2RkLTljYmMtMjM1YTFiNzliMDBk%26export%3Ddownload%26hl%3Den&amp;up_earth_show_buildings=true&amp;up_earth_show_roads=true&amp;up_earth_sphere=earth&amp;up_maps_default_type=map&amp;up_view_mode=earth&amp;up_earth_show_nav_controls=true&amp;up_earth_fly_from_space=true&amp;up_earth_show_borders=true&amp;up_maps_zoom_out=false&amp;up_earth_2d_fallback=false&amp;st=e%3DAIHE3cAQJR22OEIYPBoXfmfnL00JzGUhKT%252FvhzMauFspJvBvyFF1Sj9DxW6%252FqDkrIgLLdfjruPunGz6fW%252BJE3Wm9ZrENPVmxOpoA3ZXZAjITPJYz599xxKpZz9X4GkTuNN1J7NKbPg7Z%26c%3Denterprise&amp;rpctoken=5155002820689704148"></iframe></div>
+</div></div>
+<br>
+<b>A diamond in the rough</b> &acirc;&#128;&#147; that is how I would describe Carl Heller and its East Ridge. 
+<br>
+<br>
+
+It is surrounded by 14ers and has too little prominence to make it visible except from a few select locations, and it is located along one of the more remote stretches of the Sierra Crest. It isn't even an officially named peak or on the SPS list. Yet it is a beautiful peak with an incredibly symmetric east ridge that is often touted by veterans of the Sierra as one of the finest scrambles in the range. The route is like the East Ridge of Mount Russell, but on steroids &acirc;&#128;&#147; and the people who climb it are like other climbers who frequent the area, but on crack. It is extremely knife edged with sustained and exposed class 3 friction and crack climbing interrupted by occasional class 4 obstacles. (<a href="http://www.climber.org/Secor/heller.html">Some people</a> insist that some of the moves approach mid-5th in difficulty). Technically the route is only class 3-4, but in winter conditions I found the route to be far harder and scarier than the 5.5 East Ridge of Mt Humphreys that I had climbed a month earlier. In fact the crux pitch was the scariest pitch I have climbed to date!
+<br>
+<br>
+
+The East Ridge is also listed as one of the 100 Classic Climbs of the High Sierra, yet few people have climbed this route. Why?  The route isn&acirc;&#128;&#153;t done that often due to the difficulty in even reaching the peak. It is situated on a remote section of the Sierra Crest between Mount Russell and Mount Williamson and is most easily approached via two ways, both of which require extensive cross country travel and over 5,000 ft of gain to reach the base of the East Ridge: 
+
+<ol>
+<li>Starting from Whitney Portal, leave the trail at the Boy Scout Lakes and climb Cleaver or Carillon Pass, drop down to Tulainyo Lake, climb Vacation Pass, and drop down to reach the route. Then you have climb back through Cleaver or Carillon Pass to get back out. 
+</li>
+<li>Joyous George Creek Approach from 6,500&acirc;&#128;&#153;. The first couple of miles are generally &acirc;&#128;&#152;unpleasant&acirc;&#128;&#152; due to a little bit of bushwacking. ;-)  4WD high clearance vehicles are helpful for making it all the way to the TH.
+</li>
+</ol>
+
+The final (and most critical) obstacle for reaching the peak (for those who are law-abiding) is the Bighorn Sheep Closure. This closure banned access to the area for all of the year except the short windows of December 15-31 and April 15-May15. Until this year!
+<div>
+<br>
+&Acirc;&nbsp;
+
+
+<h2>
+<a name="TOC-Is-the-Finest-Scramble-Even-Better-in-Winter-"></a>Is the Finest Scramble Even Better in Winter?</h2>
+
+The idea of the winter climb took place way back in May 7 of 2006 when I joined Bob Burd on my first trip up George Creek. Although I climbed other peaks that day and never saw Carl Heller Peak, it was on that trip that Bob backed off on doing the route after seeing that it was covered in snow, but not without taking an inspirational photograph of the snow covered ridge. 
+<br>
+<br>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="http://www.snwburd.com/bob/trip_photos/tunnabora_1/reg/tunnabora.jpg"><img height="300" src="http://www.snwburd.com/bob/trip_photos/tunnabora_1/reg/tunnabora.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>My inspiration for the climb&Acirc;&nbsp;</i></b></center>
+<center><b><i>(Photo by Bob Burd)</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh5.googleusercontent.com/-YKQQsikiBHY/Tm-pxrm7GmI/AAAAAAACSVQ/MKnhthEdIAA/s2000/Mt%2520Carl%2520Heller-from%2520John%2520Moynier-citation.jpg"><img src="https://lh5.googleusercontent.com/-YKQQsikiBHY/Tm-pxrm7GmI/AAAAAAACSVQ/MKnhthEdIAA/s300/Mt%2520Carl%2520Heller-from%2520John%2520Moynier-citation.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+<td>
+<center><a href="https://lh3.googleusercontent.com/-5C4JnxKY7YA/Tm-pydiipcI/AAAAAAACs_Y/2lxf7yeqXRU/s2000/Mt%2520Carl%2520Heller-from%2520John%2520Moynier-citation-annotation.jpg"><img src="https://lh3.googleusercontent.com/-5C4JnxKY7YA/Tm-pydiipcI/AAAAAAACs_Y/2lxf7yeqXRU/s300/Mt%2520Carl%2520Heller-from%2520John%2520Moynier-citation-annotation.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b>The beautifully symmetric East Ridge of Carl Heller.</b></center>
+</td>
+<td>
+<center><b>With annotations by me.</b></center>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<center><b><i>Photographed &amp; shared with permission by John Moynier</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<div>
+<br>
+</div>
+
+
+I was strongly taken by the image &acirc;&#128;&#147; an incredible knife-edged ridgeline that jutted up out of the cirque like a rock palisade emanating from the peak, with snow cover that made the peak look like it belonged in a range greater than the Sierra. From above the symmetry of the ridge is eye catching.
+<br>
+<br>
+
+After researching the route more I learned that it would be a significant winter mountaineering objective, with a climbing rating that would become much harder in winter conditions. I was especially concerned about crossing some of the snow covered slabs, as well as the steepness and slope stability of the final couloir climb to exit the route. These difficulties and the great amount of unknowns for them scared me, but they also attracted me. I worked my way up to the route demands with other winter ascents, found the right climbers to partner up with for the route, and carefully watched for the conditions to become good and safe.</div>
+<div>
+<br>
+&Acirc;&nbsp;
+
+
+
+<h2>
+<a name="TOC-Friday-March-11"></a>Friday, March 11</h2>
+<i>Note: Perspectives from others are combined in this report. Direct quotes from Vitaliy are in green font.</i>
+<h3>
+<a name="TOC-Pack-Weighing-Competition"></a>Pack Weighing Competition</h3>
+As with any winter climb in the Sierra, the first crux for those coming from the Bay Area is the drive, which is usually about a 9-10 hour affair each way &acirc;&#128;&#147; and worse if it is snowing in the mountains. Vitaly, Max, and I met Shane (from Redding) in Sacramento after work Thursday night and the four of us drove through Tahoe and down the 395 to the Owens Valley.  
+<br>
+<br>
+<a href="http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Oakland,+ca&amp;daddr=38.87423,-120.00554+to:36.7336001,-118.2609237+to:Unknown+road&amp;hl=en&amp;geocode=FUzZQAIddkq2-CkD7aooi32FgDFnk3U11RW0cQ%3BFXYsUQIdXNzY-Ckl4OS0cY6ZgDE0EslYPJGmBw%3BFaCCMAIdRXvz-Ckjw2viBJW_gDGx47Sbc4ef6g%3BFdY5LwId2t7z-A&amp;mra=dpe&amp;mrsp=1&amp;sz=7&amp;via=1,2&amp;sll=37.68382,-119.135742&amp;sspn=5.042175,9.876709&amp;ie=UTF8&amp;ll=36.649691,-118.23555&amp;spn=0.319519,0.617294&amp;t=h&amp;z=11"><b>(Winter Driving Route from the Bay Area)</b></a> <i>(keep in mind this doesn't factor in Bay Area &amp; Sacramento traffic, Tahoe ski traffic, or how much the winding roads force one to slow down)</i><br>
+<br>
+<center>
+<div align="center">
+<br>
+<center><div class="sites-embed-align-center-wrapping-off"><div class="sites-embed-border-off sites-embed" style="width:800px;"><div class="sites-embed-content sites-embed-type-ggs-gadget"><iframe title="Include gadget (iframe)" width="800" height="450" scrolling="no" frameborder="0" id="1966669000" name="1966669000" allowtransparency="true" class="igm" src="//mj89sp3sau2k7lj1eg3k40hkeppguj6j-a-sites-opensocial.googleusercontent.com/gadgets/ifr?url=http://www.gstatic.com/sites-gadgets/iframe/iframe.xml&amp;container=enterprise&amp;view=default&amp;lang=en&amp;country=ALL&amp;sanitize=0&amp;v=1cbf636963b6b8f8&amp;libs=core&amp;mid=199&amp;parent=http://www.markpthomas.com/mountaineering/trip-reports/california/2011-03-13-carlheller#up_scroll=auto&amp;up_iframeURL=http://player.vimeo.com/video/21404582?title%3D0%26byline%3D0%26portrait%3D0%26color%3Dff9933&amp;st=e%3DAIHE3cCVKIMdjHrK9R2B1xXD5j5ecusPOQSdD%252FBO16A1y4kKjyi4rmFSRiyIGbSOjDYMFEHKU3VzDpcU%252FAd4HDj3IGqXm1p1yqvRG5XCMm7MSVy%252BAD7sZHpDyMYy%252Bb15FqZZX5QW9wY9%26c%3Denterprise&amp;rpctoken=-8037621841555799265"></iframe></div></div></div></center>
+<br>
+<br>
+<b>Driving To The Trail Head</b><br>
+</div>
+</center>
+<br>
+<br>
+
+Friday we finished the drive and met Kevin on the dirt road approach just outside of Independence. With our high clearance 4WD vehicles we were able to make it all the way to the trailhead at 6,500&acirc;&#128;&#153;.
+<br>
+<br>
+
+Max and Kevin would climb as one team and Shane, Vitaliy, and I would climb as another.  By 9:30 we were assembled with our gear and teams and ready to go, but not without first having the pack weighing competition. 
+<br>
+<br>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<u><b><i>The results were as follows:</i></b></u>
+<ul>
+<li>Kevin &acirc;&#128;&#147; 47.7 lb  <b><i>Ultralight Champion</i></b>
+</li>
+<li>Shane &acirc;&#128;&#147; 48.1 lb
+</li>
+<li>Vitaliy &acirc;&#128;&#147; 52.5 lb
+</li>
+<li>Max &acirc;&#128;&#147; 55.3 lb
+</li>
+<li>Mark &acirc;&#128;&#147; 67.1 lb <b><i>Does this mean I win or lose?</i></b>
+</li>
+</ul>
+</td>
+<td>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh6.googleusercontent.com/-gawktTj_6jg/Tm-pnvQ0IXI/AAAAAAACSN0/37MMgtcV71Q/s2000/002-Max-1-199909_1667224048698_1480207555_31602206_7196869_n.jpg"><img src="https://lh6.googleusercontent.com/-gawktTj_6jg/Tm-pnvQ0IXI/AAAAAAACSN0/37MMgtcV71Q/s300/002-Max-1-199909_1667224048698_1480207555_31602206_7196869_n.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>The G6 Team Ready to Head Out (Our 6th Member Couldn't Make It)</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<br>
+<h3>
+<a name="TOC-Winter-George-Creek-Approach"></a>Winter George Creek Approach</h3>
+Vitaliy describes the summer George Creek approach as:</div>
+<div>
+<br>
+<i><font color="Green">&acirc;&#128;&#156;A 'trail' that RJ Secor described as "one of the classic bushwhacks of the High Sierra.&acirc;&#128;&#157; It involves staying on a phantom trail that leads through brush, thorns, rotten logs, for most part it disappears all together, possesses several unstable creek crossings, and large tree branches which force hikers into obscene positions when they attempt to pass through.  It is said one has to wait a few years to come back to this nightmare trail-head due to the suffering it puts one through, but I was back after 10 months.&acirc;&#128;&#157;</font></i>
+<br>
+<br>
+
+So off we went into the brush, at first cruising and giggling, and soon enough, thrashing and cursing. Still, the lower section wasn&acirc;&#128;&#153;t too bad, and having 6-time George Creek veteran Kevin along really helped smooth the routefinding process. Shane even began mocking the difficulty of the supposedly notorious bushwack.
+<br>
+<br>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh4.googleusercontent.com/-0bQk1Lj27VU/Tm-o6nnabtI/AAAAAAACSN4/OXwradXhwmM/s2000/003-Shane-2-IMG_1738.JPG"><img src="https://lh4.googleusercontent.com/-0bQk1Lj27VU/Tm-o6nnabtI/AAAAAAACSN4/OXwradXhwmM/s260/003-Shane-2-IMG_1738.JPG" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Not so bad yet</i></b></center>
+<center><b><i>(Photo by Shane)</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh4.googleusercontent.com/-glFJe9cNdt4/Tm-o7WFvTUI/AAAAAAACSN8/gFaCxr6QZmM/s2000/004-Shane-3-IMG_1744.JPG"><img src="https://lh4.googleusercontent.com/-glFJe9cNdt4/Tm-o7WFvTUI/AAAAAAACSN8/gFaCxr6QZmM/s260/004-Shane-3-IMG_1744.JPG" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Still Pretty Chill</i></b></center>
+<center><b><i>(Photo by Shane)</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh3.googleusercontent.com/-Rnc8Mdxy2D4/Tm-o7znASKI/AAAAAAACSOE/FqGxFmQhXbk/s2000/005-Shane-4-IMG_1745.JPG"><img src="https://lh3.googleusercontent.com/-Rnc8Mdxy2D4/Tm-o7znASKI/AAAAAAACSOE/FqGxFmQhXbk/s260/005-Shane-4-IMG_1745.JPG" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>The snow begins
+<br>
+(Photo by Shane)</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<br>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center>
+</center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b>The G6 Team Emerging From George Creek</b></center>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="sites-embed-align-center-wrapping-off"><div class="sites-embed-border-off sites-embed" style="width:800px;"><div class="sites-embed-content sites-embed-type-ggs-gadget"><iframe title="Include gadget (iframe)" width="800" height="450" scrolling="no" frameborder="0" id="1001912664" name="1001912664" allowtransparency="true" class="igm" src="//mj89sp3sau2k7lj1eg3k40hkeppguj6j-a-sites-opensocial.googleusercontent.com/gadgets/ifr?url=http://www.gstatic.com/sites-gadgets/iframe/iframe.xml&amp;container=enterprise&amp;view=default&amp;lang=en&amp;country=ALL&amp;sanitize=0&amp;v=1cbf636963b6b8f8&amp;libs=core&amp;mid=236&amp;parent=http://www.markpthomas.com/mountaineering/trip-reports/california/2011-03-13-carlheller#up_scroll=auto&amp;up_iframeURL=http://player.vimeo.com/video/21396668?title%3D0%26byline%3D0%26portrait%3D0%26color%3Dc9ff23&amp;st=e%3DAIHE3cBN44QRWoj6BN1vxrP0UjvmJXdwfhByjipTTq0%252Ff0XjB8dW5FpOKw8CbCjYfZZsudw%252Fd0eQv7%252FpVCz60Ngj75xzgaE8CWKRBVZQ7Xy379kGmYHJPMud6CIpa7dFvIiFVAKXKZLd%26c%3Denterprise&amp;rpctoken=3566831890462406751"></iframe></div></div></div>
+</center>
+<br>
+
+
+Then we reached the snowy sections. The creek crossings became much more difficult, and once the snow got deep enough to get out the snowshoes, things got really bad. It is really tricky crossing a thickly wooded creek with deep unconsolidated snow on both sides with snowshoes on while wearing a large, heavy pack. Each crossing became more annoying than the last. At last we began reaching the clearings and we expected to start making better time, but George Creek wasn&acirc;&#128;&#153;t done with us yet. Things got really bad when we discovered that the snow cover was just deep enough to cover bushes, deadfall, and talus boulders under a smooth sheen of white, but unconsolidated enough to allow us to punch through the snow to the waist in the many moats waiting for us as booby traps. 
+<br>
+<br>
+
+The snowshoes did nothing to limit the postholing as far as I could tell, except that when one leg went all way in to the crotch, it was actually possible to get back up on the snow surface despite the heavy pack trying to hold you down. Whenever I could find a log, buried or exposed, I tried to walk along it in my snowshoes to stay off of the death snow. All of the postholing in the sun and soft snow got our boots drenched &acirc;&#128;&#147; never a good thing to have happen on approach day.
+<br>
+<br>
+
+Our pace slowed to a crawl and our morale dropped. Luckily our mood was lifted when Shane punched through one seemingly benign patch of snow and got his snowshoe stuck underneath a hidden log. He struggled and struggled. He began cursing, but this didn&acirc;&#128;&#153;t help him in the slightest. He attempted to dig himself out enough to take off his snowshoe, but to no avail. Much laughter and video-taking ensued by the rest of us as Shane threw snowballs in retaliation.
+<br>
+<br>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh3.googleusercontent.com/-J-bWwSuAVyc/Tm-pmXGOlBI/AAAAAAACs-Y/gcP9DOFVO-0/s2000/006-Shane-Taunt-byVitaliy.jpg"><img src="https://lh3.googleusercontent.com/-J-bWwSuAVyc/Tm-pmXGOlBI/AAAAAAACs-Y/gcP9DOFVO-0/s400/006-Shane-Taunt-byVitaliy.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b>Shane mocking George Creek
+<br>
+<i>Photo by Vitaliy</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh6.googleusercontent.com/-Ch2SijEBdkI/Tm-pltWkevI/AAAAAAACs-g/2j0DYdpQdZ0/s2000/007-Shane-Posthole-byMax.jpg"><img src="https://lh6.googleusercontent.com/-Ch2SijEBdkI/Tm-pltWkevI/AAAAAAACs-g/2j0DYdpQdZ0/s400/007-Shane-Posthole-byMax.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b>George Creek mocking Shane
+<br>
+<i>Photo by Max</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<br>
+<br>
+<br>
+<center>
+<div align="center">
+<br>
+<div class="sites-embed-align-center-wrapping-off"><div class="sites-embed-border-off sites-embed" style="width:800px;"><div class="sites-embed-content sites-embed-type-ggs-gadget"><iframe title="Include gadget (iframe)" width="800" height="450" scrolling="no" frameborder="0" id="1348503846" name="1348503846" allowtransparency="true" class="igm" src="//mj89sp3sau2k7lj1eg3k40hkeppguj6j-a-sites-opensocial.googleusercontent.com/gadgets/ifr?url=http://www.gstatic.com/sites-gadgets/iframe/iframe.xml&amp;container=enterprise&amp;view=default&amp;lang=en&amp;country=ALL&amp;sanitize=0&amp;v=1cbf636963b6b8f8&amp;libs=core&amp;mid=27&amp;parent=http://www.markpthomas.com/mountaineering/trip-reports/california/2011-03-13-carlheller#up_scroll=auto&amp;up_iframeURL=http://player.vimeo.com/video/21334253?title%3D0%26byline%3D0%26portrait%3D0%26color%3Dff0179&amp;st=e%3DAIHE3cCEHOTHC%252F5PffaIMXc4roShO8PwyJ3Zo4iFlf%252Banas4eniUkaDh4gdni1x1QP2By%252Fes6o%252B0vAv%252FtxThFfVYBrl6orDNQQZO5gezUGs1pGCa8U0PM%252Bq5DchYICdqUGSbiY5UoMMS%26c%3Denterprise&amp;rpctoken=8315269519307010859"></iframe></div></div></div>
+<br>
+<br>
+<b>Mark mocking Shane</b><br>
+</div>
+</center>
+<br>
+<br>
+<h3>
+<a name="TOC-Escaping-George-Creek"></a>Escaping George Creek</h3>
+
+After some climbing up and down on the side slopes to get around obstacles, the snow got deeper and we started making better time. Still, we had climbed only 1,500 over the first 3 hours and but this time it had taken us over 4 hours to do the first 2.4 miles of George Creek, and we had only ascended about 2,000 ft. We were only halfway to camp by mileage, and we still had 3,000 ft to climb!
+<br>
+<br>
+
+Fortunately from here on the going was straightforward. I turned on my I-Pod and charged up the hill, taking turns breaking trail with Kevin as we tried to make up for lost time. We really needed to reach our planned campsite so that we&acirc;&#128;&#153;d be properly positioned for the climb the next day, and we really needed to get there before sunset to preview the route. Plus, setting up camp and melting water on winter climbs is always easier before the sun goes down. 
+<br>
+<br>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh5.googleusercontent.com/-Jpjhf8rJTwM/Tm-psVm0XTI/AAAAAAACSOY/tzlEX3mvVUQ/s2000/008-Vitaliy-2-198309_10150116008412270_515072269_6166576_5869085_n.jpg"><img src="https://lh5.googleusercontent.com/-Jpjhf8rJTwM/Tm-psVm0XTI/AAAAAAACSOY/tzlEX3mvVUQ/s200/008-Vitaliy-2-198309_10150116008412270_515072269_6166576_5869085_n.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Snowshoeing up through some cool little canyons
+(Photo by Vitaliy)</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh5.googleusercontent.com/-EkfaOaKkf3Q/Tm-o9W4o_eI/AAAAAAACSQg/1skN9WzVc9c/s2000/2011-03-11%2520-%252004%2520-%2520Approaching%2520Camp.jpg"><img src="https://lh5.googleusercontent.com/-EkfaOaKkf3Q/Tm-o9W4o_eI/AAAAAAACSQg/1skN9WzVc9c/s200/2011-03-11%2520-%252004%2520-%2520Approaching%2520Camp.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Ascending below Tunnabora</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh4.googleusercontent.com/-VLXCjcrYDYU/Tm-o95DlX3I/AAAAAAACSQo/yYeAO7uUPL4/s2000/2011-03-11%2520-%252006%2520-%2520Looking%2520down%2520George%2520Creek.jpg"><img src="https://lh4.googleusercontent.com/-VLXCjcrYDYU/Tm-o95DlX3I/AAAAAAACSQo/yYeAO7uUPL4/s200/2011-03-11%2520-%252006%2520-%2520Looking%2520down%2520George%2520Creek.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Looking back towards Williamson</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh6.googleusercontent.com/-9Wh2tawiGVg/Tm-pBQMlg1I/AAAAAAACSQ0/79x11B0q15k/s2000/2011-03-11%2520-%252008%2520-%2520Water%2520Ice%2520%2526%2520Chutes%2520on%2520N%2520Side%2520of%2520Canyon.jpg"><img src="https://lh6.googleusercontent.com/-9Wh2tawiGVg/Tm-pBQMlg1I/AAAAAAACSQ0/79x11B0q15k/s200/2011-03-11%2520-%252008%2520-%2520Water%2520Ice%2520%2526%2520Chutes%2520on%2520N%2520Side%2520of%2520Canyon.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Water ice columns! Is the approach worth it?</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<br>
+<br>
+ 
+
+We covered the last 3,000 ft in a little over 2 hours.  As we crested the headwall and reached out camp at 11,200&acirc;&#128;&#153;, Vitaliy admired the spectacular setting we had reached:
+<br>
+<br>
+<i><font color="green">&acirc;&#128;&#156;Carl Heller was towering above, furthermore our desires for an authentic winter climb prevailed- the Ar&Atilde;&ordf;te had more snow pack than in any photos we previously have seen!&acirc;&#128;&#157;</font></i>
+<br>
+<br>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh3.googleusercontent.com/-CgzROD0qbJw/Tm-o8oahQhI/AAAAAAACSQY/0eXomTfd3ks/s2000/2011-03-11%2520-%252003%2520-%2520Tunnabora%2520Buttresses.jpg"><img src="https://lh3.googleusercontent.com/-CgzROD0qbJw/Tm-o8oahQhI/AAAAAAACSQY/0eXomTfd3ks/s200/2011-03-11%2520-%252003%2520-%2520Tunnabora%2520Buttresses.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh5.googleusercontent.com/-InJNW1bYr5k/Tm-o_z2aCgI/AAAAAAACSRA/K1NZ4W6cWZQ/s2000/2011-03-11%2520-%252009%2520-%2520Tunnabora%2520Buttresses.jpg"><img src="https://lh5.googleusercontent.com/-InJNW1bYr5k/Tm-o_z2aCgI/AAAAAAACSRA/K1NZ4W6cWZQ/s200/2011-03-11%2520-%252009%2520-%2520Tunnabora%2520Buttresses.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh4.googleusercontent.com/-IfRrldT9_UQ/Tm-pAmymd1I/AAAAAAACSRE/ereOb579KMI/s2000/2011-03-11%2520-%252010%2520-%2520Tunnabora%2520Buttresses.jpg"><img src="https://lh4.googleusercontent.com/-IfRrldT9_UQ/Tm-pAmymd1I/AAAAAAACSRE/ereOb579KMI/s200/2011-03-11%2520-%252010%2520-%2520Tunnabora%2520Buttresses.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh4.googleusercontent.com/-oXQwtK37pbU/Tm-pCPbggII/AAAAAAACSRI/1hJMYw06veY/s2000/2011-03-11%2520-%252011%2520-%2520Tunnabora%2520Buttresses.jpg"><img src="https://lh4.googleusercontent.com/-oXQwtK37pbU/Tm-pCPbggII/AAAAAAACSRI/1hJMYw06veY/s200/2011-03-11%2520-%252011%2520-%2520Tunnabora%2520Buttresses.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<center><b><i>Awesome rock buttresses on Tunnabora</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<br>
+<br>
+
+Upon reaching camp Kevin and Shane started melting water with our two big stoves while Max, Vitaliy, and I began construction on the <b>cryogenic freezing chambers.</b>
+<br>
+<br>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh6.googleusercontent.com/-E1mG5h-B59A/Tm-o02CTsjI/AAAAAAACs_Q/ADnvhbNRpzo/s2000/MegaLight.jpg"><img src="https://lh6.googleusercontent.com/-E1mG5h-B59A/Tm-o02CTsjI/AAAAAAACs_Q/ADnvhbNRpzo/s640/MegaLight.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Standard (left) and Modified (Right)</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<br>
+
+In order to save weight, we only brought one tent &acirc;&#128;&#147; a mega-mid. The &acirc;&#128;&#152;mid really only fits 2 people with gear, maybe 3 without, but I had devised an idea for how to fit 5 people and gear with room for 2 stoves inside for winter camping.  Because we arrived late in the day and the snowpack made for harder digging, my crazy architectural masterpiece was only partially realized (we did without the nice interior stairs, holes were shallower w/ less room for stoves), and Kevin had given up on us and just went to sleep in his bivy sack by the stoves. Hmmm . . . maybe we should have thought of doing that? ;-)
+<br>
+<br>
+<h3>
+<a name="TOC-Obsessive-Compulsion"></a>Obsessive Compulsion</h3>
+
+Everyone else went to sleep, but I just <i>had</i> to make use of the few pounds of camera gear I had lugged up for night photography. Plus, I wanted to make sure I got a few night shots of the mountain in case we didn&acirc;&#128;&#153;t make it back to camp the next night.  A couple of hours of fun in the cold dark ensued . . .
+<br>
+<br>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh4.googleusercontent.com/-7B8Qn18YIFc/Tm-pD2GpJpI/AAAAAAACSRY/u8WELAZ9LPc/s2000/2011-03-11%2520-%252014%2520-%2520Camp%2520at%2520Night.jpg%22"><img src="https://lh4.googleusercontent.com/-7B8Qn18YIFc/Tm-pD2GpJpI/AAAAAAACSRY/u8WELAZ9LPc/s200/2011-03-11%2520-%252014%2520-%2520Camp%2520at%2520Night.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh6.googleusercontent.com/-mYH4NY7oVv4/Tm-pFHouWvI/AAAAAAACSRo/8wvxhUAffSI/s2000/2011-03-11%2520-%252017%2520-%2520Carl%2520Heller%2520at%2520Night.jpg"><img src="https://lh6.googleusercontent.com/-mYH4NY7oVv4/Tm-pFHouWvI/AAAAAAACSRo/8wvxhUAffSI/s200/2011-03-11%2520-%252017%2520-%2520Carl%2520Heller%2520at%2520Night.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh4.googleusercontent.com/-o7GTBKajd9I/Tm-pGNcohII/AAAAAAACSRw/Tx1tZcR_s0c/s2000/2011-03-11%2520-%252019%2520-%2520Carl%2520Heller%2520at%2520Night.jpg"><img src="https://lh4.googleusercontent.com/-o7GTBKajd9I/Tm-pGNcohII/AAAAAAACSRw/Tx1tZcR_s0c/s200/2011-03-11%2520-%252019%2520-%2520Carl%2520Heller%2520at%2520Night.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh3.googleusercontent.com/-uPj_lutCM5Q/Tm-pHJq7GII/AAAAAAACSR4/qXzdu3ylDfg/s2000/2011-03-11%2520-%252021%2520-%2520Carl%2520Heller%2520at%2520Night.jpg"><img src="https://lh3.googleusercontent.com/-uPj_lutCM5Q/Tm-pHJq7GII/AAAAAAACSR4/qXzdu3ylDfg/s200/2011-03-11%2520-%252021%2520-%2520Carl%2520Heller%2520at%2520Night.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<center><b><i>Night photography from camp</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<br>
+<br>
+<h1>
+<a name="TOC-Saturday-March-12"></a>Saturday, March 12</h1>
+<h3>
+<a name="TOC-Go-or-No-Go-"></a>Go or No Go?</h3>
+The alarms went off at 4am. I had suggested we wake at this time to leave 1 hour before sunrise so that we&acirc;&#128;&#153;d reach the beginning of the route just as alpenglow was hitting the peak - I wanted to save every ounce of precious daylight we had for the serious climbing!
+<br>
+<br>
+
+I got up but no one else rose. The tent sides were flapping and vibrating like crazy. The wind was really howling outside! This was not good for climbing a route of this commitment, especially in winter. Shane woke up and said he thought it was too windy outside. We agreed to sleep in until 7 and see if the wind died down by then.
+
+<hr>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh4.googleusercontent.com/-AKCsRX2gWbE/Tm-pIOGoGtI/AAAAAAAAwqI/OJze3bqicoU/s2000/2011-03-12%2520-%252001%2520-%2520Sunrise%2520on%2520Carl%2520Heller.jpg"><img src="https://lh4.googleusercontent.com/-AKCsRX2gWbE/Tm-pIOGoGtI/AAAAAAAAwqI/OJze3bqicoU/s800/2011-03-12%2520-%252001%2520-%2520Sunrise%2520on%2520Carl%2520Heller.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Carl Heller awaits</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<br>
+
+We woke to brighter skies at 7am. The tent was still shaking and vibrating. We began talking about aborting our attempt on the route. Yes, it would have really sucked to do such a difficult approach only to walk out the next day, but none of us wanted to be caught in an exposed bivy on that ridge under high winds. We agreed to abort . . . or maybe, wait a little longer, and at the very least head up to the base of the route ready to climb and make the final decision there. Maybe the winds were just bad at the campsite based on how the flows were draining down the cirque?
+<br>
+<br>
+
+As the others slept in a bit more and began to slowly stir, I went outside to get some morning shots of the peak and route, wanting to at least salvage what I could with our time and effort to get up here by enjoying the pristine winter views. Outside I immediately noticed something interesting &acirc;&#128;&#147; the poor job we did of sealing the tent walls to the ground made it a collector for wind and the ultralight fabric accentuated the effects. The shaking of the tent tricked us into thinking the wind was blowing much harder than it was. 
+<br>
+<br>
+
+The wind was sustained at about 0-5mph, with occasional gusts to about 15 mph (my best estimate based on what I&acirc;&#128;&#153;ve felt when I&acirc;&#128;&#153;ve recorded winds), which was no different than what the forecasts had called for when we left, so why abort now? I announced this good news to the group and we all decided to pack up and head out ASAP while closely monitoring the wind. We&acirc;&#128;&#153;d get going like we&acirc;&#128;&#153;re going to climb, but we&acirc;&#128;&#153;d turn back at the base if the winds seemed worse than forecasted. Although the gusts became more sustained by the time we left at about 8am, they were still no stronger than about 15 mph.
+<br>
+<br>
+<h3>
+<a name="TOC-Go-And-the-Toe-"></a>Go! And the &acirc;&#128;&#152;Toe&acirc;&#128;&#153;</h3>
+
+We quickly cramponed up the 800 ft gain to the base of the ridge, enjoying the dramatic views as the ridge unfolded before us. It looks very different from every angle &acirc;&#128;&#147; slabby on the north side, sheer on the south side. From those ends the &acirc;&#128;&#156;wall-like&acirc;&#128;&#157; rise is apparent, but from head on it looks more like a direct ar&Atilde;&ordf;te shooting up to the summit. Beware the effects of this foreshortening from perspective or else you&acirc;&#128;&#153;re in for a nasty surprise on the ridge! There is twice as much horizontal distance to climb as there is vertical distance &acirc;&#128;&#147; about 2,400 ft in all. At the base of the ridge the winds had completely disappeared and we gave <b>Operation Carl Heller&acirc;&#128;&#153;s East Ridge</b> a Go! 
+<br>
+<br>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh4.googleusercontent.com/-ic9rwFQW67I/Tm-pJSsjyAI/AAAAAAACSSE/y0UQiVbFG8c/s2000/2011-03-12%2520-%252002%2520-%2520Carl%2520Heller%2520%2526%2520Lake.jpg"><img src="https://lh4.googleusercontent.com/-ic9rwFQW67I/Tm-pJSsjyAI/AAAAAAACSSE/y0UQiVbFG8c/s400/2011-03-12%2520-%252002%2520-%2520Carl%2520Heller%2520%2526%2520Lake.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Going around the lake</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh6.googleusercontent.com/-6u3KcTUyTvo/Tm-poByGJJI/AAAAAAACSOc/-yrEtcMJ-Fk/s2000/009-Max-3-189120_1667226048748_1480207555_31602218_8291183_n.jpg"><img src="https://lh6.googleusercontent.com/-6u3KcTUyTvo/Tm-poByGJJI/AAAAAAACSOc/-yrEtcMJ-Fk/s400/009-Max-3-189120_1667226048748_1480207555_31602218_8291183_n.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Vitaliy and Shane getting smaller as the ridge gets larger
+<br>
+<i>(Photo by Max)</i></i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<br>
+
+We had hoped to do some simul-climbing, but climbing conditions were severe enough that we ended up pitching out about 2,000 ft worth of climbing. Starting the roped climbing at 8:40 turned out to be way too late for a climb of this length in winter! Luckily I told the others what I thought the likelihood of a bivy was, so everyone but Max and I brought bivy sacks. I knew that I could do fine sleeping in my backpack with a down jacket (which I brought) and down pants (which I forgot) and Max, well, I don&acirc;&#128;&#153;t know what he did but he sure didn&acirc;&#128;&#153;t seem to mind! We also brought a Jetboil this time to melt water to avoid dehydration if we bivied.
+<br>
+<br>
+
+The ridge rose straight up in a triangular-shaped wall which I like to call the &acirc;&#128;&#156;Toe&acirc;&#128;&#157; because it reminds me of the Toe of a glacier as the flat glacier drops suddenly to the bare ground. According to other trip reports, this was one of the class 4 cruxes of the route. Above the Toe the ridge suddenly stops rising and traverses gradually until it reaches what I like to call the &acirc;&#128;&#156;Step&acirc;&#128;&#157;, where a section near the crest of the ridge suddenly juts up vertically from the rest of the ridge above a vertical step. After surmounting the step the angle would ease again until we reached the final snow chute. The final hundred feet or so before the chute was supposed to be the crux of the route, where a gendarme forced parties off of the ridge crest and onto extremely exposed slabs on the north side. Apparently a piton could be found on this section. (I had hoped after looking at photos that we could just climb slightly harder rock and stay on the gendarme fin and avoid the steep snow covered slab crux, but I had misjudged the scale from photos and this turned out not to be practical.) We expected to have a quick and straightforward snowclimb of a few hundred feet up the couloir to the notch near the summit and from there, 1-2 more pitches of climbing or a few hundred feet of scrambling to the summit.
+<br>
+<br>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh3.googleusercontent.com/-lJE1btlMUDE/Tm-pJ6n08cI/AAAAAAACs-o/Al7_VPA4nzU/s2000/2011-03-12%2520-%252003%2520-%2520Carl%2520Heller%2520East%2520Ridge%2520-%2520Annotate.jpg"><img src="https://lh3.googleusercontent.com/-lJE1btlMUDE/Tm-pJ6n08cI/AAAAAAACs-o/Al7_VPA4nzU/s400/2011-03-12%2520-%252003%2520-%2520Carl%2520Heller%2520East%2520Ridge%2520-%2520Annotate.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Route Topo (numbers need adjustment. I lost a few of the belays!)</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh6.googleusercontent.com/-O45zeqwhkOY/Tm-pLeDp1YI/AAAAAAACs-w/XRp9AZdtrHI/s2000/2011-03-12%2520-%252004%2520-%2520Carl%2520Heller%2520East%2520Ridge%2520-%2520Annotate.jpg"><img src="https://lh6.googleusercontent.com/-O45zeqwhkOY/Tm-pLeDp1YI/AAAAAAACs-w/XRp9AZdtrHI/s400/2011-03-12%2520-%252004%2520-%2520Carl%2520Heller%2520East%2520Ridge%2520-%2520Annotate.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Route Topo</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh3.googleusercontent.com/-0KYCOOcQONk/Tm-pjqvNN-I/AAAAAAACs_A/zSkTDWqq13w/s2000/2011-03-13%2520-%252013%2520-%2520Carl%2520Heller%2520East%2520Ridge%2520-%2520Annotate.jpg"><img src="https://lh3.googleusercontent.com/-0KYCOOcQONk/Tm-pjqvNN-I/AAAAAAACs_A/zSkTDWqq13w/s400/2011-03-13%2520-%252013%2520-%2520Carl%2520Heller%2520East%2520Ridge%2520-%2520Annotate.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Route Topo in Profile</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
+</center>
+<br>
+<br>
+<h4>
+<a name="TOC-Pitch-1"></a>Pitch 1</h4>
+The first pitch looked easier than it was, but only because it was steeper than it looked. It is maybe easy 4th class but more comparable to sustained 3rd class in my opinion &acirc;&#128;&#147; it gets steep, but the climbing stays solid and juggy and none of the moves are any more technical than a basic hand jam here and there. I placed one piece for the pitch as I ascended a corner that cut diagonally across the face. Near the top I avoided a crux by stepping right into an easier crack and then left again, then surmounted an easy final step to a snow-filled chute at the top. This section required a bit of finesse in boots as the snow was thinly covering some slab on the left side &acirc;&#128;&#147; a good warm up for things to come. I ran out the rope to a good belay and belayed Vitaliy and Shane up.
+<br>
+<br>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh4.googleusercontent.com/-tvHozSpWSYw/Tm-pPmpqHPI/AAAAAAACSOk/OsBwfRriEHE/s2000/010-Shane-5-IMG_1757.JPG"><img src="https://lh4.googleusercontent.com/-tvHozSpWSYw/Tm-pPmpqHPI/AAAAAAACSOk/OsBwfRriEHE/s400/010-Shane-5-IMG_1757.JPG" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Mark leading the cl. 3-4 Toe pitch
+<br>
+<i>Photo by Shane</i></i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh5.googleusercontent.com/-K1g3HKGNOw4/Tm-pOH9Bg1I/AAAAAAACSSk/3nvaPhOJkrU/s2000/2011-03-12%2520-%252006%2520-%2520Kevin%2520Surmounting%2520the%2520Toe.jpg"><img src="https://lh5.googleusercontent.com/-K1g3HKGNOw4/Tm-pOH9Bg1I/AAAAAAACSSk/3nvaPhOJkrU/s400/2011-03-12%2520-%252006%2520-%2520Kevin%2520Surmounting%2520the%2520Toe.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Kevin surmounting the Toe</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<h3>
+<a name="TOC-Knife-Edged-Slab-Climbing-at-its-Finest"></a>Knife-Edged Slab Climbing at its Finest</h3>
+<h4>
+<a name="TOC-Pitches-2-5"></a>Pitches 2-5</h4>
+
+Shane and I swung leads for the next few pitches. The route mostly followed granite ramps near the crest that stayed clear of snow. Every now and then we&acirc;&#128;&#153;d skirt the snow by traversing onto ledges on the south side of the ridge. The climbing here was mostly 2nd-3rd class, but with the snow and exposure we were glad to have a rope. If we had known better what the terrain was like, we would have simul-climbed these pitches.
+<br>
+<br>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh6.googleusercontent.com/-QrGrlTDh5cE/Tm-pO_ffOCI/AAAAAAACSSs/lRynBZChkrQ/s2000/2011-03-12%2520-%252008%2520-%2520Shane%2520Leading%2520Up%2520the%2520East%2520Ridge.jpg"><img src="https://lh6.googleusercontent.com/-QrGrlTDh5cE/Tm-pO_ffOCI/AAAAAAACSSs/lRynBZChkrQ/s400/2011-03-12%2520-%252008%2520-%2520Shane%2520Leading%2520Up%2520the%2520East%2520Ridge.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Shane leading pitch 2</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh5.googleusercontent.com/-q-M1l5N2tDw/Tm-pQNklPwI/AAAAAAACSSw/aRYRpSRKPeU/s2000/2011-03-12%2520-%252009%2520-%2520Shane%2520Leading%2520Up%2520the%2520East%2520Ridge.jpg"><img src="https://lh5.googleusercontent.com/-q-M1l5N2tDw/Tm-pQNklPwI/AAAAAAACSSw/aRYRpSRKPeU/s200/2011-03-12%2520-%252009%2520-%2520Shane%2520Leading%2520Up%2520the%2520East%2520Ridge.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>No go terrain</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+<td>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh4.googleusercontent.com/-3bwUUwV9aZc/Tm-poj9OEhI/AAAAAAACSOo/aVGWxyebUBw/s2000/011-Max-4-200569_1667226448758_1480207555_31602221_4800306_n.jpg"><img src="https://lh4.googleusercontent.com/-3bwUUwV9aZc/Tm-poj9OEhI/AAAAAAACSOo/aVGWxyebUBw/s200/011-Max-4-200569_1667226448758_1480207555_31602221_4800306_n.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Mark, Shane, and Vitaliy on the easy section
+<br>
+<i>(Photo by Max)</i></i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+<td>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh6.googleusercontent.com/-MfYYGx3zhGI/Tm-psvGMMJI/AAAAAAACSOs/kNY3sKDsh_Q/s2000/012-Vitaliy-3-189922_10150116010187270_515072269_6166605_3978798_n.jpg"><img src="https://lh6.googleusercontent.com/-MfYYGx3zhGI/Tm-psvGMMJI/AAAAAAACSOs/kNY3sKDsh_Q/s200/012-Vitaliy-3-189922_10150116010187270_515072269_6166605_3978798_n.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Mark following an interesting section
+<br>
+<i>(Photo by Vitaliy)</i></i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+<td>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh4.googleusercontent.com/-tVzGgsvbI1g/Tm-ptGXs-DI/AAAAAAACSOw/-dgPi822q1U/s2000/013-Vitaliy-4-200036_10150116011072270_515072269_6166614_332940_n.jpg"><img height="150" src="https://lh4.googleusercontent.com/-tVzGgsvbI1g/Tm-ptGXs-DI/AAAAAAACSOw/-dgPi822q1U/s200/013-Vitaliy-4-200036_10150116011072270_515072269_6166614_332940_n.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Mark leading off
+<br>
+<i>(Photo by Vitaliy)</i></i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+</tr>
+<tr>
+<td>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh3.googleusercontent.com/-wI4nky0VP-Q/Tm-ptheRjFI/AAAAAAACSO0/ZvU8sRzRRKA/s2000/014-Vitaliy-5-198366_10150116011237270_515072269_6166616_6669417_n.jpg"><img src="https://lh3.googleusercontent.com/-wI4nky0VP-Q/Tm-ptheRjFI/AAAAAAACSO0/ZvU8sRzRRKA/s200/014-Vitaliy-5-198366_10150116011237270_515072269_6166616_6669417_n.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Shane and Kevin following
+<br>
+<i>(Photo by Vitaliy)</i></i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+<td>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh5.googleusercontent.com/-gAyIZ7AHBXY/Tm-pqmmHpLI/AAAAAAACSO4/Qf9_xPX9mgI/s2000/015-Kevin-1-188835_1918495083550_1277197139_2321404_3222434_n.jpg"><img src="https://lh5.googleusercontent.com/-gAyIZ7AHBXY/Tm-pqmmHpLI/AAAAAAACSO4/Qf9_xPX9mgI/s200/015-Kevin-1-188835_1918495083550_1277197139_2321404_3222434_n.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Kevin reaching Vitaliy as Mark leads
+<br>
+<i>(Photo by Kevin)</i></i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+<td>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh5.googleusercontent.com/-to8gkHDzEeg/Tm-pRSZMCbI/AAAAAAACSS4/Y8CtEUQQORA/s2000/2011-03-12%2520-%252011%2520-%2520Pitch%25204.jpg"><img src="https://lh5.googleusercontent.com/-to8gkHDzEeg/Tm-pRSZMCbI/AAAAAAACSS4/Y8CtEUQQORA/s200/2011-03-12%2520-%252011%2520-%2520Pitch%25204.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Vitaliy belaying Shane</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+<td>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh4.googleusercontent.com/-oePHnBYOquI/Tm-pSwnpNBI/AAAAAAACSS8/u3h8TxB5yLs/s2000/2011-03-12%2520-%252012%2520-%2520Looking%2520down%2520P5.jpg"><img src="https://lh4.googleusercontent.com/-oePHnBYOquI/Tm-pSwnpNBI/AAAAAAACSS8/u3h8TxB5yLs/s200/2011-03-12%2520-%252012%2520-%2520Looking%2520down%2520P5.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Looking down Pitch 5 with Vitaliy, Shane, and Kevin</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<br>
+<br>
+<h4>
+<a name="TOC-Pitch-6-The-Dreaded-Slab-Chimney-Pitch"></a>Pitch 6 &acirc;&#128;&#147; The Dreaded Slab &amp; Chimney Pitch</h4>
+From the fifth belay I saw a formation of rocks that I recognized from photos &acirc;&#128;&#147; a short wall barring progress that cut down along the slab as it dropped off to the north. This wall was crossed by ascending the third crack/chimney that cut through it. It was hard to tell from the pictures how hard it was, but it did look funky. What really concerned me was that this was the first of two sections where from summer photos I knew that there was a relatively featureless slab beneath the snow. The snow was pretty shallow here, so I was worried about slipping off the rock, or causing the snow to slide off. The ridge crest was too narrow, steep, and rounded with snow too close to it to ascend by &acirc;&#128;&#152;a cheval&acirc;&#128;&#153; or liebacking.
+<br>
+<br>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="http://www.snwburd.com/bob/trip_photos/carl_heller_1/DSC05564_w.html"><img height="300" src="http://www.snwburd.com/bob/trip_photos/carl_heller_1/reg/DSC05564.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>The slab &amp; chimney section in summer.
+<br>
+<i>(Photo by Bob Burd)</i></i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+<td>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh3.googleusercontent.com/-0fn6dq0AIsg/Tm-pSFQP3LI/AAAAAAACSTA/nCqPcBc1oN4/s2000/2011-03-12%2520-%252013%2520-%2520Pitch%25206%2520Slab%2520%2526%2520Chimney.jpg"><img src="https://lh3.googleusercontent.com/-0fn6dq0AIsg/Tm-pSFQP3LI/AAAAAAACSTA/nCqPcBc1oN4/s400/2011-03-12%2520-%252013%2520-%2520Pitch%25206%2520Slab%2520%2526%2520Chimney.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>This doesn't look too secure to me</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<br>
+<br>
+
+I wavered here. I was happy for Shane to be the guinea pig on this section, but I fully briefed him on the section first. He had already decided things were going to slow swinging leads and had suggested that we lead in blocks. Shane also said that Kevin and Max wanted to pass us, since as a team of 2 they were going slightly faster than us. I decided to wait for Kevin to reach us, after which I briefed him about the section. Kevin was more than happy to pass us here and I was more than happy to let him lead through this &acirc;&#128;&#152;iffy&acirc;&#128;&#153; section before me, so a deal was made.
+<br>
+<br>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh3.googleusercontent.com/-KU6cfVvEgYw/Tm-pUGSTg6I/AAAAAAACSTI/1Eau86V8JGY/s2000/2011-03-12%2520-%252015%2520-%2520Kevin%2520in%2520the%2520Chimney.jpg"><img src="https://lh3.googleusercontent.com/-KU6cfVvEgYw/Tm-pUGSTg6I/AAAAAAACSTI/1Eau86V8JGY/s260/2011-03-12%2520-%252015%2520-%2520Kevin%2520in%2520the%2520Chimney.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Kevin in the chimney</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+<td>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh6.googleusercontent.com/-Dz2KO_SvnFs/Tm-pUgOU96I/AAAAAAACSTM/1fpv_X35gYg/s2000/2011-03-12%2520-%252016%2520-%2520Looking%2520down%2520P6.jpg"><img src="https://lh6.googleusercontent.com/-Dz2KO_SvnFs/Tm-pUgOU96I/AAAAAAACSTM/1fpv_X35gYg/s260/2011-03-12%2520-%252016%2520-%2520Looking%2520down%2520P6.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Looking down Pitch 6</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+<td>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh6.googleusercontent.com/-ICNkhRF9xRg/Tm-pVsmYIlI/AAAAAAACSTQ/yGMuZTrAzzw/s2000/2011-03-12%2520-%252017%2520-%2520Looking%2520down%2520P6.jpg"><img src="https://lh6.googleusercontent.com/-ICNkhRF9xRg/Tm-pVsmYIlI/AAAAAAACSTQ/yGMuZTrAzzw/s260/2011-03-12%2520-%252017%2520-%2520Looking%2520down%2520P6.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Vitaliy approaching the chimney</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<br>
+<br>
+
+Kevin headed out, traversing low where, apparently, the snow had drifted deep enough to accommodate solid footsteps &acirc;&#128;&#147; and the slope held. The chimney passed quickly. Following in his tracks they were mostly secure, although every now and then one would break off and I had to take care to compact it in a way to stabilize the step. I placed a piece of pro at the chimney then did some fun stemming ratchets to get up it, crawling into the soft snow at the top.  The next belay became the first of what would be increasingly crowded belays as I climbed into Max &amp; Kevin&acirc;&#128;&#153;s party, then brought up Shane &amp; Vitaliy who reached us sometimes before Max had left, leaving us with between 3-4 people trying to share space. I was worried about 5 people on the route becoming a clusterf#ck, but luckily it never got too bad, and at the worst Max would take off just before I was able to start my lead.
+<br>
+<br>
+<h4>
+<a name="TOC-Pitch-7-Reaching-the-Step"></a>Pitch 7 &acirc;&#128;&#147; Reaching the Step</h4>
+
+Kevin had trouble on the next pitch. The snow was just too soft for climbing. Wading up to his waist, he tried one line, and then another. After sufficient digging, he found enough rocks and snow stances to pick his way through the next short chimney. 
+<br>
+<br>
+
+I straddled a flake to make room as Vitaliy came up to me through the chimney. Shane showed up just as Max was getting ready to leave, and our game of musical chairs commenced as Max moved out of his perch, Shane moved into Max&acirc;&#128;&#153;s perch, and Vitaliy moved up into my perch as I started my lead behind Max.
+<br>
+<br>
+
+Being the third person to traverse the slopes, the snow was still very unconsolidated and required careful traversing. This chimney required some more thought on how to climb it while avoiding the loose snow. After this section there was a very steep snow traverse with few handholds &acirc;&#128;&#147; it required some finesse with the feet and a keen sense of balance to walk along the fine edge of overhanging rock wall and steep snow-covered slab. I rounded the corner, climbed up a straightforward slope to a snowy knife-edge and saw Max and Kevin at the next belay just about ready for Kevin to lead off. They had dropped off onto a narrow ledge about 5 ft down on the south side of the ridge.
+<br>
+<br>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh6.googleusercontent.com/-0EvNP70eX7Q/Tm-pWwhr8II/AAAAAAACSTY/H8AFDXyqK98/s2000/2011-03-12%2520-%252019%2520-%2520Max%2520high%2520on%2520Carl%2520Heller.jpg"><img src="https://lh6.googleusercontent.com/-0EvNP70eX7Q/Tm-pWwhr8II/AAAAAAACSTY/H8AFDXyqK98/s260/2011-03-12%2520-%252019%2520-%2520Max%2520high%2520on%2520Carl%2520Heller.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Max high on Carl Heller</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+<td>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh4.googleusercontent.com/-9KC05E3P158/Tm-prbLPTDI/AAAAAAACSO8/r56kG93lRro/s2000/016-Kevin-2-190726_1918495483560_1277197139_2321406_5369772_n.jpg"><img src="https://lh4.googleusercontent.com/-9KC05E3P158/Tm-prbLPTDI/AAAAAAACSO8/r56kG93lRro/s260/016-Kevin-2-190726_1918495483560_1277197139_2321406_5369772_n.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Max at a belay
+<br>
+<i>(Photo by Kevin)</i></i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+<td>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh3.googleusercontent.com/-l7aAndoZmOs/Tm-ppN4PvoI/AAAAAAACSPI/s_yWPa0fc5w/s2000/018-Max-5-189890_1667227248778_1480207555_31602226_3118788_n.jpgk"><img src="https://lh3.googleusercontent.com/-l7aAndoZmOs/Tm-ppN4PvoI/AAAAAAACSPI/s_yWPa0fc5w/s260/018-Max-5-189890_1667227248778_1480207555_31602226_3118788_n.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>That couloir still looks far away . . .
+<br>
+<i>(Photo by Max)</i></i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<br>
+<br>
+
+
+I started toward them when the rope went taught.
+<br>
+<br>
+
+&acirc;&#128;&#156;That&acirc;&#128;&#153;s me!&acirc;&#128;&#157; Vitaliy yelled. 
+<br>
+<br>
+
+&acirc;&#128;&#156;B.S.&acirc;&#128;&#157; I thought. Max &amp; Kevin were climbing with a 60m rope. We were climbing with a 70m rope so I should be able to reach them. Vitaliy and Shane were just tied in too far apart.
+<br>
+<br>
+
+&acirc;&#128;&#156;Adjust your tie in!&acirc;&#128;&#157; I shouted. &acirc;&#128;&#156;I need another 20 feet!&acirc;&#128;&#157;
+The rope slackened and I led up next to Max. A thin downclimb led to a ledge just wide enough for 3 people to stand on side by side. I built my gear anchor using spaces between their gear, and squeezed to the side as I belayed Vitaliy in to our little ledge. I readjusted one marginal cam to a better position as Max cleaned his anchor to continue and shuffled to the side to make room for Shane as Vitaly belayed him in to our little perch.
+<br>
+<br>
+<h3>
+<a name="TOC-Premonitions-of-a-Bivy-and-the-Freaky-Crux-Pitch"></a>Premonitions of a Bivy and the Freaky Crux Pitch</h3>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh6.googleusercontent.com/-rErXjGvjxOs/Tm-pqyi_vBI/AAAAAAACSPA/BcuWMPXzUHY/s2000/017-Kevin-3-196225_1918495683565_1277197139_2321407_5151744_n.jpg"><img src="https://lh6.googleusercontent.com/-rErXjGvjxOs/Tm-pqyi_vBI/AAAAAAACSPA/BcuWMPXzUHY/s400/017-Kevin-3-196225_1918495683565_1277197139_2321407_5151744_n.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Kevin getting that sinking feeling
+<br>
+<i>(Photo by Max)</i></i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<br>
+<h4>
+<a name="TOC-Pitch-8-Climbing-the-Step"></a>Pitch 8 &acirc;&#128;&#147; Climbing the Step</h4>
+
+The next pitch was where the climbing began to get serious again. 
+<br>
+<br>
+<i>Two steep mantels right off the belay onto snow, around a corner and to two steep block steps. Place pro, jam, mantel, shuffle feet right, and another steep mantle. More pro, shuffle right.</i>
+<br>
+<br>
+
+All of a sudden we were gaining elevation fast, first on rock, then on very steep snow as we wound our way beneath rocky steps. 
+<br>
+<br>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="http://www.snwburd.com/bob/trip_photos/carl_heller_1/DSC05569_w.html"><img height="300" src="http://www.snwburd.com/bob/trip_photos/carl_heller_1/reg/DSC05569.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Summer
+<br>
+<i>(Photo by Bob Burd)</i></i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+<td>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh6.googleusercontent.com/-Nm3Et1cTWzM/Tm-pYoyI48I/AAAAAAACSTg/uu0dSc3Arpk/s2000/2011-03-12%2520-%252021%2520-%2520Knife%2520Edge.jpg"><img src="https://lh6.googleusercontent.com/-Nm3Et1cTWzM/Tm-pYoyI48I/AAAAAAACSTg/uu0dSc3Arpk/s300/2011-03-12%2520-%252021%2520-%2520Knife%2520Edge.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Winter</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<center><b><i>The Real Exposure Begins</i></b></center>
+<center><b><i><br>
+</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<i>Begin more steep snow on slab traversing, ending in an open book filled with snow sloping at about 45<sup>o</sup>.</i>
+<div>
+<i><br>
+</i>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="http://www.snwburd.com/bob/trip_photos/carl_heller_1/DSC05572_w.html"><img height="300" src="http://www.snwburd.com/bob/trip_photos/carl_heller_1/reg/DSC05572.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Summer
+<br>
+<i>(Photo by Bob Burd)</i></i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+<td>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh5.googleusercontent.com/-MxwCEEHTAFs/Tm-puUpIU6I/AAAAAAACSPU/pTLIibS4Rlc/s2000/020-Vitaliy-7-200429_10150116011882270_515072269_6166623_510511_n.jpg"><img src="https://lh5.googleusercontent.com/-MxwCEEHTAFs/Tm-puUpIU6I/AAAAAAACSPU/pTLIibS4Rlc/s400/020-Vitaliy-7-200429_10150116011882270_515072269_6166623_510511_n.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Winter 
+<br>
+<i>(Photo by Vitaliy)</i></i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<center><b><i>Double Knife Edge</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<br>
+
+Max was belaying Kevin out from a gear anchor at the top. I dug snow out of the corner of the dihedral and found the crack continued down, so I made a hanging gear anchor below Max and belayed Vitaliy up. This time Max started early enough that I climbed above the anchor to a secure perch while Vitaliy belayed Shane up. We were getting high, the ridge was getting serious, and the sun had long since stopped shining on us. Now the shadows were stretching far across the cirque below and the final snow couloir still appeared to be far away. This was going to be a long climb, and we were getting committed now.
+<br>
+<br>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh5.googleusercontent.com/-vTWIx7oyGlo/Tm-ptyymkBI/AAAAAAACSPQ/HDkJqDpFwa8/s2000/019-Vitaliy-6-188799_10150116011642270_515072269_6166620_2053633_n.jpg"><img src="https://lh5.googleusercontent.com/-vTWIx7oyGlo/Tm-ptyymkBI/AAAAAAACSPQ/HDkJqDpFwa8/s400/019-Vitaliy-6-188799_10150116011642270_515072269_6166620_2053633_n.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>I was glad to have a rope for this section. So was Shane. 
+<br>
+<i>(Photo by Vitaliy)</i></i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+<td>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh5.googleusercontent.com/-ZFEsQZTkRag/Tm-pXnnvL5I/AAAAAAACSTc/ZvfEQsk2Qwg/s2000/2011-03-12%2520-%252020%2520-%2520The%2520Ridge%2520Gets%2520Steeper.jpg"><img src="https://lh5.googleusercontent.com/-ZFEsQZTkRag/Tm-pXnnvL5I/AAAAAAACSTc/ZvfEQsk2Qwg/s400/2011-03-12%2520-%252020%2520-%2520The%2520Ridge%2520Gets%2520Steeper.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Belaying from the Dihedral</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<br>
+<i><font color="green">&acirc;&#128;&#156;With a few hours of daylight left the climbing became more sustained, fun, and memorable. We passed through few of genuine knife-edge sections, and a few thin nerve-racking traverses.  As we let the sun slip out behind the horizon temperatures dropped, and frustration built up. Every one of us critiqued or showed frustration with a speed or work of others. While trying to cheer up our three man group my humor was filled with sarcasm, and did not do much good. These are the moments when climbing becomes a chore - something one must finish before the day can end. &acirc;&#128;&#156;</font></i>
+<h4>
+<a name="TOC-Pitch-9-A-Cheval"></a>Pitch 9 &acirc;&#128;&#147; A Cheval</h4>
+
+Just above the dihedral was some straightforward mixed snow &amp; low class 3 scrambling leading to a &acirc;&#128;&#156;window&acirc;&#128;&#157; between two blocks on the ridge. From here I dropped down and right to bypass the second block, and climbed up the backside back to the ridge. Here the ridge presented one of the more memorable parts of the climb. The ridge rounded again like on Pitch 6, but this time the slab dropped to the right at an angle steeper than 45<sup>o</sup> &acirc;&#128;&#147; way too steep to traverse for the 6-8&acirc;&#128;&#157; of snow clinging to it!
+<br>
+<br>
+
+I climbed up to the ridge where it narrowed, then hopped on for the ride. I dragged my right foot along in the snow (I couldn&acirc;&#128;&#153;t get any purchase) and let my left leg dangle off the other side. I found that I could lay both hands across the ridge crest and rock my weight up and onto them like a mantel to move my body up and forward before setting myself back down again on the ridge. Halfway across a thin rock lip stuck out below the crest and I was able to use my left foot on this to help with lifting up and moving forward to the next belay.
+<br>
+<br>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh4.googleusercontent.com/-RwLfKC9tl34/Tm-pZIXAfdI/AAAAAAACSTk/tsRJoT0UKzQ/s2000/2011-03-12%2520-%252022%2520-%2520High%2520on%2520the%2520Ridge.jpg"><img src="https://lh4.googleusercontent.com/-RwLfKC9tl34/Tm-pZIXAfdI/AAAAAAACSTk/tsRJoT0UKzQ/s400/2011-03-12%2520-%252022%2520-%2520High%2520on%2520the%2520Ridge.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Shane and Vitaliy</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+<td>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh4.googleusercontent.com/-5RqhjmKmh04/Tm-pZxAB67I/AAAAAAACSTo/QwRFLBW_CPI/s2000/2011-03-12%2520-%252023%2520-%2520Vitaliy%2520on%2520the%2520A%2520Cheval%2520Section.jpg"><img src="https://lh4.googleusercontent.com/-5RqhjmKmh04/Tm-pZxAB67I/AAAAAAACSTo/QwRFLBW_CPI/s400/2011-03-12%2520-%252023%2520-%2520Vitaliy%2520on%2520the%2520A%2520Cheval%2520Section.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Vitaliy doing the 'a cheval'</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<center><b><i>The "A Cheval" Section</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<br>
+<br>
+
+It was fun belaying from this next spot. Vitaliy came up from around the corner, huffing and puffing from fatigue and exhilaration.
+<br>
+<br>
+
+&acirc;&#128;&#156;Vitaliy!&acirc;&#128;&#157; I shouted. &acirc;&#128;&#156;Get ready for the fun part!&acirc;&#128;&#157;
+<br>
+<br>
+
+&acirc;&#128;&#156;I thought I just did the fun part!&acirc;&#128;&#157; He replied. Both Vitaliy and Shane made short work of the &acirc;&#128;&#152;a cheval&acirc;&#128;&#153; section. All three of us climbed it differently, but all of us had to do some form of climbing in a straddle position.
+<br>
+<br>
+<b>Yee-haw!</b>
+<br>
+<br>
+<i><font color="green">&acirc;&#128;&#156;A few of the last pitches before the crux ended up being the most exciting. On one of them I had to do an airy down-climb with a great hand-jam move, which was followed by a delicate traverse, and another climb up a fun crack system. &acirc;&#128;&#157;</font></i>
+<h4>
+<a name="TOC-Pitch-10-Darkness-Descends"></a>Pitch 10 &acirc;&#128;&#147; Darkness Descends</h4>
+
+The next pitch was one of the more sustained and exposed class 3-4 pitches. It began with several more knife edges, but these were split down the middle so you could jam a leg or foot directly in the crest and shuffle up. Eventually the route traversed out onto the steep and exposed south side of the ridge. There I reached the next anchor with Max just as Kevin was about 20 ft out on lead.
+<br>
+<br>
+
+&acirc;&#128;&#156;Wow!&acirc;&#128;&#157; Max exclaimed. &acirc;&#128;&#156;You&acirc;&#128;&#153;re climbing fast!&acirc;&#128;&#157;
+<br>
+<br>
+
+&acirc;&#128;&#156;It&acirc;&#128;&#153;s getting dark and we&acirc;&#128;&#153;re so close to the couloir. I just want to get there before dark!&acirc;&#128;&#157; I responded.
+<br>
+<br>
+
+This belay was also crowded.  The anchor was made out of two slung blocks, so I slung the same blocks and built my system beneath theirs. This actually helped speed things up (as in some of the earlier belays) as Max could dismantle their anchor and clip into mine as he was getting ready to be belayed. It looked like we were maybe 1 or 2 more pitches from the couloir, but alpenglow had already faded from the peaks around us by the time I belayed Vitaliy up.
+<br>
+<br>
+
+I climbed up onto another flake to straddle as Vitaliy belayed Shane. I donned my down jacket and headlamp and headed up as soon as I was on belay.
+<br>
+<br>
+<i><font color="green">&acirc;&#128;&#156;Half shivering, I do not feel any excitement about this pitch, or what is coming up next. As Mark went into the darkness for another lead I dreamed about it being a quick one, so I could move and get warm again. Shane and Mark had put on their parkas, even though by their look they still did not appear warm and cozy.&acirc;&#128;&#157;</font></i>
+<br>
+<br>
+<h4>
+<a name="TOC-Pitch-11-Stopping-Short"></a>Pitch 11 &acirc;&#128;&#147; Stopping Short</h4>
+
+It was dark as I climbed the class 4 chimneys and ledges beneath the crest. I reached a notch in the ridge and from there the gendarme fin was obvious. It was also obviously much larger and steeper than it had looked in the photos I had found online &acirc;&#128;&#147; no way to climb this thing! I didn&acirc;&#128;&#153;t see any lights from Max &amp; Kevin, but with a sweep of my lamp I found Max huddled at what looked like a nasty and uncomfortable belay about 50 ft ahead. It was so mixed in with steep snow and rock that I had trouble telling if that was a person or not!
+<br>
+<br>
+
+I climbed out a short ways on very steep snow and called out to Max. He responded that there was absolutely no room for even me at his anchor, so I returned to the notch and began belaying Vitaliy and Shane up in the mean time. During this time I got a good preview of what was in store for the next pitch.
+<br>
+<br>
+
+I kept shining my lamp around in the bright setting, but I still couldn&acirc;&#128;&#153;t find Kevin &acirc;&#128;&#147; but I could hear him.
+<br>
+<br>
+
+&acirc;&#128;&#156;Max! This isn&acirc;&#128;&#153;t the way to go! I need to downclimb!&acirc;&#128;&#157;
+<br>
+<br>
+
+I thought this was strange. I had recalled from Bob Burd&acirc;&#128;&#153;s photo of the crux that he stayed very high on this part, traversing on ledges just beneath the vertical wall of the gendarme fin. It appeared that Kevin was unable to find a way to this section and was descending about 60 feet to an alternate traverse.
+<br>
+<br>
+
+A short while later I heard &acirc;&#128;&#156;Uuu! Max! Watch me here! I might fall!&acirc;&#128;&#157;
+<br>
+<br>
+
+Some more less comforting sounds followed, a light appeared then disappeared, and I sat in the dark, wondering. Shane and Vitaliy had both reached me by now, but I wasn&acirc;&#128;&#153;t going to start until Max left his belay. Kevin was still on lead. He was on lead for a lonnnng time, which made me wonder what exactly I was getting into on this next pitch. We began to get cold, but finally I saw Max switch his head lamp back on as he started climbing.
+<br>
+<br>
+<i><font color="green">&acirc;&#128;&#156;Watching Maxim follow Kevin's lead was not much encouraging - I have not seen him ask for so much tension, and slack on one pitch, ever.&acirc;&#128;&#157;</font></i>
+<br>
+<br>
+<h4>
+<a name="TOC-Pitch-12-Look-Ma-No-Hands-"></a>Pitch 12 &acirc;&#128;&#147; Look, Ma! No Hands!</h4>
+
+This next pitch was on very steep snow. I wouldn&acirc;&#128;&#153;t have minded the steepness of the snow so much if it had been deep enough to plunge my tool into, but whenever I tried it would always ram into a &acirc;&#128;&#152;thunk&acirc;&#128;&#153; of granite slab about 4-6&acirc;&#128;&#157; down. I looked to my right and saw the snow plunge off into darkness at about a 50<sup>o</sup> angle. Some of the steps moved as I stepped on them. Sometimes I could get a bit of aid with my axe, but overall I had to just walk very carefully on my feet with no hands. At the very best, I could jam both hands into the snow like Max &amp; Kevin did (I assume from the gaping holes they left) and use this as a very mild handhold. Occasionally I would strike gold and find a crack or crimper on rock inside the holes as I traversed out.
+<br>
+<br>
+
+This lasted for maybe 60 ft before I reached rock where I could put in a piece of pro. I climbed up the steep corner to Max &amp; Kevin&acirc;&#128;&#153;s belay. It was indeed too small for more than even one person. I made a 3 piece gear anchor then climbed above it to make room for Vitaliy. There was a fixed cam in a crack, so I clipped into that. Feeling that Vitaliy wouldn&acirc;&#128;&#153;t  be able to make room for Shane, I resumed climbing up the next step, plugged in one cam, braced my stance, and clipped myself to it as a backup from the last two anchors. I belayed Vitaliy up, and he clipped into the equalized anchor and belayed Shane up, who climbed between us and clipped into the fixed cam. This was getting awkward!
+<br>
+<br>
+<h4>
+<a name="TOC-Pitch-13-The-Good-Luck-Pitch"></a>Pitch 13 &acirc;&#128;&#147; The Good Luck Pitch</h4>
+
+As I racked up for what I expected to be our final pitch, we could see the headlamps of Max &amp; Kevin as they ascended the final couloir. It was an eerie sight in the dark &acirc;&#128;&#147; it made the couloir somehow seem more large and brooding. It also looked pretty steep. The speedsters announced that they were going to bivy in the notch at top. Vitaliy and Shane said they felt too beat to do the long snow climb and wanted to belay lower. Remembering a photo that showed a nice notch at the base of the couloir, we agreed to bivy there and relayed our plans to the others.
+<br>
+<br>
+
+I started out on steep, insecure snow slopes like the last ones. I traversed another 40 feet or so and reached the point where Kevin had backtracked. I looked down to see where he downclimbed and saw a muddle of tracked snow going down steepening snow and around a large block. Most of what I could see was blackness, so I knew the slope dropped off real fast. I tested the first few footholds and found them to be very unpredictable in quality, and the steps seemed to disintegrate into granite slab beneath. If I fell here, there was no way I could self arrest and I would come into a big swing onto the anchor.
+<br>
+<br>
+
+So I spent the next 10-15 minutes making my first truly needed Deadman snow anchor. The snow went about 2 ft before I hit slab, but it was very unconsolidated. I made the T of the T-trench right against the slab so that I could make it as deep as possible. I did some practice pulls on the webbing to see how the picket would drag in the snow. At first it was popping up, but with some adjustments of how the webbing was tied to the picket and how the picket was angled, I was able to get itself to (seemingly) burrow down into the snow when loaded. A pretty worthless piece, if you&acirc;&#128;&#153;d ask me, but I at least hoped that it could take a relatively static fall as a top rope anchor as I downclimbed to the block where I hoped to find more pro.
+<br>
+<br>
+
+I downclimbed very slowly, sometimes purposefully collapsing steps as I stomped them down to make sure they&acirc;&#128;&#153;d hold. It was like aid testing in snow! At last I reached the block and . . . no pro. As I traversed beneath it I refused to accept this situation and spent some time digging in the snow before I found a crack. I happily plugged in my first real piece of the climb about 70 ft into it and began another snow traverse that was no better than the previous ones.
+<br>
+<br>
+
+In the beam of my headlamp I could see rocks ahead and I approached these eagerly as if they were an island of safety. At first they were, but still no pro. I dug out more snow but wherever the rock planes met the cracks were either choked with ice or too thin to take nuts. 
+<br>
+<br>
+<b>But aha! I had brought pins and a tool with a hammer!</b>
+<br>
+<br>
+<b>But oh no! I couldn&acirc;&#128;&#153;t place them here! Crap!</b>
+<br>
+<br>
+
+I was on my tippy toes, barely balanced on the thin edges on the rock. While I have practiced placing pins, I hadn&acirc;&#128;&#153;t practiced placing them with one hand. The cracks were too shallow to set a pin and let go to grab the hammer, and I was more worried about falling off while trying to place the pin than I was in being unable to find a piece of pro at the next corner. So I kept traversing as the rock got steeper and the climbing got thinner. 
+<br>
+<br>
+
+After another 15-20 ft of traversing (maybe another 40 ft out from my one cam for the pitch), the &acirc;&#128;&#152;ledge&acirc;&#128;&#153; I was on just ended. I was stepping on two thumb-sized edges at the time, neither one big enough for more than one boot tip, spaced about 4 ft apart. I looked down with my headlamp, and the rock beneath my feet dropped away so steeply that the only rock I could see was very feint in the light.
+<br>
+<br>
+<b><i>Note to self &acirc;&#128;&#147; falling here will result in a big and unpleasant pendulum flight into space. DO NOT FALL HERE.
+</i></b>
+<br>
+<br>
+
+To my right the rock was featureless. I looked around for a long time for hand holds and footholds but I couldn&acirc;&#128;&#153;t find anything. I was at a corner in the rock, but it seemed scarcely more feasible. The corner didn&acirc;&#128;&#153;t have anything to grab or jam in it. On the left there was a 5 ft wall that topped out with a steep slab, but it had a lot of snow on it and as I swept my hand around to clean it off, I couldn&acirc;&#128;&#153;t find any cracks or features to crimp.
+<br>
+<br>
+
+I tried cleaning out the corner crack some more and found a shallow groove. Too thin to get in a finger jam, too high to really be able to stick my finger into it, and frankly I&acirc;&#128;&#153;d rather have pro here instead. At least I could alpine aid off of it if I got desperate! As I reached up with a microcam my left foot popped off of the thin edge I was standing on.
+<br>
+<br>
+
+&acirc;&#128;&#156;Guuuuuuh!&acirc;&#128;&#157; I blurted as I tensioned my body and pressed my outstretched hand into the corner to prevent from barndooring off the rock.  &acirc;&#128;&#156;Baaaah!&acirc;&#128;&#157;
+<br>
+<br>
+
+Luckily most of my weight was already on my right foot, so once I caught the swing I shoved in the cam, grasped it with one hand in case anything else popped off, and clipped the rope to it with my other hand. 
+<br>
+<br>
+
+&acirc;&#128;&#156;Whew!&acirc;&#128;&#157;
+<br>
+<br>
+
+Still, it was a micro-cam in a snow-choked crack. I set in a nut and gave it a good yanking with the greater confidence of my current top-rope, equalized the pieces, then again weighed my options.
+<br>
+<br>
+
+I refused to give in so easily to yanking up on the pro. Besides, I didn&acirc;&#128;&#153;t see where else I could go with climbing or additional pro once I did so as all of the rock that had cleared off above it was devoid of any more cracks. With the greater security of the pro, I stood up higher and swept away snow with my axe higher on the slab, feeling around . . . and . . . hook! 
+<br>
+<br>
+
+The slab ended cleanly in another step above me, but with patient searching I managed to find a small pocket that opened into the corner! It was not very secure for my tool, but just large enough for a decent one handed crimp. Still no other handholds, no footholds to assist getting onto the slab, and I didn&acirc;&#128;&#153;t know whether I could get my feet to stick onto the slab once there. But if my feet held, I could probably reach out enough to a potential mantel higher in the corner with my free hand, hike my feet up, move the other hand up, and . . . freedom! 
+<br>
+<br>
+
+I crimped <i>hard</i>, yanked up hard on my right arm as I gave a little hop and shoved my left knee onto the slab and my right boot onto the corner to my right. I grunted a few more times as I hiked my legs up before I lost my grip and found some purchase! Up and over the mantel I went, and another 2-3 more between ledge traverses before I ran out of rope.
+<br>
+<br>
+
+I can only imagine how I would have done this pitch without following Kevin &acirc;&#128;&#147; both in knowing that the snow could hold, and having a general idea of a route and that one would go through. If had could have done it without this assistance, I sure would have been MUCH slower! Kudos to Kevin for his badass lead!
+<br>
+<br>
+<i><font color="green">&acirc;&#128;&#156;On this particular pitch I climbed last on rope, and psychological crux was a down-climb after a brief climb up to remove a picket (which protected the leader and first follower). As soon as I took out the picket I was [a ways away] over the next piece of pro with a difficult task - a crumbling layer (12cm or so) of snow over steep hold-less slab I had to down-climb. I placed my right foot on a previously made step, and it collapsed under my weight. I quickly regained my balance and watched the snow fall into the void. I regained my concentration - this is a no fall zone. 
+
+Somehow I made my way down the slope to Shane, who was belaying me from the rock, and we continue to climb up towards Mark. On the last part we encountered a rock crux of the route - perhaps a poorly protected 5.7, that felt a lot harder in mountaineering boots. Without peeling off Shane and I made it to the ledge and congratulated Mark on a fine lead.&acirc;&#128;&#157;</font></i>&Acirc;&nbsp;</div>
+<div>
+<br>
+</div>
+<div>Of course everything is harder in boots, with a pack, on snow, and especially when these are combined  with a slab were friction is no longer an option, but amongst me, and Shane and Vitaliy following on a virtual top rope, conservatively we&acirc;&#128;&#153;d rate the rock crux section a freaky, awkward, and insecure 5.6. Talk about your Sierra class 3-4 route! Of course we may have been off route by this point . . .
+<br>
+<br>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh3.googleusercontent.com/-18kuMB-d0k8/Tm-ozzm4J0I/AAAAAAACs_I/mGJIwVUrMJY/s2000/Bob-DSC05582.jpg"><img height="300" src="https://lh3.googleusercontent.com/-18kuMB-d0k8/Tm-ozzm4J0I/AAAAAAACs_I/mGJIwVUrMJY/s640/Bob-DSC05582.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Where the class 4 route <i>should</i> go, and where I think we actually went. 
+<br>
+<i>(Photo by Bob Burd, Annotation by Mark Thomas)</i></i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<br>
+<h4>
+<a name="TOC-Pitch-14-Are-We-There-Yet-"></a>Pitch 14 &acirc;&#128;&#147; Are We There Yet?</h4>
+
+Vitaliy and Shane were just as shaken as I was following the last pitch. They had wondered why I was taking so long but quickly understood once they started out. Now at last the difficulties were behind us! There appeared to be about 30 ft more of some straightforward traversing on sloping slabs before reaching snow. Kevin and Max&acirc;&#128;&#153;s footprints receded up into darkness. The couloir looked a lot narrower than I had expected. Also, the notch I had promised Vitaliy and Shane was nowhere in sight. I believed that maybe I would climb about 60 ft or so up the snow couloir and find the notch on my left, so I started out with this idea in mind.
+<br>
+<br>
+
+180 ft out the couloir was only getting steeper and the rock walls only hemmed me in more securely. There was no notch that I could see to my left. Oops. (It turned out from looking at photos later that it was there, but didn&acirc;&#128;&#153;t cut all the way through the ridge. It was small enough that the flat area was probably buried by snow in the couloir).
+<br>
+<br>
+
+I shouted to Shane and Vitaliy to just start climbing. I put in a piece of pro for good measure and kept on climbing. The couloir kept getting steeper, but compared to the earlier climbing it was a breeze. The snow was solid for the feet and axes, and Kevin and Max&acirc;&#128;&#153;s steps were deep and solid. We were exhausted, but the climbing was straightforward, like walking up a stairmaster. Near the top the snow narrowed as I passed through a choke with a class 3 move or two, then steepened to about 60 degrees (at least my knees where banging into the snow here). 
+<br>
+<br>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh4.googleusercontent.com/-eEkESjfFtBg/Tm-pvYgH9PI/AAAAAAACSPk/aE_Ya-w8n24/s2000/023-Vitaliy-10-188300_10150116012602270_515072269_6166630_4062594_n.jpg"><img src="https://lh4.googleusercontent.com/-eEkESjfFtBg/Tm-pvYgH9PI/AAAAAAACSPk/aE_Ya-w8n24/s640/023-Vitaliy-10-188300_10150116012602270_515072269_6166630_4062594_n.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>The snow chute seen from the notch the following day
+<br>
+<i>(Photo by Vitaliy)</i></i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<br>
+<br>
+
+At last I reached the notch! It was about midnight and Kevin and Max were already sound asleep. Fortunately the notch had ample space on flat ledges to comfortably fit everyone. I belayed Vitaliy and Shane up and the 3 of us set up camp on a large ledge above Kevin and Max and prepared for a cold night. Shane fired up the jetboil for water while I took of my soaking wet boots &acirc;&#128;&#147; now frozen. My socks were sopping wet so I changed into fresh socks and put on the camp booties that I brought. I might be cold, but my feet sure won&acirc;&#128;&#153;t be! 
+<br>
+<br>
+
+Vitaliy and Shane retired into their bivy sacks while I crawled into my backpack for the night. I think I&acirc;&#128;&#153;m getting pretty used to this. With 5 people at this bivy, this was by far a new record for me. For his third bivy with me (now tied with Dirk!), I think Vitaliy got his wish this time and was actually at a Saturday night party with stars and alcohol :-P
+<br>
+<br>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh4.googleusercontent.com/-JjA4x-Zq6Q4/Tm-punsaPGI/AAAAAAACSPY/_TQedAzJRuY/s2000/021-Vitaliy-8-199056_10150116012247270_515072269_6166626_5309500_n.jpg"><img src="https://lh4.googleusercontent.com/-JjA4x-Zq6Q4/Tm-punsaPGI/AAAAAAACSPY/_TQedAzJRuY/s640/021-Vitaliy-8-199056_10150116012247270_515072269_6166626_5309500_n.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Carl Heller Winter Party</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<br>
+<br>
+<h2>
+<a name="TOC-Sunday-March-13"></a>Sunday, March 13</h2>
+<h3>
+<a name="TOC-Getting-Home-in-10-Easy-Steps"></a>Getting Home in 10 Easy Steps</h3>
+
+This was going to be one of those days where it is best to focus on getting back home one step at a time rather than thinking of the full journey that still lay ahead.
+<br>
+<br>
+<h4>
+<a name="TOC-Step-1:-Get-Out-of-Your-Backpack"></a>Step 1: Get Out of Your Backpack</h4>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh4.googleusercontent.com/-tLaNY4KSnBU/Tm-pprjW3bI/AAAAAAACSPc/J2abqn_JgJ4/s2000/022-Max-6-199713_1667227648788_1480207555_31602228_3798768_n.jpg"><img src="https://lh4.googleusercontent.com/-tLaNY4KSnBU/Tm-pprjW3bI/AAAAAAACSPc/J2abqn_JgJ4/s640/022-Max-6-199713_1667227648788_1480207555_31602228_3798768_n.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Sunrise
+<br>
+<i>(Photo by Max)</i></i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<br>
+<br>
+
+It was getting light and we should be moving, but no one is making an effort to get started &acirc;&#128;&#147; except for Max. When I fully woke up to enjoy the alpenglow Max was already high on the sub-summit of Carl Heller on the north side of out bivy notch, taking pictures. He was also shouting at us to move our lazy butts, but no one paid Max any attention.
+<br>
+<br>
+
+&acirc;&#128;&#156;Guys! We must get going! A storm is coming!&acirc;&#128;&#157; Max yelled to coax us from our shivering half-slumber. 
+<br>
+<br>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh6.googleusercontent.com/-XpdtL9L9TKY/Tm-pbD-CdmI/AAAAAAACs-4/5fs7_2IaVfc/s2000/2011-03-13%2520-%252000%2520-%2520Looking%2520down%2520on%2520the%2520Bivy%2520-%2520Max%2520-%2520Annotate.jpg"><img src="https://lh6.googleusercontent.com/-XpdtL9L9TKY/Tm-pbD-CdmI/AAAAAAACs-4/5fs7_2IaVfc/s600/2011-03-13%2520-%252000%2520-%2520Looking%2520down%2520on%2520the%2520Bivy%2520-%2520Max%2520-%2520Annotate.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>The Bivy Party &amp; Our Route to the Summit
+<br>
+<i>(Photo by Max, Annotations by Mark)</i></i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<br>
+<br>
+
+This started to get our attention, and when the orange glow of sunlight suddenly faded and snowflakes started falling, we quickly got our act together. There were some ugly clouds covering some of the peaks to the West &acirc;&#128;&#147; not really a storm, but still ugly nonetheless and we wanted to be as low and close to camp as possible before they hit us. 
+<br>
+<br>
+<h4>
+<a name="TOC-Step-2:-Climb-1-More-Pitch-Ascend-100-ft-"></a>Step 2: Climb 1 More Pitch (Ascend 100 ft)</h4>
+
+Kevin and Max were the first ones ready to go and were searching for a way up to the summit while Shane, Vitaliy, and I roped up. The climbing didn&acirc;&#128;&#153;t look too hard, but some sections were just exposed enough that with boots and a pack we decided we might as well play it safe. I led off at about the time that Kevin reached the summit. I traversed around a ledge, climbed up into an alcove, and not seeing anything that looked like 3rd class, I then traversed back left on a very thin ledge. Around the corner I found a nice wide double crack. Still not 3rd class, but it too hand jams well and was wide enough for some secure boot jams. The crack was very steep and about 5.5, but was over shortly and I traversed back right over to a higher tier in the alcove. 
+<br>
+<br>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh4.googleusercontent.com/-cE9CRoMqwYc/Tm-puzGptOI/AAAAAAACSPo/PEcoGJsV4_g/s2000/024-Vitaliy-9-197700_10150116012472270_515072269_6166629_6730354_n.jpg"><img src="https://lh4.googleusercontent.com/-cE9CRoMqwYc/Tm-puzGptOI/AAAAAAACSPo/PEcoGJsV4_g/s640/024-Vitaliy-9-197700_10150116012472270_515072269_6166629_6730354_n.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Kevin and Max searching for a way to the summit from the notch
+<br>
+<i>(Photo by Vitaliy)</i></i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<br>
+<br>
+
+The route then went down an awkward half-tube in the wall and then up and left, where the climbing became more your standard 3rd class. Rope drag was terrible even though I only left 2 pieces of pro in on all of the zig-zagging, and those pieces did not adequately protect the cruxes (considering what we climbed yesterday, I figured Vitaliy and Shane couldn&acirc;&#128;&#153;t complain about this part). A few hard leg presses later and I too was at the summit. I belayed Vitaliy and Shane up and we all celebrated reaching the summit. It was a great experience to have the five of us up there. This summit had come to mean something special to me and Vitaliy for our own personal reasons, and it felt like a superb achievement for all 5 of us to be up there sharing the moment together.
+<br>
+<br>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh3.googleusercontent.com/-E-PrM5jOL4o/Tm-psAL7O2I/AAAAAAACSPs/Ri1TaXCoqmw/s2000/025-Kevin-4-197132_1918497243604_1277197139_2321415_745278_n.jpg"><img src="https://lh3.googleusercontent.com/-E-PrM5jOL4o/Tm-psAL7O2I/AAAAAAACSPs/Ri1TaXCoqmw/s260/025-Kevin-4-197132_1918497243604_1277197139_2321415_745278_n.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Shane reaching the summit
+<br>
+<i>(Photo by Kevin)</i></i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+<td>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh5.googleusercontent.com/-4gEoLgIfNvY/Tm-pqcTIdLI/AAAAAAACSPw/znzT4wMAcUw/s2000/026-Max-8-188683_1667231688889_1480207555_31602250_3888288_n.jpg"><img src="https://lh5.googleusercontent.com/-4gEoLgIfNvY/Tm-pqcTIdLI/AAAAAAACSPw/znzT4wMAcUw/s260/026-Max-8-188683_1667231688889_1480207555_31602250_3888288_n.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Max on the summit
+<br>
+<i>(Photo by Kevin)</i></i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+<td>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh5.googleusercontent.com/-T8ypq6csE2U/Tm-ppxQiBfI/AAAAAAACSP4/g10QItp4e5o/s2000/027-Max-7-200051_1667231328880_1480207555_31602248_7464819_n.jpg"><img src="https://lh5.googleusercontent.com/-T8ypq6csE2U/Tm-ppxQiBfI/AAAAAAACSP4/g10QItp4e5o/s260/027-Max-7-200051_1667231328880_1480207555_31602248_7464819_n.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Mark Thomas, Vitaliy Musiyenko, and Max Belyakov on the summit. Weather is beginning to deteriorate, so it was time to head down
+<br>
+<i>(Photo by Kevin)</i></i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<br>
+<br>
+<i><font color="green">&acirc;&#128;&#156;As I scrambled over the last head-wall I saw Maxim, Kevin and Mark sitting on rocks across. A big smile grew on my face - we did it! I was on top of the world again. Not too far south I saw a peak which for me was the top of the world exactly a year ago - Mt. Whitney. To the north I saw clouds rolling over another pinnacle of my progression back in May 2010 - Mt. Williamson. For several minutes I was in paradise - worries about climbing down, getting back to camp, hiking out through George creek, and driving back to the Bay Area had left me. My reality was here and now - ideal. I was in the place I hoped to see for almost a year, sharing a moment with a group of strong partners who worked hard, sacrificed their comfort, and risked their safety to get here.&acirc;&#128;&#157;</font></i>
+<br>
+<br>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh5.googleusercontent.com/-wAlq-D6Qd_A/Tm-pcddgGnI/AAAAAAACST8/1jw6Mq0rzfo/s2000/2011-03-13%2520-%252001%2520-%2520Looking%2520down%2520on%2520the%2520East%2520Ridge%2520from%2520the%2520Summit.jpg"><img src="https://lh5.googleusercontent.com/-wAlq-D6Qd_A/Tm-pcddgGnI/AAAAAAACST8/1jw6Mq0rzfo/s260/2011-03-13%2520-%252001%2520-%2520Looking%2520down%2520on%2520the%2520East%2520Ridge%2520from%2520the%2520Summit.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Looking down on the East Ridge from the summit</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+<td>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh3.googleusercontent.com/-tTdtR0S9EG0/Tm-peVpWc3I/AAAAAAACSUI/J4dFqg2sSa8/s2000/2011-03-13%2520-%252004%2520-%2520Mt%2520Russel%2520%2526%2520Morgenson.jpg"><img src="https://lh3.googleusercontent.com/-tTdtR0S9EG0/Tm-peVpWc3I/AAAAAAACSUI/J4dFqg2sSa8/s260/2011-03-13%2520-%252004%2520-%2520Mt%2520Russel%2520%2526%2520Morgenson.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Mt Russell &amp; Mt Morgenson</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+<td>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh6.googleusercontent.com/-5aqzwyk6cGw/Tm-pfLtGehI/AAAAAAACSUM/_MJ6848t2Og/s2000/2011-03-13%2520-%252005%2520-%2520Mt%2520Hale.jpg"><img src="https://lh6.googleusercontent.com/-5aqzwyk6cGw/Tm-pfLtGehI/AAAAAAACSUM/_MJ6848t2Og/s260/2011-03-13%2520-%252005%2520-%2520Mt%2520Hale.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Mt Hale</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<br>
+<br>
+<h3>
+<a name="TOC-Getting-Back-to-Camp"></a>Getting Back to Camp</h3>
+<h4>
+<a name="TOC-Step-3:-Descend-1-700-ft"></a>Step 3: Descend 1,700 ft</h4>
+
+
+Down we went. It was hard to tell where to go at first, but eventually we found the exposed ledge system that zig-zagged down from the south side of the summit. I stopped at a block to make a rappel station while Kevin continued searching ahead for a way down. I just wanted to get onto solid ground and figured this rappel wouldn&acirc;&#128;&#153;t take too long to set up and would make things safer for everyone since we were all very tired.
+<br>
+<br>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh3.googleusercontent.com/-UYplPucxrFw/Tm-pgbj-iII/AAAAAAACSUU/ByO8edBLzqk/s2000/2011-03-13%2520-%252007%2520-%2520Max%2520Descending%2520the%2520SW%2520Face.jpg"><img src="https://lh3.googleusercontent.com/-UYplPucxrFw/Tm-pgbj-iII/AAAAAAACSUU/ByO8edBLzqk/s640/2011-03-13%2520-%252007%2520-%2520Max%2520Descending%2520the%2520SW%2520Face.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Max descending slopes below the cl. 3-4 SW Face of Carl Heller</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<br>
+<br>
+
+Kevin zoomed ahead and was out of sight by the time we finished the rappel. From here on the downclimb was mostly moderately loose cl. 2 interrupted regularly by short sections of cl. 3 slabs and steps. The route down was pretty straightforward as we rounded the corner. The final 100 ft was tricky, though, as here the downward sloping slabs became larger and ended in larger cliffs. I reached a narrow chute of snow that cut down through several steps, with a short zig-zag scramble to bypass a drop before reaching the safety of the snow slopes below. In haste I left my crampons off and started kick-stepping down the snow chute.
+<br>
+<br>
+
+Suddenly my steps didn&acirc;&#128;&#153;t go in very well and a foot popped out. Did I reach snow covered slab? Not again! I found some small points of purchase beneath the snow, began daggering, and made it down a little further before this happened again. I tried daggering my tool in and it didn&acirc;&#128;&#153;t do in. I swung and it bounced off of the snow. Must be slab covered rock, I thought, wiping away the snow to reveal a dark black sheen. Hard ice! Oops. 
+<br>
+<br>
+
+&acirc;&#128;&#156;Max!&acirc;&#128;&#157; I shouted up as he was entering the snow chute. &acirc;&#128;&#156;Put on your crampons! There is ice down here!&acirc;&#128;&#157; 
+<br>
+<br>
+
+Apparently the slabs above were collecting a lot of the snow meltwater and channeling it down these grooves, where the meltwater easily formed up into hard ice at these cold winter elevations. I really didn&acirc;&#128;&#153;t want to fall where I was and didn&acirc;&#128;&#153;t trust climbing back up, to I delicately hoisted myself onto a nearby slab and delicately put on once crampon at a time from my delicate perch while Max, learning from my mistake, found a better way down. Once I was securely in my crampons, another 50 ft of front pointing and cl. 3 slab scrambling in crampons had me down to the snow.
+<br>
+<br>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh4.googleusercontent.com/-Lur6_6Yn8B0/Tm-piJTInKI/AAAAAAACSUk/TKcR29zVIa0/s2000/2011-03-13%2520-%252010%2520-%2520Mt%2520Morgenson.jpg"><img src="https://lh4.googleusercontent.com/-Lur6_6Yn8B0/Tm-piJTInKI/AAAAAAACSUk/TKcR29zVIa0/s400/2011-03-13%2520-%252010%2520-%2520Mt%2520Morgenson.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Mt Morgenson from Wallace Lake</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+<td>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh5.googleusercontent.com/-EptnTGewL-w/Tm-pirTHUdI/AAAAAAACSUo/Y_m1xJEPi5o/s2000/2011-03-13%2520-%252011%2520-%2520Mt%2520Hale%2520N%2520Ridge.jpg"><img src="https://lh5.googleusercontent.com/-EptnTGewL-w/Tm-pirTHUdI/AAAAAAACSUo/Y_m1xJEPi5o/s400/2011-03-13%2520-%252011%2520-%2520Mt%2520Hale%2520N%2520Ridge.jpg" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>North Ridge of Mt Hale from Wallace Lake</i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<br>
+<br>
+
+
+Max and I quickly made it down the snow slopes and met Kevin waiting for us there.  Now for more descending at traversing along Wallace Lake to reach the dreaded 1,000 ft climb back up to Vacation Pass. As we dropped low I saw Vitaliy and Shane just reaching the snow slopes and traversing high towards Vacation Pass.  I had read about people getting cliffed out doing that very thing in summer.
+<br>
+<br>
+
+&acirc;&#128;&#156;Shane! Vitaliy! You&acirc;&#128;&#153;re going the wrong way! Don&acirc;&#128;&#153;t traverse! Come down here!&acirc;&#128;&#157; 
+<br>
+<br>
+
+They continued traversing, so I left them to their fate and hurried after Max and Kevin.
+<br>
+<br>
+<h4>
+<a name="TOC-Step-4:-Ascend-1-100-ft"></a>Step 4: Ascend 1,100 ft</h4>
+
+
+This really sucked. REALLY sucked! I was beat, but the faster I could climb the slope the faster it would be over. Sunlight shone off and on and it began to warm up again. Snow balled up on the crampons and we sunk deeply into the snow. Since I had done a lot of the trailbreaking on the approach I decided to strategically/shamelessly leech off of Max and follow in his footsteps up the slope. Shane and Vitaliy eventually found a way through the cliffs and started following our tracks when we were about halfway up to the pass. We reached harder snow again and climbing got easier as we could front-point instead of kicking steps. Max cut off towards easier slopes to the right while Kevin and I kept left in order to make sure we didn&acirc;&#128;&#153;t get cliffed out at one of the notches. 
+<br>
+<br>
+
+Once at Vacation Pass, the winds returned with a vengeance and clouds and snowfall began to move back in. Time to get down!
+<br>
+<br>
+<h4>
+<a name="TOC-Step-5:-Descend-1-500-"></a>Step 5: Descend 1,500&acirc;&#128;&#153;</h4>
+
+
+A lot of postholing through the flat white, head down, legs moving - the going was no longer tiring but more tedious. We all rushed down in one push. 
+<br>
+<br>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh5.googleusercontent.com/-oEddJ75tXfA/Tm-plGOpXCI/AAAAAAACSQA/5e73BM2Efe0/s2000/028-Shane-6-IMG_1781.JPG"><img src="https://lh5.googleusercontent.com/-oEddJ75tXfA/Tm-plGOpXCI/AAAAAAACSQA/5e73BM2Efe0/s640/028-Shane-6-IMG_1781.JPG" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>Vitaliy at Vacation Pass as another snow flurry moved in. Carl Heller &amp; the East Ridge are behind.
+<br>
+<i>(Photo by Shane)</i></i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<h3>
+<a name="TOC-Escape-from-George-Creek-Part-II-Back-with-a-Vengeance"></a>Escape from George Creek Part II &acirc;&#128;&#147; Back with a Vengeance</h3>
+<h4>
+<a name="TOC-Step-6:-Eat-Rehydrate-Pack-Up-Camp-Repack-Packs-with-Camp-Gear"></a>Step 6: Eat, Rehydrate, Pack Up Camp, Repack Packs with Camp Gear</h4>
+
+As I reached the camp Max already had the stove going to restock our water and we ate and drank to restore our reserves as we packed up camp for the long deproach. Having only spent one night in the mega-light, I think using it to accommodate 5 people required way too much time to set up and take down with the extra digging required, even with 5 people helping. Maybe it would have been worth it for two nights &acirc;&#128;&#147; maybe.
+<br>
+<br>
+<h4>
+<a name="TOC-Step-7:-Descend-5-100-"></a>Step 7: Descend 5,100&acirc;&#128;&#153;</h4>
+
+
+Kevin started off slowly while we finished packing up camp. We dropped the first 3,000 ft very fast and it looked like we might be able to make it out before dark. We especially wanted to be out before dark as it is easy to get lost on the thicker bushwacking section of George Creek, and that is encountered in the lowest part of the canyon. People have had to bivy because of this, and we really didn&acirc;&#128;&#153;t want to bivy less than 1 mile from the cars!
+<br>
+<br>
+
+All was going well until about we reached about 8,400 ft when suddenly the straps holding my foot piece to my snowshoe snapped and I plunged into the snow. 
+<br>
+<br>
+<b>My left snowshoe was broken! Crap!</b>
+<br>
+<br>
+
+I had to be very careful with my left leg due to a returning ACL injury and this would NOT be the place to re-tear my ACL! Postholing between rocks &amp; logs on the downhill with nearly 70lbs on my back with one functional pole while tired was not the way to do that. I wished that I had brought my knee brace for this climb.
+<br>
+<br>
+
+After a bit of a delay repairing the snowshoe with webbing, I walked slowly down after the others, taking care not to destroy the delicate repair I had made to reattach the foot mount to the snowshoe. I could only imagine how it would hold up once we got to the nasty snow section where we had postholed like crazy in the numerous buried moats.
+<br>
+<br>
+
+Just as we reached the dreaded shallow snow section I began to catch up to Kevin. I had been seeing a single boot print in the tracks ahead of me, often post holing, and I began wondering what was going on. Apparently Kevin&acirc;&#128;&#153;s snowshoe broke as well! It was already getting dark and one by one George Creek seemed to be shutting us down. Still, as we got lower Kevin&acirc;&#128;&#153;s speed increased relative to ours despite his handicap. As we slowed down from physical and psychological fatigue, <b>Robo Climber Kevin</b> just kept on moving without mercy! 
+<br>
+<br>
+
+Luckily the path we had made through the snow two days before was still visible and provided a fairly consolidated path down, with many of the booby traps already revealed. A decent amount of postholing kept us on our toes, but we made faster time back to the brush than I had expected.  Just as on the approach, our boots got drenched from the snow.
+<br>
+<br>
+
+By the time we reached the brush it was already very dark, and it was really hard to tell where to go as it became more difficult to follow our footsteps and snowcover became less continuous. Luckily Kevin, our George Creek war veteran, came to the rescue, charging ahead and finding his way through the brush seemingly effortlessly. Since our boots were already drenched, stream crossings became easier too since we stopped caring as much about just walking through the water. 
+<br>
+<br>
+
+Apart from a few small route finding errors, we made it down without mishap, reaching the cars around 10:40 pm. Kevin had done an impeccable job of maintaining the pace and finding the way through the brush in the dark without really losing his way. More Kudos to Kevin for helping us escape George Creek!
+<br>
+<br>
+
+We had survived a great adventure in the mountains &acirc;&#128;&#147; a hellish bushwack and posthole approach, an incredible but frightening climb, and a deproach that would not let us out easily, but we had risen to every occasion and had finally made it out to the dry warmth and comfort of the cars. Now all we had to do was drive home.
+<br>
+<br>
+<h4>
+<a name="TOC-Step-8:-Eat-at-Denny-s-in-Bishop-the-most-dangerous-part-of-the-climb-"></a>Step 8: Eat at Denny&acirc;&#128;&#153;s in Bishop (the most dangerous part of the climb)</h4>
+<br>
+<h4>
+<a name="TOC-Step-9:-Drive-home-in-snowstorm"></a>Step 9: Drive home in snowstorm</h4>
+<br>
+<center>
+<table>
+<tbody>
+<tr>
+<td>
+<center><a href="https://lh4.googleusercontent.com/-iuCrhhvZdwY/Tm-o1UkrpuI/AAAAAAACSNw/UrJzAjAo5KQ/s2000/001-Shane-1-photo.JPG"><img height="300" src="https://lh4.googleusercontent.com/-iuCrhhvZdwY/Tm-o1UkrpuI/AAAAAAACSNw/UrJzAjAo5KQ/s640/001-Shane-1-photo.JPG" style="border-width:0px;background-color:transparent"></a></center>
+</td>
+</tr>
+<tr>
+<td>
+<center><b><i>A common scene on Sierra winter mountaineering trips.
+<br>
+<i>(Photo by Shane)</i></i></b></center>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<br>
+<h4>
+<a name="TOC-Step-10:-Report-Straight-to-Work-at-10-am-After-Showering."></a>Step 10: Report Straight to Work at 10 am After Showering.</h4>
+<br>
+<hr>
+<hr>
+<h2>
+<a name="TOC-Aftermath---Popsickle-Toes"></a>Aftermath - Popsickle Toes</h2>
+Despite our proper footwear and diligent attempts to keep our feet warm and dry, apparently the cold and moisture of this climb took a toll on me, Shane, and Kevin. Kevin ended up getting a little bit of frostnip on his toes. Shane had beat up and blistered feet from kneading his toes in his boots during the bivy to keep them warm. 
+<br>
+<br>
+
+For me I did much better keeping my feet warm on this climb as compared to most of my previous winter outings, but the extended sections of climbing in snow had kept my feet cool enough and had gotten my boots much more wet than usual. This probably wouldn&acirc;&#128;&#153;t have been a problem except for my bad immersion foot injury that I had sustained on Mt Shasta a year prior. This left my foot more vulnerable to cold injuries, and this vulnerability reared its ugly head on this trip &acirc;&#128;&#147; the immersion foot had returned. I had no suspicion of this problem until I got my feet into completely dry socks and my feet fully warmed, at which point my toe hurt like hell. 
+<br>
+<br>
+
+Since I knew what to expect, I took some photos this past week as the toe went numb, then regained feeling, bruised up, blistered, bled, and then began to heal. Fortunately my toe is recovering quickly &acirc;&#128;&#147; in fact I had a good session of crack climbing yesterday! I&acirc;&#128;&#153;m looking for ways to prevent this from happening again &acirc;&#128;&#147; perhaps more spare socks or the use of vapor barrier socks on the wetter winter climbs are in order? I&acirc;&#128;&#153;d better find a solution soon or Vitaliy says he won&acirc;&#128;&#153;t let me into any of his toe fetish parties :-o
+<br>
+<br>
+
+If you like gruesome pictures, enjoy the following documentation of immersion foot injuries.  If you don&acirc;&#128;&#153;t like gruesome pictures, check out <a href="http://animals.esterov.com/images/other_llama_1.jpg">this picture</a> instead.
+
+<ul>
+<li>
+<a href="https://lh4.googleusercontent.com/_or_7Q5ytcj4/TYhFhLBDuMI/AAAAAAAAIhw/NWG6LKDYK8E/s512/Immersion%20Toe%20Injury%20-%20Group%201%20copy.jpg">Mark's Immersion Toe Recurrence Study #1</a>
+</li>
+<li>
+<a href="https://lh5.googleusercontent.com/_or_7Q5ytcj4/TYhFiDAcPWI/AAAAAAAAIhw/0EWDF5JWg00/s640/Immersion%20Toe%20Injury%20-%20Group%202.jpg">Mark's Immersion Toe Recurrence Study #2</a>
+</li>
+<li><a href="https://lh5.googleusercontent.com/_or_7Q5ytcj4/TYhHN2XFaII/AAAAAAAAIh4/qHgmbfzFVpw/s512/Shane-photo%20%281%29.JPG">Shane's Worn Toes</a></li>
+</ul>
+<div>
+<br>
+</div>
+<hr>
+<hr>
+<h2>
+<a name="TOC-Links"></a>Links</h2>
+<ul>
+<li><a href="https://picasaweb.google.com/105894936663116565516/20110311to13CarlHellerERidge02?authuser=0&amp;feat=directlink">Picasa Album</a></li>
+<li><a href="http://www.summitpost.org/partying-like-a-g6-on-the-east-ridge-of-carl-heller-in-winter-style/705800">SummitPost TR</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+</div>
+</div> 
+page_id: 33 
+page_menu_name: Mt Carl Heller (E Ridge) (Winter) 
+page_url: /mountaineering/trip-reports/california/2011-03-13-carlheller 
+title: Partying Like a G6 on the East Ridge of Carl Heller (In Winter Style) 
+type: Trip_Report 
+

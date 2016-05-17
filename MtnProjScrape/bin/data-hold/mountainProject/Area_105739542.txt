@@ -1,0 +1,10 @@
+area_name: The West Slabs Rock Climbing  
+area_url: /v/the-west-slabs/105739542 
+description: The North summit of Mt. Olympus can be seen from most of Salt Lake City.  The West Slabs are on the far right of the visible face.  They can easily be picked out by a big drainage (often filled with snow) which goes up to the base.  Above the drainage is a huge low angle face.  The face can be climbed basically anywhere, and is over 1500' feet high. 
+getting_there: Check out Ruckman's newest guidebook for really good directions.  The old Wasatch Climbing North guidebook by Ruckman has out of date instructions which were the norm before new houses were built.  The parking for this face is in a subdivison above Wasatch Blvd.  To get there, turn from Wasatch onto Oakview, then a right on Jupiter, a left on Adonis, and a right on Thousand Oaks Drive.  Keep following the dead end signs up to Thousand Oaks Circle.  Park here.  At the end of this circle, a really steep dirt trail heads up the hill.  Take the first left off of this (not very pronounced, only a short distance from the road), which goes up to a dirt road.  Go left on this dirt road, almost immediately encountering a black gate with a security camera in view.  Skirt around this fence on the uphill side using the obvious trail.  Drop back down to the road once past the fence.  Follow this road for quite a ways, eventually finding a cairn which makes an exit trail.  Follow this a small ways to another good cairn in a drainage.  This drainage is the key to finding the route.  Just follow the drainage, which trends right (south), and eventually starts climbing up to the slabs.  The last long strectch which approaches the slabs is often filled with snow.  An ice axe is very useful, and some people even use crampons (probably not necessary).  Finish up this couloir to the base of the slabs. 
+id: 105739542 
+latitude: 40.66139 
+longitude:  -111.78065  
+parent_name: Mount Olympus 
+parent_url: /v/mount-olympus/105739304 
+

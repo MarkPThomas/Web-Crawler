@@ -1,0 +1,11 @@
+id: 105872943 
+parent_name: Crescent Spire 
+parent_url: /v/crescent-spire/105868074 
+route_description: This is another good climb that's close to camp for those days when the weathers not so good.  This route is also a classic so you might have to wait in line.  P1:  Climb up flakes to a small corner roof, step left to another crack and continue up a short chimney to a belay on top of a pillar. (5.9) (Or just jam straight up the roof with perfect hands at 5.10)  P2:  This pitch is classic.  Follow a finger and hand crack out left from above the belay to an alcove.  Climb up through the alcove jamming the outstanding crack up a steep face to a ledge and belay at a chain anchor. (5.10-) (the first two pitches can be combined)  P3:  Climb some corners and easy ground up and to the right to another anchor. (5.4)  P4:  Step right from the anchor behind a flake and climb up a nice corner to a roof.  Traverse out right under the roof to another corner and pull a second roof to a belay ledge on the left with chains. (5.9)  P5:  Climb some cracks on the face to the right and gain a corner which leads to another ledge with chains. (5.8)  P6:  Climb up a steep corner and then scramble left around the arete.  Continue up a face to the ridge crest and belay. (5.7)  
+route_name: McTech Arete  
+route_quality: 0.925 
+route_rating:  YDS: 5.10- 
+route_rating_original: YDS: 5.10- 
+route_type: Trad, Alpine, 6 pitches, 500',  Grade III 
+route_url: /v/mctech-arete/105872943 
+

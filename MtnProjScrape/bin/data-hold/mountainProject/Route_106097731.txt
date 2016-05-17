@@ -1,0 +1,11 @@
+id: 106097731 
+parent_name: Gong Show Wall 
+parent_url: /v/gong-show-wall/105817188 
+route_description: Once you scramble up a 3rd class ramp, negotiate the menacing off-width above by, well, staying to the left and bypassing it altogether. After a few scrambly moves (5.9/5.10ish), step ACROSS the off-width to your right, then face climb excellent rock past a couple bolts, then turn the lip onto some edgy slab. Gain the crack--which is now on your left--then charge up a slammer handcrack till the crack abruptly angles right into a traversing finger crack (the crux) with nothing but glacial polish for feet. Fire the finger crack then finish the pitch with 15 feet of stellar hand-jamming.  
+route_name: Wages of Skin  
+route_quality: 0.925 
+route_rating:  YDS: 5.10+ 
+route_rating_original: YDS: 5.10+ 
+route_type: Trad, 80' 
+route_url: /v/wages-of-skin/106097731 
+

@@ -1,0 +1,10 @@
+area_name: Boulder Rock Climbing  
+area_url: /v/boulder/105801420 
+description:  
+getting_there: By Air - you can fly into Denver International Airport (DIA) which lies probably 1 1/4 hours time from Boulder.  You can fly into Jefferson County Airport (private and small planes) which lies probably 15 minutes SE of Boulder.  By Car - this small community of climber-overrepresentation lies approximately 40 minutes NW of Denver on US 36.  From the S, you can access it via CO Hwy 93 (aka Broadway in Boulder).  From the E, you can access it off CO Hwy 119.  From the N, you can access it via US 36. From the W, you can access it from CO Hwy 119 or use other possibly more circuitous routes. 
+id: 105801420 
+latitude: 40.01788 
+longitude:  -105.27998  
+parent_name: Colorado 
+parent_url: /v/colorado/105708956 
+

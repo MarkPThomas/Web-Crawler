@@ -1,0 +1,11 @@
+id: 106348791 
+parent_name: Royal Arches 
+parent_url: /v/royal-arches/105833402 
+route_description: Trial by Fire is the obvious trough-looking crack splitting the slab on the way up to the start of Super Slide.  At nearly a full (old-school) ropelength, it provides a through introduction to the kind of grunty, meat-and-potatoes climbing that is so frequently encountered in the Valley.  As such, it is worth seeking out on its own, although a nondescript second pitch links it into Super Slide.  This would turn the latter from a casual romp into more of a half-day affair.  Most people will expend more calories getting up the deceptively low-angle groove of Trial By Fire than on the alleged 5.9 business of Super Slide.  Strong likelihood of seasonal wetness. 
+route_name: Trial By Fire  
+route_quality: 0.625 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 1 pitch, 150' 
+route_url: /v/trial-by-fire/106348791 
+

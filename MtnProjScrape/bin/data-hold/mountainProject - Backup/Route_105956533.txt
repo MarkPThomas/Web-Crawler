@@ -1,0 +1,11 @@
+id: 105956533 
+parent_name: Zippy Zebra Wall 
+parent_url: /v/zippy-zebra-wall/105956530 
+route_description: This is the left facing dihedral on the right side of the wall.  There aren't alot of short, quick climbs in Arches;...this is one of them.  It's fun; c'mon;...go do it. 
+route_name: Zippy Zebra  
+route_quality: 0.8 
+route_rating:  YDS: 5.10a 
+route_rating_original: YDS: 5.10a 
+route_type: Trad, 1 pitch, 120' 
+route_url: /v/zippy-zebra/105956533 
+

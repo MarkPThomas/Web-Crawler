@@ -1,0 +1,11 @@
+id: 105718423 
+parent_name: Dark Angel 
+parent_url: /v/dark-angel/105717212 
+route_description: P1: Start on either side of a sandy flake. The FA climbed the left side of the flake at 5.7 and Harvey Carter climbed the right side on the second ascent at 5.8. We did the left side and found it quite hard for 5.7 and very loose and sandy. After scrambling up more choss to the top of the flake, climb a 5.9 fingercrack and make an awkward move left past an old hangerless bolt to the belay.  P2: Climb up left from the belay and do a fun, exposed move over a flake to a bolt ladder. This pitch can be freeclimbed at 5.10 or 5.11 depending on which guidebook you read. There are a couple of bad bolts and the holds are sandy but it looks reasonable to free, just scary with the bolts and rock quality. Then climb run out 5.4 to the summit. Rap anchors are in good condition. Two ropes get you down. 
+route_name: West Face  
+route_quality: 0.575 
+route_rating:  YDS: 5.11 
+route_rating_original: YDS: 5.11 
+route_type: Trad, 2 pitches, 150' 
+route_url: /v/west-face/105718423 
+

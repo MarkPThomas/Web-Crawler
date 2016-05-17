@@ -1,0 +1,10 @@
+area_name: Western Front Rock Climbing  
+area_url: /v/western-front/105870829 
+description: The Western Front offers a half dozen single pitch (80') slab routes (5.9-5.10b). All are R/X as leads, but are easily toproped.   Alan Nelson (1959-2007) did most of the FAs in 1987.   Left --> Right:   1) Fiji Time ( 5.11b/c) 2) Green Eggs and Ham (5.9)  3) March of Dimes (5.10a)  4) New Tricks for Old Dogs (5.10b)  5) Touch of Grey (5.9)  6) Ace in the Hole (5.10a)  7) Deadheads Delight (5.9) 
+getting_there: Park at Cathedral Creek.   Follow the climbers' trail across it to the north, towards the west side of Daff Dome.  Before you reach that area, this cliff is on the right after a short distance. 
+id: 105870829 
+latitude: 37.87652 
+longitude:  -119.41311  
+parent_name: DAFF Area 
+parent_url: /v/daff-area/110652491 
+

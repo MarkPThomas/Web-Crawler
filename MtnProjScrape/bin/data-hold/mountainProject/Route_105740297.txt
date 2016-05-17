@@ -1,0 +1,11 @@
+id: 105740297 
+parent_name: Storm Mountain Island 
+parent_url: /v/storm-mountain-island/105739353 
+route_description: Approach as per Layback Crack.  This climbs the right trending crack in the face.  Finger to hand climbing that proved to be very strenuous.  This climb is beautiful nonetheless.  
+route_name: La Creme De Shorts  
+route_quality: 0.625 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, TR, 1 pitch, 70' 
+route_url: /v/la-creme-de-shorts/105740297 
+

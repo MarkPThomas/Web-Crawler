@@ -1,0 +1,10 @@
+area_name: The 100-yard Wall Rock Climbing  
+area_url: /v/the-100-yard-wall/105956149 
+description: This is a smallish wall a few miles into Arches from the visitor's Center, that has 3 of Arches easiest climbs on it.   
+getting_there: Drive 1.7 miles form the Park's Visitor's Center.  The crag is on the left.  The climbs are on the right side of the wall. 
+id: 105956149 
+latitude:  
+longitude:  
+parent_name: Arches National Park 
+parent_url: /v/arches-national-park/105716757 
+

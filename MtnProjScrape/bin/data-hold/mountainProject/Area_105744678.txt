@@ -1,0 +1,10 @@
+area_name: First Flatiron Rock Climbing  
+area_url: /v/first-flatiron/105744678 
+description: The First is a huge Flatiron with many good face routes starting from the bottom to the top of the East side. It's probably the 2nd largest Flatiron overall.  The climbing is longer and more varied than the Third with huge flakes, dihedrals, and the rollercoaster ridge. Climbs range from about 4-10 pitches. Virtually every climb is a quality line.  There is adventure and there are crowds.  A 60m rope is nice for these routes, especially for the rappel.  On a rare winter, you can even find an ice climb here.... 
+getting_there: From Chautauqua Park (W on Baseline, near 9th, off US 36), take the diagonalling "Chautauqua Trail" from the parking lot. At the trail intersection once in the trees, go briefly south (L), then follow signs (R) for the 1st Flatiron to the base. Depending on which route you're going to do, either take the wooden bridge to the base (routes starting near the nadir) or stay on the trail and keep hiking up the hill to the left to another trail that leads to access for climbs that start higher on the East face (e.g. Fandango).  Approaches range from 20-40 minutes for the casual walker. 
+id: 105744678 
+latitude: 39.9908 
+longitude:  -105.2928  
+parent_name: North 
+parent_url: /v/north/105744231 
+

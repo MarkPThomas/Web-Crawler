@@ -1,0 +1,10 @@
+area_name: The Sentinel - West Face Rock Climbing  
+area_url: /v/the-sentinel---west-face/106621111 
+description: The west face of The Sentinel is an impressive wall stacked with high quality routes ranging from 5.7 to 5.13 in difficulty.    Routes listed from left to right:  The Butt Buttress (5.10b) Flared Bear (5.10b) Great White Buffalo (5.12a) Sweep Walkers (5.9+) Where Janitors Dare (5.7) Where Eagles Dare (5.11d) Not for Loan (5.10b) Some Like It Hot (5.12c) Desert Song (5.11b R) The Scorpion  (5.13c) The Tarantula (5.12c) Illusion Dweller (5.10b) The Centipede (5.11d) The Chameleon (5.12b R) The Rubberfat Syndrome (5.11a TR) Worms in Your Brain (5.11c)  Additionally there are a number of 2nd pitch variations and several traversing routes:  Crystal Keyhole (5.9) Medicine Man (5.11b) Desert Long (5.11b R) I Can't Believe it's a Girl (5.10b) Scared Bare (5.10d R) Desert Tortoise (5.12a/b) New Latitude (5.12a)    
+getting_there: Approach via the nature trail and head left at the fork passing along the base of an obvious large face (The Sentinel - East Face) on the left side of the trail. When you get to the northern end of the formation make a left (heading west) across some rocks and then make another left heading back south to reach the west face. The approach takes 5-10 minutes. 
+id: 106621111 
+latitude: 34.01305 
+longitude:  -116.17126  
+parent_name: The Sentinel 
+parent_url: /v/the-sentinel/105720693 
+

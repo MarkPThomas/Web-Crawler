@@ -1,0 +1,11 @@
+id: 106683463 
+parent_name: Glacier Point Apron 
+parent_url: /v/glacier-point-apron/105862612 
+route_description: One of the only two routes gain to the top of  Glacier Point by Glacier Point Apron.  The only for mortal one.  Take 8 pitches of Goodrich Pinnacle Right Side and another 8 to The Oasis.  First climbed by Lou Renner and Matt Brooks 10/95 as 41 pitches grade 6 challenge. Standard rack as  Goodrich Pinnacle plus few extra quickdraw. First crux 10d on 21 pitch for me was really hard with some pack and possible 10b A0. The second crux (whole block of 7-8 pitches) we bypass by new variation on the right. Definitely must light in one day.  Trip Report from second ascent stanford.edu/~clint/yos/galahi...  Topo from the same site stanford.edu/~clint/yos/galahi...  
+route_name: Galactic Hitchhiker  
+route_quality: 0.625 
+route_rating:  YDS: 5.11b 
+route_rating_original: YDS: 5.11b 
+route_type: Trad, Sport, 20 pitches, 4000',  Grade V 
+route_url: /v/galactic-hitchhiker/106683463 
+

@@ -1,0 +1,11 @@
+id: 106459197 
+parent_name: Mount Rainier 
+parent_url: /v/mount-rainier/105877031 
+route_description: Approach via the White River Campground/Glacier Basin Trail and hike into the base of the ridge on the Carbon Glacier via St. Elmos Pass and across Curtis Ridge (most parties camp on Curtis Ridge). After negotiating the cracks on the Carbon Glacier, start scouting your access onto the ridge (either side can be accessed around 8000 ft). Climb 30-40 degree snow slopes and traverse scree and rocks up to Thumb Rock at 10,500 ft. From Thumb Rock, either go straight up a short ice pitch (70-80 degrees) in the center of a rock band, or traverse up and left/right around the cliff. From 11,000 to 12,000, stay on or near the crest of the ridge and climb increasingly steeper slopes and maybe a few icy sections up to 50 degrees. At 12k (Black Pyramid) go east (left) out onto the Willis Wall on exposed snow/ice faces up to 60 degrees. Climb several pitches of 50-60 degree ice and negotiate steep glacier travel until gaining the Liberty Cap Glacier around 13,500 ft. Seasonal bridges and icy ledges provide passage up onto the glacier - be prepared to climb a few short (5-8 ft) vertical ice sections to surpass the bergschrund and other cracks. Once through, the slope angle decreases until the Liberty Cap summit is reached at 14,112 ft. Either head down from here or go across the broad plateau to a col (13,600 ft) and then on to Columbia Crest at 14,411 ft. Many parties descend the well-traveled Emmons-Winthrop route down to Camp Shurman.      
+route_name: Liberty Ridge  
+route_quality: 0.95 
+route_rating: AI2-3 
+route_rating_original: AI2-3 Steep Snow 
+route_type: Ice, Alpine, 10500',  Grade IV 
+route_url: /v/liberty-ridge/106459197 
+

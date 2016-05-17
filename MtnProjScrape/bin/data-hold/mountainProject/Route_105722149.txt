@@ -1,0 +1,11 @@
+id: 105722149 
+parent_name: Star Wars Rock 
+parent_url: /v/star-wars-rock/105720768 
+route_description: Cedric's follows the discontinuous right-slanting cracks just left of Light Sabre.  Where the name came from is a mystery to me.  Expect a mix of side-pulls and face holds with your jams for the bottom section.  At the top, the crack fades into the face so you must smear to the summit.  It's more technical and devious than Light Sabre, and a bit more work to set the gear, but overall it's a worthy pitch.  If it seems a little out of your league, run up Thumbs Down Left or Light Sabre and string a top-rope - you'll be glad you did. 
+route_name: Cedric's Deep Sea Fish Market  
+route_quality: 0.775 
+route_rating:  YDS: 5.10d 
+route_rating_original: YDS: 5.10d 
+route_type: Trad, 1 pitch, 100' 
+route_url: /v/cedrics-deep-sea-fish-market/105722149 
+

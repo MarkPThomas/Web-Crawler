@@ -1,0 +1,11 @@
+id: 106155792 
+parent_name: 15 - Knob Hill 
+parent_url: /v/15---knob-hill/105865681 
+route_description: Start as for Pot Belly, then veer left where the two cracks diverge. Follow the angling fingertips crack to a ledge. Usually toproped after climbing Pot Belly.  Walk off right.  This gets a sandbag 5.9 rating in the Supertopo guidebook. 
+route_name: Unnamed  
+route_quality: 0.475 
+route_rating:  YDS: 5.9+ 
+route_rating_original: YDS: 5.10c 
+route_type: Trad, TR, 1 pitch, 50' 
+route_url: /v/unnamed/106155792 
+

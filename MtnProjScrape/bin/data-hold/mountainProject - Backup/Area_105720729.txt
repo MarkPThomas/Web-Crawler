@@ -1,0 +1,10 @@
+area_name: Hemingway Buttress Rock Climbing  
+area_url: /v/hemingway-buttress/105720729 
+description: Hemingway is the large rock closest to the main park road in the Lost Horse area. Most of the climbs are on the east side of the buttress, so it can be a nice place to climb when it's hot out. Lots of great climbs, and most are fairly steep with great holds. Favorites include White Lightning (5.7), Overseer (5.9), as well as a bunch of fun routes with "Poodle" in the name. 
+getting_there: Hemingway is close the the intersection of the main park road and the Lost Horse road.  Now that the NPS has redone the road, there's a parking area on the side of the main road labelled "Hemingway Rock."  It's just east of the Lost Horse Road. Park there and head south, a couple hundred yards to the first large rock. 
+id: 105720729 
+latitude: 34.02394 
+longitude:  -116.17787  
+parent_name: Lost Horse Area 
+parent_url: /v/lost-horse-area/105720588 
+

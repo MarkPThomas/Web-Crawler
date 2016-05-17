@@ -1,0 +1,10 @@
+area_name: Tuna and Chips Wall Rock Climbing  
+area_url: /v/tuna-and-chips-wall/105732042 
+description: The Tuna and Chips Wall offers the longest routes at the First Pullout. The routes range from 5.3 to 5.10 and can be 200 feet long. The wall is south facing so it is a good location to climb on those cool days when you are looking for a warm place to climb.  [Reprinted with permission from Jed Botsford, Climbing Ranger - RRCNCA].   
+getting_there: The approach for the Tuna and Chips Wall is the same as for the Dog Wall, but instead of turning out of the side canyon continue up canyon to the base of the Tuna and Chips Wall.   
+id: 105732042 
+latitude: 36.14846 
+longitude:  -115.42939  
+parent_name: First Pullout 
+parent_url: /v/first-pullout/105731953 
+

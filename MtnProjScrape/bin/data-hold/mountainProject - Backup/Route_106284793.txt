@@ -1,0 +1,11 @@
+id: 106284793 
+parent_name: El Capitan Base Routes 
+parent_url: /v/el-capitan-base-routes/105841115 
+route_description: Sustained, technical, and thin. Creative footwork and knowing when to lock and when to lb required. 
+route_name: Short But Thin  
+route_quality: 0.65 
+route_rating:  YDS: 5.11b 
+route_rating_original: YDS: 5.11b 
+route_type: Trad, 1 pitch, 40' 
+route_url: /v/short-but-thin/106284793 
+

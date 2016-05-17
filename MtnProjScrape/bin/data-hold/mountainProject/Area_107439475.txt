@@ -1,0 +1,10 @@
+area_name: Sedona Rock Climbing  
+area_url: /v/sedona/107439475 
+description: Sedona is a cherished land for many climbers.  This soft sandstone, high desert paradise delivers multi pitch spire adventures, as well as trad and sport crags spread out across this region. Sedona proper includes such stunning formations as the Cathedral Spires, The Christianity Spires, Earth Angel Spire, Marges Draw, and many more. The list of excellent routes is long, and their call to adventure can be deafening.  Whether you are dueling with the old school classics, or styling your way up a new school test piece, Sedona has something for everyone, as long as you don't mind a little grit in your teeth, and a slight nervousness in your stomach.    
+getting_there: Sedona is located approximately 30 miles south of Flagstaff on hwy 89A.  GPS coordinates are for the "Y" where highway 179 joins 89A. 
+id: 107439475 
+latitude: 34.8661 
+longitude:  -111.7637  
+parent_name: *Sedona Area 
+parent_url: /v/sedona-area/105787793 
+

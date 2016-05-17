@@ -1,0 +1,11 @@
+id: 106053351 
+parent_name: Needle's Eye 
+parent_url: /v/needles-eye/105714426 
+route_description: Start by the sign next to the Needles Eye. Climb up into the needle, set gear where needed in the chimney. Stem, and climb up on the right side, there's two bolts. After the second bolt climb left to the top anchors on top of the shoulder to the right of the summit of the needles eye formation.  Variation: Instead of traversing left after coming out of the eye, climb straight up to the top of the higher summit. This variation brings the climbing into the 5.9 range and causes lots of rope drag. However, it is still a very good climb. A 30 meter rappel lands you on the trash can.  Note: Climb route when low amount of noise in the parking lot is available (not Sturgis week) because climber traverses where belayer can't see climber. Use a third person to spot if needed. 
+route_name: Threading the Needle  
+route_quality: 0.925 
+route_rating:  YDS: 5.8+ 
+route_rating_original: YDS: 5.8+ 
+route_type: Trad 
+route_url: /v/threading-the-needle/106053351 
+

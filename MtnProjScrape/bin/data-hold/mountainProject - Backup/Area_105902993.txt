@@ -1,0 +1,10 @@
+area_name: Medlicott Dome Rock Climbing  
+area_url: /v/medlicott-dome/105902993 
+description: Perhaps the best crag in Tuolumne with a high concentration of great climbs. 
+getting_there: For an approach we drove 5.1 miles from the meadows store to a small pullout on the left (per a newish Reid/Falkenstein guide, '09?), hiked a climber's trail eastward to a well maintained trail (Tenaya Lake Trail), turned right here and in about 100 yards came to another climber's trail on the left marked with a small cairn. From here the trail pretty much takes a straight, aerobic, uphill line to the base of the cliff at the Smithers route. 
+id: 105902993 
+latitude: 37.85618 
+longitude:  -119.42388  
+parent_name: Tuolumne Meadows 
+parent_url: /v/tuolumne-meadows/105833384 
+

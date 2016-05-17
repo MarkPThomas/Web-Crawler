@@ -1,0 +1,10 @@
+area_name: Calaveras Dome Area Rock Climbing  
+area_url: /v/calaveras-dome-area/105876771 
+description: Calaveras Dome and surrounding areas are near Salt Springs Reservoir, on the Mokelumne River, to the southwest of Lake Tahoe.  This area offers excellent multi-pitch free climbs and a few grade V big-wall routes. 
+getting_there: The fastest way to get there is via Ellis Road (Panther Road is significantly longer, and more dirt road). The road is mostly paved (though lots of potholes). There is one section where the road washed out, but it has been well repaired and is passable by any car type. The signage for the turnoff for Ellis Road off of 88 is not super-obvious (especially if you are heading west on 88)-- you are in the right place if you see bathrooms right by the turnout. 
+id: 105876771 
+latitude: 38.4939 
+longitude:  -120.2172  
+parent_name: Central Sierra 
+parent_url: /v/central-sierra/109078641 
+

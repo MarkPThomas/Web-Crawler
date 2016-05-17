@@ -1,0 +1,10 @@
+area_name: The Three Penguins Rock Climbing  
+area_url: /v/the-three-penguins/105717122 
+description: The Three Penguins has a well-deserved name, although as one of my partners pointed out from the summit, the shadow looks more like a camel.  It is the first formation you notice driving up into Arches after going through the gate. 
+getting_there: Park just past it at an indefinate turnout on the left side of the road.  You can do a chossy pitch directly up to the base of the formation or you can scramble up slopes to the right and then traverse back left on ledges (fast and easy). 
+id: 105717122 
+latitude:  
+longitude:  
+parent_name: Arches National Park 
+parent_url: /v/arches-national-park/105716757 
+

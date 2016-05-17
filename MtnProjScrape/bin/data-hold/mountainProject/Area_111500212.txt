@@ -1,0 +1,10 @@
+area_name: Donner Pass Road Rock Climbing  
+area_url: /v/donner-pass-road/111500212 
+description: These crags are all along Donner Pass Road near Donner Pass itself, in the Old Highway 40 section of John Jackson's North Tahoe guidebook. 
+getting_there: Drive on Interstate 80 from outside the Donner area.  From the west, take exit 174 at Soda Springs, and follow Donner Pass Road just past the ski areas where large rocks appear on both sides of the road.  From the east, take exit 184 just past Truckee for Donner Pass Road. Drive past the lake, and up to your destination.  Where to park:  For crags at the top of Donner Pass Road, or along the Pacific Crest Trail, your best bet park off the pavement on the shoulders of dirt service roads behind Sugar Bowl Academy, and walk down from there. In season you'll see PCT through hikers passing through. Occasionally you'll be able to park right at School Rock, too, but these convenient spots fill up first.  Baboon Crag Bastille Slab (aka Nursery School Slab) Gemstone Wall Goldilocks Wall Grouse Slab North Star Wall School Rock South Star Wall Space Wall Park at the major paved parking area on the downhill side of Rainbow Bridge for this area.  Green Phantom Rock The next major parking area with a port-a-potty faces the snowshed, for this wall and its neighbors.  Snowshed Wall Tunnel Slab There are pullouts on both sides of the road downhill from the Snowshed parking area for the Black Wall and nearby areas.  Black Wall The Perch Stealth Wall Downhill from snowshed, a pullout on the uphill side of the road is next to the Peanut Gallery.  Lower Slabs Peanut Gallery, The The next pullout on the same side of the road is for the Road Cut.  Road Cut, The White Lines Boulder Park on a pullout downhill from the Black Wall parking for this boulder.  The Aspen Boulder 
+id: 111500212 
+latitude: 39.31672 
+longitude:  -120.32623  
+parent_name: Donner Summit 
+parent_url: /v/donner-summit/105733935 
+

@@ -1,0 +1,11 @@
+id: 105992030 
+parent_name: Five Open Books 
+parent_url: /v/five-open-books/105865908 
+route_description: While not quite as classic as neighboring climbs like Munginella and Commitment, The Surprise provides 2 excellent pitches of climbing.  Supertopo lists the route as 5 pitches, but it is very easy and recommended to link pitches 1 and 2 into a single 150' pitch.    Start at an ant-infested tree and climb dirty corner past a small pine tree.  Continue up to an oak tree (long sling helps reduce rope drag), and start traversing right along broken ledge system, passing one ancient 1/4" bolt about half-way along the ledge.  Belay below a nice-looking, clean hand crack.    Pitch 2 ascends the clean 5.8 crack above, with a cruxy step left at about 90' up.  Belay at 135' at a good stance and one solid bolt.    Pitch 3 tackles a 5.9+ crack with perfect finger locks.  When the crack suddenly ends (surprise!), make a delicate couple of steps left (5.10a) and continue up easier ground (5.7) to the top (115').  As for all the routes at the Five Open Books area, be exceedingly careful not to dislodge loose rocks from the top.  To descend, walk to climber's left for several hundred yards along good (but sometimes exposed) trail. 
+route_name: The Surprise  
+route_quality: 0.775 
+route_rating:  YDS: 5.10a 
+route_rating_original: YDS: 5.10a 
+route_type: Trad, 3 pitches, 400' 
+route_url: /v/the-surprise/105992030 
+

@@ -128,7 +128,7 @@ date:
 difficulty: class 3-4 scramble, very steep hikng 
 elevation:  
 grade:  
-hits: 6872  
+hits: 6874  
 id: 157840 
 latitude: 40.657 
 location: Utah, United States, North America 
@@ -136,7 +136,7 @@ longitude: -111.77
 my_route_quality:  
 name: North Face Trail 
 number_of_pitches:  
-page_url: http://www.summitpost.org/north-face-trail/157840 
+page_url: /north-face-trail/157840 
 parent_code: 151263 
 parent_name: Mount Olympus 
 parent_url: /mount-olympus/151263 

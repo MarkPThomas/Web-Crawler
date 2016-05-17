@@ -1,0 +1,10 @@
+area_name: Geology Tour Road Rock Climbing  
+area_url: /v/geology-tour-road/105797841 
+description: The Geology Tour Road is an 18 mile dirt road loop which winds it's ways through the southern end of Queen Valley and the western end of Pleasant Valley where numerous rock formations can be found on either side of the Road. Popular areas include the Virgin Isles, East Virgin Isles, The Lost Pencil and Jerry's Quarry.   The unpaved, but occasionally graded, Geology Tour Road is a fairly good dirt road with lots of washboards and ruts in the first few miles and then a fair bit of soft sand after that. While having a 4WD vehicle is not a necessity it is advisable to have a vechicle with a bit of clearance and one that you feel comfortable driving over the odd rough spot. Be aware that some of the parking spots have a fair bit of soft sand which can spell trouble for those without 4WD, especially if trying to turn around in it. Better to keep the vehicle pointed downhill and drive the extra bit to Squaw Tank where a good turnaroud exists. 
+getting_there: The turnoff for the Geology Tour Road is located in the center of the Queen Valley and across the road from the turnoff for the Desert Queen Mine Area. See the individual crags for more detailed approach information.   
+id: 105797841 
+latitude: 33.9718 
+longitude:  -116.08  
+parent_name: Joshua Tree National Park 
+parent_url: /v/joshua-tree-national-park/105720495 
+

@@ -1,0 +1,10 @@
+area_name: Isles in the Sky Rock Climbing  
+area_url: /v/isles-in-the-sky/105720723 
+description: Isles In The Sky is the foreboding-looking formation southwest of the Split Rocks parking area. The slightly overhanging Bird Of Fire (5.10a) is the prime line here.  Northeast exposure makes this a good choice for late afternoon climbing on hot days.   
+getting_there: From the Split Rocks parking area, hike SW along trail for approximately 3/4 mile.  The Isles in the Sky formation is the largest of the formations and lies west of Rubicon.  Some 3rd/4th class scrambling is involved in getting to the large ledge at the base of the routes.   
+id: 105720723 
+latitude: 34.0045 
+longitude:  -116.0584  
+parent_name: Split Rocks 
+parent_url: /v/split-rocks/105720582 
+

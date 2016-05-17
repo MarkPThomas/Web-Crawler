@@ -1,0 +1,10 @@
+area_name: Top of the World Overlook Rock Climbing  
+area_url: /v/top-of-the-world-overlook/105717230 
+description: Home to the route "Cooler than Jesus," the Top of the World Overlook provides an amazing view of the Mystery Towers, the back of the Fishers, and the La Sals.  It is not technically part of the Mystery Towers (it sits far above them and is solid Wingate), but is included here due to its proximity and the fact that it only has one climb (to date). 
+getting_there: A separate approach than the Mystery Towers.  Turn west off of 128 (River Road) bt. mile markers 29 & 30 at the Dewey Bridge Recreation Area.  Immediately on your left is the Historic Dewey Bridge and a parking area.  Reset your mileage here and continue on the gravel road west.  This approach requires a high clearence vehicle to get all the way to the overlook, but if you make it you could practically rap off your trailer hitch into the climb.  At 4.9 miles you will get to a well-signed junction (straight is the Kokopelli Trail, right is the Top of the World Overlook).  Turn right.  At 5.6 miles park you'll reach a fork with a long straight branch heading off to the right.  Do not take this; continue straight (ie the left hand branch).  You'll reach the Overlook at 9.0 miles.  The road gets steadily rougher, but I've seen a skilled Subaru driver take his wagon all the way to within 2 miles - not dent-free however.  A stock Cherokee or similar vehicle can make it all the way albeit the driver must know what they're doing. 
+id: 105717230 
+latitude:  
+longitude:  
+parent_name: Mystery Towers & Top of the World Overlook 
+parent_url: /v/mystery-towers--top-of-the-world-overlook/105716832 
+

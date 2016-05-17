@@ -1,0 +1,10 @@
+area_name: Loveland Rock Climbing  
+area_url: /v/loveland/105720612 
+description: Loveland consists of myriad boulders and crags on the hillsides above washes 1 - 2 miles north of Split Rock. Most of the routes in this area were established by seminal climbers in the 1980's and ascend slabs, faces, and cracks of varying widths on fair to excellent quality rock. Vector (5.11c), one of the best trad climbs in the Park, is located in Loveland.   Even though this area is relatively close to Split Rock, the approach to many of the crags involves boulder hopping and/or navigating through desert scrub and cacti on steep terrain. However, many fine routes may be found on crags that require circuitous or cumbersome approaches. 
+getting_there: The best way to access Loveland is to park at Split Rock and follow the trail that heads north. Looking north, the Tiger Rocks and Bond Boulders are easily seen near the trailhead. As soon as the trail veers in a northwest direction toward the Morongo Man Cliffs, continue north in a wash and over rolling terrain for a mile to the Tiger Rocks and Bond Boulders. The other crags are found on the slopes on either side of the Desert Queen Wash which is located about 1/2 mile north of the Bond Boulders.   
+id: 105720612 
+latitude: 34.0219 
+longitude:  -116.0527  
+parent_name: Joshua Tree National Park 
+parent_url: /v/joshua-tree-national-park/105720495 
+

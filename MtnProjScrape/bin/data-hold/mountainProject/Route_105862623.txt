@@ -1,0 +1,11 @@
+id: 105862623 
+parent_name: Glacier Point Apron 
+parent_url: /v/glacier-point-apron/105862612 
+route_description: On the east side of the apron a great finger crack ascends in a rightward sloping direction. Easy protection on a moderate angle make this a classic beginners route.  Pitch 1 - (5.5) Go directly up the easy slabs along a left facing dihedral until it is overlapped by a right facing one. Continue up into the crack.  Pitch 2 - (5.6) Follow the crack as it slowly slopes to the right. At one point perfect double finger cracks open up.  Pitch 3 - (5.6) Continue up the crack until it fades out then either go up and left (easier) or go directly to the double bolt anchors across the face (a bit more difficult).  Descend the route by rapping the bolt anchors on The Grack - Marginal (if it is clear). This can be done in two raps with two 60m. Make sure you use the second bolt anchors if attempting to do it in two raps. If Marginal is crowded then you can go to the south (climbers left) and rap off blocks and trees. 
+route_name: The Grack - Center  
+route_quality: 0.85 
+route_rating:  YDS: 5.6 
+route_rating_original: YDS: 5.6 
+route_type: Trad, 3 pitches, 500' 
+route_url: /v/the-grack---center/105862623 
+

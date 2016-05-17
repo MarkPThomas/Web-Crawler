@@ -1,0 +1,11 @@
+id: 107094498 
+parent_name: Bachar Cracker Boulder 
+parent_url: /v/bachar-cracker-boulder/109091244 
+route_description: This crack climb is probably one of the most awesome boulder problems ever!  Short walk from the campsites in Camp4 and has a bit of a rocky landing so you might want more than 1 pad.  A super classic boulder problem!!  Sit start deep at the base of the crack on a jug and climb straight out! 
+route_name: Bachar Cracker   
+route_quality: 0.975 
+route_rating:  Hueco: V4 
+route_rating_original: Hueco: V4 
+route_type: Boulder 
+route_url: /v/bachar-cracker-/107094498 
+

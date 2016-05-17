@@ -1,0 +1,11 @@
+id: 105847227 
+parent_name: Fairview Dome 
+parent_url: /v/fairview-dome/105840682 
+route_description: P1:  Lieback to fingers to a small belay stance (or continue up to large ledge with pine tree).  (5.9)  P2:  Hands to a wide pod to a ledge.  (5.8)  P3:  Sustained fingers (5.7) through a couple of small roofs to a ledge.  (5.8)  P4:  Incipient cracks up to and over scary flake.  Traverse up and right past two pins to huge "Crescent Ledge."  (5.8)  P5:  Follow right-facing dihedral on left side of ledge up, increasing in difficulty (5.6), or traverse left to the 5.5 R flakes.  (5.6)  P6:  Another dihedral up and left.  Where it really steepens, step right onto the face past knobs and small placements.  Either lieback on the right-hand side of the roof (5.7), or pull straight through at a pin (5.9).  P7:  Follow ledges up and right, staying toward easier ground.  (5.7 start, then 5.4)  About four more pitches of easy ground.  Simul what you can.  (mostly 5.0, occasional 5.4 to 5.6) 
+route_name: Regular Route  
+route_quality: 0.9 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 12 pitches, 1000',  Grade III 
+route_url: /v/regular-route/105847227 
+

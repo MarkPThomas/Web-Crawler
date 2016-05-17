@@ -1,0 +1,10 @@
+area_name: The Testes Rock Climbing  
+area_url: /v/the-testes/105968234 
+description: The Testes are next to The Phallus.  2.8 miles past Courthouse Wash, on the left. 
+getting_there: 2.8 miles past Courthouse Wash.  On the left. 
+id: 105968234 
+latitude:  
+longitude:  
+parent_name: Arches National Park 
+parent_url: /v/arches-national-park/105716757 
+

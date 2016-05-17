@@ -1,0 +1,11 @@
+id: 106149918 
+parent_name: Salt Lake Slips 
+parent_url: /v/salt-lake-slips/105739386 
+route_description: This Is great beginner Trad line that shares anchors with italian arete.  Climb the dihedral just to the left of italian arete, follow the inward corner crack all the way to the two chain anchors.  Good stances, good protection and an abundance of face holds on both sides of the dihedral. 
+route_name: Use-to-be-bushy  
+route_quality: 0.4 
+route_rating:  YDS: 5.4 
+route_rating_original: YDS: 5.4 
+route_type: Trad, 1 pitch, 80' 
+route_url: /v/use-to-be-bushy/106149918 
+

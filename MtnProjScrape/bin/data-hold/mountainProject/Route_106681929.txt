@@ -1,0 +1,11 @@
+id: 106681929 
+parent_name: 10 - The Cookie Cliff 
+parent_url: /v/10---the-cookie-cliff/105863743 
+route_description: You can have two more pitches for Nabisco wall and leave big gear at the base of Waverley Wafer. P1 - straight-forward chimney - 5.9 - 50 feet bring you to a big ledge p2. start as 6"  relatively easy ow but  toward the end become a flare in which you can nor really squeeze if average size. Layback and use the groove on the left face. This is a crux - hard for 10a. In the crux you have to be right side in ( so if you started left side in you need to change to the end)  
+route_name: Cookie Left Side  
+route_quality: 0.625 
+route_rating:  YDS: 5.10a 
+route_rating_original: YDS: 5.10a 
+route_type: Trad, 2 pitches, 120' 
+route_url: /v/cookie-left-side/106681929 
+

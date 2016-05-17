@@ -1,0 +1,11 @@
+id: 105732860 
+parent_name: Yin and Yang Cliff 
+parent_url: /v/yin-and-yang-cliff/105732105 
+route_description: This is the obvious chimney just to the left of Atman.A perfect splitter knee and back chimney. A fun little route to tick off when you're done doing(or waiting for!) the classic's to the left and right! 
+route_name: Zoroaster  
+route_quality: 0.425 
+route_rating:  YDS: 5.6 X 
+route_rating_original: YDS: 5.8- X 
+route_type: Trad, 1 pitch, 30' 
+route_url: /v/zoroaster/105732860 
+

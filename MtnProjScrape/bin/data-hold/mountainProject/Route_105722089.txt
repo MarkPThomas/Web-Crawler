@@ -1,0 +1,11 @@
+id: 105722089 
+parent_name: Super Roof Wall 
+parent_url: /v/super-roof-wall/106637631 
+route_description: Super Roof is the obvious roof crack 15' left of a prominent off-width roof crack (Comfortably Numb, 5.11). Scramble onto a ledge to begin, and climb the imposing roof which is easier than it looks. Take care not to get your rope stuck as it happens more often than you might think. Descend down easy ledges off to the climber's right.  Although short this climb is lots of fun, has great exposure and good rock. The approach is minimal too, but enough to keep the masses away. This is a nice spot to get away and do some quality lines. 
+route_name: Super Roof  
+route_quality: 0.65 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 1 pitch, 50' 
+route_url: /v/super-roof/105722089 
+

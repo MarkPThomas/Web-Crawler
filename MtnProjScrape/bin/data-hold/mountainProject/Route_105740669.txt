@@ -1,0 +1,11 @@
+id: 105740669 
+parent_name: Schoolroom Area 
+parent_url: /v/schoolroom-area/105739413 
+route_description: Climb the ledged face, past the three bolts.  If you can climb this climb, then you can mantel.  Very enjoyable, just short. 
+route_name: Mantel Variation  
+route_quality: 0.55 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Sport, 1 pitch, 50' 
+route_url: /v/mantel-variation/105740669 
+

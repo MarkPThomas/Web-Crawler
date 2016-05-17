@@ -1,0 +1,11 @@
+id: 105734666 
+parent_name: Plaque Rock 
+parent_url: /v/plaque-rock/105734120 
+route_description: The arete on the right side of plaque rock.  Difficult to judge which holds you should be going for until you're already there.  Lots of fun but too short!   
+route_name: Plaque Arete Right  
+route_quality: 0.475 
+route_rating:  YDS: 5.9+ 
+route_rating_original: YDS: 5.10a 
+route_type: TR, 1 pitch, 20' 
+route_url: /v/plaque-arete-right/105734666 
+

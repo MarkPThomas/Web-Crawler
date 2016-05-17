@@ -1,0 +1,11 @@
+id: 105723106 
+parent_name: Super Roof Wall 
+parent_url: /v/super-roof-wall/106637631 
+route_description:  Right of Super Roof is this wide roof crack.  Short but clean.  If you set a toprope, make sure the rope stays out of the crack.  Otherwise you risk a bad swing into the face below. 
+route_name: Comfortably Numb  
+route_quality: 0.7 
+route_rating:  YDS: 5.11 
+route_rating_original: YDS: 5.11 
+route_type: Trad, 1 pitch, 50' 
+route_url: /v/comfortably-numb/105723106 
+

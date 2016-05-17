@@ -1,0 +1,10 @@
+area_name: The Near Trapps Rock Climbing  
+area_url: /v/the-near-trapps/108142181 
+description: Easy access, classic climbs, and easy descents make the Near Trapps a popular area at the Gunks, second only to The Trapps in climber visits.  The cliff is 30' to 200' feet high, and sports almost 200 routes.  The most popular area is the north end (closest to the parking lot), with many classic routes one after the other.  The middle section of the cliff has loose rock and not many good climbs; be careful of rockfall in this area.  More good climbs are found at the far (south) end of the cliff, a 20-to-30-minute hike from the parking lot.  To descend from climbs on the right end of the cliff, follow the cliff-top trail to the climber's right, circling around the cliff and back to the base by the route Kansas City. For climbs on the left end of the cliff, follow the cliff-top trail to the climber's left, and descend the gully at the end of the Near Trapps. Many climbs have rappel anchors which allow descent after one or two pitches without going all the way to the top of the cliff. 
+getting_there: From New Paltz, take Main St. (Rt. 299 West) to the T-junction with Rt. 44/55. Go right, up the hill. Pass the Mohonk Preserve Visitor's Center and continue past the hairpin turn up to the top of the hill.  Park at the West Trapps Lot, and walk up to the steel bridge.  It is not recommended to park at the "30-minute" lot on the left at the top of the hill, unless you'll only be staying less than 30 minutes;  tickets are $125.  From the steel bridge, instead of going up the stone stairs to the carriage road, walk along 44/55 itself back towards town for a few hundred feet, and also cross the road (carefully).  Look for a foot trail that heads south from the road, just past the road cut and before the guardrail. In a few hundred feet, this trail brings you to the base of the Nears, just to the left of Kansas City.      
+id: 108142181 
+latitude: 41.7321 
+longitude:  -74.1971  
+parent_name: The Gunks 
+parent_url: /v/the-gunks/105798167 
+

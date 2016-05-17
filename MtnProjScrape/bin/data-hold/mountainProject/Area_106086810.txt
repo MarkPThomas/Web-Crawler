@@ -1,0 +1,10 @@
+area_name: Merriam Peak Rock Climbing  
+area_url: /v/merriam-peak/106086810 
+description: The southernmost of a trio of peaks (Merriam, Royce, Feather) which enclose the west side of the Royce Lakes Cwm - or Hall of the Mountain Gods as I call it. As such the area is unique in the High Sierra, as the peaks immediately west of the official crest are higher than the crest peaks.  Not only is there a classic IV 5.10 on the north buttress of this peak, but there has also been significant new route development there in the last few years, by Peter Croft, Lisa Rands and others. 
+getting_there: Take the Pine Creek Road off Highway 395 to the Pine Creek trailhead, by the Tungsten Mill. Hike up an old road switchbacking its way monotonously up to the forest, then round the corner and into the much better scenery at Pine Lake. Head around the north side of the lake and take the trail, past Upper Pine Lake, to Honeymoon Lake, continue to follow the trail to Granite Park  but cut south west when above the lake and head cross-country up and over Royce Pass (11,680ft). Head straight west to a wonderful gravel spot just north of the middle (largest) of Royce Lakes. A spectacular place.  Alternate route recommended by Squiddo and more than likely easier:  On the way back we took the alternate approach that heads West from the Southern end of the Royce Lakes Basin and travels across some very pleasant terrain to meet the Pine Creek Pass trail right below French lake above Pine Creek pass itself. The second part of this trail was very well cairned out and obviously used/loved/maintained.   Perhaps 1 hour max from the end of Royce Lakes to the Pine Lake Pass trail.  
+id: 106086810 
+latitude: 37.3088 
+longitude:  -118.7651  
+parent_name: 07 - Humphreys Basin, Pine Creek and Granite Park 
+parent_url: /v/07---humphreys-basin-pine-creek-and-granite-park/110819764 
+

@@ -1,0 +1,11 @@
+id: 105739928 
+parent_name: Salt Lake Slips 
+parent_url: /v/salt-lake-slips/105739386 
+route_description: This is the most difficult route on the east face of the slips (there are some .10's around the corner).  Very nice midsection with nice smooth surface and a thin crack to get your fingers into.  Then up to the juggy top section that feels steeper than it really is.  Lots to grab up there.  Once you reach the top there is a ledge to stand on while fixing the anchors, so even if this climb comes at the end of the day (after you've done all four on this wall) you can still wear yourself out going up and not worry about being exhausted when you get there.  The guy in the pic is on Rolling The Bones, 2 climbs over. 
+route_name: Entre Nous  
+route_quality: 0.525 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8+ 
+route_type: Sport, 1 pitch, 80' 
+route_url: /v/entre-nous/105739928 
+

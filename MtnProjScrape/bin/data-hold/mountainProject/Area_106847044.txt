@@ -1,0 +1,10 @@
+area_name: Split Mountain Rock Climbing  
+area_url: /v/split-mountain/106847044 
+description: Split Mountain, like some of the other 14ers, can be seen from the 395. Aptly named, Split Mtn has a layered look to it with some darker, older sedimentary rock stacked on top newer, lighter colored ingnious rock. Split Mtn is also "split" by deep couloirs on its east face. In fact the Central Coulior splits the mountains northern and southern summits.  
+getting_there: See Porcella/Burns for driving directions to the Red Mountain Creek trailhead from Big Pine and the 395. The trail DOSE NOT start in Red Mountain Creek but rather, about 1/8 a mile to the north. From the trailhead follow the path as it windes and switches up the hill until the trail turns sharply to the west. At this point you a a few hundred feet above Red Mountain Creek. Continue on the trail, which is kind of crappy allt he way back to Red Lake and the base of Split Mtn. 
+id: 106847044 
+latitude: 37.0209 
+longitude:  -118.4224  
+parent_name: 09 - Palisades and Surrounding Peaks 
+parent_url: /v/09---palisades-and-surrounding-peaks/110511970 
+

@@ -1,0 +1,11 @@
+id: 106169851 
+parent_name: Lone Pine Peak 
+parent_url: /v/lone-pine-peak/105914909 
+route_description: It's been quite some time since I climbed this route, so hopefully others will add details...  Mostly 4th class climbing with a couple sections of up to 5.4. A fun, easy, and accessible peak for the aspiring alpinist.  Descend to the SW down loose talus. 
+route_name: North Ridge  
+route_quality: 0.85 
+route_rating:  YDS: 5.5 
+route_rating_original: YDS: 5.4 
+route_type: Trad, Alpine,  Grade III 
+route_url: /v/north-ridge/106169851 
+

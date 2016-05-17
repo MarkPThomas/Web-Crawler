@@ -1,0 +1,10 @@
+area_name: Mt. Goode Rock Climbing  
+area_url: /v/mt-goode/105805911 
+description: This stunning peak overlooks the south fork of the Bishop Creek drainage.  The beautiful North Buttress will immediately catch a climber's eye, and a 2nd-class route up the South-East slope provides access for non-climbers as well as an easy descent route.  The routes on this peak can easily be done car-to-car in a day. 
+getting_there: Start at the South Lake trailhead and hike toward Bishop Pass.  Follow the trail to Bishop Lake (~ 3.5 mi), then look for use trails up the South-East slope for the 2nd class route.  To access the East Buttress, follow the trail to the inlet of Long Lake, cross the creek to the north, follow the north drainage to Margaret Lake, then scramble across talus to the base of the route. 
+id: 105805911 
+latitude: 37.1231 
+longitude:  -118.568  
+parent_name: 08 - Bishop Pass and Evolution 
+parent_url: /v/08---bishop-pass-and-evolution/110819748 
+

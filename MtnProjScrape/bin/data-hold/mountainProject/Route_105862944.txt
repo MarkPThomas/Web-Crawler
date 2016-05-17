@@ -1,0 +1,11 @@
+id: 105862944 
+parent_name: Drug Dome 
+parent_url: /v/drug-dome/105862941 
+route_description: Ascending the steep, forboding, north face of Drug Dome at a surprisingly easy grade, OZ is a thing of beauty.  Its pitches forge their way upwards to a striking right-facing dihedral and involve much interesting climbing.  I usually pronounce it "ounce" but sometimes I slip and say "Oz."  When I'm feeling posh I say "oh zee."  P1:  Begin at a little flake system well right of the huge dihedral above.  This flake system intersects a low roof.  Some tricky small gear protects this pretty well and gains a long left-angling flake/crack.  Follow this to its apex and belay.  5.10a.  P2:  Perform a tricky move up off the belay, then step left and climb past three bolts and a difficult hand traverse on slopers (crux).  This reaches a rest stance.  There is one more difficult face passage past a few more bolts before the climbing eases.  Climb up cracks and ledges to a belay on a sloping ramp that leads directly into the long corner.  A long pitch, 5.10d.  P3:  Climb the awesome, overhanging thin hands corner.  This pitch is soft for 10c and has many rest stances.  It is steep and amazing however.  Belay below the huge roof that caps Drug Dome.  P4:  Climb out left past a few bolts, around the arete, then up easy terrain to a belay below the summit.  5.9.  Or, better yet, do the Gram Traverse!  Excessive gear for the dihedral really isn't necessary as there are enough constrictions and pods to fit a varity of equipment.  Keep in mind that OZ and Gram can be chilly and windy. 
+route_name: OZ  
+route_quality: 0.975 
+route_rating:  YDS: 5.10d 
+route_rating_original: YDS: 5.10d 
+route_type: Trad, 5 pitches, 600' 
+route_url: /v/oz/105862944 
+

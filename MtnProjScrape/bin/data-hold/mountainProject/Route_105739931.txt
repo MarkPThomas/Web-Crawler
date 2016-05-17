@@ -1,0 +1,11 @@
+id: 105739931 
+parent_name: Salt Lake Slips 
+parent_url: /v/salt-lake-slips/105739386 
+route_description: As far as 5.7's go, this one is pretty sweet.  The crux is above the second bolt and includes the third and fourth bolts.  Pretty slim pickings there, and long arms help.  There is a plate sized bulge in that section that works more as a distraction than anything, but it sure looks good while your on top of it.  Juggy on top.  This climb is clearly rated a 5.7 for the lower half. 
+route_name: Thieving Magpie  
+route_quality: 0.5 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Sport, 1 pitch, 70' 
+route_url: /v/thieving-magpie/105739931 
+

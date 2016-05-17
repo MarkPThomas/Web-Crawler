@@ -1,0 +1,11 @@
+id: 106179143 
+parent_name: The Wall 
+parent_url: /v/the-wall/105854200 
+route_description: Crazy long, this route makes a good "warm-up" for the area. 160' of hands to wide hands in a left-facing corner. Rests aplenty keep the grade down. The crux is a short wide section halfway up. Double rope rappel. 
+route_name: Comfortably Numb  
+route_quality: 0.875 
+route_rating:  YDS: 5.10 
+route_rating_original: YDS: 5.10 
+route_type: Trad, 1 pitch, 160' 
+route_url: /v/comfortably-numb/106179143 
+

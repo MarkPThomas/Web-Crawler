@@ -1,0 +1,10 @@
+area_name: Sheep Pass Area Rock Climbing  
+area_url: /v/sheep-pass-area/105720579 
+description: Sheep Pass is a large, vague area near the southeastern end of the broader Lost Horse Valley (technically, the pass, several miles east of Hidden Valley Campground on the main park road, divides Lost Horse Valley from Queen Valley, and the Sheep Pass group campground lies on the Queen Valley side of the pass, but most of the climbing is on the Lost Horse side of the pass). Incidentally, if you're coming with a group, Sheep Pass is the place to try to get a campsite -- but make your reservations way in advance.  The most prominent formation in the Sheep Pass area is the huge Saddle Rocks, which sit high up on the side of Ryan Mountain (which provides the eastern border of the Lost Horse Valley). Saddle Rocks can be seen from miles away, and their faces contain some of the longest climbs in the park. Other smaller areas in Sheep Pass include Cap Rock, Television Wall, Cowboy Crags, and the Ryan Campground area (notable for some nice bouldering, and of course the aptly-named Headstone Rock).  For a sparse area, however, Sheep Pass has several must-climb classics. Walk on the Wild Side (5.7+) is a classic, slabby 3-pitch ascent up the east face of Saddle Rocks, and the Headstone's SW Corner (5.6) and Cryptic (5.8) are deservedly popular routes to the top of a truly unique formation.   
+getting_there: As noted above, Sheep Pass generally lies on or near the main park road, a few miles east of Hidden Valley Campground.  Headstone Rock is best accessed from within Ryan Campground, and turnouts for Saddle Rocks, Cap Rock, and the group campground are clearly signed.   
+id: 105720579 
+latitude: 33.9986 
+longitude:  -116.1448  
+parent_name: Joshua Tree National Park 
+parent_url: /v/joshua-tree-national-park/105720495 
+

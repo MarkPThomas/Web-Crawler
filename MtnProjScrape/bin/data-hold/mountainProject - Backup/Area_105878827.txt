@@ -1,0 +1,10 @@
+area_name:  4 - Arch Rock Rock Climbing  
+area_url: /v/-4---arch-rock/105878827 
+description: This is the 1,000', multi terraced  cliff seen above the road at the Highway 140 entrance station. "Midterm", "English Breakfast Crack", "Gripper" and "New Dimensions" are a few of the classics found here. 
+getting_there: Park at the entrance parking lot or across the Hay. at a dirt road. Head up to the talus then up to the base of the cliff. 
+id: 105878827 
+latitude: 37.6893 
+longitude:  -119.7334  
+parent_name: Lower Merced River Canyon 
+parent_url: /v/lower-merced-river-canyon/110464982 
+

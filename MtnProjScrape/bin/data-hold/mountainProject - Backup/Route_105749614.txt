@@ -1,0 +1,11 @@
+id: 105749614 
+parent_name: The Whale's Tail 
+parent_url: /v/the-whales-tail/105744862 
+route_description: This is a great route that receives good winter sun. It is a good beginner lead.  Move up gully and then right onto spacious ledge below west face.  Spy the large, left-facing dihedral to the right and follow up to large belay ledge with a cable anchor.  The crux is found towards the end of the climb as you angle up and left, gaining access to belay ledge. To descend, rap from cable down face to ledge below.  
+route_name: West Dihedral  
+route_quality: 0.575 
+route_rating:  YDS: 5.4 
+route_rating_original: YDS: 5.4 
+route_type: Trad, TR, 1 pitch, 80' 
+route_url: /v/west-dihedral/105749614 
+

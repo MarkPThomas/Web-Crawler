@@ -1,0 +1,11 @@
+id: 107026973 
+parent_name:  4 - Arch Rock 
+parent_url: /v/-4---arch-rock/105878827 
+route_description: It's not as dirty as the name implies, but it does have a couple bushes growing out of the crack which will shower you with pollen as you climb past them. This isn't a hidden gem or anything but it's worth getting on if you're waiting for a party to finish up on Anticipation or Supplication. Not a bad climb to practice 5.9 OW technique, or you can lieback. It'd probably get climbed everyday if it was at Swan Slab.  At the top of the crack belay on the large ledge to the left. Then make a short downclimb to the ground. Hike down the hill and back to your stuff. 
+route_name: Dirty Little Secret  
+route_quality: 0.325 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 1 pitch, 60' 
+route_url: /v/dirty-little-secret/107026973 
+

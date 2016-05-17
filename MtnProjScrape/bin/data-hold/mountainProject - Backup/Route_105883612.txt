@@ -1,0 +1,11 @@
+id: 105883612 
+parent_name: Pywiak Dome 
+parent_url: /v/pywiak-dome/105862954 
+route_description: Zee Tree Route is a well-bolted face climb located to the right of the Dike route and ascends an independent line for 3 pitches, after which it joins House Calls and Boche-Dope in a left facing book which leads to the base of the crack pitch of the Dike Route.  The climbing is fairly varied. The first pitch, which is the most interesting, starts at a two bolt anchor just where the angle steepens and ascends a short slightly steep section of knobs (2 bolts with old leeper-style hangers), crosses glacier polish (2 bolts) to a miniature roof. Step over the roof (1 bolt) and pass a small tree growing in a solution pocket (Zee Tree). The pitch originally ended at the tree, but to reduce impact on the fragile tree, the route now passes the tree on the right and ascends (5 bolts) to a comfortable stance and a two bolt anchor. This pitch is a full 165 feet.  The angle slackens above and the climbing eases as well. The second pitch is easy (5.5?) face climbing past 3 bolts to a another two bolt anchor. The final pitch is also easy face climbing , though interesting as the angle varies. It heads up and right past 2 bolts, then straight up and ends in a left facing book. This belay requires gear, medium nuts to medium friends.  To exit, climb up the left facing book and belay near the base of the crack pitch on the Dike Route. Either climb this crack (pro to #4 friend) and rappel the east end of Pywiak, or walk off to the west (not recommended).  The route was put up in good style. A mix of eighteen 5/16 and 3/8 inch bolts were placed by hand, on lead, from the ground up, though not in a continuous push. Two others were "filled in" while seconding after leading though originally, to eliminate uncharacteristic runout sections.   
+route_name: Zee Tree  
+route_quality: 0.65 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, Sport, 6 pitches, 700' 
+route_url: /v/zee-tree/105883612 
+

@@ -1,0 +1,11 @@
+id: 105725578 
+parent_name: Hound Rock 
+parent_url: /v/hound-rock/105721361 
+route_description: This is the thin aching crack visible as you first reach the rock. Thin crack, thin gear, thin feet - thin! Easy walk-off to the climber's left.  
+route_name: Crescent Wrench  
+route_quality: 0.425 
+route_rating:  YDS: 5.10d 
+route_rating_original: YDS: 5.10d 
+route_type: Trad, 1 pitch, 30' 
+route_url: /v/crescent-wrench/105725578 
+

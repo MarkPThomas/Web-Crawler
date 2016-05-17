@@ -1,0 +1,10 @@
+area_name: d. Harvest Moon to the End Rock Climbing  
+area_url: /v/d-harvest-moon-to-the-end/105798822 
+description: Previous section: c. Moe (closure) to Harvest Moon  This section of the cliff is the most remote from the maddening crowds of the Trapps - you may be rewarded with a day to yourself over here.  It contains the Williams Wall, where a density of slabbier, more moderate routes might await you, roughly from Eowyn to the easy obvious splitter of King of P. 
+getting_there: From atop the steel bridge, take the carriage road away from the Trapps, hang a left on the second trail to your left, the Millbrook Ridge Trail (blue markers). Next, head downhill at the four-way intersection about 10 minutes past that. Scramble downhill following the tags. You're really walking over, around and down the end of the Nears formation. You'll arrive at the leftmost of the routes in this section.  This overall approach takes about the same time to approach the far end of the cliff than it does to hike all along the bottom of the Nears.    
+id: 105798822 
+latitude: 41.72872 
+longitude:  -74.20061  
+parent_name: The Near Trapps 
+parent_url: /v/the-near-trapps/108142181 
+

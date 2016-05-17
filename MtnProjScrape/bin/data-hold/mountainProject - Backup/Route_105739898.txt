@@ -1,0 +1,11 @@
+id: 105739898 
+parent_name: Pentapitch Area 
+parent_url: /v/pentapitch-area/105739356 
+route_description: High quality single pitch trad line. Fun moves on excellent rock. Thin crack crux above small roof protects well.  
+route_name: Sasquatch  
+route_quality: 0.95 
+route_rating:  YDS: 5.9+ 
+route_rating_original: YDS: 5.9+ 
+route_type: Trad 
+route_url: /v/sasquatch/105739898 
+

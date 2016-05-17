@@ -1,0 +1,11 @@
+id: 105717448 
+parent_name: Owl Rock 
+parent_url: /v/owl-rock/105716955 
+route_description: The Standard Route, climb up the west ramp to the base of the obvious crack system.  Climb the crack using horns, jugs, knobs, some jams and stems, and at least one awkward left-stepping face move to a ledge with 3 bolts 10' below the summit.  The majority of the route goes at pretty decent 8, but be prepared for some slightly harder moves - the sandstone has eroded a bit and the climb is getting harder.  Belay from here - there's plenty of room for several people on the ledge.  Scramble up easy 4th class rock with some foot pockets to the summit (a piton on top and on an intermediate ledge assist in protecting this scramble) for an excellent view of the Garden of Eden.  Rap (do not lower) the route from the three-bolt anchor on the ledge. 
+route_name: West Crack  
+route_quality: 0.75 
+route_rating:  YDS: 5.8+ 
+route_rating_original: YDS: 5.8+ 
+route_type: Trad 
+route_url: /v/west-crack/105717448 
+

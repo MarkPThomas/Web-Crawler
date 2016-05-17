@@ -1,0 +1,10 @@
+area_name: Castle Valley Rock Climbing  
+area_url: /v/castle-valley/105716784 
+description: Castle Valley is the place to go for your baptism into desert  towers.  This area is one of the birthplaces of tower climbing.  Maybe you've heard of the Kor-Ingalls Route, listed on the 50 North American Classic climbs?  Other climbs that should be done before you become too old and fat to climb are Honeymoon Chimney, Jah Man, and Fine Jade.   Overall, the rock is as good as desert sandstone (Wingate) gets, but beware of the slippery white calcite coatings found on much of the rock here.  Most routes start at honest 5.9.   
+getting_there: These directions are from Moab. Basically, the turn-off for Castle Valley is about 20 miles NE of Moab off SH 128 (River Road).  Look for the sign for Castle Valley. To do anything on the Priest, Rectory, or Castleton Tower, take the Castle Valley turn-off (see here for a photo)  Go about 4.7 miles on the Castle Valley road, and then turn left on a noticeable dirt road.  Go until you can't anymore.  For Sister Superior, go about another mile up 128 (i.e., not taking the Castle Valley turn-off) and look for a dirt road (obviously on the right since the left will send you towards the Colorado River). See here for a photo of the turnout, which may also be seen from above here.   Hey, just look for stuff and figure out how to get there.  Its not like there are tons of trees blocking your view. In  both cases be prepared to walk. Look for climbers trails as much as possible to avoid trampling any cryptobiotic soil. 
+id: 105716784 
+latitude: 38.6836 
+longitude:  -109.4227  
+parent_name: Moab Area 
+parent_url: /v/moab-area/105716711 
+

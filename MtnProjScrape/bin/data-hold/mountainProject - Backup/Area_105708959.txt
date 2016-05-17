@@ -1,0 +1,10 @@
+area_name: California Rock Climbing  
+area_url: /v/california/105708959 
+description: For sheer variety of rock and stable weather it is hard to beat California as a climbing destination.  Want soaring granite?  Head to Yosemite National Park.  Want thousands of sport routes and world class bouldering?  Head to the Buttermilks or Owens River Gorge on the East side of the Sierra.  Looking for limitless climbing under a warm, desert sun, visit Joshua Tree.  Head West to find the goods. 
+getting_there:  
+id: 105708959 
+latitude: 37.7436 
+longitude:  -119.581  
+parent_name:  
+parent_url:  
+

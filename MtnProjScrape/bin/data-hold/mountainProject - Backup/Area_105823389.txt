@@ -1,0 +1,10 @@
+area_name: Mount Moran Rock Climbing  
+area_url: /v/mount-moran/105823389 
+description: Mt. Moran is the broad peak in the northern Teton range. It stands somewhat apart from the other Teton peaks. Moran has many beautiful rock/ice routes while being much less visited than the other Teton peaks. 
+getting_there: The approach to the most popular routes on Mt. Moran involves canoeing across String and Leigh Lakes. From inside Grand Teton National Park, go to South Jenny Lake Junction and follow signs to the String Lake Parking Area. Canoe across String Lake, portage to Leigh Lake, and canoe across Leigh Lake. 
+id: 105823389 
+latitude: 43.835 
+longitude:  -110.776  
+parent_name: Grand Teton National Park 
+parent_url: /v/grand-teton-national-park/105802912 
+

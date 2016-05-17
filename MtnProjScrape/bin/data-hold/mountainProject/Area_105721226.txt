@@ -1,0 +1,10 @@
+area_name: Outhouse Rock Rock Climbing  
+area_url: /v/outhouse-rock/105721226 
+description: Close to HVCG yet you never see anyone on it.  This rock may have the best 5.4 chimney in the park for whatever that's worth. 
+getting_there: This is the formation between the Blob and Rock Hudson.  From the end of the main loop in HVCG towards the Outback.  Outhouse Rock is directly to your right. 
+id: 105721226 
+latitude: 34.0198 
+longitude:  -116.16333  
+parent_name: Hidden Valley Campground 
+parent_url: /v/hidden-valley-campground/105720573 
+

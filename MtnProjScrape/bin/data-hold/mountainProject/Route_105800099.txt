@@ -1,0 +1,11 @@
+id: 105800099 
+parent_name: West Face - Right Side 
+parent_url: /v/west-face---right-side/106181534 
+route_description: This large, clean, right-facing dihedral is to the left of the start to Traitor Horn, and just left of On the Road.  Pitch 1 starts with third class scrambling, followed by 5.3 crack climbing.  The long second pitch has strenuous hand jamming near the start, an easy finger crack above, and then a crux move over an overhang.  The climb finishes on Jensens Jaunt. 
+route_name: Coffin Nail  
+route_quality: 0.85 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.7+ 
+route_type: Trad, 2 pitches, 200' 
+route_url: /v/coffin-nail/105800099 
+

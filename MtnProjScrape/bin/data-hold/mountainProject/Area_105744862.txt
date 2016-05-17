@@ -1,0 +1,10 @@
+area_name: The Whale's Tail Rock Climbing  
+area_url: /v/the-whales-tail/105744862 
+description: Many routes exist on this little rock.  Some of the easiest slab routes in the canyon and some difficult lines often toproped. 
+getting_there: Cross the bridge--it's basically right off the trail to the West next to Redgarden and across from the Bastille. 
+id: 105744862 
+latitude: 39.9312 
+longitude:  -105.283  
+parent_name: Eldorado Canyon SP 
+parent_url: /v/eldorado-canyon-sp/105744246 
+

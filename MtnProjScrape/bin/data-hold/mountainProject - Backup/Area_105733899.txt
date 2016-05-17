@@ -1,0 +1,10 @@
+area_name: Remillard Park Rock Climbing  
+area_url: /v/remillard-park/105733899 
+description: One of the many high-quality North Berkeley rocks.  Climbs range from 15 to 30 feet and are usually top roped.  Due to the humid climate, moss is an issue here, and can obstruct usable holds. 
+getting_there: Exit 80 and head east from the Buchanan St / Albany exit. go 3 blocks, and take the soft right onto Marin ave. Follow the road up the hill to the traffic circle. Go around the circle and stay on Marin, which will be the fourth turn.  Take a right on Hildale, then a left on Poppy Lane.  Remillard park will be on the right. 
+id: 105733899 
+latitude: 37.8923 
+longitude:  -122.2611  
+parent_name: Berkeley 
+parent_url: /v/berkeley/105733965 
+

@@ -1,0 +1,10 @@
+area_name: Canadian North Cascades Rock Climbing  
+area_url: /v/canadian-north-cascades/106986936 
+description: Most of the North Cascades are in Washington state. The Fraser River separates the North Cascades from the Coast Range.  South of the Fraser River and north of the international border, there are important north cascade peaks in British Columbia.   British Columbia's North Cascades have the two best faces in the entire Cascade Range; Mount Sleese and Steinbok Peak.  Yak Peak's face also looks better than Liberty Bell, Bear Mountain, Index, or Mox Peaks.   
+getting_there:  
+id: 106986936 
+latitude:  
+longitude:  
+parent_name: British Columbia 
+parent_url: /v/british-columbia/105946429 
+

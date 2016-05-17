@@ -1,0 +1,10 @@
+area_name: Cardinal Pinnacle Rock Climbing  
+area_url: /v/cardinal-pinnacle/105862805 
+description: A 400-500 foot granite crag nestled on a rocky mountainside in the foothills of the Sierras.  The rock is granite and very clean.  The routes are characterized by steep and exposed splitter crack climbing in one of the coolest locations near Bishop. 
+getting_there: From downtown Bishop, take W. Line Street (rt. 168 west) towards the Sierras.  After 20 miles or so, gaining substantial elevation, you'll come to the small community of Aspendell.  The Pinnacle can be seen from here up on the left side of the road, perched on the mountainside about a half mile past Aspendell.  Park below the talus on the side of the road.    	  	              	      	  	    Cardinal Pinnacle as seen from the road.  Hike up the talus to approach but be careful: there is A LOT of loose rock.  Photo by Kia Ravanfar.   	   
+id: 105862805 
+latitude: 37.22797 
+longitude:  -118.59626  
+parent_name: Bishop Area 
+parent_url: /v/bishop-area/106064825 
+

@@ -1,0 +1,10 @@
+area_name: Cirque of the Towers Rock Climbing  
+area_url: /v/cirque-of-the-towers/105826735 
+description: A superb alpine climbing area with some of the most stunning scenery in the Winds.  Home of the classic Northeast Face on Pingora and East Ridge of Wolf's Head.  Summitpost.org has excellent information on the Cirque of the Towers. 
+getting_there: An arduous hike in over Jackass Pass from the Big Sandy trailhead.  Note: people with recent experience climbing in the Cirque of the Towers, please feel free to add additional info on access, hiking, camping, and other logistics. 
+id: 105826735 
+latitude: 42.772 
+longitude:  -109.223  
+parent_name: Wind River Range 
+parent_url: /v/wind-river-range/105823538 
+

@@ -1,0 +1,10 @@
+area_name: Star Wars Rock Rock Climbing  
+area_url: /v/star-wars-rock/105720768 
+description: Star Wars Rock is a large formation sitting on the northern end of the Virgin Isles that's visible from the road on the drive in. Easily reached by a short hike it features several good crack routes on it's west face - Thumbs Down Left (5.9), Light Sabre (5.10b) and Cedric's Deep Sea Fish Market (5.10d), as well as Walking on the Moon (5.12a) an excellent route that features mostly face climb up the steep face right of Light Sabre. 
+getting_there: Park in a turnout about 4.5 miles down the Geology Tour Road near the northern end of the Virgin Isles. Hike east from the parking area passing along the north end of the Diamond Clump where Star Wars Rock will come into view with it's impressive, overhanging south face. Allow 10-15 minutes for the approach. 
+id: 105720768 
+latitude:  
+longitude:  
+parent_name: Virgin Islands Area 
+parent_url: /v/virgin-islands-area/105720645 
+

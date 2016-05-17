@@ -1,0 +1,11 @@
+id: 107311550 
+parent_name: Tourist Trap 
+parent_url: /v/tourist-trap/106067797 
+route_description: Climbs the rightmost crack to the right of Thrill Hammer. As a variation, you can also climb the first 40' to a ledge (and bolted anchor), and continue up the top half of Thrill Hammer.   To descend, rap the route. 
+route_name: Nipple Jam  
+route_quality: 0.4 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 1 pitch, 100' 
+route_url: /v/nipple-jam/107311550 
+

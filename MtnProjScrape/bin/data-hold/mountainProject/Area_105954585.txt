@@ -1,0 +1,10 @@
+area_name: The Phallus Rock Climbing  
+area_url: /v/the-phallus/105954585 
+description: Route is on the SE face.   
+getting_there: 2.8 miles past the Courthouse Wash Bridge.  The climb is on the left and visible from the road.  The climb is obvious and looks like a weenie. 
+id: 105954585 
+latitude:  
+longitude:  
+parent_name: Arches National Park 
+parent_url: /v/arches-national-park/105716757 
+

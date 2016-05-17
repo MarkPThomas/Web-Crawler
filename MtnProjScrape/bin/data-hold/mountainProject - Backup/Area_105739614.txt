@@ -1,0 +1,10 @@
+area_name: Prune Face Slab Rock Climbing  
+area_url: /v/prune-face-slab/105739614 
+description: A 100', moderately featured slab direclty downslope from the Five Fingers area of the Gate Buttress.  The five-minute approach makes it the shortest approach on the Gate.  The slab has five routes primarily consisting of classic slab climbing with the occasional groove thrown in for good measure.  The slab maintains a good angle over it's entire length and the moderate routes are relatively sustained, if not a bit under rated.  The top of the slab has a belay setup with one chain and one large hanger.  I'll work on improving this, as it tends to create excessive friction when retrieving the rope. 
+getting_there: From the Gate Buttress boulders, follow the Schoolroom approach for about 50 yards.  At the first option to fork right (north), head up slope directly towards the Five Fingers area.  Do not succomb to the temptation to head right towards the dihedrals approach, but stay on a relatively straight "uphill" path.  As you encounter the beginnings of the buttress formation itself, then move up and left along the base for about 100' and you'll come to the base of Prune Face. 
+id: 105739614 
+latitude:  
+longitude:  
+parent_name: Gate Buttress 
+parent_url: /v/gate-buttress/106002442 
+

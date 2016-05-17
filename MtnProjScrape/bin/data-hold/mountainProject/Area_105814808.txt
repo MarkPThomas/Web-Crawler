@@ -1,0 +1,10 @@
+area_name: North Mesa Rock Climbing  
+area_url: /v/north-mesa/105814808 
+description: North Mesa has routes that face nearly every direction.  In other words, sun or shade can be found depending on what the weather dictates.   
+getting_there: Parking for North Mesa is the same as for the Mace.  Follow the standard Mace approach through the short 3rd class trail section.  North Mesa is the first formation on the right.  (See overview map of Cathedral Rock Area.)  A spur trail will head off to the right of the main Mace trail and will head across the north side of North Mesa.  Approach time is 20 to 30 minutes depending on which route you choose. 
+id: 105814808 
+latitude:  
+longitude:  
+parent_name: Cathedral Rock Area 
+parent_url: /v/cathedral-rock-area/105808332 
+

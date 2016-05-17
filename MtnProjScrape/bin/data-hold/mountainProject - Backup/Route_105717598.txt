@@ -1,0 +1,11 @@
+id: 105717598 
+parent_name: North Six Shooter Peak 
+parent_url: /v/north-six-shooter-peak/105716940 
+route_description: What an incredible route!!  Lightning Bolt Cracks is one of the undisputed must-do ultra-classic desert towers and would be worth doing for the summit alone even if the climbing was total crap.  The position rivals the final pitch of the Naked Edge.  The route can be done in 3 or 4 pitches--many different belays are possible.  The various guidebooks (with the exception of Rock Climbing Utah) all have strangely inaccurate route descriptions.  P1-start on the right side of the east face in the beautiful splitter crack (fingers to chimney).  The left crack is 5.11+ and also very pretty.  I thought the real crux of this pitch was not at the beginning (rated 5.11a), but the overhanging, somewhat difficult to protect moves into the awkward leaning slot (rated variously 5.9 or 5.10) above.  You can do like me and place a very small wire left of the slot, but beware, it shifted when I, ahem, tugged on it...  One can belay at the fixed slings, or traverse left at 5.9+ and make an akward belay with tricky placements in the flared slot--I recommend the former (back the slings up!)  P2-two options-thin 5.11 fingers widening to splitter off-hands over a roof on the right, or 5.9 flared chimney widening to off-fists over a roof on the left.  I took the left, which is rated 5.10, although fairly burly by Creek 5.10 standards.  Have a #4 friend ready for the roof (I placed a tight #4 camalot which nearly became stuck).  One can belay above the roof (medium-large friends and/or more fixed delectables), or continue up and left (5.10-) in the acute corner to a spectacular belay just under the bombay chimney/roof.  P3-An unnerving spectacle: turn the huge roof (amazingly, only 5.10) into good hand jams; follow the cracks through progressively worse rock to the base of the final chimney.  If you are a big fella like me, belay here (small cams needed) and make your thinsome partner lead the final narrow sandy 5.9 squeeze.  Enjoy one of the best views of your life, then rappel. 
+route_name: Lightning Bolt Cracks  
+route_quality: 0.975 
+route_rating:  YDS: 5.11- 
+route_rating_original: YDS: 5.11- 
+route_type: Trad,  Grade III 
+route_url: /v/lightning-bolt-cracks/105717598 
+

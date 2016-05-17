@@ -1,0 +1,10 @@
+area_name: Baskerville Rock Rock Climbing  
+area_url: /v/baskerville-rock/105721166 
+description: This northeast-facing rock is the first major formation that one will encounter on the trail to the White Cliffs of Dover  This rock is steep enough that, while the belayer will be exposed to sunlight in the morning, the climbs will have at least some degree of shade all day.  Without a doubt, the classic on the formation is Right Baskerville Crack (5.10a).  Descent is a walk-off.     	  	              	      	  	    Baskerville Rock, Joshua Tree NP   	  
+getting_there: Starting from Trashcan Rock, find a well developed trail that heads south towards an obvious band of cliffs...the rocks high up on this hill are the White Cliffs of Dover  Note: this trail can be found on the eastern-most side of the parking lot in the back.  Hike the trail for approximately 1/2 mile; Baskerville Rock is the first one encountered.   
+id: 105721166 
+latitude:  
+longitude:  
+parent_name: Quail Springs Area 
+parent_url: /v/quail-springs-area/105720621 
+

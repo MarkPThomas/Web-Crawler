@@ -1,0 +1,10 @@
+area_name: Owl Rock Rock Climbing  
+area_url: /v/owl-rock/105716955 
+description: Owl rock is a one pitch 100' roadside spire that offers one of the easiest summit spires in the desert.  Not that it's easy, but it's one of the easy ones.  Hint.  The rock looks like mud but really feels solid as you go up, and takes gear and slings well.  It's the most popular route in Arches (for obvious reasons), and worth a climb if you're starting out in the desert.  There is a scenic parking area 200' from the start of the climb to park in. 
+getting_there: Go 9.3 miles from the Arches visitor center (entry fee $10 for a week) and turn right (E) on the Windows turnoff.  Drive 1.1 miles and turn left into the Garden of Eden parking area.  Owl is the spire ESE of the parking area.  Approach on established trails and avoid cryptobiotic soils in the area.  Gain the base of the route from the west ramp, not up the steps on the north side of the ramp (crumbly sandy with groundfall potential around 20').   
+id: 105716955 
+latitude: 38.69699 
+longitude:  -109.54944  
+parent_name: Arches National Park 
+parent_url: /v/arches-national-park/105716757 
+

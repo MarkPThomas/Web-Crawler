@@ -1,0 +1,10 @@
+area_name: Tenaya Peak Rock Climbing  
+area_url: /v/tenaya-peak/105899977 
+description: The sweeping peak above Tenaya Lake, known for its easy 5th-class NW buttress. 
+getting_there: Find Tenaya Lake. 
+id: 105899977 
+latitude: 37.8302 
+longitude:  -119.439  
+parent_name: Cathedral Range 
+parent_url: /v/cathedral-range/108298242 
+

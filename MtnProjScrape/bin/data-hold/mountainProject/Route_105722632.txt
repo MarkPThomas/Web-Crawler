@@ -1,0 +1,11 @@
+id: 105722632 
+parent_name: Trashcan Rock - East Face 
+parent_url: /v/trashcan-rock---east-face/106670367 
+route_description: Just to the left of Right Sawdust crack, climb the thinner and much more difficult crack, avoiding using Right Sawdust crack at the top where it gets a little cruxy. Not too bad though, just move fast enough to avoid the pump. Would be worth another star if it wasn't so close to Right Sawdust Crack, at the top it could be pretty tempting to use the other crack just 2-3' away. 
+route_name: Left Sawdust Crack  
+route_quality: 0.5 
+route_rating:  YDS: 5.10c 
+route_rating_original: YDS: 5.10c 
+route_type: Trad, 1 pitch, 40' 
+route_url: /v/left-sawdust-crack/105722632 
+

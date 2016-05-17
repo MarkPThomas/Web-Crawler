@@ -1,0 +1,10 @@
+area_name: *Cannon Cliff  Rock Climbing  
+area_url: /v/cannon-cliff-/107340274 
+description: Cannon Cliff is the tallest and most respected cliff in New England. The climbs are long, the weather is bad, and the rock is exfoliating. Every climber who heads up to do a route on Cannon understands that the undertaking is a considerable one.   This is not to say that the routes are bad, however. The popular routes ascend pristine granite and can be over ten pitches long. Just don't stray from your chosen route, as you may find yourself in one of Cannon's many heavily eroded vertical gullies.   Rockfall is a common occurrence on the cliff. The Old Man, a natural outline of a face in the rock and New Hampshire's famous state symbol, fell off the cliff a few years back. An entire pitch, the Whaleback Crack, parted from the face in the 1990's and created a swath of fresh talus at the base.    	  	              	      	  	    This is the rough estimate of the areas i split cannon in to...    	   Located in Franconia Notch, the cliff faces east and many a climber has been caught unawares by fast-moving storms coming from the west. Plus, a long talus approach leads to the base and can be heinous if the talus is wet or snow covered.   Do not let the above description dissuade you. Cannon offers the chance for the experienced climber to find alpine serenity on a remote, unforgiving, and challenging wall.   
+getting_there: All roads lead to Interstate 93 and I-93 runs through Franconia Notch. The big cliff is on the west side of the road. You can't possibly miss it.   The parking area is on the north end of the cliff. It is only possible to access the lot from the southbound side of 93. If you are coming from the south, head past the lot and get off on the next exit (the Tramway exit). From here, reverse directions and head south into the lot. 
+id: 107340274 
+latitude: 44.159 
+longitude:  -71.6847  
+parent_name: New Hampshire 
+parent_url: /v/new-hampshire/105872225 
+

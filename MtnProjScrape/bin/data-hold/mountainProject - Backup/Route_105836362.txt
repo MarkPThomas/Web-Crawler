@@ -1,0 +1,11 @@
+id: 105836362 
+parent_name: Half Dome 
+parent_url: /v/half-dome/105833395 
+route_description: Snake Dike (along with Royal Arches) is one of the classic long moderate routes of Yosemite. For many climbers, this is number one on the Yosemite tick list when they first come to the Valley. For others it is known as "Snake Hike," but the bottom line is it is a great climb up an amazing natural feature to the top of one of the most spectacular formations in Yosemite - second only to El Cap itself.  Get to the SW shoulder of Half Dome by following the Muir Trail to the Mist Trail past Nevada Falls, then back on the Muir Trail.  From the top of Nevada Falls, continue for 0.75 mile to an obvious climber's trail that heads off to the left, contouring around behind the back of Liberty Cap to Half Dome.  You'll pass a swampy area (Lost Lake), and then wander up slabs to the south face of Half Dome, heading back left across ledges to the base of the route.  The approach is six miles and takes 2.5 to 4 hours.  P1: The route starts up a slab below a prominent upside-down L-shaped roof formation.  A big tree is up in this roof area on the right.  Climb up into the roof, then traverse out the left end and up onto a nice belay ledge.  5.7.  P2:  Continue up the left-facing corner system above and past a pair of bolts (optional belay), then wander right past another bolt to a bolted anchor.  5.7.  P3:  Climb up and left past a bolt and 5.7 friction to reach the dike itself.  Skip another bolted belay, climbing up the dike past a bolt and easier climbing, and up to a bolted belay.  P4, P5, P6:  Follow the dike for three more long pitches, all about 5.4, all very run out, stopping at bolted anchors.  The final anchor is at a point past a steep section on a small ledge.  P7, P8: Lots of low angle climbing (easy 5th class) wander up the face with occasional gear placements.  Once you feel comfortable unroping, do so, and continue scrambling up 1000' of calf-burning slabs to the summit.  Descent is down the Half Dome Cables route.  You can't miss it.  For logistical reasons, it's better to not leave anything at the base. 
+route_name: Snake Dike  
+route_quality: 0.9 
+route_rating:  YDS: 5.7 R 
+route_rating_original: YDS: 5.7 R 
+route_type: Trad, 8 pitches, 2000',  Grade III 
+route_url: /v/snake-dike/105836362 
+

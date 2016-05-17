@@ -1,0 +1,10 @@
+area_name: Cathedral Rock Area Rock Climbing  
+area_url: /v/cathedral-rock-area/105808332 
+description: Cathedral Rocks area includes the famous Mace as well as some other great routes, located in the complex of mesas and towers just west of 179 from Back O' Beyond Road. 
+getting_there: Turn west on Back O' Beyond Road from 179 and drive to the trailhead (south side) near it's end. 
+id: 105808332 
+latitude: 34.81932 
+longitude:  -111.79305  
+parent_name: Sedona 
+parent_url: /v/sedona/107439475 
+

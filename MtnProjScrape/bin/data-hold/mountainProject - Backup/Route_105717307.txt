@@ -1,0 +1,11 @@
+id: 105717307 
+parent_name: Castleton Tower 
+parent_url: /v/castleton-tower/105716850 
+route_description: This is probably the easiest route on Castleton, and is a fantastic climb.  To reach, hike up the talus as for the Kor-Ingalls, when you reach the base, walk around to the north end of the tower and traverse out on a ledge to the base of the chimney which is right on the left hand corner of the North Face.    P1- Climb the double hand cracks in the corner.  This pitch is intimidating, but there are many rests.  The crux of the pitch is at the top where you climb over a short bulge, and then up to a small ledge to the belay.  P2- Climb a short but tricky 5.8 offwidth protected by an old bolt.  Place a big cam here instead of clipping the useless bolt.  Then climb the chimney above climbing over chockstones and varied cracks to a belay on a small ledge.  The belay takes hand size cams.  P3- Climb up the hand crack up to a stemming move at the top of the chimney which gets you to a ledge.  Climb up easy ground to a ledge where you join the Kor Ingalls.  P4- Climb the last pitch of the Kor Ingalls to the top.  To descend rappel the North Face via three raps or the Kor Ingalls via 4 raps. 
+route_name: North Chimney  
+route_quality: 0.875 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 4 pitches,  Grade III 
+route_url: /v/north-chimney/105717307 
+

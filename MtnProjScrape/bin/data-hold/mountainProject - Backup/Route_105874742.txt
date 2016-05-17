@@ -1,0 +1,11 @@
+id: 105874742 
+parent_name: Manure Pile Buttress (aka Ranger Rock) 
+parent_url: /v/manure-pile-buttress-aka-ranger-rock/105833498 
+route_description: Haley's Comet ascends the arête on the far left edge of the Manure Pile Buttress.  Fun face climbing past 4 good bolts to a 2-bolt anchor shared with Jump for Joy.  Although the route is bolted, it is not really a "sport" climb, as there are only 4 protection bolts in 65 feet.  A fall before clipping the second bolt would likely result in a ground fall.  As such, I have given it a "PG-13" rating.  If you are not up for leading the route, it is possible to scramble up the gully to the left with a section of 4th class terrain, do one single rope rap down to the anchors.  One more rap gets you to the ground. 
+route_name: Haley's Comet  
+route_quality: 0.6 
+route_rating:  YDS: 5.10a PG13 
+route_rating_original: YDS: 5.10a PG13 
+route_type: Trad, 1 pitch, 65' 
+route_url: /v/haleys-comet/105874742 
+

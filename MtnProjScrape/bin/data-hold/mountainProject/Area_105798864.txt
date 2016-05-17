@@ -1,0 +1,10 @@
+area_name: West Face Rock Climbing  
+area_url: /v/west-face/105798864 
+description: This area features a range of climbs from 5.3 to 5.10. 
+getting_there: The trailhead is just below the start of the Devil's Slide hiking trail.  Hike down a short hill to the creek and then follow the trail as it wraps around a hillside. After approx. .3 miles take a left trail climb that climbs the steep hillside above to the base of Tahquitz. 
+id: 105798864 
+latitude: 33.76012 
+longitude:  -116.6852  
+parent_name: Tahquitz Rock 
+parent_url: /v/tahquitz-rock/105788031 
+

@@ -1,0 +1,11 @@
+id: 105741401 
+parent_name: Crescent Crack Buttress 
+parent_url: /v/crescent-crack-buttress/105739365 
+route_description: The main crack system west of the Crescent Crack climb is The Great Chockstone.  It is obvious because of the monster "chockstone".  The 1st pitch is about 75% chimneying, and not many chimneys are too enjoyable, so plan on blood and frustration.  After the chimney opens up, you can attain the belay ledge, right above the chockstone, by climbing very easy ladder-like ledges.    The 2nd pitch has no chimneying, but it does have a slightly overhanging section that seemed to climb more at 5.8 than 5.7.  It climbs up and left of the main crack system attaining a gritty but easy slab that you traverse across for the finish.    Once you reach the main sandy ledge, the exit is up and west.  Continue west and down, until you pass Hand Jive, and then Crack in the Woods.    Enjoy and bring the band-aids. 
+route_name: Great Chockstone, The  
+route_quality: 0.475 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, 2 pitches, 200' 
+route_url: /v/great-chockstone-the/105741401 
+

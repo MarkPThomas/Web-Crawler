@@ -1,0 +1,11 @@
+id: 105721648 
+parent_name: Intersection Rock 
+parent_url: /v/intersection-rock/105720810 
+route_description: P1: Start left of The Flake in an easy crack.  Several variations exist.  Belay on gear below the summit overhang as for North Overhang.    P2: Traverse out right with good hands and not so good feet.  Be sure to protect the follower, as a fall will land them out in space.  Pull up onto airy ledge, delicately reach up to clip the bolt, and continue up face to the summit.  Belay from 2-bolt anchor.    Descent: With one rope, rap from same bolt anchor to the north back to starting ledge. 
+route_name: Overhang Bypass  
+route_quality: 0.725 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, 2 pitches, 100' 
+route_url: /v/overhang-bypass/105721648 
+

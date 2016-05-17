@@ -1,0 +1,10 @@
+area_name: Zippy Zebra Wall Rock Climbing  
+area_url: /v/zippy-zebra-wall/105956530 
+description: This is the obvious wall 1.8 miles from the visitors center.  It is on the left, and visible from the road. The climb Zippy Zebra is the left facing dihedral on the right side of the wall.  
+getting_there: 1.8 miles up the winding road fromt he visitor's center. 
+id: 105956530 
+latitude:  
+longitude:  
+parent_name: Arches National Park 
+parent_url: /v/arches-national-park/105716757 
+

@@ -1,0 +1,11 @@
+id: 106200115 
+parent_name: Narcolepsy Area 
+parent_url: /v/narcolepsy-area/105739449 
+route_description: Good Wide Climbing on the far west side of narcolepsy area. Nice cracks, mostly hands with some places a good deal wider. Belay is very awkward to set up. I continued to the top (climb east to attain narcolepsy anchors) and rapped down narcolepsy. This continuation is highly recommended to avoid the walk off to the west. A good crack for the leader trying to break into the grade. It felt a bit soft for a 5.8 to me.  
+route_name: Turn Of The Sentry  
+route_quality: 0.525 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 1 pitch, 60' 
+route_url: /v/turn-of-the-sentry/106200115 
+

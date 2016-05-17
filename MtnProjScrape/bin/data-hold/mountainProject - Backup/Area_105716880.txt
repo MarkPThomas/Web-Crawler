@@ -1,0 +1,10 @@
+area_name: Donnelly Canyon Rock Climbing  
+area_url: /v/donnelly-canyon/105716880 
+description: As you stand in the major parking area wondering if you'll be able to find a warm-up with no parties camped on it at the Super Crack, Donnelly, Battle of the Bulge cluster, look northwest.  You can't miss seeing the well-traveled splitter Generic Crack.  This is the most prominent feature on the Donnelly Canyon wall.  Donnelly Canyon is home to several moderate climbs and consequently, hordes of gumbies.  However, this is Indian Creek and there are several good lines on this wall.    Another lesser know attraction of Donnelly Canyon is its acoustics.  After a day of posing at either Super Crack Buttress or DC, you may find yourself enjoying a beer in the parking lot while you spray.  When you shut-up long enough to belch, be sure to aim in the direction of Generic Crack.  If you have any talent at all, then your mating call will be well amplified as it echoes and resonates out of the canyon.  To witness this awe-inspiring feat alone is worth the drive to the Creek.  
+getting_there: Look for the major parking lot on the right about 4 miles or so past Newspaper Rock.  The wall for Donnelly is the one on the west that is more or less perpendicular to the road. 
+id: 105716880 
+latitude: 38.0398 
+longitude:  -109.5436  
+parent_name: Indian Creek 
+parent_url: /v/indian-creek/105716763 
+

@@ -1,0 +1,10 @@
+area_name: Disappointment Peak Rock Climbing  
+area_url: /v/disappointment-peak/105803650 
+description: This area includes popular climbs accessible from the Garnet Canyon trail.  The standout climbs included Irene's Arete and Open Book. In general, the climbs don't summit the peak, and instead climb features along the flanks of the peak above the Garnet Canyon trail. 
+getting_there: Park at the Lupine Meadows trailhead in Grand Teton National Park.  Follow the trail through the lowlands for about 1.5 miles, until it begins switchbacking.  There will be a fork to your left for the Valley Trail - which you ignore. At around 3 miles, take the left fork heading into Garnet Canyon.  The right fork keeps going to Amphitheater and Surprise lakes - a nice hike, and my preferred way to descend from Open Book. 
+id: 105803650 
+latitude: 43.73446 
+longitude:  -110.79277  
+parent_name: Grand Teton National Park 
+parent_url: /v/grand-teton-national-park/105802912 
+

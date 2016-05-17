@@ -1,0 +1,10 @@
+area_name: Lizard Rock Rock Climbing  
+area_url: /v/lizard-rock/105716889 
+description: Lizard Rock is the 60 foot spire near the parking lot, and is also known as Entrance Rock.  The standard route climbs the face nearest the parking lot, and another route exists just to its left.  Good free climbing for the Fishers. 
+getting_there: It should be pretty obvious from the parking lot... 
+id: 105716889 
+latitude: 38.7251 
+longitude:  -109.30779  
+parent_name: Fisher Towers 
+parent_url: /v/fisher-towers/105716787 
+

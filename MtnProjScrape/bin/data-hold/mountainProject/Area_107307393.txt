@@ -1,0 +1,10 @@
+area_name: East Side Rock Climbing  
+area_url: /v/east-side/107307393 
+description: Includes:  Tourist Trap Discovery Wall Toprope Wall The Camel Moses Springs Wall Men at Work Boulder Monolith The Back Door Tiburcio's X The Sisters and The Frog are approached from the Reservoir Area at the terminus of the Bear Gulch trail. 
+getting_there: maps.google.com/maps?q=36.4786... 
+id: 107307393 
+latitude: 36.4786 
+longitude:  -121.1839  
+parent_name: Pinnacles National Park 
+parent_url: /v/pinnacles-national-park/105733947 
+

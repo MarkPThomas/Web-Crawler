@@ -1,0 +1,11 @@
+id: 107057624 
+parent_name: El Capitan Base Routes 
+parent_url: /v/el-capitan-base-routes/105841115 
+route_description: The fist pitch is a great practice aid climb and, by far, the crux of the route. Steep and challenging, make sure you have your pendulum skills in order (follower too!!) and have some hooks in your pocket for the top. The last four adventure pitches follow a vegetated ledge system up and left to the very obvious (and only) Ponderosa. A fun day out on El cap with a great view.   P1: 150 feet C2 or 5.10 C1. Underneath a huge roof, follow third class ledges up to where you can lean out to the left and clip a bolt as your first piece. Lower out and swing left to an arete. Make your way up to a small corner until you are about even with your first bolt. Start climbing out left some more, over the arete and out from underneath the roof, until you eventually reach the bolt ladder.  Six bolts take you to some ledges where you can hook or 5.10 free to the top   P2. 140 feet 5.8. Follow 4th class ledges out left, clip a bolt as your first piece, make two 5.8 moves, then 4th class it up to the next set of three bolts.  P3: 120 feet 4th. Head out left on 4th class, pass a bolted belay (which is the start of Native Son), then head a little down on more 4th class. Loose and vegetated.  P4: 120 feet 5.8. Some easy 5th class brings you to a large right facing dihedral of dark, broken rock. Chimney, stem, jam and jug your way up to another bolted belay.   P5: 100 feet 5.9. A short 5.9 lieback brings you up on to another huge ledge and to El Cap Tree. Watch your rope among the loose rock. Pass the tree, and you'll eventually reach another bolted rap anchor.   Two full-length rappels with two 60 meters ropes from the end of P5. Or two 140 foot rappels from the end of Pitch 3. Or one 150 foot rappel from the end of P1.  
+route_name: El Cap Tree  
+route_quality: 0.675 
+route_rating:  YDS: 5.7 C2 
+route_rating_original: YDS: 5.7 C2 
+route_type: Trad, Aid, 5 pitches, 400',  Grade II 
+route_url: /v/el-cap-tree/107057624 
+

@@ -1,0 +1,10 @@
+area_name: South Astro Dome - East Face Rock Climbing  
+area_url: /v/south-astro-dome---east-face/106637666 
+description: Just left of the more popular Northeast Face is this large expanse of rock which tapers off towards the south. Half a dozen or so routes are located here but few of them see anywhere a fraction of the ascents the more popular lines elsewhere on the Astro Domes see. Primal Flake (5.9+), Strike It Rich (5.10a) and Naked Singularity (5.11c) are some of the better lines here.   Routes from left to right:  Primal Flake (5.9+) Let's **** the Crack Whore (5.10a) Hex Marks the Poot (5.8) If You Really Loved Me, You'd Buy Me A Turkey (5.10b) Strike It Rich (5.10b) Strike a Bitch (5.10d) Naked Singularity (5.11c) 
+getting_there: See The Astro Domes page for detailed approach information. 
+id: 106637666 
+latitude: 34.03824 
+longitude:  -116.1466  
+parent_name: South Astro Dome  
+parent_url: /v/south-astro-dome-/105720741 
+

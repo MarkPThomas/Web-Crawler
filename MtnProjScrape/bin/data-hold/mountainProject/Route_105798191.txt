@@ -1,0 +1,11 @@
+id: 105798191 
+parent_name: Northwest Recess 
+parent_url: /v/northwest-recess/105794133 
+route_description: While the guide quotes 8 pitches it can easily be condensed to 5 pitches. The cracks on this climb are stunning and very straight forward. There is quite a variety from low angle laybacking to hand cracks and eventually a chimney. A crux lies at the exit to a chimney where you get a bomber fist jam and have to work your feet up and get out of the top of the chimney. There is one bolted belay and all the rest are gear anchors. There are at least 2 good belay ledges.  
+route_name: Whodunit  
+route_quality: 0.925 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 8 pitches, 800' 
+route_url: /v/whodunit/105798191 
+

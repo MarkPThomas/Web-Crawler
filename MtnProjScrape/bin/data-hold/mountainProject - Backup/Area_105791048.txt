@@ -1,0 +1,10 @@
+area_name: (s) Monkey Face Rock Climbing  
+area_url: /v/s-monkey-face/105791048 
+description: This prominent tower is one the best known features at Smith rock.  It's asthetic beauty is enhanced by the historical ascents and world famous routes on its clean faces.  Monkey face still holds some of the hardest climbs in the world as well as a plethora of classic trad and sport lines.  It's most famous route, Just Do It 5.14c is still a testpiece route for aspiring hardmen/women.    Other popular pastimes include making the tyrolean traverse from the main buttress to the monkey's mouth.  This airy span is also often used for a spectacular high line walk.     
+getting_there: To approach you can take the hiking trail in either direction once you cross the bridge.  Heading north provides a steeper but shorter approach.  The seldom taken southward, scenic approach is much further but has less elevation gain and takes you all the way around the formation.  Many approach by hiking past the main dihedrals, doing the scramble over asterik pass, and continuing on climbing trails heading north. Routes are listed clockwise from right side of the west face. 
+id: 105791048 
+latitude: 44.37056 
+longitude:  -121.14399  
+parent_name: Smith Rock 
+parent_url: /v/smith-rock/105788989 
+

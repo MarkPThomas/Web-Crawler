@@ -1,0 +1,11 @@
+id: 105748268 
+parent_name: First Flatiron 
+parent_url: /v/first-flatiron/105744678 
+route_description: This route climbs the entire 1000+ feet of the First Flatiron, and is pure joy the whole way up.  The pitches are based upon using a 50m rope.  It's 7 for a 60m rope.  P1:  Start at the base of the Flatiron, just across and left of the bridge. Follow a water gully up, passing two eye bolts on the left side, to belay on a ledge by the tree if you have a 60meter rope. Otherwise, you'll have to belay at a small shelf about 1/2 way there.  P2:  Continue straight up, belaying at another nice ledge a rope length up.  P3:  Scramble up easier terrain to a belay. (Yes it's vague. Just go a rope length, and find a good ledge).  P4:  Scamble again straight up and a little left. Belay on a ledge that could hold 20 people, on top of the headwall.  P5:  Head left and up, towards a slot at the left end of the roof.  P6:  Follow up the slot and start on the ridge traverse.     P7-10: It's 2-4 pitches from here to the actual summit block.  
+route_name: Direct Route  
+route_quality: 0.875 
+route_rating:  YDS: 5.6 R 
+route_rating_original: YDS: 5.6 R 
+route_type: Trad, 10 pitches,  Grade II 
+route_url: /v/direct-route/105748268 
+

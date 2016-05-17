@@ -1,0 +1,11 @@
+id: 105833467 
+parent_name: El Capitan 
+parent_url: /v/el-capitan/105833392 
+route_description: The East Buttress of El Cap is a classic adventure up the right hand shoulder of El Cap.  You don't get the feeling you're actually on El Cap, though you are afforded with great views of the tremendous southeast face. Of note, the route also serves as a convenient introduction to the East Slabs descent route which is very nearby upon topping out.  As one of the more popular routes in the Valley, so be prepared for traffic jams and a long day, but because the crux comes early and most of the climbing is much more moderate, fast parties can usually finish the route in about half a day.  Approach is typically via a slog up the ramp or the Moratorium. The latter adds four amazing (and more difficult) pitches to the East Buttress, but is somewhat out of character which is one of adventure.  Sorry about the brief description. I adopted it and haven't had a chance to update it - I will add a pitch-by-pitch breakdown shortly. 
+route_name: East Buttress  
+route_quality: 0.875 
+route_rating:  YDS: 5.10b 
+route_rating_original: YDS: 5.10b 
+route_type: Trad, 9 pitches, 1200' 
+route_url: /v/east-buttress/105833467 
+

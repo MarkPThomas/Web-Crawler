@@ -1,0 +1,10 @@
+area_name: Trashcan Rock - East Face Rock Climbing  
+area_url: /v/trashcan-rock---east-face/106670367 
+description: This side of the formation is the one seen from the road upon turning into the first, smaller of two parking lots.  Routes from left to right  Filth...........................5.8   Filch..........................5.6 Slippery People...........V5 Ripper........................V2 Gripper Traverse..........V0 Wallaby Crack............5.8 Hermanutic.................5.10 Butterfly Crack............5.11c Mr. Freeze..................5.12b Left Sawdust Crack.....5.10c Right Sawdust Crack...5.8      	  	              	      	  	    Trashcan Rock - East Face   	  
+getting_there: About 6 miles from the West Entrance of the park. 
+id: 106670367 
+latitude: 34.04031 
+longitude:  -116.19715  
+parent_name: Trashcan Rock 
+parent_url: /v/trashcan-rock/105720807 
+

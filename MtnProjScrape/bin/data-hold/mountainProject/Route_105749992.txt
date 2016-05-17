@@ -1,0 +1,11 @@
+id: 105749992 
+parent_name: The Whale's Tail 
+parent_url: /v/the-whales-tail/105744862 
+route_description: In my opinion, this is the finest beginner's lead climb in the state.  It has excellent pro and easy but airy climbing.  The traverse to the belay ledge is 4th class but exposed; it is a good idea to rope up on it.  From the roomy belay ledge, the crack goes straight up - no rope drag and no route finding.  The start is the most intimidating part, but it is easier than it looks.  Holds are generously placed in and around the crack and always where you need them.  There are a few easy jams and manteling moves.  It feels harder than 5.2 - it's steep, and the wind blowing through the canyon gives the climb some exciting exposure.  It has beautifully solid rock and wonderful, wonderful pro.  I placed my entire set of stoppers and several hexes into the crack.  The cable at the top is a good place to set up a rappel or toprope anchor; however, you can go to the top of Whale's Tail.  Beware!  A single 50m rope from the cable won't reach the belay ledge on rappel, and you'll have to do an exposed downclimb.  Use a single 60m rope, or two ropes.    From the cable, you can also choose to traverse to the bolts over the dihedral, and set up a toprope there as well.  Spend a couple of hours trying out the crack, face, and dihedral on toprope.  If you are learning to lead, you must make this one of your first!  Beautiful.  
+route_name: West Crack  
+route_quality: 0.675 
+route_rating:  YDS: 5.3 
+route_rating_original: YDS: 5.2 
+route_type: Trad, TR, 1 pitch, 160' 
+route_url: /v/west-crack/105749992 
+

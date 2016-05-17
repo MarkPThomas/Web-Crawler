@@ -1,0 +1,10 @@
+area_name: Sentinel Creek Area Rock Climbing  
+area_url: /v/sentinel-creek-area/106066238 
+description: This secluded area is  right of Sentinel. It's a shady place with some good routes as  Vanishing Point, Mental Block, Hari-Kiri, Ying-Yang and Maniana 
+getting_there: Park at turnout 1.4 miles  east from El Cap Bridge. This turnout has a shoulders on booth sides of the road. From right turnout find the trail which lead to Valley loop trail. Turn left ( east) to Valley loop trail and walk about 3 min until you cross dry creek and turn right when you see the duck to the climbers trail. This trail bring you to the base of Manana. From base of  Manana to Vanishing point about 20 min of scrambling. If you going to visit Vanishing point only - it would be much faster continue to Valley loop trail two more minutes past Manana turn to huge bolder on your right (Presidential Boulder) and take faint trail up from there 
+id: 106066238 
+latitude: 37.72639 
+longitude:  -119.60146  
+parent_name: Yosemite Valley 
+parent_url: /v/yosemite-valley/105833388 
+

@@ -1,0 +1,10 @@
+area_name: Teewinot Rock Climbing  
+area_url: /v/teewinot/105843608 
+description: The eastern most peak of the Cathedral Group, Teewinot dominates the view from both the Jenny lake campground and visitors area and the Lupine Meadows parking lot where it completely eclipses the Grand Teton.  The abrupt view from the summit of the north face of the Grand and the east side of Mt Owen is, to understate the case, inspiring -- Rossiter used it for the cover of his select guidebook. 
+getting_there: Most ascents will be via the east face starting at the Lupine Meadows parking lot. 
+id: 105843608 
+latitude:  
+longitude:  
+parent_name: Grand Teton National Park 
+parent_url: /v/grand-teton-national-park/105802912 
+

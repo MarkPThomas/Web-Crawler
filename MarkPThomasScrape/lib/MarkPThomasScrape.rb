@@ -5,34 +5,38 @@ require 'fileutils'
 require_relative '../../lib/LibFileReadWrite'
 require_relative '../../lib/LibParse'
 
+# See: http://ruby.bastardsbook.com/chapters/html-parsing/
+# See: http://ruby.bastardsbook.com/chapters/web-crawling/
+
+BASE_URL = 'http://www.markpthomas.com/'
+
 # ================================
 # Scraping: All
 # ================================
-def scrape_all(base_url, data_dir)
+def scrape_all(data_dir)
   FileUtils::mkdir_p(data_dir) unless File.exists?(data_dir)
 
   puts 'Running full scrape'
-  page = Nokogiri::HTML(open(base_url))
+  page = Nokogiri::HTML(open(BASE_URL))
 
-  scrape_all_of_type('Trip_Report', 'gx:79f1adc80c2b95e', page, base_url, data_dir)
-  scrape_all_of_type('Article', 'gx:90aabe2a4d48f8d', page, base_url, data_dir)
+  scrape_all_of_type('Trip_Report', 'gx:79f1adc80c2b95e', page, data_dir)
+  scrape_all_of_type('Article', 'gx:90aabe2a4d48f8d', page, data_dir)
 
   puts 'Website scrape complete.'
 end
 
-def scrape_all_of_type(type, wuid, page, base_url, data_dir)
+def scrape_all_of_type(type, wuid, page, data_dir)
   puts "Scraping #{type} Menu Items"
   menu_items = read_page_menu_items(page, wuid, type)
-  local_fname = "#{data_dir}/#{type}_Menu_Items.txt"
   puts 'Writing menu items'
-  print_sub_hashes(menu_items, local_fname)
+  overwrite_sub_hashes(menu_items, "#{data_dir}/#{type}_Menu_Items.txt")
 
   puts "Scraping #{type} Pages"
   max_num = menu_items.count
   count = 1
   menu_items.each { |menu_item|
     puts "Scraping #{type} #{count} of #{max_num}"
-    menu_item = add_page_data_to_menu_item(base_url, menu_item)
+    menu_item = add_page_data_to_menu_item(menu_item)
     print_menu_item(menu_item, data_dir) unless menu_item.nil?
     count += 1
   }
@@ -44,11 +48,11 @@ end
 # ================================
 def print_menu_item(report, data_dir)
   local_fname = "#{report[:type]}_#{report[:page_id]}.txt"
-  append_hash("#{data_dir}/#{local_fname}", report)
+  overwrite_hash(report, "#{data_dir}/#{local_fname}")
 end
 
-def add_page_data_to_menu_item(base_url, report)
-  report_page = read_page(base_url + report[1][:page_url])
+def add_page_data_to_menu_item(report)
+  report_page = read_page(BASE_URL + report[1][:page_url])
   report_page.nil? ? nil : report[1].merge!(report_page)
 end
 
@@ -79,8 +83,8 @@ def read_page_menu_item(nav_item)
 
   page_menu_name = nav_item.text
   page_menu_name = strip_bullet_point(page_menu_name) # Removes bullet point
-  page_menu_name.gsub!(/\A{|}\Z/, '')                 # Removes any quotation marks
-  page_menu_name.gsub!(/\A[|]\Z/, '')                 # Removes any quotation marks
+  page_menu_name.gsub!(/\A{|}\Z/, '')                 # Removes any {} marks
+  page_menu_name.gsub!(/\A[|]\Z/, '')                 # Removes any [] marks
   page_menu_name.gsub!(/\A"|"\Z/, '')                 # Removes any quotation marks
   page_menu_name.strip!
 
@@ -89,7 +93,7 @@ def read_page_menu_item(nav_item)
 end
 
 # ================================
-# Supporting Methods : Pages
+# Supporting Methods: Pages
 # ================================
 def read_page(url)
   begin

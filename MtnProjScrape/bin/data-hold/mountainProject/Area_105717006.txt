@@ -1,0 +1,10 @@
+area_name: The Titan Rock Climbing  
+area_url: /v/the-titan/105717006 
+description: The Titan is the largest of the Fisher Towers, and the largest free standing tower in the United States.  The Titan was also the first tower in the Fishers to be cimbed.  Layton Kor's ascent of the Finger of Fate was the subject of an article in National Geographic, and the climb is one of the 50 Classic Climbs of North America.  Harvey Carter, not to be outdone, added the incredible plumb line Sundevil Chimney, and later harder routes were added by Jim Beyer, Walt Shipley, and Duane Raleigh among others.  Stevie Haston made an impressive attempt to free the Finger of Fate, but still had to resort to a few moves of aid - so the Titan is still awaiting a FFA.  Update - Stevie Haston has apparently freed the Sundevil Chimney at 5.13  This is pretty mind blowing - if the Titan can be freed probably any tower can. 
+getting_there: Walk along the trail until at the base of the Titan.  Sundevil Chimney is the first route reached.  To reach the Finger of Fate, keep traversing around the base until it is possible to scramble up on ledges.   
+id: 105717006 
+latitude: 38.71745 
+longitude:  -109.29955  
+parent_name: Fisher Towers 
+parent_url: /v/fisher-towers/105716787 
+

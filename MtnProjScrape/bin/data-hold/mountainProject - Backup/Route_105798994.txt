@@ -1,0 +1,11 @@
+id: 105798994 
+parent_name: i. High E 
+parent_url: /v/i-high-e/107059022 
+route_description: High Exposure.  The climbing itself is flawless, but when one considers that the FA was done by pioneers Hans Kraus and Fritz Wiessner in 1941, it's even more incredible!  The name, of course, is completely appropriate for this must-do Gunks mega-classic.  The High E buttress is an obvious right-facing arete that is visible from the drive in from New Paltz.  It is located about halfway along the base of the Trapps, right of the MF area and left of Bonnie's Roof.  The High E access trail is about a 17-min. walk from the Uberfall, and a 13-min. walk from where the East Trapps Connector Trail meets the carriage road.  P1:  Begin the climb in a chimney/stemming corner left of the arete.  Climb up this corner, only until it is possible to traverse up and right across the face, then climb up the face to a fantastic, spacious triangular belay ledge (this is the GT ledge) right on the arete below a large roof.  Belay from natural gear or sling the huge boulder on the ledge.  5.4, 180'.    This pitch was originally split into two by belaying in the corner before heading out onto the face, but it can be easily combined into one with careful rope management.    P2:  This is the money pitch, and is just about as exciting as 5.6... or 5.7 or 5.8 for that matter... can be.  Climb up from the ledge (it's easiest to begin at the left side) and traverse right to the obvious place to turn the corner and make "The Move" to pull the roof - the exposure is immediate and the rock is steep!  Continue up the face past gear, jugs, and fixed pins, trending left back towards the arete, until you top out.  Exhilarating!  5.6, 100'.  Communication between the clifftop and the GT is notoriously difficult here, so plan accordingly.    Descend climber's right from three bolted rap stations with one rope.  Also consider the Directissima variation instead of doing the original first pitch.  Done this way, the climb checks in at 5.9, but you get what you pay for -- a first pitch that rivals the second in terms of quality. 
+route_name: High Exposure  
+route_quality: 0.95 
+route_rating:  YDS: 5.6 
+route_rating_original: YDS: 5.6 
+route_type: Trad, 2 pitches, 250' 
+route_url: /v/high-exposure/105798994 
+

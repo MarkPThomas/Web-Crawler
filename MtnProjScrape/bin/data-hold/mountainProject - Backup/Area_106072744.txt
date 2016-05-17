@@ -1,0 +1,10 @@
+area_name: Laurel Mountain Rock Climbing  
+area_url: /v/laurel-mountain/106072744 
+description: Laurel Mountain is the large colorful mountain to the west of Convict Lake in the Eastern Sierra, just to the southeast of Mammoth Lakes. The east face of Laurel is made of crazy colorful metamorphic rocks which drop thousands of feet down to Convict Lake below as the Sevehah cliffs. The Mendenhall Couloir is the obvious gully that splits the Sevehah cliffs and leads right up to the summit of the mountain. The north and west sides of the mountain are rubble hikes. 
+getting_there: Park either at Convict Lake or at the top of the Laurel Canyon jeep trail, depending if you want to climb the East side or the North side of the mountain. 
+id: 106072744 
+latitude: 37.58026 
+longitude:  -118.89129  
+parent_name: 05 - Convict Lake & McGee Creek 
+parent_url: /v/05---convict-lake--mcgee-creek/110847763 
+

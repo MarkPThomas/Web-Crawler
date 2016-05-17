@@ -1,0 +1,11 @@
+id: 105913655 
+parent_name: 21 - Reed's Pinnacle Area 
+parent_url: /v/21---reeds-pinnacle-area/105863765 
+route_description: Pitch 1 takes the cavernous looking back and foot chimney to a stance at some slung chockstones. Pitch 2 follows the 5"-7" wide crack in the back of a left facing dihedral to a ledge where the tunnel thru on the Reed's regular route emerges. From here one may escape to easier ground by working right above the short hand crack, or stay left for full value and finish with a short bit of 5.9 OW to the top of Reed's Pinnacle. 
+route_name: Reed's Pinnacle Left  
+route_quality: 0.7 
+route_rating:  YDS: 5.10a 
+route_rating_original: YDS: 5.10a 
+route_type: Trad, 2 pitches, 240' 
+route_url: /v/reeds-pinnacle-left/105913655 
+

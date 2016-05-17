@@ -1,0 +1,11 @@
+id: 105852476 
+parent_name: Castle Rock 
+parent_url: /v/castle-rock/105790784 
+route_description: This ultra-classic, super-short finger-crack is quite a popular line at castle and seldom feels very easy. There's a good rest at the handjam pods high on the route. Some consider it cheating to reach out to the rail at any point that is not the very top of the horn. Also, watch out on warm days as the crack and the super-polished footholds can get very greasy. Technically the route continues up to a rap anchor and several more pitches to the top of Castle Rock, but this is rarely climbed. There is a route description for this in the Leavenworth guide. 
+route_name: Angel  
+route_quality: 0.675 
+route_rating:  YDS: 5.10b 
+route_rating_original: YDS: 5.10b 
+route_type: Trad, 1 pitch, 30' 
+route_url: /v/angel/105852476 
+

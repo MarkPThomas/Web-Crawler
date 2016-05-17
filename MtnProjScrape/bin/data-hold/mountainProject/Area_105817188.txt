@@ -1,0 +1,10 @@
+area_name: Gong Show Wall Rock Climbing  
+area_url: /v/gong-show-wall/105817188 
+description: An excellent crag that can be discerned by the multiple roofs that lace it.  The large roof on the left that is split by a hand crack/ OW is the cliffs namesake, the Gong Show. This area doesn't go into the shade till about 1pm in the summer and can be very hot on hot summer days in the morning. 
+getting_there: Drive 4.5 miles to the Big Meadow campground and park (Please park on the road). Find your way across the stream and follow the climbers trail up the stream until it turns right and goes uphill. You should be able to find a use trail most of the way to the Crag. The trail ends just below Gong Show. Don't start up the hill until you find a good use trail. 
+id: 105817188 
+latitude: 37.5096 
+longitude:  -118.7179  
+parent_name: Rock Creek 
+parent_url: /v/rock-creek/105817185 
+

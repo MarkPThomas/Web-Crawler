@@ -1,0 +1,11 @@
+id: 105739904 
+parent_name: Storm Mountain Island 
+parent_url: /v/storm-mountain-island/105739353 
+route_description: This route can be found directly behind the Storm Mountain Amphitheatre, left of the prominent roof, in a corner, behind a pine tree (whew!). The first pitch follows a rough corner system 60' into a steep gully, to a belay off of cracks and boulders on left side of gully. Next pitch heads up opposite side of gully along a wide (5"), jagged crack that separates a huge block from the mountain. Sparse protection through here so take advatage of everything. After 50', mantle onto the block, clip finishing bolts of climb on outside face (or contrive a beautiful directional), and head up around brief face, off of the block to a rocky belay. Walk off as described for Layback Crack. 
+route_name: The Flake  
+route_quality: 0.475 
+route_rating:  YDS: 5.5 
+route_rating_original: YDS: 5.6 
+route_type: Trad, 2 pitches 
+route_url: /v/the-flake/105739904 
+

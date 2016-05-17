@@ -1,0 +1,11 @@
+id: 105739895 
+parent_name: Pentapitch Area 
+parent_url: /v/pentapitch-area/105739356 
+route_description: A classic Little Cottonwood multi pitch-climb.  Features fun crack- and face-climbing on quality granite. The second plus third and the fourth plus fifth pitches can be easily run together into two pitches if you keep rope drag down with use of long runners.  Descend by numerous rap stations available on right side of route (adjacent to Sasquatch). All raps can be done with a single 50 meter rope.  
+route_name: Pentapitch  
+route_quality: 0.875 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad 
+route_url: /v/pentapitch/105739895 
+

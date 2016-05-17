@@ -1,0 +1,10 @@
+area_name: Northwest Recess Rock Climbing  
+area_url: /v/northwest-recess/105794133 
+description: The Northwast Recess is located between the Maiden Buttress on the right and the North Buttress to the left. It can be seen from the parking area of Humbler park. The right-facing corner/dihedral that extends almost to the top is Whodunit (5.9).  Descent: Is either down the Friction Route or the North Gully.  
+getting_there: Take the Climber Trail to Lunch Rock. From Lunch Rock head straight left for awhile then slightly down to get around the Maiden Buttress. After around the Maiden Buttress angle up and left. Looks up for the Whodunit Dihedral, it is not hard to miss.    
+id: 105794133 
+latitude: 33.76079 
+longitude:  -116.68392  
+parent_name: Tahquitz Rock 
+parent_url: /v/tahquitz-rock/105788031 
+

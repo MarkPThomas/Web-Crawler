@@ -1,0 +1,10 @@
+area_name: Bubo Tower Rock Climbing  
+area_url: /v/bubo-tower/105717057 
+description: Bubo Tower is a single formation with a single known line, in the Balanced Rock area.  The rock is typical of Arches, being somewhat soft sandstone, but not bad all-together.  The tower rises out of the sand vertically and the route Bubo is on the North Face, which faces Balanced Rock, form perhaps only 100 yards away.  The route is thus shaded and can be climbed in nearly into summer.  The Area is apparently a nesting area and climbing may be closed from January 1 - July 1.  To descend, rap on double ropes from the anchors up top.  The current condidition of the anchor is unknown- take some red/brown webbing with you.  In a pinch you could simul-rap from 2 60+ meter ropes, but getting the rope back could be difficult. 
+getting_there: Drive into Arches N.P. and drive ~ 9 miles from the visitor's center.  Park at the large lot at the obvious Balanced Rock.  Walk the trail around balanced roack until you stand nearly directly between the Bubo Tower and Balanced Rock, then head for the North Face of the Tower, to the gaping crack in the center.  Avoid going off trail, as much of the soil near here is sensitive. 
+id: 105717057 
+latitude:  
+longitude:  
+parent_name: Arches National Park 
+parent_url: /v/arches-national-park/105716757 
+

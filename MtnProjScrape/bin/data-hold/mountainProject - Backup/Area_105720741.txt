@@ -1,0 +1,10 @@
+area_name: South Astro Dome  Rock Climbing  
+area_url: /v/south-astro-dome-/105720741 
+description: These awesome domes lie in the heart of the Wonderland of Rocks and sport some of the longest routes in the park.  Classics include Solid Gold (10a) and Such a Savage (11a).  The climbing is characterized by steep face climbing on small edges protected by bolts.  Remember though, that these climbs were put up in the days of the bolt-on-lead ethic, and ARE NOT SPORT CLIMBS.  Just because these routes aren't given an "R" (by tradition) doesn't mean you won't encounter significant runouts with dangerous fall potential: a small rack is usually useful to supplement the fixed gear on these routes.  The majority of the routes on these domes face northeast and thus can be quite cold in the winter and see little sun.  That being said a warm day in January brings ideal climbing conditions if you don't mind being a little chilly.  The South Astro Dome can be descended by 2 rappels from the top of My Laundry (one 60 ft and one 90 ft).   
+getting_there: Directions are difficult in the Wonderland.  It is best to bring a good map to help locate the Astro Domes.  From the Barker Dam parking area, follow the trail north towards the Dam.  When you reach the lakebed, continue north through the lakebed (if dry) or cross at the dam.  Continue north through the Wonderland until you reach the enormous Don Juan Boulder.  At this point veer towards the South Astro Dome and clamber up slabs to a notch which provides an excellent vantage point of the walls.  Descend to the route of choice. 
+id: 105720741 
+latitude: 34.0382 
+longitude:  -116.1469  
+parent_name: The Astro Domes 
+parent_url: /v/the-astro-domes/106637672 
+

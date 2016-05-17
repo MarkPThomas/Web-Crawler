@@ -1,0 +1,11 @@
+id: 105870839 
+parent_name: Western Front 
+parent_url: /v/western-front/105870829 
+route_description: On the left side of Western Front, climb a right leaning corner to it's end. Move up and right to a bolt and continue to the top. Rap 80' or walk off to the right. 
+route_name: Green Eggs and Ham  
+route_quality: 0.5 
+route_rating:  YDS: 5.9 R 
+route_rating_original: YDS: 5.9 R 
+route_type: Trad, TR, 1 pitch 
+route_url: /v/green-eggs-and-ham/105870839 
+

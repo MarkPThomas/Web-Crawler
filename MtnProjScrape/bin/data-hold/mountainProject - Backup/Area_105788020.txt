@@ -1,0 +1,10 @@
+area_name: Tahquitz & Suicide Rocks Rock Climbing  
+area_url: /v/tahquitz--suicide-rocks/105788020 
+description: Tahquitz and Suicide Rocks are the premiere multi-pitch traditional crags in Southern California and offer numerous climbs of all levels from one to seven pitches in length.  The rock at both Tahquitz and Suicide is a high-quality granite that varies from smooth and nearly featureless in spots to rough and grainy in others with most of it being somewhere in the middle and quite excellent. Loose rock is generally rare at Suicide Rock but the north side of Tahquitz is notorious for loose rock.    The season typically runs from mid to late spring through mid to late fall although with a mild winter the season can be extended in either direction. Suicide Rock with it's lower elevation tends to be free of snow earlier in the spring and be hotter in the summer.  Please note these are traditional crags and although sport routes do exist at both rocks they are the exception. It's important to keep in mind that even fully bolted routes requiring nothing more than quickdraws tend to be runout and somewhat serious leads.  
+getting_there: From LA or Palm springs via Interstate 10 take Highway 243 from the town of Banning 24 miles south to the town of Idyllwild. After a stop sign (your first since leaving Banning) make a left onto North Circle Drive, the second left, and follow it to another stop sign. Make a right and then your first left onto Fern Valley Drive and follow the signs to Humber Park.   From the San Diego via Interstate 215 take Highway 74 to the town of Hemet, from which it's 14 miles to the small town of Mountain Center and the junction with Highway 243. Drive 5 miles to the town of Idyllwild and make a right onto North Circle Drive (just past The Fort) and follow it to a stop sign. Make a right and then your first left onto Fern Valley Drive and follow the signs to Humber Park.   
+id: 105788020 
+latitude: 33.7607 
+longitude:  -116.679  
+parent_name: California 
+parent_url: /v/california/105708959 
+

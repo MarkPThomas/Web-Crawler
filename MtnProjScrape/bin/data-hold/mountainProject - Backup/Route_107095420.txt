@@ -1,0 +1,11 @@
+id: 107095420 
+parent_name: 18 - Generator Station 
+parent_url: /v/18---generator-station/105952378 
+route_description: This is a great route to practice inversion technique. It's located right off the side of the road. Park at the generator station and walk up the trail past Conductor Crack. Keep walking east for another 100 feet and you'll pass by another large boulder. Walk around to the east side of the boulder and you'll see a smaller boulder perched next to it. This boulder has a 10 ft tall corner leading up to a roof. Above the roof is a crack that widens from hands to off-width. This is The Gauntlet. To set a toprope, scramble around to the right. You could maybe boulder it if you want, with some pads protecting the rock below, but you probably won't since you might fall on your head.  Start with finger locks and liebacking in the corner. Undercling out the roof and sink a great handjam at the lip, then a fist jam, and then you flip upside down and throw your foot in above you. Use hand-stacks to scoot your foot jam up. Eventually you'll need to un-invert which is the crux of the route. A route that's sure to give you washboard abs in no time. 
+route_name: Cool Wheel (aka The Gauntlet)  
+route_quality: 0.575 
+route_rating:  YDS: 5.11c 
+route_rating_original: YDS: 5.11c 
+route_type: Trad, TR, 1 pitch, 20' 
+route_url: /v/cool-wheel-aka-the-gauntlet/107095420 
+

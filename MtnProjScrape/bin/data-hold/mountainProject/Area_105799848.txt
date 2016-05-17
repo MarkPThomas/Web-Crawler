@@ -1,0 +1,10 @@
+area_name: South Face Rock Climbing  
+area_url: /v/south-face/105799848 
+description: This area is around the right side of Tahquitz which includes the Open Book area. This area offers some short climbs and is warm on cool day but heats up during the summer. It starts with the Open book Dihedral and keeps moving right and up. This area offers a variety of climbing, from good moderates to stout to even aid climbing.  The usual descent is the Friction Route, but there is also a rappel route starting on the 2 bolt anchor atop the Open book to a 2 bolt anchor for Green Arch and then down to the ground (you will need  2 ropes for this rappel). 
+getting_there: From Lunch Rock head up and right to the base.  Then follow the base around and right until you see the Open Book Dihedral.  This is the start of the area. 
+id: 105799848 
+latitude: 33.75941 
+longitude:  -116.6846  
+parent_name: Tahquitz Rock 
+parent_url: /v/tahquitz-rock/105788031 
+

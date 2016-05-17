@@ -1,0 +1,11 @@
+id: 105735614 
+parent_name: Lower Buttress 
+parent_url: /v/lower-buttress/105734324 
+route_description: This excellent route ascends the entire length of the Lower Buttress, bringing you up out of the giant forest below and high enough so you think you're way the hell up.  Then you top out, and realize that the main wall of Lover's Leap hovers over you, and that you're a mere peon in between the giant walls of horizontal dykes.   For a 5.7, this has an excellent variety of terrian for only 3 pitches.   Accessing the route is easy: Walking up to the Lower Buttress,  walk right until you find the first set of bolts. Then walk a little more to the second set of bolts, which is Pillar of Society (.12a). The next crack is the Direct Start of Surrealistic Pillar (.10a), and finally you'll be on a tier with a flat face and a couple of large horns about 15 - 20 feet off the ground. You're here.  Pitch 1:  Climb up to the horns, and continue up and left to a well protected crack system to a wide (4") left facing crack.  Pitch 2:  Follow this crack up for about 4 dykes, where you need to cross to a large horn. Follow this around the arete, where you can belay from a ledge.   Pitch 3: Simple. Go up the face with large jugs and belay from something suitable up top.   
+route_name: Surrealistic Pillar  
+route_quality: 0.775 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, 3 pitches, 270' 
+route_url: /v/surrealistic-pillar/105735614 
+

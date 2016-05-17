@@ -1,0 +1,11 @@
+id: 105735518 
+parent_name: Snowshed Wall 
+parent_url: /v/snowshed-wall/105734177 
+route_description: Nice Offwidth.  Note the grade of 5.8+ os for the OW, and the climb could feel harder if you've never done this sort of climbing before.  IT's a nice one that has reasonable rests and won't shred the aspiring OW climber, but at least short-sleaves may be advised anyway, as opposed to bare-back or in a tank top.  On the right hands side of Showshed wall, as seen in this picture, there is a tall sunny buttress split in two by a nice OW crack. The climb starts up past a few mountain Mapples to reach a slot that gets cleaner and more solid with progress. Fist-jamming gives way to arm bars, knee locks, and heel-toe technique, until the steep moves up top that are beat with pockets deep inside the crack and a good left-hand sidepull out on the left face.   The top-anchor or TR can be set with any of the various elements of a standard rack. 
+route_name: Hair Shirt  
+route_quality: 0.725 
+route_rating:  YDS: 5.8+ 
+route_rating_original: YDS: 5.8+ 
+route_type: Trad, TR, 1 pitch, 80' 
+route_url: /v/hair-shirt/105735518 
+

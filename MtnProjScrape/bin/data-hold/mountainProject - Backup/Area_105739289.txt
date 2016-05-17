@@ -1,0 +1,10 @@
+area_name: Ferguson Canyon Rock Climbing  
+area_url: /v/ferguson-canyon/105739289 
+description: This small canyon is just to the south of Big Cottonwood Canyon and is a great place to beat the summer heat.  There are several small crags on north-facing walls under a canopy of large trees. A small stream runs by and sometimes makes it difficult to get up there without getting your feet wet.  The canyon is also a popular place for picnics. 
+getting_there: Follow directions to the mouth of Big Cottonwood Canyon.  There is a 7-11 store here, at the intersection of Wasatch Blvd (Hwy 210) and Fort Union Blvd (Hwy 190, also 7200 South).  From this intersection, head south on Wasatch Blvd for a quarter mile and turn left (east) into the Prospector Drive neighborhoods.  Take an immediate right and head south up the hill.  Take the second left onto Timberline drive and park alongside the right side of the road near the trailhead sign.  A dirt road leads to a white water tower and then turns into a trail that descends into the canyon.  Follow various branching trails east into the mouth of the canyon.  The trail and almost all climbs are on the south side of the stream.  The approach for the first climbs on the Watchtower is 15-20 minutes. 
+id: 105739289 
+latitude: 40.613 
+longitude:  -111.786  
+parent_name: Wasatch Range 
+parent_url: /v/wasatch-range/105739213 
+

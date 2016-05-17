@@ -1,0 +1,11 @@
+id: 106421246 
+parent_name: 18 - Generator Station 
+parent_url: /v/18---generator-station/105952378 
+route_description: This is the yin to Generator Crack's yang. Tight and sometimes painful fingerlocks with super bad feet is what this climb is all about. It's pretty much a boulder problem pulling the bulge and then a perfect hands 5.7 crack to the top. Fun! 
+route_name: Conductor Crack  
+route_quality: 0.625 
+route_rating:  YDS: 5.10d 
+route_rating_original: YDS: 5.10d 
+route_type: TR, 1 pitch, 45' 
+route_url: /v/conductor-crack/106421246 
+

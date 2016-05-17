@@ -1,0 +1,11 @@
+id: 105802684 
+parent_name: Mt. Russell 
+parent_url: /v/mt-russell/105802680 
+route_description: Excellent rock, incredible exposure, high elevation, and panoramic views earn this the deserved status of one of the 100 best alpine climbs named in John Moynier and Claude Fiddler's "Sierra Classics".  I'm sure this has been done many times car-to-car by parties stronger than mine, but most will opt for at least one overnight at either Iceberg or Upper Boyscout Lakes to acclimatize and enjoy the surroundings.  Consider combining with one of the Whitney routes (East Face, East Buttress) by camping an extra night at Iceberg.  The route itself is roughly 8 pitches, and follows a sharp crescent-shaped spine on the southern aspect of the peak.  The start is a bit ambiguous, so just follow the path of least resistance for a pitch or so to gain the ridge proper.  Continue along the ridge for several more pitches.  At one point, you'll have to downclimb about 15' to a prominent notch.  The pitch above the notch is the money pitch, on impeccable golden rock.  Continue for several more pitches, staying on the spine for full value.  From the summit, descend via the East Ridge.  This will take you back to Upper Boy Scout Lake.  Choose another descent option if you left gear at Iceberg Lake.  Allow *roughly* 6 hours from base to summit.  Allow roughly 5 additional hours to descend from the summit back to the car at Whitney Portal. 
+route_name: Fishhook Arête  
+route_quality: 0.925 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, Alpine, 8 pitches, 1000',  Grade III 
+route_url: /v/fishhook-arte/105802684 
+

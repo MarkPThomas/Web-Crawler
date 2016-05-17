@@ -1,0 +1,10 @@
+area_name: Flying Buttress Rock Climbing  
+area_url: /v/flying-buttress/105906581 
+description: This is the long and beautiful butress east of Moose's Butte.  It holds the classic routes Eptaph and Technicolor Corner, among others. 
+getting_there: Drive up Schnebly Hill Road past the Moose's Butte, and park at the Cow Pie trail head.  (you'll think you've gone too far.)  Follow the Cow Pie trail as it contours left under a large cliff (home to Arch Enemy) twards the Flying Butress.  Eventually you'll reach a saddle between the Teapot and the Flying Butress.  Technicolor corner is the big obvious corner on the south face near the saddle, and Epitaph is the huge roof you can see on the west face farther down. 
+id: 105906581 
+latitude: 34.87684 
+longitude:  -111.72573  
+parent_name: Moose's Butte Area 
+parent_url: /v/mooses-butte-area/105808346 
+

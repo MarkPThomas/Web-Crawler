@@ -1,0 +1,11 @@
+id: 105740201 
+parent_name: Narcolepsy Area 
+parent_url: /v/narcolepsy-area/105739449 
+route_description: This is the right bolt line on the East Face.  It stays near the arete, possibly utilizing it.  Another fun edgy climb with mostly legs and a little hands.   
+route_name: Narcolepsy  
+route_quality: 0.575 
+route_rating:  YDS: 5.8 R 
+route_rating_original: YDS: 5.8 R 
+route_type: Trad, TR, 1 pitch, 60' 
+route_url: /v/narcolepsy/105740201 
+

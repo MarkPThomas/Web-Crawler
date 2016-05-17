@@ -1,0 +1,11 @@
+id: 105747568 
+parent_name: Long's Peak/Mt. Meeker Cirque 
+parent_url: /v/longs-peakmt-meeker-cirque/105746979 
+route_description: Hike in as for the Diamond from the Long's Peak trail head. Lamb's slide is the obvious chute running along the base of the Lower east face. It is separated from the Flying Dutchman by the obvious Glacier rib (left in the photo). The route is 1000 feet of pure alpine fun... expect rock fall and very hard ice or snow. Wear a helmet!  Lamb's slide is most often used to approach Keiners, Alexander's chimney or Broadway.To descend you may either rappel the route (not advised) or scramble over easy 3rd class terrain to the Loft. From the loft descend "the ramp" or try and find Clarke's arrow if you want to summit Long's. 
+route_name: Lamb's Slide  
+route_quality: 0.6 
+route_rating:  
+route_rating_original: Easy Snow 
+route_type: Trad, Alpine,  Grade II 
+route_url: /v/lambs-slide/105747568 
+

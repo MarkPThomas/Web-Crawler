@@ -1,0 +1,10 @@
+area_name: North Rock Climbing  
+area_url: /v/north/105744231 
+description: This area includes popular and classic rocks such as the First and Third Flatirons, and the Amphitheatre in Gregory Canyon.  Climbs here range from short newer-age sport climbs to long, trad, slab routes, including some of the longer trad routes in the Flatirons: the whole face of the 3rd, which is about 1300 feet and the Direct East Face of the First Flatiron which is about 1400 feet. Hard conglomerate Fountain Formation sandstone is the medium for your rock craft. 
+getting_there: The usual approach to most routes in the North Flatirons area is from Chataqua Park (which can be crowded) or Gregory Canyon Trailhead (which charges parking fees for non-Boulder County registered vehicles).  Take Baseline W. until you see a sign for the park on the left (you can't miss it since it's right below the Flatirons). For the Amphitheatre, continue on Baseline past the park entrance until Baseline curves sharply right up Flagstaff Mtn.  Park on the road near here, or on the turn off to the trailhead on the left.  You MUST pay for parking at the Gregory Canyon lot if you do not have Boulder County registration or you'll be ticketed by the Man. 
+id: 105744231 
+latitude: 39.9872 
+longitude:  -105.293  
+parent_name: Flatirons 
+parent_url: /v/flatirons/105797700 
+

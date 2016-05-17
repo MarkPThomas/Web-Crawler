@@ -1,0 +1,11 @@
+id: 105877771 
+parent_name: El Capitan Base Routes 
+parent_url: /v/el-capitan-base-routes/105841115 
+route_description: This climbs the flared chimney and jamcrack on the left side of La Cosita. A 5.9 variation can be done by liebacking the flake to the left. 
+route_name: La Cosita, Left  
+route_quality: 0.65 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, 1 pitch 
+route_url: /v/la-cosita-left/105877771 
+

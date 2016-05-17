@@ -1,0 +1,11 @@
+id: 105739901 
+parent_name: Storm Mountain Island 
+parent_url: /v/storm-mountain-island/105739353 
+route_description: This route is found on the East side of Storm Mountain Island (along the river across from the parking lot). The route begins at a right facing dihedral that is accessed by crossing the bridge, turning left (south), following the trail along the river past some tables, and finally up a 25' scramble to the corner (very short). The first pitch proceeds directly up the corner for 35' to bolted belay off to the left on a nice ledge. Next pitch can either follow up the deteriorating corner (a little dirty) or up the low angle face protected by sequential small crack systems. Climb at least 55' to a funky belay on ledge to the left, or continue up another 15' to a more secure belay in the bushes. Walk off the east side and then curve around north and then back into the picnic area. 
+route_name: Layback Crack  
+route_quality: 0.575 
+route_rating:  YDS: 5.5 
+route_rating_original: YDS: 5.5 
+route_type: Trad 
+route_url: /v/layback-crack/105739901 
+

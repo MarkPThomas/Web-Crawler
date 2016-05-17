@@ -1,0 +1,10 @@
+area_name: 1. Whitney-Gilman Area Rock Climbing  
+area_url: /v/1-whitney-gilman-area/107340303 
+description: This area is marked by the very striking sharp ridge on the left side of cannon. There are a few very good routes here the main event being the classic Whitney-Gillman Ridge and its many variations. at about 600' tall this is a smaller outing than those routes in the middle of Cannon Cliff. 
+getting_there: walk down the paved path below the cliff past the big block with the sign across form it and look for a cairn on the right. Follow a trail through wood and up in to the talus field to the base of the ridge.  NOTE: More details, and photos of the correct "Up-path", are given in the approach section for the Whitney Gilman climb itself.] 
+id: 107340303 
+latitude: 44.15838 
+longitude:  -71.68456  
+parent_name: *Cannon Cliff  
+parent_url: /v/cannon-cliff-/107340274 
+

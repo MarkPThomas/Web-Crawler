@@ -1,0 +1,11 @@
+id: 105721660 
+parent_name: Echo Rock - West Face 
+parent_url: /v/echo-rock---west-face/106167696 
+route_description: Climb carefully to the first bolt and then pass three more as you edge and smear your way along the prominent black dike to the top. Belay from bolts on top and then scramble off down slabs to the climber's left . 
+route_name: Stichter Quits  
+route_quality: 0.675 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, 1 pitch, 115' 
+route_url: /v/stichter-quits/105721660 
+

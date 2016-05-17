@@ -1,0 +1,10 @@
+area_name: Cragmont Park Rock Climbing  
+area_url: /v/cragmont-park/105733893 
+description: This small area is located in Berkeley a little ways from Indian Rock.   This area offers about a dozen climbs (5.6 - 5.11), primarily easier climbs that can be toproped. This would be a great place to bring beginners, as most climbs are not height dependant, and are fairly safe on toprope. The toughest route is sport, with 4 bolts. The routes are primarily shorter slab routes.   There are no access problems, and according to the signs you could actually have a barbeque here and a nice game of basketball on the court located above the climbing area in the main park.    All routes can be walked off.  
+getting_there: From other places: Get off I-80 and head east from the Buchanan St / Albany exit. go 3 blocks, and take the soft right onto Marin ave. Follow the road up the hill to the traffic circle. Go around the circle and stay on Marin, which will be the fourth turn. Follow the road uphill to Regal Rd, where you should go right.  follow regal a few blocks, and you'll find the park on the right side. Parking is on the street.   From the Berkeley Campus:from the north side of campus, go uphill on Euclid Ave. Go up the hill for a while, and turn right on Regal Rd. The park is one block south. 
+id: 105733893 
+latitude: 37.892 
+longitude:  -122.2635  
+parent_name: Berkeley 
+parent_url: /v/berkeley/105733965 
+

@@ -1,0 +1,10 @@
+area_name: Wonderland of Rocks Rock Climbing  
+area_url: /v/wonderland-of-rocks/110464750 
+description: The Wonderland of Rocks is a roughly twelve square mile, wild and road-less area that is very complex and easy to get lost in hence it's nickname - "The Wanderland".  The area has been broken into two separate areas - Wonderland North and Wonderland South to make navigating this maze of rock easier and to mirror the two entirely different trailheads and approaches. 
+getting_there: Please refer to the individual area, Wonderland North or Wonderland South for detailed approach information. 
+id: 110464750 
+latitude: 34.03843 
+longitude:  -116.14483  
+parent_name: Joshua Tree National Park 
+parent_url: /v/joshua-tree-national-park/105720495 
+

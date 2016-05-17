@@ -1,0 +1,11 @@
+id: 105740792 
+parent_name: Bumble Bee Wall 
+parent_url: /v/bumble-bee-wall/105739476 
+route_description: Fowl Play climbs up the center of the main face.  Scramble up a ledge system to gain the start.  This climb is steep and long, an excellent lead, and with a crux right at the end.  What more could you ask for.   
+route_name: Fowl Play  
+route_quality: 0.675 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Sport, 1 pitch, 110' 
+route_url: /v/fowl-play/105740792 
+

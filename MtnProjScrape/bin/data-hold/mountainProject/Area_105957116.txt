@@ -1,0 +1,10 @@
+area_name: Elephant Butte Rock Climbing  
+area_url: /v/elephant-butte/105957116 
+description: I believe this is the high point of Arches Nat. Park, at 5,653 feet.  I doubt if this butte gets climbed too often, but for high point seekers, it's a good adventure.   
+getting_there: I believe you start at the Garden of Eden Parking lot ( Same as for Owl Rock), but the butte is over by the windows area...down the road a piece. 
+id: 105957116 
+latitude: 38.69592 
+longitude:  -109.54034  
+parent_name: Arches National Park 
+parent_url: /v/arches-national-park/105716757 
+

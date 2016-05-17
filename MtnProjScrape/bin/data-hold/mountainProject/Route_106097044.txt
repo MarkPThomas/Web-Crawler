@@ -1,0 +1,11 @@
+id: 106097044 
+parent_name: Five Open Books 
+parent_url: /v/five-open-books/105865908 
+route_description: Selaginella (5.8) offers liebacks, face climbing, off-width chimney climbing, and good ol' crack climbing. The route is sustained and committing and a real challenge for a 5.8 leader.   P1 - There are 2 potential starts, but the right side is cleaner and more aesthetic. The first pitch is 165' and ascends a series of hand cracks, fist cracks, and off-width cracks. Belay at the stump or continue left and up to the rap station.  P2 - Work your way up using your off-width and chimney skills to a belay about 120' up. Be sure to move left at the ramp!  P3 - Some more awkward climbing leads to a shelf about 110' up on a ledge.  P4 - For the final pitch you'll need an arsenal of skills; including hand cracks, fist cracks, liebacks, and face climbing. 
+route_name: Selaginella  
+route_quality: 0.725 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 4 pitches, 560' 
+route_url: /v/selaginella/106097044 
+

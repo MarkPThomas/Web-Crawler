@@ -1,0 +1,11 @@
+id: 105877221 
+parent_name: Cascade Falls - Left 
+parent_url: /v/cascade-falls---left/105875255 
+route_description: The beginning is a flare, but is almost all beautiful handjams. I would recommend this climb to anyone. A great moderate crack climb for beginners.  Climb a 5.7 flared chimney to a belay.  Continue up for a 5.8 pitch, passing double cracks and two roofs. 
+route_name: Golden Needles  
+route_quality: 0.65 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 2 pitches 
+route_url: /v/golden-needles/105877221 
+

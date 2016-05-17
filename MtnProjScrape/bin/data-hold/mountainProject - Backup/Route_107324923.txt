@@ -1,0 +1,11 @@
+id: 107324923 
+parent_name: Sentinel Creek Area 
+parent_url: /v/sentinel-creek-area/106066238 
+route_description: Pharaoh's Beard is a small exfoliation flake propped up against the Sentinel Creek Wall. It is located a couple hundred yards uphill and to the right of Manana. The Regular Route is a historic climb that doesn't get done much these days. Like most climbs at Sentinel Creek it's in the shade until the afternoon, and the second half of the route is always in the shade.  The route begins on the right side of the formation. Jam your way up easy flakes to reach a tree. Monkey your way through the tree and climb a fun clean offwidth to a ledge with an old piton anchor.  The next pitch climbs the right side of a flake and then you step left into a corner. Move to the left side of Pharaoh's Beard and climb some chossy flakes to a tree. You can belay here if you want or link this with the 3rd pitch if the rope drag's not too bad.  Claw your way through the tree (this one's much more difficult than the first) and enter a chimney. Pass a chockstone and then tunnel up behind the last portion of the formation to the summit.  Rappel the route with one 70m rope. The summit anchors are new bolts. The rap station at the top of pitch 1 belongs in a museum and consists of a 1/4" bolt, 2 pitons (all over 50 years old!) and a fixed nut that I added in 2011. 
+route_name: Pharaoh's Beard, Regular Route  
+route_quality: 0.575 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 3 pitches, 200' 
+route_url: /v/pharaohs-beard-regular-route/107324923 
+

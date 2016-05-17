@@ -1,0 +1,10 @@
+area_name: Northwest Territories Rock Climbing  
+area_url: /v/northwest-territories/106998828 
+description: Placeholder area for database.  Please let me know if you can provide details. 
+getting_there: Fly to Yellowknife, or directly to your destination. It's possible to drive to Yellowknife, but it looks like a very long way. 
+id: 106998828 
+latitude: 61.8561 
+longitude:  -118.4766  
+parent_name: Canada 
+parent_url: /v/canada/105881369 
+

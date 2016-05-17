@@ -1,0 +1,10 @@
+area_name: West Wonderland Valley Rock Climbing  
+area_url: /v/west-wonderland-valley/110464558 
+description: TBA 
+getting_there: TBA 
+id: 110464558 
+latitude: 34.038 
+longitude:  -116.14611  
+parent_name: Wonderland Valley 
+parent_url: /v/wonderland-valley/110464552 
+

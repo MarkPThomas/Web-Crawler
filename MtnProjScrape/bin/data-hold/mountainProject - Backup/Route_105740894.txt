@@ -1,0 +1,11 @@
+id: 105740894 
+parent_name: Narcolepsy Area 
+parent_url: /v/narcolepsy-area/105739449 
+route_description: Nice right leaning crack, 3 feet right of the Narcolepsy arete.    Finally got around to doing this route, albeit only on TR.  Definitely worth doing while in the Narcolepsy area!  Sort of soft for a 10a, but a respectable lead requiring some small gear near the top with ledgefall potential.  First 2/3 is excellent, but the rock quality degrades slightly at the finish. 
+route_name: Involuntary Release  
+route_quality: 0.625 
+route_rating:  YDS: 5.10a 
+route_rating_original: YDS: 5.10a 
+route_type: Trad, TR, 1 pitch, 80' 
+route_url: /v/involuntary-release/105740894 
+

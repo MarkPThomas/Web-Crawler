@@ -1,0 +1,11 @@
+id: 105875824 
+parent_name: Sugarloaf, East Face 
+parent_url: /v/sugarloaf-east-face/105875775 
+route_description: 100 feet uphill from "The Fang" is this thin crack/flake. Climb this to it's end. Another 5.7 pitch leads to the Eastern Terrace. A walk left takes you to the "Grand Illusion". 
+route_name: The Fracture  
+route_quality: 0.95 
+route_rating:  YDS: 5.10d 
+route_rating_original: YDS: 5.10d 
+route_type: Trad, 1 pitch 
+route_url: /v/the-fracture/105875824 
+

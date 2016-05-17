@@ -1,0 +1,10 @@
+area_name: High Sierra Camps Rock Climbing  
+area_url: /v/high-sierra-camps/107041155 
+description: There are five primitive "hotels" scattered throughout the Yosemite backcountry. Distances from the Meadows are: May Lake 1m Glen Aulin 6m Vogelsang and Sunrise 7m Merced Lake 14m. 
+getting_there:  
+id: 107041155 
+latitude: 37.83072 
+longitude:  -119.47097  
+parent_name: Tuolumne Meadows 
+parent_url: /v/tuolumne-meadows/105833384 
+

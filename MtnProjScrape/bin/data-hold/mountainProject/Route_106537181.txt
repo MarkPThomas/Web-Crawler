@@ -1,0 +1,11 @@
+id: 106537181 
+parent_name: Polemonium Peak 
+parent_url: /v/polemonium-peak/106537177 
+route_description: Best in the Fall when the snow has turned to remnant ice.  Start early to avoid rockfall from the freeze-thaw cycle.  The crux is getting over the bergschrund. 
+route_name: V-Notch Couloir  
+route_quality: 0.925 
+route_rating:  YDS: Easy 5th WI3 
+route_rating_original: YDS: 5.5 WI2-3 
+route_type: Trad, Ice, Alpine, 12 pitches, 1200',  Grade III 
+route_url: /v/v-notch-couloir/106537181 
+

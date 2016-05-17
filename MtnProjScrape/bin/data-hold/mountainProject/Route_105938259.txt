@@ -1,0 +1,11 @@
+id: 105938259 
+parent_name: Donnelly Canyon 
+parent_url: /v/donnelly-canyon/105716880 
+route_description: Start with an easy layback in the corner to a chockstone and rightangling crack. The Curx comes just before the bolts as the right angling crack becomes horizontal. The bolts are at a good stance next to a large boulder/flake. 
+route_name: 5.10 Corner  
+route_quality: 0.65 
+route_rating:  YDS: 5.10 
+route_rating_original: YDS: 5.10- 
+route_type: Trad, 80' 
+route_url: /v/510-corner/105938259 
+

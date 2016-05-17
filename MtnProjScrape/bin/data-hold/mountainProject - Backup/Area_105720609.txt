@@ -1,0 +1,10 @@
+area_name: Roadside Rocks Rock Climbing  
+area_url: /v/roadside-rocks/105720609 
+description: Roadside Rocks lie on the west side of Quail Springs Road between Hidden Valley Campground and Lost Horse.  Lost Horse is to the west, the Outback to the east, and Real Hidden Valley to the south.  Classics in the area include Coarse and Buggy (5.11b) on Dihedral Rock and the 5.8 Fingertip Traverse of Josh on the Pep Boys Crag.   
+getting_there: For Slump Rock, The Sand Castle, The Green Room, Three Pile Island, Bite Rock, The Foundry, and JBMF boulders, roll out of bed and walk over from Hidden Valley Campground.  Pep Boys, Dihedral, Summit Or Plummet are a 20 minute walk from camp or a very short drive.  If you must drive, park along Quail Springs Road at the convenient pullout and berate yourself for being a lazy bastard.   
+id: 105720609 
+latitude: 34.0213 
+longitude:  -116.1728  
+parent_name: Joshua Tree National Park 
+parent_url: /v/joshua-tree-national-park/105720495 
+

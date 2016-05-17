@@ -1,0 +1,10 @@
+area_name: The Cauldrons Rock Climbing  
+area_url: /v/the-cauldrons/106504043 
+description: The Cauldrons is a 250 foot, wingate tower nestled between the Witch and the Warlock in Hell Roaring Canyon. It was first climbed in 1993 by James Fusten, Mike Wood, and Davin Lindy.  Though smaller than its neightbors and not as well documented, this tower offers at least one excellent route to its twin summits.  If youve already climbed the Witch or the Warlock and you have an hour or two of daylight left, this is a great second tower of the day.   
+getting_there: See directions on Hell Roaring Canyon page. 
+id: 106504043 
+latitude:  
+longitude:  
+parent_name: Hell Roaring Canyon 
+parent_url: /v/hell-roaring-canyon/106319075 
+

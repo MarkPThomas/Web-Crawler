@@ -1,0 +1,10 @@
+area_name: Intersection Rock Rock Climbing  
+area_url: /v/intersection-rock/105720810 
+description: Intersection Rock lies at the crossroads of Quail Springs Road and Hidden Valley Campground.  Note that the road has been re-routed to the south side of the formation, which has led to some confusion with first-time visitors trying to mesh guidebook descriptions to locate the routes.  Tony Bubb: "On Intersection Rock, there are three main cracks running diagonally up and left from the base. These are visible from the North side (from the Hidden Valley Campground) and are called, from right to left, Right Ski Track (Upper and Lower), Left Ski Track, and Half Track These are plainly visible in the attached photograph."  At 5.3, Upper Right Ski Track is a rare starred beginner route.  In the 5.6 - 5.8 range, Mike's Books is a fun 2-pitch route (2nd pitch a bit wide).  Overhang Bypass (5.7) is a fantastic variation to North Overhang  (5.9) - both classics.  The Flake (5.8) is another must do.  Lower Right Ski Track (5.10b) and Left Ski Track (5.11a) will help to keep your ego in check.   
+getting_there: If driving from the Park's West Entrance, park at the newly constructed parking area at Hidden Valley Campground.  All routes are easily accessed from here.   
+id: 105720810 
+latitude: 34.0148 
+longitude:  -116.163  
+parent_name: Hidden Valley Campground 
+parent_url: /v/hidden-valley-campground/105720573 
+

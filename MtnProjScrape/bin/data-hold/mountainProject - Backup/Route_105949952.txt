@@ -1,0 +1,11 @@
+id: 105949952 
+parent_name: Camp 4 Wall 
+parent_url: /v/camp-4-wall/105945928 
+route_description:  Easy moves up an initial blocky section lead to the long hands to fist/rattly fist crack that makes up the bulk of this route.  Two distinct cruxes in this crack.  From the stance at the top of the crack, a final, unexpected challenge makes you commit to earn the nicely situated anchors 15 ft higher. 
+route_name: Lancelot  
+route_quality: 0.625 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 1 pitch, 115' 
+route_url: /v/lancelot/105949952 
+

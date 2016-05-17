@@ -1,0 +1,11 @@
+id: 106091771 
+parent_name: Tiger Rocks 
+parent_url: /v/tiger-rocks/105721274 
+route_description: The business for this route shows up pretty quick.  The starting corner is overhanging and quickly goes from thin, to wide to real wide.  The pic gives you more beta than you will probably need.  Would get 3 stars, but the cool climbing is  just too short, even though the climb is pretty long.   
+route_name: Fly Away  
+route_quality: 0.5 
+route_rating:  YDS: 5.10d 
+route_rating_original: YDS: 5.10d 
+route_type: Trad, 1 pitch, 70' 
+route_url: /v/fly-away/106091771 
+

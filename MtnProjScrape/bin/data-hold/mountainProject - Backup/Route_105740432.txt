@@ -1,0 +1,11 @@
+id: 105740432 
+parent_name: Schoolroom Area 
+parent_url: /v/schoolroom-area/105739413 
+route_description: Approach as per Schoolroom, but as you are clambering up the boulder field that exits from the gully, continue up the gully, staying close to the right edge.  You will hit a big box elder tree-- here climb up to a ledge and follow this ledge/ramp to the right.  Watch for the crack.  It is easy to miss.This crack is a fun lead.  It progresses from hand to off-hand and even has little finger and fist.  In other words a good varied crack.  Very enjoyable.   
+route_name: Hatchet Crack  
+route_quality: 0.625 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, 1 pitch, 80' 
+route_url: /v/hatchet-crack/105740432 
+

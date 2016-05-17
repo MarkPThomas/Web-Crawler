@@ -1,0 +1,11 @@
+id: 107201090 
+parent_name: Sentinel Creek Area 
+parent_url: /v/sentinel-creek-area/106066238 
+route_description: 1st Pitch: Great laybacking pitch, gets greasy/slick higher up, with interesting moves to exit onto the ledges. Sustained. (10d)(120ft)  2nd Pitch: Off width pitch, doesn't seem to get as much traffic? (10a)(130ft)  The first (money) pitch can also be top-roped after leading Hari-kiri (10a) as they share anchors 
+route_name: Ying-Yang  
+route_quality: 0.9 
+route_rating:  YDS: 5.10d 
+route_rating_original: YDS: 5.10d 
+route_type: Trad, 2 pitches, 120' 
+route_url: /v/ying-yang/107201090 
+

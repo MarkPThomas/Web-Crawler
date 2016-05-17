@@ -1,0 +1,11 @@
+id: 105957287 
+parent_name: Devil's Golf Ball 
+parent_url: /v/devils-golf-ball/105957284 
+route_description: This route is fun, and goes to a cool summit on a very cool looking spire. The approach is very short.  The climbing is relatively moderate, and it's sort of an easy tick for a desert spire.  It's a good one.  The route goes up cracks facing the road via free and aid climbing, until you get to a bolt ladder to the top.  I free climbed to 5.9, but you could free climb 5.10 if you wanted to. 
+route_name: Regular Route  
+route_quality: 0.625 
+route_rating:  YDS: 5.9 C1 
+route_rating_original: YDS: 5.9 A2- 
+route_type: Trad, Aid, 1 pitch, 100' 
+route_url: /v/regular-route/105957287 
+

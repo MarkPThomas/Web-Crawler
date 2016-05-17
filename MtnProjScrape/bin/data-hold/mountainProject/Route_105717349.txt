@@ -1,0 +1,11 @@
+id: 105717349 
+parent_name: Donnelly Canyon 
+parent_url: /v/donnelly-canyon/105716880 
+route_description: Another popular moderate classic.  Hike along the main Donnelly buttress north from Generic, past Binou's, and look for a beautiful thin-hands crack in a dark right-facing corner.  Trample (as lightly as possible) up from the trail to the base. Start with #1 Camalot size until it pinches down slightly (#2 Friend), grunt (or panic depending on your style) through the thinness to a nice ledge on the left.  Continue up the widening (starts #2 Camalot size, ends #3 Camalot size) crack to the anchors on the right.  If your hands are small this will probably be a cruise.  The rest of us probably will say there's a move or two of 9+. 
+route_name: Chocolate Corner  
+route_quality: 0.725 
+route_rating:  YDS: 5.9+ 
+route_rating_original: YDS: 5.9+ 
+route_type: Trad, 1 pitch, 50' 
+route_url: /v/chocolate-corner/105717349 
+

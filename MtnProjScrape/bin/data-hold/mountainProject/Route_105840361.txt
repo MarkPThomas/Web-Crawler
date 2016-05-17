@@ -1,0 +1,11 @@
+id: 105840361 
+parent_name: Stately Pleasure Dome 
+parent_url: /v/stately-pleasure-dome/105835737 
+route_description: South Crack is a great climb that begins with several pitches of gradually steepening clean 5.8 finger cracks and then finishes with some rather run out 5.7+ slabs to the summit.  Begin at the southernmost foot of the dome, right of the Great White Book.  Scramble up 4th class ledges and low angle rock towards the obvious crack/flake system until it becomes necessary to belay.  Depending on your comfort level (or willingness to simul), you can eliminate a lot of belays by pushing the approach high.  At the end of the cracks you'll find some wandering, unprotected slabs that lead to the summit.  It may be best to head relatively straight up (easier), or to link small features (pro). 
+route_name: South Crack  
+route_quality: 0.825 
+route_rating:  YDS: 5.8 R 
+route_rating_original: YDS: 5.8 R 
+route_type: Trad, Alpine, 6 pitches, 600' 
+route_url: /v/south-crack/105840361 
+

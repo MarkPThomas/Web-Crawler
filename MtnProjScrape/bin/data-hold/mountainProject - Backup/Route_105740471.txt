@@ -1,0 +1,11 @@
+id: 105740471 
+parent_name: Lisa Falls Buttress 
+parent_url: /v/lisa-falls-buttress/105739533 
+route_description: This climb starts the same as Lisa Falls Left.  But it angles across the face to the ledge below the bolt.  Clip this bolt with a runner, and continue up the new seam/ crack to the anchors. 
+route_name: Sweet Spot  
+route_quality: 0.35 
+route_rating:  YDS: 5.8+ R 
+route_rating_original: YDS: 5.8+ R 
+route_type: Trad, TR, 1 pitch, 80' 
+route_url: /v/sweet-spot/105740471 
+

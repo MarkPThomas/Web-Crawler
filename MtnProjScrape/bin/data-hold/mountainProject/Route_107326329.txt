@@ -1,0 +1,11 @@
+id: 107326329 
+parent_name:  5 - Short Circuit Boulder 
+parent_url: /v/-5---short-circuit-boulder/110465060 
+route_description: The Short Circuit boulder is split in half. This chasm has a bolted stemming problem in the middle of it. The climbing is fun and quite exciting. It reminds me of the Firewater Chimney which is one of my favorite routes in Joshua Tree, only this climb is shorter and WIDER! Short folks may have to do a full body bridge which would be quite spicy on lead. The route's only shortcoming is that it doesn't top out.  If anyone knows the FA party and official name this route was given, please post up and I will change it. 
+route_name: Short Circuit Chimney  
+route_quality: 0.5 
+route_rating:  YDS: 5.10b 
+route_rating_original: YDS: 5.10b 
+route_type: Sport, 1 pitch, 50' 
+route_url: /v/short-circuit-chimney/107326329 
+

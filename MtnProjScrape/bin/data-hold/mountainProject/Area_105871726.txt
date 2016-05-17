@@ -1,0 +1,10 @@
+area_name: South Howser Tower Rock Climbing  
+area_url: /v/south-howser-tower/105871726 
+description: South Howser Tower is home to the mega-classic Beckey-Chouinard which is the most traveled route by far on the Howser Towers.  The west face is approximately 2000' tall with good quality rock but still only holds a handful of routes.   
+getting_there: Of the three towers South Howser is the easiest to get to but still takes about a 2-3 hour approch from the Kain hut or Applebee campgound.  All routes on the west face are accessed via the Pigeon-Howser Col.  If starting from the Kain hut or Applebee campground, take the Bugaboo-Snowpatch Col up to the Upper Vowell Glacier.  Walk west across the Glacier to its high point, just north of the Pigeon Spire and drop down into the Pigeon-Howser Col.  Near the top of the col scramble down through some large bolders continuing down a steep loose slope till another glacier is reached.  Keep heading down the glacier avoiding some large crevasses and taking the path of least resistance.  As you drop farther below South Howser circle north and look for the East Creek Bivy site.  From the Bivy site you should be able to see most of the Tower and the routes.   
+id: 105871726 
+latitude: 50.7273 
+longitude:  -116.8086  
+parent_name: Howser Towers 
+parent_url: /v/howser-towers/105871722 
+

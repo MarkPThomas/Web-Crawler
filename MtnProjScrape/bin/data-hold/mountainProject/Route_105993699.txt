@@ -1,0 +1,11 @@
+id: 105993699 
+parent_name: Royal Arches 
+parent_url: /v/royal-arches/105833402 
+route_description: Industry standard for 5.10+ wiggling.  It's a chimney, it's a flare, it's a fist crack, it's a lieback..... it's a classic!  Perfect rock and good pro in the back of the crack.  Shady in the afternoons.  The FA team were masters at their craft, so if you are just breaking into the wide and horrible world of 5.10 OW, do a RedBull or something before heading up this one.  click here for a short video clip of the YSL on 1096:  fishproducts.com/movies/1096.m... 
+route_name: 1096  
+route_quality: 0.875 
+route_rating:  YDS: 5.10d 
+route_rating_original: YDS: 5.10d 
+route_type: Trad, 1 pitch, 60' 
+route_url: /v/1096/105993699 
+

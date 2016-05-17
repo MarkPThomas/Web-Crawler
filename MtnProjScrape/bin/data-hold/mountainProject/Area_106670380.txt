@@ -1,0 +1,10 @@
+area_name: Trashcan Rock - West Face Rock Climbing  
+area_url: /v/trashcan-rock---west-face/106670380 
+description:   
+getting_there: 6 miles from the West Entrance of the park.  A sign on the road directs to the Trashcan Rock area 
+id: 106670380 
+latitude: 34.04025 
+longitude:  -116.19743  
+parent_name: Trashcan Rock 
+parent_url: /v/trashcan-rock/105720807 
+

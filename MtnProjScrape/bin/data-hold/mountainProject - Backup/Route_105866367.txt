@@ -1,0 +1,11 @@
+id: 105866367 
+parent_name: Sunnyside Bench 
+parent_url: /v/sunnyside-bench/105865915 
+route_description: Up on the right side of Sunnyside Bench, climb a nice, smooth, 5.7 jamcrack to a ledge. Step left and continue up a 5.9 thin crack to a two bolt anchor. Can be done in one or two pitches. 
+route_name: Jamcrack  
+route_quality: 0.8 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 2 pitches 
+route_url: /v/jamcrack/105866367 
+

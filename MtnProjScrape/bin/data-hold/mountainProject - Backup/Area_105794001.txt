@@ -1,0 +1,10 @@
+area_name: Tumwater Canyon Rock Climbing  
+area_url: /v/tumwater-canyon/105794001 
+description: Tumwater Canyon lies along HW2 on the approach to Leavenworth from Steven's Pass. The canyon is the northern companion to Icicle Creek.  Similar in character and rock type (quartz diorite) to Icicle Creek, the biggest difference between the canyons is the presence of Highway 2, the major route connecting Leavenworth to western Washington, and a source of pesky road noise at some crags.  There are fewer crags in Tumwater than Icicle, but some great ones-- Castle Rock and Midnight Rock offer longer trad climbing, while Clem's Holler and surrounding crags offer numerous sport climbs.  There is camping at several campgrounds in Icicle Creek Canyon, a short drive away. 
+getting_there: Drive west from Leavenworth on Highway 2.  Mileages are typically reported from the intersection of Highway 2 and the intersection with Icicle Creek Road on the west side of town. 
+id: 105794001 
+latitude: 47.60098 
+longitude:  -120.71325  
+parent_name: Central-East Cascades, Wenatchee, & Leavenworth 
+parent_url: /v/central-east-cascades-wenatchee--leavenworth/108471397 
+

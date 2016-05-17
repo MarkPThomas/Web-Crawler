@@ -1,0 +1,11 @@
+id: 105740015 
+parent_name: Crescent Crack Buttress 
+parent_url: /v/crescent-crack-buttress/105739365 
+route_description: This is a pretty great route on the verge of being two stars due to a kind of lame traverse on the last pitch.  However this can easily be remedied by the Crescent Crack Direct Variation plus or minus Final Link (although this increases the grade to 5.9).  Overall I still give the climb three stars as the rock and moves are just so good for a relatively easy climb and it puts you in a great position to finish the climb in a much better style.  When you hit the buttress from the trail hike left until you come to a well worn dirt "platform" below an angling groove gully.  Pitch one:Climb left up the chimney in the gully through to some trees.  There are some great easy crack moves here, very well protected.  Probably 5.6 climbing.  If you only have a 50 meter rope you may need to belay at the trees as I am not sure if it will reach the chain anchor above. (This would cause the climb to be three pitches.) A 60 meter rope will reach, so continue up past the trees to the belay anchor.  There is a move of 5.7 perhaps as you pull a bulge reaching the anchor.  Pitch two:Climb the crux offwidth above the chains (5.7), kind of hard to protect.  I don't want to give the answer away, but there is an easy way to climb this and a hard way.  See what happens.  This only lasts 10 feet or so and then you are on an angling crack moving up and right.  You will come to a point where you will have the opportunity to traverse down a sloping slab to the right. BE SURE to protect the second here as you traverse down.  Belay at the big ledge.  Descent:Scramble up right and then down the gully.  It is a walk off.    FYI: To put this climb in perspective, the first time my partner and I roped up to climb this classic we were joined by a guy who was soloing the route at the same time.  I think he lapped me about 5 times while I methodically climbed the 2/3 pitches.  It was impressive, and I am sure he was doing laps before we even got there. 
+route_name: Crescent Crack  
+route_quality: 0.725 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, 2 pitches, 300' 
+route_url: /v/crescent-crack/105740015 
+

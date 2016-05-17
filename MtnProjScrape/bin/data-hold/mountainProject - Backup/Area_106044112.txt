@@ -1,0 +1,10 @@
+area_name: The Blob - Southeast Face Rock Climbing  
+area_url: /v/the-blob---southeast-face/106044112 
+description: This small corner of The Blob, with it's handful of routes, is the most popular portion of the formation due to it's ease of access and concentration of quality moderates. Morning sun and afternoon shade make it easy to plan your climbs according to the weather or clothing.  Some of the better routes here include the elegant curving crack/flake of Buissonier (5.7), the delicate and sparsely protected Mama Woolsey (5.10a R) and the always popular, slightly slippery and well-protected Papa Woolsey (5.10b). 
+getting_there: Most easily approached by walking along the paved road through the Campground past the east face of the Old Woman.   
+id: 106044112 
+latitude: 34.01793 
+longitude:  -116.16382  
+parent_name: The Blob 
+parent_url: /v/the-blob/105720720 
+

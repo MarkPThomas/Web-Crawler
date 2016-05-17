@@ -1,0 +1,10 @@
+area_name: Thunderbolt Peak Rock Climbing  
+area_url: /v/thunderbolt-peak/105914886 
+description: The last fourteener in the Sierra to be climbed, Thunderbolt Peak is the next peak northwest of North Palisade, it too is on the main Sierra crest. It's summit monolith if often the crux of the climb - a 5.9 move over and onto a slab. It's safer if the monolith is draped with a rope first. As such it's one of the hardest summits in the Sierra to get to.   The name "Thunderbolt Peak" commemorates an incident during the first descent, when a nearby lightning strike gave Jules Eichorn cause for concern.  
+getting_there: The eastern approach:  From Big Pine on 395 drive up the road to Glacier Lodge; trailhead is signed on the right.   Hike up the North Fork of Big Pine Creek past Cienega Mirth, Lon Chaney's old cabin, and First, Second, and Third (spectacular views of Temple Crag) Lakes, then instead of continuing on to Fourth Lake turn south and up into Sam Mack Meadow. This is where I usually camp (6 miles, 3,400 ft of elevation gain). People staying more than a couple of days may want to cross the creek and head up the glacier trail to primitive sites either below the Palisade Glacier Moraine, or on the Moraine (1.25 miles, 1,100 more feet of gain). 
+id: 105914886 
+latitude: 37.098 
+longitude:  -118.5176  
+parent_name: 09 - Palisades and Surrounding Peaks 
+parent_url: /v/09---palisades-and-surrounding-peaks/110511970 
+

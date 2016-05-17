@@ -282,7 +282,7 @@ date:
 difficulty:  
 elevation: 9654 
 grade:  
-hits: 37270  
+hits: 37283  
 id: 151567 
 latitude: 39.143 
 location: Utah, United States, North America 
@@ -290,7 +290,7 @@ longitude: -113.409
 my_route_quality:  
 name: Notch Peak 
 number_of_pitches:  
-page_url: http://www.summitpost.org/notch-peak/151567 
+page_url: /notch-peak/151567 
 parent_code: 190033 
 parent_name: Utah Western Desert Ranges 
 parent_url: /utah-western-desert-ranges/190033 

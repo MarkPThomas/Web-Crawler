@@ -1,0 +1,11 @@
+id: 105717445 
+parent_name: Supercrack Buttress 
+parent_url: /v/supercrack-buttress/105716946 
+route_description: A beautiful fun route, and the easiest crack system on Supercrack Buttress.  There's a good bit of liebacking on the smaller crack and then jamming and laddering on the wider to good anchors 40' up.  It's not a classic and hence usually open; well worthwhile for climbing as a moderate on the buttress or while waiting for other climbs on the north end.    Climb up the main trail to Incredible Hand Crack and head N (left) about 80'.  If you hit a leaning pillar at 130', you've gone about 40' too far - head back past a large bush.  The little crack is in a right-facing dihedral, and the larger crack becomes the primary about 20' up.  Good anchors, good toprope or something to play on when you're waiting or pumped from more serious endeavours.  It's a very good route, but only rates 2 stars because of the stellar stuff surrounding it. 
+route_name: Twin Cracks  
+route_quality: 0.55 
+route_rating:  YDS: 5.8+ 
+route_rating_original: YDS: 5.9 
+route_type: Trad 
+route_url: /v/twin-cracks/105717445 
+

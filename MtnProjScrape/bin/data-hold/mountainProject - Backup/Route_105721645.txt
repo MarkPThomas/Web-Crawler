@@ -1,0 +1,11 @@
+id: 105721645 
+parent_name: The Blob - Southeast Face 
+parent_url: /v/the-blob---southeast-face/106044112 
+route_description: I never have figured out quite how to pronounce the name of this climb.  I also have no idea what the hell a buissonier is.  A buisson is a bush.  The nearest I can figure is buissonniere, French for "to play truant or skip school".  In any case, a pretty good climb.  Begin behind campsite (#21).  First moves off the deck are awkward - protect with small nut or TCU to avoid castration from sharp fin of rock below in the event of a fall.  Either jam or lieback the left-angling crack.  Gear belay.  Descent: scramble down chimney to the southwest (a little tricky). 
+route_name: Buissonier  
+route_quality: 0.6 
+route_rating:  YDS: 5.7+ 
+route_rating_original: YDS: 5.7 
+route_type: Trad, 1 pitch 
+route_url: /v/buissonier/105721645 
+

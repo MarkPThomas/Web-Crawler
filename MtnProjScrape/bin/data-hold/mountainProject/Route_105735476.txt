@@ -1,0 +1,11 @@
+id: 105735476 
+parent_name: South Formation 
+parent_url: /v/south-formation/105734069 
+route_description: This is the crack located on the rightside of the rear rock, which is described as the south formation.  Climb up and traverse left, using good feet on the slabby face.  
+route_name: Finger Crack  
+route_quality: 0.6 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.8 
+route_type: TR, 1 pitch, 30' 
+route_url: /v/finger-crack/105735476 
+

@@ -1,0 +1,10 @@
+area_name: Salt Lake Slips Rock Climbing  
+area_url: /v/salt-lake-slips/105739386 
+description: Salt Lake Slips proves that good things can come in small packages. There are only a handful of routes here, but I'll take this sort of quality over quantity any time.  Immediately to the left, there is a 40' cave area with some wicked sport climbs. Up and to the right are several moderate bolted routes. 
+getting_there: Salt Lake Slips is about 2.45 miles up Big Cottonwood Canyon on the left side.  Enter through the Storm Mountain Picnic Area, cross the bridge, and walk west past the Storm Mountain Amphitheater.  Go up the hill, turn south, and follow the trail (turning southwest) to the top of the gully above the Slips. Descend the gully to the routes.  During very low water periods, you can park on the road opposite the climbs and safely cross the river. However, crossing the river at any other time is extremely dangerous; people have died attempting it.  An approach map is ?here?. 
+id: 105739386 
+latitude: 40.6226 
+longitude:  -111.748  
+parent_name: Big Cottonwood Canyon 
+parent_url: /v/big-cottonwood-canyon/105739280 
+

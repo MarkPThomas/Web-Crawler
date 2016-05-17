@@ -1,0 +1,11 @@
+id: 105990390 
+parent_name: Pat and Jack Pinnacle 
+parent_url: /v/pat-and-jack-pinnacle/105870715 
+route_description: Nice climb up a groove to a roof, then a great thin hands crack to the anchors above. 
+route_name: Suds  
+route_quality: 0.6 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 1 pitch, 120' 
+route_url: /v/suds/105990390 
+

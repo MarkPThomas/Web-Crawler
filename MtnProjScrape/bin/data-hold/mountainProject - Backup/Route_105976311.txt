@@ -1,0 +1,11 @@
+id: 105976311 
+parent_name: Intersection Rock 
+parent_url: /v/intersection-rock/105720810 
+route_description: Start about twenty feet right of "Billabong". Climb a chimney to "Bat Ledge". Climb a crack to the top.  
+route_name: Bat Crack  
+route_quality: 0.475 
+route_rating:  YDS: 5.5 
+route_rating_original: YDS: 5.5 
+route_type: Trad 
+route_url: /v/bat-crack/105976311 
+

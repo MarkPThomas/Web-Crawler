@@ -1,0 +1,11 @@
+id: 105957801 
+parent_name: Pratt's Crack / Dihedrals Area 
+parent_url: /v/pratts-crack--dihedrals-area/105909006 
+route_description: Ridicu-classic and surprisingly secure.  A long and beautiful offwidth in a giant clean-cut dihedral.  This is one of the most obvious lines in the canyon.  If you're up for a good grovel then hop on.   During colder months, hit this early in the morning as it dips into the shade around noon, maybe earlier.  In fact you may not see it at all.  Tends to be a windy canyon.  Two 60 meter ropes to rappel.  
+route_name: Pratt's Crack  
+route_quality: 0.95 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 1 pitch, 165' 
+route_url: /v/pratts-crack/105957801 
+

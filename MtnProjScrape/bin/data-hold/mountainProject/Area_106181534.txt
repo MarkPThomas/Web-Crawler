@@ -1,0 +1,10 @@
+area_name: West Face - Right Side Rock Climbing  
+area_url: /v/west-face---right-side/106181534 
+description: This area encompasses routes from The Slab (5.8) around and right all the way to The Edge (5.11a R).  This portion of Tahquitz is quite popular with a variety of climbs from one to four pitches in length and a good mix of cracks and faces. Popular routes here include Fingertip Traverse (5.3), Fingertrip (5.7), Coffin Nail (5.7+), Traitor Horn (5.8), El Camino Real (5.10a), On the Road (5.10c) and The Edge (5.11a R).      
+getting_there: Head right from Lunch Rock to reach this area. See the individual route descriptions for more detailed approach information. 
+id: 106181534 
+latitude: 33.75985 
+longitude:  -116.68542  
+parent_name: West Face 
+parent_url: /v/west-face/105798864 
+

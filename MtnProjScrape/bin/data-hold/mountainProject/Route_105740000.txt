@@ -1,0 +1,11 @@
+id: 105740000 
+parent_name: Salt Lake Slips 
+parent_url: /v/salt-lake-slips/105739386 
+route_description: This is the right-most route on the main face of the Slips crag, visible from the road.  Fun edge moves up a sloped quartzite face.  There may be a queue to get on this route on nice weekend afternoons. 
+route_name: Roll the Bones  
+route_quality: 0.475 
+route_rating:  YDS: 5.6 
+route_rating_original: YDS: 5.6 
+route_type: Sport, 1 pitch, 80' 
+route_url: /v/roll-the-bones/105740000 
+

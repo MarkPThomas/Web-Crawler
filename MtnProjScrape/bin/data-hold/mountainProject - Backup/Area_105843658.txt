@@ -1,0 +1,10 @@
+area_name: Ken Black Memorial Dome Rock Climbing  
+area_url: /v/ken-black-memorial-dome/105843658 
+description: This is a rather large formation.  Unlike many walls that face northeast (i.e. very little sun on winter mornings), the main wall on this rock faces mostly east, giving direct morning sun.  The rock quality is good, and the routes are generally worth doing.  It is named after a colorful character who liked to climb at JT. 
+getting_there: It is just west of the road, and just southeast of Left Hand of Darkness.  Its a few hundred yards past the turnoff to Lost Horse Ranger Station. 
+id: 105843658 
+latitude: 34.02795 
+longitude:  -116.17773  
+parent_name: Lost Horse Area 
+parent_url: /v/lost-horse-area/105720588 
+

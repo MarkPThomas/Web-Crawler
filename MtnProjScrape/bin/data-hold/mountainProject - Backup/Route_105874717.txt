@@ -1,0 +1,11 @@
+id: 105874717 
+parent_name: Church Bowl 
+parent_url: /v/church-bowl/105860381 
+route_description: Climb the crack right of "Pole Position" to a bulge. Pull the bulge via shallow finger jams. Spooky face moves lead to a ledge. Rappel. 
+route_name: Revival  
+route_quality: 0.575 
+route_rating:  YDS: 5.10a 
+route_rating_original: YDS: 5.10a 
+route_type: Trad, 1 pitch, 120' 
+route_url: /v/revival/105874717 
+

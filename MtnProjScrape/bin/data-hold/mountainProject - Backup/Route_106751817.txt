@@ -1,0 +1,11 @@
+id: 106751817 
+parent_name: El Capitan Base Routes 
+parent_url: /v/el-capitan-base-routes/105841115 
+route_description: Start by scrambling up to the start of the short finger/hand crack in the left facing corner, and follow this to a small ledge at the base of the 3-4" crack in the corner. I found getting established in the crack to be the crux.  Follow this to bolted anchors.  I was barely able to jam my fists in the small constrictions, and I have somewhat large fists.   
+route_name: Little John, Left  
+route_quality: 0.625 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 1 pitch, 70' 
+route_url: /v/little-john-left/106751817 
+

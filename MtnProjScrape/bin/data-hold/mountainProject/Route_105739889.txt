@@ -1,0 +1,11 @@
+id: 105739889 
+parent_name: Storm Mountain Island 
+parent_url: /v/storm-mountain-island/105739353 
+route_description: This fun sport route is just to the right of Goodro's Wall.  From the Storm Mountain parking lot, cross the bridge and turn left.  At the Y in the trail, branch right and then take one of the dirt paths up the slope from the first picnic table.  You will need to scramble up a short 4th class gully to the belay ledge.  WARNING: Be sure you can climb or lower off this gully before going up, it can get kind of sketchy coming back down.  It's a bit easier if you go left.    For the climb, follow seven bolts to the anchors up the face to the right (the wall is east facing).  Plenty of foot and hand holds but seems pretty challanging for 5.6. This spot queues up quickly on the weekend so get there early.  Shaded most of the day. 
+route_name: Six Appeal  
+route_quality: 0.475 
+route_rating:  YDS: 5.6 
+route_rating_original: YDS: 5.6 
+route_type: Sport, 80' 
+route_url: /v/six-appeal/105739889 
+

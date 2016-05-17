@@ -1,0 +1,11 @@
+id: 106581859 
+parent_name: Camp 4 Wall 
+parent_url: /v/camp-4-wall/105945928 
+route_description: Getting started may be the hardest part of this climb.  With an awkward move you can wedge your body up into a somewhat chimney move.  The first 60' is a combination of jamming in one of two cracks (effectively hugging the rock) until a small ledge with a tree.  Rap here or continue up another double crack system with a few laybacks and near chimney moves until you come to the true chimney.  A few easier moves and you are at a ledge with two old 1/4" bolts and a large flake to rap from.  Lancelot can also be TR'ed from here.  I may not make it sound too fun, but its certainly a fun deviation. 
+route_name: Cid's Embrace  
+route_quality: 0.5 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 1 pitch, 110' 
+route_url: /v/cids-embrace/106581859 
+

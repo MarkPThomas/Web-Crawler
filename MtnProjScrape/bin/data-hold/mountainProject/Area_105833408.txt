@@ -1,0 +1,10 @@
+area_name: Sentinel Rock Rock Climbing  
+area_url: /v/sentinel-rock/105833408 
+description: Sentinel Rock sits perched like a big dark tombstone above the Valley floor, right across from Yosemite Falls. Climbing on Sentinel is pretty cool, because you get a bird's eye view of both the Falls and El Capitan, just around the corner to the east. The most popular route on Sentinel is the Steck-Salathe route (5.9), first climbed by Yosemite legends Allen Steck and John Salathe back in 1950.   Warning: The descent gully, off the backside of the rock, is hazardous and climbers should take extra care when descending!!! 
+getting_there: Sentinel Rock is found on the south side of the Valley, across from Yosemite Falls. You can park for the Four-Mile Trail to approach. 
+id: 105833408 
+latitude: 37.7296 
+longitude:  -119.59381  
+parent_name: Yosemite Valley 
+parent_url: /v/yosemite-valley/105833388 
+

@@ -1,0 +1,11 @@
+id: 105870849 
+parent_name: Western Front 
+parent_url: /v/western-front/105870829 
+route_description: To the right of "Green Eggs and Ham". Climb to a bolt about halfway up the cliff, then climb past two more bolts to the top bolt anchor. 
+route_name: March of Dimes  
+route_quality: 0.475 
+route_rating:  YDS: 5.10a R 
+route_rating_original: YDS: 5.10a R 
+route_type: Sport, TR, 1 pitch 
+route_url: /v/march-of-dimes/105870849 
+

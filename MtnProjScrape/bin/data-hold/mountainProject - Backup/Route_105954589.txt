@@ -1,0 +1,11 @@
+id: 105954589 
+parent_name: The Phallus 
+parent_url: /v/the-phallus/105954585 
+route_description: Climb the SE face. 
+route_name: The Phallus  
+route_quality: 0.375 
+route_rating:  YDS: 5.7 A2+ 
+route_rating_original: YDS: 5.7 A2+ 
+route_type: Trad, Aid, 1 pitch, 90',  Grade II 
+route_url: /v/the-phallus/105954589 
+

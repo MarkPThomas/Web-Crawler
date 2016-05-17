@@ -1,0 +1,11 @@
+id: 106617611 
+parent_name:  6 - Finger Lickin' Area 
+parent_url: /v/-6---finger-lickin-area/106578516 
+route_description: A great little warm up for the area.  Climb good jams with a stem out left, then the crack widens when it zig-zags.  This is the crux.  Belay off of slings around a bush or walk off to the right. 
+route_name: Jaw Bone  
+route_quality: 0.675 
+route_rating:  YDS: 5.10a 
+route_rating_original: YDS: 5.10a 
+route_type: Trad, 1 pitch, 50' 
+route_url: /v/jaw-bone/106617611 
+

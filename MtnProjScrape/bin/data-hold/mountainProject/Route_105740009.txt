@@ -1,0 +1,11 @@
+id: 105740009 
+parent_name: JHCOB Wall 
+parent_url: /v/jhcob-wall/105739410 
+route_description: If you park at the "Remnants of an Ancient Sea" pullout, hike up and angle left toward the wall.  You are heading for the main arete between the East Face and the North Face.  When you reach the arete and where the wall meets the scree.  You want to start the climb on the east side (left side) of the arete by a little tree/bush.  Pitch one:Climb up and right to reach the arete, then follow the right side (north side) of the arete up until you come to a BIG ledge.  When I climbed this I had a 60 meter rope, so I am not positive that you can reach this ledge with a 50 meter rope.  If you aren't going to make it, you can easily stop at a couple of points to break this pitch into 2.  Either way, make sure you use long runners to prevent serious rope drag.  Pitch two:(From the Big ledge.)Start to the right of the belay and climb up through cracks staying on the north side of the arete until you reach a feature some call "the cave."  It is an obvious ledge to belay from, now you are on the arete again, with better exposure.  This pitch is easily reached with a 50 meter rope, it isn't too long, however I don't remember its exact length.  Pitch three:Technically you have the option of climbing up onto the east side (left)of the arete, but that isn't why you are climbing this route. So move to the right from the belay back out onto the north face and climb upward.  The climbing finally gets the exposure you were looking for so look around and enjoy.  Follow cracks up to the top.  Again, a 50 meter rope easily reaches the top.  Descent:Hike up and then right (west) where you will find a great trail that leads down to the shale layer which is above the "Remnants..." parking area.  Then down to the pullout.  This route would be three stars if the rock was better on the lower pitch.  It is a great route for the moderate traditional leader.  
+route_name: Outside Corner  
+route_quality: 0.85 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, 3 pitches, 300' 
+route_url: /v/outside-corner/105740009 
+

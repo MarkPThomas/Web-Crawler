@@ -1,0 +1,11 @@
+id: 105742046 
+parent_name: Lisa Falls Buttress 
+parent_url: /v/lisa-falls-buttress/105739533 
+route_description: From the anchors of Flee Flicker and Fleeting Glimpse, start left working towards the waterfall and utilizing whatever comes your way.  Work left of the tree and then angle back to the anchors above Hard Knocks.  Just a tick, no more. 
+route_name: Lefty  
+route_quality: 0.275 
+route_rating:  YDS: 5.4 
+route_rating_original: YDS: 5.4 
+route_type: , 1 pitch, 60' 
+route_url: /v/lefty/105742046 
+

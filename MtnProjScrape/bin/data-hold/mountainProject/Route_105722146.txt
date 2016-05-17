@@ -1,0 +1,11 @@
+id: 105722146 
+parent_name: Star Wars Rock 
+parent_url: /v/star-wars-rock/105720768 
+route_description: Light Sabre is one of the finest cracks for it's grade in Joshua Tree.  It is long, sustained, continuous, and it will consume as much gear as you can throw at it.  On the south side of Star Wars Rock are several right-slanting cracks.  Light Sabre is the rightmost, with a small right-facing corner for the first half, a bulge, then a straight-in crack for the top.  You can't walk by without being drawn in by its siren song. Expect a variety of jams, from locker fingers to off-hands, and a good solid pump. 
+route_name: Light Sabre  
+route_quality: 0.775 
+route_rating:  YDS: 5.10b 
+route_rating_original: YDS: 5.10b 
+route_type: Trad, 1 pitch, 100' 
+route_url: /v/light-sabre/105722146 
+

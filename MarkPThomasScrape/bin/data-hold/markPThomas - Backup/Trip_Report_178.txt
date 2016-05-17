@@ -1,0 +1,30 @@
+content: <div dir="ltr">
+<h1>
+<a name="TOC-Borah-Pk-Chicken-Out-Ridge-"></a>Borah Pk (Chicken-Out Ridge)</h1>
+<hr>
+<hr>
+<h2>
+<a name="TOC-June-18-2011"></a>June 18, 2011</h2>
+<div><div class="sites-embed-align-center-wrapping-off"><div class="sites-embed-border-off sites-embed" style="width:800px;"><div class="sites-embed-content sites-embed-type-picasa"><embed type="application/x-shockwave-flash" src="//picasaweb.google.com/s/c/bin/slideshow.swf" width="800" height="533" wmode="transparent" pluginspage="//www.macromedia.com/go/getflashplayer" flashvars="host=picasaweb.google.com&amp;captions=1&amp;RGB=0x000000&amp;feed=http%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F105894936663116565516%2Falbum%2F20110618BorahPkWJoe02%3Fkind%3Dphoto%26alt%3Drss%26"></embed></div></div></div></div>
+<div>
+<br>
+</div>
+<div>Joe Bullough and I ran up to Idaho to speed dayhike the state highpoint. We had snow about 2,000 ft below the summit, 40 mph winds, and temps down in the teens, but we still did it in under 7 hrs round trip no sweat. Easiest +5,000 ft gain I've ever done.
+</div>
+<div>
+<br>
+</div>
+<hr>
+<hr>
+<h2>
+<a name="TOC-Links"></a>Links</h2>
+<ul><li>
+<a href="https://picasaweb.google.com/105894936663116565516/20060521MtRainierDisappointmentCleaver?authuser=0&amp;feat=directlink"></a><a href="https://picasaweb.google.com/105894936663116565516/20110618BorahPkWJoe02?authuser=0&amp;feat=directlink">Picasa Album</a>
+</li></ul>
+</div> 
+page_id: 178 
+page_menu_name: Borah Pk (Chicken-Out Ridge) 
+page_url: /mountaineering/trip-reports/idaho/borah-pk-chicken-out-ridge 
+title: Borah Pk (Chicken-Out Ridge) 
+type: Trip_Report 
+

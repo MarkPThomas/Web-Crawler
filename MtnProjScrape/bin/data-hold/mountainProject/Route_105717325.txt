@@ -1,0 +1,11 @@
+id: 105717325 
+parent_name: Donnelly Canyon 
+parent_url: /v/donnelly-canyon/105716880 
+route_description: This route is after Elephant man and just before Dos Hermanos.  Only P1 is listed in any of the guide books and it goes at about 5.9.  The first pitch splits a big block and is relatively short - probably no more than 60'.  It ends at a ledge with nice Fixe anchor bolts.  Belay from this ledge even if you only want to do P1 and rap when you are done.   P2 is the business.  Leave the ledge on the crack to the right of the anchors.  Basically, the crack gets wider towards the top, but the first 3rd of it stays pretty much in the 1.5 Friend to 1.75 Friend size.  I hate these sizes.  I was able to chimney for part of the upper section, which is kind of a flaring slot with gear in the back.  My second, a little bit better of a climber than me, called the pitch 10+/11-.  This is what I though it was, but I'll err on the side of caution, since it was a seasonal warm-up.  The route only gets 2 stars because the top of P2 gets a little sandy.  Remember that 2 stars in the Creek is better than 3 stars at many other places.This pitch is no longer than 80' since I lowered from the anchors (through my own biners of course!) back to the ledge on 50m doubles.  The nice things about this route are that it is not the same move over and over, but is still a crack, and the hordes were too busy with nearby chocolate corner and all the others. 
+route_name: Unknown  
+route_quality: 0.425 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad 
+route_url: /v/unknown/105717325 
+

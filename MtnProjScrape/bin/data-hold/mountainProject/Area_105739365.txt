@@ -1,0 +1,10 @@
+area_name: Crescent Crack Buttress Rock Climbing  
+area_url: /v/crescent-crack-buttress/105739365 
+description: The climbing here consists of both sport and trad, mostly trad.The rock is bomber granite, similar to the rest of the canyon. Some of the classic routes are: Mexican Crack (.10a), Crescent Crack (5.7), Crack in the Woods (5.9), and Hand Jive (5.8?).You can rappel most routes from the top of the climbs with a single rope, except Crescent Crack, which is descended east into a gully. Buy beer at 7-11 at the base of BCC, or better yet, go to Wyoming!  
+getting_there: Park in the Little Cottonwood lower canyon Park and Ride. Locate the climber's access trail in the lot's northeast corner (directly north of the restroom). Follow this trail east until you are directly below the Cresent Crack Buttress. Take the left fork and a short jaunt leads you to the base of Waterslide. Head left for the climbs. 
+id: 105739365 
+latitude: 40.5733 
+longitude:  -111.771  
+parent_name: Little Cottonwood Canyon 
+parent_url: /v/little-cottonwood-canyon/105739277 
+

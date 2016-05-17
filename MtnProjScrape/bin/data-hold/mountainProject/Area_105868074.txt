@@ -1,0 +1,10 @@
+area_name: Crescent Spire Rock Climbing  
+area_url: /v/crescent-spire/105868074 
+description: The Crescent Spire is located to the north of the Applebee campground between the Bugaboo Spire to the west and the Crescent Towers to the east.  It has numerous 5 to 6 pitch 5.10's with McTech Arete and Paddle Flake being the most popular by far.  Due to it's easy approach, short routes and bolted rap anchors (which you only need one 60m rope for) it makes a perfect crag for mediocre weather or rest days.   
+getting_there: If approaching from the Kain hut the best option is to head toward the Bugaboo-Snowpatch Col but turn right before you get to the col and follow the Crescent Glacier to the spire.    From the Applebee campground walk toward the east side of camp and look for a trail that climbs north onto the moraine.  Follow the trail around the west side of the first lake you come to and around the east side of the second lake.  Then straight north up the Crescent Glacier. 
+id: 105868074 
+latitude: 50.74999 
+longitude:  -116.7767  
+parent_name: The Bugaboos 
+parent_url: /v/the-bugaboos/105868061 
+

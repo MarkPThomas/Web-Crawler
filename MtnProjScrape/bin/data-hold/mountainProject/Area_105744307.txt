@@ -1,0 +1,10 @@
+area_name: Vedauwoo Rock Climbing  
+area_url: /v/vedauwoo/105744307 
+description: A good mixture of climbing abounds. There are trad lines up to three pitches, great slabby routes, and offwidths (ouch!).  There is an entrance fee for the Central Area and for Lower Blair (if you park in front of Blair III). Otherwise, access to the crags is free. The fee areas are Federal land, so Golden Eagle and Golden Age passes are accepted.  The camping, once totally free in the surrounding areas, has become more restricted. There is a fee campground in the Central Area with tables and outhouses. Otherwise, free camping is permitted wherever it's not explicitly prohibited. Laramie is a college town with some local brew and dining available a mere 10 miles away. There are a great number of moderate classics as well as some stiffer grades for the big guns out there. There are areas right off the road and some more remote where you'll have little company. Most formations have walkoffs, but rap bolts are fairly prevalent.  Super must do classics include: Edward's Crack 5.7 (2 pitches), Kim 5.6, Friday The 13th 5.11a, 5.11 Crack 5.9+, MRC Direct 5.9.  References: "Rock Climbing at Vedauwoo" by Robert Kelman, "Fat Crack Country--Rock Climbing in Vedauwoo" by Zach Oranczak, "Vedauwoo Bouldering" by Davin Bagdonas and "Heel & Toe: The Climbs of Greater Vedauwoo" by Skip Harper and Rob Kelman.  You can also visit www.vedauwoo.org for more information about Vedauwoo and the Snowy Range. 
+getting_there: You can't miss it.  No, you really can't miss it! Take I-25 North to Cheyenne.  From Cheyenne go West on I-80 to the Vedauwoo Road, Exit 329.  Look for the rocks to the North of the Interstate.  You're there. 
+id: 105744307 
+latitude: 41.18484 
+longitude:  -105.37826  
+parent_name: Wyoming 
+parent_url: /v/wyoming/105708960 
+

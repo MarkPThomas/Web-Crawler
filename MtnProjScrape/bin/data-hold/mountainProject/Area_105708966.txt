@@ -1,0 +1,10 @@
+area_name: Washington Rock Climbing  
+area_url: /v/washington/105708966 
+description:  
+getting_there:  
+id: 105708966 
+latitude: 47.3983 
+longitude:  -120.762  
+parent_name:  
+parent_url:  
+

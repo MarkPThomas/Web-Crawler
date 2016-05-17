@@ -1,0 +1,11 @@
+id: 105748957 
+parent_name: J-Crack Slab Area 
+parent_url: /v/j-crack-slab-area/106429253 
+route_description: This is probably the most travelled route at Lumpy Ridge and one of the best finger cracks anywhere.  The crack, a backwards J, is barely visible on the right side of the Book as you hike in.  Follow the trail to the Book, bearing right at the end.  The route starts in a broken corner system just right of the clean flakes that mark Pear Buttress and Loose Ends.  P1 - Climb the easy corner to a good ledge, right of the bottom of the "J".  Alternatively, do the first pitch of Loose Ends and belay just below the standard ledge on that route.  P2 - Climb a short ways up a dihedral, then traverse left into the barely visible bottom of the J.  Climb the crack to a belay on lower-angle rock below a steep headwall (5.9, long pitch).  If you started on Loose Ends, then you'll traverse up right into the J past a piton and an old bolt.  This is said to be 5.10 and scary.  P3 - Many alternatives: a) Climb straight up the crack through the headwall at 5.11, b) Climb up and traverse across a slab (5.9) to the crack system on the left, then follow that to a belay, c) Climb up to the headwall, place pro, and traverse right to a ledge, and follow that back left to a belay.  The traverse can also be made lower on slightly better holds.  P4 - From "a" or "c", head up right to a break in the overhang, and climb through it to easy ground (5.7).  Alternatively, head up to the "cave" and chose an exit, Cheap Date being thematically the most compelling. 
+route_name: J-Crack  
+route_quality: 0.9 
+route_rating:  YDS: 5.9+ 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 4 pitches,  Grade II 
+route_url: /v/j-crack/105748957 
+

@@ -1,0 +1,11 @@
+id: 105926324 
+parent_name: Sheep Rock 
+parent_url: /v/sheep-rock/105926320 
+route_description: Virgin Wool ascends the south flank of the tower to the bedding seam, then traverses to a corner system that is followed to the top. To truly summit you have to traverse across the summit ridge and then back for the rappels. P1 = Climb the slab using friction and climber-made moki steps. These steps are the result of years of banging pins into drilled holes and then extracting them on that ascent... not a good idea for the rock. It has now been bolted so that this is no longer  needed. It is very soft. At the bulge there are a couple of sketchy C1 moves that might also go a 5.11. A fall would not be far, but would leave a nasty mark as you would slab-out. Continue on to the ledge. This is a 55 meter pitch P2 = traverse in a hand size crack (C1) around to the east face of the tower and a nice ledge.... a 20 meter pitch. P3 = the Ewetopian Crack. Follow a beautiful thin crack up the face just left of the corner. I found good placements the whole way, but I often top-stepped to get them. This is one of the finest aid pitches in Arches. Its C2 and about 45 meters in length. P4 = Follow a finger and hand size crack to the bulge, then move through the bulge on a pin and some thin wires. This is strenuous and the rock deteriorates a bit. A fall would be ugly because of the slab. If you have a wide, piece, it will help you transition into a few free moves. At the top use a pin, and edge, and maybe some manky gear, to pull onto the summit ridge. THis pitch is 20 meters long and C2+/5.10-. P5 = walk across the ridge to the summit knob. You can feed a cordolette through the holes to protect you on the 5.4 move onto the summit. Reverse it to the rappel anchors. This pitch is 30 meters. Rap the route on 1/2 bolts and brown chain placed by the Arches Task Force in March of 2007. Please try not to add webbing to the route as it is visible from the highway. 
+route_name: Virgin Wool  
+route_quality: 0.95 
+route_rating:  YDS: 5.10- C2+ 
+route_rating_original: YDS: 5.10- C2+ 
+route_type: Trad, Aid, 5 pitches, 400',  Grade III 
+route_url: /v/virgin-wool/105926324 
+

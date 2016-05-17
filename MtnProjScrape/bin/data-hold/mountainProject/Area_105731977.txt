@@ -1,0 +1,10 @@
+area_name: Calico Basin Rock Climbing  
+area_url: /v/calico-basin/105731977 
+description: Calico Basin has a wide variety of short routes.  There is a mixture of trad and sport climbs.  Calico Basin is a residential area, so climbers should be careful to avoid disturbing the people who live there.  At the time of this writing (2005) there is a good deal of construction going on here, so be prepared to be adaptable as regards parking areas and approach walks. 
+getting_there: Drive west on Charleston.  About 2 miles before you get to the main scenic loop road, there is a turnoff to the right for Calico Basin.  It is clearly marked. Please obey all parking signs. Fines for illegal parking are a hefty $275! 
+id: 105731977 
+latitude: 36.15158 
+longitude:  -115.42032  
+parent_name: Red Rock 
+parent_url: /v/red-rock/105731932 
+

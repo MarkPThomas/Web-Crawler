@@ -1,0 +1,11 @@
+id: 105902686 
+parent_name: Crescent Towers 
+parent_url: /v/crescent-towers/105902683 
+route_description: A very popular route leading to the left summit tower of the Central Towers, Lion's Way heads up and right through broken terrain finding a 5.6 corner to more blocky steps.  Then, climbing past a slab and another series of steep steps, you climb to the base of the left most Central Tower.  Scramble up to gain the impressive summit.  Descent is achieved via the gully between the North Tower and the Central Towers.  Look for rap anchors to get past the steepest section.  Bring an axe if the gully is still heavy with snow. 
+route_name: Lion's Way  
+route_quality: 0.55 
+route_rating:  YDS: 5.6 
+route_rating_original: YDS: 5.6 
+route_type: Trad, Alpine, 6 pitches,  Grade II 
+route_url: /v/lions-way/105902686 
+

@@ -1,0 +1,18 @@
+img_url: /photos/0/8/122276_26099_S.jpg 
+pitch_number: 3 
+result_climbing_area: Tuolumne Meadows, California USA 
+result_formation: Stately Pleasure Dome 
+result_quality: 0.8 
+result_rating: 5.9 R 
+result_title: The Shadow Nose 
+result_url: /rock-climbing/Tuolumne-Meadows-Stately-Pleasure-Dome-The-Shadow-Nose 
+
+img_url: /photos/0/20/123512_20087_S.jpg 
+pitch_number: 31 
+result_climbing_area: Yosemite Valley, California USA 
+result_formation: El Capitan 
+result_quality: 1.0 
+result_rating: 5.14a or 5.9 C2 
+result_title: The Nose 
+result_url: /rock-climbing/Yosemite-Valley-El-Capitan-The-Nose 
+

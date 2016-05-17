@@ -1,0 +1,10 @@
+area_name: Alberta Rock Climbing  
+area_url: /v/alberta/105946432 
+description: Alberta is the epicenter (or epicentre) of Canadian Alpine climbing with countless snow and ice covered peaks, glaciers and famous north faces.  Alberta is also famous for some of the best ice climbing in the world.  Fortunately, Alberta is also well rounded and has sport and trad rock climbing a-plenty.  The limestone and quartzite in the river canyons in the Canmore area probably have Canada's greatest concentrations of sport routes.  Trad cragging is perhaps a little more limited than some other areas as the limestone of famous peaks like Yamnuska have great history and great routes but less solid rock; the climbing is more adventurous than a granite-trained tradster might be used to. 
+getting_there: Calgary provides easy access to Canmore, Banff, Lake Louise and all of the surrounding areas.  Edmonton provides access if your destinations are further north. 
+id: 105946432 
+latitude: 50.9307 
+longitude:  -114.873  
+parent_name: Canada 
+parent_url: /v/canada/105881369 
+

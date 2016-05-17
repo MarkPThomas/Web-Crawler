@@ -1,0 +1,11 @@
+id: 106627585 
+parent_name: 22 - Five and Dime Cliff 
+parent_url: /v/22---five-and-dime-cliff/105870687 
+route_description: The technical crux on this one is the .7 squeeze (very secure). The mental crux is pitch two.  It is reminiscent of the top of Chingando (cavernous).    All climbers should try some Chuck Pratt routes, and this is an easier one.  A favorite among Yosemite obscurity lovers.  
+route_name: Inner Reaches  
+route_quality: 0.575 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, 2 pitches, 120' 
+route_url: /v/inner-reaches/106627585 
+

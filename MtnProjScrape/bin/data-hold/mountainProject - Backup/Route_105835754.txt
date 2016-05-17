@@ -1,0 +1,11 @@
+id: 105835754 
+parent_name: Stately Pleasure Dome 
+parent_url: /v/stately-pleasure-dome/105835737 
+route_description: A long, awkward, wide crack can surprise many 5.6 leaders.  Pro is sparse and hard to place, especially if you don't have some huge pieces (5-6 inches), resulting in long runouts.  But it's a beautiful long line straight up almost to the top of the dome.  P1 and P2 are pretty straightforward 5.6 and easier climbing.  P3 and P4 are the mental crux - try not to get sucked in too deep, keep your feet on the main wall and your back on the right wall.  The angle is low, so if you keep upright, it's trivial, but it probably won't feel like it.  Don't pass up a place to get in some pro these two pitches - you won't find many.  P4 is also poorly protected face climbing, moving left until you hit slabs. 
+route_name: Great White Book  
+route_quality: 0.775 
+route_rating:  YDS: 5.6 R 
+route_rating_original: YDS: 5.6 R 
+route_type: Trad, Alpine, 5 pitches, 450' 
+route_url: /v/great-white-book/105835754 
+

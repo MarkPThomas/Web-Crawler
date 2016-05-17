@@ -1,0 +1,11 @@
+id: 106336738 
+parent_name: Tuna and Chips Wall 
+parent_url: /v/tuna-and-chips-wall/105732042 
+route_description: first pitch is 100' rated 5.8 - 2 bolts with an anchor below the roof second pitch is 150' rated 5.9 
+route_name: Chips Ahoy  
+route_quality: 0.45 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 2 pitches, 250' 
+route_url: /v/chips-ahoy/106336738 
+

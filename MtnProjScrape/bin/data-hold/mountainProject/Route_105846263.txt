@@ -1,0 +1,11 @@
+id: 105846263 
+parent_name: Hemingway Buttress (East Face Left)  
+parent_url: /v/hemingway-buttress-east-face-left-/106563103 
+route_description: This route climbs a crack past the right end of a small roof, then meanders a bit as it goes on to the top.  It is a very nice mixed face and crack climb.  
+route_name: Coyote Bait  
+route_quality: 0.475 
+route_rating:  YDS: 5.7+ 
+route_rating_original: YDS: 5.7+ 
+route_type: Trad, 1 pitch, 100' 
+route_url: /v/coyote-bait/105846263 
+

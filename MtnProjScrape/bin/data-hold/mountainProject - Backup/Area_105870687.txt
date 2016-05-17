@@ -1,0 +1,10 @@
+area_name: 22 - Five and Dime Cliff Rock Climbing  
+area_url: /v/22---five-and-dime-cliff/105870687 
+description: The Five and Dime Cliff is a smaller crag down the hillside from the Reeds Parking pullout.  It has some excellent shorter pitches ranging from trad to bolted, and provides a nice alternative if all of your planned routes at Reed's are occupied. The crag does get sun throughout the day, like Reed's, and has fantastic views of the Merced river and the Rostrum. Rock quality is excellent overall, and your standard Yosemite rack should suffice. Pitches are 70 - 130 feet, some routes have lowering anchors, others are walk off from the top.  
+getting_there: Start from the Reed's parking pullout (b/w the tunnels on Hwy 120), and walk toward the eastern tunnel. As you walk along the road, look for a small climbers trail heading down the slope. The trail starts right at the tunnel, behind the sign that gives the tunnel height. Don't follow the quasi-trails that are right below the parking area. Navigate the loose dirt trail through the trees and head toward the cliff. This trail will circle around to the base of the cliff, and the approach time is roughly 10 minutes, although longer for the walk back out. 
+id: 105870687 
+latitude: 37.7231 
+longitude:  -119.7011  
+parent_name: Lower Merced River Canyon 
+parent_url: /v/lower-merced-river-canyon/110464982 
+

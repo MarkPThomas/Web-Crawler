@@ -1,0 +1,10 @@
+area_name: International Rock Climbing  
+area_url: /v/international/105907743 
+description: There's a whole world of climbing out there - literally! 
+getting_there: It doesn't matter where you're headed - you'll need either a credit card or frequent flier mileage.  Purchase your ticket, do the research, and embark on your own international climbing adventure. 
+id: 105907743 
+latitude: 21.943 
+longitude:  81.5625  
+parent_name:  
+parent_url:  
+

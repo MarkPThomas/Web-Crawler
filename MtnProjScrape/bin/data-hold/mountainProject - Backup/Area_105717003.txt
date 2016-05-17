@@ -1,0 +1,10 @@
+area_name: Moonlight Buttress Rock Climbing  
+area_url: /v/moonlight-buttress/105717003 
+description: Moonlight Buttress is the obvious buttress on the left just after Angel's Landing. It resembles a huge pillar resting against the wall. The wall faces almost due east.  The most common route on the wall is the The Moonlight Buttress (Clean Aid) that takes a line straight up the middle (the Grand Dihedral is obvious from the road).  At the base, be careful as the 3rd class ledges are easy to climb on but a tumble down could be serious.   There is a ledge after P5 of the Lowe/Weiss route that makes a great bivy if you have a portaledge. The descent is a casual hike down a paved path. Once you top out, hike straight back and you cannot miss the path. The path is most exciting (yes, seriously) path I have ever been on. Try to save some daylight to enjoy the hike down.  It would be worthy of hiking by itself.  The descent is about 3 miles down.  —Casey Bernal 
+getting_there: You can take the shuttle to the Big Bend stop (same as Prodigal Sun), or if you have a cool driver they will drop you off right in front of the trailhead.  From the shuttle stop, jog up the road about 100 yards to the trailhead.  There are trail markers posted to follow.  To cross the creek, look for a wide area with islands, and you can cross with only getting your ankles wet. The approach takes maybe 30 minutes. 
+id: 105717003 
+latitude: 37.27541 
+longitude:  -112.94897  
+parent_name: Zion National Park 
+parent_url: /v/zion-national-park/105716799 
+

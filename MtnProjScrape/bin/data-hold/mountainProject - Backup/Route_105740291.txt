@@ -1,0 +1,11 @@
+id: 105740291 
+parent_name: Storm Mountain Island 
+parent_url: /v/storm-mountain-island/105739353 
+route_description: Approach as for Nice Little Crack.  Climb the left facing corner on the right.  Easy climbing and easy protection to the roof.  Medium hex protects well here, and jug on over.   
+route_name: Storm Mountain Stupor  
+route_quality: 0.4 
+route_rating:  YDS: 5.5 
+route_rating_original: YDS: 5.5 
+route_type: Trad, 1 pitch, 50' 
+route_url: /v/storm-mountain-stupor/105740291 
+

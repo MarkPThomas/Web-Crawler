@@ -1,0 +1,10 @@
+area_name: Sandstone Quarry Rock Climbing  
+area_url: /v/sandstone-quarry/105731956 
+description: An easily accessed area containing several different sub-areas.  Climbs are mostly one pitch climbs and run the full gamut of ratings.  Running Man is the classic, but don't forget Chrysler Crack a long 5.9 offwidth/squeeze Chimney. 
+getting_there: Park at the Sandstone Quarry parking lot, a little way past the second pullout and, according to Swain, 2.7 miles along the loop road.  Paths lead west, north and east to the sub-areas. 
+id: 105731956 
+latitude: 36.16338 
+longitude:  -115.44947  
+parent_name: Red Rock 
+parent_url: /v/red-rock/105731932 
+

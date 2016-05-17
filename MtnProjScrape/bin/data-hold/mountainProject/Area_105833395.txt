@@ -1,0 +1,10 @@
+area_name: Half Dome Rock Climbing  
+area_url: /v/half-dome/105833395 
+description: The classic profile of Half Dome, recognizable worldwide, sits over the east end of Yosemite Valley like a distant guardian.  Glaciers cleaved the dome clear in half, leaving incredible slab climbs on the sunny southern aspect such as Snake Dike (5.7) and Southern Belle (5.12) to amazingly steep lines on the NW face.  The namesake route (the "Regular" route) on the NW face is one of many aid climbers' first objectives, but it makes for a great, adventurous free climb as well.    Even the hiking route up to the summit visor, via the cables, is classic, and it is no wonder why this formation was used for the North Face's logo. 
+getting_there: Half Dome takes a bit of work to get to. There are generally two approaches used by climbers:  1) Hike up from Happy Isles up the Mist Trail through Little Yosemite Valley (approx. 8 miles to the shoulder of Half Dome).  2) Head over from Happy Isles past Mirror Lake and hike up the "Death Slabs".  Option 1 is smooth hiking and clearly the way to go for the south facing routes.  Option 2 is significantly faster (for the NW face), in both directions, but requires skilled route finding, very steep hiking, and use of fixed lines. 
+id: 105833395 
+latitude: 37.7442 
+longitude:  -119.5349  
+parent_name: Yosemite Valley 
+parent_url: /v/yosemite-valley/105833388 
+

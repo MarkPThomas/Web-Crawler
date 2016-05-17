@@ -1,0 +1,11 @@
+id: 105988555 
+parent_name: Camp 4 Wall 
+parent_url: /v/camp-4-wall/105945928 
+route_description: The "3rd class" scramble is best protected with a rope as the ledge and corner are dirty and loose.  From a tree in the corner above the 3rd class a stunning hand crack  behind a rock flake is gained and climbed over the bulge to a pod. Getting into the pod is the first crux. Offwidth up this, can be strenuous, reaching the upper chimney. This chimney is more difficult than 5.7 and there is a delicate set of moves to get up and over left to the belay bolts. 
+route_name: Secret Storm  
+route_quality: 0.65 
+route_rating:  YDS: 5.10a 
+route_rating_original: YDS: 5.10a 
+route_type: Trad, 2 pitches, 250' 
+route_url: /v/secret-storm/105988555 
+

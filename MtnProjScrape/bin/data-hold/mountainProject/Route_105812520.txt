@@ -1,0 +1,11 @@
+id: 105812520 
+parent_name: Main Wall 
+parent_url: /v/main-wall/105798329 
+route_description: The crux of this route is the notorious offwidth second pitch. It can be well protected with a #4 Camalot placed deep in the crack. Most parties prefer two #4s though I have led it safely with one #3.   The first pitch starts down on the Tombstone ledge and is a 5.7 serrated crack that has a short flaring 5.8 crux up high. Careful on the crux, it comes just above an ankle crushing ledge.  The second pitches O.W. is rewarded by one of the best hand cracks at the Leap.   The third pitch climbs a rapidly steepening face to a fixed pin and then rounds a very windy and exposed arete, across an exposed ledge and up to two fixed pins that can be backed up with a .75" piece.   The rest of the route is a classic 4th-class to easy-5th-class dike hike that climbs up the face to the top. Not much harder than climbing a ladder. 
+route_name: Traveler Buttress  
+route_quality: 0.925 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 4 pitches, 500' 
+route_url: /v/traveler-buttress/105812520 
+

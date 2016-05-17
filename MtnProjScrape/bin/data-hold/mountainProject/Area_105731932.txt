@@ -1,0 +1,10 @@
+area_name: Red Rock Rock Climbing  
+area_url: /v/red-rock/105731932 
+description:  
+getting_there:  
+id: 105731932 
+latitude: 36.13129 
+longitude:  -115.42453  
+parent_name: Nevada 
+parent_url: /v/nevada/105708961 
+

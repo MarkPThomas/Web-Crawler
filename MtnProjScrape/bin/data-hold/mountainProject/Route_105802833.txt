@@ -1,0 +1,11 @@
+id: 105802833 
+parent_name: Mt. Russell 
+parent_url: /v/mt-russell/105802680 
+route_description: Day 1 From Whitney Portal, hike up North Fork to camp at Iceberg Lake.  Day 2 Do climb.  Day 3 Hike back to Whitney Portal.  A magnificent climb on good rock, with excellent protection.  Scramble up to ledges.  Below is how we did it years ago - before real beta, we just knew it had been climbed and that was it. See comments for modern beta.  P1 5.7 Follow cracks up to a ledge.   P2 5.7 Better rock leads up along a knobby crack to a ramp below the corner proper.  P1 and P2 can be combined with a 70m rope   P3 5.9 A short pitch. Up the corner steeply to belay in a widening section.   P4 5.9 Up the steepest part of the corner until the angle relents.  P3 and P4 are best combined into one pitch.   P5 5.9 The corner presents one last obstacle, a steep lieback to exit right onto a ledge.   P6 Hundreds of feet of CL4 lead to one of the best summits anywhere. 
+route_name: Mithril Dihedral  
+route_quality: 0.975 
+route_rating:  YDS: 5.9+ 
+route_rating_original: YDS: 5.9 
+route_type: Trad, Alpine, 6 pitches, 500',  Grade III 
+route_url: /v/mithril-dihedral/105802833 
+

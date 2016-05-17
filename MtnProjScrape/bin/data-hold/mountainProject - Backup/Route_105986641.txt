@@ -1,0 +1,11 @@
+id: 105986641 
+parent_name: Lower Brother 
+parent_url: /v/lower-brother/105986637 
+route_description: This route is a clean and aesthetic crack line that turns a small roof reminiscent of Committment on the 2nd pitch. It is usually rappelled after the first two pitches, but you can continue for two more pitches of 5.7 at a lower quality than the initial two pitches. If doing the upper pitches, take two ropes to rap. The first pitch starts with a somewhat slippery 5.7 lieback section to easy low angle jamming, ~75 feet. Belay on gear in cracks directly below the second pitch, or move way right to the rap station at a bay tree. Belay takes nuts, small TCUs, and cams from 1.25" to 3". Second pitch starts perfect hands up and around the roof and thins to 1.25" as the angle kicks back, ~75 feet, bolted anchor. 
+route_name: Positively 4th Street  
+route_quality: 0.675 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 2 pitches, 150' 
+route_url: /v/positively-4th-street/105986641 
+

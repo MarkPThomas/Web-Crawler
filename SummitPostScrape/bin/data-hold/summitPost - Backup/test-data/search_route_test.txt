@@ -1,0 +1,145 @@
+additional_info: <td valign="center" class="srch_results_rht" style="font-size: 10px; color: #5C5C5C;">
+            <b>Location:</b> 
+                          California, 
+                          United States, 
+                    North America
+            
+                                                                        <br><b>Route Type:</b> Trad Climbing
+                                                                                                                                                                                                                        <br><b>Grade:</b> IV
+                                                              <br><b>Rock Difficulty:</b> 5.10a (YDS)
+                                                                                                                            <br><b>Last Edited:</b> 
+        Aug 5, 2010  
+      </td> 
+elevation:  
+img_url: /images/avatars/646104.jpg 
+parents: “Ruby Peak” (0.7 mi SW of Ruby Lake) 
+parents_url: /ruby-peak-0-7-mi-sw-of-ruby-lake/524881 
+result_title: East Arete 
+result_url: /east-arete/646102 
+
+additional_info: <td valign="center" class="srch_results_rht" style="font-size: 10px; color: #5C5C5C;">
+            <b>Location:</b> 
+                          California, 
+                          United States, 
+                    North America
+            
+                                                                        <br><b>Route Type:</b> rock climbing
+                                                              <br><b>Difficulty:</b> III, 5.4
+                                                                                                                                                                                                                                                                                                            <br><b>Last Edited:</b> 
+        Feb 20, 2003  
+      </td> 
+elevation:  
+img_url: /images/avatars/147230.JPG 
+parents: Mount Humphreys 
+parents_url: /mount-humphreys/150440 
+result_title: East Arete 
+result_url: /east-arete/157738 
+
+additional_info: <td valign="center" class="srch_results_rht" style="font-size: 10px; color: #5C5C5C;">
+            <b>Location:</b> 
+                          California, 
+                          United States, 
+                    North America
+            
+                                                                        <br><b>Route Type:</b> Scrambling
+                                                                                                                                                                                                                                              <br><b>Rock Difficulty:</b> Class 3
+                                                                                                                            <br><b>Last Edited:</b> 
+        Jul 11, 2010  
+      </td> 
+elevation:  
+img_url: /images/avatars/634371.jpg 
+parents: Mount Winchell 
+parents_url: /mount-winchell/151010 
+result_title: East Arete 
+result_url: /east-arete/634376 
+
+additional_info: <td valign="center" class="srch_results_rht" style="font-size: 10px; color: #5C5C5C;">
+                                          
+                                                                        <br><b>Route Type:</b> Hiking, Scrambling
+                                                              <br><b>Difficulty:</b> Easy to Sporty (sketchy)
+                                                                                                                                                                                                  <br><b>Grade:</b> II
+                                                              <br><b>Rock Difficulty:</b> Class 4
+                                                                                                                            <br><b>Last Edited:</b> 
+        Jun 8, 2012  
+      </td> 
+elevation:  
+img_url: /images/avatars/793280.jpg 
+parents: Chocolate Peak 
+parents_url: /chocolate-peak/351277 
+result_title: East Arete 
+result_url: /east-arete/793105 
+
+additional_info: <td valign="center" class="srch_results_rht" style="font-size: 10px; color: #5C5C5C;">
+            <b>Location:</b> 
+                          California, 
+                          United States, 
+                    North America
+            
+                                                                        <br><b>Route Type:</b> Trad Climbing
+                                                                                                                                                                                                                        <br><b>Grade:</b> IV
+                                                              <br><b>Rock Difficulty:</b> 5.10 (YDS)
+                                                                                                                            <br><b>Last Edited:</b> 
+        Jul 15, 2008  
+      </td> 
+elevation:  
+img_url: /images/avatars/419277.jpg 
+parents: Split Mountain 
+parents_url: /split-mountain/150493 
+result_title: East Arete of North Summit 
+result_url: /east-arete-of-north-summit/419191 
+
+additional_info: <td valign="center" class="srch_results_rht" style="font-size: 10px; color: #5C5C5C;">
+            <b>Location:</b> 
+                          California, 
+                          United States, 
+                    North America
+            
+                                                                        <br><b>Route Type:</b> Technical Rock Climb
+                                                              <br><b>Difficulty:</b> Grade IV, 5.8
+                                                                                                                                                                                                                                                                                                            <br><b>Last Edited:</b> 
+        Dec 16, 2009  
+      </td> 
+elevation:  
+img_url: /images/avatars/582941.jpg 
+parents: Bear Creek Spire 
+parents_url: /bear-creek-spire/150612 
+result_title: East Arete, IV, 5.8 
+result_url: /east-arete-iv-5-8/157338 
+
+additional_info: <td valign="center" class="srch_results_rht" style="font-size: 10px; color: #5C5C5C;">
+            <b>Location:</b> 
+                          California, 
+                          United States, 
+                    North America
+            
+                                                                        <br><b>Route Type:</b> Trad Climbing
+                                                                                                                                                                                                                        <br><b>Grade:</b> II
+                                                              <br><b>Rock Difficulty:</b> 5.7 (YDS)
+                                                                                                                            <br><b>Last Edited:</b> 
+        Jul 18, 2008  
+      </td> 
+elevation:  
+img_url: /images/avatars/422312.jpg 
+parents: The Cleaver 
+parents_url: /the-cleaver/418993 
+result_title: South East Arete 
+result_url: /south-east-arete/422311 
+
+additional_info: <td valign="center" class="srch_results_rht" style="font-size: 10px; color: #5C5C5C;">
+            <b>Location:</b> 
+                          KwaZulu-Natal, 
+                          South Africa, 
+                    Africa
+            
+                                                                        <br><b>Route Type:</b> Technical rock climb
+                                                              <br><b>Difficulty:</b> G/A2
+                                                                                                                                                                                                                                                                                                            <br><b>Last Edited:</b> 
+        Nov 12, 2004  
+      </td> 
+elevation:  
+img_url:  
+parents: Sentinel 
+parents_url: /sentinel/151724 
+result_title: South East Arete 
+result_url: /south-east-arete/162864 
+

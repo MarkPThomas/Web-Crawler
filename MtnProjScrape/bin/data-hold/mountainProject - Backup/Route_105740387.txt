@@ -1,0 +1,11 @@
+id: 105740387 
+parent_name: Crescent Crack Buttress 
+parent_url: /v/crescent-crack-buttress/105739365 
+route_description: The direct variation to Crescent Crack is a good way to finish  the topout of Crescent Crack, or as an approach to the bolted slab, the Final Link (5.9).  Instead of traversing down and right at the sloping shelf on top of pitch two, continue up the dihedral (thin, 5.9).  Pass a piton on the left, then work up through an awkward section to a ledge.  From here, Final Link works left with a hard mantle and a bolt, or finish by heading right and up. 
+route_name: Crescent Crack Direct Variation  
+route_quality: 0.7 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 1 pitch, 60' 
+route_url: /v/crescent-crack-direct-variation/105740387 
+

@@ -1,0 +1,11 @@
+id: 105740048 
+parent_name: Coffin Buttress 
+parent_url: /v/coffin-buttress/105739419 
+route_description: The Coffin is the obvious finger crack that perfectly splits the face on the Coffin Buttress.  The opening is a little tricky to protect, but still has good pro. After that, the gear is great until the anchors.  Clip the manky pin left of the crack, then traverse into the crack.  Place a small cam, then climb up the beautiful finger crack for 80' to the large roof.  From here two options exist.  Traverse right (easier) to the anchors, or traverse left to anchors.  Going left is highly recommended and adds some more fun climbing to the pitch.    Descent) Rap with one rope back to the base. 
+route_name: The Coffin  
+route_quality: 0.95 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 1 pitch, 80' 
+route_url: /v/the-coffin/105740048 
+

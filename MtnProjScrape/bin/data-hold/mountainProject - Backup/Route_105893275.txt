@@ -1,0 +1,11 @@
+id: 105893275 
+parent_name: 21 - Reed's Pinnacle Area 
+parent_url: /v/21---reeds-pinnacle-area/105863765 
+route_description: Between The Iota and Reed's Pinnacle is a 100' Exfoliation slab, this is The Remnant. Jamming and liebacking lead up the left side. 
+route_name: The Remnant-Left Side  
+route_quality: 0.55 
+route_rating:  YDS: 5.10b 
+route_rating_original: YDS: 5.10b 
+route_type: Trad 
+route_url: /v/the-remnant-left-side/105893275 
+

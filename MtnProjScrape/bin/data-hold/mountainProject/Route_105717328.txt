@@ -1,0 +1,11 @@
+id: 105717328 
+parent_name: Donnelly Canyon 
+parent_url: /v/donnelly-canyon/105716880 
+route_description:  As described in the Donnelly Canyon intro, this route is quite obvious.  On my first visit to the area, I said, "That must be Supercrack."  I was wrong, but this is one striking line.  From the parking lot, cross the drainage and head up canyon about 50 yards, then follow an obvious and well built trail up and left to the bottom of the route.    The first pitch is 120 feet long so don't forget the trail line.  The first 25 feet or so are the awkward crux of the route, then you're in hand jam heaven.  The crack does widen slightly near the anchor.  The #4 Camalot is for the obvious pod at the bottom, you could get by without it with a big-hands piece a little lower.  Have fun, and don't forget to keep your weight on your feet, no matter how much they hurt.  The route has a wider second pitch that I've never seen anyone climb. 
+route_name: Generic Crack  
+route_quality: 0.85 
+route_rating:  YDS: 5.10- 
+route_rating_original: YDS: 5.9+ 
+route_type: Trad 
+route_url: /v/generic-crack/105717328 
+

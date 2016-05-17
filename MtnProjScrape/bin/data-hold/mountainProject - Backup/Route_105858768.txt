@@ -1,0 +1,11 @@
+id: 105858768 
+parent_name: Trashcan Rock - East Face 
+parent_url: /v/trashcan-rock---east-face/106670367 
+route_description: A clean, very shallow offwidth leads to a thin hands crack above.  This is a good place to practice heel-toe jams. 
+route_name: Filch  
+route_quality: 0.475 
+route_rating:  YDS: 5.5 
+route_rating_original: YDS: 5.5 
+route_type: Trad, 1 pitch, 40' 
+route_url: /v/filch/105858768 
+

@@ -1,0 +1,11 @@
+id: 105870883 
+parent_name: Castle Rock 
+parent_url: /v/castle-rock/105790784 
+route_description: Climb the chimney on the right side of Jello Tower. Step across then right to a wide crack to the top. 
+route_name: Midway  
+route_quality: 0.725 
+route_rating:  YDS: 5.6 
+route_rating_original: YDS: 5.5 
+route_type: Trad 
+route_url: /v/midway/105870883 
+

@@ -1,0 +1,10 @@
+area_name: Sunnyside Bench Rock Climbing  
+area_url: /v/sunnyside-bench/105865915 
+description: This is another popular cliff to the right of Lower Yosemite Falls. It offers some good cracks and some face climbs. This area can get very crowded. 
+getting_there: Take the Lower Yosemite Falls trail to the bridge. Cross the bridge and after a short distance, the cliff will be on the left.  
+id: 105865915 
+latitude: 37.75069 
+longitude:  -119.59461  
+parent_name: Yosemite Falls Area 
+parent_url: /v/yosemite-falls-area/105865903 
+

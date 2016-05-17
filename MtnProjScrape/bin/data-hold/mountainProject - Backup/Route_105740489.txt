@@ -1,0 +1,11 @@
+id: 105740489 
+parent_name: Lisa Falls Buttress 
+parent_url: /v/lisa-falls-buttress/105739533 
+route_description: This starts in the same right facing crack that Lisa Falls Right climbs, but it continues into the nice finger crack after Lisa Falls Right climbs the face above.  Continue until the end of the finger crack, and then pop over the roof on your left.  Climb the thin seams that don't protect well for a bit, and then start an angling ramble to the left and the base of the flake on Lisa Falls Right.  Finish up with that climb.  2 1-rope rappels. 
+route_name: Neurotica  
+route_quality: 0.475 
+route_rating:  YDS: 5.5 
+route_rating_original: YDS: 5.5 
+route_type: Trad, 1 pitch, 130' 
+route_url: /v/neurotica/105740489 
+

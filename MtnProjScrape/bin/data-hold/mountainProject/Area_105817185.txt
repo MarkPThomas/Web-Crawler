@@ -1,0 +1,10 @@
+area_name: Rock Creek Rock Climbing  
+area_url: /v/rock-creek/105817185 
+description: Amazing Sierra granite with great trad and sport routes.  Located in between Bishop and Mammoth this area is mostly a summertime area since the elevation sees enough snowfall to affect climbing. 
+getting_there: Take the 395 south from Mammoth or North from Bishop till you reach Tom's Place.  take this road south up into the canyon and you will see the formations on the west side of the canyon. 
+id: 105817185 
+latitude: 37.54685 
+longitude:  -118.68942  
+parent_name: Mammoth Lakes Area 
+parent_url: /v/mammoth-lakes-area/106064821 
+

@@ -1,0 +1,11 @@
+id: 105866381 
+parent_name: Manure Pile Buttress (aka Ranger Rock) 
+parent_url: /v/manure-pile-buttress-aka-ranger-rock/105833498 
+route_description: Ascends the face and broken crack system to the left of After Six and right of Haley's Comet past a single, good bolt.  Shares a 2-bolt anchor with Haley's Comet.  Rap 65' to ground. 
+route_name: Jump for Joy  
+route_quality: 0.575 
+route_rating:  YDS: 5.9 R 
+route_rating_original: YDS: 5.9 R 
+route_type: Trad, TR, 1 pitch, 70' 
+route_url: /v/jump-for-joy/105866381 
+

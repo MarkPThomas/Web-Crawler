@@ -1,0 +1,11 @@
+id: 106167680 
+parent_name: Super Crack Tower 
+parent_url: /v/super-crack-tower/105824958 
+route_description: A great route on a great tower with stunning scenery and no crowds.    The climb starts up a face about 15' left (up-gully) of the left side of the obvious corner/gully on the North Face.  From Turkish Bride, walk up and left up "The Bowling Alley" to just past the big corner system shown on the Turkish Bride topo.  P1:  Walk up the gully (left) for about 15', then traverse right to the first bolt.  You can see the bolt from the ground, but not from the start of the traverse.  Continue up some funky face moves past a couple more bolts to a limestone band.  Then traverse a few moves right to a 2-bolt anchor at the base of the first window. (5.10a)  P2: Stem and bridge up the beautiful chimney past 2 bolts and a small cam placement to a roof crack.  Jam the crack out of the chimney (west) and pull up into an excellent dihedral.  Follow dihedral to the second window and another 2 bolt anchor.  A stellar pitch with great moves!  (5.10b/c)  P3: Another good pitch!  Continue up the nice dihedral as it starts to get wider; bring some big gear for this pitch. Towards the top the crack gets steeper and wider, but a convenient chockstone and a rail on each side make this easier than it looks.  After grunting though the last bulge, finish up a short ramp to the notch, then scramble up the face to the summit and a 2-bolt anchor.  (5.10b)  Rap the route to descend.  We used a single 70m rope, but a 60m would PROBABLY work. 
+route_name: The Windows Route  
+route_quality: 0.925 
+route_rating:  YDS: 5.10 
+route_rating_original: YDS: 5.10 
+route_type: Trad, 3 pitches, 220' 
+route_url: /v/the-windows-route/106167680 
+

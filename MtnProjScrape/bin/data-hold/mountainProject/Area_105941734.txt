@@ -1,0 +1,10 @@
+area_name: Mt. Edith Cavell Rock Climbing  
+area_url: /v/mt-edith-cavell/105941734 
+description: Mt. Edith Cavell is one of the most photogenic peaks in Canada.  You can see it from Jasper on a clear day, and when I was a teenager I remember every store in Jasper seemed to boast a gorgeous photo or placemat of this peak.  I climbed the peak in 2003, and afterwards wanted to buy a nice poster of the peak.  Scouring Jasper I was disappointed to not find a single decent photo of this peak!  It seems its popularity has declined, or perhaps my memory of how great the photos used to be is poor.  In 2003 the tourist shops were chock full of photos and placemats with views from lake Louise and around Banff!  The mountain was named in 1916 for an English nurse executed by the Germans during World War I for helping people held captive to escape.  Among climbers, this peak is famous for its East Ridge, a classic moderate route with fantastic views, and its Nordwand which was conquered by Chouinard, Becky and Doody in 1961.  There are now quite a few routes up the North Face, and many argue that the original is not the best. 
+getting_there: This peak is close to Jasper, follow the paved Mt. Edith Cavell Road to a parking lot at 5800 feet.  Here the peak soars over 5000 above you.  A nice short hike leads from here to Cavell Meadows, with spectacular views of the North Face. 
+id: 105941734 
+latitude: 52.6686 
+longitude:  -118.0387  
+parent_name: Jasper National Park 
+parent_url: /v/jasper-national-park/105941725 
+

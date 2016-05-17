@@ -1,0 +1,11 @@
+id: 106032393 
+parent_name: Northwest Face 
+parent_url: /v/northwest-face/105875168 
+route_description: This is a great climb for the grade on Lembert Dome.  The first pitch is the meat and potatoes of the climb with a fun 5.6 lieback section.  P1: 5.6 (or 5.9 variation). Start up a 3rd class ramp and belay at a thick shrub / small tree (whatever you want to call it).  There is a good bolt that protects the face friction to gain the corner / lieback about 15' from the belay shrub.  Then follow the lieback up to some broken ledges until you reach another belay shrub.  Avoid the steep crack that looks harder than 5.6 (5.9) or charge up it with good pro.  P2: 5.6 or less. Continue up the broken ledges and up a short crack that accepts wider pro.  Finish near the lip with a gear anchor wherever is convenient.  Walk off right to gain the upper sloping section of Lembert, then follow it down the backside on the easiest path pack to the parking lot.  No real downclimbing required and pretty easy (unless wet). 
+route_name: Northwest Books  
+route_quality: 0.6 
+route_rating:  YDS: 5.6 
+route_rating_original: YDS: 5.6 
+route_type: Trad, 2 pitches, 250' 
+route_url: /v/northwest-books/106032393 
+

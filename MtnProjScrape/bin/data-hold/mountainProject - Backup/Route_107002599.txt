@@ -1,0 +1,11 @@
+id: 107002599 
+parent_name: Tourist Trap 
+parent_url: /v/tourist-trap/106067797 
+route_description: Kind of a steep start.  I thought the crux was between the first and second bolt.  After the sixth bolt there are some small cracks.  Either place some pro here and head up over the "summit block" (5.7) variation to the anchors (bolts with rings) or traverse right (5.6). 
+route_name: Thrill Hammer  
+route_quality: 0.625 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.8+ 
+route_type: Trad, Sport, 1 pitch, 80' 
+route_url: /v/thrill-hammer/107002599 
+

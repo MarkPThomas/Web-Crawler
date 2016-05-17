@@ -1,0 +1,10 @@
+area_name: b. Jackie and friends Rock Climbing  
+area_url: /v/b-jackie-and-friends/107037580 
+description: Major Features This popular section of cliff has a wide variety of climbing, ranging from the very-easy (Betty) to the classic 5.10s of P38, Stirrup Trouble and Matinee, and beyond.    The end of this section is the major left-facing chimney system of Big Chimney and Miss Bailey.  Those routes are just left of the lightning-bolt offwidth crack of Baby.  Approach : The trail along the base of these routes starts just a few feet past the vault toilet ("Uberpooper") that marks the end of the Uberfall section.  There is a trail up to the middle of this section just past the Black Boulder problem, and the last few routes are also reached by the trail leading to Baby.  Descents :  The Uberfall Descent finishes in a dead heat with rapping from the clifftop - you can walk off and be back at your packs just as quickly as rapping.  On busy weekend days, the Uberfall Descent is preferable - especially for the Betty and Jackie areas, where many intermediate ledges are strewn with small stones, and unsuspecting newer climbers are often below.  There is a set of bolts with chains at the ledge above the first pitches of Jackie and Classic. 
+getting_there:  
+id: 107037580 
+latitude: 41.73755 
+longitude:  -74.18693  
+parent_name: The Trapps 
+parent_url: /v/the-trapps/105798818 
+

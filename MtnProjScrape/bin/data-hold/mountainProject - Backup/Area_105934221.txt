@@ -1,0 +1,10 @@
+area_name: Banff National Park Rock Climbing  
+area_url: /v/banff-national-park/105934221 
+description: Banff National Park is Canada's first and most famous National Park. People come from all over the world to sightsee, hike, camp, raft, ski, scramble and of course climb year round.  The alpine climbing is clearly the highlight of the park. Many world famous peaks and tough ascents are located within the boundaries of the park. There are countless summits for the aspiring alpinist to attempt, some easy scrambles, some 5.9-M4-A4 unrepeated horror shows. Many of North America's finest alpinists and climbers cut their teeth climbing Banff's peaks.  The ice climbing in the park is also world famous, with a lifetime of ice available almost year round, from road-side cragging to 2000' WI6 routes. The typical ice season lasts from Mid-November into May and June (depending on how desperate for ice you are).  Rock climbers have a lot to choose from as well. Though the rock is fairly chossy (some have described it as the worst rock in North America that still gets climbed), the routes are many from small sport crags to huge alpine rock routes. The best quality rock is found in the quartzite of Back of the Lake at Lake Louise, whereas big, aesthetic routes can be found in palaces like Castle Mountain, Mt. Louis and the Tower of Babel. 
+getting_there: Banff National Park is located along the Trans-Canada highway running from Calgary, AB to Vancouver, BC. The easiest way to get in is to fly into Calgary International Airport and rent a vehicle; the drive is about 70 miles to the park boundary. Bus service is also avialble from Calgary and places beyond. 
+id: 105934221 
+latitude: 51.18811 
+longitude:  -115.58354  
+parent_name: Alberta 
+parent_url: /v/alberta/105946432 
+

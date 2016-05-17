@@ -1,0 +1,10 @@
+area_name: Sheep Rock Rock Climbing  
+area_url: /v/sheep-rock/105926320 
+description: Sheep Rock is the entrada Tower across the road from Tower of Babel 
+getting_there: Park in a small pullout on the northwest side of the Tower of Babel. A wash, that can be seen about 100 meters west of the car, runs up towards the Sheep. Follow it to right under the formation, then walk up the cone to the base. 
+id: 105926320 
+latitude:  
+longitude:  
+parent_name: Arches National Park 
+parent_url: /v/arches-national-park/105716757 
+

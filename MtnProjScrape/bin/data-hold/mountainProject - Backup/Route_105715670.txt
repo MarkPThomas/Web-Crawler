@@ -1,0 +1,11 @@
+id: 105715670 
+parent_name: Durrance Approach 
+parent_url: /v/durrance-approach/105714408 
+route_description: Centennial starts between Graeme's Line (left) and Last Laugh (right). Look for the broken off column in between these 2 climbs, Centennial starts off as a right facing dihedral 2 cracks to the right of the broken column. This is a beautiful climb that starts off on nuts and cams and then moves to pin driving ... lots of it. The finish (pitch 4) needs larger pro.According to a local climbing guru, the first pitch was once set as a top-rope problem (he aided in the previous day), but none of the 5.12+ climbers staying at the KOA could do it. Maybe you can! 
+route_name: Centennial  
+route_quality: 1.0 
+route_rating: A2 
+route_rating_original: A2 
+route_type: Aid, 4 pitches, 550',  Grade III 
+route_url: /v/centennial/105715670 
+

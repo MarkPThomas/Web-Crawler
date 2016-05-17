@@ -1,0 +1,10 @@
+area_name: Viagra Tower Rock Climbing  
+area_url: /v/viagra-tower/106416524 
+description: sits in bottom of wash on the east side of the parking lot.   south facing, good afternoon sun, some protection from wind 
+getting_there: 5 minutes 
+id: 106416524 
+latitude:  
+longitude:  
+parent_name: First Pullout 
+parent_url: /v/first-pullout/105731953 
+

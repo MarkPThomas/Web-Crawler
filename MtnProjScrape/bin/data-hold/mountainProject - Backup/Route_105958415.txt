@@ -1,0 +1,11 @@
+id: 105958415 
+parent_name: Swan Slab 
+parent_url: /v/swan-slab/105841123 
+route_description: These four short cracks on the far left end of Swan Slab make ok solos/highballs or TRs in a variety of styles. You can toprope them all from a single anchor by scrambling up from the left. The cracks are rated (from L to R), 5.10a, 5.10a, 5.11a, 5.8. Crux on the .11a is a bouldery move right off the deck to gain an easier crack, easier for tall people.  
+route_name: Penthouse Cracks  
+route_quality: 0.525 
+route_rating:  YDS: 5.10 
+route_rating_original: YDS: 5.10 
+route_type: Trad, TR, 18' 
+route_url: /v/penthouse-cracks/105958415 
+

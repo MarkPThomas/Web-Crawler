@@ -1,0 +1,11 @@
+id: 107227174 
+parent_name: Crescent Spire 
+parent_url: /v/crescent-spire/105868074 
+route_description: P1:Head up easy but slightly spooky flakes to a short, steep handcrack. Pull through this(technical crux) to the base of the obvious large roof and a great rest. Lieback out through the roof with good, but spread-out feet, saving juice for the awkard and strenous lip encounter.  Pull over the lip on perfect hands and bad/high feet and then cruise up the easy but excellent hand crack. Walk over the top of the flake and down to a ledge with a two bolt anchor.  Alt. and probably better P2, as provided by Kedron:   As an alternate second pitch, I went straight up an off-fingers (BD .75) crack a few feet to the left of the arete which starts ~30 feet above the McTech roof until it tapered off. Then around the arete into the top of energy crisis and up to the chains at the top of the second pitch of McTech. This seemed similar difficulty to the first pitch, and not particularly scary.  Bad P2:  "P2" Walk to the flake you climbed over on the first pitch and head directly up the crack through some easy OW to a crumbly lieback flake that feels insecure but is relatively easy. Climb this until the obvious finger crack presents itself. Climb the fingercrack on exfoliating feet and then traverse with no pro about 20 feet left(10-, PG13) to a loose gully-type feature. Mountaineer this rubble-choked POS  until you reach a large sloping black ledge(5.6, R/X). Belay your partner up, then traverse down and right to a two bolt anchor and continue to the top on the McTech Arete Route.  I think the P2 could be made safer and more enjoyable by traversing farther right off the belay ledge to the next, or by finding a face traverse below the finger crack. As it stands in my description, P2 is a bomb pitch with the potential for large falls and pulling blocks onto your belayer and parties below. If someone has better navigational directions please PM me so I can change this description. 
+route_name: McTech Roof  
+route_quality: 0.9 
+route_rating:  YDS: 5.10+ 
+route_rating_original: YDS: 5.10+ 
+route_type: Trad, Alpine, 5 pitches, 500',  Grade III 
+route_url: /v/mctech-roof/107227174 
+

@@ -1,0 +1,11 @@
+id: 105865686 
+parent_name: 15 - Knob Hill 
+parent_url: /v/15---knob-hill/105865681 
+route_description: This is the first climb that one comes to upon reaching the cliff.  It follows a crack that doesn't reach the ground. Do tricky slab moves up to the crack. Follow this crack (5.7) to a ledge.  A second pitch is rarely done for good reason. If you must try it, move left from the ledge and up a 5.9 crack. 
+route_name: Pot Belly  
+route_quality: 0.6 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.7 
+route_type: Trad, 1 pitch, 60' 
+route_url: /v/pot-belly/105865686 
+

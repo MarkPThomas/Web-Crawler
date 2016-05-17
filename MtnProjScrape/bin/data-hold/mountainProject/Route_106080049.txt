@@ -1,0 +1,11 @@
+id: 106080049 
+parent_name: 21 - Reed's Pinnacle Area 
+parent_url: /v/21---reeds-pinnacle-area/105863765 
+route_description: This pitch is a fun and somewhat physical option for those who reach the top of Reed's Direct p2 and still want more - but not quite as much as Reed's 3rd pitch offers.    Fire up steep double cracks at the back of a shallow 'chimney' to pull onto a sloping ledge.  These cracks will alternately take knees, fists, armbars, and handstacks - the shallow chimney provides infinite no hands rests with the right body language.  Before you turn right onto the sloping ledge, gaze at the continuation of the left crack: a hard looking and overhung offwidth.      From the sloping ledge follow the nice crack as it curves up to a roof, which is easily pulled on the featured granite that abounds here.  A great pitch if you're looking for relatively tame, well protected, and non-sustained semi-wide climbing. 
+route_name: Bongs Away, Left  
+route_quality: 0.575 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 1 pitch, 80' 
+route_url: /v/bongs-away-left/106080049 
+

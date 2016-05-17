@@ -1,0 +1,11 @@
+id: 106955045 
+parent_name: Higher Cathedral Rock 
+parent_url: /v/higher-cathedral-rock/105833493 
+route_description: This is a burley and sustained, mostly thin hands-to-wide crack system that offers plenty of fun and adventure.  Should be considered a must-do for the aspiring 5.10 offwidth climber, even though some of the harder sections were not necessarily offwidth.  This route is very overhanging, exposed, and basically wild!    Start with a steep chimney and go up. The second pitch is a sweet 3 to 4-inch hand and fist crack that seems to go on and on.  The 3rd pitch involves working up to a thin flake, making some wild moves up and right on it, then cruising thru some 5.10- thin hands, finishing with some squeeze to the belay on a chockstone. Another pitch of 5.10 fingers (we climbed the left of the two cracks) takes you to the crux 5th pitch.  This entails a pumpy undercling out a right-trending flake system.  This section felt like 10+ to me but I was pretty tired by then.... if you're feeling fresh maybe it's only 10a as listed in my '87 Meyers and Reid guidebook?  
+route_name: Book of Job  
+route_quality: 0.875 
+route_rating:  YDS: 5.10 
+route_rating_original: YDS: 5.10 
+route_type: Trad, 6 pitches, 700',  Grade III 
+route_url: /v/book-of-job/106955045 
+

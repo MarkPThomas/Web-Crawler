@@ -1,0 +1,11 @@
+id: 105810464 
+parent_name: a. The Uberfall 
+parent_url: /v/a-the-uberfall/107037539 
+route_description: Start at a thin crack on the left side of a block about 35' right of Horseman.   A bouldery start stumps many beginners.  The moves (and the gear) is all there, but both can be tricky.  The climbing eases back to 5.6 after the opening moves. The crack climbing is supplemented by many face holds as well.  Enjoy the incredible fist-jam move just before the finish.  Bolted anchor at the top. 
+route_name: Laurel  
+route_quality: 0.625 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, 1 pitch, 50' 
+route_url: /v/laurel/105810464 
+

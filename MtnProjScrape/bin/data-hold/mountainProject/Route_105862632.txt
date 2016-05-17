@@ -1,0 +1,11 @@
+id: 105862632 
+parent_name: Manure Pile Buttress (aka Ranger Rock) 
+parent_url: /v/manure-pile-buttress-aka-ranger-rock/105833498 
+route_description: Twenty feet to the right of the standard start for Nutcracker is a beautiful finger crack that ascends the blank wall to a tree (110'). After the tree ascend another 80 feet to join the original route at the start of the fourth pitch.  The start of the variation takes you up 15 feet of an unprotected slab. Then sink a couple small cams and climb up the smooth 5.9 face. After 20 feet the climbing eases. 
+route_name: Nutcracker 5.9 Start Variation  
+route_quality: 0.85 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 2 pitches, 200' 
+route_url: /v/nutcracker-59-start-variation/105862632 
+

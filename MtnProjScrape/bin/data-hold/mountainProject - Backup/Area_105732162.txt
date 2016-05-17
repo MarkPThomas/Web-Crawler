@@ -1,0 +1,10 @@
+area_name: Black Velvet Wall Rock Climbing  
+area_url: /v/black-velvet-wall/105732162 
+description: This is one of the premier walls in Red Rock.  It features a wealth and variety of good climbing from the chimneys of Epinephrine to the balancy edges on Dream of Wild Turkeys. 
+getting_there: From the Black Velvet parking lot, follow the old bicycle road west for a few hundred yards.  When the road turns left, continue west on a good trail.  At the base of Whiskey Peak, the is a trail branching left to climb up to Frogland and nearby routes; continue west, climbing slightly before dropping into the deep wash on your immediate right.  Follow the streambed up until it is blocked by a cliff band.  On the left side of the wash trails lead up to a steep 3rd class route through the band.  From the top of the cliff either go straight south toward routes near Dream of Wild Turkeys, or drop back to the streambed and continue upstream a short distance to the Epinephrine area. 
+id: 105732162 
+latitude: 36.03518 
+longitude:  -115.46652  
+parent_name: Black Velvet Canyon 
+parent_url: /v/black-velvet-canyon/105731948 
+

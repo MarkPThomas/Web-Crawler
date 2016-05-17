@@ -1,0 +1,11 @@
+id: 105721630 
+parent_name: The Blob - Southeast Face 
+parent_url: /v/the-blob---southeast-face/106044112 
+route_description: Well protected climbing at an accessible grade with a location front and center in Hidden Valley Campground means this is one popular route.  Edge and smear your way up the somewhat slippery face and don't forget gear for the belay. An easy downclimb exists to the left down a chimney. 
+route_name: Papa Woolsey  
+route_quality: 0.65 
+route_rating:  YDS: 5.10b 
+route_rating_original: YDS: 5.10b 
+route_type: Trad, 1 pitch, 60' 
+route_url: /v/papa-woolsey/105721630 
+

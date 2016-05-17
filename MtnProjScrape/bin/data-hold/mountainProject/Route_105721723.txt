@@ -1,0 +1,11 @@
+id: 105721723 
+parent_name: Intersection Rock 
+parent_url: /v/intersection-rock/105720810 
+route_description: This description is only for Upper Right Ski Track. Lower Right Ski Track is treated as separate climbs, so I am listing them that way.  However, I prefer long pitches and chose to climb the both in a single 60M+ pitch.  This requires a 60 or 70M rope and a larger rack but is worth the time and effort.    On intersection Rock, there are three main cracks running diagonally up and left from the base. These are visible from the North side (from the Hidden Valley Campground) and are called, from right to left, Right Ski Track, Left Ski Track, and Half Track. These are plainly visible in the attached photograph.  Right Ski Track is the right-most of the three climbs, and starts as a left-leaning, left-facing dihedral, climbing 60 feet or so to a ledge that may be traversed onto from a scramble up the West end of the Rock.  Below said ledge is Lower Right Ski Track (5.10c).  Above this ledge is Upper RST (5.3).  Access the climb via Lower RST, or scramble up the shoulder of Intersection Rock from the West End, roping up and traversing out left (East-ward) along a sloping ramp to the crack.  Build a belay and get ready to climb.  The route-finding is not difficult, as you will simply follow the crack to the top.  Once up top, sling rocks or set gear to bring up the second.There is no particular crux that I noticed.  The climb is a fun and easy route with some good jamming and stemming.  From the top, head to the West end and rap off. 
+route_name: Upper Right Ski Track  
+route_quality: 0.575 
+route_rating:  YDS: 5.3 
+route_rating_original: YDS: 5.3 
+route_type: Trad, 1 pitch, 100' 
+route_url: /v/upper-right-ski-track/105721723 
+

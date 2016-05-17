@@ -1,0 +1,10 @@
+area_name: Alpine Rock Rock Climbing  
+area_url: /v/alpine-rock/105744466 
+description: This "area" is for alpine rock climbing in Colorado.  Alpine is probably the true "Mountain" Project terrain.  These routes truly lie in the mountains.  This is the terrain of the alpinist, the all-arounder.  Generally here, you must be comfortable in whatever the environment will throw at you.  Alpine is the home of the marmots and pikas in the warmer months.  In the colder months, this is the land of the frozen.  Scattered here is the terrain in which weather, exposure, season, loose rock, ice, snow, route-finding, lightning, precipitation, and altitude can dramatically affect one's experience.  All these climbs involve heights of at least 8,000 feet and are above treeline.  With these factors comes increased risks but potential for increased rewards and memories that can last a lifetime. 
+getting_there: These climbs cover the state from the Crestones, the Sangre de Cristos, the Mosquito Range, the Collegiates, the Sawatch, the San Juans, the Gores, the Front Range, the Elks, the Indian Peaks, the Mummy Range, the Never Summer Mountains, Rocky Mountain National Park or whatever range you wish to include.  Look high and you will find them.  You will drive but then you will hike, since most all of these will require some extended approaches.  Some will require overnight trips.  Nearly all will have season considerations for the majority of climbers. 
+id: 105744466 
+latitude: 40.2565 
+longitude:  -105.6569  
+parent_name: Colorado 
+parent_url: /v/colorado/105708956 
+

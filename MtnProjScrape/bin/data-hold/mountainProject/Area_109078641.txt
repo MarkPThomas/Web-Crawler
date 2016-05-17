@@ -1,0 +1,10 @@
+area_name: Central Sierra Rock Climbing  
+area_url: /v/central-sierra/109078641 
+description: Between the populous climbing destinations of Yosemite and the Tahoe area lies a more obscure section of the Sierra Nevada. It includes better known areas such as Table Mountain and the Calaveras Dome Area, as well as seldom visited or climbed mountain rock. Like all regions the span the breadth of the Sierra Nevada, it can be climbed in all seasons by moving to a currently comfortable elevation.  Much of this region falls within the boundaries of the  Stanislaus National Forest, including some overlapping wilderness areas at its borders.   The last major towns you'll pass on the west side of this region are where the three highways leave highway 49 in the Gold Country: Jackson (for highway 88 climbing areas), Angels Camp (for highway 4), and Sonora (for highway 108). All three are historic and thrive on tourism. You'll find food, gas, and at least basic outdoor supplies at all three. Sonora has at least one outfitter selling climbing gear.  Sonora Pass' Highway 108 has its own dedicated hard copy guide book, and a website to supplement that.  The Carson Pass areas major climbing spots are kindly documented by Tim at the Climb Highway 88 website. 
+getting_there: The three main trans-Sierra highways of Carson Pass (highway 88), Ebbetts Pass (highway 4) and Sonora Pass (highway 108) are used to reach these areas by visitors.  All three of these state highways close during the winter, in response to current conditions. See the Cal Trans website for these. State Road 4 conditions. State Road 88 conditions. State Road 108 conditions. 
+id: 109078641 
+latitude: 38.4489 
+longitude:  -120.05942  
+parent_name: California 
+parent_url: /v/california/105708959 
+

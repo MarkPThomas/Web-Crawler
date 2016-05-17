@@ -1,0 +1,10 @@
+area_name: Custer State Park Rock Climbing  
+area_url: /v/custer-state-park/106058091 
+description:   Located in the Black Hills of South Dakota is a climbing area like no other, The Needles. From Sylvan Lake a road called the Needles Highway winds through spectacular and spell binding towers and spires. From this road climbers can access a playground of unparalleled face climbing on ever narrowing spires by way of quartz crystals ranging from tiny to hand sized. The area is steeped in a rich history dating back to Fitz Wiessner's accent of the Totem Pole in 1936. The area was then home to the prolific Herb and Jan Conn, two climbers way ahead of their time, who put up over 200 first ascents from their first visit in 1947 and eventual move to the area in 1949. In the 1960's climbers such as Royal Robins, John Gill, And Henry Barber put up routes that still wow climbers today with their high "pucker factor". Locals such as Paul Muehl John Page, And Bob Archbold made their contributions to the Needle's catalog of bold climbs during the 70's and into the 80's with the likes of Pete Delonney.The Needles has long been know for its purist ethics, which has made for some wild climbs and a Needles' staple, the infamous simul-rap. As Jan Conn said,"You can climb anything in the Needles, if you have the guts."       Custer SP is a world class destination not only for the climbing but also the absolute beauty of the place. Once there, the friendly people of Custer, the interesting scenery, and the relaxed park staff will make it hard to leave.       While buying my $15 7 day pass, I told a ranger why I was there. While we prepared to pull away he smiled and said, "You guys can go anywhere you want!" Yeah, if we have the guts. 
+getting_there: Once in Custer take Hwy 89/385 east out of town and then left on to Hwy 89 north to the Sylvan Lake entrance to Custer SP. From here is where the Needles Hwy starts and heads south. 
+id: 106058091 
+latitude: 43.8436 
+longitude:  -103.5628  
+parent_name: South Dakota 
+parent_url: /v/south-dakota/105708963 
+

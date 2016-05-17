@@ -1,0 +1,11 @@
+id: 105725821 
+parent_name: Intersection Rock 
+parent_url: /v/intersection-rock/105720810 
+route_description: On the southern end of the west face, just left of the Southwest Passage Route there is a groove/corner that climbs up and left to a sloping ledge, then up and out through the right hand edge of a large bulge. Getting out of the initial groove and onto the sloping ledge is the first crux (5.7 with grainy rock and tricky protection if not careful). You can belay there if desired... then the real crux is getting out past the right hand edge of the bulge above and onto the easy, but runout slab above that.This was considerably harder than the book-assigned grade unless you cheat well to the left, going close to the Bat Crack (5.5) and traversing back right and in. It felt at least 5.8... or maybe harder.  Belay from above, then rap twice first down to the sloping ledge, and then to the ground. 
+route_name: Pinacle Stand  
+route_quality: 0.5 
+route_rating:  YDS: 5.8 R 
+route_rating_original: YDS: 5.8 R 
+route_type: Trad, 1 pitch, 150' 
+route_url: /v/pinacle-stand/105725821 
+

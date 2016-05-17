@@ -1,0 +1,10 @@
+area_name: Great White Icicle Area Rock Climbing  
+area_url: /v/great-white-icicle-area/105739745 
+description: Home to the popular ice climb, The Great White Icicle, the area offers some decent rock routes as well.  Mostly slab climbing with rock very similar in texture to Pentapitch. 
+getting_there: Climbers Accessing the Great White Icicle  For years ice and rock climbers have accessed the Great White Icicle and other south side areas by using the bridge and parking at the site of a small hydro-electric plant a couple of miles up Little Cottonwood Canyon.  In 2010 the current owner, Cottonwood Hydro, was forced to remove the bridge during a flood event that threatened the plant.  Since then Cottonwood Hydro has posted no trespassing and no parking signs to protect the plant operations and access to their private property.  As a responsible climber, you can help improve the SLCAs relationship with Cottonwood Hydro. Do not trespass or block the area and avoid the no parking and hydro hazard areas. Keep off the pipe, intake structures, and dam at all times!  During times of low water access the south side of the creek by using the recommended cross- country route shown in the map.  During times of high water use one of the bridges along the Little Cottonwood Trail provided by Cottonwood Hydro in partnership with the USFS. Bridges are located approximately ½ mile upstream or ¾ mile downstream of this location. When possible carpool from a Park and Ride to conserve the limited, available parking. Thanks for your cooperation! --- Invalid image id: 107936106 --- 
+id: 105739745 
+latitude:  
+longitude:  
+parent_name: Little Cottonwood Canyon 
+parent_url: /v/little-cottonwood-canyon/105739277 
+

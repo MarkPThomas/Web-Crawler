@@ -1,0 +1,11 @@
+id: 105717346 
+parent_name: Donnelly Canyon 
+parent_url: /v/donnelly-canyon/105716880 
+route_description: Classic moderate climb.  Very popular.  Starts in a right facing corner next to the neon sign that says "Binou's" (actually just pecked into the rock - probably by Indians).  Jam the crack until it gets tiny and a nice wide crack opens on the left, take a nice rest on a great knee jam, and scoot on up to the top. 
+route_name: Binou's Crack  
+route_quality: 0.65 
+route_rating:  YDS: 5.8+ 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 1 pitch 
+route_url: /v/binous-crack/105717346 
+

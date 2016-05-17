@@ -1,0 +1,11 @@
+id: 105806337 
+parent_name: Bear Creek Spire 
+parent_url: /v/bear-creek-spire/105806064 
+route_description: An excellent scramble on solid granite, with spectacular views along the summit ridge.  Start at the low point on the ridge (Peppermint Pass) and follow its crest, at first low angle, pass  the large tower on the left and begin to climb steeper rock, using whatever weakness you can find, generally stay left of the ridge itself (which is soon joined by the North Arete). Below the summit ridge the rock is quite steep and you may want to use a rope. Gain the summit ridge and follow it to the required summit mantle. 
+route_name: Northeast Ridge  
+route_quality: 0.85 
+route_rating:  YDS: Easy 5th 
+route_rating_original: YDS: Easy 5th 
+route_type: Trad, Alpine 
+route_url: /v/northeast-ridge/105806337 
+

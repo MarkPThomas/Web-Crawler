@@ -1,0 +1,11 @@
+id: 105879414 
+parent_name: El Capitan Base Routes 
+parent_url: /v/el-capitan-base-routes/105841115 
+route_description: The Gollum is a precarious stack of blocks, forming a pinnacle in a spectacular location. The right side is 5.8. The left side is 5.10a offwidth. 
+route_name: Gollum  
+route_quality: 0.65 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad 
+route_url: /v/gollum/105879414 
+

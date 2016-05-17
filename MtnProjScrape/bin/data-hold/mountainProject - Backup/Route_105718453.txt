@@ -1,0 +1,11 @@
+id: 105718453 
+parent_name: Bullwinkle Tower 
+parent_url: /v/bullwinkle-tower/105717235 
+route_description: As the title says, West Chimney.  When you get to the tower, you can walk around the main formation and look for the easiest looking chimney, if your sense of direction isn't up to par.  The climb starts with an easy slab, up over a slightly tougher bulge, before you get to the crack below the chimney.  (Approach the route and climb the bulge from the left.)  Climb the crack, which takes good pro, and has the probable crux of the route, up to the chimney proper.  You can get a last piece of gear in at the base of the chimney, but the chimney is basically unprotectable.  However, it isn't really possible to fall out of the chimney and it is much, much easier than it may look to the beginning desert climber.  Climb the fun, easy chimney to the top, there are slings on the north summit.    Descent:  A one rope rappel is straightforward if you rappel directly west of the summit anchor, however, if your second does not reach the top and you are forced to rappel back into the chimney in order to retrieve gear, be very, very careful with the force you are putting on a sketchy looking cooler sized boulder on the top.  Because of this, it is definitely not a good idea to top rope this tower from the rappel anchors.  But you could easily set up an anchor at the actual top of the chimney itself.  I find it hilarious to see the crowds (literally) lining up in bunches at the base of Owl Rock only a few hundred yards away.  This very well could be the easiest way to climb technical rock to the top of a tower on the Colorado Plateau.  It is short, sweet, easy, and right next to the road. 
+route_name: West Chimney  
+route_quality: 0.475 
+route_rating:  YDS: 5.6 
+route_rating_original: YDS: 5.6 
+route_type: Trad, 1 pitch, 60' 
+route_url: /v/west-chimney/105718453 
+

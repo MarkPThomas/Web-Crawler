@@ -1,0 +1,10 @@
+area_name: Hall of Horrors Rock Climbing  
+area_url: /v/hall-of-horrors/105720681 
+description: Hall of Horrors is a group of rocks across the road from Saddle Rocks which are arranged in parallel fashion forming a series of "halls". This is a fairly popular area but it holds large numbers of people fairly well with the various faces of the formations acting as a natural buffer. Whatever sort of climbing you're looking for, be it moderate cracks, difficult sport routes or even runout slabs look no further.  
+getting_there: Hall of Horrors is located on the northwest side of the Sheep Pass Loop Road. It is the first prominent rock area encountered on your lefthand side when driving from Ryan Campground toward Twentynine Palms. A prominent parking area with a bathroom on the left.   
+id: 105720681 
+latitude: 34.0002 
+longitude:  -116.1471  
+parent_name: Hall of Horrors Area 
+parent_url: /v/hall-of-horrors-area/106239037 
+

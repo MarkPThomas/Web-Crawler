@@ -1,0 +1,11 @@
+id: 105724495 
+parent_name: Tumbling Rainbow Formation 
+parent_url: /v/tumbling-rainbow-formation/105720837 
+route_description: Nice fist jamming in a clean splitter.  Would rate more stars if longer. Sunny.  Located about 50' below and 100' to the right of the start of Run For Your Life.  Starts as hands the quickly moves to cups, fists and even OW for the last few feet.  The difficulties last for about 30', then hang a left and scramble up about 20' to the top of the pillar and find an anchor.  Make sure the rope runs through the crack to provide directional protection for the 2nd.  Descent: scramble off to the north. 
+route_name: Fisticuffs  
+route_quality: 0.7 
+route_rating:  YDS: 5.10b 
+route_rating_original: YDS: 5.10b 
+route_type: Trad, 1 pitch, 30' 
+route_url: /v/fisticuffs/105724495 
+

@@ -1,0 +1,11 @@
+id: 107471812 
+parent_name: Beak Boulder 
+parent_url: /v/beak-boulder/106381030 
+route_description: Step across a gap at the base of the route and pull into the crack.  Climb the sweet, but short hand crack.  After the first 20 feet the angle eases.   
+route_name: Desert Queen  
+route_quality: 0.5 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 1 pitch, 40' 
+route_url: /v/desert-queen/107471812 
+

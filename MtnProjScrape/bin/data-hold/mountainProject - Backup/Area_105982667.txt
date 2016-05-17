@@ -1,0 +1,10 @@
+area_name: Mt. Conness Rock Climbing  
+area_url: /v/mt-conness/105982667 
+description: Mt. Conness (named after former California senator John Conness) straddles Yosemite National Park and Inyo National Forest, forming the eastern border of the Park.  It is the third highest peak in Yosemite National Park (first is Mt. Lyell at 13,114 ft, second is Mt. Dana at 13,061 ft).  The Conness Glacier lies to the east. 
+getting_there: The most direct way to approach both the North Ridge and West Ridge routes is from the trailhead at Saddlebag Lake (10,060').  A longer approach from Tuolumne Meadows to Young Lakes is also possible.  Allow a minimum of 2 hours for the approach. 
+id: 105982667 
+latitude: 37.9672 
+longitude:  -119.3192  
+parent_name: Tuolumne Meadows 
+parent_url: /v/tuolumne-meadows/105833384 
+

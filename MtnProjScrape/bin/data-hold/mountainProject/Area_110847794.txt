@@ -1,0 +1,10 @@
+area_name: 02 - Tuolumne Alpine Rock Climbing  
+area_url: /v/02---tuolumne-alpine/110847794 
+description: There are two significant high peaks north of the Tioga Pass Road; Mount Conness and North Peak. Mount Conness has been covered here. North Peak is famous for the snow/ice couloirs on its north side, hence this area being called Tuolumne Alpine. 
+getting_there: There's only one approach, it's from the Saddlebag Lake Trailhead. Take Saddlebag Lake Road north from the Tioga Pass Highway (120) (which depending upon the snow can open either early or lake, so plan accordingly), follow this road to its end at Saddlebag Lake Resort, there's trailhead parking here, the trail starts on the other side of the dam.  Permits Are available here. 
+id: 110847794 
+latitude: 37.96629 
+longitude:  -119.27159  
+parent_name: High Sierra 
+parent_url: /v/high-sierra/105791817 
+

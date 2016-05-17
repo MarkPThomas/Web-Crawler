@@ -1,0 +1,10 @@
+area_name: Pigeon Spire Rock Climbing  
+area_url: /v/pigeon-spire/105868078 
+description: The Pigeon Spire sits to the west of Snowpatch Spire dividing the Bugaboo and Vowell Glaciers.  The classic West Ridge is by far the most popular route on the spire and the main descent for all other routes.  The East face is the largest and most impressive side of the spire and easily viewable from the Pigeon Fork of the Bugaboo Glacier. 
+getting_there: There are two approaches for the Pigeon Spire depending on your destination.  For the North Face and the West Ridge take the Bugaboo-Snowpatch Col to the Upper Vowell Glacier.  For the South and East Faces take the Bugaboo Glacier West passing the South Face of Snowpatch along the way.  Both approaches require glacier travel and can take one to two hours depending on the route your trying to get to.  
+id: 105868078 
+latitude: 50.7189 
+longitude:  -116.785  
+parent_name: The Bugaboos 
+parent_url: /v/the-bugaboos/105868061 
+

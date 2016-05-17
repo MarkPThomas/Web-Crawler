@@ -1,0 +1,11 @@
+id: 105958845 
+parent_name: Glacier Point Apron 
+parent_url: /v/glacier-point-apron/105862612 
+route_description: This is a variation of the first pitch of the "Harry Daley Route". Climb a crack that goes up then curves left, 40' left of "Harry Daley". Either rap or continue up the second pitch of "Harry Daley".  There has been considerable rockfall in this area over the past several years. 
+route_name: Monday Morning Slab, Chouinard Crack  
+route_quality: 0.675 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad 
+route_url: /v/monday-morning-slab-chouinard-crack/105958845 
+

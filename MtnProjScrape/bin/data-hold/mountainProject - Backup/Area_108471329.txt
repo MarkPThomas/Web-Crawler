@@ -1,0 +1,10 @@
+area_name: Southwest Cascades Rock Climbing  
+area_url: /v/southwest-cascades/108471329 
+description: Roughly the rectangular region with Tacoma at its NW corner and Hood River on the Columbia at its SE corner. Includes Mt Rainier area.  
+getting_there: I5 going N-S, smaller roads E-W.  
+id: 108471329 
+latitude: 47.16536 
+longitude:  -121.95127  
+parent_name: Washington 
+parent_url: /v/washington/105708966 
+

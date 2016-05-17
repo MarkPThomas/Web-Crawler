@@ -1,0 +1,11 @@
+id: 105945935 
+parent_name: Camp 4 Wall 
+parent_url: /v/camp-4-wall/105945928 
+route_description: So very classic.  Work up the first 25' of easy wide climbing to the small ledge beneath the striking, flared squeeze chimney.  After another ~35' the chimney (5.8) will begin to pinch down to take fists, then cupped hands, and finally hands, all the while arching and steepening.  This is a wild and pumpy crux section that does not let up until you turn the flake at the top of the crack.  Pull over the small roof/step on good holds, hold down the pump and gun up a thin crack in a shallow dihedral for the chains. Either rap with two ropes, or rap on a single rope to the anchors above Cristina (down and climber's left), and rap again from here to the ground.  Run a couple of laps on the beginning lieback section of Cristina for a bonus. 
+route_name: Henley Quits  
+route_quality: 0.8 
+route_rating:  YDS: 5.10 
+route_rating_original: YDS: 5.10 
+route_type: Trad, 1 pitch, 150' 
+route_url: /v/henley-quits/105945935 
+

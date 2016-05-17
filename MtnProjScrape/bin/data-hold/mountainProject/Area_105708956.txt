@@ -1,0 +1,10 @@
+area_name: Colorado Rock Climbing  
+area_url: /v/colorado/105708956 
+description:  
+getting_there:  
+id: 105708956 
+latitude: 39.9961 
+longitude:  -105.298  
+parent_name:  
+parent_url:  
+

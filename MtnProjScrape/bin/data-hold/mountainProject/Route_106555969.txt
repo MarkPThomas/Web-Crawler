@@ -1,0 +1,11 @@
+id: 106555969 
+parent_name: Mt. Superior / Monte Cristo 
+parent_url: /v/mt-superior--monte-cristo/105984058 
+route_description: This is a lot of fun!  The climb starts on the S. Ridge of Superior. Start at the lowest point on the ridge at the most open spot to avoid bushwacking. 3,000' 5.6 (easier or harder depending on how many boulder problems you decide to do)  Cross over to Monte Cristo easily. Drop down off Monte Cristo (be careful, this is the crux although it's easy 4th)  Now it's up n' down and up again for a long long time until you clamber up Dromedary Peak (don't cheat stay on the ridge).  A heatbreaking descent down, and not as bad as it looks back up to Sunrise (O'Sullivan) Peak.  Down and up again to the summit of the Twins.  From here there are options: -Head down into Broads Fork. Take the ridge or backtrack to the saddle to Sunrise. The slabs straight down are fun, but can be deadly. -Keep on Truckin to Storm Mtn and go down Deaf Smith or Furgison Cyn. Way more fun and scenic! -Try and stay on the ridge of LCC the whole way down (epic) from the Twins  From Alta to the Twin it's about 4-6 miles of ridge climbing 
+route_name: The Cottonwood Traverse  
+route_quality: 0.8 
+route_rating:  YDS: Easy 5th 
+route_rating_original: YDS: 5.6 
+route_type: Trad, Alpine, 25000',  Grade IV 
+route_url: /v/the-cottonwood-traverse/106555969 
+

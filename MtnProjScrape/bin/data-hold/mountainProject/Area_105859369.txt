@@ -1,0 +1,10 @@
+area_name: Daff Dome West Face Rock Climbing  
+area_url: /v/daff-dome-west-face/105859369 
+description: Home of the classic West Crack and other routes. 
+getting_there: To get to the West Crack area, park at Cathedral Creek. Follow a well established climbers' trail across the creek and northeast.  For routes that top out, do the 3rd class walk off. No getting lost, not finding the anchors, waiting to rappel from a perfectly good walk-off. Walk towards Fairview and wander down the path of least resistance (to the south/right). The walk off is only wet if there is snow on the summit or it is raining, so very seldom. It will bring you back to the base of the west face (halfway down), or directly to the approach trail to the south flank (all the way down). 
+id: 105859369 
+latitude: 37.8802 
+longitude:  -119.41392  
+parent_name: DAFF Area 
+parent_url: /v/daff-area/110652491 
+

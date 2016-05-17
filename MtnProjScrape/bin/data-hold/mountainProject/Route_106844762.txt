@@ -1,0 +1,11 @@
+id: 106844762 
+parent_name: Swan Slab 
+parent_url: /v/swan-slab/105841123 
+route_description: Just left of the 5.8 alcove boulder problem there is a flaring crack that is a mix of face/lb/jam. The crux is the first set of moves and climbing gets easier the higher you get. This is a decent lead although short and can be toproped with the tree if you scramble up the easier terrain. If leading take 1-4.5" pro For the bottom and extra long runners for the topanchor. 
+route_name: Unnamed Crack  
+route_quality: 0.4 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, 1 pitch, 30' 
+route_url: /v/unnamed-crack/106844762 
+

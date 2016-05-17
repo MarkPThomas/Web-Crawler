@@ -1,0 +1,10 @@
+area_name: Wonderland South Rock Climbing  
+area_url: /v/wonderland-south/105720633 
+description: The Wonderland of Rocks (aka The Wanderland) is well named due to the mind boggling amount of rock there as well as the complex topography. If you're tired of waiting in line for another route or simply wish to escape the scene this is the place to seek out.   
+getting_there: The Wonderland of Rocks is located just north and east of the Barker Dam Area. Refer to the individual crag pages for more detailed approach information.  Andrew Gram adds: Head right at Echo Rock as if going to Barker Dam. Instead of pulling in to the Barker Dam trailhead, turn right onto a dirt road going to the Desert Queen Mine. Turn left onto another dirt road and there is a small parking area with an outhouse. It is also a short hike from Barker Dam through a wash to get to the same point.   
+id: 105720633 
+latitude: 34.0406 
+longitude:  -116.15  
+parent_name: Wonderland of Rocks 
+parent_url: /v/wonderland-of-rocks/110464750 
+

@@ -1,0 +1,10 @@
+area_name: Five Open Books Rock Climbing  
+area_url: /v/five-open-books/105865908 
+description: This very popular area offers several good routes. Can be quite crowded. Watch out for rockfall. 
+getting_there: Take the Lower Yosemite Falls trail to just before the bridge. Follow a trail to the left. 
+id: 105865908 
+latitude: 37.74875 
+longitude:  -119.59776  
+parent_name: Yosemite Falls Area 
+parent_url: /v/yosemite-falls-area/105865903 
+

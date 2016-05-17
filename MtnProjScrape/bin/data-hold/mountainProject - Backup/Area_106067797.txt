@@ -1,0 +1,10 @@
+area_name: Tourist Trap Rock Climbing  
+area_url: /v/tourist-trap/106067797 
+description: As the name might imply, Tourist Trap is a popular area not only with climbers but also with the passers by.  It lies right off the main "Moses Springs" trail, a mere 5-minute walk from the parking area.  There are a half-dozen or so moderate routes.  The most popular is Rat Race, an improbable 5.7 that surmounts an intimidating roof.  A single rope is sufficient to climb and descend all routes.  Route Index:  Pickpocket - 5.11b Angstrom's Away - 5.10a Wee Little One - 5.8 Rat Face - 5.10+ (TR) Rat Race - 5.7 Happily Married Bachelor - 5.9 Thrill Hammer - 5.8+ Nipple Jam - 5.8 
+getting_there: Park at the upper lot on the East Side (the road terminus past the visitor center).  From here, hike up the "Moses Springs" trail for a short ways, perhaps 5 minutes, looking for a signed "Climber Access" post on the right. 
+id: 106067797 
+latitude: 36.47809 
+longitude:  -121.18544  
+parent_name: East Side 
+parent_url: /v/east-side/107307393 
+

@@ -1,0 +1,10 @@
+area_name: Grand Teton National Park Rock Climbing  
+area_url: /v/grand-teton-national-park/105802912 
+description: Grand Teton National Park offers the climber an array of climbing types, positions, settings and conditions. There's everything from two-pitch sunny crag adventures to mixed alpine endurance testpieces. A more detailed description of the climbing character can be found in the descriptions of each area. 
+getting_there: Grand Teton National Park is located about 10 miles north of Jackson, WY. Directions to specific trailheads can be found in the individual areas.  
+id: 105802912 
+latitude: 43.7407 
+longitude:  -110.803  
+parent_name: Wyoming 
+parent_url: /v/wyoming/105708960 
+

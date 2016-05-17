@@ -1,0 +1,11 @@
+id: 106617435 
+parent_name: Sentinel Creek Area 
+parent_url: /v/sentinel-creek-area/106066238 
+route_description:   This is a good low angle climb up to a great ledge.   Pitch 1) Climb up the offwidth crux to a flat area and belay with gear from blocks under a chimney.   Pitch 2) Continue up the chimney, also a crux, and jam your way to the platform and the belay bolts.   This climb can be done in one long pitch if desired  but most do it in two.  The flat ledge at the top is an awesome place to hang out for a while.  It also is the first belay for The Hand Me Down .10a   Rappel with two ropes. 
+route_name: Tilted Mitten, Right Side  
+route_quality: 0.35 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 2 pitches, 150' 
+route_url: /v/tilted-mitten-right-side/106617435 
+

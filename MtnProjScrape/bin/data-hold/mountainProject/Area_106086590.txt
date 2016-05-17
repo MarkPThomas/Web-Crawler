@@ -1,0 +1,10 @@
+area_name: Valley of the Ten Peaks Rock Climbing  
+area_url: /v/valley-of-the-ten-peaks/106086590 
+description: A "Rim" of Mountains surrounding Moraine Lake.  These ten peaks are just south of Lake Louise with the great Mount Temple guarding the gate into this magnificent area.  
+getting_there: Drive up the hill west of the trans-Canadian highway towards the Chateau, turn south to gain the seasonal road towards Moraine lake.  There is a large parking lot, a hotel and of course, a gift shop. 
+id: 106086590 
+latitude: 51.3264 
+longitude:  -116.1818  
+parent_name: Banff National Park 
+parent_url: /v/banff-national-park/105934221 
+

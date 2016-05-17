@@ -1,0 +1,10 @@
+area_name: Tumbling Rainbow Formation Rock Climbing  
+area_url: /v/tumbling-rainbow-formation/105720837 
+description: The Tumbling Rainbow Formation is identified by the elongated S-shaped crack that splits it in two. This wide crack is its namesake Tumbling Rainbow (5.9 R). Run For Your Life (5.10b) ascends the left face.  Tonic Boom (5.12d), Tic Tic Boom (5.12a), and Rainy Day, Dream Away (5.11b) lie on the right face. Fisticuffs (5.10b), a somewhat wide splitter, lies further downhill to the right.   
+getting_there: From Real Hidden Valley parking area, follow nature trail north to "T" intersection. Head left (NW) on trail. After 100 yards or so, break off west and aim for the highest formation.   
+id: 105720837 
+latitude: 34.01232 
+longitude:  -116.17133  
+parent_name: Real Hidden Valley 
+parent_url: /v/real-hidden-valley/105720636 
+

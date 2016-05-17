@@ -1,0 +1,10 @@
+area_name: Technicolor Wall Rock Climbing  
+area_url: /v/technicolor-wall/105795277 
+description: As part of this wall is South facing, and part east facing, it tends to get a lot of sun, making it a good fall/winter area. Though there is not a huge selection of routes here, there are a few that are of high quality, one of them being Whale's Back (5.11-), a quality long corner splitter hand crack. 
+getting_there: To get there turn off 211 onto the Beef Basin Road (left side of the road past the pond, 8.1 miles beyond newspaper rock). Follow the dirt road past two cattle guards. Do not take the right turn to Bridger Jack camping area, but continue the left trend toward 4x4 wall. At about 2.3 miles past the turn off there will be a parking area on the left side, which is next to a great camping area. Park right around here and to the west you will see the east facing stone that is the east end of technicolor wall. 
+id: 105795277 
+latitude:  
+longitude:  
+parent_name: Indian Creek 
+parent_url: /v/indian-creek/105716763 
+

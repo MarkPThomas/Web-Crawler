@@ -1,0 +1,11 @@
+id: 105874665 
+parent_name: 10 - The Cookie Cliff 
+parent_url: /v/10---the-cookie-cliff/105863743 
+route_description: A large boulder is passed on the old road at the base of the cliff.  This route starts in a straight-in crack behind this boulder. Climb the crack to a belay 70' up.   The second pitch starts with a squeeze chimney. 5.9 hands lead to the top of the Cookie. Climb this and belay.   Rappel. 
+route_name: The Cookie-Center  
+route_quality: 0.6 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 2 pitches, 170' 
+route_url: /v/the-cookie-center/105874665 
+

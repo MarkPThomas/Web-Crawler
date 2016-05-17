@@ -1,0 +1,10 @@
+area_name: Camp 4 Boulders Rock Climbing  
+area_url: /v/camp-4-boulders/105833471 
+description: The so-called Center of the Universe contains some of the best bouldering in Yosemite Valley on massive polished granite boulders. You'll find many classics here such as the unmistakable Midnight Lightning and the Bachar Cracker .  Just a short walk into the woods away from the hustle and bustle of camp can bring one to many of these boulders, perfect for winding down after a long day in the Valley. 
+getting_there: Camp 4 is located on the North side of the Valley, southwest of Yosemite Lodge. 
+id: 105833471 
+latitude: 37.7418 
+longitude:  -119.602  
+parent_name: Yosemite Valley Bouldering 
+parent_url: /v/yosemite-valley-bouldering/107457415 
+

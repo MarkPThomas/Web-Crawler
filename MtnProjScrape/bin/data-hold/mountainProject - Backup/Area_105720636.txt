@@ -1,0 +1,10 @@
+area_name: Real Hidden Valley Rock Climbing  
+area_url: /v/real-hidden-valley/105720636 
+description: Real Hidden Valley is a circular-shaped area - I'm not sure if box canyon is quite the precise term for it, but hopefully you get the idea.  It is home to some J-Tree super-ultra-mega classics such as the delightful Sail Away (easily protected 5.8 crack), the adrenaline-pumping Run For Your Life (5.10b scary runout face/friction), Clean And Jerk (5.10c crack), Leave It To Beaver (5.12a - usually done as a TR), the masochist's dream Fisticuffs (5.10b fists and larger), and of course the ever-popular  Illusion Dweller (5.10b perfect crack).  Sports Challenge Rock and The Thin Wall are excellent (read: popular) top-rope areas, each with a high concentration of fun routes.  Locomotion Rock has a few short, easier routes for the aspiring leader.  Several excellent bouldering problems lie just beyond the parking area (both west and south).  Areas and climbs found outside the canyon itself have now been relocated to Real Hidden Valley Vicinity. 
+getting_there: A short walk south along the now paved road from Hidden Valley Campground puts you in the Real Hidden Valley parking area. 
+id: 105720636 
+latitude: 34.0145 
+longitude:  -116.1713  
+parent_name: Joshua Tree National Park 
+parent_url: /v/joshua-tree-national-park/105720495 
+

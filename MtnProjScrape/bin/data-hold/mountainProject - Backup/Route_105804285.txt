@@ -1,0 +1,11 @@
+id: 105804285 
+parent_name: North Palisade 
+parent_url: /v/north-palisade/105804277 
+route_description: A nice alpine route which is almost out of character for the High Sierra. Save time wherever possible. Also get an alpine start.  From Sam Mack Meadow climb the lefthand gully at the back of the meadow, bear right under the Palisade Glacier moraine, through another shallow gully just to its right (Thunderbolt Peak framed in the notch) and so gradually gain the crest of the moraine. Follow it until it peters out (wonderful views of North Pal) then head straight up to the start of the couloir. About 1 hour from Sam Mack Meadow.  Part 1 The Couloir  In early season it's soft or hard snow by late season it's blue ice.  The first obstacle is crossing the bergschrund, which can be easy in early season and seriously hard in late season. Once established above the couloir suck it up and start climbing. Keep to the right, sometimes a break can be taken in a moat which may be there, there are slings also, for late season ascents. Keep going until reaching a tongue of rock dividing the couloir, skirt left around this and head up into The Notch.  Part 2 The Open Chimney 5.6  To the right lies a steep step which is negotiated using a groove which turns into a chimney in 2 pitches. Towards the top of the 2nd pitch bear right, to exit The Notch just by the summit snowfield.  Part 3 The Ridge  Best soloed or simul-climbed. Cross rocks above the summit snowfield, then, before the First Pinnacle, cross over onto the south side of the ridge and scramble along to eventually reach a well-earned summit. 
+route_name: U-Notch Couloir  
+route_quality: 0.825 
+route_rating:  YDS: 5.6 WI2 M1 
+route_rating_original: YDS: 5.6 WI2 M1 Mod. Snow 
+route_type: Trad, Mixed, Ice, Alpine,  Grade III 
+route_url: /v/u-notch-couloir/105804285 
+

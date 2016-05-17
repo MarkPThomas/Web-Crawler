@@ -1,0 +1,11 @@
+id: 107066681 
+parent_name: Buck's Bar Dome 
+parent_url: /v/bucks-bar-dome/105734267 
+route_description: Hard to start, but if you have good offwidth technique this will be a nice 5.8. If you don't have great technique, this will be a strenuous lieback climb that feel's like 5.10+ 
+route_name: Awful Width  
+route_quality: 0.425 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: TR, 30' 
+route_url: /v/awful-width/107066681 
+

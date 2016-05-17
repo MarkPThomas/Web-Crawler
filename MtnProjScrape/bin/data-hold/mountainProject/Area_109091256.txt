@@ -1,0 +1,10 @@
+area_name: Camp 4 - Misc Problems Rock Climbing  
+area_url: /v/camp-4---misc-problems/109091256 
+description: As individual boulder pages get created for Camp 4, problems that have been on Mountain Project for longer will remain here. 
+getting_there: In and around Camp 4. 
+id: 109091256 
+latitude: 37.74157 
+longitude:  -119.60289  
+parent_name: Camp 4 Boulders 
+parent_url: /v/camp-4-boulders/105833471 
+

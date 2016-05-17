@@ -1,0 +1,11 @@
+id: 105735215 
+parent_name: Buck's Bar Dome 
+parent_url: /v/bucks-bar-dome/105734267 
+route_description: Located in the right section of Buck's Bar dome, this climbascends a broken crack system on the left side that heads upabout 15' to a large rest where you can eat lunch if you'reso inclined. A commiting almost roof move brings you into avery wide vertical crack, which is very obvious from below.  An excellent route, and the commiting move is scary, butdoable, especially with protection. 
+route_name: Unconquerable  
+route_quality: 0.7 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, TR, 1 pitch, 30' 
+route_url: /v/unconquerable/105735215 
+

@@ -1,0 +1,10 @@
+area_name: Middle Spire Rock Climbing  
+area_url: /v/middle-spire/105734537 
+description: The most popular spire at Phantom Spires is the middle spire. It's easy to get to, it's got  a wide variety of routes (5.5 - 5.12) on terrain that varies from very slabby to moderatly overhung.    All the rock is frictiony granite that is often quite knobby.    As a spire in the middle of an open field, the rock is exposed to sun on different sides at different times of the day.  The West side can be quite windy, since the exposed boulder field heading down the hill grabs gusts and throws them up past the spire.   Kandyland (5.10c) is an awesome traditional lead using slings on solid huge knobs for most of the route.   All routes descend via rappel, as there is no really easy way to the top of the spire.  
+getting_there: Approach time: 10 minutes.  From the main parking lot, head uphill to the west out of theparking lot on a moderately wide trail leading through the trees. This trail will wander up and down hillsides through a gully of sorts aiming directly at the Middle Spire, which can be seen at times. The approach trail will run into the Northeast corner of the spire.   
+id: 105734537 
+latitude: 38.7875 
+longitude:  -120.2441  
+parent_name: Phantom Spires 
+parent_url: /v/phantom-spires/105733989 
+

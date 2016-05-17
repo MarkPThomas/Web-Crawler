@@ -1,0 +1,11 @@
+id: 106092782 
+parent_name: The Sentinel - West Face 
+parent_url: /v/the-sentinel---west-face/106621111 
+route_description: This right arching, flaring squeeze with a fist crack in the back starts straight up and eventually curves all the way over to horizontal traversing before it ends at a giant horn feature at the edge of the squeeze chimney of Where Janitors Dare. The crux comes at about the 30' level just before the traversing starts, transitioning from sort of chimneying to a few lieback moves.  The initial section of rock is pretty good, especially inside the flare itself, but where it starts traversing the rock turns extremely rotten. The route was rated 5.8 in older guides, which would be a pretty good sandbag.  A better way to finish this route is to climb to the beginning of the traverse where Great White Buffalo crosses through (bolt just above) and finish on the Buffalo. This gives you the best (and crux) section of Flared Bear, skips the choss, and ups the difficulty a bit. Done this way the overall crux would be the first 8' after leaving Flared Bear, on a tenuous steep lieback to mantle and would weigh in around 10+. The remainder is slightly easier standard Josh slab paddling on very good rock. 
+route_name: Flared Bear  
+route_quality: 0.5 
+route_rating:  YDS: 5.10b 
+route_rating_original: YDS: 5.10b 
+route_type: Trad, 1 pitch, 60' 
+route_url: /v/flared-bear/106092782 
+

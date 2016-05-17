@@ -1,0 +1,11 @@
+id: 105742004 
+parent_name: Dogwood Crag 
+parent_url: /v/dogwood-crag/105739359 
+route_description: Not a hard climb.  Just right of the last line of bolt.  Although I vaguely remember seeing a new line of bolts on the west.   
+route_name: Take Me To The River  
+route_quality: 0.425 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Sport, TR, 1 pitch, 50' 
+route_url: /v/take-me-to-the-river/105742004 
+

@@ -1,0 +1,10 @@
+area_name: Devil's Golf Ball Rock Climbing  
+area_url: /v/devils-golf-ball/105957284 
+description: This is the cool looking formation just out of the Garden of Eden Parking lot.  The formation looks like a golfball on a golf tee.  This is the same parking lot for Owl Rock.  The formation is just out of the parking lot, to the NE.  The route faces the road. 
+getting_there: The Garden Of Eden Parking Lot is 10 miles from the visitors Center   (1 mile from the Windows turn-off) 
+id: 105957284 
+latitude: 38.62569 
+longitude:  -109.59768  
+parent_name: Arches National Park 
+parent_url: /v/arches-national-park/105716757 
+

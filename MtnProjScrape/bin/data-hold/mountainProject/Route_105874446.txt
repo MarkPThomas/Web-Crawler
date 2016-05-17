@@ -1,0 +1,11 @@
+id: 105874446 
+parent_name: 22 - Five and Dime Cliff 
+parent_url: /v/22---five-and-dime-cliff/105870687 
+route_description: [Start] about 20' left of the start of Five and Dime at an obvious right facing corner with a crack system on the left face and another in the back of the corner. Serves as the standard warm up pitch. Great pro, mainly in the tight hands size, but will take from fingers to fist at different points. At the top, I've always went into the chimney rather than stay in the crack on the left face. Crux is about halfway up, transitioning between the crack systems with cool stemming. The chimney section will pro with hand or fist sized pieces, but is short, secure and easy.  
+route_name: Keystone Corner  
+route_quality: 0.625 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 1 pitch, 80' 
+route_url: /v/keystone-corner/105874446 
+

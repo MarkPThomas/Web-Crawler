@@ -1,0 +1,11 @@
+id: 105801001 
+parent_name: f. The Guides' Wall (Madame G's) 
+parent_url: /v/f-the-guides-wall-madame-gs/107051389 
+route_description: My personal favorite at this grade.  Often very busy though.  Start left of Minty: from where the trail hits the cliff, walk about 50' left past the thin crack of Snooky's Return to an obvious right-leaning crack.  P1: Either climb the crack (harder) or corners just left to a ledge.  Continue up and step right and then up to a good belay (even with the top of Snooky's). 5.3, 75'.  It's possible to walk right to the rap anchor there if you need to descend.  P2: Climb up the big corner above.  About 40' up, it's easier to work left onto the face instead of staying in the corner.  If you find the moves are harder than 5.4 you need to go left.  Work left on a ledge system to a right-facing corner - climb up this to a comfy belay on the GT ledge. 5.4, 120'.  P3: Climb up a left-facing corner about 10' to a roof, clip an old pin, and avoid it around to the right.  Then up easy ground to another roof - step left at this one (spectacular exposure) and then up to the top. 5.3, 60'.  Descend via the Uberfall Descent (left) or over Snooky's Return (right about 100');  be very careful of climbers below, if you rappel, remembering that climbers have the right-of-way. 
+route_name: Beginner's Delight  
+route_quality: 0.775 
+route_rating:  YDS: 5.4 
+route_rating_original: YDS: 5.4 
+route_type: Trad, 3 pitches, 250' 
+route_url: /v/beginners-delight/105801001 
+

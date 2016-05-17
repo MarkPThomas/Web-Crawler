@@ -1,0 +1,10 @@
+area_name: Estes Park Valley Rock Climbing  
+area_url: /v/estes-park-valley/105801865 
+description:  
+getting_there: Estes Park is the gateway community to the eastern side of Rocky Mountain National Park.  This small town can be reached from Denver via US 36 through Boulder & Lyons with an hour plus drive.  You can access it from further N of Denver (like Ft. Collins) via US 34.  You can access it from the S via the winding CO 7 (Peak to Peak Hwy) from communities like Nederland & Allenspark.  Finally, you can access it from the W on US 34 (aka Trail Ridge Rd) during summer months.  Once in town, the hillside N of town is the classic Lumpy Ridge.  Other various crags can be accessed via smaller roads described in the specific areas.  Map of Estes Park 
+id: 105801865 
+latitude: 40.39755 
+longitude:  -105.51766  
+parent_name: Colorado 
+parent_url: /v/colorado/105708956 
+

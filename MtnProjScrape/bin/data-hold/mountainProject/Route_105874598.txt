@@ -1,0 +1,11 @@
+id: 105874598 
+parent_name: Pat and Jack Pinnacle 
+parent_url: /v/pat-and-jack-pinnacle/105870715 
+route_description: Climb the crack left of "Knob Job".   Rappel or climb a second pitch. 
+route_name: Nurdle  
+route_quality: 0.625 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 1 pitch 
+route_url: /v/nurdle/105874598 
+

@@ -1,0 +1,10 @@
+area_name: El Capitan Base Routes Rock Climbing  
+area_url: /v/el-capitan-base-routes/105841115 
+description: The base of El Capitan is home to numerous dreamy classic climbs to cut your teeth on while gazing up at the Big Stone. 
+getting_there: Park in El Cap Meadows area and hike the trail up to the base. Figure on about 10 minutes for the approach. 
+id: 105841115 
+latitude: 37.7286 
+longitude:  -119.6371  
+parent_name: Yosemite Valley 
+parent_url: /v/yosemite-valley/105833388 
+

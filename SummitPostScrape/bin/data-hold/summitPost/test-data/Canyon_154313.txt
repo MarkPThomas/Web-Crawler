@@ -290,7 +290,7 @@ date:
 difficulty:  
 elevation:  
 grade:  
-hits: 18550  
+hits: 18556  
 id: 154313 
 latitude: 40.5731 
 location: Utah, United States, North America 
@@ -298,7 +298,7 @@ longitude: -111.7761
 my_route_quality:  
 name: Little Cottonwood Canyon 
 number_of_pitches:  
-page_url: http://www.summitpost.org/little-cottonwood-canyon/154313 
+page_url: /little-cottonwood-canyon/154313 
 parent_code: 171209 
 parent_name: Wasatch Range (Central) 
 parent_url: /wasatch-range-central/171209 

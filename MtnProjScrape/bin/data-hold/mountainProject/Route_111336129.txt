@@ -1,0 +1,11 @@
+id: 111336129 
+parent_name: Swan Slab 
+parent_url: /v/swan-slab/105841123 
+route_description: This route combines Grant's Crack with the 5.6 chimney above the small belay tree. If you know the name of the route, please leave it in the comments so they I may update it.  Climb Grant's crack or Oak Tree Flake to the belay tree. Second pitch is 5.6-7 depending on where you go, but it's all laid back. Continue up above chimney and slightly right. If you have a 70m rope, you can belay from the large ledge next to the walk off for Swan Slab Gully's 3rd pitch. 60m brings you to a slightly awkward belay on some dirt and grass mounds with large flakes.  There is an old rusted bolt atop the 5.6 chimney. 
+route_name: 5.6 Chimney Above Grant's  
+route_quality: 0.7 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 2 pitches, 300' 
+route_url: /v/56-chimney-above-grants/111336129 
+

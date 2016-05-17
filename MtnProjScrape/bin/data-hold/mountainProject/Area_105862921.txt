@@ -1,0 +1,10 @@
+area_name: 19 - New Diversions Rock Climbing  
+area_url: /v/19---new-diversions/105862921 
+description: This is a nice little cragging cliff that gets shade and is home to a few easier (5.9 - 5.10) climbs of one to three pitches in length.  The namesake climb is the classic -- a crazy wide crack and knob climbing affair. 
+getting_there: Drive out of the park on 140 and park at the pulloff near the old generator plant.  Walk up the road two hundred feet or so and pick up an excellent trail that leads up to the cliff.  Hiking time is about 10 minutes. 
+id: 105862921 
+latitude: 37.72264 
+longitude:  -119.70258  
+parent_name: Lower Merced River Canyon 
+parent_url: /v/lower-merced-river-canyon/110464982 
+

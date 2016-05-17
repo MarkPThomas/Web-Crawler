@@ -1,0 +1,11 @@
+id: 106061987 
+parent_name: All Winter Ice Routes - Chimney Pond & other Sub-Areas  
+parent_url: /v/all-winter-ice-routes---chimney-pond--other-sub-areas-/111173536 
+route_description: This broad snow and ice gulley is the most distinct line in the Chimney Pond Cirque of the Katahdin Massif. When I did it, there was more ice and less snow than usual. The first two pitches are usually ice climbing at NEI2-3. These top out into a large bowl-like snow gulley that continues for the majority of the climb. Simul over some ice bulges and steep snow for a couple hundred of feet. The crux pitch is somewhere around what would be Pitch 9. This pitch can have wind-swept overhanging mushrooms of ice, but we were able to skirt around them. The last two or so pitches are cruiser snowy and rocky climbing. Top out to the infamous Knife Edge Ridge.      
+route_name: Cilley-Barber  
+route_quality: 0.975 
+route_rating: WI4- 
+route_rating_original: WI4 
+route_type: Trad, Ice, 7 pitches, 1000',  Grade IV 
+route_url: /v/cilley-barber/106061987 
+

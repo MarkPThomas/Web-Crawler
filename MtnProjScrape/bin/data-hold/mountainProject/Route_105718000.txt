@@ -1,0 +1,11 @@
+id: 105718000 
+parent_name: The Three Penguins 
+parent_url: /v/the-three-penguins/105717122 
+route_description: This route is pretty darn good, especially if you like off-widths.  Approach up talus and across a ledge system from the right of the formation.  Head around the base to the left - this is the first crack system in a dihedral you come to.  The first pitch of the route basically starts at fingers and works its way to fists - the crux being getting over the obvious bulge.  Belay at fixed anchors 2/3 the way up the tower.  The last third of the tower is a delightful struggle up a flaring off-width - the definite crux of the route.  "Chimney" is a misnomer for this thing, the only thing I could squeeze in there were chicken wings and knees.  Two ropes gets you completely off the route, but it looked feasible to do it in two, single rope rappels. 
+route_name: Right Chimney  
+route_quality: 0.85 
+route_rating:  YDS: 5.10+ 
+route_rating_original: YDS: 5.10+ 
+route_type: Trad, 2 pitches, 150' 
+route_url: /v/right-chimney/105718000 
+

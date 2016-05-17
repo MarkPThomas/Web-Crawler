@@ -1,0 +1,10 @@
+area_name: Trashcan Rock Rock Climbing  
+area_url: /v/trashcan-rock/105720807 
+description: Trashcan Rock hosts a high concentration of easier routes (5.0 - 5.6), a few moderates (5.7 - 5.9), and a few harder routes (5.10 - 5.11). None of the climbs are super-megaclassics, but it is a popular destination nonetheless.  Several routes warrant an 'R' or 'X' rating, and as such there are usually quite a few topropes and the accompanying mayhem of beginner groups.  Perhaps a good place to avoid on the weekends.  Descend all routes by walking down the north side.   
+getting_there: The Quail Springs Day Use Area is the first major landmark on your right if you are driving in from the West Entrance of the Park (i.e., the town of Joshua Tree). It is about 6 miles from the West Entrance kiosk and is signed.  Trashcan Rock lies about 10' from the parking area.  It's east face faces the main road.   
+id: 105720807 
+latitude: 34.0401 
+longitude:  -116.197  
+parent_name: Quail Springs Area 
+parent_url: /v/quail-springs-area/105720621 
+

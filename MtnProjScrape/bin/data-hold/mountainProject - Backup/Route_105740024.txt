@@ -1,0 +1,11 @@
+id: 105740024 
+parent_name: Crescent Crack Buttress 
+parent_url: /v/crescent-crack-buttress/105739365 
+route_description: Keep walking uphill from Crescent Crack past Mexican Crack until you see two chimneys and a couple of bolted routes.  To the left of the chimneys is a 60' finger and thin hand crack - this is it.    Climb a few feet up an easy chimney, and then climb the steep but bomber thin hands crack over a small bulge.  Mostly 5.8 with a couple of harder moves.  There are chains at the top, or better yet continue up Hand Jive. 
+route_name: Crack in the Woods  
+route_quality: 0.55 
+route_rating:  YDS: 5.8+ 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 1 pitch, 50' 
+route_url: /v/crack-in-the-woods/105740024 
+

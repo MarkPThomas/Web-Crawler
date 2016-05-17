@@ -1,0 +1,11 @@
+id: 107077673 
+parent_name: Yin and Yang Cliff 
+parent_url: /v/yin-and-yang-cliff/105732105 
+route_description: Follow a fun corner to the top of the formation, via hand and fist cracks, using face holds to keep the grade reasonable.  Crux comes right at the start. 
+route_name: Miniwanka  
+route_quality: 0.4 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, 1 pitch, 40' 
+route_url: /v/miniwanka/107077673 
+

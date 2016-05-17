@@ -1,0 +1,11 @@
+id: 105920520 
+parent_name: The Pickle 
+parent_url: /v/the-pickle/105920506 
+route_description: Follow the obvious bolt ladder past an intermediate anchor to a few free moves at the top. 
+route_name: Standard Route  
+route_quality: 0.55 
+route_rating:  YDS: 5.7 C0 
+route_rating_original: YDS: 5.7 C1 
+route_type: Trad, Aid, 1 pitch, 90' 
+route_url: /v/standard-route/105920520 
+

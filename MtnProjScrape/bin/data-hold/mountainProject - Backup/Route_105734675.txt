@@ -1,0 +1,11 @@
+id: 105734675 
+parent_name: Pinnacle Rock 
+parent_url: /v/pinnacle-rock/105734123 
+route_description: An off-width crack that would pose severe difficulty were it not at such a kind angle.I loved the climb but i don't mind getting dirty.  If you do mind getting dirty it may not be worth it. 
+route_name: Offwidth Crack  
+route_quality: 0.5 
+route_rating:  YDS: 5.8 R 
+route_rating_original: YDS: 5.8 R 
+route_type: TR, 1 pitch, 20' 
+route_url: /v/offwidth-crack/105734675 
+

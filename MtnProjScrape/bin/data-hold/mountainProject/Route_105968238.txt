@@ -1,0 +1,11 @@
+id: 105968238 
+parent_name: The Testes 
+parent_url: /v/the-testes/105968234 
+route_description: This climb is listed in Eric's Desert Rock as II 5.9, A1+.  It is actually I 5.9.  (Although I'm sure you could aid off the drilled angle and call it A1+ if you wish.).  When we did the climb, there was a drilled hole for a piton (which was missing)and that was the aid move.  We inserted a piton in the hole (and left it ), free climbing past it (At 5.9), and went to the summit.  It's a summit, an easy tick, and fun enough.  There is a route on the Right Teste, for you can see a rap anchor directly across while you are climbing the Left one.  
+route_name: Left Nut  
+route_quality: 0.575 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 1 pitch, 150' 
+route_url: /v/left-nut/105968238 
+

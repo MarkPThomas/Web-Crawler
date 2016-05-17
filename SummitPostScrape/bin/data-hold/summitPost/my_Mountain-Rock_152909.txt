@@ -55,7 +55,7 @@ date:
 difficulty:  
 elevation: 13390 
 grade:  
-hits: 13398  
+hits: 13404  
 id: 152909 
 latitude: 37.0886 
 location: California, United States, North America 
@@ -63,7 +63,7 @@ longitude: -118.495
 my_route_quality:  
 name: Mount Jepson 
 number_of_pitches:  
-page_url: http://www.summitpost.org/mount-jepson/152909 
+page_url: /mount-jepson/152909 
 parent_code: 171074 
 parent_name: Palisades 
 parent_url: /palisades/171074 

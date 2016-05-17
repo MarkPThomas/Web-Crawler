@@ -1,0 +1,10 @@
+area_name:  6 - Finger Lickin' Area Rock Climbing  
+area_url: /v/-6---finger-lickin-area/106578516 
+description: sunny most of the day, good winter destination 
+getting_there: From Arch Rock entrance drive 0.9 mile toward the Valley and park on river side on paved parking. Walk up the h/w 140 for about 100-150 yards looking for trail on the hill side. The trail is very steep and has lot of scree, but relatively short. 10 min you reach fork with short wall 50' tall with "Snatch Power" on the right. Continue 5 min up to reach the base of Finger Licking 
+id: 106578516 
+latitude: 37.69835 
+longitude:  -119.7238  
+parent_name: Lower Merced River Canyon 
+parent_url: /v/lower-merced-river-canyon/110464982 
+

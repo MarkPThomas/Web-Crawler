@@ -1,0 +1,11 @@
+id: 106068037 
+parent_name: Foundry, The 
+parent_url: /v/foundry-the/105837807 
+route_description: The obvious squeeze chimney starting with a couple of face moves and handcrack, pulling into the bottom of the chimney (a little awkward), then straightforward easy knee and foot chimney, ending with a short bit of crack/face (crux) pulling out of the top of the chimney section. Tops out on a nice big ledge.  
+route_name: Jumar of Flesh  
+route_quality: 0.675 
+route_rating:  YDS: 5.9+ 
+route_rating_original: YDS: 5.9+ 
+route_type: Trad, 1 pitch, 50' 
+route_url: /v/jumar-of-flesh/106068037 
+

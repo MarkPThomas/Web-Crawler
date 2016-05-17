@@ -1,0 +1,11 @@
+id: 106770038 
+parent_name: West Wall Outer (Buckets to Burbank Area) 
+parent_url: /v/west-wall-outer-buckets-to-burbank-area/106342207 
+route_description: Cool OW crack behind the Buckets to Burbank Wall. Faces same way as Buckets to Burbank Wall.  
+route_name: La Bella Katchina  
+route_quality: 0.425 
+route_rating:  YDS: 5.10- 
+route_rating_original: YDS: 5.10- 
+route_type: Trad, 1 pitch, 50' 
+route_url: /v/la-bella-katchina/106770038 
+

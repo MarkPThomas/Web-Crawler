@@ -1,0 +1,10 @@
+area_name: Castle Rock Rock Climbing  
+area_url: /v/castle-rock/105790784 
+description: Castle Rock is home to many of the classic climbs in Tumwater Canyon, and is home to Washington's first multipitch, technical rock climb (Midway, Fred Beckey 1948).  Historic climbs such as Angel Crack and Midway offer options for trad leaders seeking a range of difficulty from challenging to mellow routes.  In general, the rock quality is excellent though many routes are highly polished from extensive traffic.  Pitches leading to the summit of Castle rock can be somewhat indistinct and somewhat runout, offering an adventuresome feel on a well-traveled formation.  Castle Rock faces predominately southwest and can get a lot of sun.  The rock is split by Logger's Ledge, a wide ledge halfway up the formation.  Climbs on upper Castle begin from this ledge, which is reached by an obvious trail from the parking lot.  Climbs on the lower half begin near the parking lot.  To descend from climbs which reach the summit of Castle Rock, follow a good climber's trail off the back of the formation down to Loggers Ledge. 
+getting_there: Drive approximately 2 miles west up Highway 2 from Leavenworth.  There is a large dirt parking lot on the "north" side of the road.  From this parking lot, a signed trail leads to Logger's Ledge and upper Castle Rock.  The approach is 10-15 minutes. 
+id: 105790784 
+latitude: 47.59967 
+longitude:  -120.71235  
+parent_name: Tumwater Canyon 
+parent_url: /v/tumwater-canyon/105794001 
+

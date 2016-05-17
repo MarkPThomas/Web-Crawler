@@ -1,0 +1,11 @@
+id: 105804358 
+parent_name: Temple Crag 
+parent_url: /v/temple-crag/105804351 
+route_description: Climbs the middle of the Celestial Aretes.  Gain the start of the climb by traversing a ledge leftwards which leads to the buttress. Scramble up for a few hundred feet to where the rock gets steeper; rope up here. Several moderate pitches lead to the first impasse, a gendarme which is bypassed on the right with a super-exposed traverse (5.7). Climb down to the base of the Ibrium Tower. A cracks lead to a platform and the second impasse below the flawless section of the Tower (5.8). Pass around to the right, very exposed, and continue to traverse (loose in parts) until cracks lead back to the top of the Tower (5.8). Continue to follow the crest of the ridge, tackling impasses (5.7 or so) until the easy back slopes of Temple Crag are reached. Hike to the summit if there's time - it's worth the view.  
+route_name: Moon Goddess Arete  
+route_quality: 0.8 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, Alpine, 18 pitches, 2000',  Grade IV 
+route_url: /v/moon-goddess-arete/105804358 
+

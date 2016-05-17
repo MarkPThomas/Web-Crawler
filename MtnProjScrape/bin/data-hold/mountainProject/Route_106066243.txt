@@ -1,0 +1,11 @@
+id: 106066243 
+parent_name: Sentinel Creek Area 
+parent_url: /v/sentinel-creek-area/106066238 
+route_description: This is classic route that has not seen much traffic. The entire route is following right facing corner from pitch 2 to the end. Considered as a good step forward on the road to Twilight Zone  supertopo.com/climbing/thread.... After climbing this route twice I still think this is true 10c, and despite that all individual moves there is  easier that start of Generator Crack - you do crux section in the middle of pitch 3 with huge rack and you already not fresh. No way it is 5.9  - it is  5.10 Using one 70m rope is a best for climb and rappel this route. With 60m rope you can have down-climb several feet while rappelling p3   P1. Dirty and not well defined pitch. Bad pro. Start from the tree. First move is very insecure. My partner started on my shoulders to reach a jug.  Do not stop at the tree with the rappel slings, - but continue to the  right facing corner - the base of pitch 2. Gear belay.  100' , 5.7-5.8.  P2. This is stellar  off fingers- thin hands pitch.  100', 10c, Two bolts belay. double Red aliens,  Camalots 2 #0,75 2#1, 2#2 2#3, nuts. There is a new bolt 30 feet up on this pitch.  P3. The crux pitch. It has no well defined  cruxes, but I felt two harder sections at about one third and two third of the  of this pitch. Most of the pitch is easier to stay right side in, except of last 20 feet , where is thin crack appears on the right side which I used for small gear. You can walk #5C4 Camalot all the way except of first 25 feet. Pro in order of appearance : #3 Cam, #4 Friend, #4 Friend, #4C4 Cam, #5 Friend , #2 BigBro, #5C4 Cam, #5Cam (old), #3 BigBro, Yellow alien, Green Alien, Blue Alien, Green Alien, Red Alien, #5C4 Cam.  110 feet. 10C. Two bolts belay  P4. OW 10c section there is short.  But 5.8 move - entering in chimney with head jam - is amazing and remarkable. Its remind the entering in SS Narrows, but with different body positioning. 70 feet, 10c. Gear belay.  P5. Can be linked with p4, unless you got a tremendous rope drug. Probably possible with double rope system. 30 feet , 5.8-5.9. Two bolts  
+route_name: Mental Block  
+route_quality: 0.875 
+route_rating:  YDS: 5.10c 
+route_rating_original: YDS: 5.10c 
+route_type: Trad, 5 pitches, 400',  Grade III 
+route_url: /v/mental-block/106066243 
+

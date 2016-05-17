@@ -1,0 +1,10 @@
+area_name: Mariuolumne Area Rock Climbing  
+area_url: /v/mariuolumne-area/111838110 
+description: Mariuolumne Dome, Drug Dome and Lamb Dome are all reached from the same pullout off highway 120. 
+getting_there: Park just south/west from Lamb dome. 
+id: 111838110 
+latitude: 37.86872 
+longitude:  -119.42922  
+parent_name: Tuolumne Meadows 
+parent_url: /v/tuolumne-meadows/105833384 
+

@@ -1,0 +1,10 @@
+area_name: Split Rocks Rock Climbing  
+area_url: /v/split-rocks/105720582 
+description: Split Rocks is named for the large split rock (go figure) immediately north of the parking area.  Please do not climb on Split Rock proper.  The two most popular areas in this part of the park are Future Games Rock and Isles in the Sky.  Must-do routes here include the slightly overhanging Bird Of Fire (5.10a) and the unique Rubicon (5.10d).  The  Future Games Area  has several nice lines, notably Invisibility Lessons (5.9), Continuum (5.8+), and The Bendix Claws (5.11a).  The somewhat off-the-beaten-path Isles Corridor hosts a handful of fun cracks with not so memorable names, while the Cling or Fling Corridor offers a few cool steep sport routes.   
+getting_there: The Split Rocks Area is located just beyond Jumbo Rocks Campground along the main road. Driving east, turn left (north) 1.2 miles past Jumbo, and park at the end of the cul-de-sac. 
+id: 105720582 
+latitude: 34.0094 
+longitude:  -116.0558  
+parent_name: Joshua Tree National Park 
+parent_url: /v/joshua-tree-national-park/105720495 
+

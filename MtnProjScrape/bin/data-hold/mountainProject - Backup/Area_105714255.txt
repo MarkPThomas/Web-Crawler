@@ -1,0 +1,10 @@
+area_name: Needles Eye Rock Climbing  
+area_url: /v/needles-eye/105714255 
+description: The Needles Eye area is located along the Needles Highway next to its namesake spire and the long one lane tunnel.  Besides the Needles Eye itself, many other classic spires like the Bell Tower, Hitching Post, and Bloody Spire as well as great boulders like the Thimble are in the area.  Many of these routes are dangerous, but there are some classic moderates and even the odd sport route. 
+getting_there: From Sylvan Lake, head up the Needles Highway.  The Needles Eye is the obvious spire before the tunnel, which is usually easily identifiable by hordes of tourists milling around.  Spires are scattered in the woods both up and downhill from the parking lot, and as with everywhere else in the Needles orientation is difficult on your first few visits. 
+id: 105714255 
+latitude: 43.8417 
+longitude:  -103.5458  
+parent_name: Custer State Park 
+parent_url: /v/custer-state-park/106058091 
+

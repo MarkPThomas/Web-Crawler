@@ -1,0 +1,11 @@
+id: 105722629 
+parent_name: Trashcan Rock - East Face 
+parent_url: /v/trashcan-rock---east-face/106670367 
+route_description: Starts at the right end of the East Face of Trashcan Rock, facing the road and at the back of a small cove of rock. The very rightmost crack, just a few feet left of Left Sawdust Crack. A short, clean hand crack on good rock but a little meat-tenderizer inside. Not too bad though. Leans a little left and is a touch awkward for the grade but nothing to worry about. Not terribly memorable but a good warmup if you're in the area. 
+route_name: Right Sawdust Crack  
+route_quality: 0.425 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 1 pitch, 40' 
+route_url: /v/right-sawdust-crack/105722629 
+

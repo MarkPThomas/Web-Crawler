@@ -1,0 +1,11 @@
+id: 105741734 
+parent_name: Narcolepsy Area 
+parent_url: /v/narcolepsy-area/105739449 
+route_description: This is the crack system left of Dream Slate, that works left of the flake that you put an SLCD in for Dream Slate.  It works through a slot in the roof layer and then angles right, past a tree and finishes within arm's reach of the chains.  The pre-roof crack is fun, just a bit dirty, but fun, and it protects well.  The roof is also fun (not 5.9), but fun.  I felt like 5.8.  Above the roof, it gets dirty, rotten, easy, and almost no gear.  Worth one ascent, no more, no less. 
+route_name: Suture Fancy  
+route_quality: 0.45 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, TR, 1 pitch, 80' 
+route_url: /v/suture-fancy/105741734 
+

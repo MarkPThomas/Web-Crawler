@@ -1,0 +1,11 @@
+id: 105740477 
+parent_name: Lisa Falls Buttress 
+parent_url: /v/lisa-falls-buttress/105739533 
+route_description: To the right of the waterfall, in front of a large vandalized boulder are 2 bolted routes.  This is the right route.  Climb up the small crack to the ledge, clip the bolt and make your move.  The difficulty eases a bit the rest of the way.   
+route_name: Flee Flicker  
+route_quality: 0.425 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Sport, 1 pitch, 60' 
+route_url: /v/flee-flicker/105740477 
+

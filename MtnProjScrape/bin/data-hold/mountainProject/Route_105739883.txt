@@ -1,0 +1,11 @@
+id: 105739883 
+parent_name: Storm Mountain Island 
+parent_url: /v/storm-mountain-island/105739353 
+route_description: This route starts just to the right of the base of Six Pence, which is not at all clear in Ruckman's book.  From either direction along the wall, scramble up a short talus slope to the base.  I used the bolted short first pitch as an easy top-rope to teach a new climber, but more convenient places could probably be found.  DESCENT: Scramble down to the left from the top of first pitch.  From the top of the second pitch, walk off to the west and then take the main path down to the north. 
+route_name: Bolt Route  
+route_quality: 0.25 
+route_rating:  YDS: 5.4 
+route_rating_original: YDS: 5.4 
+route_type: Trad 
+route_url: /v/bolt-route/105739883 
+

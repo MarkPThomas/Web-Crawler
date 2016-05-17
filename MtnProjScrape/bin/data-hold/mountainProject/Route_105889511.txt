@@ -1,0 +1,11 @@
+id: 105889511 
+parent_name: Bugaboo Spire 
+parent_url: /v/bugaboo-spire/105868068 
+route_description: A classic moderate alpine rock route of the highest caliber. Excellent rock on one of North America's great peaks.  The route begins at the Crescent/Bugaboo Col, to reach this cross the Crescent Glacier, then climb Class 4 rock (pretty scary in the dark) to the Col. Make an alpine start.  The route starts on the left of a small pinnacle, and for the first three pitches keeps left of the crest of the ridge proper (5.7 maximum). The rest of the route follows the crest, up fun cracks, and then chimneys (5.7 maximum) to a final puzzling bit up over a block to the North Summit, so around to the right (SW), and then up to the top.  Descent (avoiding the South Summit): Take exposed ledges on the NE side and head for a vee notch left of the South Summit. There's a rappel anchor here which will take you, with some scambling down to the Kain Route - descend the Kain Route, rappeling when necessary until easier ground and scambling leads to the Bugaboo/Snowpatch Col. Descend this with caution. 
+route_name: North East Ridge  
+route_quality: 0.975 
+route_rating:  YDS: 5.8- 
+route_rating_original: YDS: 5.7 
+route_type: Trad, Alpine, 10 pitches, 1500',  Grade IV 
+route_url: /v/north-east-ridge/105889511 
+

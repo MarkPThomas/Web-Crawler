@@ -1,0 +1,11 @@
+id: 105900951 
+parent_name: Tenaya Peak 
+parent_url: /v/tenaya-peak/105899977 
+route_description: This route features very easy climbing, but great exposure and views. Most of it can be simulclimbed. There are only two or three somewhat technical pitches near the summit.  Low down there really is not one best way to go. Just up.  From a large ledge halfway up the face, the ridge starts to lead the the west side.  Most will simul-climb or solo the bottom 3/4. Up high you can make it easy or hard.  We stayed on the right side of the ridge and belayed on great ledges (kept some pitches short because this route has some loose rock). I think that you can find a 5.8 pitch out left just before the summit, but this looked loose. 
+route_name: Northwest Buttress  
+route_quality: 0.8 
+route_rating:  YDS: 5.5 
+route_rating_original: YDS: 5.5 
+route_type: Trad, Alpine, 14 pitches, 1400',  Grade II 
+route_url: /v/northwest-buttress/105900951 
+

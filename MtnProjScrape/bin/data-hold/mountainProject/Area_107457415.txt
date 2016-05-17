@@ -1,0 +1,10 @@
+area_name: Yosemite Valley Bouldering Rock Climbing  
+area_url: /v/yosemite-valley-bouldering/107457415 
+description: Includes:  Turtle Dome Bridalveil Boulders Lower Cathedral Gunsight Boulders Cathedral Boulders Lost Boulders Candyland Boulders Presidential Boulder Sentinel Boulders Chicken Boulder Housekeeping Curry Village Happy Isles Horse Trail Boulders Ahwahnee Boulders Indian Creek Boulders Lower Yosemite Falls Swan Slab Boulders Camp 4 Boulders The Crystals Yabo Boulder The Bachar Boulder MSG Boulder The Wave Intersection Boulders Knobby Wall 
+getting_there: Refer to specific areas for approach details. 
+id: 107457415 
+latitude: 37.7416 
+longitude:  -119.60153  
+parent_name: Yosemite Valley 
+parent_url: /v/yosemite-valley/105833388 
+

@@ -1,0 +1,11 @@
+id: 105911338 
+parent_name: Sugarloaf, West Face 
+parent_url: /v/sugarloaf-west-face/105734495 
+route_description: This is either a second pitch to West Chimney or Pony Express.  Starts 40' directly south (downhill) of the top of p1 of Pony Express.  Belay in a shady alcove,  start up a slick face squeeze with a finger crack on the wall that takes good pro from #2 camalot to finger sizes.  Pull out into handcrack and face on good knobs.  Turns to lower angle wide fist, with good feet on the face.    Then get down to business as you pull into a squeeze.  A helmet will hose you here.  There is a good horizontal rail that you can get gear in, which will help keep the rope running outside the crack.  My partner somehow got a #4 camalot deep in the crack.  I could barely retrieve it with my nut tool.    With your feet on that good rail, commit to the bombay squeeze.  My partner led this right side in, I followed left side in.  squirm till you hit some thank god rails.    A couple more easier chimney moves lead to pulling over, and easy slab to the top. 
+route_name: TM's Deviation  
+route_quality: 0.85 
+route_rating:  YDS: 5.9+ 
+route_rating_original: YDS: 5.9+ 
+route_type: Trad, 2 pitches, 300' 
+route_url: /v/tms-deviation/105911338 
+

@@ -1,0 +1,10 @@
+area_name: Reservoir Ridge Rock Climbing  
+area_url: /v/reservoir-ridge/105739473 
+description: An easy ridge that climbs for 3 pitches.  It starts at the end of a concrete "walkway".  There are also some routes on the East face of this ridge.  The ridge climb is trad, the east face sports bolted routes and 1 trad route, on relaxed slabby quartzite. 
+getting_there: Storm Mountain Picnic area is the location.  North of the Reservoir along a concrete "trail"   
+id: 105739473 
+latitude: 40.62638 
+longitude:  -111.74488  
+parent_name: Storm Mountain Picnic Area 
+parent_url: /v/storm-mountain-picnic-area/105798348 
+

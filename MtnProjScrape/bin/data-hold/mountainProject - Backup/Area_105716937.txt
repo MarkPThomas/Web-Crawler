@@ -1,0 +1,10 @@
+area_name: Tower of Babel Rock Climbing  
+area_url: /v/tower-of-babel/105716937 
+description: The Tower of Babel is the huge impressive fin just north of the Courthouse Towers parking lot.  Its most striking feature is the narrow vertical face leading directly to the summit, which is only a few steps from the road.  The classic aid route Zenyatta Entrada links thin cracks systems on this stunning feature.     
+getting_there: This couldn't be easier.  Park at the Courthouse Towers lot, and walk about 200 feet on the road to the base of the tower.  Done.  I doubt there is an easier approach to a Grade IV anywhere in the country.   
+id: 105716937 
+latitude: 38.64101 
+longitude:  -109.60209  
+parent_name: Arches National Park 
+parent_url: /v/arches-national-park/105716757 
+

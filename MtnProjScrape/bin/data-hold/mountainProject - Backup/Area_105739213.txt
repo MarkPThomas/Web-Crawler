@@ -1,0 +1,10 @@
+area_name: Wasatch Range Rock Climbing  
+area_url: /v/wasatch-range/105739213 
+description:  
+getting_there:  
+id: 105739213 
+latitude: 40.5618 
+longitude:  -111.687  
+parent_name: Utah 
+parent_url: /v/utah/105708957 
+

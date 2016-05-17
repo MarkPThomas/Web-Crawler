@@ -1,0 +1,11 @@
+id: 105996559 
+parent_name: Swan Slab 
+parent_url: /v/swan-slab/105841123 
+route_description: Just left of Swan Slab Gully is this fun, short route.  Lieback and jam flake to its top, then traverse up and right to the tree anchor shared with Swan Slab Gully.  Use a directional if toproping. 
+route_name: Penelope's Problem  
+route_quality: 0.6 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, 1 pitch, 80' 
+route_url: /v/penelopes-problem/105996559 
+

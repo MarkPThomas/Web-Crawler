@@ -1,0 +1,11 @@
+id: 105740045 
+parent_name: Schoolroom Area 
+parent_url: /v/schoolroom-area/105739413 
+route_description: Bushwhack Crack is a very fine, beautiful jam crack on the right side of the Schoolroom wall.  It is the obvious straight in splitter with several trees in it about 100' up.  The first pitch is a 3-star pitch, too bad it is not longer!  P1)  5.8 Climb the thin hands crack, passing the crux right off the deck.  Continue up, with the crack turning to fists near the belay.  The first pitch ends at a set of chain anchors and a small foot ledge.  Many people rap at this point (one rope), but the second pitch is also pretty good.  P2)  5.7 Continue up the crack through the trees, angling right until a crack starts going straight up.  Climb this (low angle) to a thin traverse at a chicken head.  Continue easily to the right with a tree with anchors.  Descent) Downclimb 10 - 15 feet to a set of chain anchors on the face.  Rap 100' down to the deck. 
+route_name: Bushwhack Crack  
+route_quality: 0.775 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 2 pitches, 250' 
+route_url: /v/bushwhack-crack/105740045 
+

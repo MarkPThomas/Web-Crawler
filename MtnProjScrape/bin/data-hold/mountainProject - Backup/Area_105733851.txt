@@ -1,0 +1,10 @@
+area_name: San Francisco Bay Area Rock Climbing  
+area_url: /v/san-francisco-bay-area/105733851 
+description:  
+getting_there:  
+id: 105733851 
+latitude: 37.81843 
+longitude:  -122.28806  
+parent_name: California 
+parent_url: /v/california/105708959 
+

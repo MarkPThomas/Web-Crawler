@@ -1,0 +1,10 @@
+area_name: Drug Dome Rock Climbing  
+area_url: /v/drug-dome/105862941 
+description: Drug Dome is a steep crag by Tuolumne standards and its north face is home to the classics Oz and Gram, as well as some terrifying (but supposedly excellent) face climbs.  There has been some recent development of some very hard lines there as well. 
+getting_there: The dome is obscured by the trees, but it is located just west of Fairview.  Park at a small dirt pulloff on the south side of the road.  A trail into the woods leads to a talus field and the first unobstructed view of the intimidating north face -- the obvious corner and roof system of OZ and Gram looms above. 
+id: 105862941 
+latitude: 37.86461 
+longitude:  -119.42215  
+parent_name: Mariuolumne Area 
+parent_url: /v/mariuolumne-area/111838110 
+

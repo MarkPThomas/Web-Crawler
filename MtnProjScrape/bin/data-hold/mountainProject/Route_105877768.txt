@@ -1,0 +1,11 @@
+id: 105877768 
+parent_name: El Capitan Base Routes 
+parent_url: /v/el-capitan-base-routes/105841115 
+route_description: This corner is just a little uphill from Little John. Liback the corner to a ledge. 
+route_name: La Cosita, Right  
+route_quality: 0.75 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.10a 
+route_type: Trad, 1 pitch 
+route_url: /v/la-cosita-right/105877768 
+

@@ -1,0 +1,11 @@
+id: 105717481 
+parent_name: Supercrack Buttress 
+parent_url: /v/supercrack-buttress/105716946 
+route_description: This route will restore your respect for the ratings.  After thrashing up this offwidth, I felt like I was going to puke.  The bottom twenty feet is thin hands, followed by a chimney so narrow that I was only able to squeeze through by clipping my chalk bag and all gear to my side and taking off my helmet.  This way is pretty claustrophobic, so unless you weigh less than about 120 pounds I wouldn't recommend it! It's probably better to lieback this wide section.  A rest is available after coming out of the chimney, and is followed by another offwidth section that's 5 or 6 inches wide.  This section will require at least 3 large pieces: possibly a 4.5 camalot, #5 camalots, and at least one bigger piece like a #6 friend or a big-bro.  Enjoy! 
+route_name: Binge and Purge  
+route_quality: 0.75 
+route_rating:  YDS: 5.11b 
+route_rating_original: YDS: 5.11b 
+route_type: Trad 
+route_url: /v/binge-and-purge/105717481 
+

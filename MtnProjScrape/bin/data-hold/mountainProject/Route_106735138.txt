@@ -1,0 +1,11 @@
+id: 106735138 
+parent_name: Pat and Jack Pinnacle 
+parent_url: /v/pat-and-jack-pinnacle/105870715 
+route_description: In between Makayla's Climb and Suds are two relatively new, well protected moderate routes. This is the left of the two.  The climb starts on juggy terrain which becomes distinctly thinner starting at the third bolt. Probably a touch soft for a Yosemite 5.8, and surprising well protected.   I'm unsure of the FA details and the actual rating of this  climb (someone who sounded like they knew what they were doing told me 5.8) . Any information would be appreciated. 
+route_name: Unknown (5.8?)  
+route_quality: 0.55 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Sport, 50' 
+route_url: /v/unknown-58/106735138 
+

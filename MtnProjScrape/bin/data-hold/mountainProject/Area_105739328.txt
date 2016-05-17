@@ -1,0 +1,10 @@
+area_name: Wasatch Alpine Areas Rock Climbing  
+area_url: /v/wasatch-alpine-areas/105739328 
+description: Any area that requires mountaineering/ice climbing/rock climbing disciplines.   
+getting_there: Any area in the Wasatch  
+id: 105739328 
+latitude: 40.52763 
+longitude:  -111.72408  
+parent_name: Wasatch Range 
+parent_url: /v/wasatch-range/105739213 
+

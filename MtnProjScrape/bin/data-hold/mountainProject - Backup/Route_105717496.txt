@@ -1,0 +1,11 @@
+id: 105717496 
+parent_name: Happy Turk Hoodoo 
+parent_url: /v/happy-turk-hoodoo/105716907 
+route_description: I'm not sure of the direction (ie east, south) the route faces, only that it faces away from the road.  So when you see it from the road driving in, the route is on the backside.  It gets morning sun, so you don't have to wait in the winter to get on it.  The route is basically a bolt-ladder of six bolts, with a couple 5.8 moves required to reach the first bolt, and to move from the last bolt to the summit.  It's very easy, and the bolts are solid.  When we did it, we actually drove the truck right under the route and stood on the roof to reach the first bolt (very lazy, indeed).  On the summit are two good bolts with rap slings. 
+route_name: The Happy Turk  
+route_quality: 0.6 
+route_rating:  YDS: 5.8 C1 
+route_rating_original: YDS: 5.8 C1 
+route_type: Aid 
+route_url: /v/the-happy-turk/105717496 
+

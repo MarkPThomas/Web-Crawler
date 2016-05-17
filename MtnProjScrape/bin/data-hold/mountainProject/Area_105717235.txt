@@ -1,0 +1,10 @@
+area_name: Bullwinkle Tower Rock Climbing  
+area_url: /v/bullwinkle-tower/105717235 
+description: The first significant tower south of Owl Rock.  Amazingly, while the crowds top rope Owl Rock within sight distance, I have never seen a party on Bullwinkle.  There are a couple of routes to the top of this short tower.  The rock is good, however, the summit has lots of loose stuff, so use good judgement.  The tower is not tall, but it does have about 50 feet of vertical climbing. 
+getting_there: Driving through the park, take a right on the road which leads towards the Windows area, just past Balanced Rock.  Drive past the Garden of Eden road, down past Owl Rock, and as the road curves to the East, you can find atleast one pullout on the left side.  A 5 minute walk leads over rock slabs around a mini tower and meets up with the Bullwinkle Tower formation.  Bullwinkle Tower is recognized by the obvious west facing and south facing chimneys leading to its summit. 
+id: 105717235 
+latitude: 38.69514 
+longitude:  -109.54811  
+parent_name: Arches National Park 
+parent_url: /v/arches-national-park/105716757 
+

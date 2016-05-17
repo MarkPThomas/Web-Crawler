@@ -1,0 +1,10 @@
+area_name: Wyoming Rock Climbing  
+area_url: /v/wyoming/105708960 
+description:  
+getting_there:  
+id: 105708960 
+latitude: 43.0046 
+longitude:  -107.842  
+parent_name:  
+parent_url:  
+

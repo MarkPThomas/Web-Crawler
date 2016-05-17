@@ -1,0 +1,11 @@
+id: 105799823 
+parent_name: West Face - Right Side 
+parent_url: /v/west-face---right-side/106181534 
+route_description: This route is located on the far right side of the West face.  Just before the Open Book area.   P1 - Head up easy blocks of rock until you hit a prominent crack.  Belay at the base of this crack. P2 - Continue up this crack / corner and belay just below the roofs. P3  Climb an offwith crack that can be awkward around the left side of the overhanges, then up the corner to a ledge. P4 - Continue up the corner system or climb out right onthe upper slabs.   
+route_name: Jensen's Jaunt  
+route_quality: 0.625 
+route_rating:  YDS: 5.6 
+route_rating_original: YDS: 5.6 
+route_type: Trad, 4 pitches, 500' 
+route_url: /v/jensens-jaunt/105799823 
+

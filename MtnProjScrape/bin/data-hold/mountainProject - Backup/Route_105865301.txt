@@ -1,0 +1,11 @@
+id: 105865301 
+parent_name: 21 - Reed's Pinnacle Area 
+parent_url: /v/21---reeds-pinnacle-area/105863765 
+route_description: A Yosemite classic! The first pitch goes up a short crack that you step into from a ledge. It curves left near the top. The second pitch is obvious. The third pitch climbs a chimney/offwidth to the top of the pinnacle.  Rappel off. 
+route_name: Reed's Pinnacle-Direct Route  
+route_quality: 0.925 
+route_rating:  YDS: 5.10a 
+route_rating_original: YDS: 5.10a 
+route_type: Trad, 3 pitches 
+route_url: /v/reeds-pinnacle-direct-route/105865301 
+

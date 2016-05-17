@@ -1,0 +1,11 @@
+id: 105740474 
+parent_name: Lisa Falls Buttress 
+parent_url: /v/lisa-falls-buttress/105739533 
+route_description: This is the bolted line just left of the waterfall.  Usually dry by april.  Because of the water running on this climb 5-6 months out of the year, it is deceptively smooth down low.  Start on the rightward angling ramp, clip the bolt and figure out the tricky sequence.  No, don't hold onto the bolt.  Once you have gotten past the first bolt, continue up past the step on the face to the steep section.  Take a breather.  Sidestep onto the upper face, and now commence to "sweep left".  The line on this climb does not clamber up the ramp, as this turns into 5.5, but stays on the face with the bolts between your hands and feet, as you "sweep left".  This consists of thin smears on micro-flakes, and fingernails of steel.  What makes this part of the climb fun, is that each year, after the freeze/thaw cycles, the flakes have all changed.  I went up there this year (2004) and a micro-flake that I remember from last year, that was integral was gone now.  The upper face has gotten harder, but the crux is still down low. 
+route_name: Sweep Left  
+route_quality: 0.45 
+route_rating:  YDS: 5.10b 
+route_rating_original: YDS: 5.10b 
+route_type: Sport, TR, 1 pitch, 80' 
+route_url: /v/sweep-left/105740474 
+

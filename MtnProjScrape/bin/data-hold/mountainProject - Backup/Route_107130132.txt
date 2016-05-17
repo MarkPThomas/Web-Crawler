@@ -1,0 +1,11 @@
+id: 107130132 
+parent_name: Sentinel Creek Area 
+parent_url: /v/sentinel-creek-area/106066238 
+route_description: This somewhat obscure route features one good pitch and one bad pitch.  First is the bad pitch. Climb up the corner that's half rock and half munge to reach some scary thin flakes wedged in a chimney. Squeeze up between the flake and the outside wall to reach some easier terrain. Climb past a tree with a bunch of rap slings on it and build a gear anchor (nuts, small-medium cams) at a stance just above the tree.  The second pitch is pretty much all chimney climbing and is considerably cleaner than the first. The crux is a "roof" where the chimney pinches down to a tight squeeze and it requires some thoughtful moves to wiggle past. There is another constriction above that is similar but easier. Belay at the new bolted anchor at the top of the Mitten.  Rappel from the summit with two ropes. One 70m rope doesn't quite make it but it is possible to downclimb the first few feet of the Right Side Route. 
+route_name: Tilted Mitten, Left Side  
+route_quality: 0.25 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 2 pitches, 250' 
+route_url: /v/tilted-mitten-left-side/107130132 
+

@@ -1,0 +1,11 @@
+id: 105836047 
+parent_name: Stately Pleasure Dome 
+parent_url: /v/stately-pleasure-dome/105835737 
+route_description: P1. From the nice ledge at the start, go straight up (same as Hermaphrodite Flake), heading left just where the flake starts.  Belay just a little higher.  P2. This is the crux pitch and the most fun.  5.6-5.7 sustained lieback/finger crack climbing for almost 100 feet to a two bolt anchor.  Good pro most of the way.  Great.  P3. Slightly runout face climbing past a few bolts  to a two bolt anchor.  P4. More fun liebacking.  The angle is much lower here, but placing pro is slightly awkward.  Set up a belay after the crack runs out and the angle drops to 3rd class. 
+route_name: West Country  
+route_quality: 0.75 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, Alpine, 4 pitches, 400' 
+route_url: /v/west-country/105836047 
+

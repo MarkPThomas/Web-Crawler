@@ -1,0 +1,11 @@
+id: 105721819 
+parent_name: Sports Challenge Rock - East Face 
+parent_url: /v/sports-challenge-rock---east-face/106325836 
+route_description:   This striking climb is easily identified as the wide crack which splits the formation into two distinct (upper and lower) halves. It starts as a hand crack but quickly widens to give good wide crack practice...do it 3 or 4 times in a row after leading to simulate longer Valley routes...The rock is quite good and although short the climb is memorable.   
+route_name: Championship Wrestling  
+route_quality: 0.65 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 1 pitch, 50' 
+route_url: /v/championship-wrestling/105721819 
+

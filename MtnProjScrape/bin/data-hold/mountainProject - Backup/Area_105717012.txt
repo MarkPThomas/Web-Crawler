@@ -1,0 +1,10 @@
+area_name: The Organ Rock Climbing  
+area_url: /v/the-organ/105717012 
+description: Organasm (III 5.8 C2) is the primary line on The Organ, although other routes exist.   
+getting_there: Approach from pullout between Weeping Rock and Big Bend Shuttle stops on the west side of the road.  Cross the river (sandals helpful).  Organasm is the obvious crack splitting the large roof. A switchbacking climbers' access trail will take you right to the base of the route.  Approach time: With low water, 20 minutes.  High water, anyone's guess.   
+id: 105717012 
+latitude:  
+longitude:  
+parent_name: Zion National Park 
+parent_url: /v/zion-national-park/105716799 
+

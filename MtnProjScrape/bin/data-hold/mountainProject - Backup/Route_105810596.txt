@@ -1,0 +1,11 @@
+id: 105810596 
+parent_name: East Wall 
+parent_url: /v/east-wall/105734270 
+route_description: The crux is getting on the route in the summer. There's always a line so come early....real early. This route is a good entry level 5.8. Most of the pitches check in around 5.5 - 5.6. Midway up the second pitch is where you'll find the crux bulge. Its well protectable and only one short 5.8 move over it. The route is also really easy to follow. This is the best route to score booty gear on after a summer rain storm or early on Sunday mornings:) 
+route_name: Haystack  
+route_quality: 0.75 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 4 pitches, 400' 
+route_url: /v/haystack/105810596 
+

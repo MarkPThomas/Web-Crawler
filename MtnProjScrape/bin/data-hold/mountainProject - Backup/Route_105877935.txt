@@ -1,0 +1,11 @@
+id: 105877935 
+parent_name: El Capitan Base Routes 
+parent_url: /v/el-capitan-base-routes/105841115 
+route_description: About 120' uphill from Moby Dick-Right Side is this 160 foot slab with a tree at the top. This climbs a  right facing corner with a small roof, 20' up. Continue up to a belay. Continue up cracks to "The Improbable Traverse", to the left. Belay at the base of a shallow, flared dihedral, leading to the top. 
+route_name: Little John, Right  
+route_quality: 0.675 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 3 pitches 
+route_url: /v/little-john-right/105877935 
+

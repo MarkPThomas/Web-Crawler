@@ -1,0 +1,10 @@
+area_name: Lembert Dome Rock Climbing  
+area_url: /v/lembert-dome/105875159 
+description: This is the prominent dome a quarter mile east of the Tuolumne Meadows Store. It offers good climbing and easy access.  The West Face is a short walk from the parking lot. "The Water Cracks", "Werner's Wiggle", "Truckin' Drive" and "Rawl Drive" are a few good routes on this face.  The Northwest Face has longer routes and the classic "Crying Time Again".  The East Face is a longer walk to a number of short, poorly protected routes and top ropes. 
+getting_there: Park in paved and signed Lembert Dome Picnic Area parking lot at the base of the West Face. For approaches from here to the Northwest or East Faces, see those pages.  Here are three photos describing descent options from the summit.     	  	              	      	  	    A map of the various descents on Lembert.    	      	  	              	      	  	    So the descent from northwest books can be tricky.  Obviously take the ledges left to the slabs.  Once on the slabs I have seen people go all the way left (#1).  but with double ropes, we down climbed to #2 and rapped one full length rappel to #3.  Then walked down as indicated by the line.   	      	  	              	      	  	    Summit, hiking trail comes down from the east side if you don't like the slab descents...   	 
+id: 105875159 
+latitude: 37.87746 
+longitude:  -119.35331  
+parent_name: Tuolumne Meadows 
+parent_url: /v/tuolumne-meadows/105833384 
+

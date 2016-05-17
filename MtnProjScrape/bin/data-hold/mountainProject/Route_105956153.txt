@@ -1,0 +1,11 @@
+id: 105956153 
+parent_name: The 100-yard Wall 
+parent_url: /v/the-100-yard-wall/105956149 
+route_description: This crack climb is one of Arche's easiest climbs and a quick tick.  It has a short approach, a walk off, and is easy to find, and has good protection.  It's not the greatest climb on the planet, but it's worth a spin.  Combine it with the Doil (which starts where Nutcracker finishes), and you get another climb to experience.   
+route_name: Nutcracker  
+route_quality: 0.45 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 1 pitch, 65' 
+route_url: /v/nutcracker/105956153 
+

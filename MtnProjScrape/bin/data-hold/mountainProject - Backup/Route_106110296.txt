@@ -1,0 +1,11 @@
+id: 106110296 
+parent_name: Eichorn Pinnacle 
+parent_url: /v/eichorn-pinnacle/106009463 
+route_description: The West Pillar route is a fun route and a great link-up with a route on Cathedral Peak. When linking these two routes, you effectively make a loop, hiking out on the John Muir trail, instead of the Cathedral Peak approach trail. The first pitch begins with a wide crack (5.9). There are two ways to go on the next section. The original route moves right and climbs 5.9 cracks to a horn in one pitch and climbs back left via 5.7 and 5.8 climbing in the next pitch. A direct route is also possible at 5.10 and is popular. This variation climbs directly above the first pitch belay for two pitches, both 5.10, and meets up with the original route where you can belay on the ridge. The 4th pitch is mostly 3rd class and ledgey with some 5th class terrain. It traverses underneath the ridge proper. The final pitch appeared to have some options but should stay left of the ridge, climbing one section of 5.8 and easier climbing before the summit. 
+route_name: West Pillar  
+route_quality: 0.825 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, Alpine, 5 pitches, 600' 
+route_url: /v/west-pillar/106110296 
+

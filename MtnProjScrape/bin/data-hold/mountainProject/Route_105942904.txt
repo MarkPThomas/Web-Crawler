@@ -1,0 +1,11 @@
+id: 105942904 
+parent_name: Crescent Crack Buttress 
+parent_url: /v/crescent-crack-buttress/105739365 
+route_description: P1:  same as the first pitch of the Great Chockstone.  Stay outa that squeeze!  5.6 and fairly easy if you stay on top, outside, rather than go for the tight squeeze. P2:  From the top of the chockstone belay, instead of heading left as for the Great Chockstone, head straight up then right past some awkward undercling corner moves (5.8 crux).  Climb up to the slanting ledge, then head left to a short crack that gains a nice belay stance at a slung boulder.  This pitch can be broken into two if rope drag is a bummer. P3:  Up the slanting, low angle but awkward corner.  Belay at a multi stalked scrub oak.  5.7. P4:  Originally, I think the climb went straight up the cruddy gully, or, across the top of the Crescent Crack Buttress face (no pro, very shallow ledge catwalk, 5.7ish).  But, you can head up and right, placing pro in the undercling crack for a short distance, then face climb to the last two bolts on the Final Link, which makes a great finish to this fun route.  Full value old school classic! 
+route_name: Lazarus  
+route_quality: 0.575 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 4 pitches, 450',  Grade II 
+route_url: /v/lazarus/105942904 
+

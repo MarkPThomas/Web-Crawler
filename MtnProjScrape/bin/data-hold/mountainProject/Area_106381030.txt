@@ -1,0 +1,10 @@
+area_name: Beak Boulder Rock Climbing  
+area_url: /v/beak-boulder/106381030 
+description: This area is directly across from Vector Rock.  Look for the boulder that looks like a large partridge (you know, from the 12 days of Christmas).  This formation can be seen from the parking lot at Split Rocks.   
+getting_there: Park at Split Rock parking area and head out as for Tiger Rocks and Vector Rock.  As you pass, these formations will be on your left.  As you pass Vector Rock, Beak boulders will pretty much be staring you in the face.  Getting to the routes can be difficult as you have to scramble up and behind the beak.  It took me a while to figure out where the routes were and really have no way to explain it other than there was some tunneling involved.   
+id: 106381030 
+latitude:  
+longitude:  
+parent_name: Loveland 
+parent_url: /v/loveland/105720612 
+

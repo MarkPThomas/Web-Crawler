@@ -1,0 +1,11 @@
+id: 106007875 
+parent_name: Medlicott Dome, Center 
+parent_url: /v/medlicott-dome-center/108232840 
+route_description: Piss Easy goes up the large crack in the right facing corner.  Use a variety of OW moves and some features on the face.  The low angle keeps the grade moderate.  p1--goes up the corner, surmounting a 2' bulge 3/4 of the way up, 5.8.  Belay on a good ledge.  100'.  p2--Continue up the corner.  The wide crack gets funkier, resulting in easier climbing, but harder to protect.  I wouldn't call it run out though.  150', 5.7.  Ends on large ledge.  The route continues up for a couple more pitches, but we didn't do them, opting to do the slab route Goldmember instead.  There is no easy way down from the ledge atop p2, so you either need to continue up, or leave gear to rap.  (you can rap if you do Goldmember.)  Please add to this description if you've done the entire route. 
+route_name: Piss Easy (aka West Face of Medlicott)  
+route_quality: 0.7 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 2 pitches, 250' 
+route_url: /v/piss-easy-aka-west-face-of-medlicott/106007875 
+

@@ -1,0 +1,10 @@
+area_name: Echo Rock Rock Climbing  
+area_url: /v/echo-rock/105720786 
+description: Echo Rock is the huge dome closest to the parking area and a popular destination with climbers. Due to it's size the dome has been broken into separate areas to more easily navigate the wealth of routes.   The very popular Echo Rock - West Face is a slabby apron of rock with many single pitch face routes from 5.6 to 5.11+ as well as the occasional crack climb. Some of the popular routes include Double Dip (5.6) and Stichter Quits (5.7), Stick to What (5.9), Quick Draw McGraw (5.10a), Heart and Sole (5.10a) and Quick Draw McGraw (5.10b).  Being somewhat sheltered makes the Echo Rock - South Face a popular winter spot as it soaks up the sun and is a good spot to challenge yourself of a nice mix of crack and face routes. Some of the better ones here are Pope's Crack (5.9), Raked over the Coles (5.10d), Swept Away (5.11a), British Airways (5.11a R), Sole Fusion (5.12a) and My Idea of Fun (5.12d).  The EBGB Block Area is centered around a prominent block perched atop a shelf and visible from afar with Zondo's Perks (5.10a), EBGB's (5.10d), Jane's Getting Serious (5.12b) being some of the better routes.   The lesser visited Echo Rock - East Face can be a good spot to escape the crowds of the more popular areas as well as sample some lesser known routes such as Bambi Meets Godzilla (5.8), Closed on Mondays (5.9), The Menace (5.10b), Beadwagon (5.11a R) and Igor Prince of Poodles (5.11c). 
+getting_there:  Echo Rock is located just east of the Echo Cove formation. By skirting the south end of the Echo Cove formation and walking east, you will run smack dab into Echo Rock. Please stick to designated trails! 
+id: 105720786 
+latitude: 34.0252 
+longitude:  -116.1558  
+parent_name: Echo Rock Area 
+parent_url: /v/echo-rock-area/105720576 
+

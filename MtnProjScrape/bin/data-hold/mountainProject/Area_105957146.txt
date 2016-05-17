@@ -1,0 +1,10 @@
+area_name: Navajolands Rock Climbing  
+area_url: /v/navajolands/105957146 
+description: The rock formations in Navajolands are some of the most unique and beautiful formations in the world.  This is an area which is full of beauty, mystery, and discovery.  It is a quiet peaceful area, yet one of excitement and thrills.  It is one of the most awesome places on earth.  Navajolands has Shiprock, which was North American's number one climbing objective back it the day.  It has The Totem Pole, which is the tallest skinniest spire in the world.  It has Spyder Rock, one of the tallest spires in North America  (along with The Titan), and it has Cleopatra's Needle, the skinniest spire on the planet.  These wonderful spires are a climber's dream, and there are countless other spires to challenge the mind and the skills of climbers.  Unfortunately, there is presently a ban on all climbing on the Navajo Indian Reservation.  Although only Shiprock and Spyder Rock are the only "official"sacred rocks , the Navajos have chosen , presently, to ban all climbing.  These routes are only listed for historical purposes.  
+getting_there: Navajolands is located in the 4 corners area of Arizona, Utah, Colorado, and New Mexico. It is over 25,000 square miles of land.  
+id: 105957146 
+latitude: 36.14052 
+longitude:  -110.41849  
+parent_name: Northern Arizona 
+parent_url: /v/northern-arizona/107447440 
+

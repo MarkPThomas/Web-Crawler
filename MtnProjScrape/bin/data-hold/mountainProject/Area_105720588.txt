@@ -1,0 +1,10 @@
+area_name: Lost Horse Area Rock Climbing  
+area_url: /v/lost-horse-area/105720588 
+description: The Lost Horse Area covers popular rocks including The Lost Horse Wall, Hemingway Buttress, Dairy Queen Wall, Freeway Wall, Shorter Wall, Tiny Tots, Atlantis Wall, and others.  Count on crowds at popular areas such as DQ, Hemingway, and Lost Horse Wall.  Shorter Wall and Atlantis are popular with larger groups due to the high density of moderates.  The South Side of Lost Horse Wall boasts some of the longer routes in the Park including classics Dappled Mare and Bird on a Wire (not to be confused with 'Bird of Fire' - that's in a completely different area!).   
+getting_there: Lost Horse is located between Quail Springs (Trashcan Rock) and Hidden Valley Campground on the south side of Quail Springs Road.  Approach via the designated Hemingway parking area along Quail Springs Road for the following rocks: DQ, IRS, Copenhagen, Hemingway.  Approach along the dirt road to Lost Horse Ranger Station (several pullouts, but limited parking) for the following: Freeway Wall, Tiny Tots, Rock Garden, Shorter Wall, Lost Horse, and Atlantis.   
+id: 105720588 
+latitude: 34.0213 
+longitude:  -116.1793  
+parent_name: Joshua Tree National Park 
+parent_url: /v/joshua-tree-national-park/105720495 
+

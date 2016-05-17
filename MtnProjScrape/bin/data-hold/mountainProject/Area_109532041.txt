@@ -1,0 +1,10 @@
+area_name: Central Oregon Rock Climbing  
+area_url: /v/central-oregon/109532041 
+description: You're not from around these parts, are yeh? It's "Or-eh-gun!"  Famous for one thing, mostly. Smith Rock. Although if burly splitters are your thing, Trout Creek has your jam. 
+getting_there: See individual areas for directions 
+id: 109532041 
+latitude: 44.26952 
+longitude:  -121.16999  
+parent_name: Oregon 
+parent_url: /v/oregon/105708965 
+

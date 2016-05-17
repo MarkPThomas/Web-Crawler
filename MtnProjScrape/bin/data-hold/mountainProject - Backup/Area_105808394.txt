@@ -1,0 +1,10 @@
+area_name: The Mace Rock Climbing  
+area_url: /v/the-mace/105808394 
+description: The Mace is possibly the best-known climbing formation in Sedona and probably the most climbed as well.  Back in the 1950's when California climbers Bob Kamps and Dave Rearick came to town, the Mace was one of the first formations to get their attention.  The Original Route (AKA "The Mace") is the ultra-popular and classic route to do. 
+getting_there: Park at Back O' Beyond trailhead and follow the tourist trail marked with large cairns up to the east side and then traverse over to the Mace from there. 
+id: 105808394 
+latitude: 34.81836 
+longitude:  -111.7913  
+parent_name: Cathedral Rock Area 
+parent_url: /v/cathedral-rock-area/105808332 
+

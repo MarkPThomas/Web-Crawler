@@ -1,0 +1,11 @@
+id: 106998345 
+parent_name: Mount Robson 
+parent_url: /v/mount-robson/106985753 
+route_description: The Kain Route is the original way up Mount Robson.  There once was a huge serac that loomed over part of the face, but glacial wasting has now removed the threat.  Currently, this is probably the safest way to climb Robson.   Remote climbing with low odds for success given the weather, snow conditions and logistics. Still once you get your shot, moderate to steep snow and ice climbing up the Kain Face and then moderate climbing up snow and ice faces and around gargoyles of ice leads to a large summit with a small summit bump.   If you think getting up is tough, getting down can be a job once the Kain Face softens and becomes very hazardous to downclimb. Be prepared to sit it out till the sun goes down and the freeze comes to stabilize the face. Do not underestimate the decent.   It is all worth it!    
+route_name: Kain Face  
+route_quality: 1.0 
+route_rating:  YDS: Easy 5th AI3 
+route_rating_original: YDS: Easy 5th AI3 Steep Snow 
+route_type: Ice, Alpine, 20 pitches, 9000' 
+route_url: /v/kain-face/106998345 
+

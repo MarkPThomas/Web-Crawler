@@ -1,0 +1,10 @@
+area_name: Mystery Towers & Top of the World Overlook Rock Climbing  
+area_url: /v/mystery-towers--top-of-the-world-overlook/105716832 
+description: Seeing the Mystery Towers for the first time is an awe-inspiring experience.  One gets the sense of something sacred: perhaps only a tiny portion of the human population has ever laid eyes on them, even though they are less than a mile northeast of the Fisher Tower parking lot!  Layton Kor, Huntley Ingalls, and George Hurley were probably the first (climbers) to discover them - from the summit of the Titan in 1962.  After some unsuccessful attempts, the Doric Column and the Citadel were first summitted by Hurley in 1969; a year later the Gothic Nightmare was conquered by Bill Forrest and Don Briggs.  Since then, many new routes and smaller towers were climbed by these guys as well as Rob Slater, Keith Reynolds, Alan Stevenson, Matt Laggis, Crusher, Tony Wilson, Kevin Chase, Duane Raleigh, and others.  The towers are Cutler Sandstone (the Fisher stuff), capped by Moenkopi.  Of the Doric Column, Hurley said "Belaying in a vertical flute in this rock is like standing below a loading spout at a sand and gravel works."  Expect mud or dry mud, advanced and innovative aid, including but not limited to, bat hooks, ring angle claws, beaks and peckers, fishhooks, bugaboos, warthogs, ice axe tosses, dwarf tosses, and general lassoing skills.  Enjoy! 
+getting_there: Viewable from the top of the Titan or Top of the World Overlook, but accessible from the Onion Creek road (see that description).  Check out Bjornstad's "Desert Rock III" for a detailed description of the approach and a general topo of the area. 
+id: 105716832 
+latitude: 38.7191 
+longitude:  -109.2836  
+parent_name: Onion Creek 
+parent_url: /v/onion-creek/105716766 
+

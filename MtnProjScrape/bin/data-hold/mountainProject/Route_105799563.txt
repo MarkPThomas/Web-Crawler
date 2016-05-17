@@ -1,0 +1,11 @@
+id: 105799563 
+parent_name: i. High E 
+parent_url: /v/i-high-e/107059022 
+route_description: Directissima is most commonly (if not always) done as a more difficult start to High Exposure.  It kicks up the difficulty a few grades, but it delivers a first pitch that is almost as classic as High E's final pitch.  1. Begin a little ways right of the original start of High Exposure, near the nose of the buttress.  Make a bouldery move up to a ramp and a leaning crack to a low roof, undercling around this roof and around the corner to the right (slick holds, some tricky gear).  Continue up the face to the obvious belay ledge on the right side of the High Exposure buttress.  A short pitch: 5.9, 60'.  2. From the left end of the ledge, traverse up and left, almost to the arete.  From here you have to perform a difficult long reach to a good hold (5.9+), which is well protected with fixed pins.  Belay at a perch just after the crux.  3. Easier climbing leads directly up the very exposed arete to the spacious area on the GT ledge.      It is possible to vary or combine the climbing to the GT in several ways, including: a) climbing straight up just after turning the major arete on P1 (a nudge harder and a bit more runout), b) belaying only at the perch past the P2 crux, or c) linking the entire pitch to the GT.    Finally: Continue up High Exposure's last pitch - how else would you finish a classic route?  Descend by the bolted rappel route right of the buttress (one rope will do). 
+route_name: Directissima  
+route_quality: 0.925 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 2 pitches, 120' 
+route_url: /v/directissima/105799563 
+

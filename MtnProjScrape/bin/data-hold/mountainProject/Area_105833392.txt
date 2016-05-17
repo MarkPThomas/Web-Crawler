@@ -1,0 +1,10 @@
+area_name: El Capitan Rock Climbing  
+area_url: /v/el-capitan/105833392 
+description: The Captain. How can you properly describe 3000 feet of beautiful granite loaded with awesome routes? El Cap is probably the most recognized chunk of rock in the world to rock climbers. Climbers come from across the globe to challenge themselves on the 3000 foot walls of El Capitan. It's an awe-inspiring thing that first time you go to the Valley and stand at the base of El Cap, looking up. So much rock, so little time...  Note: When climbing El Cap, parties should come prepared for harsh weather with little notice. Rescues and even deaths have occurred over the years due to unprepared climbers that were hit by unexpected storms. 
+getting_there: El Capitan is found on the north side of the Valley, just east of where highway 120 meets highway 140 coming in from El Portal. Can't miss it... 
+id: 105833392 
+latitude: 37.732 
+longitude:  -119.6376  
+parent_name: Yosemite Valley 
+parent_url: /v/yosemite-valley/105833388 
+

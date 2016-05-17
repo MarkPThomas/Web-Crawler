@@ -1,0 +1,10 @@
+area_name: Bumble Bee Wall Rock Climbing  
+area_url: /v/bumble-bee-wall/105739476 
+description: Bumble Bee Wall is a steep, massive rock formation that is south facing.  It has a few sport routes, otherwise it is trad.  There are 13 routes on this wall, with some being multi-pitch.  Their grades range from a 5.6 traverse to 5.11d.  Some climbs can be rappeled, some require a 60 meter rope.  Still others need scrambling off.   
+getting_there: In Storm Mountain Picnic Area on the NW end beyond the playground is a large triangular cliff.  Some of the climbs are approached via a ledge and 4th class scrambling at the base.  Others require a hike up to the west and are either behind the pedestal or further up the side.  
+id: 105739476 
+latitude: 40.62605 
+longitude:  -111.7462  
+parent_name: Storm Mountain Picnic Area 
+parent_url: /v/storm-mountain-picnic-area/105798348 
+

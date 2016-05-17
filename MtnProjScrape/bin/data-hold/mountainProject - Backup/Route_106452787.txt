@@ -1,0 +1,11 @@
+id: 106452787 
+parent_name: 10 - The Cookie Cliff 
+parent_url: /v/10---the-cookie-cliff/105863743 
+route_description: on the far right side of the cookie after the 5.13 crack route there is a chimney (5.8).  Start up this and continue up through a squeeze chimney (5.9) and belay at the bolts.  2nd pitch goes up a 5.4 no pro ramp to a unlikely corner.  This climbing is full value stemming, jamming, and chimney moves. Two more pitches bring you to the top. 
+route_name: The Enigma  
+route_quality: 0.575 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 4 pitches, 300' 
+route_url: /v/the-enigma/106452787 
+

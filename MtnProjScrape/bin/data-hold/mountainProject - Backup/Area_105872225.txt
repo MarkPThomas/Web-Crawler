@@ -1,0 +1,10 @@
+area_name: New Hampshire Rock Climbing  
+area_url: /v/new-hampshire/105872225 
+description: New Hampshire is the Granite State. The state motto is "Live Free or Die." Need more be said?   	  	              	      	  	    Overview of the regions  Map modified from original in visitnh.gov/information/about-...   	 Actually though, the rock in this state comes in many forms, from the rounded boulders of *Pawtuckaway in the South to the clean fractured granite of *Cannon Cliff  in the North. We even have a world class sport climbing area, though the cliffs at *Rumney are mostly schist. On the other side of the mountains, North Conway has its own scene and two of the best trad cliffs around. Cathedral and *Whitehorse Ledges are just minutes from town. All of this within a state that is small enough to fit into some of your National Parks out West.    Whether you consider yourself a hard core traditionalist or a sport climbing wunderkind, there is a wealth of climbing to be found in this small state. Plus, there's some die-hard Libertarian blood around here, so don't expect to pay any taxes. And fall around these parts can be pretty close to heaven. 
+getting_there: Despite its diminutive size, New Hampshire should be found on most maps of the U.S.   Manchester hosts a major regional airport and would be the airport of choice for areas in the western part of the state (Rumney, Cannon etc. about 1 1/4 hr drive).   Portland, Maine has a good airport, and is only about 1 1/4 - 1/2 hr drive to areas like Cathedral and Whitehorse in the eastern part of the state. [Take Maine Rt 22W to Rt 114N to Rt 25W to Rt 113N to Rt 302W in Fryeburg ME, then 302W into North Conway; do NOT take Rt 302 all the way, esp. in summer)      The Boston airport is less than a three hour drive from most points in the state. 
+id: 105872225 
+latitude: 43.5804 
+longitude:  -71.7188  
+parent_name:  
+parent_url:  
+

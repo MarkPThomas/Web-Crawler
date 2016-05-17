@@ -1,0 +1,11 @@
+id: 105874492 
+parent_name: El Capitan Base Routes 
+parent_url: /v/el-capitan-base-routes/105841115 
+route_description: Climb a flared chimney for two pitches to the dreamy ledge on top of Moby Dick. Rappel 160'. 
+route_name: Moby Dick, Left  
+route_quality: 0.65 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 2 pitches 
+route_url: /v/moby-dick-left/105874492 
+

@@ -1,0 +1,11 @@
+id: 105915125 
+parent_name: Middle Cathedral Rock 
+parent_url: /v/middle-cathedral-rock/105833490 
+route_description: Fantastic moderate put up in 1954 by Batso and friends.  The East Butt of Middle is a mandatory route for those looking to bag one of the fifty classics or for people just looking to get some great views of El Cap from across the valley. Mostly 5.6-5.8, this route ascends the springtime shadow line on the buttress.  With an A0 section on the 5th pitch that can be climbed at 10c (slabby but well protected), this route offers a few variations above for those wanting to climb it numerous times or for when it is high season and you may need to pass folks.     The approach is easy, but steep.  The descent can be the crux in the early season due to snow in the gully.  Other than that it is classic, aesthetic, accessible and fun.  Enjoy. 
+route_name: East Buttress  
+route_quality: 0.875 
+route_rating:  YDS: 5.10c 
+route_rating_original: YDS: 5.10c 
+route_type: Trad, 11 pitches, 1100',  Grade IV 
+route_url: /v/east-buttress/105915125 
+

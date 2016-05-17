@@ -1,0 +1,11 @@
+id: 105870690 
+parent_name: 22 - Five and Dime Cliff 
+parent_url: /v/22---five-and-dime-cliff/105870687 
+route_description: Five and Dime is the classic and namesake climb for this crag.  It is a strenuous crack that takes a wide ranges of gear, from small to off hands. The crux revolves around a strange pod midway up, followed by difficult finger locks and finishes with a burly hand to large-hand sized crack.  The gear is solid throughout, and if you are solid too then you should do well on this one.  
+route_name: Five and Dime  
+route_quality: 0.925 
+route_rating:  YDS: 5.10d 
+route_rating_original: YDS: 5.10d 
+route_type: Trad, 1 pitch, 80' 
+route_url: /v/five-and-dime/105870690 
+

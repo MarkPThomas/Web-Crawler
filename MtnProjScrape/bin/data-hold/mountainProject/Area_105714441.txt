@@ -1,0 +1,10 @@
+area_name: West Face Rock Climbing  
+area_url: /v/west-face/105714441 
+description: These are the routes you can see from the parking lot.  They are all accessed by the west face approach and encompass all routes from the NE shoulder on the left to the large leaning pillar on top of the SW buttress (Durrance pillar) on the right.  The routes on the West face are some of the cleanest and most accessible routes on the tower.  Ultra-classics include Carol's crack, McCarthy's west face, El Matador, Tugley Wood, and many more.  As with the other sides of the tower, the "good" climbing is on the lower 2/3 with easy bolted rappels before the less appealing rock.  Most routes will require a two-rope descent.   
+getting_there: Leave the main trail shortly after the trail starts heading south parallel to the tower, at the same place the Durrance approach leaves the trail.  Hike up the boulderfield to the base of the tower.  Locate the obvious stem box with two five-foot wide dihedrals facing each other for 150' and a ledge at the end of the left pillar  (El Matador).  Most west face routes are left of here.  Right of El Matador, see Durrance Approach.  Sparse poison ivy is often encountered on the hike/scramble north to Carol's crack area.   
+id: 105714441 
+latitude: 44.5904 
+longitude:  -104.71681  
+parent_name: Devil's Tower 
+parent_url: /v/devils-tower/105714267 
+

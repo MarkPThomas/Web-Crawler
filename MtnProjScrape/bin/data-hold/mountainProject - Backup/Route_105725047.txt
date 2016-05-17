@@ -1,0 +1,11 @@
+id: 105725047 
+parent_name: Hound Rock 
+parent_url: /v/hound-rock/105721361 
+route_description:  Gain the right most of two cracks imediately above the large boulder between Crescent Wrench and Tossed Green. A tricky boulder type move leads to an off-balance crack. At the tougher end of the 5.9 continuum, with interesting moves all the way to the top. Almost on par with Tossed Green for quality.    Down climb by wandering up and back down to the left (south) above Crescent Wrench. 
+route_name: An Eye to the West  
+route_quality: 0.425 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 1 pitch, 50' 
+route_url: /v/an-eye-to-the-west/105725047 
+

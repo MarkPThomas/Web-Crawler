@@ -1,0 +1,11 @@
+id: 105722506 
+parent_name: Trashcan Rock - West Face 
+parent_url: /v/trashcan-rock---west-face/106670380 
+route_description: Tiptoe up the crystals protruding from the thin dike in the middle of the face between B-1 and B-2.  There are three bolts, and no real need for anything else.  Belay from a strong stance in a niche up and left from the top of the climb, then walk off to the north. 
+route_name: Tiptoe  
+route_quality: 0.55 
+route_rating:  YDS: 5.7+ 
+route_rating_original: YDS: 5.7+ 
+route_type: Trad, 1 pitch, 30' 
+route_url: /v/tiptoe/105722506 
+

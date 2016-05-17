@@ -1,0 +1,11 @@
+id: 105892239 
+parent_name: Church Bowl 
+parent_url: /v/church-bowl/105860381 
+route_description: This follows the obvious chimney to the right of "Church Bowl Tree". Make slippery moves into the main chimney. Exciting climbing leads up this chimney to The Church Bowl Terrace. Rappel off. 
+route_name: Church Bowl Chimney  
+route_quality: 0.55 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, 1 pitch, 50' 
+route_url: /v/church-bowl-chimney/105892239 
+

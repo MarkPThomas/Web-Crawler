@@ -1,0 +1,10 @@
+area_name: Lotus Flower Tower Rock Climbing  
+area_url: /v/lotus-flower-tower/105905652 
+description: Lotus Flower Tower is one of the most distinct pieces of rock geometry on the planet. Since it's inclusion in the Fifty Classic Climbs book, 9 out of 10 climbers who go to the Cirque are intent on climbing Lotus Flower Tower. And rightfully so, as it's most popular route, The Great Line, is absolutely that. Other routes also climb the face but no one ever does them.  
+getting_there: From Fairy Meadows, walk to the base of the tower. A snow field must be crossed en route, but it's not much of an issue. It's about an hour hike from base camp to route.   
+id: 105905652 
+latitude: 62.11433 
+longitude:  -127.69731  
+parent_name: The Cirque of the Unclimbables 
+parent_url: /v/the-cirque-of-the-unclimbables/105905649 
+

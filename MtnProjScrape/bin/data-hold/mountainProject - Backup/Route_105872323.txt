@@ -1,0 +1,11 @@
+id: 105872323 
+parent_name: Church Bowl 
+parent_url: /v/church-bowl/105860381 
+route_description: follows low angle thin crack to the right of Uncle Fanny. Some 4th class to get to start. Lieback the whole way. Gets real thin in spots. Easily lead with just a set of nuts. Hold them up and it will suck one in almost anywhere.  
+route_name: Church Bowl Lieback  
+route_quality: 0.675 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 1 pitch, 120' 
+route_url: /v/church-bowl-lieback/105872323 
+

@@ -1,0 +1,10 @@
+area_name: Lower Merced River Canyon Rock Climbing  
+area_url: /v/lower-merced-river-canyon/110464982 
+description: Downstream from the Yosemite Valley, but still inside the park boundaries, there are numerous rocks that are mostly less famous, and therefore somewhat less crowded, than the legendary areas to the east.  I followed Don Reid's Yosemite guide sections to put this page together.  Bryan G shared these excellent notes on how the crags fit together.  "And here is rough approximation of what the left/right sorting would be. First, the north side starting at El Portal running east:   Parkline Slab  Narrow Escape Cliff  U.S.G.S. Wall  Arch Rock  Short Circuit Boulder  Finger Lickin' Area  Roadside Attraction  Kat Pinnacle  Sunshine Cliff  Cookie Cliff, The  Cookie Sheet, The  Wildcat Falls & Above the Cookie  Knobby Wall  Cascade Area  Knob Hill  Owl, The  This and That Cliff  Generator Station  New Diversions  Goldrush  Reed's Pinnacle Area  Five and Dime Cliff  Mojo Tooth Area, The  Highway Star  Last Resort Cliff   Then the south side as you move down canyon:   Pulpit Rock  Wawona Tunnel  Wawona Tunnel West  Cream  Rostrum, The  Jungle Gym, The  Elephant Rock  Hand Out Cliff   It's not a perfect geographical representation because I tried to clump some areas together which have a similar approach. This and That, Generator Station, and New Diversions are all approached from the 140 so I think it's better to list them in a sequence, even though Goldrush is technically between them. Hope this helps." 
+getting_there: On both sides of the Merced River, between Mariposa and the Valley. Many of these areas are reached from State Route 140, which parallels the river, but some areas are easier to reach from other roads. 
+id: 110464982 
+latitude: 37.69379 
+longitude:  -119.72668  
+parent_name: Yosemite National Park 
+parent_url: /v/yosemite-national-park/105833381 
+

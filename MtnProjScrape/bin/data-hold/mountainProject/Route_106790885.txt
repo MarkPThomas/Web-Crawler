@@ -1,0 +1,11 @@
+id: 106790885 
+parent_name: Mt. Emerson 
+parent_url: /v/mt-emerson/106790833 
+route_description: Short approach for a fun alpine route on solid rock with varied climbing.  Short 5.4 crux.   Note that the chimney may be wet in early season or if there is significant rainfall during otherwise drier months.  The route is water polished, so be prepared.  Route Climb the 5.4 crack.  If the chimney is too wet there you can climb the face to the right of a second chimney, which is just to the right of the normal route. The chimney is blocked with a large chockstone at which point you can easily cross and move left onto an easy, but exposed ramp system that connects with the original route. Continue up class 3-4 slabs eventually leading back into the original crack for a pitch of class 4. Head up a broad chute for 500 ft, then cross left across a rib into another chute. Aim for a notch in the ridge then proceed along the amazing ridgeline to the summit, passing several gendarmes to keep the grade at class 4.    	  	              	      	  	    Amy on the crux pitch (P1)   	    	  	              	      	  	    Matt on the wet season waterfall bypass after crossing over the chockstone   	     	  	              	      	  	    Amy on one of the early class 4 sections   	    	  	              	      	  	    easy scrambling before the gully   	    	  	              	      	  	    Just below the point at which you'll cross left over the rib into another chute.   	    	  	              	      	  	    ridge traverse section   	    	  	              	      	  	    final push to the summit   	 
+route_name: Southeast Face (aka the Waterfall Route)  
+route_quality: 0.825 
+route_rating:  YDS: 5.4 
+route_rating_original: YDS: 5.4 
+route_type: Trad, Alpine,  Grade II 
+route_url: /v/southeast-face-aka-the-waterfall-route/106790885 
+

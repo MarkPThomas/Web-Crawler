@@ -1,0 +1,11 @@
+id: 105740285 
+parent_name: Storm Mountain Island 
+parent_url: /v/storm-mountain-island/105739353 
+route_description: This climb is approached by traversing along the ledges on the East face of the island (paralleling the stream).  When you gain a ledge with a tree, (you will see a small 4 bolted route, with the bottom bolt missing a hanger, climb up a left facing corner/ramp to a ledge and continue on north.  You will see a pair of cracks, with a bolted route in the middle.  This is the left-most crack.  Climb this thin crack to the roof, and pop over.  The anchors are to the right. 
+route_name: Nice Little Crack  
+route_quality: 0.475 
+route_rating:  YDS: 5.5 
+route_rating_original: YDS: 5.5 
+route_type: Trad, TR, 1 pitch, 50' 
+route_url: /v/nice-little-crack/105740285 
+

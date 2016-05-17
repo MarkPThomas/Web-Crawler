@@ -1,0 +1,10 @@
+area_name: Three Brothers Area Rock Climbing  
+area_url: /v/three-brothers-area/110638278 
+description: The middle monolith of the three brothers on the north side of Yosemite Valley, between the Lower Brother and Eagle Peak. 
+getting_there: Mostly accessed from Camp 4 or pullouts just west of there. 
+id: 110638278 
+latitude: 37.73278 
+longitude:  -119.61142  
+parent_name: Yosemite Valley 
+parent_url: /v/yosemite-valley/105833388 
+

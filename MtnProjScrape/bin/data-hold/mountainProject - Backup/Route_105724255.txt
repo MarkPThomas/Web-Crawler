@@ -1,0 +1,11 @@
+id: 105724255 
+parent_name: Baskerville Rock 
+parent_url: /v/baskerville-rock/105721166 
+route_description:  Left of the excellent Right Baskerville Crack is this obvious line that splits the formation. Don't be put off by the width of the crack as it's easier than appearances suggest.   Make unprotected bouldery moves to gain a ledge (crux) then launch up the striking wide splitter. A single #4 Camalot or equivalent should suffice, although another large piece may be deisired if not sliding the pro with you. Smaller sized gear (2-3") is utilized to set an anchor.  Perhaps somewhat intimidating in appearance, this protects well and is surprisingly fun. All in all a worthwhile route that merits one star out of five.   
+route_name: Left Baskerville Crack  
+route_quality: 0.475 
+route_rating:  YDS: 5.10b 
+route_rating_original: YDS: 5.10b 
+route_type: Trad, 1 pitch, 40' 
+route_url: /v/left-baskerville-crack/105724255 
+

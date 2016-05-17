@@ -1,0 +1,11 @@
+id: 106049459 
+parent_name: Camp 4 - Misc Problems 
+parent_url: /v/camp-4---misc-problems/109091256 
+route_description: This splitter fingercrack goes from thin fingers to prefect fingers. The bottom is a little undercut, making the crux the first couple of moves. A sit start goes and ups the rating considerably if you want to add a move.  
+route_name: Finger Crack  
+route_quality: 0.75 
+route_rating:  YDS: 5.10 
+route_rating_original: YDS: 5.10+ 
+route_type: Trad, 17' 
+route_url: /v/finger-crack/106049459 
+

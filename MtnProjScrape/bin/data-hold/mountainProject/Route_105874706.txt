@@ -1,0 +1,11 @@
+id: 105874706 
+parent_name: Church Bowl 
+parent_url: /v/church-bowl/105860381 
+route_description: A fun, bolted face climb, right of "Church Bowl Lieback". A fall near the second bolt will make one understand the name of this climb. 
+route_name: Pole Position  
+route_quality: 0.525 
+route_rating:  YDS: 5.10a 
+route_rating_original: YDS: 5.10a 
+route_type: Sport, 1 pitch, 110' 
+route_url: /v/pole-position/105874706 
+

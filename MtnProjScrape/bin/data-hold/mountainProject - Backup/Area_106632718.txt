@@ -1,0 +1,10 @@
+area_name: Watchtower Main Rock Climbing  
+area_url: /v/watchtower-main/106632718 
+description: One of the first and largest buttresses you'll reach when hiking up Ferguson Canyon, The Watchtower's main area holds the largest concentration and largest variety of classics. You haven't experienced Ferguson until you've climbed at The Watchtower.   Encompassing almost all styles of climbing, the main Watchtower routes will not disappoint. Holding a little bit of everything, including sport lines, trad lines, and mixed lines, this token buttress keep you coming back for more.   The Main Watchtower routes extend from the entrance of the canyon starting with Double Cross and follow the trail along the base of the buttress ending in The Fortress area with Total X. 
+getting_there:  
+id: 106632718 
+latitude:  
+longitude:  
+parent_name: The Watchtower 
+parent_url: /v/the-watchtower/105739380 
+

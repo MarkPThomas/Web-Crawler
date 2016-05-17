@@ -1,0 +1,11 @@
+id: 106086613 
+parent_name: Mount Fay 
+parent_url: /v/mount-fay/106086603 
+route_description: The second biggest strip of ice from the east (left) side of the mountain.  Cross the 'shrund at the place of most convenience for you and start climbing this calf burner.  The ice starts out at a low angle and ramps up the higher you climb, up to about 60/70 degrees depending on which line you take.  There may be a cornice on the top, and definitely watch for rocks falling down along the sides of the route.   When I did the route we simulclimbed all but the last vertical section, which definitely speeds up the climb. 
+route_name: Centre Ice Bulge Direct  
+route_quality: 1.0 
+route_rating: WI3 
+route_rating_original: WI3 
+route_type: Ice, Alpine, 5 pitches, 1000',  Grade III 
+route_url: /v/centre-ice-bulge-direct/106086613 
+

@@ -1,0 +1,10 @@
+area_name: Grand Teton Rock Climbing  
+area_url: /v/grand-teton/105803123 
+description: From moderate, sunny cruisers to huge mixed gullies and everything in between, the Grand Teton has it all. This iconic mountain is steeped in history.  Although trade classics like the Owen-Spalding and the Exum Ridge can be a cattle train at times, there are plenty of routes to keep everyone satisfied.  
+getting_there: Most approaches will start from the Lupine Meadows trailhead and take the trail into Garnet Canyon, eventually reaching the Lower Saddle. Some routes utilize different approaches and will be noted in the proper route descriptions. 
+id: 105803123 
+latitude: 43.74092 
+longitude:  -110.80253  
+parent_name: Grand Teton National Park 
+parent_url: /v/grand-teton-national-park/105802912 
+

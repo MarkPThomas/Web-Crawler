@@ -1,0 +1,10 @@
+area_name: Yosemite Point Rock Climbing  
+area_url: /v/yosemite-point/105916888 
+description: Yosemite Point is the section of valley rim right (east) of Upper Yosemite Falls.  A great view of Half Dome! 
+getting_there: Follow the trail past Upper Yosemite Falls, cross the creek (about to plunge over the falls) on a big bridge.  Follow signs to the one-way trail leading to Yosemite Point. 
+id: 105916888 
+latitude: 37.75452 
+longitude:  -119.5928  
+parent_name: Yosemite Falls Area 
+parent_url: /v/yosemite-falls-area/105865903 
+

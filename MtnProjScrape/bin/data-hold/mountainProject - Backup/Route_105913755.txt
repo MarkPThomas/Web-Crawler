@@ -1,0 +1,11 @@
+id: 105913755 
+parent_name: 21 - Reed's Pinnacle Area 
+parent_url: /v/21---reeds-pinnacle-area/105863765 
+route_description: First pitch takes a rather uninspiring line straight up some broken rock, mostly easy with a move or two of 5.7.  Belay in a alcove/stance.  The second pitch is fantastic, a 120' double handcrack, then a really airy traverse to the right on positive hands with undercut feet.   
+route_name: Ejesta  
+route_quality: 0.675 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 2 pitches, 210' 
+route_url: /v/ejesta/105913755 
+

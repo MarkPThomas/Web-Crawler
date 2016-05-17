@@ -1,0 +1,11 @@
+id: 105920826 
+parent_name: Sugarloaf, East Face 
+parent_url: /v/sugarloaf-east-face/105875775 
+route_description: This Sugarloaf classic climbs the chimney and crack system to the summit of the south pinnacle. Climb a ramp and blocky rock up the right side of The Fang, to an alcove. Climb a 5.7 chimney to a good belay. Move up and left to another chimney and follow it to a belay ledge in the South Notch. From the north end of the notch, climb a 5.7 arch to it's top. Turn the corner and follow a trough to a cave beneath the summit. Continue to the summit. 
+route_name: Harding's Chimney  
+route_quality: 0.725 
+route_rating:  YDS: 5.7 R 
+route_rating_original: YDS: 5.7 R 
+route_type: Trad, 3 pitches, 435' 
+route_url: /v/hardings-chimney/105920826 
+

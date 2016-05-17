@@ -1,0 +1,11 @@
+id: 105839882 
+parent_name: The Old Woman - West Face 
+parent_url: /v/the-old-woman---west-face/106045657 
+route_description: A nice chimney with fair protection.  It gets its name from the fact that you climb a short chimney/flake on the left, then traverse right into the upper half of the more obvious chimney.  Rappel off from the top. 
+route_name: Double Start  
+route_quality: 0.325 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, 1 pitch, 80' 
+route_url: /v/double-start/105839882 
+

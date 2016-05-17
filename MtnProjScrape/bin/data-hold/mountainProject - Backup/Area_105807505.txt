@@ -1,0 +1,10 @@
+area_name: The Wind Tower Rock Climbing  
+area_url: /v/the-wind-tower/105807505 
+description: This popular rock can be divided in character into its south and southwest face.  The SW face has some of the most frequently climbed routes in Eldorado Canyon and is probably the best area in Eldorado Canyon for those seeking lower end difficulty climbing.  The rock is stellar for the first two pitches of climbs on this face.  Above this the rock has seen less traffic and still has loose rock for the unsuspecting climber.  On its S face, you will find fewer companions since its vertical face and spartan protection options will deter all but the most ardent suitors.  Once, the summit provided an anchor point for the cable upon which crossed Ivy Baldwin on many death-defying crossings of the canyon.  The cable was taken down in 1974.  Today, the cable remains testament to a disappearing breed of adventurer.  These are some of the earliest stomping grounds for Colorado legends like Layton Kor, Dick Bird, Dallas Jackson, Cleve McCarty, Larry Dalke, Pat Ament, Jeff Lowe, Jim Erickson, Steve Wunsch, Kevin Donald, Charlie Fowler, Duncan Ferguson, Kyle Copeland, Dan Hare, Mike Brooks, Richard Rossiter, and others.  Ultra-classics include: Calypso, 5.6; Wind Ridge, 5.6; the slippery Tagger, 5.10c;  Metamorphosis, 5.9+ s; King's X, 5.11a s; and Rainbow Wall, 5.13a.  The low part of this wall does include some moderately popular bouldering and traversing.  Note, if anyone has particularly good base digital photos for rendering a topo for this page, please let me know  construction zone 
+getting_there: Once you enter Eldorado Canyon State Park, you will hopefully find parking within 200 yards in one of two areas.  Park.  Walk uphill to the obvious bridge across South Boulder Creek.  Cross the bridge.  Look up & right.  Follow the trail to the SW face or veer right to the S face. 
+id: 105807505 
+latitude: 39.9316 
+longitude:  -105.283  
+parent_name: Eldorado Canyon SP 
+parent_url: /v/eldorado-canyon-sp/105744246 
+

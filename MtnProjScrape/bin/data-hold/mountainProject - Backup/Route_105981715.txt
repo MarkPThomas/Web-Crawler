@@ -1,0 +1,11 @@
+id: 105981715 
+parent_name: Scarface 
+parent_url: /v/scarface/105716943 
+route_description: Gorgeous splitter offwidth.  Laser cut. 
+route_name: Big Guy  
+route_quality: 0.975 
+route_rating:  YDS: 5.11- 
+route_rating_original: YDS: 5.11- 
+route_type: Trad, 1 pitch, 120' 
+route_url: /v/big-guy/105981715 
+

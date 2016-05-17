@@ -1,0 +1,11 @@
+id: 105722515 
+parent_name: Trashcan Rock - West Face 
+parent_url: /v/trashcan-rock---west-face/106670380 
+route_description: Just right of center on the west face, there's a ledge about ten feet wide and five feet high.  You can gain the ledge through unprotected but relatively easy climbing at either end.  Cranny starts from the right end of the ledge, and follows the obvious double crack system.  It requires an interesting combination of techniques, and protection is adequate but not copious. 
+route_name: Cranny  
+route_quality: 0.525 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 1 pitch, 30' 
+route_url: /v/cranny/105722515 
+

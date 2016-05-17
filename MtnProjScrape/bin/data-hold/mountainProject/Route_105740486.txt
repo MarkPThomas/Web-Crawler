@@ -1,0 +1,11 @@
+id: 105740486 
+parent_name: Lisa Falls Buttress 
+parent_url: /v/lisa-falls-buttress/105739533 
+route_description: This climbs the upper face to the right of the waterfalls.  Start from the belay station at the ledge above Flee Flicker or Fleeting Glimpse.  This then works around the roof that the anchors are on, and  then pops over the small roof, at the base of the brown face with a bolt.  Climb to the ledge and clip, make your touchy move and continue to the top.   
+route_name: Hard Knocks  
+route_quality: 0.45 
+route_rating:  YDS: 5.9 R 
+route_rating_original: YDS: 5.9+ R 
+route_type: Trad, TR, 1 pitch, 80' 
+route_url: /v/hard-knocks/105740486 
+

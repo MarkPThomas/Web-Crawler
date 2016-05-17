@@ -1,0 +1,10 @@
+area_name: Third Flatiron Rock Climbing  
+area_url: /v/third-flatiron/105744681 
+description: Unmistakable and outstanding, its jutting east face is obvious from anywhere in Boulder, and the beautiful, solid rock meets or exceeds your high expectations. A 100-foot-high "CU" was painted on since the 1940s. Since camouflaged by more paint, you can still see the faint outline. Of course, when you're on the east face, it's obvious when you get to this section of the rock, especially because it's a smeary section of rock with no hand holds, mostly friction foot moves. Enjoy it when you can: the Parks department closes this and  most of the rocks around it, due to raptor nesting concerns (see below).  Note, the Ghetto is actually part of the Third Flatiron. 
+getting_there: From the ranger cottage at the Chautauqua Park trailhead (Baseline Rd.), follow the paved Bluebell Road south to the Bluebell Shelter. From the shelter follow the Royal Arch trail south to the junction of the Second-Third Flatiron Trail. Follow this trail west to the clearly marked Third Flatiron Trail. The trail ends at the start of the Third Flatiron standard east face climbing route. The Third Flatiron Descent Trail starts in the saddle to the west of the summit of the Third Flatiron. The trail begins to descend north, then east, down through a talus field to end at the Third Flatiron Trail, a few hundred yards north of  the start to the standard east face climbing route.  
+id: 105744681 
+latitude: 39.9874 
+longitude:  -105.292  
+parent_name: North 
+parent_url: /v/north/105744231 
+

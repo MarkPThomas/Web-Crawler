@@ -1,0 +1,11 @@
+id: 107215446 
+parent_name: Sugarloaf, West Face 
+parent_url: /v/sugarloaf-west-face/105734495 
+route_description: A failed attempt to reach the South Summit. The first ascentionists executed a shoulder stand to bypass the dirty 5.8 section on the second pitch.  The start of the route is obvious. Head up the 5.5 chimney with a crack on the left side for pro. At the top of the chimney, climb spooky flaky rock to the left to surpass the chimney's roof.   A second dirty pitch continues to the top at 5.8 or you can climb "T.M.'s Deviation." 
+route_name: West Chimney  
+route_quality: 0.475 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 1 pitch, 100' 
+route_url: /v/west-chimney/107215446 
+

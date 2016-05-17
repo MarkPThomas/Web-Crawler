@@ -1,0 +1,10 @@
+area_name: Lisa Falls Rock Climbing  
+area_url: /v/lisa-falls/106002298 
+description: This is a beautiful area frequented by hikers and climbers. Many routes are in the shade at various times of the day. The nearby flowing water also cools the area. All the fixed anchors are relatively new and of high quality. Routes are clustered in 3 distinct areas.  Lisa Falls Buttress These slabs are particularly well-suited to beginner climbers or those just looking for a casual jaunt up the rock while being surrounded by the beauty of trees and a nearby waterfall. The routes here are among the easiest on the difficulty scale. Beginner climbers are cautioned to pay close attention to the protection rating for individual routes, as a few are runout.  Lisa Falls West This wall has sport routes on it that face northwest and are all shady in the morning.  Freedom Wall 3rd Class scrambling is required left of the waterfall to approach this area. It will not faze most climbers. Exercise care, particularly during periods of high water flow. This wall is steep and features cracks and holds that continuously diagonal right/up. The wall faces east and is located in a relatively narrow slot that remains shady for most of the day.  
+getting_there:  
+id: 106002298 
+latitude: 40.5736 
+longitude:  -111.7275  
+parent_name: Little Cottonwood Canyon 
+parent_url: /v/little-cottonwood-canyon/105739277 
+

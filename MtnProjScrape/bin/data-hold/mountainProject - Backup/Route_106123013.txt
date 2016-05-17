@@ -1,0 +1,11 @@
+id: 106123013 
+parent_name: Buck's Bar Dome 
+parent_url: /v/bucks-bar-dome/105734267 
+route_description: Fun crack that is a good first gear lead. The crux comes right off the ground but can be easily protected. The rest of the climb is a very fun and straight forward crack 
+route_name: Live and Learn  
+route_quality: 0.55 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 1 pitch, 30' 
+route_url: /v/live-and-learn/106123013 
+

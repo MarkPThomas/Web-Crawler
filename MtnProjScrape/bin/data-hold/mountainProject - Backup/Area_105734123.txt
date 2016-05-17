@@ -1,0 +1,10 @@
+area_name: Pinnacle Rock Rock Climbing  
+area_url: /v/pinnacle-rock/105734123 
+description: About 25 feet tall, Pinnicle rock has a handful of pocketed face climbs as well as a noticeable crack on the left side, and a strange ramp on the right.  This rock has a large solid metal pole set 15 - 20' behind the main face of the rock, which allows you to use long slings to setup top ropes on the 8 or so climbs (5.6 - 5.11d) on the face.  Be sure to bring long slings (~25') to this rock, as the top edge is quite sharp, and you want to ensure that your top anchor sits all the way over the edge to reduce / eliminate rope drag.   
+getting_there: Looking at it from the road, Pinnicle rock is the most massive boulder on the left side of the climbing.Since the park is so small, it would be pretty difficult to miss it. 
+id: 105734123 
+latitude:  
+longitude:  
+parent_name: Remillard Park 
+parent_url: /v/remillard-park/105733899 
+

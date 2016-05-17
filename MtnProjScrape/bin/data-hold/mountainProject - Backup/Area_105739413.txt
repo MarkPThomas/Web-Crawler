@@ -1,0 +1,10 @@
+area_name: Schoolroom Area Rock Climbing  
+area_url: /v/schoolroom-area/105739413 
+description: The Schoolroom Area covers the western portion of the huge Gate Buttress and is just east of the Green Adjective Gully.  As with most of the popular crags along the north side of LCC, the main attractions are hard face climbs and stellar cracks up excellent granite.  Over thirty named climbs and lots of variations are possible.  Some classic cracks in the 5.6-5.8 range are Schoolroom, Schoolroom West, Bushwhack Crack, and Hatchet Crack.   Most climbs descend from the Schoolroom rappel which is west-facing near the mouth of the Green A Gully.  From the top of the final pitch of Schoolroom or Schoolroom West, scramble down 30 or 40 feet to a tree with lots of slings and a few rap rings.  Rap down and veer left 60 feet or so to a pair of chains.  From here it is a solid 90 foot rappel to the ground&mdask;perfect for a 60m rope.  If you're using a 50m rope, you can scramble down from a ledge but be sure you tie stopper knots in your rope ends! 
+getting_there: Park 1.25 miles up Little Cottonwood canyon.  Right now (2003) the north-side pull out is fenced off.  Go left (west) of the fenced pull out and you'll find yourself among the Gate Boulders.  Follow a trail to the left into a talus field.  Scramble straight up through the talus and eventually work your way along the west edge of the trees up to the base of the Gate Buttress.  There are several trails up to the climbs but this is what I found easiest.  The start of Schoolroom and Schoolroom West is at the left side before you go up around the corner. 
+id: 105739413 
+latitude: 40.5733 
+longitude:  -111.754  
+parent_name: Gate Buttress 
+parent_url: /v/gate-buttress/106002442 
+

@@ -1,0 +1,11 @@
+id: 105870718 
+parent_name: Pat and Jack Pinnacle 
+parent_url: /v/pat-and-jack-pinnacle/105870715 
+route_description: Knob Job is an excellent hand and finger crack that escapes midway up the route onto a series of wild knobs, hence the name.  Unique climbing for Yosemite.  Well protected. Climb the obvious hand crack until you gain a pair of thin cracks. Follow this through some knobs and trend to the left. Head for a tree that is far to the left of the start. Expect some rope drag at the top.  Long pitch.   
+route_name: Knob Job  
+route_quality: 0.775 
+route_rating:  YDS: 5.10b 
+route_rating_original: YDS: 5.10b 
+route_type: Trad, 1 pitch, 200' 
+route_url: /v/knob-job/105870718 
+

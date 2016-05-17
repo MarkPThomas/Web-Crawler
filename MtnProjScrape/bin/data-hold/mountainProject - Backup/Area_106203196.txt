@@ -1,0 +1,10 @@
+area_name: Curry Village Rock Climbing  
+area_url: /v/curry-village/106203196 
+description: A great bouldering area that's close by if your staying in Camp Curry that doesn't get much attention but still has some great problems.  The main area is farther west of most of the tent cabins but there is a nice boulder by cabin #321 with two problems that deserve some attention. 
+getting_there: Walk west from the main concentration of tent cabins, cross a ditch and the boulders lie near a power cord.  The other boulder is right next to cabin #321. 
+id: 106203196 
+latitude: 37.7364 
+longitude:  -119.5705  
+parent_name: Yosemite Valley Bouldering 
+parent_url: /v/yosemite-valley-bouldering/107457415 
+

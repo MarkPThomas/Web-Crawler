@@ -1,0 +1,11 @@
+id: 106997654 
+parent_name: Mt. Temple 
+parent_url: /v/mt-temple/106997567 
+route_description: Follow the grassy hillside toward the base of the East Ridge.  Eventually vegetation gives way to talus, which is followed to the base of a third class ridge.  Follow the path of least resistance for several hundred feet of moderate scramble to a broad shoulder at the base of The Big Step.    	  	              	      	  	    East Ridge Topo.   	  Start a few feet left of the left nose of the buttress, and follow two or three pitches of steep 5.6 climbing on generally excellent rock to the top of the Big Step.  More moderate scrambling works up the ridge to another low angle section.    Hike easily along the ridge, mindful of loose rock, until the dark gray bands of the Black Towers are reached.  At this point locate a prominent ledge system and traverse left several hundred feet, eventually wroking up & left to the next higher ledge system, and traversing another several hundred feet (snow may be encountered depending on conditions).  Continue the west-ward traverse until below a pair of similar-sized, conical towers.    A gully splits these towers, and another gully goes around the right-most tower on the right side.  Follow this, right-most gully for a couple pitches on relatively solid limestone at low 5th class to regain the crest of the ridge.  Occasionally the upper half of this gully is filled with snow.  Don the appropriate snow gear and follow the corniced ridge to the summit, mindful of crevasses and soft cornices.  
+route_name: East Ridge  
+route_quality: 1.0 
+route_rating:  YDS: 5.7 PG13 
+route_rating_original: YDS: 5.7 Mod. Snow PG13 
+route_type: Alpine, 10 pitches, 5000' 
+route_url: /v/east-ridge/106997654 
+

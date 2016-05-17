@@ -1,0 +1,10 @@
+area_name: Liberty Bell Rock Climbing  
+area_url: /v/liberty-bell/105797864 
+description: Liberty Bell is the striking northern summit of the Liberty Bell massif, a group that includes Concord Tower as well as the Early Winter Spires.  The east face is home to the famous Liberty Bell Crack, while the south west face is home to the moderate and popular Beckey route.  The summit of Liberty Bell was first reached in 1946 by Fred Beckey, Jerry O'Neil and Charles Welsh after a 17 mile approach, prior to construction of the North Cascades Highway. The summit is at 7720'. 
+getting_there: For routes on the east side of Liberty Bell, park at an overlook just above the hairpin turn on the east side of Washington Pass.  For routes on the west side, park at the Blue Lakes Trail head, 1 mile west of Washington Pass(NW Forest Pass required). 
+id: 105797864 
+latitude: 48.51548 
+longitude:  -120.65874  
+parent_name: Washington Pass 
+parent_url: /v/washington-pass/105792192 
+

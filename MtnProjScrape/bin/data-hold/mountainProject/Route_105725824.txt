@@ -1,0 +1,11 @@
+id: 105725824 
+parent_name: Intersection Rock 
+parent_url: /v/intersection-rock/105720810 
+route_description: On the far end of the northwest face, going from the ground to the ledge below the Overhang Bypass, there is a nice low-angle jamcrack. This is a good beginenr's lead and would take whatever protection you might want to jam into it. It's also a decent and fun entry-level solo. The climb starts just down from the "walk up" to the ledge and finishes at the base of the Overhang Bypass. 
+route_name: Beginner's Three  
+route_quality: 0.45 
+route_rating:  YDS: 5.3 
+route_rating_original: YDS: 5.3 
+route_type: Trad, 1 pitch, 50' 
+route_url: /v/beginners-three/105725824 
+

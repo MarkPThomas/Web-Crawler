@@ -1,0 +1,11 @@
+id: 106088271 
+parent_name:  1 - Parkline Slab 
+parent_url: /v/-1---parkline-slab/106043816 
+route_description: This route is a must do if you are in Yosemite during the winter and its too cold to climb further up in the park.  It offers an excellent elevation gain while ascending both crack and face at a moderate grade.  Pitch 1:  Begin climbing in an awesome hand crack that continually narrows and eventually ends after 100ft.  Continue straight up (5.8) past two bolts (runout) to a two bolt anchor with slings and two rappel rings.  Pitch 2:  Face climb (5.8) passing the right side of *three bolts (runout).  Continue straight up over a small rooflet (small TCU) and a bolt to a two bolt anchor with slings and one rappel ring.  *Note - One more bolt than in Donald Reid's topo.  Pitch 3:  Climb a thin (small TCU) yet widening finger crack (5.7) to a large ledge.  Exit the ledge on the right (large cam) and climb up and left past a bolt (runout) to a two bolt anchor with slings and one rappel ring.  Pitch 4:  Climb a thin right slanting crack (5.6) to the summit of the formation.  Look at the cliff above before rappelling. 
+route_name: Stonequest  
+route_quality: 0.725 
+route_rating:  YDS: 5.8+ R 
+route_rating_original: YDS: 5.8+ R 
+route_type: Trad, 4 pitches, 500',  Grade II 
+route_url: /v/stonequest/106088271 
+

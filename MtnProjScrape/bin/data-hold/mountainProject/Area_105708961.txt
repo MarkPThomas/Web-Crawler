@@ -1,0 +1,10 @@
+area_name: Nevada Rock Climbing  
+area_url: /v/nevada/105708961 
+description:  
+getting_there:  
+id: 105708961 
+latitude: 39.0277 
+longitude:  -116.631  
+parent_name:  
+parent_url:  
+

@@ -1,0 +1,10 @@
+area_name: Pat and Jack Pinnacle Rock Climbing  
+area_url: /v/pat-and-jack-pinnacle/105870715 
+description: Pat and Jack is an excellent crag that is often bypassed for the more popular crags nearby, but it hosts a number of superb routes that are well worth the short walk. This is a steep wall, that has a number of knobs along it which allows the splitter cracks to be done at slightly more moderate grades. Some pitches to try include Sherrie's crack, Knob Job and the Tube. Similar weather as for Cookie Cliff with lots of sun for fall / winter climbing.  
+getting_there: Find a parking area off Hwy 140, west of the Cascade Creek bridge and park on the south side of the road. Cross 140 and find a climbers trail that heads directly up the hill. The trail will lead to Knuckleheads, and Knob Job. 
+id: 105870715 
+latitude: 37.7249 
+longitude:  -119.7132  
+parent_name: 14 - Cascade Area 
+parent_url: /v/14---cascade-area/105875250 
+

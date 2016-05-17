@@ -1,0 +1,10 @@
+area_name: 21 - Reed's Pinnacle Area Rock Climbing  
+area_url: /v/21---reeds-pinnacle-area/105863765 
+description: Another popular, classic, Yosemite crack climbing area. Here you will find the Classic "Reed's Direct", "Chingando", "Lunatic Fringe" and "Stone Groove", to name a few. 
+getting_there: This area is above the road, between the first and second tunnels on the Big Oak Flat Road, going to HWY 120. 
+id: 105863765 
+latitude: 37.7247 
+longitude:  -119.6996  
+parent_name: Lower Merced River Canyon 
+parent_url: /v/lower-merced-river-canyon/110464982 
+

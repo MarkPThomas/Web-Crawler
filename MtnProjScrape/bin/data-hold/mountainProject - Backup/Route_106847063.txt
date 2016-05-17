@@ -1,0 +1,11 @@
+id: 106847063 
+parent_name: Split Mountain 
+parent_url: /v/split-mountain/106847044 
+route_description: St Jeans is the the couloir to the right of the east-central couloir. Its steep, slushy and about 1200ft long from the base to the top. From the top of the couloir, go left over a couple of false summits to the top. 
+route_name: St Jeans Couloir  
+route_quality: 1.0 
+route_rating:  YDS: 4th X 
+route_rating_original: YDS: 4th Steep Snow X 
+route_type: Trad, Alpine 
+route_url: /v/st-jeans-couloir/106847063 
+

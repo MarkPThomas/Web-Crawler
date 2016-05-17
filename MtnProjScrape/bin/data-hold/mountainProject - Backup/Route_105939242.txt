@@ -1,0 +1,11 @@
+id: 105939242 
+parent_name: Glacier Point Apron 
+parent_url: /v/glacier-point-apron/105862612 
+route_description: Great relaxed climb. Fun roof 
+route_name: Monday Morning Slab, Harry Daley Route  
+route_quality: 0.825 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 2 pitches, 300' 
+route_url: /v/monday-morning-slab-harry-daley-route/105939242 
+

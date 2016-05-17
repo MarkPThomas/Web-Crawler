@@ -1,0 +1,10 @@
+area_name: Royal Arches Rock Climbing  
+area_url: /v/royal-arches/105833402 
+description: Royal Arches is a tremendous arched wall found on the north side of the Valley, just west of Washington Column. The wall is formed of white granite with cool black streaks running down it and it looms impressively over the Valley's Ahwahnee Hotel. Easily the most popular route on this wall is the moderate Royal Arches Route (5.10b or 5.7 A0), amazingly first climbed in 1936 by Ken Adam, Morgan Harris, and W. Kenneth Davis. This is a really cool experience for many first time Valley visitors, as the route takes you from floor to rim and is easily climbed in a day by most parties. 
+getting_there: As with Washington Column, it used to be you could park at the Ahwahnee and hoof over to the Column on the bike path, but I've heard recently that you can't park there anymore (permit req'd?). Maybe someone can post up the current beta... 
+id: 105833402 
+latitude: 37.7473 
+longitude:  -119.5648  
+parent_name: Yosemite Valley 
+parent_url: /v/yosemite-valley/105833388 
+

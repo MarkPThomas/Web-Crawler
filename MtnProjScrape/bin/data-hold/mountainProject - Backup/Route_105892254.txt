@@ -1,0 +1,11 @@
+id: 105892254 
+parent_name: Church Bowl 
+parent_url: /v/church-bowl/105860381 
+route_description: Climb the flared chimney, around the corner to the right of "Church Bowl Chimney", to the terrace. Rappel off. 
+route_name: Church Bowl Terrace  
+route_quality: 0.675 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 1 pitch 
+route_url: /v/church-bowl-terrace/105892254 
+

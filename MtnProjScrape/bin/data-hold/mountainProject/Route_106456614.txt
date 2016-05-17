@@ -1,0 +1,11 @@
+id: 106456614 
+parent_name: Cardinal Pinnacle 
+parent_url: /v/cardinal-pinnacle/105862805 
+route_description: An excellent route with cracks of all sizes.  It offers just about every crack technique and is highlighted by the 3rd pitch finger crack.  This route links the original routes 'Crack of No Hope' - FA-Doug Robinson/Jay Jensen, and 'Wild Kingdom' - FA-Dean Hobbs/Andy Selters.  This combination is the recommended way to go...   Pitch 1: Begin as 'West Face', but at the big ledge near the top of P-1 break left off 'West Face' and traverse along the big ledge, passing the rappel anchor and the obvious off-width.  Build a belay at the base of the next short arching crack on a nice little perch.  To decrease rope-drag belay at the rap anchor then have the follower continue past to the proper belay stance. (5.10a)  Pitch 2: Climb up the short right-arching crack past broken blocks to a thin chimney on the right side of a large detached block.  Tackle the next short off-width then left into the funky flare/V-groove (crux).  Follow the easy low-angle chimney to its top then step down and left to belay on a ledge below the obvious left-facing corner. (5.10b)  Pitch 3: Up the nice corner to the steep finger crack that leads up and right out of the corner.  Pop over the lip (crux) following the crack out right, then back left to a short traverse around the arete to a short splitter thin-hands crack.  Follow this up to a big ledge and belay at the base of the short and thin right-facing flake. (5.10c)  Pitch 4: Up the flake (crux), then thru some scrambling to the big ledge below the true summit.  Another short 4th class scramble will sit you on the top. (5.10b)  Descent:  Rappel, downclimb, or lower 40 feet down and right to the first proper rappel station on the exposed block. (5.5)  From here you have four 35 meter rappels (two 60m ropes/one 70m) 
+route_name: Crack Kingdom  
+route_quality: 0.875 
+route_rating:  YDS: 5.10c 
+route_rating_original: YDS: 5.10c 
+route_type: Trad, 5 pitches, 550' 
+route_url: /v/crack-kingdom/106456614 
+

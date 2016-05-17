@@ -1,0 +1,10 @@
+area_name: Central-East Cascades, Wenatchee, & Leavenworth Rock Climbing  
+area_url: /v/central-east-cascades-wenatchee--leavenworth/108471397 
+description: Region just east of the Central-Western Cascades. 
+getting_there: I90 and HW2 going E-W.  
+id: 108471397 
+latitude: 47.582 
+longitude:  -120.36924  
+parent_name: Washington 
+parent_url: /v/washington/105708966 
+

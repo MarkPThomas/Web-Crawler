@@ -1,0 +1,10 @@
+area_name: Bear Creek Spire Rock Climbing  
+area_url: /v/bear-creek-spire/105806064 
+description: This fantastic rock peak dominates Little Lakes Valley and has at least four high-quality routes to its name. Another High Sierra prerequisite summit. 
+getting_there: From 395 at Tom's Place drive west to Mosquito Flats. Hike along Little Lakes Valley trail to Long Lake, then follow a faint trail up to either Treasure Lakes or before reaching those lakes cut left and up to the desolate Dade Lake (4.25 miles, 1,300 feet of elevation gain). 
+id: 105806064 
+latitude: 37.3681 
+longitude:  -118.767  
+parent_name: 06 - Little Lakes Valley & Mono Recesses 
+parent_url: /v/06---little-lakes-valley--mono-recesses/110530477 
+

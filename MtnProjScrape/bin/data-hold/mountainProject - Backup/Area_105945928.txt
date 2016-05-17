@@ -1,0 +1,10 @@
+area_name: Camp 4 Wall Rock Climbing  
+area_url: /v/camp-4-wall/105945928 
+description: A brief walk from Camp 4, this wall is home to many excellent climbs.  Just a few of the quality offerings include: Edge of Night (.10c) and Secret Storm (.10a), Henley Quits (.10b), Doggie Do (.10a), Doggie Deviations (.9), Lancelot (.9) and Cid's Embrace (.8).  You will find everything from fun liebacks, fists, and hands to physical ow and wide cracks up at the Camp 4 Wall - you can have fun or scare yourself silly, depending on your mood that day.  The wall is southeast facing and gets plenty of sun until afternoon, making it a good winter/spring/fall spot, and an alternative for summer afternoons.  In spite of its proximity to Camp 4, it never seems to be too crowded, due probably to the general nature of many of the climbs.  An excellent place to build your skill set on all types of climbing. 
+getting_there: Follow the drainage from the downvalley end of Camp 4 to the scree and boulder field that moves up parallel to the wall. 
+id: 105945928 
+latitude: 37.74287 
+longitude:  -119.60709  
+parent_name: Three Brothers Area 
+parent_url: /v/three-brothers-area/110638278 
+

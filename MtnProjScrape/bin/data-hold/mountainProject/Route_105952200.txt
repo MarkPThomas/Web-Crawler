@@ -1,0 +1,11 @@
+id: 105952200 
+parent_name: Monolith 
+parent_url: /v/monolith/105734228 
+route_description: This is a good route in the middle of the Monolith's east face.  It has 2 starts.  You can go from down below and make it 11a or you can start above skipping the first 2 bolts.  If you don't go down into the subterranean bit, it goes at 10a or so.  Follow an appealing face with neat, embedded rocks protruding from the matrix.  Pass 7 or 9 bolts.  There is a runout bit near the top above the last bolt. 
+route_name: Subterranean Tango  
+route_quality: 0.725 
+route_rating:  YDS: 5.10a R 
+route_rating_original: YDS: 5.10a R 
+route_type: Sport, 1 pitch, 80' 
+route_url: /v/subterranean-tango/105952200 
+

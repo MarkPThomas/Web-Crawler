@@ -1,0 +1,10 @@
+area_name: 01 - The Sawtooth Ridge Rock Climbing  
+area_url: /v/01---the-sawtooth-ridge/110498412 
+description: The Sawtooth Ridge area is the northern limit of the true High Sierra (it's in the Hoover Wilderness, which has been separated in MP for convenience). Nationally renowned for high country rock climbs being developed on Incredible Hulk, which appear in most recent years' American Alpine Journals, within sight of the popular hiking and climbing destination of Matterhorn Peak. Wild mountain play of all difficulties between may be had here.  Many start their treks from Horse Creek, or two other nearby trailheads , making Annett's Mono Village a popular, but not free, base of operations (see their wesbite for the latest details; it recently costed $10 to park at the marina there).   The Hoover Wilderness lies on the east slopes of Sawtooth Ridge, so overnight stays starting here require permits; see the website for information, or to reserve one in advance. Yosemite National Parks begins on the west slopes. Day trips into the protected areas from here are free.  Further reading:  A Climbers Guide to the High Sierra (1954) 
+getting_there: From the town of Bridgeport on highway 395, turn south onto Twin Lakes Road, which winds south and west into the Sierra Nevada. This ends at Anett's Mono Village Resort. From here, the exact trail to take depends on your destination. 
+id: 110498412 
+latitude: 38.14895 
+longitude:  -119.37709  
+parent_name: High Sierra 
+parent_url: /v/high-sierra/105791817 
+

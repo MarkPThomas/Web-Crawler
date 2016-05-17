@@ -1,0 +1,10 @@
+area_name: Moose's Butte Area Rock Climbing  
+area_url: /v/mooses-butte-area/105808346 
+description: This area includes the towers and formations found on the ridgeline that runs roughly east/west along highway 89 where it starts up Oak Creek Canyon. I'll add a better description later...  Formations include (but not limited to): Pointed Dome, Queen Victoria, Moose's Butte, Teapot Rock, etc. 
+getting_there: Routes in this area are approached from parking off Schnebly Hill Road. Parking and approach instructions included for the formations/routes individually. 
+id: 105808346 
+latitude: 34.8749 
+longitude:  -111.73783  
+parent_name: Sedona 
+parent_url: /v/sedona/107439475 
+

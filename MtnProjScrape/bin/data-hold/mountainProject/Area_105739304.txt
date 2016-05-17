@@ -1,0 +1,10 @@
+area_name: Mount Olympus Rock Climbing  
+area_url: /v/mount-olympus/105739304 
+description: Mount Olympus, an impressive peak which towers above the east side of Salt Lake City, rises to an elevation of 9,026 feet.  Long moderate routes are the main attraction here.  Climbing these routes requires most or all of a day, and protection can be sparse.  When climbing here, expect an alpine feel to the climbing, and for some approaches make sure to bring an ice axe.  Also in this area is a popular toproping outcrop called Pete's Rock, which sits at the trailhead for Mt. Olympus. 
+getting_there: Trailheads vary for Mount Olympus, depending on the route chosen.  The main trailhead is a signed parking area off of Wasatch Blvd.  Look for this on the East side of the road a ways south of 4500 South.  This access covers Pete's Rock, Geurt's Ridge, and the main hiking trail up the peak.  Other parking areas are best described per route. 
+id: 105739304 
+latitude: 40.6569 
+longitude:  -111.771  
+parent_name: Wasatch Range 
+parent_url: /v/wasatch-range/105739213 
+

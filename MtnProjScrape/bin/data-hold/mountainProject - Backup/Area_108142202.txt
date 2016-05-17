@@ -1,0 +1,10 @@
+area_name: c. Moe (closure) to Harvest Moon Rock Climbing  
+area_url: /v/c-moe-closure-to-harvest-moon/108142202 
+description: Previous area: b. Gelsa to Moe (closure) Next area: d. Harvest Moon to the End  This is where the Nears starts to get more remote.  Generally, routes are further apart here, with the exception of the Eastertime Too area, which has a number of high-quality routes within 100 ft. or so.    Navigational aides:  Coyote Crack, Whet Stone, Easter Time Too, Cherokee, Ambien Knights, White Pillar.  Dick Williams and friends went on a spree of new-routing in 2007 in the process of rewriting the guidebook, so keep an eye out for these newer routes (and carry ballnutz).  On the right side, this section starts with the large, orange right-facing corner of Eenie Meenie (not yet described here as a route).  Moe is right next to Eenie Meenie.  At the left end, Harvest Moon is the unmistakeable hand crack on the right side of a huge separate block that leans against the cliff.  The last route included in this section, White Pillar, climbs the chimney formed between the block and the cliff. 
+getting_there: Keep on walkin' ....  ... but really, you should respect the closure and approach this area by the slingshot hike.  From atop the steel bridge, take the carriage road away from the Trapps, hang a left on the second (green) trail to your left, then head downhill at the four-way intersection about 10 minutes past that.  Scramble downhill following the tags. You're really walking over, around and down the end of the Nears formation;  then walk back along the base of the Nears to this area. 
+id: 108142202 
+latitude: 41.73146 
+longitude:  -74.19755  
+parent_name: The Near Trapps 
+parent_url: /v/the-near-trapps/108142181 
+

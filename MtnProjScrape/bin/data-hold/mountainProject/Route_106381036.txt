@@ -1,0 +1,11 @@
+id: 106381036 
+parent_name: Beak Boulder 
+parent_url: /v/beak-boulder/106381030 
+route_description: A nice wide outing for the neophyte O-dubber.  This route requires some ability to use wide skills, but also allows you to get good hand jams deep in the back.   
+route_name: Modern Warfare  
+route_quality: 0.7 
+route_rating:  YDS: 5.10a 
+route_rating_original: YDS: 5.10a 
+route_type: Trad, 1 pitch, 45' 
+route_url: /v/modern-warfare/106381036 
+

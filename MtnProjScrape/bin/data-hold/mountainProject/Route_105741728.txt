@@ -1,0 +1,11 @@
+id: 105741728 
+parent_name: Narcolepsy Area 
+parent_url: /v/narcolepsy-area/105739449 
+route_description: This is the left of the two cracks, left of the Narcolepsy/Dreamscape face.  An easy beginning leads to an awkward steeper section that gets more difficult as soon as Mr. Sandman branches right.  A couple of cruxes, IMO, the first clearing the 1st overhanging section and the second on the exit sequence, will test your confidence.  A nice climb worth doing with some fun jamming and a bit of chimneying. 
+route_name: Chimney Sweep  
+route_quality: 0.6 
+route_rating:  YDS: 5.9+ 
+route_rating_original: YDS: 5.9+ 
+route_type: Trad, 1 pitch, 60' 
+route_url: /v/chimney-sweep/105741728 
+

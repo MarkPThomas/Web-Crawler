@@ -1,0 +1,11 @@
+id: 105984407 
+parent_name: Mt. Superior / Monte Cristo 
+parent_url: /v/mt-superior--monte-cristo/105984058 
+route_description: This classic alpine route follows a long, airy quartz and basalt ridge with a couple of knife edge sections and towers.  In warmer weather this is an easy scramble/rockclimb, but with snow and ice it becomes a more challenging alpine climb.  Start early as the route gets a lot of sun. Trend right after the largest tower (above Suicide Couloir) to avoid some loose slabs out left.  A good view of the route can be seen from the Alta parking lot. 
+route_name: South Ridge  
+route_quality: 0.875 
+route_rating:  YDS: Easy 5th 
+route_rating_original: YDS: 5.4 
+route_type: Trad, Alpine 
+route_url: /v/south-ridge/105984407 
+

@@ -1,0 +1,11 @@
+id: 105957970 
+parent_name: Calaveras Dome 
+parent_url: /v/calaveras-dome/105876779 
+route_description: This climbs a line near the center of the North side of the dome. Start from a terrace and to the left of a right facing dihedral. Climb a 5.10a  crack to a belay.  Continue up the crack (5.10b) to a belay with two Bolts. These two pitches can be combined with a 60M rope. Move up a left leaning arch to a sling belay (5.10c). Climb a 5.8 crack and corner to a two bolt belay. A 5.9 corner is followed to a two bolt belay at it's end. Climb 5.9 face past two bolts, then up and right to a third bolt and head left to a two bolt belay. Face climb past a bolt to a left-leaning dike system. Follow this past two more bolts to a sling belay from two bolts. Head up to a short 5.6 corner, then face climb to a two bolt belay. Move up  a right-leaning arch to where it is possible to climb up face to a 5.5 crack to a two bolt belay at the cracks end. Class 4, leads to a two bolt belay.  Either Rappel the route (two ropes) or walk off to the right. 
+route_name: War of the Walls  
+route_quality: 0.975 
+route_rating:  YDS: 5.10+ PG13 
+route_rating_original: YDS: 5.10c PG13 
+route_type: Trad, 9 pitches,  Grade IV 
+route_url: /v/war-of-the-walls/105957970 
+

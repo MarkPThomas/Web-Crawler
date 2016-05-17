@@ -1,0 +1,11 @@
+id: 105740090 
+parent_name: Iron Curtain Wall 
+parent_url: /v/iron-curtain-wall/105739425 
+route_description: Up In a Flash is the longest route on the Iron Curtain Wall.  It is the fourth route from the left, and the bolts can be seen leading to the highest point.  Follow the bolts through many jugs to a 2-bolt anchor (with chains) on the top of the formation.  The crux is at the start.Either walk off or do a 2-rope rap back to the deck. 
+route_name: Up In a Flash  
+route_quality: 0.65 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Sport, 1 pitch, 110' 
+route_url: /v/up-in-a-flash/105740090 
+

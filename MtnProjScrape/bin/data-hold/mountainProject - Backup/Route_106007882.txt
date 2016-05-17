@@ -1,0 +1,11 @@
+id: 106007882 
+parent_name: Medlicott Dome, Center 
+parent_url: /v/medlicott-dome-center/108232840 
+route_description: Goldmember is an excellent slab route halfway up Medlicott Dome.  We accessed it by climbing Piss Easy, but other approach options may exist.  Also, the supertopo guide notes that Jake Whittaker put it up freesolo (!) and that it was later bolted by a party unaware of the fact it had been climbed.  The FA expressly gave permission for the bolts to remain, I'd like to thank him for that generousity, so that mere mortals like myself could enjoy this excellent route.  From the large belay ledge atop p2 of Piss Easy, follow the 4" wide golden dike that trends up and left on very polished and slick granite, surmounting a few small overlaps.  Fun thin slab moves all the way to the top, with a couple mantels.  End at a hole in the rock with two bolts equipped with rap anchors.  Descent:  I think you are supposed to rap down and left 50' to the Shagadelic anchors, then do two double rope raps to the ground.  We didn't know this, and tried to go straight to the p1 shagadelic rap anchors directly below on the big ledge.  With 2 60m ropes, I came up 20' short, and had to down solo some 4th class, which was thankfully above a large ledge.  Be aware!  Then, double rope rap to the ground. 
+route_name: Goldmember  
+route_quality: 0.75 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 1 pitch, 150' 
+route_url: /v/goldmember/106007882 
+

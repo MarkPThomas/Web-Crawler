@@ -1,0 +1,11 @@
+id: 106075607 
+parent_name: The Wart 
+parent_url: /v/the-wart/105806247 
+route_description: The clean hands start is obviously "the Good".... the middle section could be "the Bad", and for sure the wide above is "the Ugly"!  This route is deceptively awkward for the 34" of real climbing it offers.  I did it right side in, left side in, and stacked it, and none of them were great... or graceful.  There are some tricks to all them methods, but this no place to tell them... get in there and start wiggling.  Really good route with one or two interesting moves. 
+route_name: The Good, the Bad, and the Ugly  
+route_quality: 0.7 
+route_rating:  YDS: 5.10 
+route_rating_original: YDS: 5.10 
+route_type: Trad, 1 pitch, 35' 
+route_url: /v/the-good-the-bad-and-the-ugly/106075607 
+

@@ -1,0 +1,11 @@
+id: 105717538 
+parent_name: The Three Gossips 
+parent_url: /v/the-three-gossips/105716922 
+route_description: The West Face climbs the most obvious dihedral on the west(away from the road) face of the three gossips, and climbs to the head nearest the road.  The correct dihedral is a stellar looking handcrack with no visible fixed anchors from the base.  Be careful to find washes to reach the base-there is a lot of crypto soil and not much of a trail.  Pitch 1 - climb fingers and hands through some bulges to a big bulge just before the anchor.  There are some fixed pins at a ledge halfway up the pitch.  5.10 or awkward C1, 100'  Pitch 2 - climb a varied crack over a bulge, move left one crack system, and head over a bulge to a 5.7 squeeze chimney.  5.11 or C1.  I placed everything from a blue alien to a 5 camalot on this pitch.  130 feet, belay between the heads of the gossips.  The anchor is about 30 feet to the right of the pitch, but a good directional can be set up with large cams.  Pitch 3 - climb a sandy poorly protected slab 5.7 to the big chimney.  Tunnel in and climb unprotected to the top 5.5  70 feet, a few medium cams is all you get.  A single rope rap gets you to the shoulder.  Walk over to the station, and two double rope raps put you on the ground.   
+route_name: West Face  
+route_quality: 0.825 
+route_rating:  YDS: 5.11 
+route_rating_original: YDS: 5.11 
+route_type: Trad,  Grade III 
+route_url: /v/west-face/105717538 
+

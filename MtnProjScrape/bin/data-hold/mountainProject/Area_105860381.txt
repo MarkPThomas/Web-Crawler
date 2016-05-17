@@ -1,0 +1,10 @@
+area_name: Church Bowl Rock Climbing  
+area_url: /v/church-bowl/105860381 
+description: Church Bowl has some good moderate climbs. It is very popular and can get crowded. 
+getting_there: Church Bowl is on the north side of the road from Yosemite Village, to the Ahwahnee Hotel.  There is no shuttle bus stop at Churchbowl. If taking the bus, get off at the Village Store stop and walk toward the Ahwahnee. 
+id: 105860381 
+latitude: 37.7491 
+longitude:  -119.579  
+parent_name: Yosemite Valley 
+parent_url: /v/yosemite-valley/105833388 
+

@@ -1,0 +1,10 @@
+area_name: The Folly Rock Climbing  
+area_url: /v/the-folly/105865211 
+description: The Folly is a wall that sits above and just west of Camp 4.  The best view of it comes while walking from Yosemite Lodge back to Camp 4.  It is the site of a major rockfall (the white scars are visible high on the wall) and is still considered unstable.  Much of the talus at the base of the wall is fresh and the approach trail seems to have vanished... 
+getting_there: Park at one a pullout a little ways west of Camp 4, well before reaching the Meadows and the parking areas for El Cap base routes.  Hike briefly through the woods and up the steep talus to the base of the cliff. 
+id: 105865211 
+latitude: 37.74178 
+longitude:  -119.60766  
+parent_name: Three Brothers Area 
+parent_url: /v/three-brothers-area/110638278 
+

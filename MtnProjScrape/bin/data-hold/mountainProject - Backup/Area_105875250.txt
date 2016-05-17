@@ -1,0 +1,10 @@
+area_name: 14 - Cascade Area Rock Climbing  
+area_url: /v/14---cascade-area/105875250 
+description: Cascade Falls is a beautiful waterfall in the Lower Merced Canyon. This area offers easy to very hard climbing on awesome rock. 
+getting_there: Park at the parking area at Cascade Bridge. Approaches are obvious. 
+id: 105875250 
+latitude: 37.72623 
+longitude:  -119.71208  
+parent_name: Lower Merced River Canyon 
+parent_url: /v/lower-merced-river-canyon/110464982 
+

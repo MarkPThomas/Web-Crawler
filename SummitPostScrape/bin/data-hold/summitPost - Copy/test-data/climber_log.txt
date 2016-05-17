@@ -1,9 +1,0 @@
-date: Nov 10, 2012 
-id: 247651 
-log_url: http://www.summitpost.org/devil-s-golf-ball/climbers-log/247651/d-146721#146721 
-message: I've gotten quite proficient at the LeConte Boulder bolt ladder, and the Kor Roof on the S Face of Washington Column was easy. These 6 bolts kicked my butt! Definitely be ready to use your aiders in pairs on this one. Also, my short reach forced me to snag a shallow finger pocket to stay upright in the top step just barely long enough to clip the last bolt. 
-object_url: http://www.summitpost.org/devil-s-golf-ball/247651 
-route_name:  
-success: Success! 
-title: Hardest Bolt Ladder I've Done 
-

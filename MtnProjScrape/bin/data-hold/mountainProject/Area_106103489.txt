@@ -1,0 +1,10 @@
+area_name: Arrowhead Arete Rock Climbing  
+area_url: /v/arrowhead-arete/106103489 
+description: Not a very Yosemite like route. Almost has an alpine feel to it. Some pitches can be loose but a great climb. Worth the approach. 
+getting_there: Long steep approach, better to have some one show you. 
+id: 106103489 
+latitude: 37.75786 
+longitude:  -119.58862  
+parent_name: Yosemite Valley 
+parent_url: /v/yosemite-valley/105833388 
+

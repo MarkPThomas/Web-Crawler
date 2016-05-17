@@ -1,0 +1,11 @@
+id: 105794117 
+parent_name: Open Book Area 
+parent_url: /v/open-book-area/105794114 
+route_description: This three pitch beauty ascends a very obvious dihedral.  1) The first few moves off the deck are exciting and lead to an enjoyable first belay in a little nook.  2) The second pitch contains the business. You layback a 4" crack for 60+ feet to gain a belay either inside a little cave or right after depending on what gear you have left.  3) Pull the roof out of the alcove if that's where you set your belay, and continue up the dihedral in the left-side crack, much less steep and quite a bit easier than pitches 1 and 2. Eventually cross the slab and continue up to climb the deceptively easy roof on the right side. Top out and hike to the top of Tahquitz on easy 3rd class. Then you can hike out. 
+route_name: Open Book  
+route_quality: 0.925 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 3 pitches, 490' 
+route_url: /v/open-book/105794117 
+

@@ -1,0 +1,11 @@
+id: 105717463 
+parent_name: Wall Street 
+parent_url: /v/wall-street/105716961 
+route_description: This is one of the classic must-do moderate routes.  It almost always has someone on it or in line (sorta like Supercrack at IC).  And it's definitely worth the wait.  Expect a sustained climb with three definite parts, and good rests in between each - it's harder than it looks, and the cruxes are pumpy.  Reach the climb about 350 feet (less than .1 mile) past a large break in the otherwise solid wall of Wall Street.  If you pass a long (several hundred feet) section of lower angled slabs, you've gone too far.  Lieback and jam a left-facing corner (with a couple of face features for variety) at the right end of a 3-car turnout for 80' to good anchors on the facing wall.  Rap the route. 
+route_name: 30 Seconds Over Potash  
+route_quality: 0.75 
+route_rating:  YDS: 5.8+ 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 1 pitch, 80' 
+route_url: /v/30-seconds-over-potash/105717463 
+

@@ -1,0 +1,11 @@
+id: 105734678 
+parent_name: Pinnacle Rock 
+parent_url: /v/pinnacle-rock/105734123 
+route_description: The left-most climb that faces the road on Pinnacle Rock. Lots of large holds on a steep broad arete. Much more exciting beginner climb than a slab. 
+route_name: Bucket Prow  
+route_quality: 0.6 
+route_rating:  YDS: 5.6 
+route_rating_original: YDS: 5.6 
+route_type: TR, 1 pitch, 30' 
+route_url: /v/bucket-prow/105734678 
+

@@ -1,0 +1,10 @@
+area_name: Dark Angel Rock Climbing  
+area_url: /v/dark-angel/105717212 
+description: This cool looking tower is visible from some points of the road while approaching the Devil's Garden trailhead. This was one of the first towers climbed in Arches, by the 60's hardguys Rearick and Kamps. 
+getting_there: Easy, flat 2 mile approach past many cool arches. From the Devil's Garden trailhead parking lot, follow the signs to Double O arch. At this point, you'll see a sign for the Dark Angel which will be visible from here. 
+id: 105717212 
+latitude:  
+longitude:  
+parent_name: Arches National Park 
+parent_url: /v/arches-national-park/105716757 
+

@@ -1,0 +1,11 @@
+id: 106616050 
+parent_name: Sentinel Creek Area 
+parent_url: /v/sentinel-creek-area/106066238 
+route_description: This doesn't even look like a climb from the ground, but it is.  Many locals break a sweat on this one even in cool weather.  The crux is the offwidth above an old bolt.  Backside to the wall and just squeeze and wiggle your way to the top. 
+route_name: The Sphinxter  
+route_quality: 0.25 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 1 pitch, 100' 
+route_url: /v/the-sphinxter/106616050 
+

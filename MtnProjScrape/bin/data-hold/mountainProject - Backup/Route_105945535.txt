@@ -1,0 +1,11 @@
+id: 105945535 
+parent_name: El Capitan Base Routes 
+parent_url: /v/el-capitan-base-routes/105841115 
+route_description: One of the most classic pitches at its grade in all of Yosemite, Sacherer Cracker is a full value 120+ feet of stellar jamming and clean movement.  Begin with a short wide section that leads to a small ledge (two bolts provide an optional belay here); step left to the splitter finger crack that widens gradually as you work your way toward the final, notorious wide section that guards the chains.  Some find this section to be the route's crux, and many have used the chockstone at its beginning to bail, swearing to come back after they get more practice on the wide...   
+route_name: Sacherer Cracker  
+route_quality: 0.95 
+route_rating:  YDS: 5.10a 
+route_rating_original: YDS: 5.10a 
+route_type: Trad, 1 pitch, 150' 
+route_url: /v/sacherer-cracker/105945535 
+

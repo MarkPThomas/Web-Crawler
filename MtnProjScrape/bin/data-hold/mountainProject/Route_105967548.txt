@@ -1,0 +1,11 @@
+id: 105967548 
+parent_name: Pratt's Crack / Dihedrals Area 
+parent_url: /v/pratts-crack--dihedrals-area/105909006 
+route_description: A must-do classic right around the corner from Pratt's Crack. Follow a huge, clean-cut dihedral, jamming (hands) all the way up to a chimney move or two, then step right on a small ledge to the anchors.  
+route_name: Sheila  
+route_quality: 0.975 
+route_rating:  YDS: 5.10a 
+route_rating_original: YDS: 5.10a 
+route_type: Trad, 1 pitch, 180' 
+route_url: /v/sheila/105967548 
+

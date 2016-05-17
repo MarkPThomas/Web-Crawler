@@ -1,0 +1,10 @@
+area_name: North Cascades Rock Climbing  
+area_url: /v/north-cascades/105792035 
+description: The North Cascades are home to a huge number of sharp granite peaks with many excellent alpine climbs. With so much to offer and typical alpine approaches, you probably won't find mobs of other people. The granite is mostly very good, offering cracks, chimneys, flakes, roofs, etc. Summer is the time for alpine rock. 
+getting_there: The general North Cascades area can be reached either by driving west on Highway 20 from I-5 (although Highway 20 is more often closed than not) or by driving east on Highway 2 to Leavenworth or I-90, then North on Highway 97 and North again on Highway 153, which meets up with the other side of Highway 20 in Twisp. 
+id: 105792035 
+latitude: 48.5093 
+longitude:  -120.66  
+parent_name: Northwest Region 
+parent_url: /v/northwest-region/108471385 
+

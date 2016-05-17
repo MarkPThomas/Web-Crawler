@@ -1,0 +1,10 @@
+area_name: Clyde Minaret Rock Climbing  
+area_url: /v/clyde-minaret/105809043 
+description: Clyde Minaret is named after Norman Clyde, the High Sierras most prolific first ascensionist. It is a very fine peak made from, not granite, but a more ancient metamorphic rock, which gives it its characteristic, almost non-Sierra-like shape of a sharp needle (as seen from the ski slopes of Mammoth). Its dark triangular SE face is home to a great classic rock climb. 
+getting_there: Red's Meadow is the trailhead. Get their either by shuttle bus from Mammoth during the day, or arrive by car late at night.  Head north on the John Muir Trail at first, then cut left (west) onto an obvious trail which leads to Minaret Lake. On the bench above this lake lies Cecile Lake (10,246ft), where there are limited campsites (7.75 miles, 2,700ft elevation gain). 
+id: 105809043 
+latitude: 37.6604 
+longitude:  -119.174  
+parent_name: 04 - Ritter and the Minarets 
+parent_url: /v/04---ritter-and-the-minarets/110847705 
+

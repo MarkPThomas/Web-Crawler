@@ -1,0 +1,11 @@
+id: 105739916 
+parent_name: Dogwood Crag 
+parent_url: /v/dogwood-crag/105739359 
+route_description: This sport route (6 bolts _ chains) would make a really nice training climb. The first 60' is face climbing on a multitude of good holds, which leads to a small roof which is just enough to get you pumping. Note that the climb starts from a large ledge ~15' up from the bank of the stream. So when rapping down, stop at the ledge!  Beta: There is supposedly a scramble somewhere at the midpoint of Dogwood (see the first photo in this section - the left-slanting shrub-covered diagonal?) - but we found it a little too overgrown to navigate safely. We rapped down from the chains on a 60m rope. 
+route_name: A Modest Man from Mandrake  
+route_quality: 0.6 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Sport, 1 pitch, 70' 
+route_url: /v/a-modest-man-from-mandrake/105739916 
+

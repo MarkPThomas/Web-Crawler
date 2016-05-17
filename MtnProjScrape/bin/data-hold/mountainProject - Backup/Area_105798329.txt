@@ -1,0 +1,10 @@
+area_name: Main Wall Rock Climbing  
+area_url: /v/main-wall/105798329 
+description: This the largest formation at the Leap at 500ft.  For a long day, you can link a route on the lower buttress to a multi-pitch climb on the main wall.  The classic climbs on this wall include Corrugation Corner 5.7, Traveler Buttress 5.9, Hospital Corner 5.10a, and Tombstone Terror 5.10c. For information on getting to an Alcove where you can then climb the excellent climbs: 2nd pitch of "North Country", 2nd Pitch of "North Face", "Absolutely Brilliant", "Dragon Back" and a 5.9 Off Width See the Beta Picture below. 
+getting_there: You can climb a route on the lower buttress or follow the trail along the right side of the buttress to the base. 
+id: 105798329 
+latitude: 38.7998 
+longitude:  -120.1353  
+parent_name: Lover's Leap 
+parent_url: /v/lovers-leap/105733959 
+

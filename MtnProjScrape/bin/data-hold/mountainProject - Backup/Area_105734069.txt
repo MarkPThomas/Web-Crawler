@@ -1,0 +1,10 @@
+area_name: South Formation Rock Climbing  
+area_url: /v/south-formation/105734069 
+description: The tallest - yet least steep - of the 3 large rocks in Remillard Park. 
+getting_there: The two routes start behind plaque rock.  Simply go around plaque's base to the left, and you're there. 
+id: 105734069 
+latitude:  
+longitude:  
+parent_name: Remillard Park 
+parent_url: /v/remillard-park/105733899 
+

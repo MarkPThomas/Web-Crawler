@@ -1,0 +1,11 @@
+id: 105722569 
+parent_name: South Astro Dome - East Face 
+parent_url: /v/south-astro-dome---east-face/106637666 
+route_description:  Hex Marks the Poot is an incredibly obvious crack (when standing near the Don Juan boulder) on a series of blocks leaning against the South Astro Dome. It is just left of the sheer northeast face of this formation.   Climb up the hand and fist crack past a horizontal rail, and then enter the off-width. Left side in, right side smearing on the face will get you up it. It's very fun but gym rats and posers will complain. Continue to a nice alcove with weird horns to sling and belay, or continue up the second pitch - a pretty right-curving crack (feasible as one pitch with a long sling or two). No fixed anchors that I could find but a rappel is easy with some long webbing around those horns.   The first pitch goes at 5.7 (possibly 5.7+ ?), and the second pitch at 5.8. 
+route_name: Hex Marks the Poot  
+route_quality: 0.525 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 2 pitches, 120' 
+route_url: /v/hex-marks-the-poot/105722569 
+

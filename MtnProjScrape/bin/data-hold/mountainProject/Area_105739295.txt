@@ -1,0 +1,10 @@
+area_name: Parley's Canyon Rock Climbing  
+area_url: /v/parleys-canyon/105739295 
+description: Parley's Canyon is not as pleasant or extensive as Little or Big Cottonwood Canyon, but there is a bit of decent climbing if you don't mind the roar of the interstate. 
+getting_there: Parleys is the canyon that I-80 uses to reach Park City.  Decent crags are widely scattered and use different approaches. 
+id: 105739295 
+latitude: 40.7118 
+longitude:  -111.79  
+parent_name: Wasatch Range 
+parent_url: /v/wasatch-range/105739213 
+

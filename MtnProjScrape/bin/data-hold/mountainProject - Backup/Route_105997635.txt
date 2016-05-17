@@ -1,0 +1,11 @@
+id: 105997635 
+parent_name: Swan Slab 
+parent_url: /v/swan-slab/105841123 
+route_description: Begin at a large Black Oak with branches touching the cliff.  Lieback wide crack to easier ground.  The bolt anchor noted in the Supertopo guidebook is no more, so bring some smaller gear for an anchor, or continue up to the belay/rap tree for Grant's Crack. 
+route_name: Oak Tree Flake  
+route_quality: 0.475 
+route_rating:  YDS: 5.5 
+route_rating_original: YDS: 5.6 
+route_type: Trad, 1 pitch, 50' 
+route_url: /v/oak-tree-flake/105997635 
+

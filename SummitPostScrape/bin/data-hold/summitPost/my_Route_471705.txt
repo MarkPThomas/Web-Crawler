@@ -19,7 +19,7 @@ date:
 difficulty: Class 2 
 elevation:  
 grade:  
-hits: 4216  
+hits: 4217  
 id: 471705 
 latitude:  
 location: Alberta, Canada, North America 
@@ -27,7 +27,7 @@ longitude:
 my_route_quality:  
 name: Goat Pass 
 number_of_pitches:  
-page_url: http://www.summitpost.org/goat-pass/471705 
+page_url: /goat-pass/471705 
 parent_code:  
 parent_name:  
 parent_url:  

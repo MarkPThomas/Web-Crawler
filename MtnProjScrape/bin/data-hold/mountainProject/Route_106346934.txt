@@ -1,0 +1,11 @@
+id: 106346934 
+parent_name: d. Harvest Moon to the End 
+parent_url: /v/d-harvest-moon-to-the-end/105798822 
+route_description: The Gunks are not known for steep cracks, but there are some...    Start in the chimney of White Pillar and move out to the obvious crack when you can.  If you stem high enough you can start with hand jams; if you move out low, it's fingers.  Or you can avoid the chimney altogether for harder variations.   
+route_name: Harvest Moon  
+route_quality: 0.825 
+route_rating:  YDS: 5.11a 
+route_rating_original: YDS: 5.11a 
+route_type: Trad, TR, 1 pitch, 65' 
+route_url: /v/harvest-moon/106346934 
+

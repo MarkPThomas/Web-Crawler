@@ -1,0 +1,10 @@
+area_name: Circuit Breaker Rock Climbing  
+area_url: /v/circuit-breaker/110659565 
+description: A pair of crack problems next to Staircase Falls. 
+getting_there: Find the wooden cabin #73 in Curry. Walk behind it on the right side and head straight up the hill, gaining a faint trail that leads directly to the wall, intersecting right at this problem. 
+id: 110659565 
+latitude: 37.7348 
+longitude:  -119.57341  
+parent_name: Curry Village 
+parent_url: /v/curry-village/106203196 
+

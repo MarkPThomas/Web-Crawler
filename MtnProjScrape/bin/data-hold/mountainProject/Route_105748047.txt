@@ -1,0 +1,11 @@
+id: 105748047 
+parent_name: Third Flatiron 
+parent_url: /v/third-flatiron/105744681 
+route_description: To quote Rossiter, "This is probably the best beginner climb in the solar system." This route is best led for the first time following another party unless you don't care about finding the fixed eye-bolts. Since nearly every stance is a rest, it's tough to discern the belays.  From the East Bench, move up and to the left across a channel to the first belay. Stay on this side of the channel for the next 5-6 pitches with easy 5.0-5.2 climbing. Pitch 5 will traverse the "C" of CU. After pitch 6/7, you must cross the channel at the notch near the top. The last, crux pitch (5.4) starts on the other side of the channel to the top.  It's 6 rope-stretching pitches or 8 as described with a 50m rope.  DESCENT: There are three rappels from fixed eye-bolts. A single 50m rope is sufficient; on the last rappel, you may either use a   double-rope for the 140ft. mostly free-rappel or traverse right on a ledge and rap 72ft. on a single rope to the West Bench. 
+route_name: East Face (Standard)  
+route_quality: 0.9 
+route_rating:  YDS: 5.4 
+route_rating_original: YDS: 5.4 
+route_type: Trad, 8 pitches 
+route_url: /v/east-face-standard/105748047 
+

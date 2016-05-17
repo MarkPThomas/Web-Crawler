@@ -1,0 +1,11 @@
+id: 106655892 
+parent_name: 19 - New Diversions 
+parent_url: /v/19---new-diversions/105862921 
+route_description: This is a route of high quality with all sorts of jams from finger locks to fists and knob tie-offs.  I would point anyone who is a crack lover to this climb.  It is also considered the warm-up climb for the area, although, it really is a little steep and stiff for this consideration.  Many climbers feel Chicken Pie is deserving of a .10a grade.  This is understandable since Chicken Pie is one of the more demanding 5.9 finger to hand cracks.  The overall quality of this climb is comparable to the best cracks you will find down canyon.  Also, if you have repeatedly climbed pitch one of Chicken Pie, I would recommend you give the knobby pitch two top out a try.  From the chains, pitch two heads right and up large knobs.  The pro is good on the entire route, and can easily be done in one pitch if mindful of rope drag. 
+route_name: Chicken Pie  
+route_quality: 0.75 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 2 pitches, 200' 
+route_url: /v/chicken-pie/106655892 
+

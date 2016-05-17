@@ -1,0 +1,11 @@
+id: 105739886 
+parent_name: Storm Mountain Island 
+parent_url: /v/storm-mountain-island/105739353 
+route_description: Begins at the top of a talus slope, just to the left of Bolt Route and several hundred feet west (right) of Goodro's Wall and Six Appeal.  Bolts angle up to the right with fun moves on various size edges.  Stay left near the top to make it more challenging.  Careful on the descent as you are lowered into a chasm (watch your head)! 
+route_name: Six Pence  
+route_quality: 0.425 
+route_rating:  YDS: 5.6 
+route_rating_original: YDS: 5.6 
+route_type: Sport 
+route_url: /v/six-pence/105739886 
+

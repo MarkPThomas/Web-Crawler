@@ -1,0 +1,11 @@
+id: 105837819 
+parent_name: Foundry, The 
+parent_url: /v/foundry-the/105837807 
+route_description: An offwidth and fist crack on the west face of the rock. 
+route_name: Six-Pack Crack  
+route_quality: 0.575 
+route_rating:  YDS: 5.10b 
+route_rating_original: YDS: 5.10b 
+route_type: Trad, 1 pitch, 60' 
+route_url: /v/six-pack-crack/105837819 
+

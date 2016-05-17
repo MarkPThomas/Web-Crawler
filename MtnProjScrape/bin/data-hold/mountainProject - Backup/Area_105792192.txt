@@ -1,0 +1,10 @@
+area_name: Washington Pass Rock Climbing  
+area_url: /v/washington-pass/105792192 
+description: The Washington Pass area includes some spectacular and easily accessible alpine granite climbs, ranging in difficulty from the 5.4-rated South Arete of South Early Winter and to hard 5.12 climbs such as the Thin Red Line on Liberty Bell and the Tiger on M&M Wall. The area also has classic aid routes such as Liberty Crack on Liberty Bell.   The area is centered around Washington Pass on the North Cascades Highway, extending east to the Wine Spires and West to Liberty Bell and the Early Winter Spires. The quality of the rock is in general great and the summit views excellent. The best season for climbing here is late June through September. Snow and ice might still be present early in the season. 
+getting_there: From Twisp, drive north on Highway 20 through Mazama and up to Washington Pass. The highway takes a very obvious hairpin turn just below the peaks. The east faces are best approached by parking at the Washington Pass Overlook and ascending a trail starting across the road from the pullout. The west faces are more easily approached by driving a little further up Highway 20 and parking in the lot for the Blue Lake Trail. The climbers' trail breaks off left from the main Blue Lake trail as it bends right towards the lake. 
+id: 105792192 
+latitude: 48.5123 
+longitude:  -120.654  
+parent_name: North Cascades 
+parent_url: /v/north-cascades/105792035 
+

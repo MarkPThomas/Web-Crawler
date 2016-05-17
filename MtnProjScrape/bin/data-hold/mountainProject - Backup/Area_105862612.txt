@@ -1,0 +1,10 @@
+area_name: Glacier Point Apron Rock Climbing  
+area_url: /v/glacier-point-apron/105862612 
+description: At the east end of Yosemite Valley rising up above Happy Isles lies a massive slab of beautiful granite that slopes up towards Glacier Point. This wall has some of the best slab climbing in the valley, and also some of the worst rock fall potential.  In 1999 Peter Terbush was killed by a massive rock fall while his two partners escaped with lacerations.  With that warning in mind Glacier Point offers moderate classic routes with a very short approach, and shouldn't be missed. 
+getting_there: From the Happy Isles trailhead parking lot walk up the path towards Little Yosemite. After about five minutes you will see the Nature Center to the right of the trail. Shortly after the Nature Center follow a fairly good path to the right towards the slabs. This will take you up through the forest and rockfall to the base of the wall. The approach from the trail turn off takes about ten minutes. 
+id: 105862612 
+latitude: 37.73334 
+longitude:  -119.5661  
+parent_name: Yosemite Valley 
+parent_url: /v/yosemite-valley/105833388 
+

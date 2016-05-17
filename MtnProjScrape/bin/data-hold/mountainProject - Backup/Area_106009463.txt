@@ -1,0 +1,10 @@
+area_name: Eichorn Pinnacle Rock Climbing  
+area_url: /v/eichorn-pinnacle/106009463 
+description: Nearly equal in beauty to the neighboring Cathedral Peak, Eichorn's Pinnacle offers one of Tuolumne's most spectacular summits.  It is named after Jules Eichorn (1912 - 2000), an avid mountaineer and Sierra Club leader, who first summited via the North Face in 1931.  More about Jules Eichorn can be found here.  The North Face affords an easy way to tag the summit after climbing Cathedral's Southeast Buttress. 
+getting_there: From the Cathedral Lakes trailhead, follow the main (John Muir) trail for approximately 3 miles. 
+id: 106009463 
+latitude: 37.8476 
+longitude:  -119.4059  
+parent_name: Cathedral Range 
+parent_url: /v/cathedral-range/108298242 
+

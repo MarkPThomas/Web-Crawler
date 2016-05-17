@@ -1,0 +1,10 @@
+area_name: Mt Stuart  Rock Climbing  
+area_url: /v/mt-stuart-/105996601 
+description: The second highest non-volcanic mountain in Washington state, located in the Alpine Lakes Wilderness area. The North Ridge climb on Mt. Suart is one of the 50 North American Classic Climbs. Very beautiful mountain with high relative elevation of 5,335ft and serious approaches. The easiest way to get to the top (and off the mountain) is from the south via the Cascadian Couloir. The nearby Ingalls Peak, which is to the west of Mt. Stuart has some interesting climbing as well. 
+getting_there: To approach Mt. Stuart from the south, take 970 from Cle Elum for about 11 miles and turn left into Teanaway Road. After about 14 miles Teanaway Road splits into North and West Fork Teanaway. Take the North Fork Teanaway Road to the trailhead parking lot at its end. Hike up Ingalls Way trail. At the second junction at 5600', take Longs Pass trail for Cascadian Couloir, or continue on Ingalls Way for Ingalls Lake, Mt. Stuart's West and North Ridges and go over Ingalls Pass.   For West and North Ridge, traverse Ingalls Lake in its west side, drop down to the meadows and ascent the faint trail onto Stuart Pass. From here find a way through talus to the shoulder below West Ridge and continue to Goat Pass.   
+id: 105996601 
+latitude: 47.4773 
+longitude:  -120.9022  
+parent_name: Stuart-Enchantments 
+parent_url: /v/stuart-enchantments/110928184 
+

@@ -1,0 +1,11 @@
+id: 106170736 
+parent_name: Hemingway Buttress (East Face Left)  
+parent_url: /v/hemingway-buttress-east-face-left-/106563103 
+route_description: Start in right facing corner to left of Coyote Bait, go over roof than up face to another small roof. 
+route_name: Poodlesby  
+route_quality: 0.45 
+route_rating:  YDS: 5.6 
+route_rating_original: YDS: 5.6 
+route_type: Trad, 1 pitch, 100' 
+route_url: /v/poodlesby/106170736 
+

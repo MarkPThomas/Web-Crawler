@@ -1,0 +1,11 @@
+id: 106083200 
+parent_name: Grand Teton 
+parent_url: /v/grand-teton/105803123 
+route_description: A truly inspiring climb with classic appeal - the North Ridge is an adventurous route up the striking high angle corner that makes up the right hand skyline of the Grand when seen from Jackson Hole.  At the time of its first ascent in 1931, Underhill and Fryxell's route was one of the most technically demanding in the country at 5.7 A0.  The Chockstone Chimney (originally aided) went free on the second ascent of the route in 1936, which was made by Fritz Weissner (at 5.8).    The North Ridge of the Grand is one Steck and Roper's 50 Classic Climbs of North America, and justifiably so.  An intricate approach leads to quality, varied climbing at a moderate grade in a beautiful setting.  The route takes you up an obvious path to the most spectacular summit in Wyoming.  Description of Route The route described here is the original North Ridge as climbed in 1931.  Many variations are possible.  The famous chimney pitches of the original route are commonly icy, except during prolonged periods of high pressure in the summer.  If the chimneys are icy (or just because the climbing is good), another popular option is the Italian Cracks.  Also, the technical climbing of the route can be extended by finishing on the Direct North Face.  Both these variations to the North Ridge are further explained here.  Once you get started, the climb is pretty easy to follow - take the path of least resistance up the ridge.  That said, a few landmarks are worth nothing: On the first pitch, climb easy rock to a flake, and squirm behind the flake (climbing to the left) to steeper rock for a few moves (5.7), followed by more gently angled rock.  Take the gully to the base of the Chockstone Chimney.  Follow pitons on the right wall to the stemming crux, 5.8.  Next is the Black Rock Chimney, 5.7.  After exiting the chimney system, climb the beautiful orange Slab Pitch.  Go right along the Second Ledge to a left-facing corner with good, solid, golden Teton rock.  Follow this for 2 or 3 more pitches to the top.  Expect much 5.7 climbing on this route. 
+route_name: North Ridge  
+route_quality: 0.925 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, Alpine, 10 pitches, 1200',  Grade IV 
+route_url: /v/north-ridge/106083200 
+

@@ -1,0 +1,10 @@
+area_name: Potash Road Rock Climbing  
+area_url: /v/potash-road/105716778 
+description: An excellent mix of trad and sport lines, often with routes very close together (some contrived sport routes do exist, but this is not the norm) and the ability to belay from your car or with only a very short walk in make the Potash Road crags a must-climb for any visitor.  They are also an excellent introduction to some of the more committing desert climbs in the region.  You won't find some of the tower climbing, the mudpiles, or the splitter cracks of other areas, but instead flakes, slabs, nubbins, edges, and other features abound.  Well over a hundred routes exist in the Wall Street area alone, and dozens of others on the other roadside crags and in side canyons.  Routes range from 5.4 TR slabs to at least 5.12+, with most being in the .10-.11 range but also with many moderate classics (.8-.9s).    Please use the restroom facilities at either the Jaycee Campground (3.9 miles in) or at the "Indian Writing" sign (5 miles in).  Use caution with the anchors and rock, and rap when necessary to preserve the rock and anchors; and watch for poison ivy in the summer!  Watch for speeding potash-haulers and 4x4s, as well as tourons watching you and not the road, and be sure to park out of the way.  
+getting_there: Potash Road (Utah highway 279) is less than five minutes from downtown Moab, and the approach to many of the routes is zero.  From Moab drive North on 191 (the main drag) for 1.3 miles past the bridge over the Colorado River (or 1 mile South from Arches NP) and turn South on 191, marked with signs for Potash and 279.  All distances to crags are measured from this intersection. 
+id: 105716778 
+latitude: 38.5751 
+longitude:  -109.5858  
+parent_name: Moab Area 
+parent_url: /v/moab-area/105716711 
+

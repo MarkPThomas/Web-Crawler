@@ -1,0 +1,10 @@
+area_name: Tiger Rocks Rock Climbing  
+area_url: /v/tiger-rocks/105721274 
+description: This small band of cliffs and rocks lies just above and right of the Bond Boulders. 5 routes have been recorded here: Bush Blows Chips (11a); The Iron Chef (9); Quasar (12a R), One Arm Giant (10d?), and Fly Away (11a).  
+getting_there: Best approached from Split Rocks parking area (though a "direct" approach from Park Blvd is also possible). Head north on the trail heading down the west side of Split Rock proper. After about 50 yards, the trail heads to the northeast crossing slabs and eventually the desert floor. Where the trail crosses a large wash and heads north toward Morongo Man/Fraggle Rock in the Desert Queen Mine area, head more or less east in the wash. After a short distance, angle slightly left (northeast), aiming for the notch left of the hillside. At the notch, you can see Tiger Rocks/Bond Boulders off to the east/northeast. A rough trail heads down the notch in a small draw then heads across washes to the Bond Boulders. Plan on about 25 minutes approach time. 
+id: 105721274 
+latitude:  
+longitude:  
+parent_name: Loveland 
+parent_url: /v/loveland/105720612 
+

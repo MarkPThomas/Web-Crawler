@@ -1,0 +1,10 @@
+area_name: Hemingway Buttress (East Face Left)  Rock Climbing  
+area_url: /v/hemingway-buttress-east-face-left-/106563103 
+description: This popular section of the wall extends from More Funky than Junky to The Sun Also Rises and is home to lots of moderate crack routes with a few face climbs in the harder grades. Some of the better routes here include White Lightning (5.7), Dung Fu (5.7), Feltonian Physics (5.8), Overseer (5.9), Rock Wren (5.10a), Prepackaged (5.10a), Poodles are People Too (5.10b) and The Roadrunner (5.11c).   Routes from left to right:  More Funky than Junky (5.10a) The Roadrunner (5.11c) Smoke-a-Bowl (5.9) Rock Wren (5.10a) Hernie, Hernie, Hernie (5.8) Merry-Go-Round Broke Down (5.8) Funky Dung (5.8) Overseer (5.9) Dung Fu (5.7) Pig in Heat (5.10b R) White Lightning (5.7) Poodles are People Too (5.10b) Man's Best Friend (5.9 TR) Poodlesby (5.6) Coyote Bait (5.7) Such a Poodle (5.8+ R) Golden Years (5.9+) Feltonian Physics (5.8) Gift Wrapped (5.10d TR) Prepackaged (5.10a) The Sun Also Rises (5.12b)    
+getting_there: Park in the large paved lot off the main road and follow the signed path to the wall. The approach time is around 10 minutes from the car. 
+id: 106563103 
+latitude: 34.02386 
+longitude:  -116.17782  
+parent_name: Hemingway Buttress 
+parent_url: /v/hemingway-buttress/105720729 
+

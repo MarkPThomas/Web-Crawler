@@ -1,0 +1,10 @@
+area_name: South and East Faces Rock Climbing  
+area_url: /v/south-and-east-faces/105714384 
+description: The South and East Faces both share the same approach.  The South and East face routes are very popular, perhaps because they end up at the meadows.  Once at the meadows, it is easy to top out.  The most climbed routes on the tower (besides Durrance) are on the East face, including Soler and Tad.  The South face also holds some popular routes, including Bon Homme Variation and Walt Bailey.  Most routes are 2 long pitches to the meadows, with Walt Bailey being only one pitch.  Rappel off the meadows chain anchors with two ropes for 3 rappels to reach the ground.  Also, some routes have their own set of rap anchors. 
+getting_there: From the Devil's Tower parking lot, take the paved trail towards the tower.  Take a right when the trail forks, and follow this trail around towards the south face.  Look for a climber's trail taking off up towards the tower when you see a viewing tube (for looking at the old wooden ladder near Bon Homme).  Follow this good trail up to some slabs near Durrance, then climb up and to the right, following the slabs around the tower.  From here, it depends which route you are doing as to how far to go.  Some of these approach rocks are really slick, so be careful with heavy loads. 
+id: 105714384 
+latitude: 44.58992 
+longitude:  -104.71549  
+parent_name: Devil's Tower 
+parent_url: /v/devils-tower/105714267 
+

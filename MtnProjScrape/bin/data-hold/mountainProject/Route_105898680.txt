@@ -1,0 +1,11 @@
+id: 105898680 
+parent_name: Pywiak Dome 
+parent_url: /v/pywiak-dome/105862954 
+route_description: First pitch is a nice warm up. The 2nd pitch is why this route is great. It starts steep and technical and stays that way for about 70 feet. There's a bolt about 2/3s up that is your pro for some thin slab moves. They called this R before, but with small cams and nuts, you can pro it just fine. Might be PG-13 to some, but for the area it's not. 3 pitch is a nice crack out.  
+route_name: Aqua Knobby  
+route_quality: 0.775 
+route_rating:  YDS: 5.9 PG13 
+route_rating_original: YDS: 5.9 PG13 
+route_type: Trad, 4 pitches, 375' 
+route_url: /v/aqua-knobby/105898680 
+

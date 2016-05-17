@@ -1,0 +1,10 @@
+area_name: Columbia Mountains  Rock Climbing  
+area_url: /v/columbia-mountains-/106984217 
+description:  
+getting_there:  
+id: 106984217 
+latitude: 51.85554 
+longitude:  -118.74028  
+parent_name: British Columbia 
+parent_url: /v/british-columbia/105946429 
+

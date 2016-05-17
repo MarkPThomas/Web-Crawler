@@ -1,0 +1,11 @@
+id: 105872293 
+parent_name: Main Wall 
+parent_url: /v/main-wall/105798329 
+route_description: A varied four-pitch climb that goes to the highest point on the Leap. Follows the huge right facing corner just to the right of Traveler's Buttress. First pitch is in the corner. The second pitch sneaks out on the left face leading to the base of a chimney. The third pitch climbs the chimney, traverses 5.7 past a fixed piton, and then hops on a beautiful exposed arete. The fourth pitch is basic and can be avoided with a 60m rope. 
+route_name: Corrugation Corner  
+route_quality: 0.975 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, 3 pitches, 300' 
+route_url: /v/corrugation-corner/105872293 
+

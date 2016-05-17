@@ -1,0 +1,10 @@
+area_name: The Three Gossips Rock Climbing  
+area_url: /v/the-three-gossips/105716922 
+description: The Three Gossips is the multi-summitted formation in the Courthouse Towers area of Arches.  The rock is soft entrada, but it is split with many long crack systems that provide good free and moderate aid routes.  Most routes are three pitches long.  The West Face is the classic free route at 5.11 with a really nice 5.10ish hands first pitch(also goes easily at A1).  Speak No Evil is a nice thin crack system on the east face that can be clean aided. 
+getting_there: Drive up the road from the visitors center to the Courthouse Towers pullout.  The Three Gossips is on the left side of the road opposite from the Organ and The Tower of Babel.  There isn't really a trail to the base, but you can easily reach it by walking along washes and boulders.  All routes are most easily reached by scrambling up to the West Face and traversing from there.  The slickrock below Speak No Evil and other east face routes is harder to climb than it looks.  
+id: 105716922 
+latitude:  
+longitude:  
+parent_name: Arches National Park 
+parent_url: /v/arches-national-park/105716757 
+

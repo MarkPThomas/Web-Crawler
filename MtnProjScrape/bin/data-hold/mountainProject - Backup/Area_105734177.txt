@@ -1,0 +1,10 @@
+area_name: Snowshed Wall Rock Climbing  
+area_url: /v/snowshed-wall/105734177 
+description: Snowshed offers both trad and sport climbing on mostly vertical walls up to ~80 feet.  Much of the area can be top roped, by hiking around either side of the formation.The numerous faces on Snowshed allow for either sun or shade depending on your desires.The climbing facing the road and approach (the north face) is mostly trad, with higher concentrations of sport climbs to the right, and around the corner to the left (the east face).   
+getting_there: Upon reaching the Donner Pass climbing area, continue on Donner Pass Road.  On your right, further away at first, there will be an easily noticable wall facing the road.  After going over the small bridge, the road bends right.  A few pullouts later there will be a blue outhouse on the right, this is the pullout for Snowshed.  The path to the wall heads directly away from the road, across the stream, then straight to the north face (~2 minute walk).  Upon arriving at the rock you're beneath a boulder from which Bell Bottom Blues, Manic Depression and many other crack climbs begin.Navigating around the rock is rather straight-forward, its another ~3 minute walk to the left (around and up a big slabby piece) to reach the east-facing climbs.  On the east face, the super-sustained 'Little Feat' (5.10d) is located directly on the blunt arete facing you as you approach. 
+id: 105734177 
+latitude: 39.3169 
+longitude:  -120.3193  
+parent_name: Donner Pass Road 
+parent_url: /v/donner-pass-road/111500212 
+

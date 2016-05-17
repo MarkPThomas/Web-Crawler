@@ -1,0 +1,10 @@
+area_name: Utah Rock Climbing  
+area_url: /v/utah/105708957 
+description: Welcome to Utah, home to some of the best climbing in the United States.  Whether you like the ultra-difficult limestone in American Fork Canyon and Logan, the world-famous sandstone splitters and towers of the deserts, or the impeccable granite of Little Cottonwood Canyon, we have a place for you to climb.   
+getting_there:  
+id: 105708957 
+latitude: 40.6566 
+longitude:  -111.7697  
+parent_name:  
+parent_url:  
+

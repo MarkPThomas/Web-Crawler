@@ -1,0 +1,10 @@
+area_name: Iron Curtain Wall Rock Climbing  
+area_url: /v/iron-curtain-wall/105739425 
+description: The Iron Curtain Wall has some nice well bolted sport routes on good quartzite and a quick approach, though the interstate noise dims the appeal.  Still, this is a good place to go get a quick pump. 
+getting_there: Take the 3300 South Exit from I-215, and turn east.  Continue through the light at Wasatch Blvd, and then bear left at the first intersection.  There is a parking area at the end of the road.  From here, walk steeply uphill on a dirt road.  Turn left onto a trail towards a distinctive boulder just before a building and cell tower.  Head east on a path just before the boulder, and hike down the steep trail to the base of the wall.  The Iron Curtain Wall is on the left, and the approach takes about 5-10 minutes from the trailhead. 
+id: 105739425 
+latitude: 40.71014 
+longitude:  -111.79345  
+parent_name: Parley's Canyon 
+parent_url: /v/parleys-canyon/105739295 
+

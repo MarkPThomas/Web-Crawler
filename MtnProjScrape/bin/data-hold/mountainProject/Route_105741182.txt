@@ -1,0 +1,11 @@
+id: 105741182 
+parent_name: Prune Face Slab 
+parent_url: /v/prune-face-slab/105739614 
+route_description: In the gully west of the slab, is a short hand crack.  This ends further up the gully, where one climbs a crack on the south facing wall.  This crack is difficult to protect and it has very flaky rock.  It continues on this leftward bow-ing seam until it meets up with the gully again.   
+route_name: Shuffleboard  
+route_quality: 0.25 
+route_rating:  YDS: 5.8 R 
+route_rating_original: YDS: 5.8 R 
+route_type: Trad, TR, 1 pitch, 80' 
+route_url: /v/shuffleboard/105741182 
+

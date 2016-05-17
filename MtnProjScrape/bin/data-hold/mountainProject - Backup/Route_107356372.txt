@@ -1,0 +1,11 @@
+id: 107356372 
+parent_name: Swan Slab 
+parent_url: /v/swan-slab/105841123 
+route_description: This is the crack with the slippery 5.9 start that turns into a layback, becoming much easier up to a large ledge, with a short 5.3 crack up to a large tree.  Usually there's a cheater block at the base. Come'on though, we both know that you don't need that. 
+route_name: Unnamed Crack (the other one)  
+route_quality: 0.5 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, TR, 1 pitch, 50' 
+route_url: /v/unnamed-crack-the-other-one/107356372 
+

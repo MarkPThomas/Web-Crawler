@@ -1,0 +1,10 @@
+area_name: Joshua Tree National Park Rock Climbing  
+area_url: /v/joshua-tree-national-park/105720495 
+description:  
+getting_there:  
+id: 105720495 
+latitude: 34.0122 
+longitude:  -116.168  
+parent_name: California 
+parent_url: /v/california/105708959 
+

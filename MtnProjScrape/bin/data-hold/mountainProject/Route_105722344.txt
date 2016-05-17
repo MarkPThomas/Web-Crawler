@@ -1,0 +1,11 @@
+id: 105722344 
+parent_name: Tumbling Rainbow Formation 
+parent_url: /v/tumbling-rainbow-formation/105720837 
+route_description: A standout climb of the Real Hidden Valley area. A sporty start gives way to fairly well-protected climbing on impeccable stone. A must for those climbing at the grade.   To belay, you can simply loop some giant plates on top for an anchor and then use the rap anchors to the left atop Runaway to descend. If you wish you can walk off, although this is long and involved. One positive aspect is it takes you past the Solosby face. Four stars out of five 
+route_name: Run For Your Life  
+route_quality: 0.925 
+route_rating:  YDS: 5.10b R 
+route_rating_original: YDS: 5.10b R 
+route_type: Trad, 1 pitch, 90' 
+route_url: /v/run-for-your-life/105722344 
+

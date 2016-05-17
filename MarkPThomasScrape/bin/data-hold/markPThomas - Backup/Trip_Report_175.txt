@@ -1,0 +1,30 @@
+content: <div dir="ltr">
+<h1>
+<a name="TOC-Handies-Peak-S-Ridge-via-Grouse-Gulch-"></a>Handies Peak (S Ridge via Grouse Gulch)</h1>
+<hr>
+<hr>
+<h2>
+<a name="TOC-September-6-2004"></a>September 6, 2004</h2>
+<div><div class="sites-embed-align-center-wrapping-off"><div class="sites-embed-border-off sites-embed" style="width:800px;"><div class="sites-embed-content sites-embed-type-picasa"><embed type="application/x-shockwave-flash" src="//picasaweb.google.com/s/c/bin/slideshow.swf" width="800" height="533" wmode="transparent" pluginspage="//www.macromedia.com/go/getflashplayer" flashvars="host=picasaweb.google.com&amp;captions=1&amp;RGB=0x000000&amp;feed=http%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F105894936663116565516%2Falbum%2F20040906HandiesPk%3Fkind%3Dphoto%26alt%3Drss%26"></embed></div></div></div></div>
+<div>
+<br>
+</div>
+<div>Although the route was easy, the views made the hike very worthwhile - certainly one of my favorite summit views! The 6"-2' snow cover from the storm that passed through on the 4th made it look like the middle of winter! I was feeling fresh enough at the end that I sprinted the final few hundred yards to the summit, making this the first 14er that I ran to the summit of.
+</div>
+<div>
+<br>
+</div>
+<hr>
+<hr>
+<h2>
+<a name="TOC-Links"></a>Links</h2>
+<ul><li>
+<a href="https://picasaweb.google.com/105894936663116565516/20060521MtRainierDisappointmentCleaver?authuser=0&amp;feat=directlink"></a><a href="https://picasaweb.google.com/105894936663116565516/20040906HandiesPk?authuser=0&amp;feat=directlink">Picasa Album</a>
+</li></ul>
+</div> 
+page_id: 175 
+page_menu_name: Handies Pk (S Ridge-Grouse Gulch) 
+page_url: /mountaineering/trip-reports/colorado/handies-pk-s-ridge-grouse-gulch 
+title: Handies Peak (S Ridge via Grouse Gulch) 
+type: Trip_Report 
+

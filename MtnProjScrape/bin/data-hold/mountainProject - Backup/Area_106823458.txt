@@ -1,0 +1,10 @@
+area_name: Isosceles Peak Rock Climbing  
+area_url: /v/isosceles-peak/106823458 
+description: This peak forms the ridgeline splitting the Palisade and Dusy Basins (not the peak in the Mono Recesses).  The East Summit is clearly the highest point (12,250'+), but the West Face has the most interesting climbing.  Most parties climbing this face are satisfied with the West Summit (12,240').  Secor seems to suggest that the West Summit is the true summit, but several route descriptions (the SW Face and W Chute, in particular), could only be describing routes that visibly reach the East Summit.  It is possible to traverse from the West to the East summit.  The West Summit - which has a register - appears to be climb on average once every two years.  East Summit Routes: NE Face West Chute SW Face SW Chute - the best descent  West Summit Routes: West Face Wilson Route (aka the North Face or the West Face, Left) Keith-Lowery Route (aka West Face, Right) SW Buttress - the best descent  Reference:  Secor, The High Sierra, 3rd ed., pg 238. 
+getting_there: Follow the main trail from South Lake to Bishop  Pass, and descend to the highest lake in Dusy Basin.  Great bivy sites exist on the lakes southwest shore. 
+id: 106823458 
+latitude: 37.0951 
+longitude:  -118.5423  
+parent_name: 09 - Palisades and Surrounding Peaks 
+parent_url: /v/09---palisades-and-surrounding-peaks/110511970 
+

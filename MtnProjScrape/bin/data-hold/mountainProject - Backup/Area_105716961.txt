@@ -1,0 +1,10 @@
+area_name: Wall Street Rock Climbing  
+area_url: /v/wall-street/105716961 
+description: Wingate sandstone with roadside (shoulder of the highway) belaying and excellent access from Moab with well over a hundred climbs from 5.4 TRs to 5.12, mixed sport and trad.  Actually too many routes with some contrived sport routes in too small an area, but worth a visit.  Gets morning to midday sun and in the warm season stays very hot until late in the afternoon.  Be wary of descriptions in some guidebooks; anchors have disappeared from some climbs, so carry a selection of trad gear on climbs where you can't see them.  Restrooms are available .3 miles N at Jaycee campground and .8 miles S of the Indian Writing sign at the south end of the climbing area.  This is a good area to get a feel for some of the climbing in the area, or if you only have limited time in the area.  Expect it to always be crowded, even in full-sun summer conditions.  Cool off and refill water later at the (potable) natural spring on the N side of River Road (turn E just south of the bridge on 191 as you head back to Moab, it's on the right in an obvious large paved pullout).  
+getting_there: Drive north out of Moab on 191 and cross the bridge over the Colorado; continue 1.3 miles and make the left (south) turn onto Potash Road (279).  The climbing areas start about 4.2 miles onto the road (at the 'Park in Designated Areas Only' sign).  General parking is in turnouts on both sides of the road for the next mile or so, generally under the climbs themselves.  Use caution as 4x4s and trucks generally ignore the 30mph speed limit in the area, and tourists gawk and don't watch the road as they go past.  I personally wear a road guard vest while belaying to alert people that I'm not potential target. 
+id: 105716961 
+latitude: 38.54669 
+longitude:  -109.59961  
+parent_name: Potash Road 
+parent_url: /v/potash-road/105716778 
+

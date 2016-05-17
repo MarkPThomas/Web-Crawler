@@ -1,0 +1,10 @@
+area_name: Mt. Temple Rock Climbing  
+area_url: /v/mt-temple/106997567 
+description: Occasionally referred to as "The Eiger of North America", Mt Temple is perhaps the most prominent of the Canadian Rockies, pearched sentinel-like between Banff & Lake Louise, and towering over the picturesque Moraine Lake.  Temple's fortuitous location, dramatic appearance, and massive bulk make the peak equally well-known to climbers and tourists.  Its magnificent, sprawling North Face, over a mile wide and nearly 5000' high, is one of the few such North Faces visible from paved roads in the entire range.  At 11,636', Temple is the highest peak in the Banff Region, but is also one of the highest peaks in the Canadian Rockies, though its real attraction is its near-European accessibility and excellent, engaging routes of all difficulties.  The peak is comprised of alternating bands of shale, quartzite, and limestone.  None of these are particularly secure, though by Canadian Rockies standards, the classic routes tend to be relatively solid.  Perhaps the greatest argument against the Eiger analogy would be Temple's stable weather.  Located in the banana belt of the Canadian Rockies, the peak does not suffer the constant barrage of storms typical of Robson, Edith Cavel and other peaks of the Northern range. 
+getting_there: Mt Temple sits prominently a few miles south of Lake Louise, on the west side of the Icefields Parkway.  To approach, follow the popular Moraine Lake road south from Lake Louise Drive towards Moraine Lake.  Trails depart from various points along the road depending on the route. 
+id: 106997567 
+latitude: 51.3512 
+longitude:  -116.2058  
+parent_name: Valley of the Ten Peaks 
+parent_url: /v/valley-of-the-ten-peaks/106086590 
+

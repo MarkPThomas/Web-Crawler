@@ -323,7 +323,7 @@ date:
 difficulty:  
 elevation:  
 grade:  
-hits: 31023  
+hits: 31027  
 id: 700719 
 latitude:  
 location:  
@@ -331,7 +331,7 @@ longitude:
 my_route_quality:  
 name: Glaciers 
 number_of_pitches:  
-page_url: http://www.summitpost.org/glaciers/700719 
+page_url: /glaciers/700719 
 parent_code:  
 parent_name:  
 parent_url:  

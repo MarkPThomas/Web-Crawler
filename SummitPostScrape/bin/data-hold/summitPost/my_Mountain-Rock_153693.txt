@@ -34,12 +34,12 @@ content: <article>
 <div align="center"><table id="my_images">
 <tr>
 <td><a href="/michael-watches-mark-climb/93134/c-153693"><img alt="Michael watches Mark climb..." src="/images/square/93134.jpg"></a></td>
-<td><a href="/august-3rd-2004-south/90279/c-153693"><img alt="August 3rd, 2004 - South..." src="/images/square/90279.jpg"></a></td>
 <td><a href="/august-3rd-2004-the/90280/c-153693"><img alt="August 3rd, 2004 - The..." src="/images/square/90280.jpg"></a></td>
-<td><a href="/august-3rd-2004-south/90278/c-153693"><img alt="August 3rd, 2004 - South..." src="/images/square/90278.jpg"></a></td>
+<td><a href="/august-3rd-2004-south/90279/c-153693"><img alt="August 3rd, 2004 - South..." src="/images/square/90279.jpg"></a></td>
 <td><a href="/august-3rd-2004-south/90281/c-153693"><img alt="August 3rd, 2004 - South..." src="/images/square/90281.jpg"></a></td>
 <td><a href="/here-the-knife-edged/93135/c-153693"><img alt="Here the knife-edged..." src="/images/square/93135.jpg"></a></td>
 <td><a href="/south-basin-pk-from-camp/701388/c-153693"><img alt="South Basin Pk from Camp" src="/images/square/701388.jpg"></a></td>
+<td><a href="/august-3rd-2004-south/90278/c-153693"><img alt="August 3rd, 2004 - South..." src="/images/square/90278.jpg"></a></td>
 </tr>
 <tr>
 <td><a href="/utm519283/536031/c-153693"><img alt="UTM519283" src="/images/square/536031.jpg"></a></td>
@@ -52,7 +52,7 @@ date:
 difficulty:  
 elevation: 13240 
 grade:  
-hits: 5703  
+hits: 5706  
 id: 153693 
 latitude: 37.2914 
 location: California, United States, North America 
@@ -60,7 +60,7 @@ longitude: -118.6725
 my_route_quality:  
 name: South Basin Peak (pt. 13,240') 
 number_of_pitches:  
-page_url: http://www.summitpost.org/south-basin-peak-pt-13-240/153693 
+page_url: /south-basin-peak-pt-13-240/153693 
 parent_code: 170988 
 parent_name: John Muir Wilderness 
 parent_url: /john-muir-wilderness/170988 

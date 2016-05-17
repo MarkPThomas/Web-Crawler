@@ -1,0 +1,10 @@
+area_name: Crescent Towers Rock Climbing  
+area_url: /v/crescent-towers/105902683 
+description: Crescent Towers is a series of summits consisting of the North, two Central, and two South "Donkey Ears" towers.  The towers lie between Crescent Spire and Eastpost Spire.  The area contains a collection of moderate climbs with a relatively easy approach. 
+getting_there: If coming from the Kain Hut, take the obvious trail leading to the Applebee Dome campground.  From the trail system just below the campground, take the trail that leads up and left, aiming for the base of the large formation with the easily seen Donkey Ears protruding above.  If you loose the trail, find the path of least resistance; there appears to be several options.  The Crescent Towers can also be approached via the Crescent Glacier. 
+id: 105902683 
+latitude:  
+longitude:  
+parent_name: The Bugaboos 
+parent_url: /v/the-bugaboos/105868061 
+

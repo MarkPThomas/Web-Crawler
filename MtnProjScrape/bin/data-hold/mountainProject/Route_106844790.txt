@@ -1,0 +1,11 @@
+id: 106844790 
+parent_name: Swan Slab 
+parent_url: /v/swan-slab/105841123 
+route_description: obvious chimney in front of the huge oak on the main face of swan slabs. This chimney is a great chimney introduction pitch and is easily protected with small-medium cams. There is mainy different options for finishing the route. 
+route_name: Swan Slab Chimney  
+route_quality: 0.425 
+route_rating:  YDS: 5.5 
+route_rating_original: YDS: 5.5 
+route_type: Trad, 1 pitch, 50' 
+route_url: /v/swan-slab-chimney/106844790 
+

@@ -1,0 +1,10 @@
+area_name: Sugarloaf, West Face Rock Climbing  
+area_url: /v/sugarloaf-west-face/105734495 
+description: The west face gets lots of afternoon sun, though trees shade some of the single pitch routes.  While many of the routes are hard bolted face climbs, there are also a handful of nice trad routes including Pony Express (5.9) who's first pitch is widely considered to be the best 5.8 at Sugarloaf. 
+getting_there: Upon finding the trail from the highway, hike uphill past Midway Rock (which will be obvious as you pass it) then the trail does a large swithback and then ascends up to Sugarloaf.  The west side faces left when you're looking uphill at sugarloaf.  The West Chimney (5.8) is easy to spot.  The majority of the climbs start further uphill. 
+id: 105734495 
+latitude: 38.7764 
+longitude:  -120.3085  
+parent_name: Sugarloaf 
+parent_url: /v/sugarloaf/105734010 
+

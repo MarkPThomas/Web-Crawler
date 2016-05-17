@@ -1,0 +1,11 @@
+id: 106381678 
+parent_name: Beak Boulder 
+parent_url: /v/beak-boulder/106381030 
+route_description: Crux is right off the ground, and maybe at a pod about half way up. Good pro anywhere you want it. Even though the rock in the area seems like total crap, the rock on this route is very good, even to the point of being slick.  additional info:  WideFetish.com 
+route_name: Kamikaze Crack  
+route_quality: 0.8 
+route_rating:  YDS: 5.10c 
+route_rating_original: YDS: 5.10c 
+route_type: Trad, 1 pitch, 50' 
+route_url: /v/kamikaze-crack/106381678 
+

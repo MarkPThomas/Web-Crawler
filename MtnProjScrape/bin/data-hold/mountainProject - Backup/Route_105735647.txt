@@ -1,0 +1,11 @@
+id: 105735647 
+parent_name: Sugarloaf, West Face 
+parent_url: /v/sugarloaf-west-face/105734495 
+route_description: Pony Express is a great way to start the day.   The first pitch (5.8) is worthy of 3 stars, a lieback flake for a ways then it turns into a left-facing open book.    The second pitch only deserves 1 star... continue up from the belay on easy climbing for ~20 feet then use a wide crack in the gully to pull a bulge (5.9).  After the crux its 3rd class to the top.   Finding Pony Express is quite simple too.  It starts in the middle of a clean face on a very obvious flake - the only one in the vicinity. 
+route_name: Pony Express  
+route_quality: 0.775 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 2 pitches, 170' 
+route_url: /v/pony-express/105735647 
+

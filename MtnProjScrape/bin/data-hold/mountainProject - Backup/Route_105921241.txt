@@ -1,0 +1,11 @@
+id: 105921241 
+parent_name: Star Wars Rock 
+parent_url: /v/star-wars-rock/105720768 
+route_description: This leaning, almost bombay squeeze chimney is great entertainment for climbers and spectators alike. If you go with the proper side in, the crux is a few feet below where it turns the lip onto the vertical face.  Good squeeze technique will see you through the crux, then you're into the fists and soon onto the face where the crack is low angle & easy. If setting a TR on this, be prepared with a good length of static line, you'll want to extend the anchor quite a ways below the top due to a rope pinching chockstone in the crack.  
+route_name: Between a Rock and a Hard Place  
+route_quality: 0.95 
+route_rating:  YDS: 5.10b 
+route_rating_original: YDS: 5.10b 
+route_type: Trad, 1 pitch, 40' 
+route_url: /v/between-a-rock-and-a-hard-place/105921241 
+

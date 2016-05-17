@@ -1,0 +1,10 @@
+area_name:  Warrior 1 Rock Climbing  
+area_url: /v/-warrior-1/105879449 
+description: This is the big wall/tower to the west of Warbonnet. 
+getting_there: Use the Cirque of the Towers approach. 
+id: 105879449 
+latitude:  
+longitude:  
+parent_name: Cirque of the Towers 
+parent_url: /v/cirque-of-the-towers/105826735 
+

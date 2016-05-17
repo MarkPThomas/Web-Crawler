@@ -1,0 +1,10 @@
+area_name: Kane Springs Canyon Rock Climbing  
+area_url: /v/kane-springs-canyon/105716793 
+description: Kane Springs Canyon has lots of varied climbing.  Many Cutler hoodoos line the road and provide strange short climbs like mini Fisher Towers.  The Ice Cream Parlor is entirely a trad area (as far as I know) on good rock on Navajo and Wingate formations, with lots of possibilities for future hard free and aid route development.  Routes on various crags range from 5.8 slabs/cracks to 5.12- and C2 grade IV climbs.  Primitive camping areas are located along the roadside near some of the crags, and there is a potable natural spring 2.2 miles into the dirt road.  BASE jumpers frequent the Tombstones and are fun to watch, or you can do one of the long trad or free routes on them. 
+getting_there: From Main Street Moab (US 191), head west on Kane Creek Blvd from the McDonald's on the south end of town, or intersect Kane Creek Blvd from 400 North.  Head north as you leave town, under the east-facing cliffs above town, and past the scenic chairlift.  The road continues north and then turns south as it passes the Portal and parallels the river for three miles (paved), opposite Wall Street.  Mark distances for rocks from the cattleguard about 3 miles along the south portion of the road, where pavement ends.  A high-clearance 2WD will make the road with no problems.  Expect switchbacks, graded speedbumps (difficult for low-slung vehicles), and big rocks in the roadway. 
+id: 105716793 
+latitude: 38.5232 
+longitude:  -109.6024  
+parent_name: Moab Area 
+parent_url: /v/moab-area/105716711 
+

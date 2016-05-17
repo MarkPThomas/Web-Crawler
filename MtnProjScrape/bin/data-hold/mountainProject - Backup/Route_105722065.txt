@@ -1,0 +1,11 @@
+id: 105722065 
+parent_name: The Sentinel - West Face 
+parent_url: /v/the-sentinel---west-face/106621111 
+route_description: Climb the obvious right-slanting crack using jams and lieback moves (it's often easier to keep one foot on the face for balance) until encountering a roof high on the route. A good rest is found here, so plug in some gear and pull the roof (crux) before topping out onto a nice ledge with a bolted anchor/rap. 100' rap from anchors or one can continue above the anchors and descend the slabby south face of the formation. Note: don't try rappelling with anything less than a 60 meter rope as it won't reach.  This excellent climb is a Josh classic and a must do route of the area as it's a long, varied pitch on good rock with a tricky start, a fun middle section and an exciting finish.   Some climbers may remember seeing this climb featured on the cover of the 1989 Joshua Tree supplemental guide. Another name for this climb is The Kandy-Kolored Tangerine-Flake Streamline Baby, the name of a 1965 novel by Tom Wolfe. 
+route_name: Illusion Dweller  
+route_quality: 0.95 
+route_rating:  YDS: 5.10b 
+route_rating_original: YDS: 5.10b 
+route_type: Trad, 1 pitch, 100' 
+route_url: /v/illusion-dweller/105722065 
+

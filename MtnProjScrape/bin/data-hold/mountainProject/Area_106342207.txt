@@ -1,0 +1,10 @@
+area_name: West Wall Outer (Buckets to Burbank Area) Rock Climbing  
+area_url: /v/west-wall-outer-buckets-to-burbank-area/106342207 
+description: The heavily featured West Wall (West Face) is home to a number of mostly moderate routes that make use of the multitude of huecos, jugs and other fun features.  Popular routes here include Holds to Hollywood (5.4), Buckets to Burbank (5.8 R) and Ledges to Lawndale (5.10a).   
+getting_there: Head right from the parking area and hike past the right side of the East Wall, continue on and skirt the West Wall's north end and then cut left to reach the featured West Face. 
+id: 106342207 
+latitude: 34.00097 
+longitude:  -116.14794  
+parent_name: Hall of Horrors 
+parent_url: /v/hall-of-horrors/105720681 
+

@@ -1,0 +1,10 @@
+area_name: 15 - Knob Hill Rock Climbing  
+area_url: /v/15---knob-hill/105865681 
+description: Knob Hill is a nice little area next to upper Cascade Falls. A great place to learn to lead, with beautiful views of Lower Merced Canyon. The rock is generally quite knobby and the routes range from 5.7 to 5.9. 
+getting_there: From the Valley, drive up past Reed's Area. Park in one of the Cascade Bridge pull-outs. The crag is up and right on the right side of the creek. A well worn path takes you to the cliff. To get off the top, go down left through third class boulders. Route finding can be tricky.   
+id: 105865681 
+latitude: 37.7284 
+longitude:  -119.7102  
+parent_name: Lower Merced River Canyon 
+parent_url: /v/lower-merced-river-canyon/110464982 
+

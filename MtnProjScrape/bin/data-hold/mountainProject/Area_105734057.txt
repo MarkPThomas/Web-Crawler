@@ -1,0 +1,10 @@
+area_name: Northeast Face Rock Climbing  
+area_url: /v/northeast-face/105734057 
+description: The Northeast face of Cragmont park offers several quality beginner routes, ranging from 5.5 to 5.10b.   The climbing is up a cracked slab, probably the best place that I've ever seen to bring beginners. There are 3 bolt top anchors on two different spots on the rock, and also a tree that would be good for an anchor on the far left side.   To set a top anchor, walk around to the top of the park past the basketball hoop. There is a rock wall that has a clearing with a path leading downhill in the middle. Follow this down 20 feet to bolts headed off the left of the rock. 
+getting_there: Approach time: 1 minuteHead down the trail to the left of the bathrooms. The rock is about 100 feet downhill on the right side of the path, where the top anchors are easily seen.  
+id: 105734057 
+latitude: 37.89205 
+longitude:  -122.26333  
+parent_name: Cragmont Park 
+parent_url: /v/cragmont-park/105733893 
+

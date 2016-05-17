@@ -1,0 +1,10 @@
+area_name: Chimney Pond ("South") Basin - Summer Rock Routes Rock Climbing  
+area_url: /v/chimney-pond-south-basin---summer-rock-routes/111173512 
+description: The usual approach is to hike in 3.3 Mi. from Roaring Brook parking/campground to Chimney Pond and then  hike up into the basin to the base of the selected climb. 
+getting_there: Obtain a parking permit from Baxter State Park to park (or camp) at Roaring Brook....or better "score" a campsite at Chimney Pond Campground! 
+id: 111173512 
+latitude: 45.91441 
+longitude:  -68.91154  
+parent_name: Katahdin 
+parent_url: /v/katahdin/105949051 
+

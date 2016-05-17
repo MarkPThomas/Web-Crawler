@@ -1,0 +1,11 @@
+id: 105740027 
+parent_name: Crescent Crack Buttress 
+parent_url: /v/crescent-crack-buttress/105739365 
+route_description: Hand Jive is generally approached by climbing Crack in the Woods first, or you can climb the chimney leading up to the crack.  It is the appealing-looking thin hands crack above and right of Crack in the Woods.    From Crack in the Woods, downclimb into the chimney and undercling out right into the crack system.  Liebacking and jamming leads to a bolted rap anchor, which will just barely get you to the ground with one 60m rope.  This pitch felt harder and more insecure to me than Crack in the Woods.  I'd give this 8+ or 9-. 
+route_name: Hand Jive  
+route_quality: 0.725 
+route_rating:  YDS: 5.8+ 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 1 pitch, 60' 
+route_url: /v/hand-jive/105740027 
+

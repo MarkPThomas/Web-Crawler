@@ -1,0 +1,10 @@
+area_name: Berkeley Rock Climbing  
+area_url: /v/berkeley/105733965 
+description: Urban bouldering is found in a number of park around the city of Berkeley.  Afterwards, a decent selection of beer can be found at the local Safeway, which is on Shattuck Place about a mile south of the rock. There are also numerous breweries and bars in Berkeley's downtown area, and also on Telegraph Avenue, which can be found just south of the U.C. Berkeley campus.  Camping can be done in a few nearby parks. Check the East Bay Regional Park District Camping web page for current details. 
+getting_there: See individual parks for directions. 
+id: 105733965 
+latitude: 37.89017 
+longitude:  -122.27239  
+parent_name: San Francisco Bay Area 
+parent_url: /v/san-francisco-bay-area/105733851 
+

@@ -1,0 +1,10 @@
+area_name: The Wall Rock Climbing  
+area_url: /v/the-wall/105854200 
+description: This is the wall across from Cliffs of Insanity, and has a huge kink in the wall that makes part of it face south for about 80 yards. There is a big right-arching crack visible from the approach. It seems a lot of the routes are new considering the book shows about 7. I'd say there are about 25 and most are 5.10s and 5.11s and one 13 ...(by Didier?) 
+getting_there: Take the gate directly across from the Super Bowl camp, then the first left turn, then right turn after a dip in a dried stream. There is a trail from the old mine at the end of this road heading down and right. The mine is way cool to check out. Next time I would just head straight back on the main dirt road inside the gate, and then just turn left into the dried large wash and drive until the lower-angle gully is in sight and hike the weakness up to the wall where the wall (left to right) takes a left turn out for 80 yards and then turns left for the rest of the way. Most of the routes are in the corner area and all have plaques.   
+id: 105854200 
+latitude: 38.1714 
+longitude:  -109.5967  
+parent_name: Indian Creek 
+parent_url: /v/indian-creek/105716763 
+

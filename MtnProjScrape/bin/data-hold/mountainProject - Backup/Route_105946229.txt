@@ -1,0 +1,11 @@
+id: 105946229 
+parent_name: c. Moe (closure) to Harvest Moon 
+parent_url: /v/c-moe-closure-to-harvest-moon/108142202 
+route_description: Another atypical Gunks route.  If you're looking for a chimney fix this is the place.  Not really that hard and there's decent pro hiding in the chimney walls.  I haven't done the rest of the climb past the anchor atop the chimney. 
+route_name: White Pillar  
+route_quality: 0.55 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, 3 pitches, 250' 
+route_url: /v/white-pillar/105946229 
+

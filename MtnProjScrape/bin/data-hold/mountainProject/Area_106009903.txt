@@ -1,0 +1,10 @@
+area_name: 24 - Highway Star Rock Climbing  
+area_url: /v/24---highway-star/106009903 
+description: A solitary rock with one superb route. 
+getting_there: Just east (towards the Valley) from the Hwy 120/140 intersection. Park at a dirt turnout on the south side of the road. Cross the road and walk north on a faint climber's trail for 100 yards uphill. Approach time is less than 2 minutes. 
+id: 106009903 
+latitude: 37.7188 
+longitude:  -119.6724  
+parent_name: Lower Merced River Canyon 
+parent_url: /v/lower-merced-river-canyon/110464982 
+

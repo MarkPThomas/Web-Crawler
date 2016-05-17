@@ -1,0 +1,11 @@
+id: 105714830 
+parent_name: South and East Faces 
+parent_url: /v/south-and-east-faces/105714384 
+route_description: Soler is a wonderful two pitch route climbing twin fingercracks in a dihedral.  It is probably the easiest summit route on the tower that isn't wider than hands, and may feel easier than the 7s and 8s to those who don't know how to jam.  Follow the ramp around a prominent corner.  Soler starts in a dihedral right of a bolted route and two cracks left of TAD.  Climb a long sustained pitch past some slightly broken rock at the very bottom to a hanging belay at a couple of bolts.  Pitch 2 is more of the same to a large ledge at the base of the Meadows.    Pitch 1 is generally given 5.8 and 2 is 5.9-, but I can't tell them apart.  Probably rated that way because you are already a little pumped when starting pitch 2. 
+route_name: Soler  
+route_quality: 0.9 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9- 
+route_type: Trad, 2 pitches, 280',  Grade II 
+route_url: /v/soler/105714830 
+

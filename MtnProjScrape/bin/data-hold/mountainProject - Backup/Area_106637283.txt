@@ -1,0 +1,10 @@
+area_name: North Peak Rock Climbing  
+area_url: /v/north-peak/106637283 
+description: Alpine peak just north of Mt. Conness with several great alpine ice couloirs. 
+getting_there: Drive west on Hwy. 120 from Lee Vining.  Turn right at the Saddlebag Lake/Sawmill Campground turnoff well before the Tuolumne Meadows entrance station.  Drive to the end of the road and park as for routes on Mt. Conness at the Saddlebag Lake trailhead. 
+id: 106637283 
+latitude: 37.98218 
+longitude:  -119.31462  
+parent_name: 02 - Tuolumne Alpine 
+parent_url: /v/02---tuolumne-alpine/110847794 
+

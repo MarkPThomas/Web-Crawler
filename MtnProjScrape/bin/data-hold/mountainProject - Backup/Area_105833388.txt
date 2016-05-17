@@ -1,0 +1,10 @@
+area_name: Yosemite Valley Rock Climbing  
+area_url: /v/yosemite-valley/105833388 
+description: Yosemite Valley is THE PLACE for many rock climbers. A literal mecca for climbers across the globe, the crags and walls of "The Valley" see thousands of climber-days in the course of a year. During the height of the season, it's typical to hear climbers on El Capitan yelling back and forth in English, German, Japanese, Russian and many other languages. In this one place, many factors come together to form a nearly perfect arena for rock climbing; mild weather, beautiful scenery, and incredible granite walls perfectly suited to climbing. On a rest day, visit the many tremendous waterfalls, hike some of the beautiful trails, and breathe in one of the most incredible places in the entire country.  
+getting_there: Yosemite Valley can be reached from the west, south or east via highways 120 (west), 140, 41 or 120 via Tioga Pass. The Tioga Pass drive through Tuolumne Meadows from the east side is normally closed from sometime in the fall through mid to late May due to snowfall.  Traffic is an ongoing issue with Yosemite Valley during the tourist season. On especially busy days, cars are even stopped from entering the park once its determined that capacity has been reached. Plan accordingly. 
+id: 105833388 
+latitude: 37.7436 
+longitude:  -119.599  
+parent_name: Yosemite National Park 
+parent_url: /v/yosemite-national-park/105833381 
+

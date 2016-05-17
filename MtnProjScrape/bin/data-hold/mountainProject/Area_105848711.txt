@@ -1,0 +1,10 @@
+area_name: Wolfs Head Rock Climbing  
+area_url: /v/wolfs-head/105848711 
+description: Wolf's Head sits at the northwestern side of the Cirque just west of Pingora.  It can be identified easily by its long and steep east ridge.  Several climbs scale Wolf's Head, but the most traveled is definitely the East Ridge, 5.6.  Many parties overlook routes like the East Ridge because of its low technical difficulty and time-consuming descent, but the climbing is unlike any other.   
+getting_there: To get to Wolfs Head, approach the cirque from the Big Sandy trail head, about 11 miles.  Once in the cirque follow a trail along the west side past Pingora and up into the cirque lake basin.   
+id: 105848711 
+latitude: 42.7802 
+longitude:  -109.233  
+parent_name: Cirque of the Towers 
+parent_url: /v/cirque-of-the-towers/105826735 
+

@@ -1,0 +1,11 @@
+id: 105874700 
+parent_name: Church Bowl 
+parent_url: /v/church-bowl/105860381 
+route_description: Follow the low-angle chimney to the left of "Church Bowl Lieback". Continue up 5.7 at the chimney's end. This is a good route for learning basic chimney technique. Rappel.  
+route_name: Uncle Fanny  
+route_quality: 0.475 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, 1 pitch 
+route_url: /v/uncle-fanny/105874700 
+

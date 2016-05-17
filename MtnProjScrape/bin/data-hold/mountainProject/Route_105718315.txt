@@ -1,0 +1,11 @@
+id: 105718315 
+parent_name: Donnelly Canyon 
+parent_url: /v/donnelly-canyon/105716880 
+route_description: This route is a reasonably good Donelly climb and seems to be free more often than others.  It is just as long and good as 'Generic Crack,' but less generic.  The size changes throughout and the angle weaves back and forward, throug a few hanging corners and flaring pods.  Fing a long climb left of the ever-popular Chocolate corner area- continue left past Mr Peanut and toward Generic Crack to near the bolted arete of Let Er Buck. Just right of there (if memory serves- I just did it again on Easter of 04) is a splitter off of the ground with rounded edges. About 10M up is the first pod, which is also the crux.  A rack of cams should include a few down to an inch, with at least two each #2 and #3.5 and probably three each #2.5 and #3.  That should do well, but if you love plugging tons of gear, consider taking more.  Take a few slings too, as the pods protect deep in back.  A 70M rope will get you down, a 60 won't without trickery. 
+route_name: Unknown Pod Climb.  
+route_quality: 0.575 
+route_rating:  YDS: 5.10+ 
+route_rating_original: YDS: 5.10+ 
+route_type: Trad, 1 pitch, 110' 
+route_url: /v/unknown-pod-climb/105718315 
+

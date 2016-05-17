@@ -1,0 +1,10 @@
+area_name: Whiskey Peak Rock Climbing  
+area_url: /v/whiskey-peak/105732066 
+description: This is the small summit on the left side of the canyon (in front of Black Velvet Peak from the parking lot).  Of course, small is relative here as its  NE face is probably 700' high in places.  Routes on this face tend to be quite shady and can be very cold on windy days, or in the winter. 
+getting_there: Walk up the main drainage and head left ot the base of the wall, depending on the route.  Approaches to all routes on this wall are less than 1/2 hour, and many are popular.  For the many routes ending on the Whiskey Peak summit, the descent follows the obvious gully leading down to the east.  As you start the descent, wander left (north) on slabs to the left side of the gully.  Class 2 and 3 scrambling leads down to a point where a trail leads left out of the gully to join the approach trail underneath Schaeffer's Delight. 
+id: 105732066 
+latitude: 36.03487 
+longitude:  -115.46322  
+parent_name: Black Velvet Canyon 
+parent_url: /v/black-velvet-canyon/105731948 
+

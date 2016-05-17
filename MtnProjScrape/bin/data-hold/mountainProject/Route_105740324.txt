@@ -1,0 +1,11 @@
+id: 105740324 
+parent_name: Reservoir Ridge 
+parent_url: /v/reservoir-ridge/105739473 
+route_description: Exposed ridge climbing that is easy and easy to protect.  A must do for those practicing longer trad routes.  The descent is kind of awkward... scrambling up and east. That is unless the new anchors on the east face will work for rappelling off. 
+route_name: Reservoir Ridge  
+route_quality: 0.425 
+route_rating:  YDS: 5.4 
+route_rating_original: YDS: 5.4 
+route_type: Trad, 3 pitches, 180' 
+route_url: /v/reservoir-ridge/105740324 
+

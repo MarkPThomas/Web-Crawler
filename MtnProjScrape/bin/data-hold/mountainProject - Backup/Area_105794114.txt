@@ -1,0 +1,10 @@
+area_name: Open Book Area Rock Climbing  
+area_url: /v/open-book-area/105794114 
+description: This area offers brillant climbing and gets sun.  
+getting_there: Follow the standard trail up to Tahquitz. Once you hit the rock traverse around the base until you reach the obvious right facing dihedral.  
+id: 105794114 
+latitude: 33.75934 
+longitude:  -116.68534  
+parent_name: South Face 
+parent_url: /v/south-face/105799848 
+

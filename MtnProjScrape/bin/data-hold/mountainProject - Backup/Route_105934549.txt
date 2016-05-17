@@ -1,0 +1,11 @@
+id: 105934549 
+parent_name: Grand Teton 
+parent_url: /v/grand-teton/105803123 
+route_description: Begin by climbing up the right side of the Teton Glacier and then move back left to the base of the Grandstand.  This is a real glacier and contains some giant crevasses.  Ortenburger warns against climbing the right of two chimneys which begin the face left of the base of the Grandstand.  However I believe we may have started too far left because of this warning.  Crossing the bergschrund may be a problem, but was not during our ascent.  Ortenburger calls the start a chimney but we climbed a steep face with lots of ledges and rubble.  Then climb up and right a few ropelengths to the base of the Guano Chimney, which leads directly to the lower left part of the First Ledge.  The First Ledge is several hundred feet wide, but slopes at about 20-40 degrees and usually contains some snow.  We found no guano in the namesake chimney.  Follow the First Ledge up and right until it ends.  This is several pitches but mostly easy scrambling, and the main difficulty is snow, melting snow, or verglas.  If completely dry this traverse is 3rd-4th class.  We experienced melt water flowing over slabs and definitely stayed roped up for the lower section.  From the far right end of the First Ledge, climb up steeply to reach the Second Ledge.  This pitch and the Guano Chimney are rated 5.6 and form the cruxes of the lower part of the route.  Follow the Second Ledge right until it is easy to climb upward to the Third Ledge.  If looking for an easy escape, the easiest is to keep traversing the Second Ledge all the way to the Owen Spalding.  However by far the most classic line is to reach the Third Ledge and traverse up and right to the base of Pendulum Pitch.  The top section is the same as for the North Face Highlight Tour, see that description.  The pendulum pitch looks intimidating from below, this Photo may be helpful in recognizing the correct place to start upward off the 3rd ledge.   
+route_name: North Face Standard  
+route_quality: 0.725 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, Alpine, 12 pitches, 3000',  Grade IV 
+route_url: /v/north-face-standard/105934549 
+

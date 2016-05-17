@@ -1,0 +1,11 @@
+id: 106430880 
+parent_name: Plaque Rock 
+parent_url: /v/plaque-rock/105734120 
+route_description: 10 feet up, bad crimps 
+route_name: Right of the Plaque  
+route_quality: 0.6 
+route_rating:  YDS: 5.11+   Hueco: V3  Font: 6A R 
+route_rating_original: YDS: 5.11+   Hueco: V3  Font: 6A R 
+route_type: TR, Boulder, 1 pitch, 20' 
+route_url: /v/right-of-the-plaque/106430880 
+

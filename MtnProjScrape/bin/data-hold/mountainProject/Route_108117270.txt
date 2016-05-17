@@ -1,0 +1,11 @@
+id: 108117270 
+parent_name: 21 - Reed's Pinnacle Area 
+parent_url: /v/21---reeds-pinnacle-area/105863765 
+route_description: This is a fun caving adventure up the inside of the Reed's Pinnacle. It's a good pick for a warm day, or as a night-climb since you need a headlamp anyways. It's possible to start it either from the Left Side route, or from a hole in the wall at the start of P2 of the Direct route. Starting from the Direct route is probably the more classic option.  The chimney is straightforward for the most part. You can follow the inside of the Reed's Direct crack for a ways, but eventually you need to traverse left because the top of the chimney is capped by a bunch of chockstones. Don't place gear too high or you'll probably get terrible rope drag later on, and I'd worry about the ropes dislodging loose stuff from under the chockstone roof.  The exit is directly below the "tunnel through" on P3 of the Regular Route. This section is a bit of a squeeze. This "crux" defies all conventions of the Yosemite Decimal System, so it's hard to put a grade on. I'm a lightweight at 130lbs, and wiggled through no problem. I think it's tighter than the Narrows on the S-S, so if you found that claustrophobic you'll probably have a hard time with this one. In any case, you can either end the climb atop the large ledge to the right, or continue the traverse up and left if you want to finish on the Regular Route to the top of the pinnacle.   A most excellent Trip Report with lots of photos can be found heresupertopo.com/tr/The-DEER-Rout... 
+route_name: The Deer Route  
+route_quality: 0.75 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, 2 pitches, 200' 
+route_url: /v/the-deer-route/108117270 
+

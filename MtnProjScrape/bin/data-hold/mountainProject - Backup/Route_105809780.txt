@@ -1,0 +1,11 @@
+id: 105809780 
+parent_name: Castle Rock 
+parent_url: /v/castle-rock/105790784 
+route_description: A great climb up a widening crack.  Begin with a hand size crack that widens to offwidth and then to chimney.  The crux comes in the first 30ft but runnouts in the chimney keep things interesting.  Top out on Jello tower.   
+route_name: Damnation Crack  
+route_quality: 0.8 
+route_rating:  YDS: 5.9+ 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 1 pitch, 80' 
+route_url: /v/damnation-crack/105809780 
+

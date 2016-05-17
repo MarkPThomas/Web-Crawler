@@ -347,7 +347,7 @@ date: Aug 23, 2012
 difficulty:  
 elevation:  
 grade:  
-hits: 2648  
+hits: 2650  
 id: 843342 
 latitude: 42.74909 
 location: Wyoming, United States, North America 
@@ -355,7 +355,7 @@ longitude: -109.21987
 my_route_quality:  
 name: War Path on Warbonnet, NE Face, Left 
 number_of_pitches:  
-page_url: http://www.summitpost.org/war-path-on-warbonnet-ne-face-left/843342 
+page_url: /war-path-on-warbonnet-ne-face-left/843342 
 parent_code: 151440 
 parent_name: Cirque of the Towers 
 parent_url: /cirque-of-the-towers/151440 

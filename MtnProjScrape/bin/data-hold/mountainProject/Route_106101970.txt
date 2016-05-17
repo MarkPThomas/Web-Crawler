@@ -1,0 +1,11 @@
+id: 106101970 
+parent_name: b. Jackie and friends 
+parent_url: /v/b-jackie-and-friends/107037580 
+route_description: You haven't really climbed it unless you've gotten inside the chimney and done the "belly roll"!   P1: Climb the wide crack until it leans leftward and opens into a squeeze chimney. Dive in there and worm your way upward (your belayer will die laughing; make sure they don't have a camera) to easier ground. Continue up past a corner, and belay on the ledge. (5.4, 70ft.)  P2: Go up the short, right-facing corner, then up past a crack to the top. (5.2, 50ft.)  Descend via the Uberfall Descent - much quicker and less tangled than rapping. 
+route_name: Belly Roll  
+route_quality: 0.55 
+route_rating:  YDS: 5.4 
+route_rating_original: YDS: 5.4 
+route_type: Trad, 2 pitches, 120' 
+route_url: /v/belly-roll/106101970 
+

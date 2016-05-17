@@ -1,0 +1,11 @@
+id: 106346180 
+parent_name: Pat and Jack Pinnacle 
+parent_url: /v/pat-and-jack-pinnacle/105870715 
+route_description: this route is excellent. The first part is the hardest, the second part is more run out and has good holds. The moves around bolts 2,3,4 may require some time to figure it out, manteling is a good idea! 
+route_name: Knuckleheads  
+route_quality: 0.75 
+route_rating:  YDS: 5.10 
+route_rating_original: YDS: 5.10c 
+route_type: Sport, 1 pitch, 90' 
+route_url: /v/knuckleheads/106346180 
+

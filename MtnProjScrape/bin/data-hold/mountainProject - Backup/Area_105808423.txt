@@ -1,0 +1,10 @@
+area_name: Steamboat Rock/Midgley Bridge Area Rock Climbing  
+area_url: /v/steamboat-rockmidgley-bridge-area/105808423 
+description: This area is located just northwest of Midgley Bridge, up on a prominent step of sandstone. From the parking area at Midgley Bridge, you will be able to see Steamboat Rock prominently, and the tops of Princess and Tisha Spire formations as well. 
+getting_there: From the Midgley Bridge parking area, take the Wilson Canyon Trail to the Jim Thompson Trail turnoff, then after about five minutes on the JTT, turn uphill and gain the ridge above that is followed to Steamboat and access to Princess and Tisha. 
+id: 105808423 
+latitude: 34.88934 
+longitude:  -111.75151  
+parent_name: Sedona 
+parent_url: /v/sedona/107439475 
+

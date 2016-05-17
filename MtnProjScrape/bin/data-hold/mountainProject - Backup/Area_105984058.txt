@@ -1,0 +1,10 @@
+area_name: Mt. Superior / Monte Cristo Rock Climbing  
+area_url: /v/mt-superior--monte-cristo/105984058 
+description: Mount Superior is located between Big and Little Cottonwood Canyons and can be easily seen rising above the Snowbird and Alta ski resorts to the north.   The summit area consists of several high points.  Most locals call the eastern point Mt. Superior (11,040) and the higher western point Monte Cristo (11,132).  
+getting_there: Several approaches are possible from both canyons. 
+id: 105984058 
+latitude:  
+longitude:  
+parent_name: Wasatch Alpine Areas 
+parent_url: /v/wasatch-alpine-areas/105739328 
+

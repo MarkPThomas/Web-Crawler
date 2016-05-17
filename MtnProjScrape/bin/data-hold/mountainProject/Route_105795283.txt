@@ -1,0 +1,11 @@
+id: 105795283 
+parent_name: Technicolor Wall 
+parent_url: /v/technicolor-wall/105795277 
+route_description: Looking left of a large pillar, you will see a large hands crack with a huge pod about 15 feet up. This is it. Crux is getting out of the pod and back into the hand crack. Fun climb for those with large hands! People with smaller seem to struggle a bit. 
+route_name: On the Up and Up  
+route_quality: 0.775 
+route_rating:  YDS: 5.10 
+route_rating_original: YDS: 5.10 
+route_type: Trad, 1 pitch, 70' 
+route_url: /v/on-the-up-and-up/105795283 
+

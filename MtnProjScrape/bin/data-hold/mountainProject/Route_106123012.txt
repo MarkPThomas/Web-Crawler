@@ -1,0 +1,11 @@
+id: 106123012 
+parent_name: Durrance Approach 
+parent_url: /v/durrance-approach/105714408 
+route_description: It's best to use this approach when there are no climbers on durrance and during the winter when the normal approach has snow and ice on it. The right crack has better pro but either one is run out.    
+route_name: Bowling Alley- aka Durrance approach route  
+route_quality: 0.475 
+route_rating:  YDS: 5.5 PG13 
+route_rating_original: YDS: 5.5 PG13 
+route_type: Trad, 1 pitch, 100' 
+route_url: /v/bowling-alley--aka-durrance-approach-route/106123012 
+

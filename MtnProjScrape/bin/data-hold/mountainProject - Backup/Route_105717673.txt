@@ -1,0 +1,11 @@
+id: 105717673 
+parent_name: Donnelly Canyon 
+parent_url: /v/donnelly-canyon/105716880 
+route_description: From Generic Crack, walk about 60' to the left.  There you will see a huge flake in a left-facing corner.  This flake forms a tips-crack on the right, and a finger-to-hand crack on the left side.  A double chain anchor is 35' off the ground, just above the top of the flake.  A single bolt and ring are above the right hand side, to serve as a directional to protect the fingertips varaition (5.11+, TR)  P1: Climb to the top of this flake (5.9) fromt he left, with good protection and simple, but powerful moves.  P2: Climb up the corner, in  agreat and solid tight-hands crack.  This starts as a 2-2.5" crack for a bit, the eases up to really good hands for a few moves.  After a few more moves, the climb drastically changes its nature.  The corner becomes softer rock (but still safe) and turns into a "double-inset" up above.  This is like having 2 aretes facing nose-to-nose with 12" in between and a chunk of rock some distance behind.  The fun part may be the shenanigans you pull to achieve one no-hands rest after another, by heal-toe, knee-bar, or other odd modes, using the hollow area back in the corner for these positions.  Once past the steepest part of the rock, smaller cams are more useful than large ones (1-1.5").  No OW gear is necessary.  A beginning leader may likely find the distance between a few of the pieces disconcerting when combined with the odd positions of theis route, and as a result will tunnel back in to chimney the moves.  That's no fun, so let it all hang out and enjoy it!!!  
+route_name: The Naked and Dead  
+route_quality: 0.525 
+route_rating:  YDS: 5.10 R 
+route_rating_original: YDS: 5.10 R 
+route_type: Trad 
+route_url: /v/the-naked-and-dead/105717673 
+

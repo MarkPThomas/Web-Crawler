@@ -1,0 +1,11 @@
+id: 105717337 
+parent_name: Donnelly Canyon 
+parent_url: /v/donnelly-canyon/105716880 
+route_description: From the parking lot, go across the drainage and then past the first trail (to Generic Crack).  The next trail will take you up to the Chocolate Corner area.  Hike past Chocolate Corner to a large inset chimney with two routes inside.  This is the route on the right side of the chimney, ascending a slightly overhanging thin hands to finger crack in an acute dihedral/slot to a anchor composed of two drilled pins.  About 70 feet.  Start up the seemingly frictionless thin-hands slot (with occasionally tolerable hand jams) to a pod, where you can place the #3 Camalot and milk a "rest".  The 25 feet from the pod to the anchors is the crux, with acceptable and sometimes excellent fingerlocks. Hardmen and hardwomen will just jam straight up to the anchors, while the rest of us softies can use an inelegant combination of stemming and chimney technique to supplement the finger jams.Three stars anywhere else, but two stars at most for Indian Creek.  
+route_name: Drainpipe  
+route_quality: 0.5 
+route_rating:  YDS: 5.10+ 
+route_rating_original: YDS: 5.10 
+route_type: Trad 
+route_url: /v/drainpipe/105717337 
+

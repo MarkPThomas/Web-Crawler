@@ -1,0 +1,10 @@
+area_name: Tahquitz Rock Rock Climbing  
+area_url: /v/tahquitz-rock/105788031 
+description: Tahquitz Rock is the larger of the two crags above the town of Idyllwild and offers primarily traditional climbing from one to seven pitches in length.  Please note this is a traditional crag and although sport routes do exist they are the exception. It's important to keep in mind that even fully bolted routes requiring nothing more than quickdraws tend to be runout and somewhat serious leads.  
+getting_there: See the overview directions on how to reach Humber Park. Once at Humber Park locate the start of the Ernie Maxwell Scenic Trail, which starts just past the Adventure Pass sign at a sharp left-hand turn. Follow the trail as it descends a small hill, makes a horseshoe bend and crosses a seasonal stream before leveling out and heading south. A few hundred yards down the trail you'll encounter a climber sign-in box, from which the climber's trail splits off and ascends the steep hillside to the base of Tahquitz. Plan on 30-60 minutes for the approach depending upon your degree of fitness and which portion of the rock you're aiming for. 
+id: 105788031 
+latitude: 33.7602 
+longitude:  -116.684  
+parent_name: Tahquitz & Suicide Rocks 
+parent_url: /v/tahquitz--suicide-rocks/105788020 
+

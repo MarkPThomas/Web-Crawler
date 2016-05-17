@@ -1,0 +1,10 @@
+area_name: Sports Challenge Rock - East Face Rock Climbing  
+area_url: /v/sports-challenge-rock---east-face/106325836 
+description: This side of the Sports Challenge formation plays host to a couple of Josh classics, namely Clean and Jerk 5.10c and Leave It To Beaver 5.12a  The routes are very steep if not overhanging and mostly climb incredibly good rock.   
+getting_there: Same 
+id: 106325836 
+latitude: 34.01415 
+longitude:  -116.16906  
+parent_name: Sports Challenge Rock 
+parent_url: /v/sports-challenge-rock/106325842 
+

@@ -1,0 +1,10 @@
+area_name: Ribbon Falls Area Rock Climbing  
+area_url: /v/ribbon-falls-area/105875227 
+description: Free falling 1,612' to the valley floor, Ribbon Falls is the highest continuous waterfall in Yosemite, and third highest of Yosemite's waterfalls. It ranks 18th highest in the world.  Ribbon Falls Amphitheater is a spectacular place offering great climbing and an awesome view of the West Face of El Capitan.  Climbs here range from short to big walls.  Other, shorter crags are found near the area.  Audubon Buttress is included here because it shares the same parking area as the Ribbon Falls crags. 
+getting_there:  From the Old Big Oak Flat Road, find your way through the forest to the falls. 
+id: 105875227 
+latitude: 37.72631 
+longitude:  -119.64275  
+parent_name: Yosemite Valley 
+parent_url: /v/yosemite-valley/105833388 
+

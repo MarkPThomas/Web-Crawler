@@ -1,0 +1,11 @@
+id: 106653590 
+parent_name: Swan Slab 
+parent_url: /v/swan-slab/105841123 
+route_description: This is a great beginner friendly pitch.  Start up broken cracks passing bushes (.7) to a bolted belay with chains (top of Lena'a Lieback).  Top out option: From the chains, traverse left out an exposed undercling flake (#4camalot) then up and to the right (.7) following crack to the belay ledge.  This is the second pitch of Lena's Lieback.  Then walk off to thre right.  The quick walk off has a short scramble/down climb section to it. 
+route_name: Claude's Delight  
+route_quality: 0.575 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, 2 pitches, 150' 
+route_url: /v/claudes-delight/106653590 
+

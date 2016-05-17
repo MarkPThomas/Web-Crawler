@@ -1,0 +1,11 @@
+id: 106349773 
+parent_name: The Three Penguins 
+parent_url: /v/the-three-penguins/105717122 
+route_description: Climb the chimney until it forces you out to a couple of OW moves.(crux)  In my opinion this is the easiest route on the tower.  
+route_name: Anorexia  
+route_quality: 0.25 
+route_rating:  YDS: 5.10a 
+route_rating_original: YDS: 5.10a 
+route_type: Trad, 1 pitch, 120' 
+route_url: /v/anorexia/106349773 
+

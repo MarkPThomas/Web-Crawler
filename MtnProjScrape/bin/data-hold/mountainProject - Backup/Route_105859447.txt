@@ -1,0 +1,11 @@
+id: 105859447 
+parent_name: Stately Pleasure Dome 
+parent_url: /v/stately-pleasure-dome/105835737 
+route_description: From the top of "Hermaphrodite Flake", climb up and slightly right to a bolt, forty feet out. Diagonal right, eighty feet (5.6R) to a belay. The next pitch is protected by two bolts and  ends at a short crack.  Scrambling leads to the top. 
+route_name: Eunuch  
+route_quality: 0.775 
+route_rating:  YDS: 5.7 R 
+route_rating_original: YDS: 5.7 R 
+route_type: Trad, Alpine, 3 pitches, 250' 
+route_url: /v/eunuch/105859447 
+

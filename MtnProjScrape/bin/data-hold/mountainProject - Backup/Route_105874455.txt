@@ -1,0 +1,11 @@
+id: 105874455 
+parent_name: 22 - Five and Dime Cliff 
+parent_url: /v/22---five-and-dime-cliff/105870687 
+route_description: Climb face an a corner to the right of "Five and Dime". 
+route_name: Whack and Dangle  
+route_quality: 0.55 
+route_rating:  YDS: 5.11a 
+route_rating_original: YDS: 5.11a 
+route_type: Trad 
+route_url: /v/whack-and-dangle/105874455 
+

@@ -1,0 +1,10 @@
+area_name: Outhouse Rock - West Face Rock Climbing  
+area_url: /v/outhouse-rock---west-face/106045681 
+description: This large but fairly uninspiring face is centrally located just outside the boundaries of Hidden Valley CG proper but it's lack of any classic routes is one reason for it's lack of popularity.   The half dozen or so routes on this face range in difficulty from 5.4 to 5.10a, although despite the relatively moderate ratings the climbs see little traffic as climbers are drawn to the more interesting climbs on the east face of the formation.   Descent is made from a bolted anchor (70' rap) atop the Northwest Chimney (5.4 R) route. 
+getting_there: Walk to the northern apex of the front campground loop and then pick up the well-defined trail which leads into the Outback. The west face of Outhouse Rock will be the large formation on your right and visible the entire time as you approach. It's about a 5-10 minute walk from the bulletin board in Hidden Valley CG.  
+id: 106045681 
+latitude:  
+longitude:  
+parent_name: Outhouse Rock 
+parent_url: /v/outhouse-rock/105721226 
+

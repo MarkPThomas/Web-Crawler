@@ -1,0 +1,10 @@
+area_name: The Great Wall Rock Climbing  
+area_url: /v/the-great-wall/105717039 
+description: This is a big wall that is off to the left just past the Courthouse Wash Bridge.  The wall looks really smooth but has a series of three blocks leaning against it at one point - this is Chinese Eyes. 
+getting_there: Park at the pullout on the left immediately past the Courthouse Wash Bridge.  Find a climbers trail/wash that heads NW towards big blocks leaning against the wall.  About 5 minutes hiking time. 
+id: 105717039 
+latitude:  
+longitude:  
+parent_name: Arches National Park 
+parent_url: /v/arches-national-park/105716757 
+

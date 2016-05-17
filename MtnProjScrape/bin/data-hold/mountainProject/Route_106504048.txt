@@ -1,0 +1,11 @@
+id: 106504048 
+parent_name: The Cauldrons 
+parent_url: /v/the-cauldrons/106504043 
+route_description: This route follows the obvious crack system on the sw side of the tower and finishes in the notch between the twin summits.  The climbing is engaging and stays on solid rock for the most part. The two belays are bolted.  Pitch One - Follow a right facing corner system past a big ledge and through a fun stem-box. Continue to the base of a low-angle v-slot below a large roof. 5.10  Pitch Two - Follow the crack out and over the roof and continue to the notch passing some loose rock near the top. 5.10   
+route_name: Eye of the Newt  
+route_quality: 0.825 
+route_rating:  YDS: 5.10 
+route_rating_original: YDS: 5.10 
+route_type: Trad, 2 pitches, 250',  Grade II 
+route_url: /v/eye-of-the-newt/106504048 
+

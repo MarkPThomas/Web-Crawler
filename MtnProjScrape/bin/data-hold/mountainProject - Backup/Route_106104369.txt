@@ -1,0 +1,11 @@
+id: 106104369 
+parent_name: Tiger Rocks 
+parent_url: /v/tiger-rocks/105721274 
+route_description: A fantastic exercise in flare and effort.  The pro is minimal to scant to get into the initial maw.  Once established in the chimney, there is very good pro in the back.  There is an immediate exposure factor for the opening moves as this route sits on top of an existing deep chimney.  If you fall in the first 10 feet, you go 25ft to some jagged blocks.  Cool!  More info here:  WideFetish.com 
+route_name: One Armed Giant  
+route_quality: 0.9 
+route_rating:  YDS: 5.10d PG13 
+route_rating_original: YDS: 5.10d PG13 
+route_type: Trad, 1 pitch, 55' 
+route_url: /v/one-armed-giant/106104369 
+

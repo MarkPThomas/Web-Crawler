@@ -1,0 +1,11 @@
+id: 105915124 
+parent_name: Royal Arches 
+parent_url: /v/royal-arches/105833402 
+route_description: 1. Climb the groove 5.2, into a 4th class ramp, follow this and then some dirty climbing up on a large ledge and triple bolt belay.  2. Climb directly up above the belay until a delicate rising right traverse (no pro) allows a good crack to be gained.   Follow this, until you can scramble under a tree onto a ledge and belay.  3. Follow the ledge left and then climb good cracks up to a hanging bolt belay.   This is the first of 3 good pitches.  4.  Continue up the crack system until an obvious step right can be made where the cracks continue up to the belay.  5.  This last pitch is a good one.  This climb saves it very best to the very last few moves.  Climb up until a nice finger crack allows progress up and onto the belay.  Descent is via Rappel.   Rappel to the 3rd belay.   From there Rappel to a tree with a rappel slings, and from there to the bottom.   These rappels need double ropes. 
+route_name: Super Slide  
+route_quality: 0.75 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 5 pitches, 500' 
+route_url: /v/super-slide/105915124 
+

@@ -1,0 +1,11 @@
+id: 105723289 
+parent_name: Baskerville Rock 
+parent_url: /v/baskerville-rock/105721166 
+route_description: As you approach the area, you will see several blocks near each other.  Baserkerville Rock is the leftmost of these formations.  This route follows the crack furthest to the right on Baskerville Rock.  Face climb for 15 feet until you reach a stance where one can place bomber pro.  This is where the crux begins.  The beauty of this route is that you'll get great stances to place gear, but the climbing never really eases off either.  Enjoy! 
+route_name: Right Baskerville Crack  
+route_quality: 0.7 
+route_rating:  YDS: 5.10a 
+route_rating_original: YDS: 5.10a 
+route_type: Trad, 1 pitch, 40' 
+route_url: /v/right-baskerville-crack/105723289 
+

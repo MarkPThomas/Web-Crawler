@@ -1,0 +1,11 @@
+id: 105748963 
+parent_name: J-Crack Slab Area 
+parent_url: /v/j-crack-slab-area/106429253 
+route_description: One of my favorite 5.8s in the world. It begins roughly where the approach trail ends (take the right-hand branch just before the rock). The climb starts at a clean flake just right of a broken area.   P1. The flake can be climbed directly from the bottom (5.9 R), but the standard start is to climb up the slab right of the flake and step into it where it offers a perfect hand crack (5.7 w/ no pro for the first 20 feet). One can avoid all these scary starts (but also some great climbing) by scrambling up around to the left to get on top of the flake. In either case, from the top right side of the flake, follow thin cracks (crux) up to a belay on a sloping ledge.  P2. Follow the ledge up left to the edge of the face, then cut back right into a crack and follow that to a belay on a perfect small ledge (5.4). A much nicer way to do this pitch is to climb the left of two finger cracks (P2 of Loose Ends) off the initial ledge and then step left above; however, this is much harder than anything else on the route.  P3. Follow a perfect hand and finger crack above the belay for 100 feet (5.8), then traverse right under a small roof to a belay on another fine ledge.  There are a couple other ways to do the top part of this pitch. One can traverse along a horizontal break about 20 feet below the roof, then up and into the big Loose Ends corner where a 5.9- move leads to the belay ledge. Or, continue around the left side of the roof leading to some slightly runout 5.8 climbing and eventually easier ground where you can set a belay. I'm not as fond of this last option.   P4 & 5. Above the ledge, wander easily to the Cave area and pick an exit. Standard finishes are the Hurley Traverse or the Cave itself. 
+route_name: Pear Buttress  
+route_quality: 0.9 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8+ 
+route_type: Trad, 5 pitches,  Grade II 
+route_url: /v/pear-buttress/105748963 
+

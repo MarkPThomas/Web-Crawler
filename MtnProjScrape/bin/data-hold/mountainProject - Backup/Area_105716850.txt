@@ -1,0 +1,10 @@
+area_name: Castleton Tower Rock Climbing  
+area_url: /v/castleton-tower/105716850 
+description: Castleton Tower is probably the most famous desert tower in the world, and was the first major tower climbed in the Moab area.  The Kor-Ingalls route is one of the 50 Classic Climbs of North America, and Castleton also has one other 5.9 route of the same caliber.  Harder classic routes both aid and free exist on its fantastic Wingate sandstone with its unique calcite crust.  Castleton is most climber's first desert tower, and it is common for lines to form on the Kor-Ingalls during the spring and fall.  All the free routes are trad, and you should be solid at the grade - this is not a good place to break into 5.9. 
+getting_there: Drive as far up the dirt road as you dare, and start hiking.  The road winds around the base of Castleton.  Look for a cairn on the right made from white rocks and do not be tempted to leave the road too early.  There is an excellent trail to the base of a small cliff band, at which point it turns towards the Rectory and the Priest.  Scramble easily through the cliffs(if you are scared there is a better way) and hike up steep scree to the base.  The approach takes an hour if you are in shape, but it is strenuous.  
+id: 105716850 
+latitude: 38.651 
+longitude:  -109.3678  
+parent_name: Castle Valley 
+parent_url: /v/castle-valley/105716784 
+

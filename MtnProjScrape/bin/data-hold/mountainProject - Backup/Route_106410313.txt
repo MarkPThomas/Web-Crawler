@@ -1,0 +1,11 @@
+id: 106410313 
+parent_name: El Capitan Base Routes 
+parent_url: /v/el-capitan-base-routes/105841115 
+route_description: First or one of the first Yosemite free 5.11. Later was downgraded to 10d, since block of rock fell off leaving place for hand jam - making crux sequence shorter.  I found this climb good and clean and underrated in quality in Reid Book. At least one star out of 3 would be fair.  Pithch 1: Still hard 10d off the ground: first 15 feet with potential decking if your  gear placement is bad. fingertips, figers and good foot work  bring you to good handjam.  After that climb relatively easy wide cracks which become higher up 5.8 chimney. 150feet. 2 bolts Anker ( shared with Sacherer) Pitch 2: ( link p2&3 in the book) Start easy climbing inside of the chimney (5.5) and after 70-80 feet you reach the ledge where you have the choice: a) climb wide crack in the corner or b) climb crack in the left wall with thin start. I climbed left one which can be rated 5.8- 5.9. 150 feet. Natural ancor. [ Added Feb 2015:-  climbed right variation of this pitch all the way from ledge to belay of pitch3. Way more classic , but little harder- probably goes at 5.10] Pitch 3:  Start with  easy climbing to  5.7 chimney. Clinb to the top of the Pinnacle to new 2  rappel bolts.  We rappel down  and left  to top (third pitch) of La Esuella with one 70m rope. And from there tree more rappels to the ground.  From  the top of the Slack the other option to rappel down "Slack Left"  with 2 ropes. Also you can use this chance and check ( you can TR) last pitch of Slack Left - 10b Chimney/Flare/OW - older brother of Ahab 
+route_name: The Slack ( center)  
+route_quality: 0.7 
+route_rating:  YDS: 5.10d 
+route_rating_original: YDS: 5.10d 
+route_type: Trad, 4 pitches, 400' 
+route_url: /v/the-slack--center/106410313 
+

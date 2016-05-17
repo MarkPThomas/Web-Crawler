@@ -1,0 +1,11 @@
+id: 106611847 
+parent_name: Royal Arches 
+parent_url: /v/royal-arches/105833402 
+route_description: This route is mostly a seam which opens up to take pro every body length.  Its a heady lead but ends up protecting well.  Just like the other routs in the area, it usually needs to be cleaned since it doesn't see the traffic that Y-crack does. 
+route_name: Royal Flush  
+route_quality: 0.375 
+route_rating:  YDS: 5.10b/c 
+route_rating_original: YDS: 5.10b/c 
+route_type: Trad, 1 pitch, 90' 
+route_url: /v/royal-flush/106611847 
+

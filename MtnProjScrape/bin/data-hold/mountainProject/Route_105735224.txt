@@ -1,0 +1,11 @@
+id: 105735224 
+parent_name: Buck's Bar Dome 
+parent_url: /v/bucks-bar-dome/105734267 
+route_description: Climb up the less than vertical crack in the right corner of the main area.  Sustained, this route gives excellent liebacks and jams the whole way up the crack.  Trusting your feet on the excellent granite of Buck's Bar Dome is a must, but you can make it to the top!  This route shares a top anchor with Adhesion (5.10c withvariations more difficult) just to the right on the face and rounded arete. 
+route_name: Test Piece  
+route_quality: 0.725 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, TR, 1 pitch, 30' 
+route_url: /v/test-piece/105735224 
+

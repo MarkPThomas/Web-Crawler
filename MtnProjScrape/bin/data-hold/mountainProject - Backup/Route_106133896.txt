@@ -1,0 +1,11 @@
+id: 106133896 
+parent_name: a. The Uberfall 
+parent_url: /v/a-the-uberfall/107037539 
+route_description: Climb the crack and corner to the first overhang, step left, make a hard high step, then head up to another overhang (crux) to a ledge with a bolted belay.  Rappel, or walk off either left to the cliff's end or right via the Uberfall Descent. 
+route_name: Double Chin  
+route_quality: 0.6 
+route_rating:  YDS: 5.5 
+route_rating_original: YDS: 5.5 
+route_type: Trad, 1 pitch, 80' 
+route_url: /v/double-chin/106133896 
+

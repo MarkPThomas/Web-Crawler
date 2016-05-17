@@ -1,0 +1,11 @@
+id: 105870188 
+parent_name: El Capitan Base Routes 
+parent_url: /v/el-capitan-base-routes/105841115 
+route_description: While it starts with a powerful, thin and technical finger crack, most of your time will be spent with the widening fist crack above.  For those with small hands, the upper section will be off-width, but for those with larger hands, enjoy!  The crux is right off the ground and pro is thin early on.  Watch you ankles falling right off the ground:  the base is littered with rocks. 
+route_name: Moby Dick  
+route_quality: 0.9 
+route_rating:  YDS: 5.10a 
+route_rating_original: YDS: 5.10a 
+route_type: Trad, 1 pitch, 150' 
+route_url: /v/moby-dick/105870188 
+

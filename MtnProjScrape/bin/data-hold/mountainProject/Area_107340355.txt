@@ -1,0 +1,10 @@
+area_name: 4. Moby Grape Area Rock Climbing  
+area_url: /v/4-moby-grape-area/107340355 
+description: Routes in the general area of Moby Grape, roughly defined as routes to the right of the Big Wall and left of Weissner dike. Long, clean, though often loose routes about 800' high. Vertigo, Moby Grape and more. 
+getting_there: Walk the paved trail to the big boulder on the right with sign across the trial. Follow trail around boulder through trees and up the talus to the routes. 
+id: 107340355 
+latitude: 44.15888 
+longitude:  -71.68362  
+parent_name: *Cannon Cliff  
+parent_url: /v/cannon-cliff-/107340274 
+

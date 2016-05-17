@@ -1,0 +1,10 @@
+area_name: Arizona Rock Climbing  
+area_url: /v/arizona/105708962 
+description:  
+getting_there:  
+id: 105708962 
+latitude: 34.3797 
+longitude:  -112.061  
+parent_name:  
+parent_url:  
+

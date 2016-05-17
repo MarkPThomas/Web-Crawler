@@ -1,0 +1,10 @@
+area_name: Yosemite Falls Area Rock Climbing  
+area_url: /v/yosemite-falls-area/105865903 
+description: Yosemite Falls is the seventh highest water fall in the world. The Upper Falls drops 1,430 feet. An intermediate chain of cascades drops another 675 feet. The Lower Falls drops another 320 feet. On the Upper Falls Wall is the famous Lost Arrow Spire. Several grade VI routes also exist here. The Lower Falls Amphitheatre offers quality climbing. Sunnyside Bench and the Five Open Books are also quite popular. 
+getting_there: Take the Lower Yosemite Falls Trail to access The lower areas. 
+id: 105865903 
+latitude: 37.7521 
+longitude:  -119.5969  
+parent_name: Yosemite Valley 
+parent_url: /v/yosemite-valley/105833388 
+

@@ -1,0 +1,11 @@
+id: 106503145 
+parent_name: Glacier Point Apron 
+parent_url: /v/glacier-point-apron/105862612 
+route_description: A bold two bolt lead or most people toprope from the chain anchors rappelling from Harry Daley. A challenging face climb on ru 10b territory, follow some larger ramps up to the first bolt, then smear and look carefully for the next few holds to the traversing crack, finish at the bolts. Could be TR with just one 60m rope but Harry Daley rap takes two ropes. 
+route_name: Variation on a Theme  
+route_quality: 0.5 
+route_rating:  YDS: 5.10b R 
+route_rating_original: YDS: 5.10b R 
+route_type: Trad, TR, 1 pitch, 60' 
+route_url: /v/variation-on-a-theme/106503145 
+

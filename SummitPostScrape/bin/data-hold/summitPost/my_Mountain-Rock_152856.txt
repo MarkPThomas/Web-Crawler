@@ -65,14 +65,14 @@ There are many walk-in campgrounds in Big Cottonwood Canyon. Alternatively, free
 <td><a href="/mr-moose-knuckles/221021/c-152856"><img alt="Mr. Moose Knuckles" src="/images/square/221021.JPG"></a></td>
 <td><a href="/honeycomb-cliffs-summit-from-the-east/466802/c-152856"><img alt="Honeycomb Cliffs Summit from the east." src="/images/square/466802.jpg"></a></td>
 <td><a href="/honeycomb-cliffs-from-flagstaff-mountain/506310/c-152856"><img alt="Honeycomb Cliffs from Flagstaff Mountain" src="/images/square/506310.jpg"></a></td>
-<td><a href="/honeycomb-and-sugarloaf/969983/c-152856"><img alt="Honeycomb and Sugarloaf" src="/images/square/969983.JPG"></a></td>
+<td><a href="/honeycomb-cliffs/300194/c-152856"><img alt="Honeycomb Cliffs" src="/images/square/300194.JPG"></a></td>
 </tr>
 <tr>
-<td><a href="/honeycomb-cliffs/300194/c-152856"><img alt="Honeycomb Cliffs" src="/images/square/300194.JPG"></a></td>
+<td><a href="/honeycomb-and-sugarloaf/969983/c-152856"><img alt="Honeycomb and Sugarloaf" src="/images/square/969983.JPG"></a></td>
 <td><a href="/remnants-of-the-prince-of/71794/c-152856"><img alt="Remnants of the Prince of..." src="/images/square/71794.jpg"></a></td>
-<td><a href="/the-honeycomb-cliffs/491596/c-152856"><img alt="The Honeycomb Cliffs" src="/images/square/491596.jpg"></a></td>
 <td><a href="/twisted-tree/252353/c-152856"><img alt="Twisted tree" src="/images/square/252353.JPG"></a></td>
 <td><a href="/twin-lakes-and-mt-evergreen/764807/c-152856"><img alt="Twin Lakes and Mt. Evergreen." src="/images/square/764807.JPG"></a></td>
+<td><a href="/the-honeycomb-cliffs/491596/c-152856"><img alt="The Honeycomb Cliffs" src="/images/square/491596.jpg"></a></td>
 <td><a href="/honeycomb-cliffs/969982/c-152856"><img alt="Honeycomb Cliffs" src="/images/square/969982.JPG"></a></td>
 <td><a href="/july-21-2004-the-honeycomb/61833/c-152856"><img alt="July 21, 2004 - The Honeycomb..." src="/images/square/61833.jpg"></a></td>
 </tr>
@@ -83,7 +83,7 @@ date:
 difficulty:  
 elevation: 10480 
 grade:  
-hits: 10213  
+hits: 10216  
 id: 152856 
 latitude: 40.5998 
 location: Utah, United States, North America 
@@ -91,7 +91,7 @@ longitude: -111.6129
 my_route_quality:  
 name: Honeycomb Cliffs 
 number_of_pitches:  
-page_url: http://www.summitpost.org/honeycomb-cliffs/152856 
+page_url: /honeycomb-cliffs/152856 
 parent_code: 171209 
 parent_name: Wasatch Range (Central) 
 parent_url: /wasatch-range-central/171209 

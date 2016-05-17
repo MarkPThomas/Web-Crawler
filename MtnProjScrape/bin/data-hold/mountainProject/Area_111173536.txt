@@ -1,0 +1,10 @@
+area_name: All Winter Ice Routes - Chimney Pond & other Sub-Areas  Rock Climbing  
+area_url: /v/all-winter-ice-routes---chimney-pond--other-sub-areas-/111173536 
+description: This "Sub-Area" describes winter ice routes, most of which are in Chimney Pond Basin. 
+getting_there: In winter one must ski / snowshoe the entire Roaring Brook road from the Togue Pond entrance. 
+id: 111173536 
+latitude: 45.91351 
+longitude:  -68.91171  
+parent_name: Katahdin 
+parent_url: /v/katahdin/105949051 
+

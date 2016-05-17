@@ -1,0 +1,11 @@
+id: 106112719 
+parent_name:  4 - Arch Rock 
+parent_url: /v/-4---arch-rock/105878827 
+route_description: Taken from supertopo. Feels like 5.10 and is good Steck Salathe training. Awkward moves around blocks occasionally interupt classic chimney climing. You may want to bring extra wide gear for the chimney runouts. 
+route_name: Entrance Exam  
+route_quality: 0.825 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 3 pitches, 200' 
+route_url: /v/entrance-exam/106112719 
+

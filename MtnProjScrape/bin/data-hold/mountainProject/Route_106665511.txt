@@ -1,0 +1,11 @@
+id: 106665511 
+parent_name: Pat and Jack Pinnacle 
+parent_url: /v/pat-and-jack-pinnacle/105870715 
+route_description: This is yet another good and challenging 5.10 that sees zero traffic.  Look above Sherrie's Crack for a right facing corner to a roof with a knobby wall above.  Entering the corner is tough and is followed by a crux finger tip move to get up through the bottom of the corner.  The rooflet is an excellent hand crack and the knobby wall above is challenging to protect but yields pro if you climb it just slightly on the left side. Not an R-rated climb but somewhat heady for the leader.   This climb linked with Sherrie's Crack will leave you feeling like a champ for a day. 
+route_name: Chicken Fever  
+route_quality: 0.75 
+route_rating:  YDS: 5.10b 
+route_rating_original: YDS: 5.10b 
+route_type: Trad, 1 pitch, 90' 
+route_url: /v/chicken-fever/106665511 
+

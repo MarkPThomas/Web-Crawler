@@ -1,0 +1,11 @@
+id: 105722152 
+parent_name: Star Wars Rock 
+parent_url: /v/star-wars-rock/105720768 
+route_description: This is the leftmost route on Star Wars rock.  Start in a continuous crack up to the left side of a terrace left of Cedric's Deep Sea Fish Market and Light Sabre.  Move right on the terrace, then head up the hand crack in the dihedral to the summit.  If you're mystified by the crux beta, just remember the route name.  It might not be creative, but it is descriptive. 
+route_name: Thumbs Down Left  
+route_quality: 0.45 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 1 pitch, 100' 
+route_url: /v/thumbs-down-left/105722152 
+

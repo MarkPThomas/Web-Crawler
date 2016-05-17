@@ -1,0 +1,11 @@
+id: 105750568 
+parent_name: Wind Tower - SW Face 
+parent_url: /v/wind-tower---sw-face/105744711 
+route_description: Getting to the climb:  Head up the trail toward Wind Tower; The Bomb starts at the second groove to the right of the "Huge Block" (the base of Boulder Direct).  P1: Belay from the ledge at the base of Wind Tower - setting up a ground anchor can be tricky here, and it's crowded!  Head straight up the crack to the small roof; this roof is the hardest move on pitch 1, but it protects well.  Once over the roof, climb the crack (with lots of face holds).  The rest of this pitch feels more like 5.2.    At the belay ledge, the route makes a little "jog" up and left to the base of a chimney.  Usually I  belay from the top of P1, then belay everyone over to the base of the chimney, and start the second pitch there - it reduces rope drag and the rope rubbing on rocks and such.  Note, you can toprope P1 from this belay ledge...no bolts, bring your own gear and a 60m rope.  P2: Shoot up the chimney - it narrows at the top so stay to the outside of it.  Optionally you can climb out of the chimney and use the face next to it.  For fans of stemming and counterpressure, this pitch is a real treat.  Out of the chimney, it's a little run out until you get to the dead juniper tree - but the climbing is easy.  Climb  up to an alcove and there are bolts above and to the right of the tree.  Descent:  can be done with two ropes from the bolts. 2x60m ropes are required for descent in a single two-rope rap. 2x50m and 2x55m will not reach the ledge at the base of Recon. I hung a single 50m down, and it made it to the baby tree 1/3 of the way up Recon P1. 
+route_name: The Bomb  
+route_quality: 0.5 
+route_rating:  YDS: 5.4 
+route_rating_original: YDS: 5.4 
+route_type: Trad, TR, 2 pitches 
+route_url: /v/the-bomb/105750568 
+

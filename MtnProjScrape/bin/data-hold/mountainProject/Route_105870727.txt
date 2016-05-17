@@ -1,0 +1,11 @@
+id: 105870727 
+parent_name: 21 - Reed's Pinnacle Area 
+parent_url: /v/21---reeds-pinnacle-area/105863765 
+route_description: My favorite line on this wall.  Lunatic is a varied climb that has many different cruxes, so depending on your strengths you will likely find a different crux than your partner.  Fantastic rock that demands finger locks, liebacking, thin hands and some face moves.  Well protected throughout.  
+route_name: Lunatic Fringe  
+route_quality: 0.95 
+route_rating:  YDS: 5.10c 
+route_rating_original: YDS: 5.10c 
+route_type: Trad, 1 pitch, 140' 
+route_url: /v/lunatic-fringe/105870727 
+

@@ -1,0 +1,11 @@
+id: 105956610 
+parent_name: The 100-yard Wall 
+parent_url: /v/the-100-yard-wall/105956149 
+route_description: This climb starts on where Nutcracker ends.  It ascents a formation that looks a bit like a drumstick.  Stem, hands, chimney to the top and rap to the base from slings on a chockstone. Then walk off left. 
+route_name: The Doil  
+route_quality: 0.8 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 1 pitch, 65' 
+route_url: /v/the-doil/105956610 
+

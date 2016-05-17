@@ -1,0 +1,10 @@
+area_name: Storm Mountain Picnic Area Rock Climbing  
+area_url: /v/storm-mountain-picnic-area/105798348 
+description: Storm Mountain Picnic Area has some of the highest concentration of good climbing in Big Cottonwood Canyon.  Plus, the added bonus of a picnic area, fishing, and toilets.   
+getting_there: Park either in or out of the parking lot approximately 2.85 miles up canyon.   
+id: 105798348 
+latitude: 40.62508 
+longitude:  -111.74492  
+parent_name: Big Cottonwood Canyon 
+parent_url: /v/big-cottonwood-canyon/105739280 
+

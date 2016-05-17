@@ -1,0 +1,11 @@
+id: 105938230 
+parent_name: Swan Slab 
+parent_url: /v/swan-slab/105841123 
+route_description: This was originally a practice aid route and was initially freed in 1967 by Lloyd Price et al. There are conflicting accounts, but some claim this was the first 5.11 pitch freed in the Valley. Although current guides give it .11b, it was rated .11a in the 1982 guide, and rated .10d by Bridwell in his seminal article "Brave New World" published in Mountain #31 in 1973. Either way, it was an early example of freeing old aid lines and was at the outer edge of difficulty when it was freed. I've seen this route shut down more than one "5.12" sport climbers.  The business starts right away with a fingery crux on shallow boxy pins scars to a long reach to gain a small flake, then a jug out right. This initial section is bolt protected. Once through the crux, the easy pin-scarred, right trending crack continues to a bolt anchor/rap station at half height. Above this, the second pitch is fingers in pin scars with the occasional hand jam. A short .10a crux reaching between pin scars is encountered near the top. The climb can be done in a single pitch with a 60m (barely).  If you are not up to the boulder problem start, it's worth yarding through on bolts to climb the crack. Otherwise, careful footwork and finger strength will see you through. Having a long reach doesn't hurt either. 
+route_name: Aid Route  
+route_quality: 0.625 
+route_rating:  YDS: 5.11b 
+route_rating_original: YDS: 5.11b 
+route_type: Trad, 2 pitches 
+route_url: /v/aid-route/105938230 
+

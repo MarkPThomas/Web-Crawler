@@ -1,0 +1,11 @@
+id: 105990395 
+parent_name: Pat and Jack Pinnacle 
+parent_url: /v/pat-and-jack-pinnacle/105870715 
+route_description: A left facing corner with a huge crack in it to a roof, to another left facing corner. The business is the crack and the roof. Lieback or whatever to the roof, then make the nice moves out to your left. The corner above goes down pretty mellow. 
+route_name: Babble On  
+route_quality: 0.65 
+route_rating:  YDS: 5.10a 
+route_rating_original: YDS: 5.10a 
+route_type: Trad, 1 pitch, 80' 
+route_url: /v/babble-on/105990395 
+

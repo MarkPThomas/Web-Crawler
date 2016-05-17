@@ -1,0 +1,11 @@
+id: 105805914 
+parent_name: Mt. Goode 
+parent_url: /v/mt-goode/105805911 
+route_description: 8-9 pitches in most guidebooks, this route can be done fairly easily in 7 pitches with a 60m rope. Here's how the pitches break down to do it in 7 pitches.  Approach the base of the climb, and scramble up and left on the 4th-class slab to a good ledge below an obvious corner system with a thin-hands crack on the right wall.  Rope up there.  P1: 190' (5.8) Climb the open book with the thin-hands crack to a ledge, then up another open book with a fist crack in the corner.  P2: 185' (5.9) Traverse left across the face, looking for an old piton.  Sparse gear protects the traverse, with the crux move of the pitch dropping down across the chimney.  Cross the chimney and climb the face to the left (small pro).  P3: 70' Climb up loose, easy 5th class to the base of the steep corner.  P4: 185' (5.9) Head straight up the corner stemming and jamming in the finger cracks, then climb the hand crack/chimney above.  P5: 190' Easy 5th class up the ridge. Communication is difficult.  P6: 80' (5.7) Climb up and right to a 5.7 hand crack to a tight tunnel through to the South.  Belay on ledge.  P7: 110' (5.8) Climb the short OW straight up the ridge and follow the ridge to the 5.8 mantel onto the summit block.  Easy to bail out left from the start of this pitch.  Many bail slings exist on the route ranging in quality.  Bring your own bail slings if the weather looks suspicious.  DO NOT bail into the gully to the south as it is a bowling alley of rockfall. Rap directly down the route. 
+route_name: North Buttress  
+route_quality: 0.825 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, Alpine, 9 pitches, 800',  Grade III 
+route_url: /v/north-buttress/105805914 
+

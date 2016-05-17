@@ -1,0 +1,10 @@
+area_name: Needle's Eye Rock Climbing  
+area_url: /v/needles-eye/105714426 
+description: This rock has a highway named after it, and it is paved right to the base.  Every route on this formation is extremely bold with massive ground fall potential.  Do not plan on climbing this during the day in tourist season.  Hordes of tourists will swarm the base.  Although, maybe a ground fall might land you on top of a tourist bus.  Climb this in the spring or fall and early or late in the day.    Many famous photos show people stemming up the middle of the eye.  However, the most popular route now seems to be a 5.10 route that starts directly from the parking lot.  To descend, rappel from fixed anchors using two ropes to the ground. 
+getting_there: This rock is the main attraction of the Needles Eye area.  The approach is stepping out of the car and grabbing the first holds.  The crux of the approach may very well be fielding all sorts of tourists' questions. 
+id: 105714426 
+latitude:  
+longitude:  
+parent_name: Needles Eye 
+parent_url: /v/needles-eye/105714255 
+

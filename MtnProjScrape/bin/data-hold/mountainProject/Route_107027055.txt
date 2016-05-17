@@ -1,0 +1,11 @@
+id: 107027055 
+parent_name: Camp 4 Wall 
+parent_url: /v/camp-4-wall/105945928 
+route_description: This is my favorite of the "Doggie" climbs. Chimney up 40 ft to a small ledge and then cast off on the long right-leaning offwidth crack. The climbing is physical and awkward but still manages to be enjoyable thanks to the excellent rock quality and great exposure. There is an occasional knob below the crack for you to stand on and catch your breath. It shares the same tree anchor as Doggie Deviations, which can easily be toproped after leading this one.  The offwidth requires several larger cams if you want to protect it. These are a pain to haul up the short squeeze chimney at the start. The easiest way to do this is scramble to the top of the chimney from the left side (3rd class) and leave the gear on the ledge. Then you're free to solo up the 5.6 chimney unencumbered, pick up your rack at the top, and continue on with the rest of the climb. 
+route_name: Doggie Diversions  
+route_quality: 0.575 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 1 pitch, 100' 
+route_url: /v/doggie-diversions/107027055 
+

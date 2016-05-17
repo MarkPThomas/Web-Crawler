@@ -1,0 +1,11 @@
+id: 105717493 
+parent_name: Donnelly Canyon 
+parent_url: /v/donnelly-canyon/105716880 
+route_description: This is the climb to the left of Drain Pipe in the same alcove.  It is a bit longer, but we were able to do it with a 60 m rope with no problem.  We finished this climb on Thanksgiving Day just as the weather turned to hell.  Starting this climb was a grunt for me and I felt insecure.  However, my taller second was able to move through this section more securely.  As mentioned above, the start is wide and awkward. Once this section is surmounted, the climbing is more straightforward. This crack undulated a bit more than most IC crack and allowed for more size variety.  We felt this climb was for sure a solid 10 and maybe 10+.  Though most climbs that eat 1.5 Friends/.75 Camalots at the Creek tend to be harder, the presence of pods and some sections being slightly less than vertical kept it from being an 11.  Save a 3 Friend/2 Camalot or 2 for the top, which is probably the only place they'll fit anyway. 
+route_name: The Crack Just to Left of Drainpipe  
+route_quality: 0.65 
+route_rating:  YDS: 5.10+ 
+route_rating_original: YDS: 5.10 
+route_type: Trad 
+route_url: /v/the-crack-just-to-left-of-drainpipe/105717493 
+

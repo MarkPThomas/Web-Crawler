@@ -1,0 +1,11 @@
+id: 105721792 
+parent_name: Sports Challenge Rock - East Face 
+parent_url: /v/sports-challenge-rock---east-face/106325836 
+route_description:  What a classic line!   Approach Sports Challenge Rock on the southeast side and scamble down into the shaded "slot" on that side. Near the left end of the east face, and just left of an large pine tree, you'll see a prominent curving crack that starts about 20 feet off the ground and arcs upward to the top of the rock. A few scoops and seams lead up though steep terrain to this crack.    Boulder up scoops and seams up and left through a slight overhang, placing a few good nuts along the way. These will be #4-#8 BD Stoppers or eq size (if memory serves me); small TCU's may also work. The crux is body english and slopers. Reach a great jam some 25' up and start placing cams. The crack starts as a left-leaning feature, but arcs its way through the rock, eventually becoming a right-leaner. This great climb offers good face climbing as well as good jamming, from thin-hands to fists.    Tape up and enjoy a classic! 
+route_name: Clean and Jerk  
+route_quality: 0.925 
+route_rating:  YDS: 5.10c 
+route_rating_original: YDS: 5.10c 
+route_type: Trad, 1 pitch, 80' 
+route_url: /v/clean-and-jerk/105721792 
+

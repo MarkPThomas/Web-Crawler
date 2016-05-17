@@ -1,0 +1,11 @@
+id: 105892247 
+parent_name: Church Bowl 
+parent_url: /v/church-bowl/105860381 
+route_description: This is not an actual climb, but it is a fun little adventure. Start at "Church Bowl Chimney". Make the entry moves, then continue through the slot and down-climb the very tight chimney to the start of "Church Bowl Terrace". 
+route_name: Parkay Squeeze  
+route_quality: 0.625 
+route_rating:  YDS: 5.5   Hueco: V-easy  Font: 3 
+route_rating_original: YDS: 5.5   Hueco: V-easy  Font: 3 
+route_type: Trad, Boulder 
+route_url: /v/parkay-squeeze/105892247 
+

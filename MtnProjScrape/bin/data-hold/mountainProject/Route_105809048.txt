@@ -1,0 +1,11 @@
+id: 105809048 
+parent_name: Clyde Minaret 
+parent_url: /v/clyde-minaret/105809043 
+route_description: Ironically, one of the Sierras greatest Alpine rock climbs isn't even on granite! But rather a steep, smooth rock with angular holds from more ancient times. Watch out for more loose rock than usual.  Start the climb up the lefthand gully, uphill from the base of the face. There may be a cairn.  P1-2 5.6. Make a long traverse right and slightly upwards then around onto the face proper.  P3-7 5.7. There's a shallow dihedral up high on the right side of the face; aim for it, but don't go too far right. Pitch 7 finishes with a tricky traverse to a hanging belay at the bottom of the shallow dihedral.  P8 5.8. Climb the shallow dihedral to an alcove.  P9 5.8. Left out of the alcove then wander across and up the white scar to a ledge just below the large summit dihedral.  P10 5.8. A short strenuous corner leads to a ledge at the bottom of the main dihedral.  P11-12 5.8. Two pitches up the summit dihedral lead to a notch.  P13 5.7. Traverse left on a large ledge then up the face to the summit ridge.  Scramble the ridge to the summit. 
+route_name: Southeast Face  
+route_quality: 0.925 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, Alpine, 13 pitches, 1500',  Grade IV 
+route_url: /v/southeast-face/105809048 
+

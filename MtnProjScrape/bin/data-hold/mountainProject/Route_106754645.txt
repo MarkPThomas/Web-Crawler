@@ -1,0 +1,11 @@
+id: 106754645 
+parent_name: Bear Creek Spire 
+parent_url: /v/bear-creek-spire/105806064 
+route_description: History It is possible that an indirect ascent was first made in the 1920s by Norman Clyde, Hervey Voge and David Brower, but according to Secor, the first known direct ascent was on Aug 23, 1977 by Sheari Taylor and John Vawter.  Overview and Editorial Commentary The route is asthetic, long, and climbed infrequently.  On my first attempt I found the rock to be more grainy and crumbly than the rock that is found on more popular BCS routes like the N and NE Aretes.  Our nerves were rattled after having soloed half the ridge, so we rapped off early (trip report here).  Four years later I returned to complete the route alone.  Route Details Gain the ridge at one of the notches between Peppermint Peak and BCS.  There are several from which to choose of varying rock quality and difficulty.  Depending on your downclimbing ability and preferences you may rap some of the notches.  None of the downclimbs felt harder than ~5.5.  There are many ways to go, but overall the routefinding was not difficult.    Climb the narrow arete to the top of a prominent square tower (5.8). Pass a number of gendarmes on mostly class 4 rock.  Above another small notch climb a steep headwall (5.8).  Secor grades this section as A0.  Having stared at this section I wouldn't completely disagree. It is also possible to climb the face on the right side of the tower. The rest of the ridge is picket fence type climbing.  Expect a few class 5 moves but it is mostly 4th. Follow it to the summit boulder. 
+route_name: East Arete  
+route_quality: 0.625 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, Alpine, 22 pitches,  Grade IV 
+route_url: /v/east-arete/106754645 
+

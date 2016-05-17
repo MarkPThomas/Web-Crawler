@@ -1,0 +1,10 @@
+area_name: Medlicott Dome, Center Rock Climbing  
+area_url: /v/medlicott-dome-center/108232840 
+description: Center part of the wall, roughly from The Middling (right of Piss Easy) to Chartres (in other words, right of Shagadelic to the B/Y ledge area). 
+getting_there: Either the main trail (Cathedral Lakes fishing trail) or the Shagadelic area trail work fine. 
+id: 108232840 
+latitude: 37.85791 
+longitude:  -119.42886  
+parent_name: Medlicott Dome 
+parent_url: /v/medlicott-dome/105902993 
+

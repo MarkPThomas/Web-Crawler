@@ -1,0 +1,11 @@
+id: 105757021 
+parent_name: Nautilus 
+parent_url: /v/nautilus/105745214 
+route_description: This route is located about 2 minutes from the parking lot and is next to Easy Jam.  Follow a trail around to the left of the Nautilus until a dihedral is found (Easy Jam) with a beautiful finger crack curving up and to the right.  Climb the finger crack and belay at a shelf 30-40 feet up.  A walkoff can be found by going to the right, squeezing through a small hole, and descending a easy chimney. 
+route_name: Cornelius  
+route_quality: 0.625 
+route_rating:  YDS: 5.5 
+route_rating_original: YDS: 5.5 
+route_type: Trad, 1 pitch, 40' 
+route_url: /v/cornelius/105757021 
+

@@ -1,0 +1,11 @@
+id: 105740603 
+parent_name: Crescent Crack Buttress 
+parent_url: /v/crescent-crack-buttress/105739365 
+route_description: Mexican Crack is located toward the west side of Crescent Crack Buttress.  It is the obvious left slanting crack seen from the road.  Usually crowded.  Start in dihedral up to jugs and pull onto face, delicately run up the seamy cracks to the leftward turn, smear feet below crack with hands in the crack to the chains.  Good foot work saves the arms for the top of the route. 
+route_name: Mexican Crack  
+route_quality: 0.925 
+route_rating:  YDS: 5.10a 
+route_rating_original: YDS: 5.10a 
+route_type: Trad, 1 pitch, 90' 
+route_url: /v/mexican-crack/105740603 
+

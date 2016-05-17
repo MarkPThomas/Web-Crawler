@@ -1,0 +1,11 @@
+id: 105734876 
+parent_name: Indian Rock 
+parent_url: /v/indian-rock/105734111 
+route_description: Ascending the simplest way up the roof on the right side of the main climbing area to a mantle finish, or a simple traverse to the left once the large holds above the roof are grabbed.  There are many popular variations with increasing difficulty, many of which I hope will be added to the site.    Going over the roof is a little scary the first time, especially for a beginner outdoor boulderer.  The holds are there, but you must feel around on the many chalked surfaces of this section to find them.   To find this climb go to the main chimney and head right around the corner.  Located in front of the large wooden log benches, you will usually find someone or someones working on some variation in this section. Another good landmark is a large diagonal flake located 6 to 9 feet above the ground (and the traverse that goes at V4) which is just to the right of this route.  
+route_name: Overhung Roof  
+route_quality: 0.475 
+route_rating:  Hueco: V0 
+route_rating_original: Hueco: V0 
+route_type: Boulder, 20' 
+route_url: /v/overhung-roof/105734876 
+

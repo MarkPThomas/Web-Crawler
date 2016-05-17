@@ -1,0 +1,11 @@
+id: 105717502 
+parent_name: Wall Street 
+parent_url: /v/wall-street/105716961 
+route_description: I couldn't quite bring myself to give a 50 foot sport route on Wall Street 3 stars, but this is a really really good route all the same.  Devious face climbing reminiscent of Eldo (thin edges that slant the wrong way, etc.).  It starts 2 climbs left of the prominent and popular LF corner, "30 Seconds Over Potash" (in between is a thin .10a LF corner, Lucy in the Sky with Potash").  The first bolt is a bit high (climb in from the right), but once clipped it will be at your waist for the crux sequence.  Above is 5.8-5.9ish climbing with 3 adequately spaced bolts, to a good bolted anchor. 
+route_name: Nervous in Suburbia  
+route_quality: 0.725 
+route_rating:  YDS: 5.10a 
+route_rating_original: YDS: 5.10a 
+route_type: Sport, 1 pitch, 50' 
+route_url: /v/nervous-in-suburbia/105717502 
+

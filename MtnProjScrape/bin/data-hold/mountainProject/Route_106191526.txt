@@ -1,0 +1,11 @@
+id: 106191526 
+parent_name: North Arete 
+parent_url: /v/north-arete/106191496 
+route_description: The North Arête Route starts in a small chimney in the back of a corner and is not the prominent dihedral which will be to the left. For the first pitch, head up the small chimney (5.6) and then up a broken face (fourth class). The second pitch appears to have choice of two chimney systems. We headed up the left side and stayed closer to the edge of the arête. It looks like there is a second chimney to the right. In either case this ends below a huge section of white quartz, hence the name Crystal Crag.. A short half pitch of this put us on the ridge. A couple hundred feet of mixed third and fourth class climbing with the occasional fifth class move thrown in the summit.  
+route_name: North Arête  
+route_quality: 0.675 
+route_rating:  YDS: 5.6 
+route_rating_original: YDS: 5.6 
+route_type: Trad, Alpine, 4 pitches,  Grade II 
+route_url: /v/north-arte/106191526 
+

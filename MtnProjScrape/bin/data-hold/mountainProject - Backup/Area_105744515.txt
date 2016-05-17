@@ -1,0 +1,10 @@
+area_name: RMNP - Mixed/Ice Rock Climbing  
+area_url: /v/rmnp---mixedice/105744515 
+description:  
+getting_there: From Denver, head North on I-25 to US 36, through Boulder to Lyons. In Lyons, turn left and follow US 36 to the end of town. To get to the Glacier Gorge/Moriane Park Area, continue to follow US 36 to the right into the town of Estes Park. From Estes Park, follow US 36 into the Beaver Meadows Entrance Station. To get to the Longs Peak or Wild Basin area, from the W end of Lyons, turn left on Colorado 7, continue this N once you hit the Peak-to-Peak Highway. The trailheads are well marked off of Colo 7.   
+id: 105744515 
+latitude: 40.3753 
+longitude:  -105.616  
+parent_name: CO Ice & Mixed 
+parent_url: /v/co-ice--mixed/105807296 
+

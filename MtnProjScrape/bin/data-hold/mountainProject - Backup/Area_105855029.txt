@@ -1,0 +1,10 @@
+area_name: Mt Owen Rock Climbing  
+area_url: /v/mt-owen/105855029 
+description: The second highest peak in the range, with no route easier than 5th class to its summit, Owen would be a showcase peak in almost any other American range.  However, since it is obscured by the Grand and/or Teewinot from many of the most frequented vantage points in the park, it seems to get less attention than it deserves.  Owen is fully impressive when viewed from the north, particularly in Cascade Canyon. 
+getting_there: Owen's most common route of ascent is probably via a traverse from Teewinot.  Other accessible routes include the East Ridge and Koven via Surprise Lake and Teton Glacier. 
+id: 105855029 
+latitude: 43.74701 
+longitude:  -110.7973  
+parent_name: Grand Teton National Park 
+parent_url: /v/grand-teton-national-park/105802912 
+

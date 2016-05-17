@@ -1,0 +1,10 @@
+area_name: The Old Woman Rock Climbing  
+area_url: /v/the-old-woman/105720717 
+description: The Old Woman boasts several fine lines including the notorious Double Cross (IMO, the hardest 5.7 in the Park), Dogleg (an awkward 5.8), Toe Jam, the crowd-pleasing Geronimo, and if you're up to it - Bearded Cabbage (5.10c) and Spider Line (5.11d).   
+getting_there: From the bulletin board at Hidden Valley Campground, turn around and you are looking directly at the east face of The Old Woman.  The right-angling crack is Toe Jam / Spider. 
+id: 105720717 
+latitude: 34.01662 
+longitude:  -116.1638  
+parent_name: Hidden Valley Campground 
+parent_url: /v/hidden-valley-campground/105720573 
+

@@ -1,0 +1,10 @@
+area_name: Washington Column Rock Climbing  
+area_url: /v/washington-column/105833399 
+description: Washington Column stands at the eastern end of the Valley, on the north side. Supposedly, it was so named because from some point of view, the rock appears to look like George Washington.  The most popular routes on this formation are the South Face (5.7 A1), many climber's first-time big wall, and Astroman (5.11c), the world-famous free route on the east face. In recent years, other routes like Skull Queen (5.8 C2) have gained in popularity. 
+getting_there: The Column is found on the east end of the Valley, just east of the Ahwahnee Hotel. It used to be you could park at the Ahwahnee and hoof over to the Column on the bike path, but I've heard recently that you can't park there anymore (permit req'd?). Maybe someone can post up the current beta... 
+id: 105833399 
+latitude: 37.7479 
+longitude:  -119.5601  
+parent_name: Yosemite Valley 
+parent_url: /v/yosemite-valley/105833388 
+

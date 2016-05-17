@@ -1,0 +1,10 @@
+area_name: Bishop Area Rock Climbing  
+area_url: /v/bishop-area/106064825 
+description: Bishop is blessed with perfect climbing conditions.   Not only is the climate perfect for climbing with only 6" average annual rainfall, and over 300 days sunshine, the crags and boulders that surround the town are world class.  The Owens River Gorge (ORG) has hundreds of top quality sport routes, and the Happy and Buttermilks bouldering venues both have world class problems.  Each of the areas have distinct characteristics, the ORG has long pumpy routes, the Happy Boulders have fun boulders that suit strong fingers and flexibility, while the Buttermilks offer fine technical challenges that reward good technique and hard callouses in one of the most scenic settings in the country.  There are many more areas than these mentioned to go climb at - just as well the weather won't let you down - 'cause you'll be busy.  In the summer months when the valley is hot there are always the higher elevations of the Mammoth and June areas no further than 1 hour away, or you can cool off with a float down the Owens River, just east of Bishop.  Need a guidebook?  Tape?  Chalk?  Check out Wilson's Eastside Sports on Main St., downtown Bishop for all your outdoorsy needs.   -For sport and trad climbing:  "Bishop Area Rock Climbs", by Peter Croft and Marty Lewis -For bouldering:  "Bishop Bouldering", by Wills Young and Mick Ryan     	  	              	      	  	    Unknown climber getting to grips with the last hold before the throw on Stained Glass   	   	  	              	      	  	    Photo by Micah Bryan Humphrey   	 
+getting_there: Bishop is located on US 395, about 4 hours North of Los Angeles and about 4 hours South of Reno.  It is a drive no matter where you come from, but one well worth making.    	  	              	      	  	    Camping out at The Pit. Can't say I've been to many campgrounds with better scenery than this one.   	    	  	              	      	  	    Buttermilks afternoon   	 
+id: 106064825 
+latitude: 37.3612 
+longitude:  -118.3954  
+parent_name: Sierra Eastside 
+parent_url: /v/sierra-eastside/105798288 
+

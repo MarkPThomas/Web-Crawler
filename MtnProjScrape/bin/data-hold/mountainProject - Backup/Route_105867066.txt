@@ -1,0 +1,11 @@
+id: 105867066 
+parent_name: Swan Slab 
+parent_url: /v/swan-slab/105841123 
+route_description: Lieback up the smooth left facing corner on the far right side of Swan Slab, to a ledge with two bolts. Either rappel 80' or climb two more pitches to the top. Usually people only climb the first pitch. 
+route_name: Lena's Lieback  
+route_quality: 0.7 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad 
+route_url: /v/lenas-lieback/105867066 
+

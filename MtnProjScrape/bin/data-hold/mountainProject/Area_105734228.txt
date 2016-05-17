@@ -1,0 +1,10 @@
+area_name: Monolith Rock Climbing  
+area_url: /v/monolith/105734228 
+description: Monolith (historically known as Vasquez's Monolith) has some of the best climbing the Eastern District has to offer. Steep and solid (generally).  It also has some of the hardest sport climbs in the Monument.  
+getting_there: Follow the Reservoir trail from the Southern (left) end of Discovery Wall. The largest "boulder" in the jumble of rocks in the canyon floor is the Monolith. The trail is well marked Monument style of trail.   
+id: 105734228 
+latitude:  
+longitude:  
+parent_name: East Side 
+parent_url: /v/east-side/107307393 
+

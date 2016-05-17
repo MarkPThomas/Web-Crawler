@@ -1,0 +1,10 @@
+area_name: The Outback Rock Climbing  
+area_url: /v/the-outback/105720597 
+description: Many excellent formations are to be found in this extensive area that generally has short easy approaches. Many classics are found in this area that's not far from the campground but feels like it is. Cracks, faces, mixed routes and even some sport climbs are here.   Some of the many classics here include- Super Roof (5.9+) and Sidewinder (5.10b), Hot Rocks (5.11b), Grain Surgery (5.10a), Apartheid (5.12a), Jugline (5.11c), Rollerball (5.10b), and Blood of Christ (5.12a).   Additionally good bouldering is scattered throughout the area as are some local curiosities like The Hobbit Hole and The Iron Door Cave.    
+getting_there: The Outback is the large collection of formations that are found to the north of Hidden Valley Campground. They extend from near the Quail Springs Road (Steve Canyon) east towards Echo Cove (Peyote Cracks wall) and north to Dutzi Rock. Approaches vary but most are made via Hidden Valley Campground as this typically affords the shortest walk.  
+id: 105720597 
+latitude: 34.0208 
+longitude:  -116.1659  
+parent_name: Joshua Tree National Park 
+parent_url: /v/joshua-tree-national-park/105720495 
+

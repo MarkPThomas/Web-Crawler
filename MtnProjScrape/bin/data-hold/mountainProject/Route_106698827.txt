@@ -1,0 +1,11 @@
+id: 106698827 
+parent_name: Swan Slab 
+parent_url: /v/swan-slab/105841123 
+route_description: A great addition to the Oak Tree Flake or Grant's Crack.  Climb the stacked blocks off the ledge at the top of the for mentioned climbs.  Pass the bay tree, and proceed into the finger crack.  Continue up the right arching crack which turns into mostly tight hands (5.6).  There is a medium sized rock at the top with an old bolt in it.  Belay here. 
+route_name: Bay Tree Crack  
+route_quality: 0.65 
+route_rating:  YDS: 5.6 
+route_rating_original: YDS: 5.6 
+route_type: Trad, 1 pitch, 60' 
+route_url: /v/bay-tree-crack/106698827 
+

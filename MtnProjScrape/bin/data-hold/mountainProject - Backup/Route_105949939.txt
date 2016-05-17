@@ -1,0 +1,11 @@
+id: 105949939 
+parent_name: Camp 4 Wall 
+parent_url: /v/camp-4-wall/105945928 
+route_description: A good pitch which is in your face right off the ground.  Fingers, tight hands, hands, liebacks, body language all required at some point.  Crux is low, but the entire first half of the route is sustained at the grade.  A proud send, put up by two collosal figures in Yosemite's golden age, when 5.9 was a whole different concept.  A variation, also 5.9, takes the thin flake right of the crack.  Not sure about quality of pro in this flake. 
+route_name: Doggie Deviations  
+route_quality: 0.7 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 95' 
+route_url: /v/doggie-deviations/105949939 
+

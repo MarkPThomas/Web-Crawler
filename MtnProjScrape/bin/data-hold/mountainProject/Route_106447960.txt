@@ -1,0 +1,11 @@
+id: 106447960 
+parent_name: Arrowhead Arete 
+parent_url: /v/arrowhead-arete/106103489 
+route_description: When combined with Arrowhead Arete, this makes for a pretty fun outing with lots of exposure.  Instead of climbing the first pitch of Arrowhead Arete, head a bit further east to the base of the spire and locate an easy looking corner system.  From here, climb up about 30' to a fixed pin, and continue up crack system, passing a scrub oak. Continue up a chimney, making a few tricky moves past another fixed pin. Belay at a good stance.   Pitch 2 involves some airy face climbing on featured rock. There are a couple of fixed pins on this pitch as well, and you can get gear in here and there.  The summit provides a great view of the Valley, Half Dome, Glacier Point, The Sentinel, Ahwahnee Meadow, and Mount Starr King.  From the top, 1 rap (watch your rope ends) puts you at the notch between the Spire and the Arete. One more rap sets you up for climbing Arrowhead Arete. 
+route_name: Arrowhead Spire  
+route_quality: 0.525 
+route_rating:  YDS: 5.6 
+route_rating_original: YDS: 5.6 
+route_type: Trad, 2 pitches, 250' 
+route_url: /v/arrowhead-spire/106447960 
+

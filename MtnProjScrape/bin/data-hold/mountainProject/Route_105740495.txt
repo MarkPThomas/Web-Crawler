@@ -1,0 +1,11 @@
+id: 105740495 
+parent_name: Lisa Falls Buttress 
+parent_url: /v/lisa-falls-buttress/105739533 
+route_description: This climbs up the slab on the alcove on the far right of Lisa Falls under the roof.  It clips the 2 bolts on the way to the roof, and then clips the hidden bolt (runners).  Finally, it veers right to avoid the roof and pops over it at the far end of it.  Head to the anchors. 
+route_name: Drag Queen  
+route_quality: 0.375 
+route_rating:  YDS: 5.8+ 
+route_rating_original: YDS: 5.8+ 
+route_type: Trad, 1 pitch, 50' 
+route_url: /v/drag-queen/105740495 
+

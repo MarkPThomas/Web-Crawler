@@ -1,0 +1,11 @@
+id: 105997594 
+parent_name: Western Front 
+parent_url: /v/western-front/105870829 
+route_description: At the far right of the cliff, 50' right of Ace in the Hole.  Climb on knobs and nubbins past a single protection bolt about halfway up the cliff and continue up to a 2-bolt anchor.  Best toproped. 
+route_name: Deadheads Delight  
+route_quality: 0.4 
+route_rating:  YDS: 5.9 R 
+route_rating_original: YDS: 5.9 R 
+route_type: Sport, TR, 1 pitch, 50' 
+route_url: /v/deadheads-delight/105997594 
+

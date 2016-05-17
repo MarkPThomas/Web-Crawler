@@ -1,0 +1,11 @@
+id: 105717721 
+parent_name: The Organ 
+parent_url: /v/the-organ/105717012 
+route_description: Organasm is an excellent intro into Zion aid climbing.  At just 4 pitches, it's half the commitment of nearby neighbors Touchstone Wall and Spaceshot.  Furthermore, pitches 1 and 4 may be free climbed at a modest 5.8 and 5.7, respectively.    P1 (5.8) Free climb 5.8 crack up pillar, past a single bolt, and continue through awkward wide section to gain a decent stance at a sling belay.  P2 (C1) Aid through a stellar roof through a splitter crack with bomber C1 placements.  The crux of the route is probably cleaning this pitch, so be sure to read up on cleaning roofs BEFORE attempting (better yet, get some practice at your local area)! Continue past roof to a bolted anchor.  P3 (C2) A fairly long (150'?) pitch. Aid through second (smaller) roof and out onto arête. Straightforward nutting and good cam placements up this vertical crack, which ends on a nice ledge with bolted anchors.  P4 (5.7) Short section up easy 5.7 crack to top.  For a topo of the route, check this out. 
+route_name: Organasm  
+route_quality: 0.75 
+route_rating:  YDS: 5.8 C1+ 
+route_rating_original: YDS: 5.8 C2 
+route_type: Aid, 4 pitches, 400',  Grade III 
+route_url: /v/organasm/105717721 
+

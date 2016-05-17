@@ -1,0 +1,10 @@
+area_name:  1 - Parkline Slab Rock Climbing  
+area_url: /v/-1---parkline-slab/106043816 
+description: This is the large , slabby cliff at the east end of the town of El Portal. This area lies outside the park entrance. Several moderate routes are found here and it can be a nice escape from the Valley on cold days. 
+getting_there: Park in a turn out below the cliff.  Please be very careful on the approach to not knock rocks into the road. It is very loose so be extra careful and watch your feet.  Do not approach this cliff by scrambling directly up the drainage. The approach follows a faint climber's trail. From the road, start up the trail on the left side of the drainage. Follow this as it switchbacks to the base of the slab. 
+id: 106043816 
+latitude: 37.67895 
+longitude:  -119.74894  
+parent_name: Lower Merced River Canyon 
+parent_url: /v/lower-merced-river-canyon/110464982 
+

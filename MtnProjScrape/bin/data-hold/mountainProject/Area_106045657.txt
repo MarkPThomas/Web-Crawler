@@ -1,0 +1,10 @@
+area_name: The Old Woman - West Face Rock Climbing  
+area_url: /v/the-old-woman---west-face/106045657 
+description: This is the side facing the road and the one seen as you drive into Hidden Valley Campground from the north. The twenty or so routes on the face are a mix of crack and face climbs with ratings ranging from 5.2 to 5.11d with most in the 5.10+ and under range.  Popular routes here include Double Cross (5.7+), Dogleg (5.8+), Sexy Grandma (5.9), Orphan (5.9) and Route 499 (5.11b). 
+getting_there: Easily reached via a trail from the Hidden Valley Campground day use lot below Intersection Rock, or from anywhere within the Campground proper.   
+id: 106045657 
+latitude: 34.01661 
+longitude:  -116.16386  
+parent_name: The Old Woman 
+parent_url: /v/the-old-woman/105720717 
+

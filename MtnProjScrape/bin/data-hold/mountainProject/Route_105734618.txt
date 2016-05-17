@@ -1,0 +1,11 @@
+id: 105734618 
+parent_name: Northeast Face 
+parent_url: /v/northeast-face/105734057 
+route_description: Anchor at the right set of bolts, and head up the face to the right of the crack system. Interesting balancy moves in the middle section.  
+route_name: Moss Slab  
+route_quality: 0.5 
+route_rating:  YDS: 5.10a/b 
+route_rating_original: YDS: 5.10b 
+route_type: TR, 1 pitch, 40' 
+route_url: /v/moss-slab/105734618 
+

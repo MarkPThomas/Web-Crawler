@@ -1,0 +1,11 @@
+id: 105723109 
+parent_name: Tumbling Rainbow Formation 
+parent_url: /v/tumbling-rainbow-formation/105720837 
+route_description: A prominent line on good rock.  Not quite a classic, but still worthy.  No OW technique required, and it is not runout with a #5 camalot.  A couple low angle wide crack moves (3-4") lead to the upper crack (5") which is climbed via face holds. 
+route_name: Tumbling Rainbow  
+route_quality: 0.65 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 1 pitch, 70' 
+route_url: /v/tumbling-rainbow/105723109 
+

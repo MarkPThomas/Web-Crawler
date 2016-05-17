@@ -1,0 +1,11 @@
+id: 105722224 
+parent_name: Intersection Rock 
+parent_url: /v/intersection-rock/105720810 
+route_description: I always thought this was a fairly enjoyable route. Mike's Books is found on the south side of I-Rock. The first pitch (the first "book") is formed by a big rounded chunk of rock that makes a right-facing corner/ramp. I haven't been over there in recent years, but it seemed pretty popular a while back.  P1: There are two potential starts to the route:    1) Directly below the corner, there is a steep chute that goes at 5.8. I recall there was some protection, but it requires care when exiting the chute to climb up to the main corner.   2) You can go out left of the 5.8 start and climb up onto a sloping ledge. This ledge can then be traversed back right to reach the base of the first "book". Once you reach the right-facing corner, climb up this (pretty moderate) to reach a bolted belay anchor [replaced 1/02 with 1/2" stainless and camouflaged hangers - ed.].   P2: From the bolted anchor, move left into another right-facing corner system (the second "book"). Climb this until it ends, and continue to the top via slab. There is another bolted anchor on top [replaced 1/02 with 1/2" stainless and camouflaged hangers - ed.].  Descent: You can either rap the route in two half-rope rappels (fairly quick and if your packs are at the base...), or you can cross over to the top of the North Overhang route and do a half-rope rap to a large ledge on the north side (where the Upper Right Ski Track starts) and scramble down from there.   
+route_name: Mike's Books  
+route_quality: 0.575 
+route_rating:  YDS: 5.6 
+route_rating_original: YDS: 5.6 
+route_type: Trad, 2 pitches, 100' 
+route_url: /v/mikes-books/105722224 
+

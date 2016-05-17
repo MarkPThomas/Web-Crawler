@@ -1,0 +1,10 @@
+area_name: Lone Pine Peak Rock Climbing  
+area_url: /v/lone-pine-peak/105914909 
+description: Lone Pine Peak hosts a variety of long climbs on white granite.   
+getting_there: Lone Pine Peak is the massive formation that looms over the town of Lone Pine.  Routes on the north side can be approached from the Mt. Whitney Portal Road.  The longer routes on the south face of the mountain are approached via dirt roads and the Stone House area.  Tourists on 395 often mistake Lone Pine Peak for Mount Whitney. 
+id: 105914909 
+latitude: 36.5616 
+longitude:  -118.2251  
+parent_name: 13 - Whitney and Surrounding Peaks 
+parent_url: /v/13---whitney-and-surrounding-peaks/110503166 
+

@@ -1,0 +1,11 @@
+id: 105742052 
+parent_name: Lisa Falls Buttress 
+parent_url: /v/lisa-falls-buttress/105739533 
+route_description: This is the furthest right (climber's right) climb not counting Rodan and friends.  You can start near Flea Flicker/Fleeting Glimpse and climb up and right along the easy ramps until you get to the nice finger crack on Neurotica.  I placed a piece here with a runner and made my move up and around the tree in the way.  Then you progress up and right to the roofs.  Climb the roof just past a right-facing headwall, clip the chains from Rodan and continue up the broken face and cracks to the top.  Angle left to the anchors on Hard Knocks.  A few worthy moves, but not a climb to repeat much. 
+route_name: Safety Blitz  
+route_quality: 0.325 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, 1 pitch, 120' 
+route_url: /v/safety-blitz/105742052 
+

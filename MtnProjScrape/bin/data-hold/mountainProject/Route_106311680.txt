@@ -1,0 +1,11 @@
+id: 106311680 
+parent_name: The Testes 
+parent_url: /v/the-testes/105968234 
+route_description: This crack faces the road and is on the opposite side of the same crack as The Left Nut. Walk up and climb the crack until you are on top of The Right Nut. (This is actually the left smaller nut when viewing from the road. Rap off the top or belay your partner up and walk over, downclimb just a little, and finish on the ending of The Left Nut. The ending of the climb has really nice rock and some great hand and fist jams with a short section of chimney thrown in for good measure. This crack seems a little harder than The Left Nut and much more jamming than The Left Nut. 
+route_name: The Right Nut  
+route_quality: 0.375 
+route_rating:  YDS: 5.10a 
+route_rating_original: YDS: 5.10a 
+route_type: Trad, 1 pitch, 125' 
+route_url: /v/the-right-nut/106311680 
+

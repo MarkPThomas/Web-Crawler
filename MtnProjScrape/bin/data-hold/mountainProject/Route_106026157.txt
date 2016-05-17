@@ -1,0 +1,11 @@
+id: 106026157 
+parent_name:  4 - Arch Rock 
+parent_url: /v/-4---arch-rock/105878827 
+route_description: Pitch 1. This pitch is the business. Climb the flare that ends with a hardish (.9) move to a sloping ledge, enter the chimney with some difficulty, move right from the chimney to a thin hand to fingers corner. This exit goes at 10b, but what really gets you is the physical climbing below. Belay at the tree. Pitch 2. Climb some 50 feet to a ledge where you can see a hand crack about 15 feet to the right. Pitch 3 is one of the best 5.9 hand cracks in the Valley. A true jewel.  
+route_name: Gripper  
+route_quality: 0.925 
+route_rating:  YDS: 5.10b 
+route_rating_original: YDS: 5.10b 
+route_type: Trad, 3 pitches, 270' 
+route_url: /v/gripper/106026157 
+

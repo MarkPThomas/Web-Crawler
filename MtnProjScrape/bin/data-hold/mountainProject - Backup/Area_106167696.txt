@@ -1,0 +1,10 @@
+area_name: Echo Rock - West Face Rock Climbing  
+area_url: /v/echo-rock---west-face/106167696 
+description: This is the large slabby face that can be seen on the approach and from the road and is home to a large number of slab climbs from 5.6 to 5.11+ with most in the 5.10+ and under range. The majority ofthe routes here are fully bolted and require nothing more than quickdraws, but be warned that sport routes they are not.  
+getting_there: Park in the large gravel lot north of Echo Tee and follow the marked trail past the south face of Echo Cove to enter a sandy wash and hang a left that leads to the base. Allow 5-10 minutes for the hike. 
+id: 106167696 
+latitude: 34.02513 
+longitude:  -116.15617  
+parent_name: Echo Rock 
+parent_url: /v/echo-rock/105720786 
+

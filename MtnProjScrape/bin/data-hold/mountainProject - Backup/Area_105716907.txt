@@ -1,0 +1,10 @@
+area_name: Happy Turk Hoodoo Rock Climbing  
+area_url: /v/happy-turk-hoodoo/105716907 
+description: The Happy Turk Hoodoo is a crazy looking, 40-or-so-foot-high tower of Cutler sandstone.  It is also called the Devil's Golfball, because the base of the tower looks like a red golf tee, while the capstone is a whitish orb looking somewhat like a golfball.  
+getting_there: From the cattleguard, drive 5.7 miles (2.1 miles past the Ice Cream Parlor.  Just off the road on your right will be the tower Pensive Putterman, composed of Cutler, and several hundred feet to the left will be the Happy Turk.  Follow the maze of dirt roads to park at the base of the tower, or hoof it in for the 2 minute hike.  
+id: 105716907 
+latitude: 38.48266 
+longitude:  -109.60131  
+parent_name: Kane Springs Canyon 
+parent_url: /v/kane-springs-canyon/105716793 
+

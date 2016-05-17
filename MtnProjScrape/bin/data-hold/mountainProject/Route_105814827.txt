@@ -1,0 +1,11 @@
+id: 105814827 
+parent_name: North Mesa 
+parent_url: /v/north-mesa/105814808 
+route_description: Hard but fun off-width climbing.  A multi-bolt rap station is on the finishing ledge.   
+route_name: Fat Bastard  
+route_quality: 0.55 
+route_rating:  YDS: 5.11- R 
+route_rating_original: YDS: 5.11- R 
+route_type: Trad, 1 pitch, 140' 
+route_url: /v/fat-bastard/105814827 
+

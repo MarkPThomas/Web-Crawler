@@ -1,0 +1,11 @@
+id: 105956387 
+parent_name: Higher Cathedral Spire 
+parent_url: /v/higher-cathedral-spire/105892236 
+route_description: The easiest way up Higher Cathedral Spire.  400' of entertainment take you to the top of a spire with spectacular views.  This adventure felt like mountaneering as much as technical climbing with the steep approach, many tree belays, and sometimes loose nature of the rock.  As a note there are several variations.  I will list as I have climbed it which was great fun.  Check the Supertopo guide for a more complete picture.  Each pictch listed is about 100'.  P1 (5.5) Up a left facing dihedral to a bushy ledge.  P2 (5.9) Up a crack to a small roof.  Traverse left under the roof, then pull up over the steep bulge on decent hand holds.  Traverse left more to a nice ASCA bolt, then up and left to an easy crack.  Leads to a tree.  P3 (5.9)  Up and left to a chimney.  Traverse left around a bulge into a chimney hidden from view from the belay.  Up the chimney to another tree belay.  P4 (5.9)  The standard route goes up and left for a short pitch, then up to the top from there.  The varation (best pitch on the route in my opinion) goes straight up through some steep wildly fractured rocks to a ledge with a tree and continues up a short clean hand crack / flake.  From the top of this traverse left and then find the easiest way to the top from there.  Rappel from the ASCA bolts on the south side of the summit.  Tree rappels from there.  A single 60 meter rope or longer is highly advised.  Tie knots. 
+route_name: Regular Route (Higher Cathedral Spire)  
+route_quality: 0.875 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 4 pitches, 400' 
+route_url: /v/regular-route-higher-cathedral-spire/105956387 
+

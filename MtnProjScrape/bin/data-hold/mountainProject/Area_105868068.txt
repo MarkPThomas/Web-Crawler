@@ -1,0 +1,10 @@
+area_name: Bugaboo Spire Rock Climbing  
+area_url: /v/bugaboo-spire/105868068 
+description: This is one of the most impressive spires in all of the Bugaboo's hence the name.  From the Applebee campground the highly visible east face looms steep and nearly blank with only half a dozen or so routes.  Viewed from the top of Crescent Spire one gets a great look at the classic Northeast ridge and the entire spire as it shoots into the sky like a sharks tooth. 
+getting_there: Most of the routes on the Bugaboo Spire are accessed via the Crescent glacier which is an easy hike from the Kain hut and Applebee campground.  From the Kain hut head north toward the Bugaboo-Snowpatch Col and turn off before the Col as if heading to the Crescent Spire.  From Applebee hike north out of camp onto the moraine and follow the same route as if going to Crescent Spire.  The east face is obvious on both approaches.  To get to the Northeast ridge follow the same approach as above and continue up slabs to the Bugaboo-Crescent Col.  All remaining routes on the south and west faces are approached by the Bugaboo-Snowpatch Col.   
+id: 105868068 
+latitude: 50.74546 
+longitude:  -116.78853  
+parent_name: The Bugaboos 
+parent_url: /v/the-bugaboos/105868061 
+

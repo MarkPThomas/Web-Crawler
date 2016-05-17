@@ -1,0 +1,11 @@
+id: 105869571 
+parent_name: Crescent Spire 
+parent_url: /v/crescent-spire/105868074 
+route_description: This is a fun route on really good quality rock and all the pitches are rated 5.10 according to the book with the crux coming on the 4th pitch.  P1:  Start about 10' to the left of a large left facing dihedral and follow finger cracks up the face.  Two overhangs are encountered on this pitch which are bypassed by climbing left around the first one and right around the second.  Belay just above the second overhang at a small stance.  P2:  Follow cracks and face climbing to a steeper upper wall and belay.  P3:  Continue climbing the face heading up and right to a chimney, struggle up the chimney and belay on top at a two bolt anchor.  (It is also possible to avoid the chimney by traversing to the right and climbing a hand crack to the same stance).  P4:  Step right and climb up a steep crack corner to perfect hands through a roof.  Pull the roof and belay in a crack to the left.   P5:  Climb straight up awkward finger to fist sized cracks to the top of the ridge. 
+route_name: Paddle Flake Direct  
+route_quality: 0.825 
+route_rating:  YDS: 5.10 
+route_rating_original: YDS: 5.10 
+route_type: Trad, Alpine, 5 pitches, 500',  Grade III 
+route_url: /v/paddle-flake-direct/105869571 
+

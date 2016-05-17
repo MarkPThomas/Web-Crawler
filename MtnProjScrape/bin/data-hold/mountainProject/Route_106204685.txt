@@ -1,0 +1,11 @@
+id: 106204685 
+parent_name: Mount Moran 
+parent_url: /v/mount-moran/105823389 
+route_description: An historic 11p route up a sea of granite on the South buttress of Mt. Moran.  When combined with the upper ridge to the summit, this is the longest route in the lower 48.  I would be surprised if there is a longer rock route in N. America.  The first ascent (1953), the exposure, the paddle in, and the setting, make this a classic.    Climb (5.3) for about 400-500' up a gulley to the second ledge. This gulley is located about 100yds past some trees and the prow (though it is probably possible to climb up some 5.5 to 5.8 almost anywhere from the first to second ledges). Move west about 50-100' and climb 5.7 or 5.9 crack to another ledge system 50' above.  Follow this ledge system up and west for about 300-400'.  The real climbing now begins up beautiful solid granite.  Two, 200' pitches can bring you to the top of a huge detached flake.  From the top of the flake some 5.8/5.9 pg-13 climbing (50-75') brings you around an arete to some spectacular exposure at the double pendulum pitch. Two pendulums or an 11d traverse bring you to a 4-move aid section followed by some 4th class.  The 4-move aid section can apparently be climbed free at 12a- though you would need some small finger tips.  The final pitch follows an amazing handtraverse back east for about 100'.  This will leave you at a large bowl with some trees and bushes.  Water is sometimes available in a spring here and the rappels begin to east of the bowl.     Continuing to the summit will make this climb several times more difficult.  Apparently, good route finding can allow 5.4 scrambling over about 3000' of climbing to the summit.  We moved up to the ridge and soloed consistent, extremely exposed knife-edge climbing (5.6) for 1000. It appeared to me that staying below the ridge would allow easier climbing.  When faced with a notch and headwall move a few hundred yards east/NE to continue to summit.   
+route_name: Direct South Buttress  
+route_quality: 0.875 
+route_rating:  YDS: 5.9 C1 
+route_rating_original: YDS: 5.9 C1 
+route_type: Aid, Alpine, 11 pitches, 1500',  Grade IV 
+route_url: /v/direct-south-buttress/106204685 
+

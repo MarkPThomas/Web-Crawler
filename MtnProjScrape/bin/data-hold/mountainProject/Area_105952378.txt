@@ -1,0 +1,10 @@
+area_name: 18 - Generator Station Rock Climbing  
+area_url: /v/18---generator-station/105952378 
+description: Directly off of highway 140 and pleasantly located right next to the Merced River for some post ow swimming. 
+getting_there: There is a small pullout on the right (heading into the Valley) just before the old generator station on the 140. 
+id: 105952378 
+latitude: 37.722 
+longitude:  -119.70323  
+parent_name: Lower Merced River Canyon 
+parent_url: /v/lower-merced-river-canyon/110464982 
+

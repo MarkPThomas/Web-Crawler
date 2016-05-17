@@ -1,0 +1,11 @@
+id: 105862915 
+parent_name: Royal Arches 
+parent_url: /v/royal-arches/105833402 
+route_description: The "Serenity-Sons" combo may be the best 5.10 crack climb in the Valley... it is just so, so good. Why anyone would do one without the other, I don't know, but since they are technically two separate routes, they are listed as such.   Sons of Yesterday is the flawless continuation of the climb.  P4: Depending on where you belayed, climb a long pitch of easy terrain past a short steep section of 5.10a thin hands to an airy belay perch on a small tree.  P5: A long pitch of 5.9 in a right-facing corner.  Belay at bolts.  P6: Steep 5.9 jamming through a little roof.  Belay at bolts.    P7: A wild pitch of 5.9 "walking" along a leaning crack leads to a final stretch of 5.8 fists to an anchor.  A sweet pitch.   Begin double-rope rapping from here, sometimes on the route, sometimes just left of it. 
+route_name: Sons of Yesterday  
+route_quality: 0.975 
+route_rating:  YDS: 5.10a/b 
+route_rating_original: YDS: 5.10a/b 
+route_type: Trad, 6 pitches 
+route_url: /v/sons-of-yesterday/105862915 
+

@@ -1,0 +1,11 @@
+id: 105915141 
+parent_name: Church Bowl 
+parent_url: /v/church-bowl/105860381 
+route_description: The technnical crux is down low (getting of the ground) in a polished groove.  Nice finger jamming follows with a balancy sequence to gain the bolt belay.  There is a second pitch but this isn't often done. 
+route_name: Church Bowl Tree  
+route_quality: 0.675 
+route_rating:  YDS: 5.10- 
+route_rating_original: YDS: 5.10b 
+route_type: Trad, 60' 
+route_url: /v/church-bowl-tree/105915141 
+

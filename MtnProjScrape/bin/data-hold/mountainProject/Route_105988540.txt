@@ -1,0 +1,11 @@
+id: 105988540 
+parent_name: Camp 4 Wall 
+parent_url: /v/camp-4-wall/105945928 
+route_description: A crystally right facing corner is climbed to the chimney. The move into the chimney is the crux. No protection once in the chimney until you get up to the chokestones at the top.  
+route_name: The Buttocks  
+route_quality: 0.25 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 1 pitch, 100' 
+route_url: /v/the-buttocks/105988540 
+

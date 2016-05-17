@@ -1,0 +1,11 @@
+id: 106015648 
+parent_name: Stately Pleasure Dome 
+parent_url: /v/stately-pleasure-dome/105835737 
+route_description: The Boltway begins from the top of Hermaphrodite flake.  5.8 slab climbing that is never to difficult and the bolts always appear just when you want one.  Although some of the bolts are very suspect, there are plenty of them.  Great views and exposure! 
+route_name: Boltway  
+route_quality: 0.65 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, Alpine, 2 pitches, 300' 
+route_url: /v/boltway/106015648 
+

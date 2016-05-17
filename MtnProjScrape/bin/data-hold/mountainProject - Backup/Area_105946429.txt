@@ -1,0 +1,10 @@
+area_name: British Columbia Rock Climbing  
+area_url: /v/british-columbia/105946429 
+description: Canada's westernmost province is very fortunate to have some of the mildest climates in the country combined with some of the best rock and mountains around.  Marquee areas like Squamish, Skaha and the Bugaboos are only the tip of the iceberg. 
+getting_there: Vancouver is easily accessed by air from anywhere and is about three or four hours drive from Seattle.  Vancouver puts you within two hours drive of vast amounts of climbing, centered on but not limited to Squamish.  Penticton, in the interior, is about a five hour drive from Vancouver and can be accessed by air either directly or by flying to nearby Kelowna.  Skaha is main destination here, but there are other quality locations in the area.  The coastal range is accessed, with difficulty from Vancouver, or by boat or plane.  Vancouver Island, which is home to some good climbing, fine mountaineering, and great trails (like the West Coast Trail) can be reached by ferry from Vancouver, or by flying to the Victoria International Airport.  The more recently developed areas on the Sunshine Coast such as the Eldred Valley are accessed by ferry from Vancouver.  There appears to be a lot of potential in this area for huge first ascents.  For the Rockies, which are closer to the border with Alberta, access for out-of-towners is often via Calgary, although the drive can be done from from Vancouver in seven to ten hours depending on your destination. 
+id: 105946429 
+latitude: 49.2777 
+longitude:  -123.1334  
+parent_name: Canada 
+parent_url: /v/canada/105881369 
+

@@ -1,0 +1,11 @@
+id: 105898699 
+parent_name: 21 - Reed's Pinnacle Area 
+parent_url: /v/21---reeds-pinnacle-area/105863765 
+route_description: Cool climb up a corner to start. The first 30 feet are the crux. Tight hands and some hard moves. After that, sustained but tons of fun. Cool rock. 
+route_name: Stone Groove  
+route_quality: 0.825 
+route_rating:  YDS: 5.10b 
+route_rating_original: YDS: 5.10b 
+route_type: Trad, 1 pitch, 80' 
+route_url: /v/stone-groove/105898699 
+

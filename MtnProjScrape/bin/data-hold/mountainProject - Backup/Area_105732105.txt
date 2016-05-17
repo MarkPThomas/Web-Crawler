@@ -1,0 +1,10 @@
+area_name: Yin and Yang Cliff Rock Climbing  
+area_url: /v/yin-and-yang-cliff/105732105 
+description: This miniature (35') crag has two nice cracks.  The routes get morning sun and afternoon shade. 
+getting_there: Follow a trail around the left side of Kraft Mtn.  After 20 minutes you will reach a distinct notch; the crag is 100 yards further on the right. 
+id: 105732105 
+latitude: 36.16791 
+longitude:  -115.42695  
+parent_name: Calico Basin 
+parent_url: /v/calico-basin/105731977 
+

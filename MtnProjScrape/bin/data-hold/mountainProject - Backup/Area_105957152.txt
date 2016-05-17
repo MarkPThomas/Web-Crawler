@@ -1,0 +1,10 @@
+area_name: Cleopatra's Needle  Area Rock Climbing  
+area_url: /v/cleopatras-needle-area/105957152 
+description: This area in on the border of Arizona and New Mexico, about 17 miles north of Fort Defiance, (Which is north of Gallup, New Mexico).  There are 4 major spires in the area;  Cleopatra's Needle (Which could very well be the skinnest spire in the world), Venus Needle, Navajo Needle, and Angel Wing.    
+getting_there: Drive north from Fort Defiance for about 17 miles to this area.  Angel Wing is the only spire visible from the main road;... the others are back on dirt roads to the east. 
+id: 105957152 
+latitude: 35.96218 
+longitude:  -108.98529  
+parent_name: Navajolands 
+parent_url: /v/navajolands/105957146 
+

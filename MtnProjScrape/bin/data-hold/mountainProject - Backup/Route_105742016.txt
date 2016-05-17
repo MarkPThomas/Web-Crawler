@@ -1,0 +1,11 @@
+id: 105742016 
+parent_name: Coffin Buttress 
+parent_url: /v/coffin-buttress/105739419 
+route_description: Fantastic, can be done in one pitch from ground with 60m rope by linking up with the Coffin and continuing right at roof.  Brilliant dihedral climbing, great exposure, often pretty thin.  As a single pitch it is one of the best in Utah.  Descent: Rap down other (viewer's left from bottom) side of the Coffin to chain anchors for The Coffin route.  One more single-rope rap to ground. 
+route_name: Rightside Variation  
+route_quality: 0.675 
+route_rating:  YDS: 5.9+ 
+route_rating_original: YDS: 5.9+ 
+route_type: Trad, 1 pitch, 80' 
+route_url: /v/rightside-variation/105742016 
+

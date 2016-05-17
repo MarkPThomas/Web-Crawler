@@ -1,0 +1,10 @@
+area_name: Five Fingers Area Rock Climbing  
+area_url: /v/five-fingers-area/105739521 
+description: A relatively easy area, with mainly trad routes.  Some protect well, others don't.  If you are looking for an alternate spot to climb when Schoolroom is busy, come here.  The rock is a little dirtier then the rest of Gate. 
+getting_there: Approach as per Schoolroom, and continue east, along the trail which turns into a ledge system. 
+id: 105739521 
+latitude:  
+longitude:  
+parent_name: Gate Buttress 
+parent_url: /v/gate-buttress/106002442 
+

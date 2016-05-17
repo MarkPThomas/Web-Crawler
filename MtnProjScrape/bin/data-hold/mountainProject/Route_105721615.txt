@@ -1,0 +1,11 @@
+id: 105721615 
+parent_name: The Old Woman - West Face 
+parent_url: /v/the-old-woman---west-face/106045657 
+route_description: One of the best and most accessible of the easier moderates, Double Cross is perhaps the most climbed (i.e, crowded) route in the entire Park. Those who have not yet developed basic jamming technique will find this route quite difficult.  Although easily protected, this route has been the site of several serious injuries and a few fatalities over the years.  Begin by climbing 25' up and then traverse left to gain the main crack.  Continue for another 70' of stellar hand to fist crack.  Belay from 3-bolt anchor.  If crowded (as it often is), consider Double Start (just to the right), Dogleg, or Sexy Grandma.  Descent: Rap to ground (a single 50m rope just barely makes it).  Many, many pages of discussion about the route have been moved to the Double Cross Discussion in the Southern California Forum. 
+route_name: Double Cross  
+route_quality: 0.85 
+route_rating:  YDS: 5.7+ 
+route_rating_original: YDS: 5.7+ 
+route_type: Trad, 1 pitch, 95' 
+route_url: /v/double-cross/105721615 
+

@@ -1,0 +1,11 @@
+id: 108117312 
+parent_name: 21 - Reed's Pinnacle Area 
+parent_url: /v/21---reeds-pinnacle-area/105863765 
+route_description: The regular route up the Iota is a fun chimney climb. This combined with The Deer Route and The Remnant-Right Side makes for a great circuit of spelunking adventures. The start is approached by scrambling up and around the left side of the Iota. Here you will enter into a great chimney which divides the Iota from the main wall. Crossroads is a bolted 5.13 face which can be found in this chimney.  Start with a boulder problem and mantel to get into a tunnel which leads out onto the face and the top of Chingando (this is also how you can access a TR setup for Chingando). Climb straight up the obvious chimney to the top. There's not any pro.  To get down, either rappel from slings, or walk to the back left side of the Iota and make a short steep downclimb (there should be a fixed rope with knots tied in it that you can "batman" down).   Trip Report with photossupertopo.com/tr/The-Iota-Chim... 
+route_name: The Iota  
+route_quality: 0.5 
+route_rating:  YDS: 5.4 
+route_rating_original: YDS: 5.4 
+route_type: Trad, 1 pitch, 70' 
+route_url: /v/the-iota/108117312 
+

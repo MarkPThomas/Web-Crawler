@@ -1,0 +1,10 @@
+area_name: Sugarloaf, East Face Rock Climbing  
+area_url: /v/sugarloaf-east-face/105875775 
+description: This face offers some exceptional climbs including "Grand Illusion". In the warmer months, this side of the wall goes into the shade early and offers some shelter from the blistering sun. On the other hand, in the colder months it's popular in the morning sun but becomes bitterly cold as the sun leaves it's presence.   Tons of varied climbing from 5.7 to 5.13c both bolted, Traditionally protected, mixed and spicy. It's all here.   
+getting_there: Head up and right from the base of the rock. 
+id: 105875775 
+latitude: 38.7766 
+longitude:  -120.3081  
+parent_name: Sugarloaf 
+parent_url: /v/sugarloaf/105734010 
+

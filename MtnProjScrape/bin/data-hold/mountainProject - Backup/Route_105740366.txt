@@ -1,0 +1,11 @@
+id: 105740366 
+parent_name: Static Wall 
+parent_url: /v/static-wall/105739470 
+route_description: A near dead-vertical face with widely spaced bolts, this enjoyable, sustained line will gradually get more difficult and thin as you near the top. Steep jugs, thin crimps, and good movement, Transformer is an interesting, thoughtful climb. Its important to mention that this route is bolted, but gear will be necessary to protect yourself from a potential ground fall. There is a great .75 camalot placement between the second and third bolt, the climbing in that section is easy, but falling before you reach the third bolt would probably be awful.   A 60 meter rope will work fine, but be mindful of your ends.  Transformer is south-facing and very doable during a dry, winter day. That being said, it can be brutal in the middle of July. Beware of hornets on this climb when in season. 
+route_name: Transformer  
+route_quality: 0.55 
+route_rating:  YDS: 5.8+ 
+route_rating_original: YDS: 5.8+ 
+route_type: Sport, 1 pitch, 100' 
+route_url: /v/transformer/105740366 
+

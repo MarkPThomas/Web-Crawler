@@ -1,0 +1,10 @@
+area_name: Cosumnes River Gorge Rock Climbing  
+area_url: /v/cosumnes-river-gorge/105733956 
+description: Nestled into the western Sierra near the town of Placerville, you will find this granite gem. Climbing is quite varied, from short bouldering, sport, and multipitch traditional lines. Most of these are topropeable short lines, physical for their grades.  Most of the granite in the area has been washed by water over many many years, and now is quite smooth. We're not talking Yosemite glass, so friction routes are still doable.  Boasting several hundred existing routes on many different rocks, there are many many days of climbing for people of all abilities. This is an excellent place to set your first pro, and also a great place for the development of new routes.  There are no access fees for climbing in Cosumnes River Gorge. While the climbing areas are on privately owned land, the owner has permitted climbing access. A 1979 trip report by Bob Branscomb in the American Alpine Journal mentioned that the owner requests that no campfires be lit, so be a cool guest and respect this .  Descents are as varied as the climbing. 
+getting_there: From Hwy 50, exit on Missouri Flats (Right). Take that a few miles until you find a T-intersection with Pleasant Valley Rd and take that to Bucks Bar. If you are unfamiliar with the area the turnout for parking is just before Buck's Bar Cir., so if you see Bucks Bar Circle road then you just passed the spot.  Once out of the car, head off the right side of the road in the middle of the guard rail.  There is a wide trail that is paved for the first few hundred feet.  The approach is downhill and takes about 10 minutes to the main climbing areas. 
+id: 105733956 
+latitude: 38.6524 
+longitude:  -120.7066  
+parent_name: Highway 50 Corridor 
+parent_url: /v/highway-50-corridor/109968910 
+

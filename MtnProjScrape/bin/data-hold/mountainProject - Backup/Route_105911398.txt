@@ -1,0 +1,11 @@
+id: 105911398 
+parent_name: Sugarloaf, East Face 
+parent_url: /v/sugarloaf-east-face/105875775 
+route_description: Scheister starts just up the ramp just left of Crushed Velvet (bolted face) and the Farley lieback.  It is just uphill from Harding's chimney.  Start up the ramp, and then work into the chimney.  It is pretty easy at first, stem as long as possible.  It narrows down, and then you must pull out of it onto the face (crux.)  You can belay at the shelf, or continue up a little farther and belay at the bolted stance which is the p2 anchor of Crushed Velvet.  Continue up the big corner, move left under the roof, and then hike up and back right and up another corner to the summit notch.  belay here, then tunnel out the back. 
+route_name: Scheister  
+route_quality: 0.7 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, 3 pitches, 300' 
+route_url: /v/scheister/105911398 
+

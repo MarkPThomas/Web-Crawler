@@ -1,0 +1,10 @@
+area_name: Swan Slab Rock Climbing  
+area_url: /v/swan-slab/105841123 
+description: Swan Slab is a very popular area with zero approach and an abundance of short, moderate routes.  It is south-facing and gets sun almost all day long.  Most of the routes are easily top-roped, making it extremely popular for guided groups.  Count on crowds. 
+getting_there: Park either at Yosemite Lodge (across the street), Camp 4, or Lower Yosemite Falls.  All the routes are about 100 feet north of the road. 
+id: 105841123 
+latitude: 37.745 
+longitude:  -119.5999  
+parent_name: Yosemite Falls Area 
+parent_url: /v/yosemite-falls-area/105865903 
+

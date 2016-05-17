@@ -1,0 +1,10 @@
+area_name: North Face Rock Climbing  
+area_url: /v/north-face/109211055 
+description: Although this area is often simply called (the) Hogsback, this North Face area is to distinguish the adjacent collection of routes here, all generally served by a single approached and descent, from those at the far west end (Hogswild) or the South Face. This section faces away from the main Lovers Leap cliffs, and is often shady until afternoon. 
+getting_there: Follow Pony Express Trail from the campground for 1 mile or more until you are even with the eastern notch on Hogsback. You will notice a trail on the left going up. Follow this trail back down (towards the creek and highway) and around to the north face. Knapsack crack is the first route above the talus field. Walk off all routes to the east. (Megin Olson) 
+id: 109211055 
+latitude: 38.80531 
+longitude:  -120.13561  
+parent_name: Hogsback 
+parent_url: /v/hogsback/105812278 
+

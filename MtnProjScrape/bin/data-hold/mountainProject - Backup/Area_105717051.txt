@@ -1,0 +1,10 @@
+area_name: Argon Tower Rock Climbing  
+area_url: /v/argon-tower/105717051 
+description: A fine looking 250' tower on the west side of the north end of Courthouse Wash.  Argon is a couple of hundred yards south of the Three Gossips.  Routes face north and west.  This tower looks better than it climbs.  The rock is worse than that of the Gossips -- sandy and soft.  A trigger broke on a unit after we placed it; were able to remove the piece by cutting away the surrounding rock with a penknife. 
+getting_there: Start at the parking lot at the north end of the Courthouse Wash (Broadway) trail.  Take the trail for a few minutes until abeam Argon.  Follow intermittent climbers' trails, countouring around the north end of the tower, bypassing the bottom part of the tower and ending up at a bench on the west side of the tower.  Ten to fifteen minutes from the parking lot. 
+id: 105717051 
+latitude: 38.63325 
+longitude:  -109.60195  
+parent_name: Arches National Park 
+parent_url: /v/arches-national-park/105716757 
+

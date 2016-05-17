@@ -1,0 +1,11 @@
+id: 105722164 
+parent_name: Isles in the Sky 
+parent_url: /v/isles-in-the-sky/105720723 
+route_description: Don't be fooled!  While only 5.7, Dolphin is a "classic" grovel/grunt (if you're into that sort of thing).  As one ascends, the crack widens.  Towards the top, scoot your #5 Camalot up in between mandatory cursing.  To descend, either rap Bird of Fire or walk/downclimb via 4th class ramp to the south (climber's left). 
+route_name: Dolphin  
+route_quality: 0.675 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, 1 pitch 
+route_url: /v/dolphin/105722164 
+

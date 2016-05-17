@@ -1,0 +1,11 @@
+id: 107015300 
+parent_name: Tuna and Chips Wall 
+parent_url: /v/tuna-and-chips-wall/105732042 
+route_description: Fun route 
+route_name: Albacore Man  
+route_quality: 0.6 
+route_rating:  YDS: 5.8 R 
+route_rating_original: YDS: 5.8 R 
+route_type: Trad, Sport, 1 pitch, 100' 
+route_url: /v/albacore-man/107015300 
+

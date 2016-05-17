@@ -1,0 +1,11 @@
+id: 105799550 
+parent_name: West Face - Right Side 
+parent_url: /v/west-face---right-side/106181534 
+route_description: From Fingertrip, walk around and up about 80 feet. Look for a pine tree with it top missing - that is the base of the climb. 3rd class up to it.   Pitch 1 - (5.10a) Bouldery start just left of a thin, thin crack up to a small overlap move left and up. Belay at a block ledge. Be careful with you anchor here. Pitch 2 - Climb past 2 bolts then make a long friction traverse left past another bolt to the Jungle. Belay here. Pitch 3 *** -(5.10a) Climb up the classic lieback crack for 80 feet. Pro is good, but at the top I would sink a good piece in and go for a small run out. The crack gets thin and less secure. 2 bolt belay. Pitch 4 - Climb the (5.8) crack up and left then traverse right to join Jensen's Jaunt.  Or at end of pitch 3 you can mover over and down to get in to Traitor Horn, which makes for a great climb.  
+route_name: El Camino Real  
+route_quality: 0.875 
+route_rating:  YDS: 5.10a 
+route_rating_original: YDS: 5.10a 
+route_type: Trad, 4 pitches, 500' 
+route_url: /v/el-camino-real/105799550 
+

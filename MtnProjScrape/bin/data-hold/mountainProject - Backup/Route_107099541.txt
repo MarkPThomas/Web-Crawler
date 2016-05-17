@@ -1,0 +1,11 @@
+id: 107099541 
+parent_name: Pat and Jack Pinnacle 
+parent_url: /v/pat-and-jack-pinnacle/105870715 
+route_description: About 30 feet up the hill and left of Sherrie's Crack is an obvious chimney. This is the start of Gilligan's Chicken. Few people will find this route enjoyable, but for those seeking an easy romp up a chimney and gully, this makes for a decent adventure.  Begin up an awkward offwidth groove to get into the chimney proper. I thought this start was the crux of the whole route. It protects with a big cam if you're worried about falling on your ass. The chimney is easy and secure. Big gear protects the back of it but the rope will drag over some precariously wedged chock-stones at the top of the chimney. I thought it safer to just solo the chimney (about 5.4) and have nothing to do with those chock-stones. Make some cool moves exiting the chimney onto a ledge and belay here, or if you didn't place gear in the chimney you can continue to the top in one pitch.  The second pitch continues up the dirty groove and takes pretty good pro. There are some cool knobs out on the face to the right near the end. Pass by a large tree with rap slings on it (the tree isn't looking too healthy) and continue up to the top of the buttress. Belay on a good ledge and walk off to the left down a 3rd class gully. 
+route_name: Gilligan's Chicken  
+route_quality: 0.425 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, 2 pitches, 170' 
+route_url: /v/gilligans-chicken/107099541 
+

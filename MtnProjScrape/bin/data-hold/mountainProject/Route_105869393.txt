@@ -1,0 +1,11 @@
+id: 105869393 
+parent_name: Pigeon Spire 
+parent_url: /v/pigeon-spire/105868078 
+route_description: The West Ridge on Pigeon Spire is one of the most classic climbs in the Bugaboo's.  The route is not technically difficult, consisting of mostly 4th-class scrambling but the position and exposure are spectacular.  The route follows the top of the ridge nearly the whole way climbing up and over two intermediate summits before topping out on the true summit.  Simul-climbing the ridge is probably the best option if you want to go faster and still stay safe.  From the low point on the ridge scramble east to the first summit staying near the ridge-crest, sometimes to the south, sometimes to the north but never more than a few yards away.  At the top of the first summit follow slabs down to a saddle and then continue up the ridge toward the second summit.  Again stay near the crest until you get to a steep section that is avoided by following a ledge to a corner on the north side of the ridge.  The corner will lead you up to the second summit from which some easy fifth-class down climbing to the north will end at a col between the second and main summits.  From the col, move left beneath the summit following icy ramps till you get to the bottom of slab angling up to the right.  Climb up the slab continuing up a chimney to a loose gully on the left.  Climb up the gully until you get to a 10"-wide left-angling crack.  Step right to a large flake and chimney and then back left to a 5.4 handrail.  Follow the handrail for about 12' and make a reachy move up and right to easier ground that leads to the summit.   To descend either follow the same route down from the summit or make two single-rope rappels off the summit back down to the icy ramps.  From there follow the same route back down the ridge. 
+route_name: West Ridge  
+route_quality: 0.975 
+route_rating:  YDS: 5.4 
+route_rating_original: YDS: 5.4 
+route_type: Trad, Alpine, 1500',  Grade III 
+route_url: /v/west-ridge/105869393 
+

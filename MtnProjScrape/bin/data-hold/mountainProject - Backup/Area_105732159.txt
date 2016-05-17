@@ -1,0 +1,10 @@
+area_name: Mescalito Rock Climbing  
+area_url: /v/mescalito/105732159 
+description: This formation was known as Red Cap back in the sixties.  The Mescalito name was given by Red Rock pioneer Jeff Lansing (who coincidentally did the first ascent of the formation's east face).  It looks like a cute little summit, dwarfed by much larger mountains on both sides.  But do not be fooled; climbing to the summit involves ten or twelve pitches and a noticeable descent effort.  There is quite a wide spectrum of climbing.  Cat in the Hat and Dark Shadows are probably the two most popular routes with visiting climbers, and they well deserve their "classic" status.  Lots of other climbs are of similar quality; Risky Business, Y2K, Cookie Monster, and a bunch more.   
+getting_there: Hike west on the main Pine Creek trail.  A short distance beyond the mouth of the canyon the streambed forks.  Stay to the right for routes from Y2K around toward Dark Shadows.  Cross the streambed and work up the south fork for routes from Cookie Monster and left toward Cat in the Hat. 
+id: 105732159 
+latitude: 36.12267 
+longitude:  -115.49283  
+parent_name: Pine Creek Canyon 
+parent_url: /v/pine-creek-canyon/105731962 
+

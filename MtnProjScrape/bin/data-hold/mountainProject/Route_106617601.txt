@@ -1,0 +1,11 @@
+id: 106617601 
+parent_name:  6 - Finger Lickin' Area 
+parent_url: /v/-6---finger-lickin-area/106578516 
+route_description: A great pitch with fun jamming above.  Just pull the crux down low and start jamming.  Belay from slings around a bush or walk off to the right. 
+route_name: Snatch Power  
+route_quality: 0.75 
+route_rating:  YDS: 5.10c 
+route_rating_original: YDS: 5.10c 
+route_type: Trad, 1 pitch, 50' 
+route_url: /v/snatch-power/106617601 
+

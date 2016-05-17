@@ -1,0 +1,11 @@
+id: 105789686 
+parent_name: Mt. Whitney 
+parent_url: /v/mt-whitney/105789681 
+route_description: The premier moderate route in the Whitney Area.  Day 1 Hike to Iceberg Lake. Day 2 Do climb. Day 3 Hike back to Whitney Portal.  Eleven fairly consistent pitches on excellent rock.  The route starts up a scree slope where you head to left-facing corner on the right side of the "second tower", which is directly on the east buttress.  It's pretty easy to stay on route - don't stray far from the true buttress.  If it's obviously harder than 5.7, look around and get back on route.  p1. Easy climbing up the corner. 5.5-5.6 p2. Nice face climbing. 5.6-5.7. p3-5.  wander around the buttress taking whatever line looks best.  Head for the left side of "the peewee" - a huge roof/block that looks rather ominous.  4th-5.6 p6. up the left side of the peewee.  usually dark and cold.  Feels good to get on top of it.  5.6 p7-11. cracks and blocks that generally trend left.  The more left you go, the sooner you'll hit a talus field and start walking to the top.  Climbing stays easy right on the buttress, with a few boulder problems to overcome.  Top out, dazzle the crowd that hiked up the Whitney Trail and listen to their cell phone calls (golly gee honey - you won't believe where I'm calling from...). 
+route_name: East Buttress  
+route_quality: 0.9 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, Alpine, 11 pitches, 1000',  Grade III 
+route_url: /v/east-buttress/105789686 
+

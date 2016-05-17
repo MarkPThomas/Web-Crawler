@@ -1,0 +1,11 @@
+id: 105982745 
+parent_name:  5 - Short Circuit Boulder 
+parent_url: /v/-5---short-circuit-boulder/110465060 
+route_description: A classic and steep thin hands to fingers crack. Usually TR'ed but occasionally soloed. Nice hang spot at the base, and it gets shade most of the day. 
+route_name: Short Circuit  
+route_quality: 0.85 
+route_rating:  YDS: 5.11d 
+route_rating_original: YDS: 5.11d 
+route_type: TR, 1 pitch, 30' 
+route_url: /v/short-circuit/105982745 
+

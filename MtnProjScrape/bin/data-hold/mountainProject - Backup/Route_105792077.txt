@@ -1,0 +1,11 @@
+id: 105792077 
+parent_name: Mt. Whitney 
+parent_url: /v/mt-whitney/105789681 
+route_description: From Iceberg Lake, scramble up to the notch just above the First Tower.  Gear up.    Make the Tower Traverse across the south face of the Second Tower, and climb a short chimney (5.4-5.5) to the first belay.  Scramble or simul climb up three pitches of 4th - easy 5th to the top of the Washboard.  Climb left up and over a tower/chimney (5.2-5.5) to a large ledge, and traverse to the base of the Fresh Air Traverse.   The Fresh Air Traverse pitch (5.5) climbs easy ground up then left to three fixed pitons.  Enter and belay in a chimney.  The traverse is exposed and fun.  From the ledge, do not traverse directly left.  Climb up blocky ground first.  Once in the chimney, climb up the Grand Staircase for 3 pitches, to the 5.6-5.7 offwidth pitch(es).  This is the crux, then its easy ground up and right to the summit.  Be quick, efficient, and be careful of your rope - watch rockfall, for your team and others.  
+route_name: East Face  
+route_quality: 0.85 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.6 
+route_type: Trad, Alpine, 10 pitches, 1000',  Grade III 
+route_url: /v/east-face/105792077 
+

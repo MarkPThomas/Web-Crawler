@@ -1,0 +1,11 @@
+id: 105812947 
+parent_name: b. Jackie and friends 
+parent_url: /v/b-jackie-and-friends/107037580 
+route_description: This climb is located directly behind the Chockstone Boulders. Follow a trail before or after the huge boulders a couple minutes down the road from Uberfall.  Start on top of the boulder pile right of Jackie, at a thin crack.    P1: The crux moves are right off the deck with pitons as gear.  Angle up and left to a left-facing flake and pull onto the face on the left.  Continue up fun face climbing to a roof with huge holds.  Belay at a bolt anchor. 5.7, 80'.  P2: Follow a dihedral on the left to the top of the cliff. 5.4, 60'.  Descent:  From the top, rappel from the bolted anchor (2015).  It's also possible to walk off via the Uberfall Descent. 
+route_name: Classic  
+route_quality: 0.725 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, 2 pitches, 140' 
+route_url: /v/classic/105812947 
+

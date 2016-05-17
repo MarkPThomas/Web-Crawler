@@ -1,0 +1,11 @@
+id: 106823461 
+parent_name: Isosceles Peak 
+parent_url: /v/isosceles-peak/106823458 
+route_description: Climb the central crack and chimney system to the West Summit 
+route_name: West Face  
+route_quality: 0.75 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, Alpine,  Grade II 
+route_url: /v/west-face/106823461 
+

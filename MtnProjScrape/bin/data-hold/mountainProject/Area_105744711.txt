@@ -1,0 +1,10 @@
+area_name: Wind Tower - SW Face Rock Climbing  
+area_url: /v/wind-tower---sw-face/105744711 
+description: This popular rock can be divided in character into its south and southwest face.  The SW face has some of the most frequently climbed routes in Eldorado Canyon and is probably the best area in Eldorado Canyon for those seeking lower end difficulty climbing.  The rock is stellar for the first two pitches of climbs on this face.  Above this the rock has seen less traffic and still has loose rock for the unsuspecting climber.  Famous climbers have been climbing this rock since the early 1950s.  On occasion, you may find yourself face-to-face with a legendary climber soloing on by you as enjoy this rock.   Ultra-classics such as Calypso, 5.6 and Wind Ridge, 5.6 are great for beginners but often have long queues, please be patient.  Pitch 3 of Wind Ridge has one of the most interesting roofs in all of Eldorado Canyon.  Other good lines include Breezy, 5.4; The Bomb, 5.4; Boulder Direct, 5.5; the irascible Tigger, 5.5; Recon, 5.6; Reggae, 5.8; Wind Tower Slab, 5.9 TR; the slippery Tagger, 5.10b/c; and the impressive Salvation, 5.12a/b s.  Note, that according to Park statistics, Calypso is one of the most hazardous routes in the park, so protect it well. 
+getting_there: The approach takes an arduous 5 min. from the parking lot.  Take the bridge across S. Boulder Creek, then take the marked path up to the wall. Please stay on the path since it is well built to minimize erosion and rock slide.  
+id: 105744711 
+latitude: 39.9315 
+longitude:  -105.283  
+parent_name: The Wind Tower 
+parent_url: /v/the-wind-tower/105807505 
+

@@ -1,0 +1,10 @@
+area_name: Snowpatch Spire Rock Climbing  
+area_url: /v/snowpatch-spire/105868064 
+description: The impressive Snowpatch Spire is the most obvious spire when entering the Bugaboo's.  It stands just to the west of Applebee campground and is host to over 50 routes from 5.8 to 5.12.  The largest wall on Snowpatch is the east face with routes ranging from 12 to 15 pitches and almost all of them being big wall in nature.  The south, west and north faces boast numerous classic free routes such as the popular Snowpatch, Surfs Up, Kraus-McCarthy and Sunshine Crack.  Snowpatch Spire is also the most difficult spire to climb with no routes to the top rated under 5.8.      
+getting_there: All routes on the west face are approached via the Bugaboo-Snowpatch Col located on the north end of Snowpatch Spire.  After climbing over the Col walk south to your desired route.  For routes on the north face follow the trail from the campground or hut toward the Col and north face is to your left once your in the Col.  The east face is obvious from the hut and the campground.  The south face is accessed via the Bugaboo Glacier.  There is a trail to the Glacier from the hut, but from the campground its fastest to just scramble over scree straight toward the Glacier.  
+id: 105868064 
+latitude: 50.73667 
+longitude:  -116.78162  
+parent_name: The Bugaboos 
+parent_url: /v/the-bugaboos/105868061 
+

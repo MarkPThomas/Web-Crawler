@@ -1,0 +1,11 @@
+id: 105740480 
+parent_name: Lisa Falls Buttress 
+parent_url: /v/lisa-falls-buttress/105739533 
+route_description: This climbs the right bolted line on the face to the right of the waterfall.  Clip your 1st bolt and make the crux move.  The climbing eases a bit the rest of the way. 
+route_name: Fleeting Glimpse  
+route_quality: 0.475 
+route_rating:  YDS: 5.8+ 
+route_rating_original: YDS: 5.8+ 
+route_type: Sport, 1 pitch, 50' 
+route_url: /v/fleeting-glimpse/105740480 
+

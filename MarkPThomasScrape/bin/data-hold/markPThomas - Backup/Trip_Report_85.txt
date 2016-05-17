@@ -1,0 +1,33 @@
+content: <div dir="ltr">
+<h1>
+<a name="TOC-Sierra-Challenge-2006"></a>Sierra Challenge 2006</h1>
+<br>
+<div>
+<div>
+<hr>
+<hr>
+<h2>
+<a name="TOC-Links"></a>Links</h2>
+<ul>
+<li><a href="http://www.snwburd.com/bob/challenge/2006/">Bob Burd's Sierra Challenge TR &amp; Photos</a></li>
+<li><a href="http://www.snwburd.com/bob/trip_reports/florence_n_2.html">Day 1 TR</a></li>
+<li><a href="http://www.snwburd.com/bob/trip_reports/point_powell_1.html">Day 3 TR</a></li>
+</ul>
+</div>
+<hr>
+<hr>
+<center>
+<a href="http://www.markpthomas.com/mountaineering/trip-reports/california/mt-florence-vogelsang-simmons">Day 1: Mt Florence, Vogelsang, &amp; Simmons</a><br>
+<br>
+<a href="http://www.markpthomas.com/mountaineering/trip-reports/california/pt-powell-pt-wesley-mt-powell">Day 3: Pt Powell, Pt Wesley, Mt Powell</a><br>
+<br>
+<br>
+</center>
+</div>
+</div> 
+page_id: 85 
+page_menu_name: Sierra Challenge (2006) 
+page_url: /mountaineering/trip-reports/california/sierra-challenge-2006 
+title: Sierra Challenge 2006 
+type: Trip_Report 
+

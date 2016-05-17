@@ -1,0 +1,11 @@
+id: 106026182 
+parent_name: 10 - The Cookie Cliff 
+parent_url: /v/10---the-cookie-cliff/105863743 
+route_description: This is the wildly overhanging hand crack on the right side of the cookie. It is in the shade till late in the day which makes it a good climb for warmer days. Climb the steep crack, reaching between good jams. There is huge jug at the top of this section. Straddle this jug for a good rest (this jug gives the climb its name). They say the section up to the jug is about 10c. The crux is actually on the remaining vertical section. Moving from a flared fist to a finger lock. BD No. 4 is useful here.   
+route_name: The Enema  
+route_quality: 0.8 
+route_rating:  YDS: 5.11b 
+route_rating_original: YDS: 5.11b 
+route_type: Trad, 1 pitch, 100' 
+route_url: /v/the-enema/106026182 
+

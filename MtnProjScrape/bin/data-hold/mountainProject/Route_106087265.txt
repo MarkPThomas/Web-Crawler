@@ -1,0 +1,11 @@
+id: 106087265 
+parent_name: Dihedral Rock 
+parent_url: /v/dihedral-rock/105721004 
+route_description: Info courtesy of  Widefetish.com  This is a good route with cool moves low and fine example of squeeze chimney up high.  The various guidebooks (Vogel, Bartlett) have lines all over this crag, none really describing this route. The actual Couldn't Wait is rumored to start on the two bolt face to the right of the pillar, and then wanders back over to the wide. Climb the corner instead of the two bolt face.  Be wary of the fake loose block in the starting corner. You can pro below the block and the moves around it are not hard.  Our crew did the wide right side in and left side in. Pick your poison.  If you have the hips of a Thai crossdresser, you can get right inside the chimney from the get-go and stay in there. If you are more voluptuous, the constriction at the start will force you to the outside.  Descent is off the back heading South to SouthWest down some ledges and ramps.  
+route_name: Couldn't Wait  
+route_quality: 0.5 
+route_rating:  YDS: 5.10a 
+route_rating_original: YDS: 5.10a 
+route_type: Trad, 1 pitch, 60' 
+route_url: /v/couldnt-wait/106087265 
+

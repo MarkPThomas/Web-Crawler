@@ -1,0 +1,10 @@
+area_name: The Watchtower Rock Climbing  
+area_url: /v/the-watchtower/105739380 
+description: The Watchtower is the most popular crag in Ferguson and is the first one you come to.  Most routes are trad with a few good sport routes.  The wall is steep with horizontal seams.  Most routes have good anchors for a single-rope descent, and a few have a steep walk-off to the west.  I've set up Extreme Unction as a top-rope by rapping down from the top of Watchtower Proper which sits above Watchtower, but it's a big hassle.  The wall is rather long and quite large. It has been broken up into four sections, The Main Wall, The Watchtower Proper, The Tiers, and The Cove in an attempt to help navigate.  
+getting_there: This is the first crag you will come to after hiking 15-20 minutes up the canyon from the trailhead on Timberline Drive.  The Watchtower wall comes right down into the stream so you may have to hop some rocks to keep your feet dry when the stream is high.  The steep gully on the right (west) end that you come to first is the walk-off for some of the first routes.  The routes are numbered west to east along the wall. 
+id: 105739380 
+latitude: 40.61344 
+longitude:  -111.7792  
+parent_name: Ferguson Canyon 
+parent_url: /v/ferguson-canyon/105739289 
+

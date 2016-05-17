@@ -1,0 +1,11 @@
+id: 106001260 
+parent_name: Snowpatch Spire 
+parent_url: /v/snowpatch-spire/105868064 
+route_description:  
+route_name:  Wiessner's Route (aka SE Corner)  
+route_quality: 0.875 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.7 
+route_type: Trad, Alpine, 17 pitches, 1500',  Grade IV 
+route_url: /v/-wiessners-route-aka-se-corner/106001260 
+

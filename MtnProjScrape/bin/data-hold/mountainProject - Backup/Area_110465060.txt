@@ -1,0 +1,10 @@
+area_name:  5 - Short Circuit Boulder Rock Climbing  
+area_url: /v/-5---short-circuit-boulder/110465060 
+description: A boulder with the namesake route on its downstream side.  The location is approximate, a best guess from the text description. 
+getting_there: A short distance upstream from Arch Rock Entrance Station parking area, on an island. 
+id: 110465060 
+latitude: 37.68808 
+longitude:  -119.72894  
+parent_name: Lower Merced River Canyon 
+parent_url: /v/lower-merced-river-canyon/110464982 
+

@@ -1,0 +1,10 @@
+area_name: Pentapitch Area Rock Climbing  
+area_url: /v/pentapitch-area/105739356 
+description: Popular on hot mornings as this crag offers nice northwest-facing climbs.  Fine Yosemite-like granite and several stellar multi-pitch climbs.  Mostly trad but a few sport routes in the .11 - .12 range.  Don't miss Pentapitch and Sasquatch! 
+getting_there: The Pentapitch area is on the south side of the canyon. The directions in the Ruckman guide (as well as older comments below) are wrong since a bridge by the pumphouse washed out.  After passing the pumphouse, continue driving up canyon. Just past Gate B, watch for the pullout and gated dirt road on the right.  Park at the pullout. Scoot around the chain-link gate and continue along the road going east for about 0.1mi. The road will turn down towards the creek (south). Follow for another few hundred feet to a nice wooden bridge over the creek.  Cross the bridge, and you are now on a doubletrack mtn bike trail. The trail immediately turns right (going west). Follow it for about 0.25mi, passing a giant split boulder on your right until you come to two obvious giant pine trees (see photo) off the right side of the trail. To your left will be an obvious path with stone steps. It will likely be muddy and might have a small stream running down it (see photo).  Follow the trail a short ways to a talus field. Skirt the right side of the field. At the far right corner of the field pick up a short trail (100ft) that goes straight up to the base of Pentapitch.  Approach time is about 20 minutes. 
+id: 105739356 
+latitude: 40.56859 
+longitude:  -111.73767  
+parent_name: Little Cottonwood Canyon 
+parent_url: /v/little-cottonwood-canyon/105739277 
+

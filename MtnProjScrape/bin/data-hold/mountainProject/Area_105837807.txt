@@ -1,0 +1,10 @@
+area_name: Foundry, The Rock Climbing  
+area_url: /v/foundry-the/105837807 
+description: This is a complex formation directly west of Intersection Rock.  Much of it is broken rock, but there is a smoother section near its north end, and most of the listed routes are on this wall. 
+getting_there: Walk west across the road from Intersection Rock.  You can also easily access it from the road leading to Turtle Rock.  It's just north of the road, about 200 yards from the main park road. 
+id: 105837807 
+latitude: 34.0148 
+longitude:  -116.1664  
+parent_name: Roadside Rocks 
+parent_url: /v/roadside-rocks/105720609 
+

@@ -1,0 +1,10 @@
+area_name: Supercrack Buttress Rock Climbing  
+area_url: /v/supercrack-buttress/105716946 
+description: Supercrack Buttress is probably the most popular/crowded area at Indian Creek.  Some of the most famous cracks in the desert are here - Supercrack, Incredible Handcrack, Coyne Crack, etc.  Expect stellar climbing with good protection and a casual approach, but don't expect solitude.  If you are looking for solitude, please don't cross the road in search of it.  There is no access to the cliffs across the road without trespassing! 
+getting_there: From the main parking area about 4 miles past Newspaper Rock, Supercrack Buttress will be obvious.  Follow a well worn trail to the base, and look for the crowds to mark the start of most routes. 
+id: 105716946 
+latitude: 38.03635 
+longitude:  -109.54552  
+parent_name: Indian Creek 
+parent_url: /v/indian-creek/105716763 
+

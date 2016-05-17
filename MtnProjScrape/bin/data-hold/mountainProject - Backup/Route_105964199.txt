@@ -1,0 +1,11 @@
+id: 105964199 
+parent_name: Glacier Point Apron 
+parent_url: /v/glacier-point-apron/105862612 
+route_description: An easy start leads to a wild and improbable second pitch.  This climb is located immediately left of the Grack Center route.  The best start is  on the very large platform left of the Grack gully/dihedral, because a 60 meter rope won't reach the P1 belay from the bottom of the Grack gully/dihedral (unless you simul-climb 25 feet).  P1 - Shares much of the same crack as the Grack Center.  Head up a gentle left facing dihedral to the bushy eucalyptus tree with slings & rappel rings.  Traverse one move right into a crack about 50 feet before the tree (5.6), or head directly to the tree and straight up a jagged hand crack (5.5).  190 feet.  P2  Gently climb through the eucalyptus tree and up a steep/slightly overhanging left facing dihedral (5.7).  A final tricky mantel move, which will definitely get your attention, gets you out of the dihedral and onto 4th class terrain.  Head up and right to a large block with runners for the belay.  140 feet. 
+route_name: The Grack - Left Side  
+route_quality: 0.45 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, 2 pitches, 330' 
+route_url: /v/the-grack---left-side/105964199 
+

@@ -1,0 +1,11 @@
+id: 105887571 
+parent_name: Sandy Corridor 
+parent_url: /v/sandy-corridor/105887566 
+route_description: Chrysler Crack is a classic off-width romp located high over the Sandstone Quarry with a beautiful splitter crack in a dihedral and two featureless faces. In the first half of the climb you can choose to lieback the crack or employ off-width jamming and in the second half the crack is wide enough to chimney. Walk off left. 
+route_name: Chrysler Crack  
+route_quality: 0.925 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 1 pitch, 90' 
+route_url: /v/chrysler-crack/105887571 
+

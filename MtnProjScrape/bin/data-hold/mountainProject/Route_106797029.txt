@@ -1,0 +1,11 @@
+id: 106797029 
+parent_name: White Cliffs of Dover - Left Side 
+parent_url: /v/white-cliffs-of-dover---left-side/107173716 
+route_description: Climb the chimney 25' left of Popular Mechanics then the awkward hand crack above. 
+route_name: Wilted Flower Children  
+route_quality: 0.4 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 1 pitch, 70' 
+route_url: /v/wilted-flower-children/106797029 
+

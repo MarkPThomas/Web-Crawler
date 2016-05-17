@@ -1,0 +1,11 @@
+id: 105836052 
+parent_name: Stately Pleasure Dome 
+parent_url: /v/stately-pleasure-dome/105835737 
+route_description: A fun and unique route, with the rare chance for the some well-protected bolt clipping in the second pitch.  P1. Start straight up as per West Country, belaying just at the bottom of the MONSTER flake.  P2. Climb under, then through the flake.  There's very little pro in there, but it's really easy and you won't go far with a fall.  Exit the flake in about 80 feet, where there are two bolts (optional belay).  Best to clip one of the bolts and keep going - clinging up the side to the top of the flake.  Belay on top from two bolts.  P3. A nice long face climb past 9 bolts to a 3 bolt belay.  Some of the bolts look a little old.  P4. A short runout face rejoins West Country on it's final pitch.  Undercling an overlap until the crack runs out and the angle gets low. 
+route_name: Hermaphrodite Flake  
+route_quality: 0.7 
+route_rating:  YDS: 5.6 
+route_rating_original: YDS: 5.8 
+route_type: Trad, Alpine, 4 pitches, 400' 
+route_url: /v/hermaphrodite-flake/105836052 
+

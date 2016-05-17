@@ -1,0 +1,16 @@
+additional_info: <td valign="center" class="srch_results_rht" style="font-size: 10px; color: #5C5C5C;">
+            <b>Location:</b> 
+                          California, 
+                          United States, 
+                    North America
+            
+                                                                                                                                                                                                                                                                                                <br><b>Last Edited:</b> 
+        Feb 27, 2012  
+      </td> 
+elevation: 14242 
+img_url: /images/avatars/816.jpg 
+parents: California 14ers 
+parents_url: /california-14ers/170899 
+result_title: North Palisade 
+result_url: /north-palisade/150406 
+

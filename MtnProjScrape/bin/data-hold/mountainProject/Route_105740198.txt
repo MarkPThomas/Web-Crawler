@@ -1,0 +1,11 @@
+id: 105740198 
+parent_name: Narcolepsy Area 
+parent_url: /v/narcolepsy-area/105739449 
+route_description: This climbs the right crack in the deep chimney, staying right of the prow.  The climb is easy, protects well, and is enjoyable.   
+route_name: Narcosis  
+route_quality: 0.475 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, TR, 1 pitch, 60' 
+route_url: /v/narcosis/105740198 
+

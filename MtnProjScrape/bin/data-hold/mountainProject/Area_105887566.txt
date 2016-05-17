@@ -1,0 +1,10 @@
+area_name: Sandy Corridor Rock Climbing  
+area_url: /v/sandy-corridor/105887566 
+description: Sandy Corridor is a quite scenic box canyon located close to the parking lot of Sandstone Quarry. It is mostly the realm of tough sport routes but it is also the home to a classic splitter off-width, Chrysler Crack. 
+getting_there: Sandy Corridor is the first canyon that you'll see on your right as you head north out of the parking lot, just past the quarried blocks. The mouth of the corridor lies about 150 yards from the lot. 
+id: 105887566 
+latitude: 36.16412 
+longitude:  -115.44943  
+parent_name: Sandstone Quarry 
+parent_url: /v/sandstone-quarry/105731956 
+

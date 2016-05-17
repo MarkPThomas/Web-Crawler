@@ -1,0 +1,10 @@
+area_name: Pingora Rock Climbing  
+area_url: /v/pingora/105826738 
+description: The most sought-after summit in the Cirque of the Towers, along with Wolf's Head.  This is probably due to its listing in 50 Classic Climbs.  Home of the classic Northeast Face route and several other fun moderates.  Summitpost.org has excellent information on Pingora. 
+getting_there: People with recent experience climbing on Pingora, please feel free to add information on approaches, descents, etc. 
+id: 105826738 
+latitude: 42.7789 
+longitude:  -109.226  
+parent_name: Cirque of the Towers 
+parent_url: /v/cirque-of-the-towers/105826735 
+

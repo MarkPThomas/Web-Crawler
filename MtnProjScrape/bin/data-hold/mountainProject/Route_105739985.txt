@@ -1,0 +1,11 @@
+id: 105739985 
+parent_name: Crescent Crack Buttress 
+parent_url: /v/crescent-crack-buttress/105739365 
+route_description: Stem up through the spike from the Crescent Crack Direct variation and clip first bolt.  The crux here is to not pull on the draw and do the cool mantle onto the slab.  Clip next bolt then set up belay at the two bolts.  Beautiful slab that wanders a bit left and right.  runners could be helpful on a few of the bolts to reduce rope drag.  If done as the finish to Crescent Crack this route has it all. 
+route_name: Final Link  
+route_quality: 0.775 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 120' 
+route_url: /v/final-link/105739985 
+

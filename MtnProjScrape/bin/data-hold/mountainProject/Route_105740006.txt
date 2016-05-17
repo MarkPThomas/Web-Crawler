@@ -1,0 +1,11 @@
+id: 105740006 
+parent_name: The Dead Snag 
+parent_url: /v/the-dead-snag/105739407 
+route_description: Locate the obvious arete that divides the north and east faces of the cliff.  Begin left of the arete.  Pitch 1:Face and crack climb up and over the roof (5.6). Continue up easier, broken rock to belay on good ledge atop pillar below slanted roof.  Pitch 2:Climb up right and follow wide crack left of arete to small belay stance on the arete.  Pitch 3:Face climb up the steep, exposed arete, stay out on the arete as much as possible moving at times from one side to the other when necessary.  After clipping a bolt, I seem to remember that there wasn't much protection above it, so if you see a gear placement opportunity, do not pass it up.  Climb to the top of the arete and belay from the trees on top.  Descent:Follow a path left along the top of the wall until you come to a rappel station.  3 single rope, 80 foot rappels to the ground.   
+route_name: Steorts' Ridge  
+route_quality: 0.85 
+route_rating:  YDS: 5.6 
+route_rating_original: YDS: 5.6 
+route_type: Trad, 3 pitches, 250' 
+route_url: /v/steorts-ridge/105740006 
+

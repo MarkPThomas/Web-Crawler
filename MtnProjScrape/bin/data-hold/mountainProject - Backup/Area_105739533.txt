@@ -1,0 +1,10 @@
+area_name: Lisa Falls Buttress Rock Climbing  
+area_url: /v/lisa-falls-buttress/105739533 
+description: Mainly bolted slab routes on a south facing easy slab.  This is next to a nice year round waterfall (hence the name).  A lot of hikers like to try their hand at amateur climbing here as the rock deceives.  Yet it is here to take a beginner, as they will succeed.  Keep it clean, and help remind others to do the same.  There are two distinct areas.  The main area is slabby and climbs are easy with the exception of the outstanding Sweep Left 5.10b.  The hidden area is to the right and consists of a big roof that most of the climbs either climb or avoid.   
+getting_there: Park 2.8 miles up canyon at big right hand corner.  Hike up the short trail on the North, until you reach the falls. 
+id: 105739533 
+latitude:  
+longitude:  
+parent_name: Lisa Falls 
+parent_url: /v/lisa-falls/106002298 
+

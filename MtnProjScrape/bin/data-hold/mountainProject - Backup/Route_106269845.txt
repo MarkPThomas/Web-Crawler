@@ -1,0 +1,11 @@
+id: 106269845 
+parent_name: Arrowhead Arete 
+parent_url: /v/arrowhead-arete/106103489 
+route_description: Several pitches of fun, moderate climbing that make for a pleasant outing.  The standard pitch count is listed as 7 pitches, but I'm sure you could link many with a 60 or 70m rope.  Four 5.7/5.8 pitches lead to the base of the "Great White Flake".  Continue on 5.6 that turns to 4th class terrain.  Another bit of 5.7 to 4th class, followed by an easy but super-exposed knife edge ridge.  From the summit, rap gully to the west with a single rope.  
+route_name: Arrowhead Arête  
+route_quality: 0.85 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 7 pitches 
+route_url: /v/arrowhead-arte/106269845 
+

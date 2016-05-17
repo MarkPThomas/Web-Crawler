@@ -1,0 +1,10 @@
+area_name: Cathedral Peak Rock Climbing  
+area_url: /v/cathedral-peak/105835696 
+description: One of the most stunning peaks in Yosemite, Cathedral is blessed with some great moderate climbing.  The approach takes about an hour and is long enough from the road and hiking trails to give you a little peace (often to be shared with many climbers - start early).  The summit is a small block big enough for a couple people to squeeze on.  Their might be bolts on the top, but usually not.  Downclimbing off the summit block can be scary, but John Muir did it in 1869, so you can too.  It's a great big lightning rod - get off ASAP if thunder comes your way.  Other than descending, escaping up and right is the usually possible until you get to talus. 
+getting_there: From the Cathedral Lakes trailhead, take the main trail for 10 minutes.  Soon after a set of stone steps look, look for a major climbers trail branching left (see photo).  Do not get suckered into an earlier, smaller path that follows the stream.  Keep on the trail until it fades away near the base Cathedral Peak.  Pick the easiest path to the lowest point of the southeast buttress. 
+id: 105835696 
+latitude: 37.8476 
+longitude:  -119.405  
+parent_name: Cathedral Range 
+parent_url: /v/cathedral-range/108298242 
+

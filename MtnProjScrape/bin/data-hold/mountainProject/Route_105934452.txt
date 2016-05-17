@@ -1,0 +1,11 @@
+id: 105934452 
+parent_name: Crescent Crack Buttress 
+parent_url: /v/crescent-crack-buttress/105739365 
+route_description: Thanks to several recent ascents, this has cleaned up quite a bit.  The rock is still gritty and sharp, but it isn't chossy.  The vegetation has been removed, making for a more pleasant experience.  Climb up the finger crack systems on the right face of the corner.  This is a technically challenging and interesting section that can be made easier towards the top by chimneying in the corner.  Once safely established on the ledge, sink two pieces before making your move on the heady crux.  After all, you don't want to break your ankles.  Once in the midst of the crux, you're ankles are in jeopardy, so have your TCUs handy (my ankles are grateful).  Lieback, barndoor on a sloper up to a stance and reach for a jam.  You're practically done, so hike through the remainder of the crack to the anchors above the bigger ledge.  Don't despair if your head won't let you attempt the crux, you can lead up the corner and try the safer top-rope alternative.  This route is best climbed in groups of three. 
+route_name: 3 Amigos  
+route_quality: 0.6 
+route_rating:  YDS: 5.9+ 
+route_rating_original: YDS: 5.9+ 
+route_type: Trad, 1 pitch, 50' 
+route_url: /v/3-amigos/105934452 
+

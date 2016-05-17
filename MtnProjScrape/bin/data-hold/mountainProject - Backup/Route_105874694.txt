@@ -1,0 +1,11 @@
+id: 105874694 
+parent_name: Church Bowl 
+parent_url: /v/church-bowl/105860381 
+route_description: A 5.7 lieback leads to 5.8 hands (5.9 actually seems more on). After a scary step right, continue up to a ledge. 
+route_name: Black is Brown  
+route_quality: 0.45 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 1 pitch, 145' 
+route_url: /v/black-is-brown/105874694 
+

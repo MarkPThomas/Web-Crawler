@@ -1,0 +1,10 @@
+area_name: Narcolepsy Area Rock Climbing  
+area_url: /v/narcolepsy-area/105739449 
+description: A shady and cool location, just east of JHCOB Wall, with steep and smooth quartzite.  Mostly bolted, with some trad and mixed routes. Most routes have anchors. A lot of great routes exist here, as well as a controversial one that keeps getting chopped.  Aerial photo here. 
+getting_there: Just past JHCOB Wall, hidden by pine trees, resides Narcolepsy.  Two approaches exist:   Scramble up the talus field at the lowest point and angle left to find loose trails, until you attain a gully that scrambles up steeply to the cliffs.  Park at Stairs Gulch and clamber up the steep bank, follow the trail west taking the right fork past Challenge Buttress and continuing west until you reach the gully and then clamber up to gain the cliffs. 
+id: 105739449 
+latitude: 40.6214 
+longitude:  -111.7472  
+parent_name: Big Cottonwood Canyon 
+parent_url: /v/big-cottonwood-canyon/105739280 
+

@@ -1,0 +1,11 @@
+id: 105862930 
+parent_name: Middle Cathedral Rock 
+parent_url: /v/middle-cathedral-rock/105833490 
+route_description: Central Pillar of Frenzy is a super-popular line up the obvious pillar on the lefthand side of Middle Cathedral's northeast face.  There are almost always several parties on, or in line for, this climb because of it's excellent, though perhaps never outstanding, five pitches of sustained crack climbing.  The climb is actually nine pitches, but does anyone bother with the last four?    P1:  Begin in a right-facing corner on the right side of the pillar.  Climb this slick corner to a final difficult move pulling onto the pillar itself.  Belay at bolts.  This pitch is the crux and is 5.9.  P2:  Head left and up a great 5.9 finger crack system to another bolted belay.    P3:  Continue up through a 5.8 roof and then up a 5.8 OW to another belay.  This pitch and the next are probably the best on the route -- save a bigger cam for above the roof.   P4:  Climb sweet twin cracks up to another bolted belay.  5.8.  P5:  Continue up one more pitch (beginning with a chimney) of nice cracks to a final belay.  5.9.  Rap with double ropes down across the face (not over the route) to climber's left.  Another double rope rappel brings you to an anchor on the left-hand arete of the pillar, over Bircheff-Williams (The Great Wazoo belay).  Continue with double rope raps down the left-facing corner on the left side of the pillar.  Do not leave food in your packs -- the bears know. 
+route_name: Central Pillar of Frenzy  
+route_quality: 0.95 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 5 pitches 
+route_url: /v/central-pillar-of-frenzy/105862930 
+

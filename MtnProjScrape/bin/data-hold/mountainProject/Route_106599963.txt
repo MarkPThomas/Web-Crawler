@@ -1,0 +1,11 @@
+id: 106599963 
+parent_name: The Wall 
+parent_url: /v/the-wall/105854200 
+route_description: This flawless splitter starts as a tight finger crack, and ends as a #3 big bro after 110' of gradually widening.   If it wasn't in the middle of nowhere, it'd probably be a mega-classic. Despite its remote location, it is well worth the hike, and will not disappoint.  
+route_name: Big Lady  
+route_quality: 1.0 
+route_rating:  YDS: 5.11- 
+route_rating_original: YDS: 5.11- 
+route_type: Trad, 110' 
+route_url: /v/big-lady/106599963 
+

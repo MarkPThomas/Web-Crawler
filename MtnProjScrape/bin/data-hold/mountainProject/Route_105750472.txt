@@ -1,0 +1,11 @@
+id: 105750472 
+parent_name: Wind Tower - SW Face 
+parent_url: /v/wind-tower---sw-face/105744711 
+route_description: Getting to the climb:  Hike across the bridge to the Wind Tower trail, marked by a sign that shows falling rock.  Continue north and uphill along this trail and go around the start of Wind Ridge to the north side of Wind Tower.   There are two starts to Breezy:  The 5.6 start ascends a dihedral that is sometimes used as the start to Wind Ridge.  To the left of this dihedral, the 5.5 start is at the base of a rock scramble below a skinny juniper tree.  P1:  Ascend boulders past the skinny juniper tree.  Just above the tree, put in a directional piece of pro (an alien works well) and do a hand-traverse right on a thin ledge, then scramble up  on a boulder.  A second hand-traverse and scramble up will give you access to a west-facing crack system, and here you can  see the belay ledge for Wind Ridge.  Go left around the corner and up cracks and boulders about 15 feet to the first belay, which is marked by a short, twisted juniper tree.  P2: Follow the west-facing crack system up.  Climb up to a thin ledge, then hand-traverse left on thin edges and crystals for your feet.  Clamber up to a hand-crack on the left and a  finger-crack on the right.  A Friend was stuck tight in the finger-crack when we were there, and made for a quick clip-in. Jam and stem your way up, and choose between a narrow chimney jammed full of chockstones on the left, or a clean face & dihedral on your right.  The chockstones make for easier climbing and easy natural pro, but possible rockfall!  Scramble up and over one last clean move to reach the walk-off top.  Wrap a big cordelette or 20' webbing around the boulders at the top to start your anchor, back it up with cams / hexes, and belay your second up!  The descent is a walk-off down the well used trail.  Careful of loose rock and dirt on the ledges, and be ready to put inexperienced climbers on belay if the descent is a little scary.  A fun, mixed climb with great pro.  This climb is often in the shade, so bring a jacket in the evening.  Really be careful of loose rock on this side of the Wind Tower. 
+route_name: Breezy  
+route_quality: 0.575 
+route_rating:  YDS: 5.5 
+route_rating_original: YDS: 5.5 
+route_type: Trad, 2 pitches, 160' 
+route_url: /v/breezy/105750472 
+

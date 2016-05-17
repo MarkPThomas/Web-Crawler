@@ -1,0 +1,10 @@
+area_name: BC's Canadian Rockies Rock Climbing  
+area_url: /v/bcs-canadian-rockies/106984138 
+description:  
+getting_there:  
+id: 106984138 
+latitude: 51.34009 
+longitude:  -116.99479  
+parent_name: British Columbia 
+parent_url: /v/british-columbia/105946429 
+

@@ -1,0 +1,10 @@
+area_name: Fisher Towers Rock Climbing  
+area_url: /v/fisher-towers/105716787 
+description: The Fisher Towers is one of the most difficult places in the desert to climb, but also one of the most spectacular.  The towers are huge soaring fins of mud up to 1000 feet high.  Nearly all the routes on the major towers are at least Grade IVs, and there is more than one Grade VI here.  The Fishers have a lot of history.  Shortly after making the first ascent of Castleton, Layton Kor came here to climb the largest tower, the Titan.  The extremely difficult ascent of the Finger of Fate route was the subject of a National Geographic article, and is one of the 50 Classic Climbs of North America.  After Kor climbed the Titan, Harvey Carter dominated the scene by making first ascents of every other major tower and most of the smaller ones.   The Cutler sandstone is actually very hard, but doesn't fracture into continuous crack systems like most other sandstone.  The rock is also covered with a thick layer of mud, which makes the climbing dirty, loose, difficult, and sometimes very dangerous.  The caprock for the towers is Moenkopi.  Stolen Chimney on the corkscrew summit of Ancient Art is by far the most popular route here, and at 5.9 A1 the only real moderate route.  The Colorado NE Ridge of the Kingfisher, Phantom Spirit on Echo Tower, and the Finger of Fate route on the Titan are all fairly popular and increasingly difficult.  Some of the hardest routes in the desert are here, many put up solo by Jim Beyer.  Stevie Haston has freed Echo Tower as a long scary 5.12 and nearly freed the Titan. 
+getting_there: From Moab, drive north on the River Road(SH 128) past Castle Valley to the Fisher Towers turnoff sign(about 27 miles).  Drive to the parking lot at the end of the road.  All routes are accessed via the Titan Trail, which is quite good and well marked, though it can be hard to follow in the dark. 
+id: 105716787 
+latitude: 38.724 
+longitude:  -109.3083  
+parent_name: Moab Area 
+parent_url: /v/moab-area/105716711 
+

@@ -1,0 +1,11 @@
+id: 105930169 
+parent_name: The Sentinel - West Face 
+parent_url: /v/the-sentinel---west-face/106621111 
+route_description: The crux is near the top at the final chimney section.  Some of the rock is loose and you will pour pebbles out of the chimney on your way up.  Also, there is a large flake in the chimney about 2/3 of the way up that is expanding and could get ripped out.  Watch out for that.  It's near the section where everything sounds hollow and you pray you don't fall on your gear.  This end of Sentinel is a bit chossy.  Illusion Dweller end is by far much better. 
+route_name: Where Janitors Dare  
+route_quality: 0.55 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, 1 pitch, 80' 
+route_url: /v/where-janitors-dare/105930169 
+

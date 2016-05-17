@@ -1,0 +1,11 @@
+id: 105717364 
+parent_name: Supercrack Buttress 
+parent_url: /v/supercrack-buttress/105716946 
+route_description: This route is, well, super.  Climb up the side of the detached flake (1.5 or 2 Friend) through the awkward crux (maybe 10c) to a top-of-the-flake ledge right below the crack.  Although decent gear is available, groundfalls have occurred here, so heads-up.  Climb the crack (sustained 5.9) for 80 feet, past the roof to a bolted anchor.  While I typically don't like to give away the detailed beta, I'll make an exception here:  hand jam, foot jam, hand jam, foot jam ...  The crack widens a bit for the last 15 feet, so depending on the size of your mitts, you may have to revise this beta to include a cupped hand or two, and maybe even a fist.   A 60m rope will just barely reach from the anchor for the rappel/TR.  While it probably goes without saying, TR through draws and not the anchor. 
+route_name: Supercrack of the Desert  
+route_quality: 0.95 
+route_rating:  YDS: 5.10 
+route_rating_original: YDS: 5.10 
+route_type: Trad, 3 pitches 
+route_url: /v/supercrack-of-the-desert/105717364 
+

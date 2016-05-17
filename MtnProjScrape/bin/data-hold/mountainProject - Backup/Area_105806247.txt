@@ -1,0 +1,10 @@
+area_name: The Wart Rock Climbing  
+area_url: /v/the-wart/105806247 
+description:  
+getting_there: In Real Hidden Valley along the loop trail as approaching Sports Challenge Rock, on the righthand side. 
+id: 105806247 
+latitude: 34.01408 
+longitude:  -116.16819  
+parent_name: Real Hidden Valley 
+parent_url: /v/real-hidden-valley/105720636 
+

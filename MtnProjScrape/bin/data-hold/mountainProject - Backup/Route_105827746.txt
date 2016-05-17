@@ -1,0 +1,11 @@
+id: 105827746 
+parent_name: Pingora 
+parent_url: /v/pingora/105826738 
+route_description: A nice little route with two really nice pitches.  This description is for the 5.8 variation, but the route goes at 5.6 also.  P1: After the 4th class scramble to the start, climb a nice r-facing corner system for a long pitch (maybe some simul climbing is necessary) to a little perch at the foot of a clean wall with a crack that splits.  (5.7, 200ft)  P2: For the 5.6 variation head left to a dihedral.  For the 5.8 variation, head straight up the fine crack (wide to start, then hand/finger) and at the split head left.  This sews up and is the best pitch of the route.  P3: Easy scrambling to the top. 
+route_name: South Buttress  
+route_quality: 0.825 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, Alpine, 4 pitches, 500',  Grade II 
+route_url: /v/south-buttress/105827746 
+

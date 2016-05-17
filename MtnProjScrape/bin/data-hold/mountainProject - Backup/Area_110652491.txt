@@ -1,0 +1,10 @@
+area_name: DAFF Area Rock Climbing  
+area_url: /v/daff-area/110652491 
+description: D.A.F.F. is an acronym for the Dome Across From Fairview. This area includes a few other established walls and domes near to the dome itself. They all include the same parking area and first few dozen yards of approach trails. 
+getting_there: Park on dirt pullouts on the north side of the road where Cathedral Creek goes under highway 120 (I believe it's a tunnel, not a bridge, so it's easy to miss the first time). This is just west of Fairview Dome about half way between Tenaya Lake and the Tuolumne Meadows General Store.  From the side of the road, follow a ducked dirt trail northeast to cross the creek. For Daff Dome and nearby areas, keep going away from the road.  For the River Wall, Dark Side Dome, Hammer Dome and other areas approached downstream along Cathedral Creek, take the first left turn at a trail junction, keeping near the water. 
+id: 110652491 
+latitude: 37.87671 
+longitude:  -119.41692  
+parent_name: Tuolumne Meadows 
+parent_url: /v/tuolumne-meadows/105833384 
+

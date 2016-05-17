@@ -1,0 +1,11 @@
+id: 106269907 
+parent_name: Church Bowl 
+parent_url: /v/church-bowl/105860381 
+route_description: A good beginner climb.  The mighty 5.4 crux comes low down, with 4th class / easy 5th above.  Rap or downclimb. 
+route_name: Aunt Fanny's Pantry  
+route_quality: 0.375 
+route_rating:  YDS: 5.4 
+route_rating_original: YDS: 5.4 
+route_type: Trad, 1 pitch 
+route_url: /v/aunt-fannys-pantry/106269907 
+

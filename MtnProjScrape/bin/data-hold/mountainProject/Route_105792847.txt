@@ -1,0 +1,11 @@
+id: 105792847 
+parent_name: Castle Rock 
+parent_url: /v/castle-rock/105790784 
+route_description: This is the steep face left of the Midway chimney.  Climb steep terrain to a bulge midway up the face.  After pulling through the bulge, the difficulties ease.  The climbing and the gear are both better than they look from the ground.  Belay from bolts on top of Jello Tower (shared by all Jello Tower routes).  Consistently fun and interesting 5.8+ moves the whole way. 
+route_name: South Face, Jello Tower  
+route_quality: 0.725 
+route_rating:  YDS: 5.8+ 
+route_rating_original: YDS: 5.8+ 
+route_type: Trad, 1 pitch, 80' 
+route_url: /v/south-face-jello-tower/105792847 
+

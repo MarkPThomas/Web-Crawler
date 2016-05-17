@@ -1,0 +1,11 @@
+id: 106451171 
+parent_name: Lower Brother 
+parent_url: /v/lower-brother/105986637 
+route_description: Characterized by a difficult approach and longish descent with three great pitches of roped climbing this climb is an off the beaten track, classic Yosemite adventure climb.  Approach by walking up and right from the toe of Lower Brother, taking a left at the first major ramp system.  From here 250 feet of scrambling (some 4th or maybe easy 5th) will take you to the base of the route.  P1: Two options, a 5.7 exciting chimney or a 5.9 flake, we took the chimney and weren't disappointed.  Belay at the highest ledge at the base of a perfect thin hands splitter.  P2: Climb the excellent splitter.  Pass an old bolt casing (optional belay) and continue up the left facing corner.  Lots of hands to off hands with an awkward bulge/horn to pass on this part of the pitch.  Belay at a nice ledge with trees after 175 feet.  P3: Again a couple options; we continued up the most logical line, the groove to OW corner.  The intimidating OW above isn't too bad with lieback techniques and a 5" piece.  Continue with the chimney above and belay on another comfortable ledge.   
+route_name: Absolutely Free, Center  
+route_quality: 0.775 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 3 pitches, 700',  Grade II 
+route_url: /v/absolutely-free-center/106451171 
+

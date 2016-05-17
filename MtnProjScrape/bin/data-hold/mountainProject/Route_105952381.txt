@@ -1,0 +1,11 @@
+id: 105952381 
+parent_name: 18 - Generator Station 
+parent_url: /v/18---generator-station/105952378 
+route_description: How is this route not on here yet?  This is the classic "Let's go flail on an off width since we're in Yosemite" climb.  There is literally no approach and it is super easy to TR.  So if you want to try out a 5.10 ow in Yosemite, throw on a toprope and commence struggling.  Most people Ive talked to seem to think the bottom section is the crux but I dont think its too bad if you have some basic leavitation technique.  Transitioning into the squeeze up higher however, is a grunt any way I know to do it. 
+route_name: Generator Crack  
+route_quality: 0.875 
+route_rating:  YDS: 5.10c 
+route_rating_original: YDS: 5.10c 
+route_type: Trad, TR, 60' 
+route_url: /v/generator-crack/105952381 
+

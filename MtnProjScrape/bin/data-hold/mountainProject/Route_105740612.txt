@@ -1,0 +1,11 @@
+id: 105740612 
+parent_name: Narcolepsy Area 
+parent_url: /v/narcolepsy-area/105739449 
+route_description: This climbs the left bolt line on the East face just right of the big chimney system.  The 1st bolt is rather high, but the climb protects well after that.  This is an edging climb that is very fun.  The angle is relaxed enough you almost don't need your hands.  Almost.   
+route_name: Dreamscape  
+route_quality: 0.65 
+route_rating:  YDS: 5.9+ 
+route_rating_original: YDS: 5.9+ 
+route_type: Sport, TR, 1 pitch, 60' 
+route_url: /v/dreamscape/105740612 
+

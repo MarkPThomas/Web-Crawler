@@ -1,0 +1,11 @@
+id: 107075814 
+parent_name: Sandy Corridor 
+parent_url: /v/sandy-corridor/105887566 
+route_description: This irresistible route makes a great introduction to chimney climbing and a great place to practice a variety of chimney climbing techniques. Starts as an offwidth/squeeze chimney and gradually widens until a stem or body bridge technique must be used near the top. 
+route_name: The Wallow  
+route_quality: 0.45 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, TR, 40' 
+route_url: /v/the-wallow/107075814 
+

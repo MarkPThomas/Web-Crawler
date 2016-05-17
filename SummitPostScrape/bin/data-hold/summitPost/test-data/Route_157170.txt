@@ -45,14 +45,14 @@ For current updates contact climbing rangers at Mt. Shasta Ranger Station (530) 
 <td><a href="/game-over/598569/c-157170"><img alt="Game Over!" src="/images/square/598569.jpg"></a></td>
 <td><a href="/final-chute-to-the-sargents-traverse/598579/c-157170"><img alt="Final Chute to the Sargents Traverse" src="/images/square/598579.jpg"></a></td>
 </tr>
-<tr><td colspan="7" align="center">[ <a href="/green-butte-ridge/images/p-157170">View Gallery - 46 More Images</a> ]</td></tr>
+<tr><td colspan="7" align="center">[ <a href="/green-butte-ridge/images/p-157170">View Gallery - 47 More Images</a> ]</td></tr>
 </table></div>
             </article> 
 date:  
 difficulty: Grade II - Class 3/35-55 degree slopes 
 elevation:  
 grade:  
-hits: 22756  
+hits: 22760  
 id: 157170 
 latitude: 41.4094 
 location: California, United States, North America 
@@ -60,7 +60,7 @@ longitude: -122.1939
 my_route_quality:  
 name: Green Butte Ridge 
 number_of_pitches:  
-page_url: http://www.summitpost.org/green-butte-ridge/157170 
+page_url: /green-butte-ridge/157170 
 parent_code: 150188 
 parent_name: Mount Shasta 
 parent_url: /mount-shasta/150188 

@@ -1,0 +1,11 @@
+id: 106674255 
+parent_name: Elephant Butte 
+parent_url: /v/elephant-butte/105957116 
+route_description: Hike past Owl Rock and into the drainage on the south side of Elephant Butte.  Look for a rubble filled gully leading up between two fins (see photos) and head up into it.  As it narrows and ends, you will see a small fin that comes down. Climb the fin and continue up into the next meadow.  Leave the meadow on the right and follow a bowl up as it steepens and dead-ends at a short wall.  This wall is the crux and can be climbed on either the left or right side at about 5.3-5.4.    Once above the wall follow the steep sandstone down to the left until you see five bolt hangers that aren't visible from above.  Rappel down and scramble into the lower valley.   From here, turn towards the summit and scramble up class 3/4 sandstone slabs up towards it.  Angle right as you ascend and look sharp for a cairn marking a weakness in the upper cliffs.  Once above the short cliff, climb up and find a short scramble that puts you on the summit plateau.  To descend:  As you descend the slabs down towards the valley the first rappel put you in, aim for a small pinnacle straight below (see photos).  Follow the gully next to the pinnacle down until it cliffs out.  There are three old pitons that can be used for a final free hanging rappel down.  From there simply hike down the gully, take a right and head back to the car and don't forget to smile about dodging the tourist crowds and climbing a seldom visited summit. 
+route_name: Standard (West Fins)  
+route_quality: 0.85 
+route_rating:  YDS: 5.3 
+route_rating_original: YDS: 5.3 
+route_type: Trad, 1 pitch, 1100' 
+route_url: /v/standard-west-fins/106674255 
+

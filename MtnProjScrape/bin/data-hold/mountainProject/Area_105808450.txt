@@ -1,0 +1,10 @@
+area_name: Gibraltar Rock Rock Climbing  
+area_url: /v/gibraltar-rock/105808450 
+description: When I originally tried to figure out where the route, Four Flying Apaches, was located, I had a pretty difficult time. I had a few friends that had done the route, but nobody seemed to be able to tell me where it was or how to get there...go figure.  Here's my best description...Gibralter Rock is the northern end of the shattered-looking ridge of rock that runs north-south between the Church Spires and Courhouse Butte. Up this rather questionably looking rock is one of the coolest moderate routes in Sedona, Four Flying Apaches aka Sedona Scenic Cruise. 
+getting_there: Parking is at a long skinny pullout a ways north of Bell Rock. There's a sort of blockade/hitching post looking thing on the north end of this pullout. Hike north on the trail until you get to a bridge over a deep wash. Climb down into the wash and head east toward the rock, staying mostly right at the splits in the wash. Grunt up a hill at the end to reach the base of the rock and the route. 
+id: 105808450 
+latitude:  
+longitude:  
+parent_name: Sedona 
+parent_url: /v/sedona/107439475 
+

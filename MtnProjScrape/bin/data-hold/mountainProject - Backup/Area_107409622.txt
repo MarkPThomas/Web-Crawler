@@ -1,0 +1,10 @@
+area_name: Rixon's Pinnacle Rock Climbing  
+area_url: /v/rixons-pinnacle/107409622 
+description: This is the 500ft tall exfoliation slab located along the base of Middle Brother. It has a wide, flat, and brush covered summit. It is located to the left of The Folly and to the right of the Koko Ledge area (the large white slab) which was decimated by rockfall in the 80's.  Like the GPA and the Folly, Rixon's has a notorious reputation as a rockfall zone which scares away most of the crowds. Despite it's 15 minute walk from Camp 4, you will probably have the place to yourself.  Personally I think the rockfall hazard is somewhat overstated, but climb at your own risk. Here's a supertopo thread with some more opinions on the rockfall and some insightful history to boot. supertopo.com/climbers-forum/1... 
+getting_there: Drive (or walk) 0.4 miles past Camp 4. Park at a small turnout whenever you get the chance, then walk for 5 minutes through the forest and up to the base. 
+id: 107409622 
+latitude: 37.73705 
+longitude:  -119.61  
+parent_name: Three Brothers Area 
+parent_url: /v/three-brothers-area/110638278 
+

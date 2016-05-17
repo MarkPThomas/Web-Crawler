@@ -1,0 +1,11 @@
+id: 105833505 
+parent_name: Manure Pile Buttress (aka Ranger Rock) 
+parent_url: /v/manure-pile-buttress-aka-ranger-rock/105833498 
+route_description: Nutcracker is one of the most popular routes in Yosemite. Rarely can one hike to the climb and not find a number of parties on the route. Having said that, it's an excellent route, with clean cracks, good protection and fine climbing!  P1) There are two possible starts. The original, starts up a sort of gully-crack system, heading for a belay above. A 5.9 variation goes up the cool-looking (but seriously slippery!) finger crack that angles right, then up.  P2) Head up a sort of low-angle chimney-crack system and belay above.  P3) Step right to gain a nice crack running up the wall. Climb this to a stance below an overhang above.  P4) Traverse left across to near a tree, then follow the crack to a belay below the infamous mantle move.  P5) Climb up to the corner system above and execute the infamous "mantle move". Continue above in a nice crack that takes you to a flat summit. My personal feeling is that the reputation of this move is a bit overrated. The holds are pretty big and it's over quickly. There are two reasons to make dang sure not to fall, however; the fall would suck and I don't recall the pro placement being completely bomber. Ankles have been shattered on this pitch! Be careful!  Descent: Scramble down off the back-left of the formation and down the gully back to the base. 
+route_name: Nutcracker  
+route_quality: 0.9 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 5 pitches, 500' 
+route_url: /v/nutcracker/105833505 
+

@@ -1,0 +1,11 @@
+id: 106712983 
+parent_name: Flying Buttress 
+parent_url: /v/flying-buttress/105906581 
+route_description: This is a great route up a huge corner then out an equally huge roof.  If MP.com had an option to rate this 5.9+++ I would have rated it so.  It gets shade in the am & a mix of sun & shade in the pm.  Most people only do the first 3 pitches then rap, which is what we did.  As the guidebook says: "If you are going to the top make sure your affairs are in order."  If anyone here has climbed all the way to the top please contribute the info.    P1: Start up easier ground through some loose rock to good rock in a nice corner.  Ascend corner to a gear belay on a ledge. (5.9+)  P2: Continue up corner to a bolted belay just a bit before the roof. (5.9)  It MIGHT be possible to link the first 2 pitches with a 70m rope, lots of slings, and a strong leader.  P3: Continue up a short bit to the huge roof.  Traverse right for forever to an awkward but good rest in a big pod, then continue right some more to the lip.  Pull around the lip (#4 Camalot) then up cracks for another 20-30' to a bolted anchor. (5.9+) 
+route_name: Epitaph  
+route_quality: 0.85 
+route_rating:  YDS: 5.10a 
+route_rating_original: YDS: 5.9+ 
+route_type: Trad, 3 pitches 
+route_url: /v/epitaph/106712983 
+

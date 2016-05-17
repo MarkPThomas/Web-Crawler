@@ -1,0 +1,11 @@
+id: 105722713 
+parent_name: White Cliffs of Dover - Left Side 
+parent_url: /v/white-cliffs-of-dover---left-side/107173716 
+route_description: 100' or so down and left from Popular Mechanics. Start up a hand and fist crack to easier terrain and then the top of a pinnacle, step right across a void and into a thin crack and some flakes to the top of the pitch. Definitely worth doing if in the area and on good rock but not as classic as Popular Mechanics or Ace of Spades. 
+route_name: Jack of Hearts  
+route_quality: 0.425 
+route_rating:  YDS: 5.9+ 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 1 pitch, 100' 
+route_url: /v/jack-of-hearts/105722713 
+

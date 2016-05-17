@@ -1,0 +1,10 @@
+area_name: Onion Creek Rock Climbing  
+area_url: /v/onion-creek/105716766 
+description: Onion Creek is a small complicated area of Cutler sandstone towers and walls.  Most of the activity here is on the Hindu, the Mongoose, and Sari - a cluster of three towers right next to Onion Creek Road.  There are also many walls and towers along the slot canyon leading to the mystery towers which sport some fixed anchors and have a great deal of new route potential.  As with all areas on Cutler, be wary of loose rock, bad anchors, and scary free climbing.   
+getting_there: The Onion Creek Road is in between the turnoff to Castle Valley and the Fisher Towers on River Road(SH 128).  The turnoff is about 22 miles northeast of Moab.  There is great free camping along Onion Creek Road on designated BLM sites.  The Hindu, Mongoose, and Sari will be obvious on the right side of the road after many creek crossings, and the slot canyon leading to the Mystery Towers is not far past this point.  The road is rough but passable for passenger cars most of the time-if the road is wet or icy 4WD is a good idea. 
+id: 105716766 
+latitude: 38.6962 
+longitude:  -109.3137  
+parent_name: Moab Area 
+parent_url: /v/moab-area/105716711 
+

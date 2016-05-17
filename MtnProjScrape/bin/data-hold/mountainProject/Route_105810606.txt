@@ -1,0 +1,11 @@
+id: 105810606 
+parent_name: East Wall 
+parent_url: /v/east-wall/105734270 
+route_description: A better and more challenging first pitch for Haystack. You can use this route to gain the main ledge where you can finish on any number of routes or continue walking left along the ledge and walk off the 3rd class decent. Also a great first pitch to East Corner. It has a few patches of grass but nothing too bad.  
+route_name: Preparation H  
+route_quality: 0.75 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 130' 
+route_url: /v/preparation-h/105810606 
+

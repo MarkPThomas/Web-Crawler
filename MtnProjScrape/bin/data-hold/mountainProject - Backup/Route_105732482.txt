@@ -1,0 +1,11 @@
+id: 105732482 
+parent_name: Yin and Yang Cliff 
+parent_url: /v/yin-and-yang-cliff/105732105 
+route_description: The nice vertical handcrack on the right side of the crag.  A classic shorty. 
+route_name: Atman  
+route_quality: 0.75 
+route_rating:  YDS: 5.10a 
+route_rating_original: YDS: 5.10a 
+route_type: Trad, 1 pitch, 40' 
+route_url: /v/atman/105732482 
+

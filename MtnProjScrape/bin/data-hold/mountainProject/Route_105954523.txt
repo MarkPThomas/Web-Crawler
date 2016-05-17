@@ -1,0 +1,11 @@
+id: 105954523 
+parent_name: The Three Gossips 
+parent_url: /v/the-three-gossips/105716922 
+route_description: Climbs the east face via thin cracks. 
+route_name: Speak  No Evil  
+route_quality: 0.5 
+route_rating:  YDS: 5.10 C2 
+route_rating_original: YDS: 5.10 C2 
+route_type: Trad, Aid, 4 pitches, 350',  Grade III 
+route_url: /v/speak-no-evil/105954523 
+

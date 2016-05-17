@@ -1,0 +1,11 @@
+id: 105740393 
+parent_name: Watchtower Main 
+parent_url: /v/watchtower-main/106632718 
+route_description: This climbs the big chimney to the right of the classic Extreme Unction.  Not bad for a chimney, with the exit move being the so-called crux.  A good approach to the top. 
+route_name: Outer Darkness  
+route_quality: 0.425 
+route_rating:  YDS: 5.3 
+route_rating_original: YDS: 5.3 
+route_type: Trad, 1 pitch, 50' 
+route_url: /v/outer-darkness/105740393 
+

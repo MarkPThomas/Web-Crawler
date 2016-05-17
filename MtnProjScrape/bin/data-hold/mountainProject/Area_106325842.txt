@@ -1,0 +1,10 @@
+area_name: Sports Challenge Rock Rock Climbing  
+area_url: /v/sports-challenge-rock/106325842 
+description: This formation is, by its position and merit, the centerpiece of the Real Hidden Valley. There are more routes with stars to be done on the various faces of this wall than on most other formations in the area. The variety of climbing alone is remarkable with cracks, faces, overhangs, roofs and even a girdle traverse to be done.  The routes are generally on solid, chocolate-colored stone and with routes facing all directions there is always something in or out of the sun depending upon the temperature. The fixed anchors on top can easily be reached from above by almost any of the routes for a rap to the ground. Note: Vogel's 1992 guide has a picture of the west face (page 154) that's numbered incorrectly by eleven.  Classics here include the popular and thinly protected Sphincter Quits (5.9), the thuggy Clean and Jerk (5.10c), the tenuous What's It To You (5.10d) and the classic-looking Leave It To Beaver (5.12a). 
+getting_there: Enter the Real Hidden Valley via the south and look for a huge grey and tan bulbous rock in the center of the loop trail. Approach via a well-worn trail from the south, which splits to go to the east face (right) or west face (left). Some easy scrambling is required to reach the base of a few of the routes.  Please do not shortcut the trails here, as the pressure of too many people doing so is harder than necessary on the desert plant life; there is no shortage of established trails to follow.  
+id: 106325842 
+latitude: 34.014 
+longitude:  -116.1692  
+parent_name: Real Hidden Valley 
+parent_url: /v/real-hidden-valley/105720636 
+

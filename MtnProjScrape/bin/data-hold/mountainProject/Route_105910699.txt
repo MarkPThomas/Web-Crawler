@@ -1,0 +1,11 @@
+id: 105910699 
+parent_name: Middle Spire 
+parent_url: /v/middle-spire/105734537 
+route_description: Climb the lovely chimney on the west face. 
+route_name: Harding's Other Chimney  
+route_quality: 0.425 
+route_rating:  YDS: 5.6 
+route_rating_original: YDS: 5.6 
+route_type: Trad 
+route_url: /v/hardings-other-chimney/105910699 
+

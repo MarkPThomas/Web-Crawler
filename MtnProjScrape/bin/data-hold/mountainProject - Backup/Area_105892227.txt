@@ -1,0 +1,10 @@
+area_name: Cathedral Spires Area Rock Climbing  
+area_url: /v/cathedral-spires-area/105892227 
+description: These beautiful twin spires lie to the east of Higher Cathedral Rock. They offer exciting climbing in a spectacular location. The views of El Cap and the Valley are awesome! Other surrounding rocks usually approached from the same starting point include Middle Cathedral Rock, Higher Cathedral Rock, Church Tower and Phantom Pinnacle. 
+getting_there: Park at Cathedral Rocks pullout, a turnout just before the short loop intersects with Southside Drive. This page's GPS show the pullout on the map.  Hike a trail through the woods east (left) from the south side of the road from the pullout. This hits the big trail running parallel to Cathedral Rocks, go left here then after a short hike pass a left branch, and you'll come to a junction with the fainter of the two trails heading right.  Lower Cathedral Spire is approached by going left around the spires and Upper Cathedral Spire is approached by going right and up the "Spires Gully", which is the same approach for Braille Book and Upper Cathedral Rock. 
+id: 105892227 
+latitude: 37.7205 
+longitude:  -119.62958  
+parent_name: Yosemite Valley 
+parent_url: /v/yosemite-valley/105833388 
+

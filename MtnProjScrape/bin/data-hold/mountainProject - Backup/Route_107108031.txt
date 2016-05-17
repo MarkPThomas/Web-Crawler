@@ -1,0 +1,11 @@
+id: 107108031 
+parent_name: Way Rambo 
+parent_url: /v/way-rambo/105717221 
+route_description: This is the obvious offwidth/squeeze chimney immediately to the right of Blue Sun.  Start on the outside and then squeeze your way into the heart of the rock past some chockstones and pop out the top.  anchor added April '11 by the FA party, didnt catch his name but it looks like a sweet addition to the cliff. 
+route_name: First Blood  
+route_quality: 0.55 
+route_rating:  YDS: 5.10 
+route_rating_original: YDS: 5.10 
+route_type: Trad, 1 pitch, 80' 
+route_url: /v/first-blood/107108031 
+

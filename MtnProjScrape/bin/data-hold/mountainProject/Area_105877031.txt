@@ -1,0 +1,10 @@
+area_name: Mount Rainier Rock Climbing  
+area_url: /v/mount-rainier/105877031 
+description: At 14,411', Mount Rainier is the highest peak in The Cascade Range and the state of Washington, and one of the most beautiful mountains in America. This is the gem of the Cascade Range and the most sought after summit in the range. Towering more than twice as high as any surrounding peak, Mount Rainier is an incredible sight! With twenty-six named glaciers, this is the most glaciered peak in the U.S.A., outside of Alaska.  Three summits rise above 14,000 feet, Liberty Cap (14,133'), Point Success (14'150') and Columbia Crest (14,411), being the true summit. Two overlapping craters exist.  The first ascent was made on August 17, 1870 by Hazard Stevens and Philemon B. Van Trump, by the Gibraltar Route.  Climbing Mount Rainier can be an serious undertaking, even by it's easiest routes. Severe weather can come at any time. Rockfall and hazardous terrain also exist. Be prepared!  The mountain has claimed more lives than all other Cascade peaks combined.  All climbers must register with the Park Rangers.    
+getting_there: There are several entrances to Mt. Rainier National Park. Check a map to find the one that suites you best. Route approaches will be described with the route. 
+id: 105877031 
+latitude: 46.8517 
+longitude:  -121.7563  
+parent_name: Southwest Cascades 
+parent_url: /v/southwest-cascades/108471329 
+

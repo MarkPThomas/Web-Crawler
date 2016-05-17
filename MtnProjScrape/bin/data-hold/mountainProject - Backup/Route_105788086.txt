@@ -1,0 +1,11 @@
+id: 105788086 
+parent_name: The Mace 
+parent_url: /v/the-mace/105808394 
+route_description: The Mace is a classic Sedona route, and one of the "must do" lines in the area.  If you're used to Moab area towers, this is a bit of a disappointment in terms of rock quality, but the adventure itself is wonderful.  Approach from a small trailhead off of Back O' Beyond Road in Sedona. The hike is 15-20 minutes at a leisurely pace.  P1: Climb up chimney (or the runout face to the right) to a crack through limestone band. Pull a small roof to gain a big alcove with eyebolt belay.  5.7.  P2: Head up a handcrack in the back corner of alcove, into a chimney, breaking left at top and continuing up an offwidth crack in the corner.  A final corner leads to an eyebolt belay on top of a small pillar. 5.9.  P3: Clip a bolt off the left side of the pillar and perform an airy traverse left to gain a crack system.  Climb this to reach a small triangular belay ledge with another eyebolt belay.  P4: Pass through a slot to the west, then move right and climb a crack system to an alcove about halfway up.  From here, chimney and offwidth (crux) past a bolt.  This leads to the summit of the lower tower and an eyebolt belay.  P5: Lean across to the higher tower, clip a bolt, and traverse right and climb up to gain an easier slab to the top. Belay off a strange anchor bolted to the summit.  Descent: Rappel to lower summit (or do the jump... bad idea).  Double rope rap from here to a ledge, then another double rope rap to the saddle behind the tower. 
+route_name: Original Route  
+route_quality: 0.9 
+route_rating:  YDS: 5.9+ 
+route_rating_original: YDS: 5.9+ 
+route_type: Trad, 5 pitches, 400',  Grade III 
+route_url: /v/original-route/105788086 
+

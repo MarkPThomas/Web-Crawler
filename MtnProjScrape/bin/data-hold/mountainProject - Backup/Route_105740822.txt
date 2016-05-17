@@ -1,0 +1,11 @@
+id: 105740822 
+parent_name: Prune Face Slab 
+parent_url: /v/prune-face-slab/105739614 
+route_description: This route ascends the right side of the slab to the mid-point, then traverses along the small roof to the left side and follows grooves to the top.  The start of Prune Face is shared with Straight On For You.  Climb the groove up to clip the first bolt.  Surmount the steep section with thin moves, and then begin the fun.  Don't slip right before the third bolt.  After passing the third bolt, achieve the stance below the mid-point "roof", and shuffle left (you can place a small TCO here) to the obvious grooves.  Climb the much easier grooves to the belay anchor, placing small cams and stoppers along the way.  A fun climb, particularly because of the nice, short approach. 
+route_name: Prune Face  
+route_quality: 0.5 
+route_rating:  YDS: 5.9+ R 
+route_rating_original: YDS: 5.9+ R 
+route_type: Trad, 1 pitch, 110' 
+route_url: /v/prune-face/105740822 
+

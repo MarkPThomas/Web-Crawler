@@ -1,0 +1,11 @@
+id: 105877591 
+parent_name: 15 - Knob Hill 
+parent_url: /v/15---knob-hill/105865681 
+route_description: This climbs the easy appearing gully/crack, left of "Knob Hill Ropest". 
+route_name: Deception Gully  
+route_quality: 0.375 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad 
+route_url: /v/deception-gully/105877591 
+

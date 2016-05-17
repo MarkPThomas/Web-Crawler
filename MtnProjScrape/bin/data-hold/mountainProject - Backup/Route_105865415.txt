@@ -1,0 +1,11 @@
+id: 105865415 
+parent_name: 21 - Reed's Pinnacle Area 
+parent_url: /v/21---reeds-pinnacle-area/105863765 
+route_description: On the far left of Reed's Pinnacle Area is a Huge, detached flake, split by a left leaning crack. This huge flake is known as The Iota. The crack is "Chingando".  The Reed guide description says something like "part of the hardman ow training circuit".  In the Sierra Club's mountaineering journal, Ascent, 1973, Jim Bridwell proposed adding letter grades to YDS 5.10's. He gave lots of examples for 5.10a offwidths; Chingando, Girl Next Door, Reed Pinnacle Left, Crack of Despair, Crack of Doom, The Cookie Left, Penny Nickel Arete... 
+route_name: Chingando  
+route_quality: 0.825 
+route_rating:  YDS: 5.10a 
+route_rating_original: YDS: 5.10a 
+route_type: Trad, 1 pitch 
+route_url: /v/chingando/105865415 
+

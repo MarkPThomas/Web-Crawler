@@ -1,0 +1,10 @@
+area_name: Washer Woman Rock Climbing  
+area_url: /v/washer-woman/105716988 
+description: Washer Woman and its neighbor Monster Tower are two incredible  Wingate formations located right off the White Rim jeep trail.  Standing nearly 500' tall, it is one of the largest towers in  Canyonlands National Park and a very worthy objective for any  desert climber.  Once the towers are in view it is obvious which one is Washer Woman and where the name came from.  Take a good look at the arch in the center of the formation.  You will be getting a much better one on rappel if you are successful climbing this giant!  The remote location combined with the high quality climbing and amazing views of the White Rim make this an incredible experience which I highly recommend. 
+getting_there: Good directions can be found on the previous page for the most  conventional way here.  There is another way though.  If you take Potash road (Utah 279) past Wall Street and Long Canyon to where it turns to dirt and proceed for 15 miles, you will reach the Shafer Trail/White Rim Trail junction.  Take a left, pass a  toilet, and go 13 more miles to a parking area on slick rock  beneath the towers.  Hike up the canyon, watching for a trail breaking off to the left and up towards the towers.  You have two choices here.  Either head for the notch between Monster Tower and Washer Woman (requires some easy 5th class climbing) or go around the base of Monster Tower if headed for the west face and "In Search of Suds". 
+id: 105716988 
+latitude: 38.39059 
+longitude:  -109.83879  
+parent_name: Island In The Sky 
+parent_url: /v/island-in-the-sky/105716781 
+

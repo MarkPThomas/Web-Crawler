@@ -1,0 +1,10 @@
+area_name: Mammoth Lakes Area Rock Climbing  
+area_url: /v/mammoth-lakes-area/106064821 
+description: Mammoth Lakes is primarily a summer and fall climbing area.  All types of climbing can be found here from short sport routes on volcanic tuff, to medium length alpine routes on perfect granite.  Mammoth Lakes has a bit of everything for everybody.  Depending on the snow fall of the previous winter climbing begins generally in late April and May, and continues through until November (depending on Snow fall).   Some of the bouldering areas closer to the 395 are open all year around.  Crystal Crag is a fine example of the granite crags, while Clark Canyon is the best of the tuff sport crags.  The Mammoth area covers a fair amount of climbing stretching from Rock Creek in the south, all the way to Matrimony Wall, in the north.     	  	              	      	  	    The Minarets, Mt Ritter and Banner from the slopes above Mammoth Lakes.   	  
+getting_there: Mammoth Lakes sits 3.5 miles west of the 395 along the 203, about 40 minutes North of Bishop. 
+id: 106064821 
+latitude: 37.6468 
+longitude:  -118.9659  
+parent_name: Sierra Eastside 
+parent_url: /v/sierra-eastside/105798288 
+

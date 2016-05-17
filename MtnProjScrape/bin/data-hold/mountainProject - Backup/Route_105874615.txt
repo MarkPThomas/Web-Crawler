@@ -1,0 +1,11 @@
+id: 105874615 
+parent_name: Pat and Jack Pinnacle 
+parent_url: /v/pat-and-jack-pinnacle/105870715 
+route_description: This strenous route follows the corner to the right of "Trough of Justice" for two pitches. 
+route_name: Desperate Straights  
+route_quality: 0.875 
+route_rating:  YDS: 5.10a 
+route_rating_original: YDS: 5.10a 
+route_type: Trad 
+route_url: /v/desperate-straights/105874615 
+

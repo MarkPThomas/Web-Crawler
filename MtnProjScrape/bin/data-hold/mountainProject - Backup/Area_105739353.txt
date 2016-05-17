@@ -1,0 +1,10 @@
+area_name: Storm Mountain Island Rock Climbing  
+area_url: /v/storm-mountain-island/105739353 
+description: About 20 climbs ranging from a 5.4 bolted route (first sport route in the canyon! but not that great) to a nutso overhang near the ampitheatre (12d and A1).  Don't miss one of the best climbs in the BCC - 5.10c Goodro's Wall (trad). 
+getting_there: This island of quartzite rises out of the Storm Mountain Picnic area, about 2.8 miles up the canyon on the left.  Wake up the guy at the camper near the entrance to pay your $5 entrance fee, or not.  Climbers can park out on the highway and walk in for free if they're not using the picnic facilities.   The crag is across the bridge to the south via several short paths that scramble up through the trees/talus. 
+id: 105739353 
+latitude: 40.6239 
+longitude:  -111.7446  
+parent_name: Storm Mountain Picnic Area 
+parent_url: /v/storm-mountain-picnic-area/105798348 
+

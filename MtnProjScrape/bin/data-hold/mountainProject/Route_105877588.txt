@@ -1,0 +1,11 @@
+id: 105877588 
+parent_name: 15 - Knob Hill 
+parent_url: /v/15---knob-hill/105865681 
+route_description: From the ledge at the top of the "Sloth Wall" is another short wall with a prominent wide crack. The route follows this crack. This route was originally called: "Knob Hill Rapist. 
+route_name: Knob Hill Ropest  
+route_quality: 0.45 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad 
+route_url: /v/knob-hill-ropest/105877588 
+

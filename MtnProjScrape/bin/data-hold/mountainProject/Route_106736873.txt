@@ -1,0 +1,11 @@
+id: 106736873 
+parent_name: Mt. Humphreys 
+parent_url: /v/mt-humphreys/106499290 
+route_description: This is a nice ridge with a ton of 3rd/4th class climbing and a few short 5th class sections mixed in.  Follow the ridge towards Peak 13,151 staying on the ridge as it tries to spit you off to the left (South).  Climb fun 3rd and 4th class and walk the cool knife edge ridge as pictured in Crofts guide.  As you near Peak 13,151 you are forced off the ridge to the South and must make a few 5th class moves and meander back and forth to reach the summit of Peak 13,151.  From here you descend the ridge and encounter a short steep notch  10 5.7 downclimb or rappel.  Continue down the ridge and up the next sub-peak and on the other side another 10 5.6 downclimb or rappel.  You are now at the main notch where many people begin the climb via hiking up the scree gully to the South.    Gain the ridge again as soon as you can via a 4th class trough.  Continue on the 3rd/4th class ridge to a headwall.  Go around the corner to the left and up 5.2 cracks.  3rd class leads to easier ground and eventually a flat plateau.  Turn right (North) towards the summit staying low to the left of the ridge to reach a notch  Married Mens Point.  Pick out the easiest line and climb 100 or so of low 5th class and then 3rd class to the summit.   Descent:  Downclimb the route rappelling where necessary.  From the notch take the scree gullies to the South and then head East over talus.  In early season the scree gullies can be full of snow which cant be seen from the approach.  
+route_name: East Arete  
+route_quality: 0.775 
+route_rating:  YDS: 5.4 
+route_rating_original: YDS: 5.4 
+route_type: Trad, Alpine,  Grade III 
+route_url: /v/east-arete/106736873 
+

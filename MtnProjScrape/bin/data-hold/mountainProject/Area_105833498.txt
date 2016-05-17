@@ -1,0 +1,10 @@
+area_name: Manure Pile Buttress (aka Ranger Rock) Rock Climbing  
+area_url: /v/manure-pile-buttress-aka-ranger-rock/105833498 
+description: Manure Pile Buttress (sort of an unfortunate name for a nice crag) is a fun 600 foot formation with some nice moderate routes. An easy approach and descent makes it quite popular with climbers and you'll likely have company if you climb here. The most popular route here is easily Nutcracker, a six-pitch fun-fest that starts on the center-right side. 
+getting_there: Manure Pile is located just east of El Capitan, on the north side of the Valley. It has it's own parking lot and bear boxes now. 
+id: 105833498 
+latitude: 37.7306 
+longitude:  -119.619  
+parent_name: Yosemite Valley 
+parent_url: /v/yosemite-valley/105833388 
+

@@ -1,0 +1,10 @@
+area_name: Scarface Rock Climbing  
+area_url: /v/scarface/105716943 
+description: A great area with a fairly good selection of climbs, with most residing in the 5.11 range.  Since it faces due south it gets good sun all day long and is climbable on all but the coldest days - which also means a miserable experience if you go up there when it's hot.  While up there, you'll experience some of the best views in the region.  Most of the climbing is bound by two great routes - Black Uhuru on the left and Wavy Gravy (worth the walk) on the right.  In between lots of great climbs can be found, including the mega-classic Scarface. 
+getting_there: Continue past the Supercrack area for several miles on 211 as it winds its way along the cliffs.  The large parking area can be found on the left side of the road just after a sharp left curve that goes into a long straightaway.  The lot is several hundred yards before a fence and cattle guard, about a half mile before the reservoir, and a mile or so before the Beef Basin road junction.  Due north from the lot, look up for the prominent buttress gleaming in the sun.  Find a good trail across the road and follow it as is dips into a wash before heading up talus to the base.  Upon reaching the base, the majority of the climbs can be found on the left. 
+id: 105716943 
+latitude: 38.06928 
+longitude:  -109.55004  
+parent_name: Indian Creek 
+parent_url: /v/indian-creek/105716763 
+

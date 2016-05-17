@@ -1,0 +1,10 @@
+area_name: Calaveras Dome Rock Climbing  
+area_url: /v/calaveras-dome/105876779 
+description: This is the big dome, south of the Mokelumne River. Its 1,500' face offers a variety of routes.  Descend by rappel or walking west, between Calaveras and Hidden Domes.  Watch out for poison oak. 
+getting_there: The approach is obvious, but...  A little more beta for how to approach the two most visited parts of Cal Dome:   1) If you are climbing War of the Walls/Old Smokey area: drive over the bridge. Drive about a half mile to a mile, keeping an eye out for cement block with a metal pole on the left of the road. The trail to head up is about 10 feet before this landmark.   2) if you are climbing sands of time/silk road area: go beyond the metal pole landmark (maybe 100-300 yard more?) Look for a kerns right by the road. Follow the trail till it hits Cal Dome. Continue on the trail left to the base of Silk Road/Sands of Time. 
+id: 105876779 
+latitude: 38.48742 
+longitude:  -120.22818  
+parent_name: Calaveras Dome Area 
+parent_url: /v/calaveras-dome-area/105876771 
+

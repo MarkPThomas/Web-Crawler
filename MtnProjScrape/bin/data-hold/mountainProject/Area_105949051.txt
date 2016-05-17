@@ -1,0 +1,10 @@
+area_name: Katahdin Rock Climbing  
+area_url: /v/katahdin/105949051 
+description: The Northern terminus of the Appalachian Trail is Mt. Katahdin at 5260ft.  There are many fifth-class multi-pitch climbs that ascend this peak and the various other peaks around it.   There are even more ice/mixed winter time routes up this mountain.  peakbagger.com/peak.aspx?pid=6...  
+getting_there: To get to the mountain follow the Appalachain Trail! Katahdin is just north of Millinocket, ME, in Baxter State Park. There are detailed directions and insructions for winter climbing on the state park web site: baxterstateparkauthority.com/ The park is awesome in the winter and offers full bore, hard alpine climbing as well as shorter, more friendly ice climbs. Expect to spend two days coming in and out as you are required to stay at the Roaring Brook Campground on your first and last night in the park. 
+id: 105949051 
+latitude: 45.9045 
+longitude:  -68.9239  
+parent_name: Maine 
+parent_url: /v/maine/105948977 
+

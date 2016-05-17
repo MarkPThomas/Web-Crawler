@@ -1,0 +1,11 @@
+id: 105722188 
+parent_name: Echo Rock - South Face 
+parent_url: /v/echo-rock---south-face/106168090 
+route_description: Starting from boulders climb the prominent finger/hand crack in a flared right-facing corner which slowly arches up and left passing along the left side of a small roof. A little ways past the roof set a high piece and then downclimb left along a dike to gain another crack system which is followed to the top. Three stars out of five.  To descend work down and right from the top to rappel anchors atop British Airways. 
+route_name: Pope's Crack  
+route_quality: 0.8 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 1 pitch, 70' 
+route_url: /v/popes-crack/105722188 
+

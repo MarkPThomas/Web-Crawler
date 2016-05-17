@@ -1,0 +1,11 @@
+id: 105879421 
+parent_name: Sunnyside Bench 
+parent_url: /v/sunnyside-bench/105865915 
+route_description: Start as for Lazy Bum, passing a cruxy 10b move to reach a white knob. Once standing on the white horizontal dike, climb the fingertip crack that protects well with RPs/micronuts. Make a commiting move (10c crux) to gain a thin hands, somewhat flaring crack. The climbing eases to 9+/10a from here to the ledge. The 2-bolt anchor is shared with both Jamcrack and Lazy Bum. Either rap from here to the ground or continue up unremarkable second pitch (5.9), passing a single bolt (replaced 4/99 by the ASCA) 20' up to gain a grassy crack. A single rope rap back to the ledge, and another single rope rap to the ground. 
+route_name: Bummer  
+route_quality: 0.675 
+route_rating:  YDS: 5.10c 
+route_rating_original: YDS: 5.10c 
+route_type: Trad, TR, 1 pitch, 80' 
+route_url: /v/bummer/105879421 
+

@@ -1,0 +1,10 @@
+area_name: Off Balanced Rock Rock Climbing  
+area_url: /v/off-balanced-rock/105717119 
+description: This is the rock formation just north of balanced rock.  It is at the intersection of the main park road and the turn off to go to the windows section.  After passing balanced rock and turning right onto the windows road, the formation is directly on your right.  There is a little dirt pull off area.  
+getting_there: See above. 
+id: 105717119 
+latitude:  
+longitude:  
+parent_name: Arches National Park 
+parent_url: /v/arches-national-park/105716757 
+

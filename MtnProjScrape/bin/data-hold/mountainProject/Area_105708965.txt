@@ -1,0 +1,10 @@
+area_name: Oregon Rock Climbing  
+area_url: /v/oregon/105708965 
+description:  
+getting_there:  
+id: 105708965 
+latitude: 44.369 
+longitude:  -121.14631  
+parent_name:  
+parent_url:  
+

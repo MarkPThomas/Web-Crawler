@@ -1,0 +1,11 @@
+id: 111662805 
+parent_name: Audubon Buttress 
+parent_url: /v/audubon-buttress/111660221 
+route_description: The route begins with a short approach pitch. It begins in a dihedral up about 40ft of decent rock.  After a few offwidth moves, step right and up a jagged hand crack to gain the good ledge.  This puts you at the base of the left-curving #5 sized beauty that is the essence of the climb.   The next 80 or so feet are glorious offwidth climbing.  Hand fist stacks and physical arm barring will help you gain ground.  Two small bulges will present some interesting "cruxes", but these are over quickly and it is really just a practice in persistence. There are several well-earned rests on the climb.    You pull out of the crack onto a small sloping ledge.  There is a nice horizontal crack to place mid-range cams for an anchor.  There are no bolts.  To descend we climbed another pitch, which is pretty awful to be honest.  Although the climbing was easy, the protection was questionable and the grunge was in abundance.  We were able to rap off a tree to the ground with 2 ropes. 
+route_name: Wild Turkey  
+route_quality: 0.875 
+route_rating:  YDS: 5.10+ 
+route_rating_original: YDS: 5.10+ 
+route_type: Trad, 3 pitches, 220' 
+route_url: /v/wild-turkey/111662805 
+

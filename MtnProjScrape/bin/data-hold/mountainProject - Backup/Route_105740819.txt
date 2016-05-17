@@ -1,0 +1,11 @@
+id: 105740819 
+parent_name: Prune Face Slab 
+parent_url: /v/prune-face-slab/105739614 
+route_description: This climb ascends the right side of the slab.  Start on the first half of "Prune Face", then follow the bolts continuing straight up the slab at the small overhang instead of traversing right.  The first section is amazing, especially considering it was originally done with only one bolt!  Thin moves up a groove and over the steep section at the begining place you on the slab proper.  From the stance above the first bolt, move up thin slab climbing with the occasional solid hold thrown in.  You don't want to be falling right before the third bolt.  Once attaining the stance below the small "roof", clip the fourth bolt and start up continuous slab moves to the 8th bolt.  I angled left here to the belay station instead of moving up to clip the last bolt.  All in all, quite the entertaining moderate slab climb. 
+route_name: Straight On For You  
+route_quality: 0.65 
+route_rating:  YDS: 5.9+ R 
+route_rating_original: YDS: 5.9+ R 
+route_type: Sport, 1 pitch, 110' 
+route_url: /v/straight-on-for-you/105740819 
+

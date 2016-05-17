@@ -1,0 +1,11 @@
+id: 106308782 
+parent_name: 21 - Reed's Pinnacle Area 
+parent_url: /v/21---reeds-pinnacle-area/105863765 
+route_description: This is a meandering route that features primarily 5.8 hands, stemming, etc.  The highlight of the route is definitely the awesomely bizarre and incredibly fun squeeze tunnel at the third pitch.  It will make you feel what it's like to be a nut jammed in a perfect constriction.  On the final pitch, once you're on the sloping ledge, don't continue up left, but traverse right onto easier ground.  You could do the last two pitches (tunnel and 5.9 hands) after topping out on Reed's Direct, if you were so inclined. 
+route_name: Reed's Pinnacle Regular Route  
+route_quality: 0.75 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 4 pitches, 300' 
+route_url: /v/reeds-pinnacle-regular-route/106308782 
+

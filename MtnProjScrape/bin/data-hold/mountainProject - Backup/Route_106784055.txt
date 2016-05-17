@@ -1,0 +1,11 @@
+id: 106784055 
+parent_name: Beak Boulder 
+parent_url: /v/beak-boulder/106381030 
+route_description: This route climbs to the top of the boulder where the bomb bay chimney begins.  Bold moves up the unprotected flare are necessary until one can place a large cam.  The crux comes up higher where the crack thins out and the flare pushes you out. 
+route_name: Squeeze Play  
+route_quality: 0.5 
+route_rating:  YDS: 5.10a 
+route_rating_original: YDS: 5.10a 
+route_type: Trad, 1 pitch, 50' 
+route_url: /v/squeeze-play/106784055 
+

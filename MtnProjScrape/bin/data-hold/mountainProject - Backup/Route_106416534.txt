@@ -1,0 +1,11 @@
+id: 106416534 
+parent_name: Viagra Tower 
+parent_url: /v/viagra-tower/106416524 
+route_description: thin gear placement at start 
+route_name: Woofers  
+route_quality: 0.5 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, TR, 1 pitch, 40' 
+route_url: /v/woofers/106416534 
+

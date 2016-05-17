@@ -1,0 +1,11 @@
+id: 105839931 
+parent_name: Outhouse Rock - West Face 
+parent_url: /v/outhouse-rock---west-face/106045681 
+route_description: A long, easy, unprotected chimney leads up and right to a 15 long, crux face section. 
+route_name: Northwest Chimney  
+route_quality: 0.45 
+route_rating:  YDS: 5.4 R 
+route_rating_original: YDS: 5.4 R 
+route_type: Trad, 1 pitch, 120' 
+route_url: /v/northwest-chimney/105839931 
+

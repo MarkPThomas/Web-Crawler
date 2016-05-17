@@ -1,0 +1,11 @@
+id: 105872317 
+parent_name: Church Bowl 
+parent_url: /v/church-bowl/105860381 
+route_description: Start up and right of the main church bowl area. This is the classic double crack seen from the road. One of the best 5.8's in the Valley.One pitch ends at a sloping ledge. Rap from the bolts on top.  
+route_name: Bishops Terrace  
+route_quality: 0.9 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 1 pitch, 150' 
+route_url: /v/bishops-terrace/105872317 
+

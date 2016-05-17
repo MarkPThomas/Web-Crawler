@@ -1,0 +1,11 @@
+id: 105717379 
+parent_name: Lizard Rock 
+parent_url: /v/lizard-rock/105716889 
+route_description: Begin on the southwest side (the parking lot side) and follow a 5.7 crack/face up about 25 feet to a flake.  Place a #4 cam here if needed.  Move up and a little right to gain the right end of the large, obvious flake splitting the tower just beneath the summit overhang.  Use a long runner to sling a horn here, then proceed straight up on overhanging jugs to a 2 bolt/1 drilled pin anchor.  Mantle (yeah...).  The rock quality is good, and can be trusted for the most part. 
+route_name: Entry Fee  
+route_quality: 0.5 
+route_rating:  YDS: 5.8 R 
+route_rating_original: YDS: 5.8 R 
+route_type: Trad, 1 pitch, 70' 
+route_url: /v/entry-fee/105717379 
+

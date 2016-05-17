@@ -1,0 +1,11 @@
+id: 106312281 
+parent_name: The Wall 
+parent_url: /v/the-wall/105854200 
+route_description: Start up some loose blocks to the striking splitter.  Crank up the angling splitter 60 feet to the chains. 
+route_name: Run Like Hell  
+route_quality: 0.85 
+route_rating:  YDS: 5.10 
+route_rating_original: YDS: 5.10 
+route_type: Trad, 1 pitch, 70' 
+route_url: /v/run-like-hell/106312281 
+

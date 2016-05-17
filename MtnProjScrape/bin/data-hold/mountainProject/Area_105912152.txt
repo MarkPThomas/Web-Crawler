@@ -1,0 +1,10 @@
+area_name: Lost Arrow Spire Rock Climbing  
+area_url: /v/lost-arrow-spire/105912152 
+description: Tremendous exposure.  This is a great route to prepare you for aiding on big walls.  The route requires passing a knot as you have to rappel into the notch with 2 ropes tied together. 
+getting_there: From Camp 4 take the trail to the top of Yosemite Falls.  At the top, cross the creek and follow second-class slabs along the rim and you'll see the spire (be careful if you slip -- you die...) 
+id: 105912152 
+latitude: 37.75604 
+longitude:  -119.5941  
+parent_name: Yosemite Falls Area 
+parent_url: /v/yosemite-falls-area/105865903 
+

@@ -1,0 +1,10 @@
+area_name: Pywiack Area Rock Climbing  
+area_url: /v/pywiack-area/111837922 
+description: The Pywiack parking area is used to reach Pywiak Dome iself, as well as other nearby areas on both sides of the road, including Penny Royal Arches, The Block, Bunny Slopes and Phobos/Deimos Cliff. 
+getting_there: By car, park on the south/east side of highway 120 west of Pywiack Dome, which is visible from the dirt parking pullout.  On foot, use the Tenaya Lake Trail from many other spots around the meadows. 
+id: 111837922 
+latitude: 37.84473 
+longitude:  -119.44662  
+parent_name: Tuolumne Meadows 
+parent_url: /v/tuolumne-meadows/105833384 
+

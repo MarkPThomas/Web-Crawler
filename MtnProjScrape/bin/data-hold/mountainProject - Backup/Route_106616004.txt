@@ -1,0 +1,11 @@
+id: 106616004 
+parent_name: Sentinel Creek Area 
+parent_url: /v/sentinel-creek-area/106066238 
+route_description: This is a good climb to warm up on if you plan on climbing other routes at Sentinel Creek.  The crux is a short finger section down low.  A good one to get on if you are just breaking into the grade.  Many people will top rope pitch one of Ying-Yang .10d after climbing Hari-Kiri. 
+route_name: Hari-Kiri  
+route_quality: 0.675 
+route_rating:  YDS: 5.10a 
+route_rating_original: YDS: 5.10a 
+route_type: Trad, 1 pitch, 120' 
+route_url: /v/hari-kiri/106616004 
+

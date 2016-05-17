@@ -1,0 +1,10 @@
+area_name: Mt. Emerson Rock Climbing  
+area_url: /v/mt-emerson/106790833 
+description: Named in 1873 by John Muir after the poet Ralph Waldo Emerson, Mt. Emerson is a frequently overlooked Sierra peak.  RJ Secor (The High Sierra: Peaks, Passes & Trails) describes 5 routes that will satisfy both mixed route aficionados and scramblers alike.  Additional information on the N Face is available from Moynier & Fiddler in California's High Sierra.  W Ridge (Class 3 from Piute Pass)S Slope (Class 3 from 0.25 miles past Loch Leven)SE Face (5.4 chimney, leaving the Piute Pass trail before Loch Leven)SW Ridge (Class 3 from the couloir between Piute Crags and Emerson)N Face (Class 4 mixed route from the cirque between Peak 1)   
+getting_there: For all routes but the N Face: Passenger cars OK.  From central Bishop head W on highway 168 (aka W Line Street) for ~18 miles, passing the S Lake turn-off.  Take the right-hand turn onto N Lake Rd.  In early the season the road is gated and this will add ~1.7 miles to the trailhead.  Unless you are camping at the N Lake campground you will need to park at the large hiker lot and walk the ~0.4 miles to the trailhead.  From the campground take the trail toward Piute Pass.  For the N Face: High clearance required, 4x4 recommended.  From central Bishop head W on highway 168 (aka W Line Street) for ~10 miles to Dutch Johns Meadows Road (unmarked) behind an old wilderness kiosk on your right.  Head SW the due W along the road, taking a left-hand fork at ~6.2 miles toward the McGee Creek trailhead. Cross country toward the S Fork of McGee Creek.  Aim for the cirque between Checkered Demon (Peak 13,112) and Emerson.  
+id: 106790833 
+latitude: 37.242 
+longitude:  -118.653  
+parent_name: 07 - Humphreys Basin, Pine Creek and Granite Park 
+parent_url: /v/07---humphreys-basin-pine-creek-and-granite-park/110819764 
+

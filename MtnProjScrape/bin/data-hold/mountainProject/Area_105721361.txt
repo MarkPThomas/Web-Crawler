@@ -1,0 +1,10 @@
+area_name: Hound Rock Rock Climbing  
+area_url: /v/hound-rock/105721361 
+description: Hound Rock is the large formation directly behind Baskerville Rock and is home to a number of good crack climbs. The two most popular are Tossed Green (5.10a) a nice thin crack and Crescent Wrench (5.10d) a curving crack with a difficult finish. Additionally there are a number of moderate cracks on the backside which despite having been climbed for many years have not seen any real documentation.  A novelty from the olden days is the "Valley of Trash", a collection of rusted cans, bed springs and assorted metal objects which lie in the depression at the base of the east face. Please leave these undisturbed for others to enjoy as they are protected by law.  This is a good wall to visit in conjunction with a trip to Baskerville Rock and/or the White Cliffs Of Dover as there are many excellent cracks to do in this area.  Routes from left to right  Direct Wrench (5.11a) Crescent Wrench (5.10d) An Eye to the West  (5.9)  Tossed Green (5.10a) White Powder  (5.7) Over The Hill  (5.9) Animalitos     (5.11b R) Animalargos    (5.11c R) 
+getting_there:  Approach as for Baskerville Rock but skirt it on it's left side (passing the Baskerville Cracks) and Hound Rock will come into view. The approach takes about 15 minutes from the parking area at Trash Can Rock.   
+id: 105721361 
+latitude: 34.03343 
+longitude:  -116.20185  
+parent_name: Quail Springs Area 
+parent_url: /v/quail-springs-area/105720621 
+

@@ -1,0 +1,11 @@
+id: 105734663 
+parent_name: Plaque Rock 
+parent_url: /v/plaque-rock/105734120 
+route_description: The furthest left climb on Plaque Rock.  Use the arete to get to the top - as simple as that. 
+route_name: Plaque Arete Left  
+route_quality: 0.475 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: TR, 1 pitch, 20' 
+route_url: /v/plaque-arete-left/105734663 
+

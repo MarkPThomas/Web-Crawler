@@ -1,0 +1,10 @@
+area_name: Little Cottonwood Canyon Rock Climbing  
+area_url: /v/little-cottonwood-canyon/105739277 
+description: LCC offers primarily quartz monzonite (white granite, essentially) with a few areas of limestone.  Trad, sport, bouldering, and ice climbing are all well-represented here. Most of the climbs are on the sunnier, north side of the canyon, but shade may be found for those hot summer days. In addition, north-facing classic routes are found on the south side of the canyon (see especially Pentapitch Area and Coal Pit Buttress.  On the north side of the canyon, roughly from The Egg past the Gate Buttress, the rock is either owned by or the approaches to the tock cross land owned by the LDS Church. Be considerate when crossing/using these areas.  The Wasatch Resort about one mile up the canyon on the right (south) presents access problems to some of the crags on that side of the canyon as well.  
+getting_there: From the I-215 beltway around Salt Lake, take the 6200 South exit at the southeast corner of the loop.  Follow signs to the ski resorts and Big and Little Cottonwood canyon.  Pass the left turn into BCC and continue on Wasatch Blvd (Route 210) for a few more miles.  This road leads directly up into LCC.  From the south, exit I-15 at 9000 South (Route 209).  Head east as 209 becomes 9400 South and eventually hits Wasatch (210) at the mouth of LCC.  Turn right and head up the canyon. (camping info#littlecottonwood)   
+id: 105739277 
+latitude: 40.5727 
+longitude:  -111.777  
+parent_name: Wasatch Range 
+parent_url: /v/wasatch-range/105739213 
+

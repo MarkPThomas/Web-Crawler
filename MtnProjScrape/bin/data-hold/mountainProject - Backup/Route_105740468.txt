@@ -1,0 +1,11 @@
+id: 105740468 
+parent_name: Lisa Falls Buttress 
+parent_url: /v/lisa-falls-buttress/105739533 
+route_description: On the left side of the falls, is a bolted route Left of this is a leftward trending unprotectable corner.  Climb this.  Not a hard climb, just consistent.  Near the top it gets a little steeper, and also protectable. 
+route_name: Lisa Falls Left  
+route_quality: 0.35 
+route_rating:  YDS: 5.8 R 
+route_rating_original: YDS: 5.8 R 
+route_type: Trad, TR, 1 pitch, 80' 
+route_url: /v/lisa-falls-left/105740468 
+

@@ -1,0 +1,10 @@
+area_name: Western Chilliwack Range Rock Climbing  
+area_url: /v/western-chilliwack-range/106991655 
+description: The Western Chilliwack Range includes Slesse Mountain:  "..the most spectacular isolated peak in the Cascades." (Fred Beckey, Challenge of the North Cascades, 1969.    Other worthy alpine summits on the BC side of the Western Chilliwacks are Canadian Border Peak (7,516ft,2,291m), Mt Lindeman (7,578ft, 2,310m) , Mt Rexford (7,641ft,2,329m), Illusion Peaks (6,900ft, 2,103m).    On the American side, the higher and glacier pocketed peaks are American Border Peak (7,994ft, 2,436m), Mount Larrabee (7,861ft, 2,396m), and at the eastern extreme of the range, Middle Peak (7,464ft,2,275m).  
+getting_there:  
+id: 106991655 
+latitude:  
+longitude:  
+parent_name: Canadian North Cascades 
+parent_url: /v/canadian-north-cascades/106986936 
+

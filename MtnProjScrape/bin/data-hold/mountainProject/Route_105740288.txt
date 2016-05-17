@@ -1,0 +1,11 @@
+id: 105740288 
+parent_name: Storm Mountain Island 
+parent_url: /v/storm-mountain-island/105739353 
+route_description: Approach as per Nice Little Crack.  This is the bolted face.  Tricky start over the 1st roof, leads to edges and fun climbing.  Midway you will find a bulge,  friction over this avoiding the foot crack to the left.  Finally, trick #3, pop over the top roof.  And there... the anchors?.   
+route_name: Unknown  
+route_quality: 0.425 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 1 pitch, 50' 
+route_url: /v/unknown/105740288 
+

@@ -1,0 +1,11 @@
+id: 105878833 
+parent_name: Sunnyside Bench 
+parent_url: /v/sunnyside-bench/105865915 
+route_description: Sunnyside bench sports two 5.10 finger cracks, one just to the left of Jamcrack called Lazy Bum (5.10D) and the other just to the left of this called Bummer (5.10C).  Both cracks share the same first 20 feet, which is a bouldery 5.10b finger crack / face.  Going slightly left from here puts you on Bummer 10C, and going right puts you on Lazy Bum 10D.  Both of these climbs are excellent, protect well (micro gear required), and perfect for tuning your thin crack technique.  Short and hard. 
+route_name: Lazy Bum  
+route_quality: 0.75 
+route_rating:  YDS: 5.10d 
+route_rating_original: YDS: 5.10d 
+route_type: Trad, 2 pitches 
+route_url: /v/lazy-bum/105878833 
+

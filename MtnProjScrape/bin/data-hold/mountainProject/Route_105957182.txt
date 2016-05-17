@@ -1,0 +1,11 @@
+id: 105957182 
+parent_name: Cleopatra's Needle  Area 
+parent_url: /v/cleopatras-needle-area/105957152 
+route_description: This climb is 3 pitches.  The formation just sort of jets out of a flat field;..there are dirt roads directly to the base of the formation.  The first pitch (climbs the pedestal) starts on the right side of the East Face and diagonals up and left to a ledge at the base of the actual steep "headwall" section. The first pitch is sort of loose, sort of junky, and about 5.8.  Pitch two is where the "business" starts;  make a 5.9 move to a ledge, traverse right to the main crack and start aid climbing (A2 on cams and wires) to a bolt ladder (about 5 bolts), then back to the crack (A1) to a sling belay from 3 bolts.  The last pitch is wild, in that you are climbing a fin of rock that is probably only 6-10 feet thick to the other side!.....(It's wide enough and you don't even realize just how thin it is until you get to the top and straddle the summit.)  The last pitch opens up a bit, to about 2 1/2 Friend size (many)...and ends up at bolts (and pins?) on the tiny summit. Rappel to the top of pitch one, then to the ground. 
+route_name: Cleopatra's Needle, East Face  
+route_quality: 0.8 
+route_rating:  YDS: 5.9 A3 
+route_rating_original: YDS: 5.9 A3 
+route_type: Trad, Aid, 3 pitches, 275',  Grade III 
+route_url: /v/cleopatras-needle-east-face/105957182 
+

@@ -1,0 +1,11 @@
+id: 105799779 
+parent_name: a. The Uberfall 
+parent_url: /v/a-the-uberfall/107037539 
+route_description: A beautiful, short crack climb that is harder than it looks.  Sustained and fun.  Start just right of the Uberfall, on a boulder below an obvious right-leaning finger crack.  P1: Climb the crack and belay from a tree at the top.  5.7+, 50'.  Walk off to the left and downclimb Uberfall Descent. 
+route_name: Ken's Crack  
+route_quality: 0.725 
+route_rating:  YDS: 5.7+ 
+route_rating_original: YDS: 5.7+ 
+route_type: Trad, 1 pitch, 50' 
+route_url: /v/kens-crack/105799779 
+

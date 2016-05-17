@@ -1,0 +1,11 @@
+id: 105740483 
+parent_name: Lisa Falls Buttress 
+parent_url: /v/lisa-falls-buttress/105739533 
+route_description: This climbs the right facing, right-trending crack/ramp until you can gain the face above.  This should be just after a large block with a stripe in it.  Continue up the face, pulling off an easy mantle.  Then turn left to meet your anchors.  Pitch 2  angles right around the overhangs, and reaches the base of alarge right-facing flake.  Climb this flake til it's end.   
+route_name: Lisa Falls Right  
+route_quality: 0.525 
+route_rating:  YDS: 5.5 
+route_rating_original: YDS: 5.5 
+route_type: Trad, 2 pitches, 140' 
+route_url: /v/lisa-falls-right/105740483 
+

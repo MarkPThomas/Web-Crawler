@@ -1,0 +1,10 @@
+area_name: JHCOB Wall Rock Climbing  
+area_url: /v/jhcob-wall/105739410 
+description: The wall above and left of the "Remnants of an Ancient Sea" pullout in Big Cottonwood Canyon has a quick and easy approach which leads to multipitch climbing and good exposure.  This is also sometimes called Jacob wall.  Bring a helmet, because if you get off route, you are likely to run into loose rock. 
+getting_there: The wall is located directly above the road approx. 2.4 miles up canyon on the right side (south side) of the road.  There will be a pullout there and a sign which reads "Remnants of an Ancient Sea." (Picture here.) Park in this pullout and follow the semi-obvious trail up to the wall.  (Five to ten minute approach.)  Another option, depending on the climb you are going to, is to drive a couple of hundred yards further up canyon and park on the right.  Follow a trail up and move to the right towards the wall using your best discretion.  This is a terrible scree field right above the road, so be careful. 
+id: 105739410 
+latitude: 40.62108 
+longitude:  -111.74946  
+parent_name: Big Cottonwood Canyon 
+parent_url: /v/big-cottonwood-canyon/105739280 
+

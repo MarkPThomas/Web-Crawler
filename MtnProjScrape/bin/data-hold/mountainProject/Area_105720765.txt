@@ -1,0 +1,10 @@
+area_name: Steve Canyon Area Rock Climbing  
+area_url: /v/steve-canyon-area/105720765 
+description: The Steve Canyon Area lies along the western edge of The Outback and to it's east is the large open area that characterizes that area. Steve Canyon, the namesake of the area is the most popular spot here and within it's sheltered canyon walls are a number of quality routes worth seeking out. Watanobe Wall faces Park Blvd. and offers a fair number of mostly crack climbs with a minimal approach. The Hot Tub is another crag facing the road with a mix of crack and face climbs on it's sunny flanks. Cereal Rock is fairly overlooked although it's many routes are not especially inspiring.  
+getting_there: Cereal Rock, The Hot Tub and the Watanobe Wall are most easily approached by parking along Park Boulevard in any of several paved pullouts adjacent to the rock and following trails to the base of your chosen crag. Approaches take from 5-10 minutes usually.   Steve Canyon can be approached from Hidden Valley CG by walking north along the west face of the Old Woman using a well-worn trail which leads directly to the mouth of Steve Canyon proper. This approach takes about 5-10 minutes depending upon which portion of Steve Canyon you plan on visiting.   Additionally, it's also quite easy to access Steve Canyon from The Outback proper by heading west along the north side of The Blob and then south past the east face of Sidewinder Rock, circling around the southern end of that formation to arrive at the mouth of Steve Canyon.  
+id: 105720765 
+latitude: 34.0194 
+longitude:  -116.1671  
+parent_name: The Outback 
+parent_url: /v/the-outback/105720597 
+

@@ -1,0 +1,10 @@
+area_name: I-80 Corridor Rock Climbing  
+area_url: /v/i-80-corridor/105798284 
+description:  
+getting_there: Interstate 80 in California is reached from most other regions through Sacramento from the west, or from Reno to the east. Many other highways, surface streets and dirt roads connect to it. See specific crags for directions.  Approximate eastbound mileages:  0 miles: Interstate 80 splits from route 101 in San Francisco. 111 miles: Rocklin Rd in Rocklin for Deer Creek Park (Rocklin). 119 miles: Elm Ave in Auburn for Auburn Cliffs and the Bar, and highway 49 for other foothill destinations. 161 miles: State Route 20 towards Nevada City for the Emeralds, Bowman Valley, Island Lake Boulders and other Emigrant Gap area destinations. 163 miles: Eagle Lakes Rd for Indian Springs. 166 miles: Big Bend for Rainbow. 173 miles: Soda Springs for most Donner Summit crags. 176 miles: Donner Summit Rest Area for Summit Lake Area and Castle Peak Bouldering. 183 miles: Donner Pass Rd exist in Truckee for Donner Memorial State Park. 184 miles: Downtown Truckee at junction with highway 89 south (which heads towards Lake Tahoe proper via the Truckee River Canyon. 204 miles: Nevada state line, en route to the Reno area. 
+id: 105798284 
+latitude: 39.2768 
+longitude:  -120.71298  
+parent_name: Tahoe Vicinity 
+parent_url: /v/tahoe-vicinity/105798291 
+

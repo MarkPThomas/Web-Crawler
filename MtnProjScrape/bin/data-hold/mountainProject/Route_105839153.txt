@@ -1,0 +1,11 @@
+id: 105839153 
+parent_name: Grand Teton 
+parent_url: /v/grand-teton/105803123 
+route_description: The Lower Exum Ridge is a classic route on the southeast side of the Grand Teton.  All of the pitches are good but the 5th pitch is by far the best being that it's steep, exposed and still only 5.7.   P1: A large chimney with some chockstones in it.  Squeeze through a hole under the chockstones about halfway up and then climb out of the chimney on the right shortly after that and up to a large ledge.  P2: Climb easy terrain up and left following some cracks to another nice ledge.  P3: Move the belay to the base of a nice hand crack.  Climb the crack up and left then traverse back right and pull up onto lower angle rock.    P4: Climb up past a large chockstone (I climbed around it on the outside) and to a broken up ledge at the base of the steep 5th pitch.  (Pitches 3 and 4 can be combined barely with a 50m rope)  P5: Climb up and right from the ledge and follow a crack with a few pins in it.  Belay at a pin and fixed cam.    P6: Climb straight up an awkward crack on smooth rock and then head right on easier terrain but with minimal gear.  Belay on Wall Street ledge.  (An easier option is to go left from the belay which also ends up on Wall Street)    Combining the Lower and Upper Exum Ridge to the summit is a great way to climb the Grand. 
+route_name: Lower Exum Ridge  
+route_quality: 0.95 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, Alpine, 6 pitches, 800' 
+route_url: /v/lower-exum-ridge/105839153 
+

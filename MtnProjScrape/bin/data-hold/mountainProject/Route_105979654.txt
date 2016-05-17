@@ -1,0 +1,11 @@
+id: 105979654 
+parent_name: Circuit Breaker 
+parent_url: /v/circuit-breaker/110659565 
+route_description: This is one of the classic crack boulder problems in the Valley. Approximately 20' tall with a short approach, flat landing, and easy walk off,  this slightly leaning splitter finger crack is great for honing your thin fingercrack technique. Mostly first knuckle locks. Usually bouldered, but you could rig a TR if desired.  "Climb the beautiful splitter finger crack that angles up and left.  First 5 feet are the hardest by far." - ShaunG 
+route_name: Circuit Breaker  
+route_quality: 0.95 
+route_rating:  Hueco: V2 
+route_rating_original: YDS: 5.11b   Hueco: V2  Font: 5+ 
+route_type: TR, Boulder, 20' 
+route_url: /v/circuit-breaker/105979654 
+

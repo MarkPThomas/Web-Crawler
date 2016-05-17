@@ -1,0 +1,10 @@
+area_name: Mt. Winchell Rock Climbing  
+area_url: /v/mt-winchell/105806928 
+description: The lowest peak in the northern Palisade chain probably has on eof the tiniest summits and also has sensational views down its west face. There's a classic Class 3 scramble on this peak. 
+getting_there: The eastern approach:  From Big Pine on 395 drive up the road to Glacier Lodge, trailhead is signed on the right.   Hike up the North Fork of Big Pine Creek past Cienega Mirth, Lon Chaney's old cabin, and First, Second, and Third (spectacular views of Temple Crag) Lakes, then instead of continuing on to Fourth Lake turn south and up into Sam Mack Meadow. It's also feasible to camp down by 3rd Lake and complete a route from there.  The western approach:  Trailhead starts at South Lake, and follows the Bishop Pass trail over the pass and down into Dusy Basin, there's a nice campsite by the lake closest to the trail, but there are probably other campsites closer to the actual peak. 
+id: 105806928 
+latitude: 37.1047 
+longitude:  -118.526  
+parent_name: 09 - Palisades and Surrounding Peaks 
+parent_url: /v/09---palisades-and-surrounding-peaks/110511970 
+

@@ -1,0 +1,11 @@
+id: 105717709 
+parent_name: Angel's Landing 
+parent_url: /v/angels-landing/105717000 
+route_description: P1/P2 (C1, 160') The first bolt is about nine feet off the ground (have your buddy give you a boost to clip it).  The first two pitches can be combined.  P3 (~70') Gain a comfortable ledge.    P4 (C2) Attack the Wrinkles which calls for a series of pendulums (reach right) and tension traverses to the left. When good placements run out move left.  P5 (C1) Climbs through the arch roof via a nice crack.  P6 (C1) Takes a crack to a short bolt ladder.   P7 (C2) Takes a left-facing corner up a few trickier moves to a decent stance for the last aid pitch.    P8 Continues up the corner system and then makes a clever pendulum out left to gain access to another corner.  (Fixed point) This pitch ends on a big, dirty, sandy, down sloping ledge (be extremely careful of the loose stuff here).    P9 (5.5) Free climbs a low-angle chimney filled with loose debris to a ridiculously crappy chute filled with loose sand, rock, and plant material.  After suffering through this mess, you arrive at a good trees to belay from.  A few recommendations:  1. Bring a belay seat as the stances are not always very comfortable.  2. Do not haul if you can help it.  If you think you'll take more than one day, fix the first two or three pitches. 
+route_name: Prodigal Sun  
+route_quality: 0.85 
+route_rating:  YDS: 5.8 C2 
+route_rating_original: YDS: 5.8 C2 
+route_type: Aid, 9 pitches, 900',  Grade V 
+route_url: /v/prodigal-sun/105717709 
+

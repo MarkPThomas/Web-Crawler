@@ -1,0 +1,11 @@
+id: 105806618 
+parent_name: Main Wall 
+parent_url: /v/main-wall/105798329 
+route_description: Its name gives good indication of what to expect.   The first pitch follows a nice hand crack to wide hands then fists. Belay at the fixed pin and nut on a nice ledge.   The second pitch immediately pulls a small roof to a fixed bong then out left under a long roof (crux) while underclinging an offwidth and sliding a #4 along. Don't leave gear in this roof because it will get sucked up into the crack. Now follow a chimney while arm barring a wide crack for balance. Climb up into the now obvious squeeze chimney and place a #2 up high. Drop back down to the ledge and squeeze through the chimney with your feet smearing behind you and your ass hanging out under the roof. Great exposure here. Move out around the corner on good jugs then up into a chimney. Save a #4 for the belay.  The third pitch climbs on the face up to an alcove where you move out around the corner to the right on dikes and up the runout face (easy, on big dikes) to a good ledge with good pro.   Pitch four follows a crack to another good ledge.   The fifth pitch is an easy dike hike much like the last pitch of Travelers. Some pro can be found, or run it out to the top. Lots of fun and one of the most exposed routes at the leap.   Really wide and kinda scary. 
+route_name: Eeyore's Enigma  
+route_quality: 0.925 
+route_rating:  YDS: 5.10a 
+route_rating_original: YDS: 5.10a 
+route_type: Trad, 4 pitches, 500' 
+route_url: /v/eeyores-enigma/105806618 
+

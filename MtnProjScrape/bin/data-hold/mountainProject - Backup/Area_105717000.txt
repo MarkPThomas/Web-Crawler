@@ -1,0 +1,10 @@
+area_name: Angel's Landing Rock Climbing  
+area_url: /v/angels-landing/105717000 
+description: This formation is a huge buttress coming in from the west side of the canyon. The Virgin River makes a long horse-shoe bend around it. There are many long wall routes here including Prodigal Sun, Ball and Chain, and Northeast Buttress (a free line).  The northeast face provides excellent shade for some of the morning and virtually all of the afternoon. There is a nice, paved trail on top for an easy walk-off. Check with rangers for possible raptor nesting closures. 
+getting_there: Take the Zion bus or drive to Big Bend (when the Virgin River is low enough), or to Zion Lodge (when the river is too high to cross).  From Big Bend, walk down the trail to the river, cross it, and continue up and to the right along a marked climber's trail.  From Zion Lodge, cross the Virgin River on a foot bridge and walk to your right along the west bank until you reach the same climber's trail going up to the northeast face of the wall. 
+id: 105717000 
+latitude: 37.27059 
+longitude:  -112.94832  
+parent_name: Zion National Park 
+parent_url: /v/zion-national-park/105716799 
+

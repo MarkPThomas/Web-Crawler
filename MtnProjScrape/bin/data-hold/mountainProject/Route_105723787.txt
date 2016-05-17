@@ -1,0 +1,11 @@
+id: 105723787 
+parent_name: Trashcan Rock - West Face 
+parent_url: /v/trashcan-rock---west-face/106670380 
+route_description: On the left side of the west face of Trashcan Rock (facing the large parking area), there are three wide, ugly-looking cracks.  From left to right, they are B-3, B-2, and B-1.  B-1 is the easiest, but it's also the only one worth climbing.  Chimney moves down low give way to fun climbing on patina plates up top.  This would be a good first climb on TR, and a great first trad lead.  If you could beat the crowds, that is ... 
+route_name: B-1  
+route_quality: 0.4 
+route_rating:  YDS: 5.1 
+route_rating_original: YDS: 5.1 
+route_type: Trad, 1 pitch, 30' 
+route_url: /v/b-1/105723787 
+

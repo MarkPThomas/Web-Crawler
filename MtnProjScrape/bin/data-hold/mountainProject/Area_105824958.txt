@@ -1,0 +1,10 @@
+area_name: Super Crack Tower Rock Climbing  
+area_url: /v/super-crack-tower/105824958 
+description: 200 ft. spire tucked away north of the acropolis.   
+getting_there: Park at Midgely Bridge.  Hike up Wilson Canyon Trail 1 1/2 miles until you see 2 towers on your right.  Super Crack Tower is the right one, and Lilly Flower Tower is the left one.  Bushwack up and right along a ridge a few hundred yards east of Super Crack Tower.  When level with the base of SCT, traverse back left along slick rock and bushwack to the base of SCT.   
+id: 105824958 
+latitude: 34.9033 
+longitude:  -111.748  
+parent_name: Steamboat Rock/Midgley Bridge Area 
+parent_url: /v/steamboat-rockmidgley-bridge-area/105808423 
+

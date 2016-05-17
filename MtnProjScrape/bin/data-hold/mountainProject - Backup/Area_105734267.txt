@@ -1,0 +1,10 @@
+area_name: Buck's Bar Dome Rock Climbing  
+area_url: /v/bucks-bar-dome/105734267 
+description: This traditional section of Cosumnes River Gorge is a shorter version of the larger Gutenberger wall across the way. This area features cracks and face climbs from 20 - 50 feet in length that are almost all traditional routes, with some tougher top rope options available as well. Difficulty ranges from 5.1 -5.12, depending on what you're looking for.  You will also find an abundance of chimneys on Bucks Bar Dome, which are all quite fun.  This is a great place to be in the afternoon when the areas move into the shade.  All routes can be lowered off or walked off, depending on your preference. 
+getting_there: From the path directions for the area, this is the first rock that you come to down the path.  As you head down the path you will come across the un-indentifiable top of the dome.  You canwalk to the edge here where you will find top anchors and rappel, or you can walk around the far side (about 100 yards) and walk down the path.  As the path heads down to the stream in a small gully, you will find the cracks of Buck's Bar Dome to your left.  
+id: 105734267 
+latitude: 38.6489 
+longitude:  -120.70645  
+parent_name: Cosumnes River Gorge 
+parent_url: /v/cosumnes-river-gorge/105733956 
+

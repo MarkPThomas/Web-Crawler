@@ -1,0 +1,11 @@
+id: 105874735 
+parent_name: Manure Pile Buttress (aka Ranger Rock) 
+parent_url: /v/manure-pile-buttress-aka-ranger-rock/105833498 
+route_description: This fun crack is to the right of the first pitch of "After Six". Jam up nice, smooth hands and fingers to where a step right can be made. Continue up to a ledge. From here one can either continue climbing up and joining "After Six", or descend. 
+route_name: After Seven  
+route_quality: 0.75 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 1 pitch, 115' 
+route_url: /v/after-seven/105874735 
+

@@ -1,0 +1,10 @@
+area_name: Indian Creek Rock Climbing  
+area_url: /v/indian-creek/105716763 
+description: There are lots of cracks here on the Wingate sandstone.  Lots of people now, too.  Tread lightly. 
+getting_there: To get to the Creek from Moab, go south on US 191 toward Monticello and look for SH 211, which includes a Canyonlands sign, and go right (west).  Watch for the Utah State Patrol on 191 and Mule Deer on 211.  After the road winds and goes downhill, you will pass Newspaper Rock on your right.  In a few miles you have pretty much entered Indian Creek Canyon. 
+id: 105716763 
+latitude: 38.0258 
+longitude:  -109.54  
+parent_name: Moab Area 
+parent_url: /v/moab-area/105716711 
+

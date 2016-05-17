@@ -1,0 +1,11 @@
+id: 105916323 
+parent_name: Argon Tower 
+parent_url: /v/argon-tower/105717051 
+route_description: If you free this route, you are a true desert free climber.  Pitch 1  Climb a thin crack in a right facing corner to a ledge. There used to be an anchor here but it has been stripped of its hangers. Continue up the crack as it widens from #3 to #4.5 Camalot over the next 50 feet and belay at a fixed anchor in the alcove. (5.11 or C1)  Pitch Two  Wiggle out the bombay chimney and continue up the crack passing some less than stellar rock along the way. Belay at the fixed anchor on the shoulder. (5.10- or 5.9 C1)  Pitch Three  This pitch is shared with the North Northeast route. Climb past the lone pin to a small ledge and then make a couple easy but serious free moves to the summit. (5.8 C0)  Rappel the Route  
+route_name: West Face  
+route_quality: 0.675 
+route_rating:  YDS: 5.11 
+route_rating_original: YDS: 5.11 
+route_type: Trad, 3 pitches, 250',  Grade II 
+route_url: /v/west-face/105916323 
+

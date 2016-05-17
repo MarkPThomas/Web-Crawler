@@ -1,0 +1,11 @@
+id: 105966757 
+parent_name: The Three Gossips 
+parent_url: /v/the-three-gossips/105716922 
+route_description: This route climbs the South Gossip via a crack system on the right side of the west face. Like many of the routes in Arches, the start is soft, sandy, and spooky. Unlike many of the routes in Arches, the rock on the rest of this climb is mostly excellent and almost feels like wingate in places.  Pitch 1  Climb through the soft rock either in a right facing corner or to the right of the corner. Youre aiming for a wide crack which is followed to a comfortable belay ledge. Belay from a fixed anchor. A variation climbs the thin crack to the right at 5.11d to the same belay. 5.11 or 5.10, C1  (It may even be 5.9 but the start is hard to rate)   Pitch 2  Step right around a pillar and follow a beautiful crack up an acute dihedral to the base of the summit block. Belay from a fixed anchor on a ledge. 5.11 or 5.9, C1  Pitch 3 - A couple interesting free moves access a bolt ladder which leads to the top. C1  Rappel the Route   
+route_name: Be There or Be Talked About  
+route_quality: 0.75 
+route_rating:  YDS: 5.11 C1 
+route_rating_original: YDS: 5.11 C1 
+route_type: Trad, Aid, 3 pitches 
+route_url: /v/be-there-or-be-talked-about/105966757 
+

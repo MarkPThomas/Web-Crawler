@@ -1,0 +1,11 @@
+id: 105724597 
+parent_name: Hemingway Buttress (East Face Left)  
+parent_url: /v/hemingway-buttress-east-face-left-/106563103 
+route_description: This route is the obvious crack to the right of "Golden Years". You start off a block into a right facing corner. My advice here is to place your pro then layback the crack. Near the top, traverse right under an overhang then up again. Surmount the overhang at the top. Beginning this route via "Golden Years" is more interesting. One more thing, the overhang at the top is no more than 5.4; however, one must have the usual five senses. 
+route_name: Feltonian Physics  
+route_quality: 0.65 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 1 pitch, 100' 
+route_url: /v/feltonian-physics/105724597 
+

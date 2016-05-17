@@ -1,0 +1,10 @@
+area_name: Leaning Wall Rock Climbing  
+area_url: /v/leaning-wall/105717054 
+description: This very cool wall sports the well-traveled clean aid climb Spaceshot (C2). The wall's name is very appropriate as the crack features on the formation lean to the right.    The descent is fairly easy. From the top of the formation hike southeast (downcanyon) following trails and cairns to a large tree with rap slings.  When I was there a faded pair of jeans was next to the tree which could easily be seen from a distance.  One rap leads to a ledge which is traversed downcanyon to another set of rap anchors.  For double-rope raps from here lead to the ground.  
+getting_there: Follow the canyon road nearly to the end (about 1 mile down-canyon from Temple of Sinawava).  The Leaning Wall is directly across the canyon from Moonlight Buttress.  Park in the large pullout on the left side of the road below the formation.   
+id: 105717054 
+latitude: 37.27874 
+longitude:  -112.94358  
+parent_name: Zion National Park 
+parent_url: /v/zion-national-park/105716799 
+

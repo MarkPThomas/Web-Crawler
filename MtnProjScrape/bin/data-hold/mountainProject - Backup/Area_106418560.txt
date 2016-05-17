@@ -1,0 +1,10 @@
+area_name: Symmetry Spire Rock Climbing  
+area_url: /v/symmetry-spire/106418560 
+description: The summit overlooking the north end of Jenny Lake. Named for it's appearance from the north. Most of the better routes face south and west and are approached by the Symmetry Couloir, a steep gully that can hold snow into July. 
+getting_there: The southern routes are accessed from Symmetry Couloir by way of the Cascade Cyn horse trail.  The north and east sides of the peak are approached by way of Hanging Canyon. 
+id: 106418560 
+latitude: 43.7774 
+longitude:  -110.7879  
+parent_name: Grand Teton National Park 
+parent_url: /v/grand-teton-national-park/105802912 
+

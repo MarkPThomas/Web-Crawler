@@ -1,0 +1,11 @@
+id: 105734669 
+parent_name: South Formation 
+parent_url: /v/south-formation/105734069 
+route_description: The slabby face climb up the steep part of the southern formation.  While some of the moves are balancy and worthy of 5.9 difficulty, the climb is gradual enough that you can rest almost anywhere.  Making it a great .9 to solo! 
+route_name: Slabby  
+route_quality: 0.325 
+route_rating:  YDS: 5.8+ 
+route_rating_original: YDS: 5.9 
+route_type: TR, 1 pitch, 30' 
+route_url: /v/slabby/105734669 
+

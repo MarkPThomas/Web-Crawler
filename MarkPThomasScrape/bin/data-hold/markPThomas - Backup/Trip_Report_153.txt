@@ -1,0 +1,578 @@
+content: <div dir="ltr">
+<h1>
+<a name="TOC-South-Ridge-of-Gimli-Peak---A-Lesser-Known-Canadian-Classic"></a>South Ridge of Gimli Peak - A Lesser-Known Canadian Classic</h1>
+<br>
+<div><span style="border-collapse:collapse">
+<div><div class="sites-embed-align-center-wrapping-off"><div class="sites-embed-border-on sites-embed sites-embed-full-width" style="width:100%;">
+<h4 class="sites-embed-title">Gimli Area</h4>
+<div class="sites-embed-object-title" style="display:none;">Gimli Area</div>
+<div class="sites-embed-content sites-embed-type-map"><iframe src="//maps.google.com/maps/ms?ie=UTF8&amp;msa=0&amp;msid=213604519637044831749.0004e446dfd9d5f94bcc1&amp;output=embed&amp;output=embed" title="Gimli Area" width="100%" height="500" frameborder="0" class="map_embed" scrolling="no"></iframe></div>
+</div></div></div>
+<br>
+<br>
+</span></div>
+
+Alec and I did a nice 10 day climbing trip to Canada. While the emphasis was to be on the Bugaboos, the bad weather forecast for the area got us to decide to take a longer approach and swing by the classic Mt Gimli, in the Valhalla Range of British Columbia. The South Ridge was a super alpine classic that is well known in Canada, but we were fortunate to have it to ourselves. Originally rated III, 5.8, many guidebooks have increased the rating to 5.10 for the big roof crux. However, I still feel like the route is 5.9- or 5.9+ at the most generous, with the real crux being on P1! The campsite is beautiful, and while a car-to-car is easy to do, I highly recommend spending a night up there! The mountain goats are VERY friendly, too.&Acirc;&nbsp;
+
+<hr>
+<hr>
+<h2>
+<a name="TOC-July-27-2013---The-Approach"></a>July 27, 2013 - The Approach</h2>
+<div><span style="border-collapse:collapse">As the dust settled and we emerged from our transport vessel, curious natives approached us one by one, to greet us and inquire as to how we could have made it here in one piece. With the looks we got, and the repetitious approach, license plate inspection, greet, and inquiry that each hiker did, one at a time during the hour we spent packing, I felt a bit as if we were aliens who had just arrived from outer space.</span></div>
+<div><span style="border-collapse:collapse"><br>
+</span></div>
+<div><span style="border-collapse:collapse">
+<center>
+<a href="https://lh3.googleusercontent.com/-jQNQV0F83mI/Uhbpr9bdP-I/AAAAAAACfBs/PV9-obZAtNU/s1600/2013-07-26%2520-%2520003%2520-%2520Gimli%2520-%2520IMG_1898.jpg"><img src="https://lh3.googleusercontent.com/-jQNQV0F83mI/Uhbpr9bdP-I/AAAAAAACfBs/PV9-obZAtNU/s800/2013-07-26%2520-%2520003%2520-%2520Gimli%2520-%2520IMG_1898.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>Signs of travel.</i></b>
+</center>
+&Acirc;&nbsp;</span></div>
+<div><span style="border-collapse:collapse"><br>
+</span></div>
+<div><span style="border-collapse:collapse">&Acirc;&nbsp;Of course we weren't. Just two Utahns eager to climb. The poor weather forecast for the Bugaboos got me and Alec to change our plans, and stop by Gimli Peak in the Valhalla Range on our way to our main objective on our long trip out from Salt Lake City. The final drive was reputed to be a rough dirt road, that was maybe passable in a Subaru. We didn't have a Subaru, nor 4WD, but no one said that was required. However, due to cut funding for Provincial Parks in British Columbia, the road has gotten into much worse shape since the travel information had been written. Fortunately, we were driving Alec's car, and he has had some wild times driving it through a lot of rugged desert country. We nearly bottomed out twice, but barely made it to the trailhead thanks to Alec's bold and skillful driving. Everyone else at the trailhead was in a truck, SUV, or some other high clearance or 4WD vehicle, so naturally they ventured over to investigate this unexpected vehicle and where it was from!</span></div>
+<div>
+<br>
+<center>
+<a href="https://lh4.googleusercontent.com/-IeJ2B5t3wuM/Uhbtjaq8pWI/AAAAAAACfCE/CP3nef325UE/s1600/2013-07-27%252520-%252520005%252520-%252520Gimli%252520-%252520IMG_1902.jpg"><img src="https://lh4.googleusercontent.com/-IeJ2B5t3wuM/Uhbtjaq8pWI/AAAAAAACfCE/CP3nef325UE/s800/2013-07-27%252520-%252520005%252520-%252520Gimli%252520-%252520IMG_1902.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>The three summit of Mt Prestley towering above the dirt road on the way to Gimli. The dirt road is fine here but gets very bad near the end.</i></b>
+</center>
+<br>
+<br>
+The trailhead was surprisingly crowded for such an out-of-the way place, with German tourists, a large group of French Canadians from Quebec, and a variety of other travelers. Fortunately most of the crowd was either coming out, or only doing the class 3 scramble up Gimli. There was one other party vying for our route, but in the end they joined their friends on the class 3 and we had this classic line all to ourselves!<br>
+<br>
+<center>
+<a href="https://lh6.googleusercontent.com/-mixWfg7gGAc/Uhbty9ZMeaI/AAAAAAACfCY/yU3XJEILWdg/s1600/2013-07-27%252520-%252520006%252520-%252520Gimli%252520-%252520IMG_1906.jpg"><img src="https://lh6.googleusercontent.com/-mixWfg7gGAc/Uhbty9ZMeaI/AAAAAAACfCY/yU3XJEILWdg/s800/2013-07-27%252520-%252520006%252520-%252520Gimli%252520-%252520IMG_1906.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>Alec and his car ready to go. The wire mesh is to keep rubber-eating porcupines from getting in and eating the tires! I think our mesh extends high enough to keep bears out, too. </i></b>
+</center>
+<br>
+<br>
+<div>I was attracted to this route after first seeing <a href="http://www.stephabegg.com/home/tripreports/britishcolumbia/gimli" target="_blank">Steph Abegg's TR on her website</a>, and later seeing <a href="http://www.ericandlucie.com/Gimli/Gimli.htm" target="_blank">Eric &amp; Lucie's account on their website</a>. Its inclusion in lists such as <a href="http://lamountaineers.org/NAC/browserf/other/climlist/clindex.htm" target="_blank">North American Classic Climbs</a> and <a href="http://www.amazon.com/Beckeys-Favorite-North-American-Climbs/dp/0980122716/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1376800047&amp;sr=1-1&amp;keywords=fred+beckey%27s+100+favorite+north+american+climbs" target="_blank">Fred Beckey's 100 Favorite North American Climbs</a> further reinforced for me the idea that this place was well worth visiting, even though it was out of the way of most other international climbing destinations in BC, and few other climbing friends of mine had heard of it (Alec included). I am very glad that we made this detour! The scenery was beautiful, the campsite was wonderful, mountain goats plentiful and friendly, and the climbing was excellent. Although it can be climbed car-to-car reasonable enough, the bivy at the base is so nice that I'd say it would be a shame to do it this way unless you are pressed for time. There is even a toilet and food storage lockers, so there is no need to worry about packing in or out extra gear like a bear canister or wag bags. We hiked in the evening we arrived, then did the climb, descended, and drove to Revelstoke the following day.</div>
+<div>
+<br>
+</div>
+<div>The South Ridge was originally rated 5.8, but has since been re-rated in some sources to 5.10, with the big roof seeming to be the most commonly considered crux of the route. I felt like a section on P1 was harder, and the topo in Beckey's book shows this lower crux at a comparable rating. The lower crux was more committing and physical, but straightforward on the moves, while the upper crux is intimidating and requires some thinking, but it can be well protected and is only a couple of moves, although height can play a big role in how hard those moves are. Still, compared to climbs I have done in Yosemite, the High Sierra, and Southern Utah, I'd say 5.10 is a generous rating for the route. It really is more like 5.9- to 5.9+, so solid 5.9 leaders shouldn't be discouraged from getting on this one.</div>
+<div>
+<br>
+</div>
+<div>The route itself is surprisingly steep for being mostly 5.7, and it is like this due to all of the horizontal dike bands. It reminds me of an alpine version of some of the climbing classics at Lover's Leap.</div>
+<br>
+<center>
+<a href="https://lh6.googleusercontent.com/-bgQo7L1NkvQ/Uhbt0k9JMbI/AAAAAAACfCg/_drPlwkmF8o/s1600/2013-07-27%252520-%252520007%252520-%252520Gimli%252520-%252520IMG_1905.jpg"><img src="https://lh6.googleusercontent.com/-bgQo7L1NkvQ/Uhbt0k9JMbI/AAAAAAACfCg/_drPlwkmF8o/s800/2013-07-27%252520-%252520007%252520-%252520Gimli%252520-%252520IMG_1905.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>Gimli Peak seen from the trailhead. The south ridge climbs the line between light and shadow directly to the top, then over to the true summit on the right.</i></b>
+</center>
+&Acirc;&nbsp;<br>
+<br>
+</div>
+<div>
+The trail is steep, but easy hiking, with&Acirc;&nbsp;about 2,500 ft of gain in 2.37mi. Backpacking in for the night, we made it up there in 1 hour and 20 minutes of hard hiking. The terrain was just right for making the pace and exertion like that of a good aerobic workout, similar to some of the bike rides I like to do.<br>
+<br>
+<center>
+<a href="https://lh6.googleusercontent.com/-csqnVkird44/Uhbt9fYay_I/AAAAAAACfDQ/4d2a8neIQ9Y/s1600/2013-07-27%252520-%252520010%252520-%252520Gimli%252520-%252520IMG_1909.jpg"><img src="https://lh6.googleusercontent.com/-csqnVkird44/Uhbt9fYay_I/AAAAAAACfDQ/4d2a8neIQ9Y/s800/2013-07-27%252520-%252520010%252520-%252520Gimli%252520-%252520IMG_1909.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>Nearing the campsites. We took a less direct way up and over the mound on the left of the snow patch, but the more correct way is to stay to the right of the snowfield.</i></b>
+</center>
+<br>
+<br>
+<center>
+<a href="https://lh5.googleusercontent.com/-gSq3LMnSyjM/UhbuCrEsPwI/AAAAAAACfDw/DIDRyipQtSQ/s1600/2013-07-27%252520-%252520013%252520-%252520Gimli%252520-%252520IMG_1913.jpg"><img src="https://lh5.googleusercontent.com/-gSq3LMnSyjM/UhbuCrEsPwI/AAAAAAACfDw/DIDRyipQtSQ/s800/2013-07-27%252520-%252520013%252520-%252520Gimli%252520-%252520IMG_1913.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>As I neared the camp, this mountain goat trotted down the trail from the site to greet me.</i></b>
+</center>
+<br>
+<br>
+<center>
+<a href="https://lh4.googleusercontent.com/-wBLF_Idp0UQ/UhbuE4fKm3I/AAAAAAACfD4/zDD6Q3FgaYY/s1600/2013-07-27%252520-%252520014%252520-%252520Gimli%252520-%252520IMG_1916.jpg"><img src="https://lh4.googleusercontent.com/-wBLF_Idp0UQ/UhbuE4fKm3I/AAAAAAACfD4/zDD6Q3FgaYY/s800/2013-07-27%252520-%252520014%252520-%252520Gimli%252520-%252520IMG_1916.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>He stopped about 10 feet away and would not get off of the trail. As I didn't want to provoke any charging, I waited until he would move - which he wouldn't do!</i></b>
+</center>
+<br>
+<br>
+<center>
+<a href="https://lh4.googleusercontent.com/-VmyanRvqacM/UhbuGbowzQI/AAAAAAACfEA/V5jO_Zwn_1o/s1600/2013-07-27%252520-%252520015%252520-%252520Gimli%252520-%252520IMG_1917.jpg"><img src="https://lh4.googleusercontent.com/-VmyanRvqacM/UhbuGbowzQI/AAAAAAACfEA/V5jO_Zwn_1o/s800/2013-07-27%252520-%252520015%252520-%252520Gimli%252520-%252520IMG_1917.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>Friendly mountain goat overstaying his welcome. Let me pass!</i></b>
+</center>
+<br>
+<br>
+<center>
+<a href="https://lh3.googleusercontent.com/-MH0PMZgyOyw/UhbuHAmYaTI/AAAAAAACfEI/ZT6ocF0Cqvc/s1600/2013-07-27%252520-%252520015a%252520-%252520Gimli%252520-%252520IMG_1917.jpg"><img src="https://lh3.googleusercontent.com/-MH0PMZgyOyw/UhbuHAmYaTI/AAAAAAACfEI/ZT6ocF0Cqvc/s800/2013-07-27%252520-%252520015a%252520-%252520Gimli%252520-%252520IMG_1917.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>There's something crazy in those eyes.</i></b>
+</center>
+<br>
+<br>
+<center>
+<a href="https://lh6.googleusercontent.com/-tHM5Ao9ut9c/UhbuJux9a8I/AAAAAAACfEQ/ezRPfX5U2Vg/s1600/2013-07-27%252520-%252520016%252520-%252520Gimli%252520-%252520IMG_1918.jpg"><img src="https://lh6.googleusercontent.com/-tHM5Ao9ut9c/UhbuJux9a8I/AAAAAAACfEQ/ezRPfX5U2Vg/s800/2013-07-27%252520-%252520016%252520-%252520Gimli%252520-%252520IMG_1918.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>At last he steps off the trail and lets me pass, but this wouldn't be the last that I'd see of the mountain goats.</i></b>
+</center>
+<br>
+<br>
+<center>
+<a href="https://lh4.googleusercontent.com/-m7EE76ljqtQ/UhbuLmn_c1I/AAAAAAACfEY/Ja9eSFxhbIY/s1600/2013-07-27%252520-%252520017%252520-%252520Gimli%252520-%252520IMG_1920.jpg"><img src="https://lh4.googleusercontent.com/-m7EE76ljqtQ/UhbuLmn_c1I/AAAAAAACfEY/Ja9eSFxhbIY/s800/2013-07-27%252520-%252520017%252520-%252520Gimli%252520-%252520IMG_1920.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>Gimli Peak and its awesome S Ridge on the right, seen from camp.</i></b>
+</center>
+<br>
+<br>
+Just to warn you all, the mountain goats here are plentiful and VERY friendly. They seem to leave your food well enough alone, but if you give any indication that you might be urinating, they will descend upon you like a pack of piranhas! It is difficult not to pee on them. One also followed me over to the toilet and stood on top of the rock behind, peering right down at me a few feet away - some privacy, please?<br>
+<div>
+<br>
+</div>
+<div>
+<div class="sites-embed-align-center-wrapping-off"><div class="sites-embed-border-off sites-embed" style="width:640px;"><div class="sites-embed-content sites-embed-type-youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" src="//www.youtube.com/embed/jFbkhRve-eo?rel=0&amp;wmode=opaque" frameborder="0" allowfullscreen="true" width="640" height="360"></iframe></div></div></div>
+</div>
+<center><b><i>Mountain goats. They were more than just indifferent to our presence, they were drawn to us!</i></b></center>
+</div>
+<div>
+<br>
+<br>
+<center>
+<a href="https://lh4.googleusercontent.com/-n32QGgbddu8/UhbuNk77jNI/AAAAAAACfEg/hjK4z9RMazE/s1600/2013-07-27%252520-%252520019%252520-%252520Gimli%252520-%252520IMG_1923.jpg"><img src="https://lh4.googleusercontent.com/-n32QGgbddu8/UhbuNk77jNI/AAAAAAACfEg/hjK4z9RMazE/s800/2013-07-27%252520-%252520019%252520-%252520Gimli%252520-%252520IMG_1923.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>As we set up camp, an entire family of mountain goats trotted down from the slopes above to hang out with us. They hung around all day and the next day after we came down, sometimes hanging out, sometimes coming up to us.</i></b>
+</center>
+<br>
+<br>
+<center>
+<a href="https://lh5.googleusercontent.com/-cV7hWWPfjRo/UhbuUGWaTKI/AAAAAAACfFM/PqEIsxKQ1tA/s1600/2013-07-27%252520-%252520024%252520-%252520Gimli%252520-%252520IMG_1932.jpg"><img src="https://lh5.googleusercontent.com/-cV7hWWPfjRo/UhbuUGWaTKI/AAAAAAACfFM/PqEIsxKQ1tA/s800/2013-07-27%252520-%252520024%252520-%252520Gimli%252520-%252520IMG_1932.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>Mamma &amp; baby goats.</i></b>
+</center>
+&Acirc;&nbsp;</div>
+<div>
+<div>
+<div class="sites-embed-align-center-wrapping-off"><div class="sites-embed-border-off sites-embed" style="width:640px;"><div class="sites-embed-content sites-embed-type-youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" src="//www.youtube.com/embed/SqUGGugGRfM?rel=0&amp;wmode=opaque" frameborder="0" allowfullscreen="true" width="640" height="360"></iframe></div></div></div>
+</div>
+<center><b><i>Little mountain goats at play.&Acirc;&nbsp;</i></b></center>
+<br>
+</div>
+<div>
+<div>
+<div class="sites-embed-align-center-wrapping-off"><div class="sites-embed-border-off sites-embed" style="width:640px;"><div class="sites-embed-content sites-embed-type-youtube"><iframe title="YouTube video player" class="youtube-player" type="text/html" src="//www.youtube.com/embed/IIIuAr1HILw?rel=0&amp;wmode=opaque" frameborder="0" allowfullscreen="true" width="640" height="360"></iframe></div></div></div>
+</div>
+</div>
+<div>
+<center><b><i>Little mountain goats at play.</i></b></center>
+<br>
+<br>
+<center>
+<a href="https://lh6.googleusercontent.com/-lRuNoiz16QA/Uhb1ha3G5FI/AAAAAAACfHM/GZUFMILRK9g/s1600/2013-07-27%252520-%252520029%252520-%252520Gimli%252520-%252520IMG_1926.jpg"><img src="https://lh6.googleusercontent.com/-lRuNoiz16QA/Uhb1ha3G5FI/AAAAAAACfHM/GZUFMILRK9g/s800/2013-07-27%252520-%252520029%252520-%252520Gimli%252520-%252520IMG_1926.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>Alec settling in for the night at our sweet campsite behind a massive wind wall. We also brought up some cheese &amp; a bottle of wine to have with dinner.</i></b>
+</center>
+&Acirc;&nbsp;<br>
+<br>
+<center>
+<a href="https://lh4.googleusercontent.com/-vIax7BBXqkg/Uhb1lzQe47I/AAAAAAACfHs/FOLMo-IFqMU/s1600/2013-07-27%252520-%252520036%252520-%252520Gimli%252520-%252520DSC_0016-2.jpg"><img src="https://lh4.googleusercontent.com/-vIax7BBXqkg/Uhb1lzQe47I/AAAAAAACfHs/FOLMo-IFqMU/s800/2013-07-27%252520-%252520036%252520-%252520Gimli%252520-%252520DSC_0016-2.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>Gimli Peak at night.</i></b>
+</center>
+<br>
+<br>
+<center>
+<a href="https://lh6.googleusercontent.com/-Xdvu8JcOM1o/Uhb1vcV-r8I/AAAAAAACfIw/_yfaC3BgC3w/s1600/2013-07-28%252520-%252520044%252520-%252520Gimli%252520-%252520DSC_0020-2.jpg"><img src="https://lh6.googleusercontent.com/-Xdvu8JcOM1o/Uhb1vcV-r8I/AAAAAAACfIw/_yfaC3BgC3w/s800/2013-07-28%252520-%252520044%252520-%252520Gimli%252520-%252520DSC_0020-2.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>Gimli Peak at night.</i></b>
+</center>
+<br>
+<br>
+<h2>
+<a name="TOC-July-28-2013---South-Ridge-of-Gimli-Peak"></a>July 28, 2013 - South Ridge of Gimli Peak</h2>
+We had a leisurely start as we were camped only 15 minutes from the base of the climb. We enjoyed breakfast and started the first pitch at 8:20 am. It took us 4:40 to climb the 7 pitches and scramble to the summit, and about an hour to descend. We would have been faster on climbing time, but lost a lot of time working out a stuck rope problem on the big roof pitch.<br>
+<br>
+<center>
+<a href="https://lh3.googleusercontent.com/-wkVzhbOkr68/Uhb1xDRkk0I/AAAAAAACfI8/thkdrHZtwU8/s1600/2013-07-28%252520-%252520045%252520-%252520Gimli%252520-%252520IMG_1935.jpg"><img src="https://lh3.googleusercontent.com/-wkVzhbOkr68/Uhb1xDRkk0I/AAAAAAACfI8/thkdrHZtwU8/s800/2013-07-28%252520-%252520045%252520-%252520Gimli%252520-%252520IMG_1935.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>2013-07-28 - Prestley Peaks to the West.</i></b>
+</center>
+<br>
+<br>
+<center>
+<a href="https://lh4.googleusercontent.com/-WjOYtNiRGec/Uhb1zBA9wTI/AAAAAAACfJE/MkBLP7Th5Mk/s1600/2013-07-28%252520-%252520046%252520-%252520Gimli%252520-%252520IMG_1936.jpg"><img src="https://lh4.googleusercontent.com/-WjOYtNiRGec/Uhb1zBA9wTI/AAAAAAACfJE/MkBLP7Th5Mk/s800/2013-07-28%252520-%252520046%252520-%252520Gimli%252520-%252520IMG_1936.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>Nisleheim Peak to the West, forming a pass next to Gimli that a well worn path passes through.</i></b>
+</center>
+<br>
+<br>
+<br>
+<center>
+<a href="https://lh5.googleusercontent.com/-C5MXn8DCoFo/Uhb16p2EIlI/AAAAAAACfJc/10Xx5d1vMDk/s1600/2013-07-28%252520-%252520049%252520-%252520Gimli%252520-%252520IMG_1938.jpg"><img src="https://lh5.googleusercontent.com/-C5MXn8DCoFo/Uhb16p2EIlI/AAAAAAACfJc/10Xx5d1vMDk/s800/2013-07-28%252520-%252520049%252520-%252520Gimli%252520-%252520IMG_1938.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>P1 of the S Ridge of Gimli Peak. A long, sustained and classic pitch, one of the best on the rout and, in my opinion, the crux. Face climb far on the left and back right into the corner without pro to start.</i></b>
+</center>
+&Acirc;&nbsp;<br>
+<br>
+<center>
+<a href="https://lh5.googleusercontent.com/-6WB928SOvzM/Uhb18LxG3YI/AAAAAAACfJk/kReLBnWmA5E/s1600/2013-07-28%252520-%252520050%252520-%252520Gimli%252520-%252520IMG_1940.jpg"><img src="https://lh5.googleusercontent.com/-6WB928SOvzM/Uhb18LxG3YI/AAAAAAACfJk/kReLBnWmA5E/s800/2013-07-28%252520-%252520050%252520-%252520Gimli%252520-%252520IMG_1940.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>P1, looking at the crux, a hard undercling. I thought this was more committing and nearly as difficult as the big roof crux higher on the route. The second little roof was fun, too.</i></b>
+</center>
+&Acirc;&nbsp;<br>
+<br>
+<center>
+<a href="https://lh5.googleusercontent.com/-lah6jXsV3YU/Uhb2C6H3jFI/AAAAAAACfJ0/p_CAX4lNDxM/s1600/2013-07-28%252520-%252520053%252520-%252520Gimli%252520-%252520IMG_1943.jpg"><img src="https://lh5.googleusercontent.com/-lah6jXsV3YU/Uhb2C6H3jFI/AAAAAAACfJ0/p_CAX4lNDxM/s800/2013-07-28%252520-%252520053%252520-%252520Gimli%252520-%252520IMG_1943.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>Alec leading P2. </i></b>
+</center>
+&Acirc;&nbsp;<br>
+<br>
+<center>
+<a href="https://lh4.googleusercontent.com/-r5dkQvxIduk/Uhb2G7dmoEI/AAAAAAACfKE/oK3-Fp0ZMxs/s1600/2013-07-28%252520-%252520055%252520-%252520Gimli%252520-%252520IMG_1945.jpg"><img src="https://lh4.googleusercontent.com/-r5dkQvxIduk/Uhb2G7dmoEI/AAAAAAACfKE/oK3-Fp0ZMxs/s800/2013-07-28%252520-%252520055%252520-%252520Gimli%252520-%252520IMG_1945.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>Alec leading P2. Unfortunately this pitch eased up in a hurry and was then mostly a scramble.</i></b>
+</center>
+<br>
+<br>
+<center>
+<a href="https://lh4.googleusercontent.com/-KvXv3OUiWyk/Uhb2Lf4UY9I/AAAAAAACfKU/MGj0uCVYF_Y/s1600/2013-07-28%252520-%252520057%252520-%252520Gimli%252520-%252520IMG_1948.jpg"><img src="https://lh4.googleusercontent.com/-KvXv3OUiWyk/Uhb2Lf4UY9I/AAAAAAACfKU/MGj0uCVYF_Y/s800/2013-07-28%252520-%252520057%252520-%252520Gimli%252520-%252520IMG_1948.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>Looking down P2. Getting some air!</i></b>
+</center>
+<br>
+<br>
+<center>
+<a href="https://lh5.googleusercontent.com/-tV5kD0g_NyY/Uhb2NNi--rI/AAAAAAACfKc/d4wBkCt1hdc/s1600/2013-07-28%252520-%252520058%252520-%252520Gimli%252520-%252520IMG_1949.jpg"><img src="https://lh5.googleusercontent.com/-tV5kD0g_NyY/Uhb2NNi--rI/AAAAAAACfKc/d4wBkCt1hdc/s800/2013-07-28%252520-%252520058%252520-%252520Gimli%252520-%252520IMG_1949.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>Alec on the comfy belay pedestal atop P2. I stepped across onto the face to lead P3.</i></b>
+</center>
+<br>
+<br>
+<center>
+<a href="https://lh4.googleusercontent.com/-AGsDSmdEhGw/Uhb2Pqcr56I/AAAAAAACfKk/J8nYpoQ74sQ/s1600/2013-07-28%252520-%252520059%252520-%252520Gimli%252520-%252520IMG_1950.jpg"><img src="https://lh4.googleusercontent.com/-AGsDSmdEhGw/Uhb2Pqcr56I/AAAAAAACfKk/J8nYpoQ74sQ/s800/2013-07-28%252520-%252520059%252520-%252520Gimli%252520-%252520IMG_1950.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>Looking up P3, which has a lot of thin, airy face climbing. Seeking cracks for pro and more comfortable climbing, I went too far right and around the corner, but found my way back to the ridge crest on a ledge a short ways above the 'official' ending ledge with a small tree. This way worked well enough and I marked it as a variation in my route annotations.</i></b>
+</center>
+&Acirc;&nbsp;<br>
+<br>
+<center>
+<a href="https://lh5.googleusercontent.com/-_ZhHEfg0frg/Uhb2SP9ikGI/AAAAAAACfKs/7CPRmSDd_aE/s1600/2013-07-28%252520-%252520060%252520-%252520Gimli%252520-%252520IMG_1951.jpg"><img src="https://lh5.googleusercontent.com/-_ZhHEfg0frg/Uhb2SP9ikGI/AAAAAAACfKs/7CPRmSDd_aE/s800/2013-07-28%252520-%252520060%252520-%252520Gimli%252520-%252520IMG_1951.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>Alec leading the remainder of P4, a fun but short 5.6 lieback, before the terrain eased up dramatically before the big grassy ledge.</i></b>
+</center>
+<br>
+<br>
+<center>
+<a href="https://lh6.googleusercontent.com/-5jF6jVlllhc/Uhb2VlF5poI/AAAAAAACfLA/rlEgc1duJTU/s1600/2013-07-28%252520-%252520062%252520-%252520Gimli%252520-%252520IMG_1958.jpg"><img src="https://lh6.googleusercontent.com/-5jF6jVlllhc/Uhb2VlF5poI/AAAAAAACfLA/rlEgc1duJTU/s800/2013-07-28%252520-%252520062%252520-%252520Gimli%252520-%252520IMG_1958.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>Wolfs Ears to the east.</i></b>
+</center>
+<br>
+<br>
+<center>
+<a href="https://lh4.googleusercontent.com/-i44gxHPEdgI/UljBlk2d7dI/AAAAAAACznE/SFRqXjCzKN0/s2000/2013-07-28%2520-%2520097%2520-%2520Gimli%2520-%2520IMG_1993%2520-%2520annotated.jpg"><img src="https://lh4.googleusercontent.com/-i44gxHPEdgI/UljBlk2d7dI/AAAAAAACznE/SFRqXjCzKN0/s800/2013-07-28%2520-%2520097%2520-%2520Gimli%2520-%2520IMG_1993%2520-%2520annotated.jpg" style="border-width:0px;background-color:transparent"></a><br>
+<b><i>The P4 and P5 with the big roof crux on the South Ridge of Gimli Peak.</i></b>
+</center>
+&Acirc;&nbsp;<br>
+<br>
+<center>
+<a href="https://lh4.googleusercontent.com/-hETcQlgoGng/Uhb2XkKTSFI/AAAAAAACfLI/DKMtRNp_EAM/s1600/2013-07-28%252520-%252520063%252520-%252520Gimli%252520-%252520IMG_1953.jpg"><img src="https://lh4.googleusercontent.com/-hETcQlgoGng/Uhb2XkKTSFI/AAAAAAACfLI/DKMtRNp_EAM/s800/2013-07-28%252520-%252520063%252520-%252520Gimli%252520-%252520IMG_1953.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>Alec looking up P5, a sustained and classic 5.8 crack. As I felt bad that he had gotten the only two boring pitches of the climb, I offered this pitch to him, also thinking he was still going to lead the roof above.</i></b>
+</center>
+<br>
+<br>
+<center>
+<a href="https://lh6.googleusercontent.com/-KbqFajuAPC8/Uhb2fBpXRlI/AAAAAAACfLo/lR2ENv9bNHE/s1600/2013-07-28%252520-%252520071%252520-%252520Gimli%252520-%252520IMG_1962.jpg"><img src="https://lh6.googleusercontent.com/-KbqFajuAPC8/Uhb2fBpXRlI/AAAAAAACfLo/lR2ENv9bNHE/s800/2013-07-28%252520-%252520071%252520-%252520Gimli%252520-%252520IMG_1962.jpg" style="border-width:0px;background-color:transparent"></a>&Acirc;&nbsp;<br>
+<b><i>Alec leading P5 as it recedes into the sky.</i></b>
+</center>
+&Acirc;&nbsp;<br>
+<br>
+<center>
+<a href="https://lh3.googleusercontent.com/-tGjc7DZtmRY/Uhb2dA-UXWI/AAAAAAACfLg/czWbL6VIObM/s1600/2013-07-28%252520-%252520070%252520-%252520Gimli%252520-%252520IMG_1961.jpg"><img src="https://lh3.googleusercontent.com/-tGjc7DZtmRY/Uhb2dA-UXWI/AAAAAAACfLg/czWbL6VIObM/s800/2013-07-28%252520-%252520070%252520-%252520Gimli%252520-%252520IMG_1961.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>Alec leading P5 as it recedes into the sky.</i></b>
+</center>
+<br>
+<br>
+<center>
+<a href="https://lh3.googleusercontent.com/-gYQDcyW5g0M/Uhb2jWN7HQI/AAAAAAACfL4/rO7x1Q3XTNk/s1600/2013-07-28%252520-%252520073%252520-%252520Gimli%252520-%252520IMG_1965.jpg" style="background-color:transparent;line-height:1.25;font-size:10pt"><img src="https://lh3.googleusercontent.com/-gYQDcyW5g0M/Uhb2jWN7HQI/AAAAAAACfL4/rO7x1Q3XTNk/s800/2013-07-28%252520-%252520073%252520-%252520Gimli%252520-%252520IMG_1965.jpg" style="border-width:0px;background-color:transparent"></a><span style="background-color:transparent;line-height:1.25;font-size:10pt">&Acirc;&nbsp;</span><br>
+<b><i>Following P5, an excellent 5.8 crack!</i></b>
+</center>
+<br>
+<br>
+<center>
+<a href="https://lh4.googleusercontent.com/-fSQn5PO5_DA/Uhb2lGRFfsI/AAAAAAACfMA/C3vgLnfAI7U/s1600/2013-07-28%252520-%252520074%252520-%252520Gimli%252520-%252520IMG_1966.jpg"><img src="https://lh4.googleusercontent.com/-fSQn5PO5_DA/Uhb2lGRFfsI/AAAAAAACfMA/C3vgLnfAI7U/s800/2013-07-28%252520-%252520074%252520-%252520Gimli%252520-%252520IMG_1966.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>The 'crux' roof looms above on P6. Originally rated 5.8, this route's rating was bumped to 5.10a due to this. Alec offered me the lead, so off I went! Very easy climbing up into the roof, where I had to figure out how to make the big step left.</i></b>
+</center>
+<br>
+<br>
+</div>
+<div>
+<center>
+<a href="https://lh6.googleusercontent.com/-d3_8vqWRZ6M/Uhb2s7xEjmI/AAAAAAACfMg/GHvpdCZAz3g/s1600/2013-07-28%252520-%252520076aa%252520-%252520Gimli%252520-%252520IMG_0315%252520-%252520Alec.jpg"><img src="https://lh6.googleusercontent.com/-d3_8vqWRZ6M/Uhb2s7xEjmI/AAAAAAACfMg/GHvpdCZAz3g/s800/2013-07-28%252520-%252520076aa%252520-%252520Gimli%252520-%252520IMG_0315%252520-%252520Alec.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>Mark leading the crux pitch (5.9+) of the South ridge. (by Alec LaLonde)</i></b>
+</center>
+<br>
+<br>
+<center>
+<a href="https://lh5.googleusercontent.com/-dIbpnqiBrz8/Uhb2uf698dI/AAAAAAACfMo/qowO18y1n04/s1600/2013-07-28%252520-%252520077%252520-%252520Gimli%252520-%252520IMG_1969.jpg"><img src="https://lh5.googleusercontent.com/-dIbpnqiBrz8/Uhb2uf698dI/AAAAAAACfMo/qowO18y1n04/s800/2013-07-28%252520-%252520077%252520-%252520Gimli%252520-%252520IMG_1969.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>Alec leading P6 to finish the route. Basically cl. 4 apart from the short 5.7 step that he was on, then it eases back into class 3 and then class 2. I'd recommend halfing the rope and simul-climbing to the summit for this pitch.</i></b>
+</center>
+<br>
+<br>
+<center>
+<a href="https://lh6.googleusercontent.com/-av4pPFnz2B0/Uhb2xht59hI/AAAAAAACfM4/QtBgnwK3zBI/s1600/2013-07-28%252520-%252520079%252520-%252520Gimli%252520-%252520IMG_1971.jpg"><img src="https://lh6.googleusercontent.com/-av4pPFnz2B0/Uhb2xht59hI/AAAAAAACfM4/QtBgnwK3zBI/s800/2013-07-28%252520-%252520079%252520-%252520Gimli%252520-%252520IMG_1971.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>The easy 'scramble' to the false summit, the main summit lies beyond. I read that it was cl. 3-4 getting over there . . . but it was only cl. 2!</i></b>
+</center>
+<br>
+<br>
+<center>
+<a href="https://lh4.googleusercontent.com/-uHp0iA4GSqk/Uhb2zUNAhOI/AAAAAAACfNA/2SHdmzLcnj8/s1600/2013-07-28%252520-%252520080%252520-%252520Gimli%252520-%252520IMG_1972.jpg"><img src="https://lh4.googleusercontent.com/-uHp0iA4GSqk/Uhb2zUNAhOI/AAAAAAACfNA/2SHdmzLcnj8/s800/2013-07-28%252520-%252520080%252520-%252520Gimli%252520-%252520IMG_1972.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>Asgard Peak seen from the summit of Gimli Peak.</i></b>
+</center>
+<br>
+<br>
+<center>
+<a href="https://lh5.googleusercontent.com/--YjHWNeWm64/Uhb22-Yz29I/AAAAAAACfNQ/qc8k9sdewSE/s1600/2013-07-28%252520-%252520081%252520-%252520Gimli%252520-%252520IMG_1973.jpg"><img src="https://lh5.googleusercontent.com/--YjHWNeWm64/Uhb22-Yz29I/AAAAAAACfNQ/qc8k9sdewSE/s800/2013-07-28%252520-%252520081%252520-%252520Gimli%252520-%252520IMG_1973.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>Gladsheim Peak seen from the summit of Gimli Peak.</i></b>
+</center>
+<br>
+<br>
+<center>
+<a href="https://lh4.googleusercontent.com/-83thLPXqaTE/Uhb240fixqI/AAAAAAACfNY/CDDMR48GcV8/s1600/2013-07-28%252520-%252520082%252520-%252520Gimli%252520-%252520IMG_1974.jpg"><img src="https://lh4.googleusercontent.com/-83thLPXqaTE/Uhb240fixqI/AAAAAAACfNY/CDDMR48GcV8/s800/2013-07-28%252520-%252520082%252520-%252520Gimli%252520-%252520IMG_1974.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>Wolfs Ears (right) and Mount Dag seen from the summit of Mt Gimli. As the afternoon came on, it rained all around us but never quite on us!</i></b>
+</center>
+<br>
+<br>
+<center>
+<a href="https://lh5.googleusercontent.com/-T58r77qr8bk/Uhb26NnuzBI/AAAAAAACfNg/8mq11v2xlqk/s1600/2013-07-28%252520-%252520083%252520-%252520Gimli%252520-%252520IMG_1978.jpg"><img src="https://lh5.googleusercontent.com/-T58r77qr8bk/Uhb26NnuzBI/AAAAAAACfNg/8mq11v2xlqk/s800/2013-07-28%252520-%252520083%252520-%252520Gimli%252520-%252520IMG_1978.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>Panorama from the summit of Gimli Peak. Mt Prestley, Prestley NE0, Midgard Peak Asgard Peak, Gladsheim Peak.</i></b>
+</center>
+<br>
+<br>
+<center>
+<a href="https://lh3.googleusercontent.com/-iHDjZiY2juc/Uhb27mW-NwI/AAAAAAACfNo/8NhtwIvTkwo/s1600/2013-07-28%252520-%252520084%252520-%252520Gimli%252520-%252520IMG_1980.jpg"><img src="https://lh3.googleusercontent.com/-iHDjZiY2juc/Uhb27mW-NwI/AAAAAAACfNo/8NhtwIvTkwo/s800/2013-07-28%252520-%252520084%252520-%252520Gimli%252520-%252520IMG_1980.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>Mt Prestley &amp; Prestley NE0 seen from the summit of Gimli Peak. Woden Peak is behind to the right.</i></b>
+</center>
+<br>
+<br>
+<center>
+<a href="https://lh5.googleusercontent.com/-klFLf9MhdVs/Uhb2-zX7n_I/AAAAAAACfN4/P17fT5Wyc5w/s1600/2013-07-28%252520-%252520085a%252520-%252520Gimli%252520-%252520IMG_1981.jpg"><img src="https://lh5.googleusercontent.com/-klFLf9MhdVs/Uhb2-zX7n_I/AAAAAAACfN4/P17fT5Wyc5w/s800/2013-07-28%252520-%252520085a%252520-%252520Gimli%252520-%252520IMG_1981.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>Midgard Peak. behind to the right are Devil's Dome (far right) and Dark Prince Peak (left of Devil's), and the summit on the left is Mt Bor. The ridgeline joining them has summits going left to right as Lucifer Peak, Trident Peak, Rosemary's Baby, and Mount Mephistopheles.</i></b>
+</center>
+<br>
+<br>
+<center>
+<a href="https://lh4.googleusercontent.com/-NsgR6M9GNKI/Uhb3HKw1hGI/AAAAAAACfOg/BP9hfjIb6Ug/s1600/2013-07-28%252520-%252520090%252520-%252520Gimli%252520-%252520IMG_1986.jpg"><img src="https://lh4.googleusercontent.com/-NsgR6M9GNKI/Uhb3HKw1hGI/AAAAAAACfOg/BP9hfjIb6Ug/s800/2013-07-28%252520-%252520090%252520-%252520Gimli%252520-%252520IMG_1986.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>Looking down the East Ridge as we descended. This is marked by a large cairn about 200 ft NW from the obvious summit. It is a little steep at the top, but only light class 4. It quickly eases to class 3 and mostly class 2 for the descent, and is very straightforward once you find the entry-exit on the summit ridge.</i></b>
+</center>
+<br>
+<br>
+<center>
+<a href="https://lh4.googleusercontent.com/-H9adm22kLxI/Uhb3Kh0P-OI/AAAAAAACfOw/brcu9_NXAXM/s1600/2013-07-28%252520-%252520092%252520-%252520Gimli%252520-%252520IMG_1988.jpg"><img src="https://lh4.googleusercontent.com/-H9adm22kLxI/Uhb3Kh0P-OI/AAAAAAACfOw/brcu9_NXAXM/s800/2013-07-28%252520-%252520092%252520-%252520Gimli%252520-%252520IMG_1988.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>The imposing East Face of Gimli Peak, seen on the descent. This is home to many 5.12 climbs. The South Ridge is seen on the left, from about P4 to the top.</i></b>
+</center>
+<br>
+<br>
+<center>
+<a href="https://lh4.googleusercontent.com/-Y_ABYH7b5Go/Uhb3MKhps5I/AAAAAAACfO4/R-6a9hZO6-4/s1600/2013-07-28%252520-%252520093%252520-%252520Gimli%252520-%252520IMG_1989.jpg"><img src="https://lh4.googleusercontent.com/-Y_ABYH7b5Go/Uhb3MKhps5I/AAAAAAACfO4/R-6a9hZO6-4/s800/2013-07-28%252520-%252520093%252520-%252520Gimli%252520-%252520IMG_1989.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>Rounding the tip of the South Ridge of Gimli Peak as we returned to camp.</i></b>
+</center>
+<br>
+<br>
+<center>
+<a href="https://lh5.googleusercontent.com/-NIhsG0EBfY8/Uhb3PU3BfvI/AAAAAAACfPI/dNV673Aabh0/s1600/2013-07-28%252520-%252520094a%252520-%252520Gimli%252520-%252520IMG_1990.jpg"><img src="https://lh5.googleusercontent.com/-NIhsG0EBfY8/Uhb3PU3BfvI/AAAAAAACfPI/dNV673Aabh0/s800/2013-07-28%252520-%252520094a%252520-%252520Gimli%252520-%252520IMG_1990.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>The South Ridge of Gimli Peak.</i></b>
+</center>
+<br>
+<br>
+<center>
+<a href="https://lh5.googleusercontent.com/-8MnZ-46CElI/Uhb3bVTpmUI/AAAAAAACfQA/7rm_VoyxGHI/s1600/2013-07-28%252520-%252520099%252520-%252520Gimli%252520-%252520IMG_1996.jpg"><img src="https://lh5.googleusercontent.com/-8MnZ-46CElI/Uhb3bVTpmUI/AAAAAAACfQA/7rm_VoyxGHI/s800/2013-07-28%252520-%252520099%252520-%252520Gimli%252520-%252520IMG_1996.jpg" style="border-width:0px;background-color:transparent"></a>
+<br>
+<b><i>Gimli Peak seen on the hike down.</i></b>
+</center>
+<br>
+</div>
+<div>
+<br>
+</div>
+<div>
+<hr>
+<hr>
+<h2>
+<a name="TOC-Maps-Annotations"></a>Maps &amp; Annotations</h2>
+<div>
+<a href="https://maps.google.com/maps?saddr=Slocan,+BC,+Canada&amp;daddr=Unknown+road&amp;hl=en&amp;ll=49.726033,-117.554741&amp;spn=0.120512,0.338173&amp;sll=49.711938,-117.628469&amp;sspn=0.030137,0.084543&amp;geocode=FbFS9wIdII3_-ClB4tXUEZd8UzGrwyhuki-L5A%3BFf2H9gIdSxT9-A&amp;oq=castleg&amp;t=p&amp;mra=dme&amp;mrsp=1&amp;sz=14&amp;z=12" target="_blank">Driving Directions from Slocan</a>&Acirc;&nbsp;(click to see where in Canada this is)<br>
+<br>
+<center>
+<a href="https://lh5.googleusercontent.com/-8oAYWB0vDto/Ul9N_4viffI/AAAAAAACz5s/M1GtlGs69Wk/s2000/Map%2520-%2520Gimli%2520Peak%2520-%2520Approach.jpg"><img src="https://lh5.googleusercontent.com/-8oAYWB0vDto/Ul9N_4viffI/AAAAAAACz5s/M1GtlGs69Wk/s800/Map%2520-%2520Gimli%2520Peak%2520-%2520Approach.jpg" style="border-width:0px;background-color:transparent"></a><br>
+<b><i>Approach map of the drive to the main Valhalla Trailhead from Slocan, British Columbia</i></b>
+</center>
+<br>
+<br>
+<center>
+<a href="https://lh4.googleusercontent.com/-Zb86Swe4aUg/Ul9OHzhBs3I/AAAAAAACz50/mEi6kebxJaA/s2000/Map%2520-%2520Gimli%2520Peak%2520-%2520Close.jpg"><img src="https://lh4.googleusercontent.com/-Zb86Swe4aUg/Ul9OHzhBs3I/AAAAAAACz50/mEi6kebxJaA/s800/Map%2520-%2520Gimli%2520Peak%2520-%2520Close.jpg" style="border-width:0px;background-color:transparent"></a><br>
+<b><i>Closeup Map of the Gimli Peak area of the Valhalla Range</i></b>
+</center>
+</div>
+<div><b><i><br>
+</i></b></div>
+<center>
+<a href="https://lh3.googleusercontent.com/-dtzJp7DzY94/UljBeru4ZvI/AAAAAAACzm0/oXUbeoBxh74/s2000/2013-07-28%2520-%2520096a%2520-%2520Gimli%2520-%2520IMG_1992%2520-%2520annotated.jpg"><img src="https://lh3.googleusercontent.com/-dtzJp7DzY94/UljBeru4ZvI/AAAAAAACzm0/oXUbeoBxh74/s800/2013-07-28%2520-%2520096a%2520-%2520Gimli%2520-%2520IMG_1992%2520-%2520annotated.jpg" style="border-width:0px;background-color:transparent"></a> <br>
+<b><i>South Ridge of Gimli Peak (III, 5.8+/5.10a, 7P)</i></b>
+</center>
+<br>
+<br>
+<center>
+<a href="https://lh3.googleusercontent.com/-bDJF0O5y8cg/UljBsOcKkvI/AAAAAAACznU/g93PmqAH2hY/s1600/2013-07-28%2520-%2520099a%2520-%2520Gimli%2520-%2520IMG_1996%2520-%2520annotated.jpg"><img src="https://lh3.googleusercontent.com/-bDJF0O5y8cg/UljBsOcKkvI/AAAAAAACznU/g93PmqAH2hY/s800/2013-07-28%2520-%2520099a%2520-%2520Gimli%2520-%2520IMG_1996%2520-%2520annotated.jpg" style="border-width:0px;background-color:transparent"></a> <br>
+<b><i>South Ridge of Gimli Peak (III, 5.8+/5.10a, 7P)</i></b>
+</center>
+<br>
+<br>
+<center>
+<a href="https://lh5.googleusercontent.com/-h7HR0MqDmmk/UljBW5mZXkI/AAAAAAACzmk/xnxGpafzCaI/s1600/2013-07-28%2520-%2520094a%2520-%2520Gimli%2520-%2520IMG_1990%2520-%2520annotated.jpg"><img src="https://lh5.googleusercontent.com/-h7HR0MqDmmk/UljBW5mZXkI/AAAAAAACzmk/xnxGpafzCaI/s800/2013-07-28%2520-%2520094a%2520-%2520Gimli%2520-%2520IMG_1990%2520-%2520annotated.jpg" style="border-width:0px;background-color:transparent"></a> <br>
+<b><i>South Ridge of Gimli Peak (III, 5.8+/5.10a, 7P)</i></b>
+</center>
+<br>
+<br>
+<hr>
+<hr>
+<h2>
+<a name="TOC-Links"></a>Links</h2>
+<ul><li>
+<a href="https://picasaweb.google.com/105894936663116565516/20130726to28GimliPeakWAlecLaLonde?authuser=0&amp;feat=directlink" style="background-color:transparent;line-height:1.25;font-size:10pt" target="_blank">Picasa Album</a>
+</li></ul>
+<div>
+<br>
+<hr>
+<hr>
+<h2>
+<a name="TOC-Notes:"></a>Notes:</h2>
+<div><span style="background-color:transparent;line-height:1.25;font-size:10pt"><br>
+</span></div>
+<div><span style="background-color:transparent;line-height:1.25;font-size:10pt">Trailhead to campsite: +2495', -140', 2.37mi, 1:20 hiking</span></div>
+<span style="border-collapse:collapse"><br>
+</span>
+<div>
+<br>
+</div>
+<div>
+<table border="1" bordercolor="#888" cellspacing="0" style="border-collapse:collapse;border-color:rgb(136,136,136);border-width:1px">
+<tbody>
+<tr>
+<td>&Acirc;&nbsp;</td>
+<td>&Acirc;&nbsp;Time (of day)</td>
+<td>&Acirc;&nbsp;Time (length)</td>
+<td>&Acirc;&nbsp;Notes&Acirc;&nbsp; &Acirc;&nbsp;</td>
+<td>&Acirc;&nbsp;Leader</td>
+<td>&Acirc;&nbsp;Rating</td>
+</tr>
+<tr>
+<td style="width:119px;height:30px">Start P1</td>
+<td style="width:142px;height:30px">&Acirc;&nbsp;8:19 am</td>
+<td style="width:60px">&Acirc;&nbsp;1:06 hr</td>
+<td style="width:165px;height:30px">&Acirc;&nbsp;Crux pitch, especially the undercling.</td>
+<td style="width:83px;height:30px">&Acirc;&nbsp;Mark</td>
+<td style="width:94px;height:30px">&Acirc;&nbsp;5.8+/5.10a</td>
+</tr>
+<tr>
+<td style="width:119px;height:15px">&Acirc;&nbsp;P2</td>
+<td style="width:142px;height:15px">&Acirc;&nbsp;9:25 am</td>
+<td style="width:60px">&Acirc;&nbsp;28 min</td>
+<td style="width:165px;height:15px">&Acirc;&nbsp;Eases up to cl. 4-5 quickly.</td>
+<td style="width:83px;height:15px">&Acirc;&nbsp;Alec</td>
+<td style="width:94px;height:15px">&Acirc;&nbsp;5.7</td>
+</tr>
+<tr>
+<td style="width:119px;height:15px">&Acirc;&nbsp;P3</td>
+<td style="width:142px;height:15px">&Acirc;&nbsp;9:53 am</td>
+<td style="width:60px">&Acirc;&nbsp;45 min</td>
+<td style="width:165px;height:15px">&Acirc;&nbsp;Went off route to cracks and corners to right of prow, ended up back on route on the ledge 30' above the proper anchor (55 m).</td>
+<td style="width:83px;height:15px">&Acirc;&nbsp;Mark</td>
+<td style="width:94px;height:15px">&Acirc;&nbsp;5.7+</td>
+</tr>
+<tr>
+<td style="width:119px;height:30px">&Acirc;&nbsp;P4</td>
+<td style="width:142px;height:30px">&Acirc;&nbsp;10:38 am</td>
+<td style="width:60px">&Acirc;&nbsp;24 min</td>
+<td style="width:165px;height:30px">&Acirc;&nbsp;Cl. 3-4 right after the 5.6 lieback.</td>
+<td style="width:83px;height:30px">&Acirc;&nbsp;Alec</td>
+<td style="width:94px;height:30px">&Acirc;&nbsp;5.6</td>
+</tr>
+<tr>
+<td style="width:119px;height:15px">&Acirc;&nbsp;P5</td>
+<td style="width:142px;height:15px">&Acirc;&nbsp;11:02 am</td>
+<td style="width:60px">&Acirc;&nbsp;39 min</td>
+<td style="width:165px;height:15px">&Acirc;&nbsp;</td>
+<td style="width:83px;height:15px">&Acirc;&nbsp;Alec</td>
+<td style="width:94px;height:15px">&Acirc;&nbsp;5.8</td>
+</tr>
+<tr>
+<td style="width:119px;height:15px">&Acirc;&nbsp;P6</td>
+<td style="width:142px;height:15px">&Acirc;&nbsp;11:41 am</td>
+<td style="width:60px">&Acirc;&nbsp;39 min</td>
+<td style="width:165px;height:15px">&Acirc;&nbsp;Easy to roof. Roof not too bad, but pro after traverse results in terrible rope drag!</td>
+<td style="width:83px;height:15px">&Acirc;&nbsp;Mark</td>
+<td style="width:94px;height:15px">&Acirc;&nbsp;5.9-/5.10a</td>
+</tr>
+<tr>
+<td style="width:119px;height:46px">&Acirc;&nbsp;P7</td>
+<td style="width:142px;height:46px">&Acirc;&nbsp;12:20 pm</td>
+<td style="width:60px">&Acirc;&nbsp;40 min</td>
+<td style="width:165px;height:46px">&Acirc;&nbsp;Apart from the short 5.7 step protected by a piton, cl. 3-4.</td>
+<td style="width:83px;height:46px">&Acirc;&nbsp;Alec</td>
+<td style="width:94px;height:46px">&Acirc;&nbsp;5.7</td>
+</tr>
+<tr>
+<td style="width:119px;height:46px">&Acirc;&nbsp;Summit</td>
+<td style="width:142px;height:46px">&Acirc;&nbsp;1:00 pm</td>
+<td style="width:60px">&Acirc;&nbsp;46 min</td>
+<td style="width:165px;height:46px">&Acirc;&nbsp;4:40 to climb route.</td>
+<td style="width:83px;height:46px">
+<br>
+</td>
+<td style="width:94px;height:46px">
+<br>
+</td>
+</tr>
+<tr>
+<td style="width:119px;height:30px">&Acirc;&nbsp;Leave Summit</td>
+<td style="width:142px;height:30px">&Acirc;&nbsp;1:46 pm</td>
+<td style="width:60px">&Acirc;&nbsp;</td>
+<td style="width:165px;height:30px">&Acirc;&nbsp;</td>
+<td style="width:83px;height:30px">&Acirc;&nbsp;</td>
+<td style="width:94px;height:30px">&Acirc;&nbsp;</td>
+</tr>
+<tr>
+<td style="width:119px;height:15px">&Acirc;&nbsp;Reach Camp</td>
+<td style="width:142px;height:15px">&Acirc;&nbsp;2:50 am</td>
+<td style="width:60px">&Acirc;&nbsp;56 min</td>
+<td style="width:165px;height:15px">&Acirc;&nbsp;cl. 3-4 to start, quickly eases to cl. 2-3. Starts closer to sub-summit marked by smaller large cairn.</td>
+<td style="width:83px;height:15px">&Acirc;&nbsp;</td>
+<td style="width:94px;height:15px">&Acirc;&nbsp;cl. 3-4</td>
+</tr>
+</tbody>
+</table>
+<div><span style="border-collapse:collapse"><br>
+</span></div>
+<div><span style="border-collapse:collapse"><br>
+</span></div>
+</div>
+</div>
+</div>
+</div> 
+page_id: 153 
+page_menu_name: Gimli Pk (S Ridge) 
+page_url: /mountaineering/trip-reports/canada/gimli-pk-s-ridge 
+title: South Ridge of Gimli Peak - A Lesser-Known Canadian Classic 
+type: Trip_Report 
+

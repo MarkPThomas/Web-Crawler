@@ -1,0 +1,10 @@
+area_name: Mormon Canyon Rock Climbing  
+area_url: /v/mormon-canyon/105814916 
+description: The routes of Mormon Canyon are back country adventure routes of a serious nature.  Approaches are 1 to 1.5 hours but are well worth the sweat.   
+getting_there: Turn off of highway 89A onto Jordan Road.  At the "T" junction turn left and drive past the Adobe style homes following Forest Access signs and onto the dirt road.  The parking area at the end of this road has been recently renovated and the old shooting range is gone.  Park, drop into the drainage on the right and turn left. Mormon Canyon is accessed by hiking up this wash. 
+id: 105814916 
+latitude:  
+longitude:  
+parent_name: Sedona 
+parent_url: /v/sedona/107439475 
+

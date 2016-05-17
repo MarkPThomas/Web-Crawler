@@ -1,0 +1,11 @@
+id: 105739997 
+parent_name: Salt Lake Slips 
+parent_url: /v/salt-lake-slips/105739386 
+route_description: Nice climb follows the arete left of Entre Nous to the anchors above the main ledge.  The second pitch continues up and to the right but is not quite as excellent. 
+route_name: Italian Arete  
+route_quality: 0.6 
+route_rating:  YDS: 5.6 
+route_rating_original: YDS: 5.6 
+route_type: Sport, 2 pitches, 160' 
+route_url: /v/italian-arete/105739997 
+

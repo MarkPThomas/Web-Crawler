@@ -1,0 +1,11 @@
+id: 106300828 
+parent_name: Technicolor Wall 
+parent_url: /v/technicolor-wall/105795277 
+route_description: Climb a zigzag off-width to a chimney and continue up to a nice anchor.  Rap off or traverse 20 ft right on the big ledge and find the second pitch: an absolutely perfect camlot#6 splitter. 
+route_name: David  
+route_quality: 0.75 
+route_rating:  YDS: 5.11 
+route_rating_original: YDS: 5.11 
+route_type: Trad, 2 pitches 
+route_url: /v/david/106300828 
+

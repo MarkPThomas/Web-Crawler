@@ -1,0 +1,10 @@
+area_name: Polemonium Peak Rock Climbing  
+area_url: /v/polemonium-peak/106537177 
+description: On a ridge between two other CA 14'ers (North Palisade and Mt. Sill), Polemonium Peak is in the middle of California's most alpine terrain. 
+getting_there: Approach from the East via N. Big Pine Creek from Glacier Lodge Road, or from the North by South Lake and Hwy 168. 
+id: 106537177 
+latitude: 37.0929 
+longitude:  -118.5124  
+parent_name: 09 - Palisades and Surrounding Peaks 
+parent_url: /v/09---palisades-and-surrounding-peaks/110511970 
+

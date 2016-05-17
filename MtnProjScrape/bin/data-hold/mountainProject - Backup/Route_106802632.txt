@@ -1,0 +1,11 @@
+id: 106802632 
+parent_name: Lone Pine Peak 
+parent_url: /v/lone-pine-peak/105914909 
+route_description: The NE Ridge of Lone Pine Peak is one of the 3 prominent ridges recognizable from the town of Lone Pine.  The full ridge traverse is 3 miles long and rises 6900 feet.  Many people spend multiple days on this route so be forewarned. There is no water once on the ridge, although there may be water on the descent depending on the time of year.  An abbreviated option is to access the ridge midway from the Meysan Lakes trailhead (the standard guided version).  Secor bumped this up to 5.7 in newer editions of The High Sierra: Peaks, Passes and Trails.  I did not encounter anything harder than 5.6 on the original route.  The rock is frequently crumbly (unlike the N Ridge), but the difficult sections are short and route finding was not overly challenging.  For me the crux was navigating and bushwhacking the E ledges descent for which only a vague description is available.  First winter ascent: 1994 Alois Smrz and Rich Henke   
+route_name: NE Ridge (full)  
+route_quality: 0.75 
+route_rating:  YDS: 5.6 
+route_rating_original: YDS: 5.6 
+route_type: Trad, Alpine,  Grade III 
+route_url: /v/ne-ridge-full/106802632 
+

@@ -1,0 +1,11 @@
+id: 105841118 
+parent_name: El Capitan Base Routes 
+parent_url: /v/el-capitan-base-routes/105841115 
+route_description: Begin on a huge platform directly beneath the Nose. Excellent thin 5.7 fingercrack to a ledge with a belay tree and magnificent view. A wonderful Yosemite first lead. Descent: Rappel from tree (recommended) or scramble down right side. 
+route_name: Pine Line  
+route_quality: 0.65 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, 1 pitch, 70' 
+route_url: /v/pine-line/105841118 
+

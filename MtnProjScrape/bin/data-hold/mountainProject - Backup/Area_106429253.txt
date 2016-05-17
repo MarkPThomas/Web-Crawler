@@ -1,0 +1,10 @@
+area_name: J-Crack Slab Area Rock Climbing  
+area_url: /v/j-crack-slab-area/106429253 
+description: This is a sub-section of the Book, including routes on the climbers right of the Book and surrounding areas, including some routes featured on large boulders below the J-Crack Slab. The title route, J-Crack, is perhaps one of the most popular and classic climbs on all of Lumpy Ridge. This area also features such amazing climbs as Thindependence (5.10c), Loose Ends (5.9) and Pear Buttress (5.8). The final route included in this area to the climbers left would be Monkey on a String (5.12). See the Pages Wall Area for routes further left on the Book.  
+getting_there: Hike as you would to the Book. Break right towards the base of the cliff. J-Crack looks just as it sounds- the area surrounding this climb is the J-Crack Slab. Several climbs also exist on large boulders below that include their own specific directions.  
+id: 106429253 
+latitude: 40.40556 
+longitude:  -105.53398  
+parent_name: The Book 
+parent_url: /v/the-book/105745007 
+

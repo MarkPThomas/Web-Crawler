@@ -1,0 +1,11 @@
+id: 105717310 
+parent_name: Ancient Art 
+parent_url: /v/ancient-art/105716859 
+route_description: This is by far the most popular route in the Fisher Towers, and a moderate classic.  The route goes at 5.9 A0 if yarding on bolts, or can be free climbed at well protected 5.10.  P1.  Climb easy 5.4 broken rock to a huge ledge.  If you are free climbing the route, belay here to avoid rope drag.  Climb a 4 bolt ladder to a big belay ledge at the base of a chimney. 5.10, 120 feet.  P2.  Climb a really fun and well protected 5.8 mud chimney for about 90 feet to a belay on the right.  P3.  Climb a short steep crack to a 3 bolt ladder.  5.7 A0 or 5.10, 40 feet.  P4.  This is one of the coolest pitches in the desert.  Walk 20 feet along the sidewalk(narrow extremely exposed ledge).  Mantle awkwardly onto the diving board, and walk to the base of the corkscrew.  Clip 4 bolts/drilled angles en route to the summit.  To descend, lower back to the diving board, and reverse the sidewalk.2 single rope raps lead to the top of pitch 1, and then make a double rope rap to the ground. 
+route_name: Stolen Chimney  
+route_quality: 0.95 
+route_rating:  YDS: 5.10 
+route_rating_original: YDS: 5.10 
+route_type: Trad 
+route_url: /v/stolen-chimney/105717310 
+

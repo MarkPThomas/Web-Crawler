@@ -1,0 +1,10 @@
+area_name: Higher Cathedral Spire Rock Climbing  
+area_url: /v/higher-cathedral-spire/105892236 
+description: This is the higher of the two spires. It is to the right of the Lower Spire when viewed from the north.  This spire offers climbing up to Grade V big wall.  Higher Spire was first climbed in April 1934, by Jules Eichorn, Bestor Robinson and Dick Leonard.   Chuck Wilts and Spencer Austin freed the route in 1944.  Descend by rappel.  Depending where you are on the Spire it may be shady and cold or sunny and warm. From the top of the spire you'll get some of the best views of El Cap in the Valley and a secluded summit from tourists. 
+getting_there: The Cathedral Spires Area page has the parking and initial hiking information.  Upper Cathedral Spire is approached by going right and up the "Spires Gully", west of the formation, which is the same approach for Braille Book and Upper Cathedral Rock.  Approach time is ~30-60 minutes depending on route and how much you pack. 
+id: 105892236 
+latitude: 37.71388 
+longitude:  -119.63218  
+parent_name: Cathedral Spires Area 
+parent_url: /v/cathedral-spires-area/105892227 
+

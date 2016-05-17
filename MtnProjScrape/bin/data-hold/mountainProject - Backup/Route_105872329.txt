@@ -1,0 +1,11 @@
+id: 105872329 
+parent_name: 10 - The Cookie Cliff 
+parent_url: /v/10---the-cookie-cliff/105863743 
+route_description: Wide left facing dihedral. Very aesthetic from a distance. A bit gritty up close. An easy offwidth for the valley but A great place to get some technique. Best to do in one long pitch instead of three like the guide says. Good rests along the way.  
+route_name: Meat Grinder  
+route_quality: 0.775 
+route_rating:  YDS: 5.10 
+route_rating_original: YDS: 5.10b 
+route_type: Trad, 3 pitches, 250' 
+route_url: /v/meat-grinder/105872329 
+

@@ -1,0 +1,10 @@
+area_name: Dihedral Rock Rock Climbing  
+area_url: /v/dihedral-rock/105721004 
+description: This rock only has a couple routes on it, but it does sport the ultra-classic Coarse And Buggy (5.11a/b) as well as the easily TR-able face climb The Sowsuckle (5.12a/b). The rock mainly faces east and north so it's ideal for warm weather days, though we were able to climb here on a comfy day in early January. Fun for an afternoon of climbing and it's near Hemingway Buttress and Dairy Queen Wall.   
+getting_there: Drive about 3/4 of a mile south on Quail Springs Road from the junction with Lost Horse Ranger Station Road to a small parking area on the shoulder. The stunning dihedral of Coarse and Buggy is easily visible from the road.   
+id: 105721004 
+latitude: 34.01993 
+longitude:  -116.17161  
+parent_name: Roadside Rocks 
+parent_url: /v/roadside-rocks/105720609 
+

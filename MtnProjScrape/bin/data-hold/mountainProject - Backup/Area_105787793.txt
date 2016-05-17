@@ -1,0 +1,10 @@
+area_name: *Sedona Area Rock Climbing  
+area_url: /v/sedona-area/105787793 
+description: Sedona is a great place to rock climb - situated on the southern end of the Colorado Plateau, Sedona is known for innumerable sandstone spires and towers.  While the rock is often soft and routes can be inconsistent in quality, there are many great adventures to be had.  Many great cragging routes are also available, as well as bouldering and some basalt climbing at the higher elevations.  Sedona itself is a beautiful place to visit, though a bit on the touristy side. Camping can be found in both pay sites and on National Forest land nearby.  We've separated the Sedona area into three small regions;  Sedona proper includes all the areas around the main part of town, including Cathedral Spires, Marges Draw, Mooses Butte, Damfino Canyon, Mormon Canyon, and much more.   	  	              	      	  	    Doing the jump-across off The Mace.  I never get tired of this climb.  Photo by Wednesday Hugus.   	   West Sedona includes all those areas found on this side of town including the Dry Creek Road Areas, Coffee Pot Rock Areas, and more.  	  	              	      	  	    The limestone band of the second pitch is stunning in lends itself nicely to photos. Photo credit- Tim Glasby   	    And finally there is Oak Creek Village south of Sedona proper, which is home to such grand formations as Courthouse Butte and Oak Creek Spire.    	  	              	      	  	    Low on the pitch   	   As far as the climbing goes you will either love it or hate it.  However, the beauty of the area is undeniable, and keeps a lot of us hungry for more. 
+getting_there: Sedona sits at the intersection of highways 179 and 89A just south of Flagstaff.  Routes are spread throughout many of the spires and canyons in the area. 
+id: 105787793 
+latitude: 34.8661 
+longitude:  -111.7636  
+parent_name: Northern Arizona 
+parent_url: /v/northern-arizona/107447440 
+

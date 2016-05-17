@@ -1,0 +1,10 @@
+area_name: Donner Summit Rock Climbing  
+area_url: /v/donner-summit/105733935 
+description: The Donner Summit area of the Sierra Crest has climbing on granite rocks ranging from small to hundreds of feet. Both cracks and face climbs coexist here, and there are some kick-ass climbs of both sorts. The Donner Pass climbing season is from mid April until whenever snow closes the road in November or December.  Donner's 7000' elevation means that even during beautiful summer days a surprise storm is possible, so be prepared.  Lodging  Camping near the climbing is illegal, but doesn't seem to be too severely enforced. If that troubles you, seasonally there's camping on the opposite side of Donner Lake (see Donner Memorial State Park's website for details), and both cabins and hotels accommodations in from there to Truckee, which is an ample source of nearby food and entertainment.  Granite Flat Campground opens earlier each year than Donner Memorial SP. It is located a few miles south of Truckee on highway 89. It currently costs $22/night for a single vehicle site. It's not the most remote campsite as it is directly adjacent to 89, but has decent toilets and well water.  Access  In 2014, the Truckee Donner Land Trust and the Access Fund jointly launched the  Save Donner Climbing campaign. The following year, it purchased formerly private land for public conservation and access, which includes the Black Wall and other nearby cliffs.   CRAGS is the local Access Fund affiliate that helps supports this area. 
+getting_there: Non locals will all drive on Interstate 80 from outside the Donner area. 
+id: 105733935 
+latitude: 39.3184 
+longitude:  -120.314  
+parent_name: I-80 Corridor 
+parent_url: /v/i-80-corridor/105798284 
+

@@ -1,0 +1,11 @@
+id: 105735194 
+parent_name: Northeast Face 
+parent_url: /v/northeast-face/105734057 
+route_description: Follow the large crack from the bottom and up to the right. In order to ascend to the anchors you'll need to make use of the undercling (crux). This route is to the left of moss face. 
+route_name: Cragmont Undercling  
+route_quality: 0.5 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, TR, 1 pitch, 40' 
+route_url: /v/cragmont-undercling/105735194 
+

@@ -1,0 +1,11 @@
+id: 105811901 
+parent_name: Temple Crag 
+parent_url: /v/temple-crag/105804351 
+route_description: This is a classic long-day alpine route on good rock with some unique features, not least of which is a Tyrolean traverse.  Most people start from an obvious crack in a left-facing dihedral (as seen in Mike Morley's picture here near a big grey scar, some distance (300'? 500'?) from the base of the snowfield and the start of Dark Star.  The main drawback is the descent through Contact Pass, though you could bypass that by traversing to Gayley and Sill...  This route has many variations and it's wise to take a topo unless you've climbed a lot on Temple.  A good topo can be found in Croft's book or the High Sierra Supertopo book (the latter has some errors).  However, Bruce Bindner (R.I.P.) posted a better topo right here; it's the best I've seen and you will appreciate it once on the route.  The rock on the route is overall pretty solid, but there are plenty of loose blocks that could kill you if you got careless.  It would be a good idea to start early (regardless of whether you plan the ascent car-to-car or from a camp site) because Temple is plenty exposed to electrical storms.  When Scott and I climbed the route, a storm blew in after we had passed the crux, my hair stood up, and the rope started making crackling noises... luckily for us the storm changed directions and did not get any nastier.  Check the weather beforehand! 
+route_name: Sun Ribbon Arete  
+route_quality: 0.925 
+route_rating:  YDS: 5.10a 
+route_rating_original: YDS: 5.10a 
+route_type: Trad, Alpine, 22 pitches, 2000',  Grade IV 
+route_url: /v/sun-ribbon-arete/105811901 
+

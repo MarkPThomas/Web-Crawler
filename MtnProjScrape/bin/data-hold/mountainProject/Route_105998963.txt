@@ -1,0 +1,11 @@
+id: 105998963 
+parent_name: Swan Slab 
+parent_url: /v/swan-slab/105841123 
+route_description: Nice thin face climbing with an occasional thin crack move.  Easily top-roped after climbing Oak Tree Flake or Grant's Crack.    
+route_name: Unnamed Thin Crack  
+route_quality: 0.6 
+route_rating:  YDS: 5.10a 
+route_rating_original: YDS: 5.10a 
+route_type: TR, 80' 
+route_url: /v/unnamed-thin-crack/105998963 
+

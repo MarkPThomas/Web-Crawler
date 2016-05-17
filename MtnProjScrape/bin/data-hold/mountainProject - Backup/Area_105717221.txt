@@ -1,0 +1,10 @@
+area_name: Way Rambo Rock Climbing  
+area_url: /v/way-rambo/105717221 
+description: Way Rambo is a great little cliff with about a dozen climbs and something for everyone.  It seems to get decent shade until around noon, some climbs are in the sun sooner, some later.  Classics at the cliff are Slice and Dice (12), Way Rambo (12-), the Layaway Plan (11+), Serrator Crack (11), and Blue Sun (10). 
+getting_there: Take Beef Basin Road away from the main road, past the Bridger Jack camping pull off and continue for a few miles until you pass a fence and cattle guard. A few hundred yards past this is a well-maintained road that angles back to the northeast.  Follow this to another junction and continue back the way you came (north) until you get to a gate and cattle guard.  Park here and walk through the gate (private land - keep a low profile).  100 paces down the road is an excellent trail on the right.  Take this up to the cliff (trail arrives at Rochambeau). 
+id: 105717221 
+latitude: 38.0368 
+longitude:  -109.5774  
+parent_name: Indian Creek 
+parent_url: /v/indian-creek/105716763 
+

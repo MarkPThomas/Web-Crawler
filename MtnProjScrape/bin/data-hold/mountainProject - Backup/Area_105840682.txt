@@ -1,0 +1,10 @@
+area_name: Fairview Dome Rock Climbing  
+area_url: /v/fairview-dome/105840682 
+description: Fairview Dome is one of the largest and steepest domes that is easily accessed from the road in Tuolumne.  It is home to such classics as the Regular Route (one of Roper and Steck's picks) and Lucky Streaks, modern testpieces such as Nightshift, as well as some harder (and scarier) lines.  Fairview offers steep crack systems as well as more typical face/slab climbing.   
+getting_there: Park at the obvious pullout south of the road that is 3.5 miles from the store and 4 miles from Tenaya Lake.  The trail to the dome takes about 15 minutes to hike and leaves you near the center of the Dome.   Once you finish your route of choice, the obvious descent heads south down easy slabs to terra firma.  One then walks back along the base of the dome to packs/trail.  Allow about 30-45 mintues. 
+id: 105840682 
+latitude: 37.8717 
+longitude:  -119.4047  
+parent_name: Tuolumne Meadows 
+parent_url: /v/tuolumne-meadows/105833384 
+

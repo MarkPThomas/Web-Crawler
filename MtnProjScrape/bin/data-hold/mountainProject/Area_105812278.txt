@@ -1,0 +1,10 @@
+area_name: Hogsback Rock Climbing  
+area_url: /v/hogsback/105812278 
+description: You really can't look at Lover's Leap without noticing Hogsback. It stands like a vanguard in front of the Leap. Though not high or as steep as the Leap, it nonetheless has merit. There is much to climb under 5.9, so it is an excellent place to take beginners or to practice trad leads without too much exposure. 
+getting_there: Hogwild, on the far west side, is approached by a wooded trail from the campground.  The other faces are approached using the Pony Express Trail.  See the specific area of Hogsback for exact directions, which are different for each. 
+id: 105812278 
+latitude: 38.80456 
+longitude:  -120.13493  
+parent_name: Lover's Leap 
+parent_url: /v/lovers-leap/105733959 
+

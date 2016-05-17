@@ -1,0 +1,10 @@
+area_name: Nautilus Rock Climbing  
+area_url: /v/nautilus/105745214 
+description: You can't miss this area.  The Nautilus is named for the large feature on its top, forming a large roof, that looks like - you guessed it - a Nautilus shell.  Trust me, if you can't find it, you're not looking.  The approach to the nearest climbs from this lot is a mere 2 minutes.   
+getting_there: Keep driving past the main area where you turn for the fee camping to the next parking area, also on your left.  This is the dirt parking lot with the restroom/latrine (visible from the road).  See the description above.  
+id: 105745214 
+latitude: 41.15478 
+longitude:  -105.37467  
+parent_name: Vedauwoo 
+parent_url: /v/vedauwoo/105744307 
+

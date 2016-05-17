@@ -1,0 +1,11 @@
+id: 105814822 
+parent_name: North Mesa 
+parent_url: /v/north-mesa/105814808 
+route_description: Rusty Cage is the "Indian Creek" splitter of Sedona.  This route climbs a sweet hands to large hands crack in a left facing corner for 70ft to a two bolt rap anchor.  To access the corner make a short traversing move past a drilled pin and into the crack.  This route is very hand size dependent.  For small hands it could be fists to ow.  For large hands it will probably feel like a ladder. 
+route_name: Rusty Cage  
+route_quality: 0.775 
+route_rating:  YDS: 5.10+ 
+route_rating_original: YDS: 5.10+ 
+route_type: Trad, 1 pitch, 70' 
+route_url: /v/rusty-cage/105814822 
+

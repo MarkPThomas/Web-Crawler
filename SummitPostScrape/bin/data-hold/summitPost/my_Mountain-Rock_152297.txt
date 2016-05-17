@@ -90,7 +90,7 @@ date:
 difficulty:  
 elevation: 13263 
 grade:  
-hits: 12799  
+hits: 12802  
 id: 152297 
 latitude: 40.8032 
 location: Utah, United States, North America 
@@ -98,7 +98,7 @@ longitude: -110.3517
 my_route_quality:  
 name: Gunsight Peak 
 number_of_pitches:  
-page_url: http://www.summitpost.org/gunsight-peak/152297 
+page_url: /gunsight-peak/152297 
 parent_code: 170976 
 parent_name: High Uintas Wilderness 
 parent_url: /high-uintas-wilderness/170976 

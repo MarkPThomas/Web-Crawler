@@ -1,0 +1,11 @@
+id: 105864166 
+parent_name: Waterfront, The 
+parent_url: /v/waterfront-the/105739697 
+route_description: This route was probably named this scary name because it was first climbed back when large protection was unavailable. With modern big gear one could sew it up if the climbing gear budget was big enough.  The large OW is visible from the schoolroom area and once at the base, you can really see how big it really is.  My guess is that you will be frustratingly close to squeezing into the chimney.  Close but no cigar.  Right side in, or left side in...  that is always debatable.  And I have had multiple climbing partners tell me that I do routes the "wrong way" 75% of the time. 
+route_name: Certain Death  
+route_quality: 0.9 
+route_rating:  YDS: 5.8+ 
+route_rating_original: YDS: 5.8+ 
+route_type: Trad, 1 pitch, 140' 
+route_url: /v/certain-death/105864166 
+

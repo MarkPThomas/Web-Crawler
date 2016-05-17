@@ -1,0 +1,11 @@
+id: 105915149 
+parent_name:  4 - Arch Rock 
+parent_url: /v/-4---arch-rock/105878827 
+route_description: The first time I was on this climb was mid June in 100F heat.  Perhaps not the best conditions, because I only got hotter as I got higher.  The climb starts with the technical crux, a polished finger crack.   Thankfully this is short and leads to a very good ledge and rest.   If you ever want to hear sticky rubber squeak, this is your climb!  What follows is a great hand jamming sequence, up to the midway point of the climb.   The crack slowly widens to wide hands, then to off width and finally to a polished chimney.  When you reach the anchors, take deep breaths and marvel at this classic climb, and wonder why size 8 friends never caught on. 
+route_name: Midterm  
+route_quality: 0.925 
+route_rating:  YDS: 5.10b 
+route_rating_original: YDS: 5.10b 
+route_type: Trad, 2 pitches, 200' 
+route_url: /v/midterm/105915149 
+

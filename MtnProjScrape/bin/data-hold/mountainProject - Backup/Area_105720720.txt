@@ -1,0 +1,10 @@
+area_name: The Blob Rock Climbing  
+area_url: /v/the-blob/105720720 
+description: The Blob is the next large formation north of The Old Woman in Hidden Valley Campground.  On the East Face (facing the campground), Papa Woolsey (5.10b) is one of the few true JT "sport routes". Mama Woolsey (5.10a R) lies just right of Papa Woolsey, and is tricky to protect (think RP's) below the crux and a serious lead. Buissonier is a fun 5.7 around the corner left of the previous routes. Descents for these routes is an exposed walk-off to the south.  On the West Face, The Bong is an easily-protectable 5.4 that makes for an excellent first trad lead (Others include Beginner's Two (5.2) and Beginner's One (5.3). Hobbit Roof (5.10d) is short but sweet, and the crimpy crux is protected with a bolt.   
+getting_there: Buissonier and the Woolsey routes are approached through campsite (#21) along paved loop of HVCG.  Be sure to ask for permission before charging through an occupied campsite.   
+id: 105720720 
+latitude: 34.01822 
+longitude:  -116.16435  
+parent_name: Hidden Valley Campground 
+parent_url: /v/hidden-valley-campground/105720573 
+

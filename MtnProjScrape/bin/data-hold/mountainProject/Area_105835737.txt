@@ -1,0 +1,10 @@
+area_name: Stately Pleasure Dome Rock Climbing  
+area_url: /v/stately-pleasure-dome/105835737 
+description: Okay, so it's on the highway and tons of tourists will gawk at you, but still, this is one of the most beautiful climbing settings anywhere.  It rises about 500 feet right out of Lake Tenaya with beautiful views of the lake, Tenaya Peak, and many other Tuolumne features. 
+getting_there: It's the great big dome on the north side of the highway next to Tenaya Lake.  Easy parking all along the base.  To descend all routes: head up and left (west) until you can descend 3rd and 4th class slabs near a steep headwall.  At one point you can rap a tree over the steepest section, though probably 50% of climbers just walk this part too.  See photo. 
+id: 105835737 
+latitude: 37.8353 
+longitude:  -119.46  
+parent_name: Tuolumne Meadows 
+parent_url: /v/tuolumne-meadows/105833384 
+

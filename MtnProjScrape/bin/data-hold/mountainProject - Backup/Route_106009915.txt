@@ -1,0 +1,11 @@
+id: 106009915 
+parent_name: 24 - Highway Star 
+parent_url: /v/24---highway-star/106009903 
+route_description: A short, but powerful route. Start on either side of the triangular flake (left side is easy but sparse pro) up to a finger crack. Work left and crank through a small roof (crux). Continue up splitter hand crack (have those gold camalots ready!), make a fun move right, and continue up to the top. Belay from tree.  Walk off left.  If not up for leading, it would be easy to rig a top-rope off a tree by scrambling up and left from the base of the route.  There is also a fun 10b variation that can be led or top-roped. From the base, climb the left side of the triangular flake, traversing left and then back right around a flake resembling the state of Texas. After working back to the right, join up with the main route. If top-roping, a directional is recommended to prevent a big swing from the left end of the "Texas flake". 
+route_name: Highway Star  
+route_quality: 0.75 
+route_rating:  YDS: 5.10a 
+route_rating_original: YDS: 5.10a 
+route_type: Trad, TR, 1 pitch, 60' 
+route_url: /v/highway-star/106009915 
+

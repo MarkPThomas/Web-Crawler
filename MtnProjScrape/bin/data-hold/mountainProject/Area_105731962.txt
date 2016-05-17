@@ -1,0 +1,10 @@
+area_name: Pine Creek Canyon Rock Climbing  
+area_url: /v/pine-creek-canyon/105731962 
+description: Pine Creek has a bit of everything.  Multipitch classics such as Dark Shadows, Cat in the Hat, and Community Pillar.  Excellent crag routes on the Brass Wall and in the Flight Path area.  The summit of Mescalito Tower is accessible to the adventurous.  The stream usually has year-round water (at least in places), and of course, pine trees adding their evergreen flavor to the desert setting. 
+getting_there: To get to the Pine Creek trailhead, drive in on the scenic loop road for about 10.5 miles to the parking area.  The hike starts on a short downhill section.  It reaches an intersection Dale Trail, which leads north and provides access to the Flight Path.  Further,  in the vicinity of the "old homestead," (which is now just a concrete foundation near the stream), the Arnight Trail leads south to the Rose Tower, Juniper Canyon, and Crimson Chrysalis.  The main area of Pine Creek is reached by continuing on the main trail straight ahead to the west. 
+id: 105731962 
+latitude: 36.12328 
+longitude:  -115.49069  
+parent_name: Red Rock 
+parent_url: /v/red-rock/105731932 
+

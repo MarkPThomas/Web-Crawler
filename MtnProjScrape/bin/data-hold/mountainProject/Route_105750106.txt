@@ -1,0 +1,11 @@
+id: 105750106 
+parent_name: Redgarden - Lumpe to the top 
+parent_url: /v/redgarden---lumpe-to-the-top/105807704 
+route_description: This is another excellent classic on Redgarden. Six pitches takes you to the summit of the  Middle Buttress via Rebuffat's Arete. Start at the base of the West Chimney below the Middle Buttress about 15 feet left of an alcove.  P1 is a steep start but only 5.6 up a nice crack (~110 feet). There are two cracks starting here.  The thinner crack on the right is The Great Zot (8+) and is one of my favorite 5.8s in Eldo.  Take your pick.  P2: Climb an easy pitch up to the Red Ledge arcing left. Look for a large eyebolt.  P3: Continue up the left-facing dihedral to a belay stance on the right (6).  P4: This is the crux and most exciting pitch. From the belay, traverse the hand crack left, pull around the arete, and continue up the steep and exposed hand crack.  Belay on a ledge to the left of where previously existed a large, detached block or the right.  Caution: this block fell down; this 6 foot high piece of rock used to rock back and forth if you pulled on it!  P5: Follow the crack to the R (5) or straight (8) up Rebuffat's Arete. The arete is recommended as it more spectacular.  Belay at a tree in the large V on the left.    P6: Find a clean, 5.5 crack to the summit.  This is a great short pitch also with a nice view and bomber gear.  DESCENT: Downclimb a notch to the North back to the West side of  Redgarden Wall.  The notch is beyond several towers to the NW.  If it doesn't look like easy 4th class, keep going. 
+route_name: Rewritten  
+route_quality: 0.925 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, 6 pitches 
+route_url: /v/rewritten/105750106 
+

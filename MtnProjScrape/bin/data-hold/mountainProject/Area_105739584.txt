@@ -1,0 +1,10 @@
+area_name: South Summit Rock Climbing  
+area_url: /v/south-summit/105739584 
+description: Mount Olympus has twin summits of nearly the same elevation.  The south summit is slightly higher, at 9,026 feet.  This is where the popular hiking trail off Wasatch Blvd leads to.  Also, a rugged ridge, Geurt's Ridge, leads directly to this summit coming from the west.  Tons of quartzite cliffs are passed on the hiking trail which may have some potential for climbing.  Routes on these walls would mostly be easy, and a long approach is required to reach them. 
+getting_there: Exit I-215 at 4500 South.  Drive south on Wasatch Blvd, then park at the obvious Mt. Olympus parking lot on the East side of the road (next to Pete's Rock).  From here, a steep, well defined trail leads up towards the South summit. 
+id: 105739584 
+latitude:  
+longitude:  
+parent_name: Mount Olympus 
+parent_url: /v/mount-olympus/105739304 
+

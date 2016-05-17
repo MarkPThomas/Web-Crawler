@@ -1,0 +1,11 @@
+id: 105983194 
+parent_name: Mt. Conness 
+parent_url: /v/mt-conness/105982667 
+route_description: Considering the rock quality in a couple sections, a few insecure moves and the wide crack, that would be a burly solo! I can't decide what is more sick...Peter Croft's onsight solo or Walt Shipley's after doing the route roped and knowing what to expect!!  The route is exciting and physical and a must do for the High Sierra tick list.   Pitch 1: 3 options...Center option is a groove to a roof (slightly loose) (9+, 115').  Pitch 2: Easiest free version is to step down and traverse right on the lower crack approximately 20' where its possible to move back up to the upper crack at a good jug in between. Clip a pin and wiggle up to a roof. Fun finger/hand crack changes to a lieback to a sloping ledge where you can go left or right to end on the upper ledge with multiple 3rd pitch options (10, 200').  Pitch 3: If on the right side of the upper ledge...Go up a flake to a broken left facing corner and a piton belay on a ledge (8+, 120').  Pitch 4: Pick the easiest run out path to the corner chimney (which you don't really chimney, stay outside) (7+, 110').  Pitch 5: Hand and fists in the corner to a 6-7" OW/stem over a bulge passing old bolts. Continue up the 7-8" OW/Squeeze with a lonely old bolt to a a good ledge (10, 150'). #3 and #4 BigBro's may be nice.  Pitch 6: Go right on the ledge and up the obvious left facing corner with two bolts. At the second bolt make a wild traverse right to the finger cack groove with a squeeze finish to a jumbled ledge (10-, 190').  Pitch 7: Move right and up a bizarre corner system with a strenuous lieback. Follow broken rock to a sloping ledge under a flared goove (9+, 190').  Pitch 8: Up the groove and follow the natural weakness for a 190' pitch (5.5).  Pitch 9: 200+' fourth class loose grooves to the summit.  
+route_name: South West Face (Harding) Route  
+route_quality: 0.9 
+route_rating:  YDS: 5.10c 
+route_rating_original: YDS: 5.10c 
+route_type: Trad, Alpine, 9 pitches, 1200',  Grade IV 
+route_url: /v/south-west-face-harding-route/105983194 
+

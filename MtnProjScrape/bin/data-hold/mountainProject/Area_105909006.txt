@@ -1,0 +1,10 @@
+area_name: Pratt's Crack / Dihedrals Area Rock Climbing  
+area_url: /v/pratts-crack--dihedrals-area/105909006 
+description: This is the most obvious sector in the 'Pratt's Crack Gulley'.  Look for the two giant dihedrals of immaculate white granite side-by-side, jutting out into the canyon.  Each corner and arete offers classics of varying styles.   
+getting_there: You really shouldn't have any trouble finding this area as it is visible from the road.  Left side of the canyon, just past the 'Ministry Wall'. 
+id: 105909006 
+latitude: 37.38393 
+longitude:  -118.67712  
+parent_name: Scheelite Canyon / Pratt's Crack Gully 
+parent_url: /v/scheelite-canyon--pratts-crack-gully/106366417 
+

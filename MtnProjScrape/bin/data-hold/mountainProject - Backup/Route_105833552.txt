@@ -1,0 +1,11 @@
+id: 105833552 
+parent_name: Higher Cathedral Rock 
+parent_url: /v/higher-cathedral-rock/105833493 
+route_description: Braille Book is an awesome route perched way up high at the top of the Cathedral gully. Named for the many knobs that would "allow even a blind many to climb it", this is some fun climbing! An extra bonus to the extremely enjoyable climbing is belaying with a ringside seat to the two Cathedral Spires and Yosemite Valley spread out below you. Although it comes with a bit of a grunt approach, it's well worth the effort for such a nice route. Get up early, this one is popular!  P1) Climb steep and featured wall just right of right-facing corner system. 130'  P2) Jam a crack that heads up and left into the corner. Continue in wide (fist) crack and belay at a small tower with slings. 100'  P3) Climb up crack to right of corner, that dumps you into a slick chimney (watch out tricky move!). Continue up the chimney to belay on small shelf on left at the base of right-arching offwidth crack. Long pitch 185'  P4) Climb right-arching offwidth crack up and right to a shelf. You can continue 20' up to another shelf via a nice and obvious crack. 60'  P5) Climb up face around the corner to the right (tricky!) crossing up and right to gain the top of the buttress above. 90'  P6) Climb up featured face, up and left across the face, headed for the top. Lots of places to go here. Jugs at the top.  Descent: Scramble off the back and then come around to descend gully. Beautiful hike down!    
+route_name: Braille Book  
+route_quality: 0.85 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 6 pitches, 700' 
+route_url: /v/braille-book/105833552 
+

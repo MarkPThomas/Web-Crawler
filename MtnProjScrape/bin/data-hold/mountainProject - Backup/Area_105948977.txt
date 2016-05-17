@@ -1,0 +1,10 @@
+area_name: Maine Rock Climbing  
+area_url: /v/maine/105948977 
+description: Climbing in Maine is all over the place! Katahdin, Shagg Crag, Acadia National Park, Nubble Lighthouse and many other areas exist in this little visited climbing locale.   The climbing is on all different types of rock, and there are endless possibilities at areas such as Acadia National Park (routes are plentiful and developed, but bouldering potential is endless) and at Katahdin (if you are willing to hike in for the ice/rock or even bouldering with your gear).  Anyone for a swamp donkey?    	  	              	      	  	    JD the Moose hanging out at Chimney pond.  Above can been seen the Armadillo and Flatiron routes.   	 
+getting_there: Take I-95, keep going north until you hit Maine.  Map Here 
+id: 105948977 
+latitude: 45.1511 
+longitude:  -69.1699  
+parent_name:  
+parent_url:  
+

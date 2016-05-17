@@ -1,0 +1,11 @@
+id: 105721624 
+parent_name: Isles in the Sky 
+parent_url: /v/isles-in-the-sky/105720723 
+route_description: Climb the stellar finger-small hands crack to the slightly bulging finish. Nice ledge just below the final 8 feet or so to rest on and get psyched out. You can see the big chalk mark from the ground. Throw in some good pro here and fire it up.  There is a 2 bolt anchor/rap (3/8") located just right of the top of this climb. Rap back to base w/one rope (70'). 
+route_name: Bird of Fire  
+route_quality: 0.925 
+route_rating:  YDS: 5.10a 
+route_rating_original: YDS: 5.10a 
+route_type: Trad, 1 pitch, 80' 
+route_url: /v/bird-of-fire/105721624 
+

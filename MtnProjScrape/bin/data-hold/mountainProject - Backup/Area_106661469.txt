@@ -1,0 +1,10 @@
+area_name: North America Rock Climbing  
+area_url: /v/north-america/106661469 
+description: This page is home to all of the North American, Central American, & Carribean Island countries excluding the United States.  For information on the US, please refer to the area page for the pertinent State.  North America is a vast continent that stretches from near the Equator to beyond the Arctic Circle.  The climate & landscape is extremely varied, from baking deserts, to tropical rainforests, to ice-covered alpine mountains.  The climbing is just as varied, offering every imaginable type of climbing, from bouldering to big wall climbing; deep water soloing to high altitude mountaineering.   Destinations for Alpinists include the Canadian Rockies of Alberta & British Columbia, or the towering volcanos of Mexico.  Trad climbers will enjoy the legendary sweeping granite of Squamish, or the remote towers of the forbidding Cirque of the Unclimbables.  Sport climbers might enjoy a warm winter vacation to the towering limestone walls of El Potrero Chico or the odd basalt of Panama, or cool summer destinations like Skaha. 
+getting_there: Destinations to the Great White North are often best accessed by automobile.  Driving over the border is safe & easy, but be sure you have your documents in order (see below).  For most destinations to the South, air travel is the most convenient approach.  Some destinations in northern Mexico (such as El Potrero Chico are often approached via car. 
+id: 106661469 
+latitude: 39.24073 
+longitude:  -97.22829  
+parent_name: International 
+parent_url: /v/international/105907743 
+

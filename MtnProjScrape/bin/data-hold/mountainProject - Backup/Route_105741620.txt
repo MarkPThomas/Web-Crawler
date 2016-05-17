@@ -1,0 +1,11 @@
+id: 105741620 
+parent_name: Crescent Crack Buttress 
+parent_url: /v/crescent-crack-buttress/105739365 
+route_description: This is the large off width crack, to the left a little and up from Kutcorner. Using a 70M rope, we used the anchors on top of Hand Jive to toprope this climb. This crack looked easy on rappel but climbing it was a whole different matter. We didn't climb Kutcorner, but started from the very bottom and climbed this weird chimney to the left, up to the Kutcorner chains. Once you are up there it is obvious why the Falcon Wasatch Guide labels this as a 5.9 A0 or 5.11. From the chains you'd have to make the thinnest little friction moves to get to the crack. We both took the rope swing. A bolt has been placed above the chains to make the aid swing but because it is straight up, swinging from the bolt might be difficult.  
+route_name: Paraplegic Ward  
+route_quality: 0.6 
+route_rating:  YDS: 5.9 A0 
+route_rating_original: YDS: 5.9 A0 
+route_type: Trad, TR, Aid, 1 pitch, 80' 
+route_url: /v/paraplegic-ward/105741620 
+

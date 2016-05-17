@@ -1,0 +1,11 @@
+id: 107653915 
+parent_name: Donnelly Canyon 
+parent_url: /v/donnelly-canyon/105716880 
+route_description: Tight hands in a corner with 1 and 2 camalots to a bulge where it widens a little to 3 camalot. There is a small flare at the top that may take a 4 camalot if you want, and then you're at the anchor. The name of this climb is due to the fact that an owl lives in the cave at the top. 
+route_name: Owl Crack  
+route_quality: 0.725 
+route_rating:  YDS: 5.10 
+route_rating_original: YDS: 5.10 
+route_type: Trad, 1 pitch, 80' 
+route_url: /v/owl-crack/107653915 
+

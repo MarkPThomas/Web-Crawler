@@ -1,0 +1,11 @@
+id: 107914182 
+parent_name: Yin and Yang Cliff 
+parent_url: /v/yin-and-yang-cliff/105732105 
+route_description: Bigwank is a short but fun offwidth crack.  Very approachable for the grade.  
+route_name: Bigwank  
+route_quality: 0.675 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 20' 
+route_url: /v/bigwank/107914182 
+

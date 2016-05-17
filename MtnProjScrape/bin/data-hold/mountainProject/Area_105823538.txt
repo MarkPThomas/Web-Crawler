@@ -1,0 +1,10 @@
+area_name: Wind River Range Rock Climbing  
+area_url: /v/wind-river-range/105823538 
+description: Located in west central Wyoming, the Wind River Range is roughly 100 miles long. It includes many peaks, with several over 13,000 feet in elevation. The Winds include the highest Rocky Mountain peaks outside Colorado.  Many classic alpine rock routes can be found in the Wind Rivers. Many routes are relatively remote.  See Summitpost.org for additional information on the Wind River Range. 
+getting_there: US Highway 191 runs along the western side of the Wind River Range. 
+id: 105823538 
+latitude: 42.7551 
+longitude:  -109.204  
+parent_name: Wyoming 
+parent_url: /v/wyoming/105708960 
+

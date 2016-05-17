@@ -1,0 +1,11 @@
+id: 105717805 
+parent_name: The Great Wall 
+parent_url: /v/the-great-wall/105717039 
+route_description: Maybe it was the rain, maybe it was just the entrada sandstone, but I thought this climb was really unappealing.  However, I will still give it a star because the line is indeed attractive and Stewart Green's (Falcon Publishing) "Rock Climbing Utah" guide calls it "excellent."  Head to the obvious blocks on the Great Wall (as my partner pointed out, they look like a stop-action photo of a large block slowing toppling over to the left), and to the crack in the dihedral to a three bolt anchor. 
+route_name: Chinese Eyes  
+route_quality: 0.65 
+route_rating:  YDS: 5.9+ 
+route_rating_original: YDS: 5.9+ 
+route_type: Trad, 1 pitch, 70' 
+route_url: /v/chinese-eyes/105717805 
+

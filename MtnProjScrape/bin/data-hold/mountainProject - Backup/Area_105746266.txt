@@ -1,0 +1,10 @@
+area_name: Capitol Peak Rock Climbing  
+area_url: /v/capitol-peak/105746266 
+description: Capitol Peak is one of the most challenging fourteeners in Colorado, and yields some good technical routes including the Northwest Ridge. Standing at 14,130', it is one of the most impressive mountains in the Elk Range with its amazing north face. Unlike some of the other mountains in the Elk Range, Capitol has very solid rock which can make the climbing very enjoyable, and the views from the summit are very rewarding and spectacular.  
+getting_there: Capitol Peak can be approached from either the Capitol Creek Trailhead or the Snowmass Creek Trailhead.  Both of these trailheads can be reached off of Colorado 82 south of Glenwood Springs.  For detailed directions to these trailheads refer to either Dawson's or Roach's fourteener guides. 
+id: 105746266 
+latitude: 39.1503 
+longitude:  -107.082  
+parent_name: Alpine Rock 
+parent_url: /v/alpine-rock/105744466 
+

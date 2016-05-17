@@ -1,0 +1,11 @@
+id: 105874451 
+parent_name: 22 - Five and Dime Cliff 
+parent_url: /v/22---five-and-dime-cliff/105870687 
+route_description: Climb face and a offwidth crack, left of "Five and Dime". 
+route_name: Copper Penny  
+route_quality: 0.625 
+route_rating:  YDS: 5.10a 
+route_rating_original: YDS: 5.10a 
+route_type: Trad 
+route_url: /v/copper-penny/105874451 
+

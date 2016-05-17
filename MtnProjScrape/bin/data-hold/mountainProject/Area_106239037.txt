@@ -1,0 +1,10 @@
+area_name: Hall of Horrors Area Rock Climbing  
+area_url: /v/hall-of-horrors-area/106239037 
+description: Covers the collection of parallel domes which sit across the road from Saddle Rocks. Home to many popular crack and face routes from very easy to 5.13 with many of the climbs in the 5.10 and under range. 
+getting_there: Located just down the road (north) from Ryan Campround and across the paved road from Saddle Rocks. Park in the paved lot with toilet and follow signed trails to the various formations. 
+id: 106239037 
+latitude: 34.0012 
+longitude:  -116.1482  
+parent_name: Sheep Pass Area 
+parent_url: /v/sheep-pass-area/105720579 
+

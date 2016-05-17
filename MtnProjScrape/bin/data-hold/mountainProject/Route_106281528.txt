@@ -1,0 +1,11 @@
+id: 106281528 
+parent_name: Swan Slab 
+parent_url: /v/swan-slab/105841123 
+route_description: The thin pin scarred seams right of swan slab gully.  Place pro where you can and go for it, and don't skip placing a piece in the horizontal crack at 2/3 height(there is a wider slot over to the rigth in this crack but a SMALL cam will fit)!  If you send this easy, consider going for the 5.10a right of Grants Crack! Reid's book shows this as a 5.7 and the S.T. guide doesn't include it at all. Both my partner and I feel like it is closer to 5.8. But you all decide. 
+route_name: Pin Scar Seams  
+route_quality: 0.475 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 1 pitch, 50' 
+route_url: /v/pin-scar-seams/106281528 
+

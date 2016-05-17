@@ -1,0 +1,11 @@
+id: 105735326 
+parent_name: Indian Rock 
+parent_url: /v/indian-rock/105734111 
+route_description: This climbs the right side of the overhung wall, starting upthe large outcropping.  From the block, use the large flaketo help you up, using decent but not great feet.   
+route_name: Overhung Wall - Right Exit  
+route_quality: 0.35 
+route_rating:  Hueco: V0 R 
+route_rating_original: Hueco: V0 R 
+route_type: Boulder, 10' 
+route_url: /v/overhung-wall---right-exit/105735326 
+

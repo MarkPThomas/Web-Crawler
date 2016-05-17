@@ -1,0 +1,10 @@
+area_name: Echo Rock Area Rock Climbing  
+area_url: /v/echo-rock-area/105720576 
+description:  The Echo Rock Area sees a lot of climber-days. This is not only because it's right there next to Hidden Valley, but because it has a lot of good climbing! It features a number of moderate and classic lines, but it also provides easy access (read: short approaches). A good assortment of face and crack climbs make this one of the most popular areas in the park. Although there is a singular Echo Rock, the entire area, made up of several formations and granite corridors, is usually referred to by the same name. Very much worth a visit!    
+getting_there:  The Echo Rock Area lies just northeast of the Hidden Valley Campground (Intersection Rock) area. There should be parking available next to the westernmost Echo formation. There have been problems in this area with braided trails. Please try to stick to designated (signed) climbers trails to mitigate this damage!   
+id: 105720576 
+latitude: 34.02283 
+longitude:  -116.15688  
+parent_name: Joshua Tree National Park 
+parent_url: /v/joshua-tree-national-park/105720495 
+

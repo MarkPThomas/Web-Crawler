@@ -1,0 +1,11 @@
+id: 105806102 
+parent_name: Bear Creek Spire 
+parent_url: /v/bear-creek-spire/105806064 
+route_description: A fine alpine rock climb with a wonderful prospect over Little Lakes Valley.  P1 5.6. Snowline dependent, cracks in slabs to a ledge where it gets steeper.  P2 5.8. Steep flake crack on the left to a ledge.  P3 5.7. Up and right over flakes to where the arete relents a little. Route-finding can be tricky.  P4/5 Easy 5th. Up the crest of the arete in a wonderful position to a ledge below the final impasse, a steep off-width crack.  P6 5.8 crux. The crack awkwardly.  P7 Easy 5th. Tunnel through to the other side of the ridge.  To finish, join with the Northeast Ridge and follow it to the top, or it might be more in keeping with the rest of the route to doggedly stay on the very crest of the ridge/arete to the summit. Either will deposit you on the crest of the summit ridge and just excellent and scenic scrambling/climbing for a pitch or two.  Don't forget to mantle onto the summit block!  
+route_name: North Arete  
+route_quality: 0.875 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, Alpine, 6 pitches, 1000',  Grade III 
+route_url: /v/north-arete/105806102 
+

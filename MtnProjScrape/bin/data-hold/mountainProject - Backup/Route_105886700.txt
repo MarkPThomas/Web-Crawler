@@ -1,0 +1,11 @@
+id: 105886700 
+parent_name: Donnelly Canyon 
+parent_url: /v/donnelly-canyon/105716880 
+route_description: Mr. Peanut lies up and approx 20' left of Chocolate Corner.  There is a somewhat hidden hand crack on the right, just left of a wide crack. Start up the hand crack to a small roof (crux), which narrows down to consistent fingers to the anchor. It is rated 11+ in both the older Sharp End guidebook as well as the new Bloom book, but I would argue it's more like 10+, possibly 11-. 
+route_name: Mr. Peanut  
+route_quality: 0.7 
+route_rating:  YDS: 5.10+ 
+route_rating_original: YDS: 5.10+ 
+route_type: Trad, 1 pitch, 60' 
+route_url: /v/mr-peanut/105886700 
+

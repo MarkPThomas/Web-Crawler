@@ -1,0 +1,11 @@
+id: 105799577 
+parent_name: West Face - Right Side 
+parent_url: /v/west-face---right-side/106181534 
+route_description: Traitor Horn is an area classic, and has a great exposed crux when you pull on to the 'True Horn'!    P1 & 2 - Climb the first 2 pitches of Jensen's Jaunt (5.6) until you can head right just below the headwall to a protruding horn of rock.  This is the 'Traitor Horn'.  Traverse up and right to a small niche and belay.  Try to protect this traverse well for your second, as the traversing moves can be delicate.  P3 - Climb up and over to the right.  There will be 2 pitons just before the move onto the 'True Horn' (crux).  The crack directly above with the pitons is a different route, and instead move to the right onto the horn.  Then up, up, and over to a good belay spot with a tree growing out of a crack.  If your second is not strong or is scared to move to the horn, make sure the rope is in the crack and not out away from it.  I know this sounds wrong, but if your 2nd falls they will be hanging in air and will be hard to get them back onto the rock.  P4 is long up a low angle slab to the top.   You can also start the climb with Coffin Nail (5.8) or On the Road (5.10c).  Also El Camino Real (5.10a) is another do way to go. 
+route_name: Traitor Horn  
+route_quality: 0.875 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 4 pitches, 400' 
+route_url: /v/traitor-horn/105799577 
+

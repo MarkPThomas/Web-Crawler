@@ -1,0 +1,10 @@
+area_name: Lower Brother Rock Climbing  
+area_url: /v/lower-brother/105986637 
+description: This area is approximately 1 mile west of Camp 4. The popular base  routes get afternoon shade. 
+getting_there: Approximately 0.8 miles west from Camp 4 there is a large pullout on the left side of the road. The pullout holds around 10 cars and has a split-rail wood fence. Park here and walk about 100 yards into the woods to the base of the wall at a point where the wall is nearest the road. There is no obvious trail, but you may find a system of cairns. You will enounter the wall near the toe of the Lower Brother.  
+id: 105986637 
+latitude: 37.73378 
+longitude:  -119.61233  
+parent_name: Three Brothers Area 
+parent_url: /v/three-brothers-area/110638278 
+

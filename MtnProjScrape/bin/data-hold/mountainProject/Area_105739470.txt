@@ -1,0 +1,10 @@
+area_name: Static Wall Rock Climbing  
+area_url: /v/static-wall/105739470 
+description: This wall contains 3 sport routes. 1 - 5.8 and 2 hard routes.  The rock is good and steep.  South facing with a lot of trees.   
+getting_there: In the Storm Mountain Picnic Area is a ridge on the north end.  This ridge is north of the old reservoir.  Just west of this is a gully with trees.  Hike through the trees for a couple of minutes. 
+id: 105739470 
+latitude:  
+longitude:  
+parent_name: Storm Mountain Picnic Area 
+parent_url: /v/storm-mountain-picnic-area/105798348 
+

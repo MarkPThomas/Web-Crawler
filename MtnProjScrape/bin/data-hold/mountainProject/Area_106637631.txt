@@ -1,0 +1,10 @@
+area_name: Super Roof Wall Rock Climbing  
+area_url: /v/super-roof-wall/106637631 
+description: At the upper left end of the canyon facing east (morning sun/afternoon shade) and just past the Tennis Shoe Block is this nice wall with it's distinctively blocky roofs. Super Roof (5.9) is the big draw here but the other routes here are worth a spin if in the area.  Routes from left to right:  Let's Get Horizontal (5.11b) Super Roof (5.9) Comfortably Numb (5.11b/c) 
+getting_there: See the Steve Canyon page for detailed approach information about getting to Steve Canyon.  Once inside the canyon head north passing the Tennis Shoe Block and the Super Roof Wall will be the next formation on your left (west). A little bit of easy scrambling up boulders is necessary to reach the base of the wall. 
+id: 106637631 
+latitude: 34.01953 
+longitude:  -116.16665  
+parent_name: Steve Canyon 
+parent_url: /v/steve-canyon/106637649 
+

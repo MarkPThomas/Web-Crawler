@@ -1,0 +1,11 @@
+id: 105872907 
+parent_name: El Capitan Base Routes 
+parent_url: /v/el-capitan-base-routes/105841115 
+route_description: Ahab is a wide testpiece for the aspiring wide specialist.  Begin in a corner just to the right of Moby Dick.  After a short 20ft scramble you enter the meat of the climb, a chimney that narrows and squeezes all but the most petite out to the edge.  Exit out top of the chimney and enter a flaring handcrack.  Continue up another slot and then to the anchors. 
+route_name: Ahab  
+route_quality: 0.95 
+route_rating:  YDS: 5.10b 
+route_rating_original: YDS: 5.10a 
+route_type: Trad, 1 pitch, 155' 
+route_url: /v/ahab/105872907 
+

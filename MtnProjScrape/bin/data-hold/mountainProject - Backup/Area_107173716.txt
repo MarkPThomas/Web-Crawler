@@ -1,0 +1,10 @@
+area_name: White Cliffs of Dover - Left Side Rock Climbing  
+area_url: /v/white-cliffs-of-dover---left-side/107173716 
+description: Quite popular and deservedly so, this portion of the White Cliffs is stacked with quality routes in a remote-feeling but accessible location. Highlights here include Popular Mechanics (5.9), Ace of Spades (5.9) and Good Housekeeping (5.11a). 
+getting_there: Standard approach from Quail Springs Picnic Area then head left along the cliffband when at the base. Plan on 30-40 minutes from the car. 
+id: 107173716 
+latitude:  
+longitude:  
+parent_name: White Cliffs of Dover 
+parent_url: /v/white-cliffs-of-dover/105720966 
+

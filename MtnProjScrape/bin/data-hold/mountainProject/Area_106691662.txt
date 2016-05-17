@@ -1,0 +1,10 @@
+area_name:  8 - Kat Pinnacle Rock Climbing  
+area_url: /v/-8---kat-pinnacle/106691662 
+description: This is a semi obscure pinnacle between the Cookie Cliff and Roadside Attraction.  There are a few old aid lines here as well as a couple free routes.  The Southwest Corner route is where Yvon Chouinard, belayed by Tom Frost, first tested and used the rurp in 1960. 
+getting_there: Park at the turnout just up river from Roadside Attraction.  Follow an in obvious trail with some bushwhacking up to the formation.  Also, the pinnacle can be reached by walking up the Cookie Road (Coulterville Road?) until you reach a healthy forested area.  Take a footpath to the left, into the woods, and pass the big boulder with Dynamite Crack (V0) on its back side.  Walk down through brush until you reach the top of the cliff.  Rappel into the notch. 
+id: 106691662 
+latitude: 37.70257 
+longitude:  -119.72201  
+parent_name: Lower Merced River Canyon 
+parent_url: /v/lower-merced-river-canyon/110464982 
+

@@ -1,0 +1,11 @@
+id: 106881403 
+parent_name: Northeast Face 
+parent_url: /v/northeast-face/105734057 
+route_description: Climb the face to the left of Beginners crack.   
+route_name: Face  
+route_quality: 0.45 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: TR, 1 pitch, 30' 
+route_url: /v/face/106881403 
+

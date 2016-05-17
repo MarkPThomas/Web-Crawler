@@ -1,0 +1,11 @@
+id: 105998060 
+parent_name: Five Open Books 
+parent_url: /v/five-open-books/105865908 
+route_description: P1: Take your choice of two cracks off the ground, both of which lead to a tricky traverse right under a roof (a #3 or #4 Camalot comes in handy here).  Continue up to belay at a tree.  See Photo.  P2: Continue up right-facing corner to another belay tree.  P3: Climb crack and face above tree and traverse right along the path of least resistance to the base of the "Caverns".  Belay at a tree.  P4: Several options.  Either delve into the depths and chimney up with no pro, climb the face just right of the chimney (also no pro), or climb a somewhat grungy right-facing crack above the belay tree (best option).  All options are 5.7.  Continue on easier ground to belay at a pine tree.  P5: Scramble right on dirty ground, skirting through the trees.  Finish with a short 5.6 crack.  Descend by hiking to climber's left on reasonably well-defined trail. 
+route_name: The Caverns  
+route_quality: 0.65 
+route_rating:  YDS: 5.8 
+route_rating_original: YDS: 5.8 
+route_type: Trad, 4 pitches, 400' 
+route_url: /v/the-caverns/105998060 
+

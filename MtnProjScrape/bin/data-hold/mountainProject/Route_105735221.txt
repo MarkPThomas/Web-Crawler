@@ -1,0 +1,11 @@
+id: 105735221 
+parent_name: Buck's Bar Dome 
+parent_url: /v/bucks-bar-dome/105734267 
+route_description: Climb up the featured face, which is almost a rounded aretejust to the right of Test Piece (5.8), and sharing the sametop anchor.  Start on the flake at the arete, and work your way up to anintersting sidepull move 20 or so feet off the ground.There are a couple of variations to this route, by keepingthe good hand to the right of the sidepull off, this routeis probably a 5.11a.  By working without the reachy move tothe  dish on the left about 15 feet off the ground, thisroute is probably a 5.11d.  Enjoy some interesting foot moves in the bottom, andinteresting balance moves up top.   
+route_name: Adhesion  
+route_quality: 0.65 
+route_rating:  YDS: 5.10c 
+route_rating_original: YDS: 5.10c 
+route_type: TR, 1 pitch, 30' 
+route_url: /v/adhesion/105735221 
+

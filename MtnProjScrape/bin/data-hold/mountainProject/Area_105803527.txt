@@ -1,0 +1,10 @@
+area_name: Charlotte Dome Rock Climbing  
+area_url: /v/charlotte-dome/105803527 
+description: Beautiful dome in the Sierra backcountry. Home to, as RJ Secor called it, "one of the world's finest rock climbs." 
+getting_there: Two ways:  1) From Cedar Grove, east up Bubb's Creek trail then cut left (north) on faint-use trail up Charlotte Creek, 7.5 miles 4,500 ft elevation gain.  2) From Onion Valley, over Kearsarge Pass, down to Charlotte Lake, then down to Charlotte Dome, 9.5 miles 3,500 ft elevation gain (on the way out! c2500 ft on the hike in).  You decide which way you want to go. Living in LA I favor the western approach (1); it's all downhill on the way out.  Campsites here are wonderful, in deep forest, and hopefully no one else around. Watch out for bears! Take precautions. Bear cannisters are mandatory on both approaches. 
+id: 105803527 
+latitude: 36.7825 
+longitude:  -118.48  
+parent_name: 10 - Kearsarge Pass to Cedar Grove 
+parent_url: /v/10---kearsarge-pass-to-cedar-grove/110847783 
+

@@ -1,0 +1,11 @@
+id: 105740207 
+parent_name: Narcolepsy Area 
+parent_url: /v/narcolepsy-area/105739449 
+route_description: This is not on Narcolepsy, but slightly below Narcolepsy, right of the approach slope.  It consists of a wide chimney running perpendicular to the trail at that point.  This climb climbs the left crack in the North wall.  Don't chimney.   
+route_name: Anuresis  
+route_quality: 0.4 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, TR, 1 pitch, 50' 
+route_url: /v/anuresis/105740207 
+

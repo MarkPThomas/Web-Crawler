@@ -1,0 +1,10 @@
+area_name: Crystal Crag Rock Climbing  
+area_url: /v/crystal-crag/105983733 
+description: Crystal Crag is easily seen from almost any point within the Mammoth Lakes basin.   Its rocky form tops out at 10,364ft.    There are a number of climbing options available.   There are a couple of climbs that go all the way to the summit.   However, some of the best climbing is found along the North East base of the peak.  The rock along the base is good quality granite, with many dikes and knobs.  The cliffs get early morning sun, and are blissfully sheltered from the strong summer sun, for most of the day. 
+getting_there: Park at the Lake George parking lot and start hiking on the Crystal Lake Trail. After about 20 mins a sign to Crystal Lake is seen.   Hang a left at the sign and follow the trail down to the lake.  Follow the trail around the lake and after about 100 yards, take the climbers trail on the left.   Follow this until you reach the base of the cliff.    The approach takes about 45 minutes. 
+id: 105983733 
+latitude: 37.592 
+longitude:  -119.0141  
+parent_name: Mammoth Lakes Area 
+parent_url: /v/mammoth-lakes-area/106064821 
+

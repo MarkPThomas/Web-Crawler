@@ -1,0 +1,11 @@
+id: 106336750 
+parent_name: Tuna and Chips Wall 
+parent_url: /v/tuna-and-chips-wall/105732042 
+route_description: use anchor of Chips Ahoy, just left of the route    
+route_name: Fishbreath  
+route_quality: 0.325 
+route_rating:  YDS: 5.5 
+route_rating_original: YDS: 5.5 
+route_type: Trad, 1 pitch, 120' 
+route_url: /v/fishbreath/106336750 
+

@@ -1,0 +1,11 @@
+id: 105724426 
+parent_name: Hound Rock 
+parent_url: /v/hound-rock/105721361 
+route_description: Hidden but a short distance from the crowds at Trashcan Rock is this gem of a route which if it were roadside would see almost constant traffic.  Climb a short slab, or as an alternative traverse in from the left, to reach the base of the crack which starts with a short vertical section of fingers and hands. Above this is a ledge and another short section with fingers and some stemming/liebacking to reach a second ledge. The last bit climbs up and right on face holds until able to traverse back left to reach good hand jams which lead to the top and the anchors.  The variety of moves on this coupled with the setting make for a tradtastic experience. Three stars out of five. 
+route_name: Tossed Green  
+route_quality: 0.7 
+route_rating:  YDS: 5.10a 
+route_rating_original: YDS: 5.10a 
+route_type: Trad, 1 pitch, 60' 
+route_url: /v/tossed-green/105724426 
+

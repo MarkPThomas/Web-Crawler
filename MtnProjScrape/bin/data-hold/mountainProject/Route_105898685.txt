@@ -1,0 +1,11 @@
+id: 105898685 
+parent_name: Middle Cathedral Rock 
+parent_url: /v/middle-cathedral-rock/105833490 
+route_description: This is a good route that has a bit of loose rock on it. The first 3 pitches are nice sustained 5.8/9, then the 5-7th pitches get harder. The 5th goes up a corner and you've got to get out of the corner and around the arete to the right. My friend Alex took a chunk out of the arete here.  Then the next pitch is classic Kor 5.9. You'll feel a total body pump by the time you get to the belay. 
+route_name: Kor-Beck  
+route_quality: 0.725 
+route_rating:  YDS: 5.9 
+route_rating_original: YDS: 5.9 
+route_type: Trad, 6 pitches, 600' 
+route_url: /v/kor-beck/105898685 
+

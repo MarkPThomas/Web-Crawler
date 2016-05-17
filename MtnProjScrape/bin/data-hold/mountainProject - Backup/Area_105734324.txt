@@ -1,0 +1,10 @@
+area_name: Lower Buttress Rock Climbing  
+area_url: /v/lower-buttress/105734324 
+description: Like all rocks in the Lover's Leap area, this rock is huge, and an awesome (mostly) trad rock containing over 25 multipitch routes.  Climbing is, as usual, granite fun with excellent horizontal dikes everywhere.    One of the best things about this 350 foot tall slab is that it's the fastest to get to from the camping area, taking about 10 minutes from the parking lot. The base area is also very developed, the tiering that was put in by the locals obviosly took some time, and makes for an inadvertant crash landing a much safer prospect.  All routes decend off the rock on the right (west) side of the rock in a gully that has a switchbacky yet developed trail.   Climbing on the Lower Buttress ranges from slightly overhung, to slightly slabby, with large crack systems, knobs, and other features to help you on almost all routes. 
+getting_there: Approach time: 5 - 10 minutes.  From the parking lot, head left at the fork from the parking lot.  Head gently uphill on the trail until 150 yards past the Monk boulder, which is the large 25 foot rock on the left side of the trail.  You will see the Lower Buttress, and will find the trail heading back at a greater than 90 degree angle heading over a 3' hump and around a medium-sized tree.  Head on this trail for about 150 yards, and you will be at the rock in front of one of few sport routes, which is known as A Boy and His Arete (5.10d).  
+id: 105734324 
+latitude: 38.8004 
+longitude:  -120.137  
+parent_name: Lover's Leap 
+parent_url: /v/lovers-leap/105733959 
+

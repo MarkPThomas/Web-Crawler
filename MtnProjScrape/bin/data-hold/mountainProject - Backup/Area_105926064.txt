@@ -1,0 +1,10 @@
+area_name: Puppy Dome Rock Climbing  
+area_url: /v/puppy-dome/105926064 
+description: Close to the road/parking lot with a short 5 minute approach.  On the easier low angled face are some good beginner routes and around the far side of the dome is an overhanging face with several quality harder routes. Standout routes would include Do or Fly (5.11c), Horseshoes and Hand Grenades  (5.12a) and Grenade Launcher  (5.12c). 
+getting_there: Drive to the Permit center and park in the parking lot. Near the Southwest corner look for a trail, you can see the dome straight ahead of you. 
+id: 105926064 
+latitude: 37.8754 
+longitude:  -119.3457  
+parent_name: Tuolumne Meadows 
+parent_url: /v/tuolumne-meadows/105833384 
+

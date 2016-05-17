@@ -1,0 +1,11 @@
+id: 105939229 
+parent_name: Royal Arches 
+parent_url: /v/royal-arches/105833402 
+route_description: Felt like a sustained 5.9, but i loved the climb. 
+route_name: Y Crack  
+route_quality: 0.625 
+route_rating:  YDS: 5.10a 
+route_rating_original: YDS: 5.10a 
+route_type: Trad, 1 pitch, 120' 
+route_url: /v/y-crack/105939229 
+

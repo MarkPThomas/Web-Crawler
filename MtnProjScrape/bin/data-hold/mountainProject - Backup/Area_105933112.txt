@@ -1,0 +1,10 @@
+area_name: Middle Teton Rock Climbing  
+area_url: /v/middle-teton/105933112 
+description: The Middle Teton is the 3rd highest peak in the Teton Range, and a familiar sight to all who climb the Grand Teton from Garnet Canyon.  Although easier to climb than the Grand Teton, it sees far fewer ascents.  One difficulty is that most routes on the Middle Teton are approached from the east up Garnet Canyon, so camp sites are by reservation and almost always full.  One-day ascents are popular for this reason, although they involve 6000 feet of elevation gain. 
+getting_there: The standard approach begins as for the Grand Teton, from the Lupine Meadows parking lot. 
+id: 105933112 
+latitude:  
+longitude:  
+parent_name: Grand Teton National Park 
+parent_url: /v/grand-teton-national-park/105802912 
+

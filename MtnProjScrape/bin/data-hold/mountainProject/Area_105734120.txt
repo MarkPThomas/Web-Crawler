@@ -1,0 +1,10 @@
+area_name: Plaque Rock Rock Climbing  
+area_url: /v/plaque-rock/105734120 
+description: Named for the historic plaque on the center its face, Plaque rock features 2 arete climbs and 2 face climbs crowded onto its narrow body.  Climbing is overhung on the face routes, and vertical or near vertical on the aretes.  The bolts on top provide opportunity to set up a top rope for the climbs beneath, but bring a 5' sling to ensure that your top anchor sits over the climbing, and isn't rubbing on the top of the rock.   The fact that the boulder is so small allows for all 4 climbs on the rock to be top roped without too much swinging. 
+getting_there: The small overhung rock facing the road.  Impossible not to notice. 
+id: 105734120 
+latitude:  
+longitude:  
+parent_name: Remillard Park 
+parent_url: /v/remillard-park/105733899 
+

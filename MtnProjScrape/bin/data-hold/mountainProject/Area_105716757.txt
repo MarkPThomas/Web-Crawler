@@ -1,0 +1,10 @@
+area_name: Arches National Park Rock Climbing  
+area_url: /v/arches-national-park/105716757 
+description: Arches National Park is an amazing place to climb.  The area has everything - serious multipitch towers, easy one pitch towers, and hard cracks on long buttresses.  Best of all, routes in Arches are usually only a few hundred feet from the road so the approaches are casual.  Most of the routes here are on Entrada sandstone, which is much softer than the Wingate found at Indian Creek.  It often fractures vertically so there are a lot of splitters, but they are much sandier than in other parts of the desert.  On aid routes, avoid nailing whenever possible as the incredibly soft stone doesn't hold up well to abuse.  This area sees a lot of tourists, and since most of the routes are very near the road climbers must maintain as low a profile as possible.  As always in the desert, approach climbs via washes to avoid trampling cryptobiotic soil.  Some areas are closed seasonally for nesting, so check in at the visitors center before climbing.  Finally, this is a national park, so be prepared for the entrance fee.  Water is available at the visitors center.  Moab is only a few miles south, and there is lots of camping on BLM land along River Road or near Moab.  There is a national park campground in Arches, but I've never stayed there so I can't vouch for it. 
+getting_there: From Moab, drive north along US 191 to the turn off for Arches National Park.  Arches is only a few miles out of town.  All climbs are accessed from this entrance - pick up a map at the visitors center.  The map has most of the formations marked on it. 
+id: 105716757 
+latitude: 38.6242 
+longitude:  -109.5994  
+parent_name: Moab Area 
+parent_url: /v/moab-area/105716711 
+

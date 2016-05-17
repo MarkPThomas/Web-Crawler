@@ -1,0 +1,10 @@
+area_name: Northwest Region Rock Climbing  
+area_url: /v/northwest-region/108471385 
+description: This region includes the North Cascades, the Skagit River Valley, and the north coastal region around Bellingham and the San Juan Islands.  
+getting_there: I5 going N-S, and numerous E-W roads including the Mt Baker HW, HW20, and the Mountain-Loop HW.  
+id: 108471385 
+latitude: 48.49286 
+longitude:  -122.08311  
+parent_name: Washington 
+parent_url: /v/washington/105708966 
+

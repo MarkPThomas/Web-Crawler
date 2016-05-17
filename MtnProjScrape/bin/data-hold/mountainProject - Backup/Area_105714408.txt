@@ -1,0 +1,10 @@
+area_name: Durrance Approach Rock Climbing  
+area_url: /v/durrance-approach/105714408 
+description: This approach leads to Durrance and surrounding cracks.  Durrance is the most popular route on the tower, and it is usually crowded during summer months.  This area also contains the Wiessner offwidth, Best Crack in Minnesota, Rangers are People Too, Pigeon English, etc.  This area is primarily on the south side of the tower, so expect hot sun through most of the day. 
+getting_there: Take the trail east from the parking lot and then take a right at the junction a short distance away.  Soon after, start heading toward the tower across the talus, taking the path of least resistence.  This is also the start for the west face approaches.  As you approach the tower, scramble up onto the southeast shoulder, and then depending on the route desired, follow this trail east around the tower.  Durrance is located around the tower a ways, and starts near the location of the ramp for the south and east faces.  Durrance can also be reached by following the approach for the south/east faces until the start of the ramp.  At this point, some scrambling/lower 5th class rock is required to get up to the base of the route and should probably be roped up. 
+id: 105714408 
+latitude: 44.59002 
+longitude:  -104.71425  
+parent_name: Devil's Tower 
+parent_url: /v/devils-tower/105714267 
+

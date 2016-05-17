@@ -1,0 +1,10 @@
+area_name: Pywiak Dome Rock Climbing  
+area_url: /v/pywiak-dome/105862954 
+description: Pywiak Dome is the dome just east of Tenaya Lake and really close to the road.  The Dike Route is the obvious landmark, but other (excellent) climbs include Aqua Knobby, Zee Tree, and Needle Spoon. 
+getting_there: Park at the obvious, large dirt pullout on the south side of the road and descend steeply down and over to the base of the dome.  Approach time is about 5 minutes.   
+id: 105862954 
+latitude: 37.8453 
+longitude:  -119.444  
+parent_name: Pywiack Area 
+parent_url: /v/pywiack-area/111837922 
+

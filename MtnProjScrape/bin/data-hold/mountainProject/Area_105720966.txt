@@ -1,0 +1,10 @@
+area_name: White Cliffs of Dover Rock Climbing  
+area_url: /v/white-cliffs-of-dover/105720966 
+description: The large, shaded (hint - good location for a warm day), cliff band on the hillside up and left from Baskerville Rock and Hound Rock. The rock is of generally excellent quality and features many classic moderates (Popular Mechanics, Ace of Spades, Jack of Hearts all 5.9) as well as some great harder routes including the classic Red Snapper, 5.11a. The other routes are generally all worth doing as well, several days can be spent on this excellent crag for sure!       	  	              	      	  	    The White Cliffs of Dover from AFPA Rock, Joshua Tree NP    	  
+getting_there: Hike from Trashcan Rock to Baskerville Rock on the existing trail (~10 minutes), and follow the trail left and up to the White Cliffs of Dover (another ~5-10 minutes). Popular Mechanics is towards the left, "bottom" end of the cliffband and is a very very clean off vertical right facing dihedral with a thin crack in it and 3 bigger parallel cracks in the left wall of the book (the right two of which are the route Ace of Spades), while Red Snapper is much higher on the right.    
+id: 105720966 
+latitude: 34.02934 
+longitude:  -116.19954  
+parent_name: Quail Springs Area 
+parent_url: /v/quail-springs-area/105720621 
+

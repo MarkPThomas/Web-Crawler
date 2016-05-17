@@ -1,0 +1,11 @@
+id: 106637286 
+parent_name: North Peak 
+parent_url: /v/north-peak/106637283 
+route_description: Amazing alpine ice route with a relatively short approach.  Generally steep snow and 50-55 degree ice for 6 continuous pitches.  Generally stay on the right side of the couloir (though both sides can be climbed) because the slope of the chute funnels rock and ice to the left side.  I have seen this climb in various conditions from steep neve mixed with ice to bullet-proof steep blue ice from top to bottom.  I have never seen it as a snow couloir as is shown in S.P. Parker's guidebook.  The North Couloir is the farthest right couloir on the north face.  It should be obvious because it is the largest chute.  When you arrive at the top of the ice at the notch, either ascend low 5th class rock to the summit (climbers right from the notch) or descend south and down to Conness Lake. 
+route_name: North Face North Couloir (right couloir)  
+route_quality: 0.8 
+route_rating: AI2 
+route_rating_original: AI3 Steep Snow 
+route_type: Ice, Alpine, 6 pitches, 800',  Grade III 
+route_url: /v/north-face-north-couloir-right-couloir/106637286 
+

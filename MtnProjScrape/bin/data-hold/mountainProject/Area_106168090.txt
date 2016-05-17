@@ -1,0 +1,10 @@
+area_name: Echo Rock - South Face Rock Climbing  
+area_url: /v/echo-rock---south-face/106168090 
+description: The south end of Echo Rock is a small area packed with some great routes in a relatively sheltered and sunny location - something to keep in mind on those cold and windy days.    
+getting_there: Park in the large gravel lot north of Echo Tee, follow the marked trail past the south face of Echo Cove, and continue on until even with the south end of Echo Rock. From here make a left and work up through boulders to the base of the wall. Plan on about 10 minutes for the approach.   
+id: 106168090 
+latitude: 34.02465 
+longitude:  -116.15513  
+parent_name: Echo Rock 
+parent_url: /v/echo-rock/105720786 
+

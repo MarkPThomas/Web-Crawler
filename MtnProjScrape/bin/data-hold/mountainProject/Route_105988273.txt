@@ -1,0 +1,11 @@
+id: 105988273 
+parent_name: Swan Slab 
+parent_url: /v/swan-slab/105841123 
+route_description: A very short (~30') crack, good for kids and those wishing to practice jamming technique.  To descend, scramble up and left to the tree above Swan Slab Gully (3rd class).  A single 60' rap to the ground from here. 
+route_name: Hanging Flake  
+route_quality: 0.425 
+route_rating:  YDS: 5.6 
+route_rating_original: YDS: 5.6 
+route_type: Trad, 1 pitch, 30' 
+route_url: /v/hanging-flake/105988273 
+

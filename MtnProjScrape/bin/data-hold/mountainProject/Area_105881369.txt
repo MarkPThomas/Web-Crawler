@@ -1,0 +1,10 @@
+area_name: Canada Rock Climbing  
+area_url: /v/canada/105881369 
+description:  
+getting_there:  
+id: 105881369 
+latitude: 59.7121 
+longitude:  -112.5  
+parent_name: North America 
+parent_url: /v/north-america/106661469 
+

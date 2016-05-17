@@ -1,0 +1,10 @@
+area_name: Medlicott Dome, Left Rock Climbing  
+area_url: /v/medlicott-dome-left/105903292 
+description: A super quality cliff with mid-day to sunset sun exposure. Most route require face/knob climbing. This area has a mix or old and new classics.  
+getting_there: Drive 5.1 miles west from the meadows store to a small pullout on the left (per a newish Reid/Falkenstein guide, '09?).  Hike a climber's trail eastward to a well maintained trail (Tenaya Lake Trail), turn right here and in about 100 yards come to another climber's trail on the left marked with a small cairn.   From here the trail pretty much takes a straight, aerobic, uphill line to the base of the cliff at the Smithers route.  Descent: Walk off southwest and check out the top of this really cool dome. Be very careful not to step on any of the plants who make there hard fought homes on the top. 
+id: 105903292 
+latitude: 37.86017 
+longitude:  -119.42857  
+parent_name: Medlicott Dome 
+parent_url: /v/medlicott-dome/105902993 
+

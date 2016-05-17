@@ -1,0 +1,11 @@
+id: 105862912 
+parent_name: Royal Arches 
+parent_url: /v/royal-arches/105833402 
+route_description: The "Serenity-Sons" combo may be the best 5.10 crack climb in the Valley... it is just so, so good.  Why anyone would do one without the other, I don't know, but since they are technically two separate routes, they are listed as such.    Serenity Crack is the crux of the linkup and comprises the first three pitches of the climb.  Park at the Ahwahnee (the route is visible through the trees from the vallet area in front of the lobby) and hike in to the base.    P1:  If you don't like manufactured climbs, just go home!  This pitch is pretty unique -- I certainly have never seen anything like it:  Hundreds of blown out pin scars the size of #1 Camalots create a practical ladder up the pitch.  Unfortunately, secure gear is not available for a long, long ways, and this pitch is very unnerving to climb.  Not only that but it is painful on the toes.  Bring a full rack and be prepared to place cams in the flaring scars and sometimes great wires up higher.  Belay at bolts.  5.10a.  P2:  Climb beautiful 5.10a jams to a cruxy crack switch move higher (nice to have some small wires for this).  Continue up more 5.10a to a bolted belay.  P3:  Steep flakes and overhanging hands leads to a beautiful, thin splitter.  The crux is a section of tips jams just before the belay.  5.10d.  Romp up the large ledge system to whatever belay stance makes the most sense for starting Sons of Yesterday.   
+route_name: Serenity Crack  
+route_quality: 0.95 
+route_rating:  YDS: 5.10d PG13 
+route_rating_original: YDS: 5.10d PG13 
+route_type: Trad, 3 pitches, 350' 
+route_url: /v/serenity-crack/105862912 
+

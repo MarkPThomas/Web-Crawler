@@ -1,0 +1,11 @@
+id: 105764391 
+parent_name: Nautilus 
+parent_url: /v/nautilus/105745214 
+route_description: Classic hand jams & good pro.  Starting in a right-facing corner, climb a hand crack with a pumpy start.  Follow the crack to a small ledge and then cut left following a left facing diagonal crack.  To finish, step across a gap into a fun offwidth or face climb (right) up to a large boulder.  Getting there:  Slat is located on the southwest quadrant of the Nautilus, and is left of Ted's Trot  Block in the Three Sisters Area.  From the parking lot, walk about 100 yards along the south side of the Nautilus.  You can see the left-facing, diagonal crack at the top of Slat.  Then, scramble up through the boulders to the base of the Nautilus.  Descent:  Head straight north and down climb a tunnel/chimney on the northwest side of the Nautilus (about 20 feet from the top of Slat), or traverse along the south side of Ted's Trot Block and down climb the tunnel/chimney half way between Ted's Trot Block and the top of Cornelius on the northwest side of the Nautilus. 
+route_name: Slat  
+route_quality: 0.475 
+route_rating:  YDS: 5.7 
+route_rating_original: YDS: 5.7 
+route_type: Trad, 1 pitch, 80' 
+route_url: /v/slat/105764391 
+

@@ -1,0 +1,11 @@
+id: 105954372 
+parent_name: Denali 
+parent_url: /v/denali/105953839 
+route_description:  
+route_name: Cassin Ridge  
+route_quality: 1.0 
+route_rating:  YDS: 5.8 WI4 
+route_rating_original: YDS: 5.8 WI4 
+route_type: Ice, Alpine,  Grade V 
+route_url: /v/cassin-ridge/105954372 
+
