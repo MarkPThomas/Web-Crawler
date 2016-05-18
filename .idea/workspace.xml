@@ -2,823 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0adfe7d-f742-4368-a53c-d1ac8902486f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MtnProjScrape/bin/data-hold/mountainProject/areas.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MtnProjScrape/bin/data-hold/mountainProject/routes.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MtnProjScrape/lib/data-hold/mountainProject - Copy/areas.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MtnProjScrape/lib/data-hold/mountainProject - Copy/route_overwrites.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MtnProjScrape/lib/data-hold/mountainProject - Copy/routes.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MtnProjScrape/lib/data-hold/mountainProject - Copy/tick_list.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MtnProjScrape/lib/data-hold/mountainProject - Copy/todo_list.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MtnProjScrape/lib/data-hold/mountainProject - Copy/url_parents.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MtnProjScrape/lib/data-hold/mountainProject - Copy/url_parents_parent.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Canyon_154148.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Canyon_154313.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150188.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150199.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150221.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150222.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150227.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150246.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150269.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150284.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150291.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150302.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150312.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150325.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150362.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150376.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150378.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150382.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150406.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150408.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150410.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150414.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150430.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150438.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150440.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150441.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150452.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150473.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150488.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150493.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150494.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150495.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150499.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150503.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150505.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150513.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150514.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150515.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150516.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150522.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150524.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150526.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150527.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150530.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150557.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150612.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150613.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150701.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150794.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150844.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150862.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150863.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150876.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150921.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_150963.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151010.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151086.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151102.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151177.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151202.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151224.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151232.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151233.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151241.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151263.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151267.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151268.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151269.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151272.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151290.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151301.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151351.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151365.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151389.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151412.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151441.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151452.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151478.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151509.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151534.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151567.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151573.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151577.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151580.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151681.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151712.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151751.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151755.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151779.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151803.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151804.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151805.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151806.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151820.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151824.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151839.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151840.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151866.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151893.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151902.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151952.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151964.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151973.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151974.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151977.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_151994.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_152200.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_152266.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_152296.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_152297.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_152557.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_152752.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_152754.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_152831.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_152853.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_152854.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_152855.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_152856.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_152857.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_152858.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_152888.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_152890.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_152909.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_153021.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_153022.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_153125.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_153127.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_153143.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_153182.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_153310.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_153374.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_153420.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_153567.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_153693.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_153695.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_154164.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_154182.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_154274.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_154375.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_154383.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_154659.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_191302.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_197009.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_247651.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_395013.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_401747.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_406145.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_419369.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_467295.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_528220.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_607527.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_647234.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Mountain-Rock_650446.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_155536.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_155538.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_155564.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_155566.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_155568.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_155574.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_155670.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_155706.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_155708.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_155724.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_155734.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_155740.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_155800.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_155838.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_156218.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_156282.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_156712.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_156888.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_157002.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_157054.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_157056.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_157074.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_157134.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_157170.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_157706.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_157716.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_157738.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_157840.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_157850.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_157862.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_157968.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_157970.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_157984.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_158138.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_158258.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_158280.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_158310.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_158350.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_158564.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_158576.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_158716.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_158908.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_159004.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_159690.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_159790.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_160454.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_160630.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_161336.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_161508.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_161702.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_161858.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_161862.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_162276.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_163022.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_163144.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_163146.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_163704.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_164670.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_165318.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_165356.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_165478.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_165606.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_165874.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_165922.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_165924.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_165948.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_166454.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_166654.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_167136.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_167674.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_205503.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_234383.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_248606.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_342608.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_378567.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_410106.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_471705.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_634376.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/Route_640956.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/climber_logs.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Area-Range_164486.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Article_621952.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Article_624046.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Article_694359.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Article_700719.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Canyon_154148.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Canyon_154313.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Mountain-Rock_151567.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Mountain-Rock_151973.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Mountain-Rock_151974.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Mountain-Rock_152297.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Mountain-Rock_152752.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Mountain-Rock_152853.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Mountain-Rock_152854.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Mountain-Rock_152855.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Mountain-Rock_152856.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Mountain-Rock_152857.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Mountain-Rock_152858.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Mountain-Rock_152909.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Mountain-Rock_153354.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Mountain-Rock_153693.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Mountain-Rock_153695.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Mountain-Rock_165762.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Mountain-Rock_165818.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Mountain-Rock_165854.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_157840.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_157946.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_157948.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_157950.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_157966.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_157968.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_159090.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_159092.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_159102.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_159104.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_159108.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_159112.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_160002.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_160008.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_160024.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_160128.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_160454.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_160560.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_161312.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_161320.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_161606.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_161610.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_161614.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_161618.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_161620.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_161622.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_161626.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_161628.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_161870.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_163114.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_163332.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_163334.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_163336.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_163540.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_163544.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_163756.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_163772.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_163776.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_163810.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_163920.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_163924.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_163932.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_163990.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_163992.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_163996.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_163998.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_164300.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_165076.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_165264.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_165270.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_165272.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_165284.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_165304.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_165308.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_165324.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_165384.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_165540.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_165728.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_165734.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_165992.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_283772.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_471705.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_471718.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_633899.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_634376.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Route_640956.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Trailhead_627226.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Trip Report_169435.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Trip Report_169436.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Trip Report_169437.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Trip Report_169439.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Trip Report_169849.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Trip Report_169851.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Trip Report_169860.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Trip Report_169869.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Trip Report_169883.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Trip Report_170009.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Trip Report_170027.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Trip Report_170041.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Trip Report_170130.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Trip Report_170148.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Trip Report_170226.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Trip Report_218677.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Trip Report_475480.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Trip Report_531269.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Trip Report_601331.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Trip Report_626323.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Trip Report_641977.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Trip Report_701674.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Trip Report_705800.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Trip Report_758454.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Trip Report_781282.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Trip Report_782437.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Trip Report_783262.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Trip Report_783682.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Trip Report_784903.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/my_Trip Report_843342.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/test-data/Area-Range_164486.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/test-data/Article_700719.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/test-data/Canyon_154313.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/test-data/Mountain-Rock_153695.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/test-data/Route_157170.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/test-data/Route_283772.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/test-data/Trailhead_627226.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/test-data/Trip Report_843342.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/test-data/climber_log.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/test-data/object_urls.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost - Copy/test-data/tick_urls.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MarkPThomasScrape/bin/app.rb" afterPath="$PROJECT_DIR$/MarkPThomasScrape/bin/app.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MarkPThomasScrape/lib/MarkPThomasScrape.rb" afterPath="$PROJECT_DIR$/MarkPThomasScrape/lib/MarkPThomasScrape.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MtnProjScrape/bin/app.rb" afterPath="$PROJECT_DIR$/MtnProjScrape/bin/app.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MtnProjScrape/bin/data-hold/mountainProject/route_overwrites.txt" afterPath="$PROJECT_DIR$/MtnProjScrape/bin/data-hold/mountainProject/route_overwrites.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MtnProjScrape/bin/data-hold/mountainProject/tick_list.txt" afterPath="$PROJECT_DIR$/MtnProjScrape/bin/data-hold/mountainProject/tick_list.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MtnProjScrape/lib/MtnProjScrape.rb" afterPath="$PROJECT_DIR$/MtnProjScrape/lib/MtnProjScrape.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/app.rb" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/app.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Canyon_154148.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Canyon_154148.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Canyon_154313.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Canyon_154313.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150188.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150188.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150199.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150199.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150221.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150221.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150222.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150222.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150227.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150227.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150246.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150246.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150269.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150269.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150284.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150284.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150291.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150291.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150302.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150302.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150312.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150312.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150325.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150325.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150362.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150362.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150376.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150376.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150378.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150378.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150382.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150382.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150406.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150406.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150408.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150408.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150410.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150410.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150414.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150414.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150430.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150430.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150438.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150438.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150440.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150440.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150441.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150441.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150452.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150452.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150473.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150473.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150488.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150488.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150493.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150493.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150494.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150494.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150495.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150495.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150499.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150499.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150503.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150503.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150505.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150505.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150513.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150513.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150514.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150514.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150515.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150515.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150516.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150516.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150522.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150522.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150524.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150524.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150526.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150526.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150527.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150527.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150530.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150530.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150557.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150557.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150612.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150612.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150613.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150613.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150701.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150701.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150794.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150794.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150844.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150844.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150862.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150862.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150863.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150863.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150876.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150876.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150921.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150921.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150963.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_150963.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151010.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151010.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151086.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151086.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151102.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151102.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151177.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151177.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151202.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151202.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151224.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151224.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151232.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151232.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151233.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151233.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151241.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151241.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151263.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151263.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151267.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151267.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151268.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151268.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151269.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151269.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151272.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151272.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151290.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151290.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151301.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151301.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151351.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151351.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151365.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151365.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151389.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151389.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151412.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151412.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151441.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151441.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151452.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151452.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151478.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151478.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151509.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151509.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151534.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151534.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151567.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151567.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151573.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151573.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151577.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151577.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151580.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151580.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151681.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151681.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151712.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151712.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151751.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151751.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151755.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151755.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151779.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151779.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151803.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151803.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151804.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151804.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151805.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151805.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151806.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151806.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151820.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151820.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151824.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151824.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151839.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151839.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151840.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151840.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151866.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151866.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151893.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151893.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151902.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151902.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151952.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151952.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151964.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151964.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151973.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151973.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151974.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151974.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151977.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151977.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151994.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_151994.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_152200.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_152200.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_152266.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_152266.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_152296.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_152296.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_152297.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_152297.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_152557.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_152557.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_152752.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_152752.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_152754.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_152754.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_152831.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_152831.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_152853.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_152853.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_152854.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_152854.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_152855.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_152855.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_152856.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_152856.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_152857.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_152857.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_152858.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_152858.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_152888.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_152888.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_152890.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_152890.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_152909.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_152909.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_153021.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_153021.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_153022.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_153022.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_153125.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_153125.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_153127.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_153127.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_153143.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_153143.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_153182.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_153182.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_153310.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_153310.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_153374.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_153374.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_153420.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_153420.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_153567.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_153567.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_153693.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_153693.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_153695.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_153695.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_154164.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_154164.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_154182.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_154182.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_154274.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_154274.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_154375.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_154375.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_154383.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_154383.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_154659.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_154659.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_191302.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_191302.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_197009.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_197009.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_247651.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_247651.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_395013.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_395013.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_401747.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_401747.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_406145.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_406145.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_419369.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_419369.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_467295.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_467295.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_528220.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_528220.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_607527.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_607527.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_647234.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_647234.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_650446.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Mountain-Rock_650446.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_155536.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_155536.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_155538.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_155538.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_155564.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_155564.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_155566.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_155566.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_155568.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_155568.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_155574.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_155574.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_155670.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_155670.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_155706.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_155706.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_155708.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_155708.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_155724.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_155724.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_155734.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_155734.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_155740.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_155740.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_155800.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_155800.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_155838.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_155838.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_156218.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_156218.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_156282.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_156282.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_156712.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_156712.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_156888.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_156888.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_157002.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_157002.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_157054.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_157054.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_157056.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_157056.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_157074.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_157074.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_157134.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_157134.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_157170.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_157170.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_157706.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_157706.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_157716.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_157716.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_157738.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_157738.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_157840.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_157840.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_157850.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_157850.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_157862.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_157862.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_157968.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_157968.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_157970.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_157970.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_157984.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_157984.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_158138.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_158138.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_158258.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_158258.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_158280.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_158280.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_158310.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_158310.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_158350.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_158350.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_158564.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_158564.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_158576.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_158576.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_158716.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_158716.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_158908.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_158908.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_159004.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_159004.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_159690.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_159690.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_159790.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_159790.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_160454.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_160454.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_160630.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_160630.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_161336.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_161336.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_161508.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_161508.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_161702.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_161702.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_161858.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_161858.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_161862.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_161862.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_162276.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_162276.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_163022.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_163022.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_163144.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_163144.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_163146.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_163146.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_163704.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_163704.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_164670.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_164670.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_165318.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_165318.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_165356.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_165356.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_165478.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_165478.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_165606.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_165606.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_165874.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_165874.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_165922.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_165922.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_165924.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_165924.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_165948.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_165948.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_166454.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_166454.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_166654.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_166654.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_167136.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_167136.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_167674.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_167674.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_205503.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_205503.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_234383.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_234383.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_248606.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_248606.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_342608.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_342608.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_378567.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_378567.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_410106.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_410106.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_471705.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_471705.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_634376.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_634376.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_640956.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/Route_640956.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/climber_logs.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/climber_logs.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Area-Range_164486.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Area-Range_164486.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Article_621952.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Article_621952.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Article_624046.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Article_624046.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Article_694359.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Article_694359.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Article_700719.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Article_700719.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Canyon_154148.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Canyon_154148.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Canyon_154313.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Canyon_154313.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Mountain-Rock_151567.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Mountain-Rock_151567.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Mountain-Rock_151973.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Mountain-Rock_151973.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Mountain-Rock_151974.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Mountain-Rock_151974.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Mountain-Rock_152297.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Mountain-Rock_152297.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Mountain-Rock_152752.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Mountain-Rock_152752.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Mountain-Rock_152853.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Mountain-Rock_152853.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Mountain-Rock_152854.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Mountain-Rock_152854.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Mountain-Rock_152855.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Mountain-Rock_152855.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Mountain-Rock_152856.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Mountain-Rock_152856.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Mountain-Rock_152857.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Mountain-Rock_152857.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Mountain-Rock_152858.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Mountain-Rock_152858.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Mountain-Rock_152909.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Mountain-Rock_152909.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Mountain-Rock_153354.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Mountain-Rock_153354.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Mountain-Rock_153693.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Mountain-Rock_153693.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Mountain-Rock_153695.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Mountain-Rock_153695.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Mountain-Rock_165762.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Mountain-Rock_165762.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Mountain-Rock_165818.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Mountain-Rock_165818.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Mountain-Rock_165854.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Mountain-Rock_165854.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_157840.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_157840.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_157946.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_157946.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_157948.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_157948.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_157950.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_157950.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_157966.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_157966.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_157968.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_157968.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_159090.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_159090.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_159092.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_159092.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_159102.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_159102.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_159104.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_159104.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_159108.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_159108.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_159112.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_159112.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_160002.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_160002.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_160008.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_160008.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_160024.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_160024.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_160128.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_160128.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_160454.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_160454.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_160560.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_160560.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_161312.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_161312.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_161320.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_161320.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_161606.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_161606.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_161610.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_161610.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_161614.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_161614.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_161618.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_161618.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_161620.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_161620.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_161622.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_161622.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_161626.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_161626.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_161628.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_161628.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_161870.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_161870.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_163114.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_163114.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_163332.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_163332.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_163334.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_163334.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_163336.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_163336.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_163540.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_163540.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_163544.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_163544.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_163756.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_163756.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_163772.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_163772.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_163776.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_163776.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_163810.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_163810.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_163920.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_163920.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_163924.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_163924.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_163932.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_163932.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_163990.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_163990.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_163992.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_163992.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_163996.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_163996.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_163998.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_163998.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_164300.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_164300.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_165076.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_165076.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_165264.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_165264.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_165270.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_165270.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_165272.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_165272.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_165284.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_165284.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_165304.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_165304.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_165308.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_165308.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_165324.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_165324.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_165384.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_165384.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_165540.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_165540.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_165728.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_165728.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_165734.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_165734.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_165992.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_165992.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_283772.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_283772.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_471705.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_471705.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_471718.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_471718.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_633899.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_633899.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_634376.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_634376.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_640956.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Route_640956.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trailhead_627226.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trailhead_627226.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_169435.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_169435.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_169436.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_169436.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_169437.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_169437.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_169439.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_169439.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_169849.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_169849.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_169851.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_169851.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_169860.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_169860.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_169869.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_169869.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_169883.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_169883.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_170009.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_170009.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_170027.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_170027.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_170041.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_170041.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_170130.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_170130.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_170148.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_170148.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_170226.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_170226.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_218677.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_218677.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_475480.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_475480.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_531269.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_531269.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_601331.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_601331.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_626323.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_626323.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_641977.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_641977.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_701674.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_701674.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_705800.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_705800.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_758454.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_758454.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_781282.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_781282.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_782437.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_782437.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_783262.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_783262.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_783682.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_783682.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_784903.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_784903.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_843342.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/my_Trip Report_843342.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/test-data/Area-Range_164486.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/test-data/Area-Range_164486.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/test-data/Article_700719.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/test-data/Article_700719.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/test-data/Canyon_154313.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/test-data/Canyon_154313.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/test-data/Mountain-Rock_153695.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/test-data/Mountain-Rock_153695.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/test-data/Route_157170.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/test-data/Route_157170.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/test-data/Route_283772.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/test-data/Route_283772.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/test-data/Trailhead_627226.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/test-data/Trailhead_627226.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/test-data/Trip Report_843342.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/test-data/Trip Report_843342.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/test-data/climber_log.txt" afterPath="$PROJECT_DIR$/SummitPostScrape/bin/data-hold/summitPost/test-data/climber_log.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SummitPostScrape/lib/SummitPostScrape.rb" afterPath="$PROJECT_DIR$/SummitPostScrape/lib/SummitPostScrape.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/app.rb" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/app.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11118n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11118n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11122n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11122n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11159n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11159n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11169n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11169n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11186n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11186n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11335n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11335n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11341n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11341n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11362n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11362n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11378n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11378n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11417n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11417n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11479n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11479n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11481n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11481n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11492n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11492n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11498n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11498n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11524n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11524n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11567n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11567n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11571n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11571n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11578n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11578n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11665n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11665n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11686n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11686n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11690n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11690n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11693n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11693n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11695n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11695n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11697n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11697n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11702n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11702n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11703n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11703n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11705n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11705n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11715n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11715n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11719n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11719n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11720n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11720n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11734n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11734n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11757n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11757n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11782n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11782n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11810n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11810n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11814n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11814n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11815n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11815n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11828n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11828n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11841n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11841n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11867n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11867n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11972n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11972n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11974n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t11974n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12057n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12057n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12093n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12093n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12149n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12149n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12154n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12154n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12165n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12165n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12186n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12186n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12187n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12187n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12193n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12193n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12222n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12222n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12224n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12224n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12243n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12243n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12246n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12246n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12247n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12247n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12248n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12248n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12256n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12256n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12258n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12258n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12262n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12262n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12263n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12263n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12324n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12324n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12340n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12340n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12348n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12348n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12438n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12438n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12463n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12463n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12479n.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/report_t12479n.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/reports_summaries.txt" afterPath="$PROJECT_DIR$/SuperTopoScrape/bin/data-hold/superTopo/reports_summaries.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperTopoScrape/lib/SuperTopoScrape.rb" afterPath="$PROJECT_DIR$/SuperTopoScrape/lib/SuperTopoScrape.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/LibFileReadWrite.rb" afterPath="$PROJECT_DIR$/lib/LibFileReadWrite.rb" />
     </list>
     <ignored path="Web Crawler.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -833,11 +21,11 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Web Crawler@app__3_.coverage" NAME="app (3) Coverage Results" MODIFIED="1463366876535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MarkPThomasScrape/bin" MODULE_NAME="Web Crawler" />
-    <SUITE FILE_PATH="coverage/Web Crawler@app.coverage" NAME="app Coverage Results" MODIFIED="1463476345977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MtnProjScrape/bin" MODULE_NAME="Web Crawler" />
-    <SUITE FILE_PATH="coverage/Web Crawler@app__1_.coverage" NAME="app (1) Coverage Results" MODIFIED="1463465632989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SummitPostScrape/bin" MODULE_NAME="Web Crawler" />
+    <SUITE FILE_PATH="coverage/Web Crawler@app.coverage" NAME="app Coverage Results" MODIFIED="1463545087360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MtnProjScrape/bin" MODULE_NAME="Web Crawler" />
+    <SUITE FILE_PATH="coverage/Web Crawler@app__1_.coverage" NAME="app (1) Coverage Results" MODIFIED="1463560879067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SummitPostScrape/bin" MODULE_NAME="Web Crawler" />
     <SUITE FILE_PATH="coverage/Web Crawler@SuperTopoScrape.coverage" NAME="SuperTopoScrape Coverage Results" MODIFIED="1463291478423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SuperTopoScrape/lib" MODULE_NAME="Web Crawler" />
     <SUITE FILE_PATH="coverage/Web Crawler@hello_world.coverage" NAME="hello_world Coverage Results" MODIFIED="1462750674707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Nokogiri Test" MODULE_NAME="Web Crawler" />
-    <SUITE FILE_PATH="coverage/Web Crawler@app__2_.coverage" NAME="app (2) Coverage Results" MODIFIED="1463466410026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SuperTopoScrape/bin" MODULE_NAME="Web Crawler" />
+    <SUITE FILE_PATH="coverage/Web Crawler@app__2_.coverage" NAME="app (2) Coverage Results" MODIFIED="1463546250335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SuperTopoScrape/bin" MODULE_NAME="Web Crawler" />
     <SUITE FILE_PATH="coverage/Web Crawler@MtnProjScrape.coverage" NAME="MtnProjScrape Coverage Results" MODIFIED="1463033612635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MtnProjScrape/lib" MODULE_NAME="Web Crawler" />
     <SUITE FILE_PATH="coverage/Web Crawler@SummitPostScrape.coverage" NAME="SummitPostScrape Coverage Results" MODIFIED="1462737743398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SummitPostScrape/lib" MODULE_NAME="Web Crawler" />
   </component>
@@ -860,11 +48,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MtnProjScrape.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MtnProjScrape.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MtnProjScrape/lib/MtnProjScrape.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
               <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SuperTopoScrape.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SuperTopoScrape/lib/SuperTopoScrape.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-289">
+              <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SummitPostScrape.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SummitPostScrape/lib/SummitPostScrape.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="70" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Profile.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SummitPostScrape/lib/Profile.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SuperTopoScrape/bin/app.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SummitPostScrape/bin/app.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -904,12 +142,14 @@
         <option value="$PROJECT_DIR$/MarkPThomasScrape/bin/app.rb" />
         <option value="$PROJECT_DIR$/lib/LibFileReadWrite.rb" />
         <option value="$PROJECT_DIR$/MarkPThomasScrape/lib/MarkPThomasScrape.rb" />
+        <option value="$PROJECT_DIR$/MtnProjScrape/bin/app.rb" />
+        <option value="$PROJECT_DIR$/MtnProjScrape/lib/MtnProjScrape.rb" />
+        <option value="$PROJECT_DIR$/SuperTopoScrape/lib/SuperTopoPush.rb" />
+        <option value="$PROJECT_DIR$/SuperTopoScrape/bin/app.rb" />
+        <option value="$PROJECT_DIR$/SummitPostScrape/lib/Profile.rb" />
         <option value="$PROJECT_DIR$/SummitPostScrape/bin/app.rb" />
         <option value="$PROJECT_DIR$/SummitPostScrape/lib/SummitPostScrape.rb" />
         <option value="$PROJECT_DIR$/SuperTopoScrape/lib/SuperTopoScrape.rb" />
-        <option value="$PROJECT_DIR$/SuperTopoScrape/bin/app.rb" />
-        <option value="$PROJECT_DIR$/MtnProjScrape/bin/app.rb" />
-        <option value="$PROJECT_DIR$/MtnProjScrape/lib/MtnProjScrape.rb" />
       </list>
     </option>
   </component>
@@ -972,7 +212,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1015,7 +254,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MtnProjScrape" />
+              <option name="myItemId" value="SuperTopoScrape" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1029,7 +268,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MtnProjScrape" />
+              <option name="myItemId" value="SuperTopoScrape" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1047,7 +286,57 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MtnProjScrape" />
+              <option name="myItemId" value="SuperTopoScrape" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web Crawler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web Crawler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SummitPostScrape" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web Crawler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web Crawler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SummitPostScrape" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web Crawler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web Crawler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SummitPostScrape" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1058,6 +347,7 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1069,14 +359,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mark\Documents\GitHub\Ruby\Web Crawler\SummitPostScrape\lib" />
       <recent name="C:\Users\Mark\Documents\GitHub\Ruby\Web Crawler\MarkPThomasScrape\bin" />
       <recent name="C:\Users\Mark\Documents\GitHub\Ruby\Web Crawler\MarkPThomasScrape\lib" />
       <recent name="C:\Users\Mark\Documents\GitHub\Ruby\Web Crawler\SuperTopoScrape\bin" />
       <recent name="C:\Users\Mark\Documents\GitHub\Ruby\Web Crawler\SummitPostScrape\bin" />
-      <recent name="C:\Users\Mark\Documents\GitHub\Ruby\Web Crawler\SuperTopoScrape\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Ruby.app">
+  <component name="RunManager" selected="Ruby.app (1)">
     <configuration default="false" name="SummitPostScrape" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="Web Crawler" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -1275,10 +565,10 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Ruby.app" />
-        <item index="1" class="java.lang.String" itemvalue="Ruby.app (3)" />
-        <item index="2" class="java.lang.String" itemvalue="Ruby.app (2)" />
-        <item index="3" class="java.lang.String" itemvalue="Ruby.app (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Ruby.app (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.app (2)" />
+        <item index="2" class="java.lang.String" itemvalue="Ruby.app" />
+        <item index="3" class="java.lang.String" itemvalue="Ruby.app (3)" />
         <item index="4" class="java.lang.String" itemvalue="Ruby.SummitPostScrape" />
       </list>
     </recent_temporary>
@@ -1309,11 +599,12 @@
       <workItem from="1463367758557" duration="28502000" />
       <workItem from="1463417146164" duration="25213000" />
       <workItem from="1463476209345" duration="729000" />
+      <workItem from="1463541608140" duration="19309000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="236753000" />
+    <option name="totallyTimeSpent" value="256062000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -1328,7 +619,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21028744" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21331316" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21752739" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1337,7 +628,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41784036" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25039124" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1360,32 +651,18 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="311" />
+      <option name="time" value="319" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="RubyRunConfigurationType">
-        <watch expression="row.css('td a')" />
-        <watch expression="row_nodes.count" language="ruby" />
-        <watch expression="routes[route][:id]" />
+        <watch expression="trip_report_submit_page.parser" language="ruby" />
+        <watch expression="test.parser.css('div#status_msg')" language="ruby" />
+        <watch expression="test.parser" language="ruby" />
+        <watch expression="trip_report_submit_page.parser" language="ruby" />
       </configuration>
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MtnProjScrape/lib/MtnProjScrape.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.2-x64-mingw32/lib/nokogiri/xml/searchable.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1802">
-          <caret line="106" column="0" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/nokogiri-1.6.7.2-x64-mingw32/lib/nokogiri/xml/node_set.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3162">
@@ -1648,39 +925,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SummitPostScrape/bin/app.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SuperTopoScrape/lib/SuperTopoScrape.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="84" column="43" selection-start-line="84" selection-start-column="43" selection-end-line="84" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SuperTopoScrape/bin/app.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/ruby-debug-ide-0.6.1.beta2/lib/ruby-debug-ide.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="88" column="0" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SummitPostScrape/lib/SummitPostScrape.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="131" column="6" selection-start-line="131" selection-start-column="2" selection-end-line="131" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1704,6 +952,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SuperTopoScrape/lib/SuperTopoPush.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SuperTopoScrape/bin/app.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SummitPostScrape/lib/Profile.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SummitPostScrape/bin/app.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SummitPostScrape/lib/SummitPostScrape.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="70" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SuperTopoScrape/lib/SuperTopoScrape.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-289">
+          <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
           <folding />
         </state>
       </provider>

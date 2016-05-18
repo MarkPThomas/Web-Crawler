@@ -8,12 +8,72 @@ require_relative '../../lib/LibFileReadWrite'
 # See: http://ruby.bastardsbook.com/chapters/html-parsing/
 # See: http://ruby.bastardsbook.com/chapters/web-crawling/
 # See: http://ruby.bastardsbook.com/chapters/mechanize/
+# See: http://mechanize.rubyforge.org/GUIDE_rdoc.html
+# See: http://mechanize.rubyforge.org/EXAMPLES_rdoc.html
 
 BASE_URL = 'http://www.supertopo.com'
 ROUTE_SEARCH_URL = '/routesearch.php'
 
 # SuperTopo star ratings are on a scale of 0-5
 MAX_STAR_RATING = 5
+
+def submit_image(image)
+
+end
+
+def get_latest_image_id
+
+end
+
+def submit_trip_report(title, content, keywords = nil, username, password)
+  a = Mechanize.new { |agent|
+    # SuperTopo redirects after login
+    agent.follow_meta_refresh = true
+  }
+
+  a.get(BASE_URL) { |home_page|
+    puts "Signing in to #{BASE_URL}"
+    signin_page = a.click(home_page.link_with(:text => /Sign In/))
+
+    my_page = signin_page.form_with(:name => 'editform') { |form|
+      form.email  = username
+      form.passwd = password
+    }.submit
+
+    # Click the profile page link
+    puts 'Going to the profile page'
+    profile_page = a.click(my_page.link_with(:text => /My Settings/))
+
+    puts 'Going to the Trip Reports tab'
+    trip_reports_page = a.click(profile_page.link_with(:text => /Your Trip Reports/))
+
+    puts 'Posting a New Trip Report'
+    trip_report_submit_page = a.click(trip_reports_page.link_with(:text => /Post a New Trip Report/))
+
+    # Note: For adding to an existing route, the following is added to the route and keywords:
+    # Search route, and from selected result:
+    # Route Name, Rating, Formation, Climbing Area
+    # This needs to be done by looking up the route on the trip report submittal form.
+    # TODO get_route
+    route_info = '' #'Regular Route, 5.4, Sunnyside Bench, Yosemite Valley, California USA'
+
+    #TODO submit_photo    #TODO get_photo_id
+    # Add photo ID at beginning of content, as [photoid=343943]
+
+    keywords_route = "#{route_info}"
+    !keywords.nil? ? total_keywords = keywords : total_keywords = keywords_route
+    total_keywords += ', ' + keywords_route if (!keywords.nil? && !total_keywords.empty? && !keywords_route.empty?)
+
+    trip_report_submit_page.form_with(:name => 'editform') {|form|
+      form.title  = title
+      form.main_text = content
+      form.route_info = route_info
+      form.keywords = total_keywords
+    }.submit
+
+    puts 'Trip report submitted'
+  }
+end
 
 def search_route_reference(search_term)
   puts "Searching for route: #{search_term}"
@@ -125,10 +185,10 @@ def get_profile_trip_reports(username, password)
     puts "Signing in to #{BASE_URL}"
     signin_page = a.click(home_page.link_with(:text => /Sign In/))
 
-    my_page = signin_page.form_with(:name => 'editform') do |form|
+    my_page = signin_page.form_with(:name => 'editform') { |form|
       form.email  = username
       form.passwd = password
-    end.submit
+    }.submit
 
     # Click the profile page link
     puts 'Going to the profile page'

@@ -7,6 +7,8 @@ require_relative '../../lib/LibFileReadWrite'
 
 # See: http://ruby.bastardsbook.com/chapters/html-parsing/
 # See: http://ruby.bastardsbook.com/chapters/web-crawling/
+# See: http://mechanize.rubyforge.org/GUIDE_rdoc.html
+# See:  http://mechanize.rubyforge.org/EXAMPLES_rdoc.html
 
 BASE_URL = 'http://www.summitpost.org'
 ROUTE_SEARCH_URL = '/object_list.php'
@@ -14,8 +16,129 @@ ROUTE_SEARCH_URL = '/object_list.php'
 # SummitPost star ratings are on a scale of 0-5
 MAX_STAR_RATING = 5
 
+def submit_image(image)
+  a = Mechanize.new { |agent|
+    # SummitPost redirects after login
+    agent.follow_meta_refresh = true
+  }
+
+  a.get(BASE_URL) { |home_page|
+    puts "Signing in to #{BASE_URL}"
+    signin_page = a.click(home_page.link_with(:text => /Sign-In/))
+
+    my_page = signin_page.form_with(:name => 'cms_login') { |form|
+      form.username  = username
+      form.password = password
+    }.submit
+
+    # Click the profile page link
+    puts 'Creating a new page'
+    object_page = a.click(my_page.link_with(:text => /Create Page/))
+
+    puts 'Specifying a trip report object'
+    trip_report_submit_page = object_page.form_with(:name => 'select_type_form') { |form|
+      form.radiobuttons_with(:name => 'obj_type')[7].check   # Image Value = 3
+    }.submit
+
+    puts 'Submitting a new image'
+    image_title = 'Test Image'  # image[:title]
+    caption = 'Test Caption'    # image[:caption]
+    #image_file_name = ''       # image[:file_name]
+    image_types = []            # image[:types]
+    latitude = '1.23'
+    longitude = '4.56'
+
+    image_submit_page.form_with() { |form|
+      form.field_with(:name => 'construction').value = ['Yes']
+      form.object_name  = image_title
+      #form.media_file = image_file_name  #TODO
+      form.field_with(:name => 'tags[]').value = image_types
+      form.latitude = latitude
+      form.longitude = longitude
+      form.object_body_nft = caption
+
+      a.submit(form, form.buttons.first)
+    }
+
+    puts 'Image submitted'
+  }
+
+
+end
+
+def get_latest_image_id
+
+end
+
+def submit_trip_report(trip_report, username, password)
+  a = Mechanize.new { |agent|
+    # SummitPost redirects after login
+    agent.follow_meta_refresh = true
+  }
+
+  a.get(BASE_URL) { |home_page|
+    puts "Signing in to #{BASE_URL}"
+    signin_page = a.click(home_page.link_with(:text => /Sign-In/))
+
+    my_page = signin_page.form_with(:name => 'cms_login') { |form|
+      form.username  = username
+      form.password = password
+    }.submit
+
+    # Click the profile page link
+    puts 'Creating a new page'
+    object_page = a.click(my_page.link_with(:text => /Create Page/))
+
+    puts 'Specifying a trip report object'
+    trip_report_submit_page = object_page.form_with(:name => 'select_type_form') { |form|
+      form.radiobuttons_with(:name => 'obj_type')[13].check   # Trip Report Value = 5
+    }.submit
+
+    puts 'Posting a new Trip Report'
+    title = 'Test Title'  #trip_report[:title]
+    latitude = '1.23'
+    longitude = '4.56'
+    #gpx_file_name
+    continent = 'North America'
+    country = 'United States'
+    us_state = 'Utah'
+    province_name = 'Moo'
+    day = '01'
+    month = 'Jan'
+    year = '2016'
+    activities = ['Mountaineering', 'Sport Climbing']
+    seasons = ['Summer', 'Fall']
+    image_id = '695424'
+    content = 'Test Content'  #trip_report[:content]
+
+    trip_report_submit_page.form_with(:name => 'object_attributes') { |form|
+      form.field_with(:name => 'construction').value = ['Yes']
+      form.object_name  = title
+      form.query_name = title
+      #form.gpx_file = gpx_file_name #TODO
+      form.field_with(:name => 'continent[]').value = [continent]
+      form.field_with(:name => 'country[]').value = [country]
+      form.field_with(:name => 'state_province[]').value = [us_state]
+      form.province = province_name
+      form.latitude = latitude
+      form.longitude = longitude
+      form.field_with(:name => 'date_climbed[d]').value = [day]   # e.g. 01
+      form.field_with(:name => 'date_climbed[M]').value = [month] # e.g. Jan
+      form.field_with(:name => 'date_climbed[Y]').value = [year]  # e.g. 2016
+      form.field_with(:name => 'activities[]').value = activities
+      form.field_with(:name => 'seasons[]').value = seasons
+      form.primary_photo = image_id
+      form.object_body_ft = content
+
+      a.submit(form, form.buttons.first)
+    }
+
+    puts 'Trip report submitted'
+  }
+end
+
 # ================================
-# Supporting Methods: Entry Points: Search Results
+# Entry Points: Search Results
 # ================================
 def search_route_reference(search_term)
   puts "Searching for route: #{search_term}"
@@ -74,6 +197,14 @@ def search_reference(search_term, search_type)
     search_results = get_search_page_results(my_results, search_type)
   }
   search_results
+end
+
+def select_option(form, field_name, text)
+  value = nil
+  form.field_with(:name => field_name).options.each{|o| value = o if o.text == text }
+
+  raise ArgumentError, "No option with text '#{text}' in field '#{field_id}'" unless value
+  form.field_with(:name => field_name).value = value
 end
 
 # ================================
